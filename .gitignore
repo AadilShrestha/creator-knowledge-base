@@ -1,0 +1,41 @@
+# Machine-specific work from the initial Windows build.
+/_tools/
+/_work/
+/*.log
+/test_target.txt
+/.venv/
+**/__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+!.env.example
+
+# Keep original downloads local; share only derived text evidence.
+/knowledge-base/raw/**
+!/knowledge-base/raw/**/
+!/knowledge-base/raw/**/_transcripts/**/*.txt
+!/knowledge-base/raw/**/_transcripts/**/*.srt
+!/knowledge-base/raw/**/_transcripts/**/*.json
+!/knowledge-base/raw/**/_extracted/**/*.md
+!/knowledge-base/raw/**/_extracted/**/*.txt
+!/knowledge-base/raw/**/_extracted/**/*.json
+!/knowledge-base/raw/**/_extracted/**/*.csv
+
+# Media, model weights, and downloads never belong in this Git repo.
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.mp3
+*.m4a
+*.wav
+*.flac
+*.zip
+*.safetensors
+*.gguf
+*.ggml
+*.pt
+*.npz
+*.partial
+*.tmp

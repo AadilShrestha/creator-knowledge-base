@@ -1,0 +1,476 @@
+1
+00:00:00,240 --> 00:00:02,920
+So the last step on here, obviously, is to test it.
+
+2
+00:00:03,020 --> 00:00:06,920
+So if you're going to go through and do a bunch of analysis on your entire ad account,
+
+3
+00:00:07,000 --> 00:00:11,140
+trying to figure out which identity you're currently mapping to, which ones have the
+
+4
+00:00:11,140 --> 00:00:15,160
+best opportunity, which ones are probably not going to be ones that we're going to,
+
+5
+00:00:15,340 --> 00:00:18,200
+I don't know, like really just scale into this year.
+
+6
+00:00:18,940 --> 00:00:21,900
+One of the best ways to do this, obviously, is just to be very self-aware about how you
+
+7
+00:00:21,900 --> 00:00:22,340
+test.
+
+8
+00:00:23,780 --> 00:00:26,480
+Here's one thing that I think everybody needs to know from the get-go.
+
+9
+00:00:26,640 --> 00:00:30,080
+You're not going to be testing which ads convert the best, right?
+
+10
+00:00:30,080 --> 00:00:33,260
+So conversions are a piece of this puzzle, but they're not everything.
+
+11
+00:00:33,580 --> 00:00:36,720
+What we are testing when you do a self-test, right?
+
+12
+00:00:36,760 --> 00:00:41,000
+So what we're doing is like these sense of self kind of structured tests in the ad account
+
+13
+00:00:41,000 --> 00:00:42,560
+is we're testing for identity.
+
+14
+00:00:42,800 --> 00:00:44,500
+So who's responding the fastest?
+
+15
+00:00:44,920 --> 00:00:46,880
+Who's responding the strongest, the deepest?
+
+16
+00:00:47,440 --> 00:00:49,820
+And that's kind of where the power of this system kind of kicks in.
+
+17
+00:00:49,960 --> 00:00:54,960
+So to start, we're going to actually take the three variants of your ad.
+
+18
+00:00:55,020 --> 00:00:57,380
+So one for actual, one for ideal, one for ought.
+
+19
+00:00:57,380 --> 00:01:01,820
+We are going to throw this in one specific ad set in one campaign, right?
+
+20
+00:01:02,400 --> 00:01:04,380
+So everybody's got a different campaign set up these days.
+
+21
+00:01:05,500 --> 00:01:09,260
+Whichever campaign is going to give these ads good spend is pretty important here.
+
+22
+00:01:09,380 --> 00:01:12,400
+So set up a campaign, go ahead and set up one ad set.
+
+23
+00:01:12,500 --> 00:01:15,520
+And in that ad set, we're going to take three different versions of these ads.
+
+24
+00:01:15,660 --> 00:01:17,980
+One for actual, one for ideal, and one for ought.
+
+25
+00:01:18,180 --> 00:01:19,820
+You're going to keep everything the same.
+
+26
+00:01:20,020 --> 00:01:22,800
+Same product, same landing page, same price, same everything.
+
+27
+00:01:22,800 --> 00:01:25,520
+The only thing that's going to be different is the ad.
+
+28
+00:01:25,600 --> 00:01:27,560
+So that's step two, keep everything else the same.
+
+29
+00:01:28,000 --> 00:01:34,120
+Step three in here is going to be to run these ads and watch for pattern differences in performance.
+
+30
+00:01:34,760 --> 00:01:38,960
+So obviously in this last slide, all three of these aren't like, they're sort of the same,
+
+31
+00:01:39,320 --> 00:01:40,960
+but they're not actually the same.
+
+32
+00:01:41,060 --> 00:01:44,060
+I would rather you get like basically everything all the way the same.
+
+33
+00:01:44,440 --> 00:01:47,900
+And the only reason these are designed differently is because I didn't have access to this piece
+
+34
+00:01:47,900 --> 00:01:49,160
+of like the original piece of creative.
+
+35
+00:01:49,160 --> 00:01:53,240
+Um, so I had to design two others that were like sort of the same, but not the same in
+
+36
+00:01:53,240 --> 00:01:54,160
+an actual test though.
+
+37
+00:01:54,280 --> 00:01:58,400
+I want you to do everything as close to like carefully constructed as possible.
+
+38
+00:01:58,760 --> 00:02:03,220
+That way we can get some really good data on how is the messaging actually hitting.
+
+39
+00:02:03,340 --> 00:02:04,700
+So just caveat there.
+
+40
+00:02:04,860 --> 00:02:06,540
+This is because Sarah didn't have access to that ad.
+
+41
+00:02:06,700 --> 00:02:10,380
+So in general though, you're going to watch for pattern differences in performance.
+
+42
+00:02:10,800 --> 00:02:12,320
+Here's what you're probably going to see.
+
+43
+00:02:12,460 --> 00:02:17,380
+If you're activating actual self really, really well, you're going to see a lower click
+
+44
+00:02:17,380 --> 00:02:21,280
+through rates, but higher AOV, very, very stable returns.
+
+45
+00:02:21,280 --> 00:02:25,100
+And this is based upon just a bunch of statistical analysis that I've done on running a bunch of
+
+46
+00:02:25,100 --> 00:02:26,700
+these ads through the system.
+
+47
+00:02:27,100 --> 00:02:30,280
+Actual self is interesting because if you're in this mode of thinking about the present
+
+48
+00:02:30,280 --> 00:02:32,580
+moment, you're usually not going to be click happy.
+
+49
+00:02:33,100 --> 00:02:36,360
+You're just going to be like scrolling through, trying to get to what you want to see.
+
+50
+00:02:36,400 --> 00:02:37,960
+And then you're skipping out of social media.
+
+51
+00:02:38,200 --> 00:02:42,360
+Your AOV though is probably going to be higher because you're so aligned really, really well
+
+52
+00:02:42,360 --> 00:02:47,320
+with that particular product that your identity gets activated after the ad, right?
+
+53
+00:02:47,380 --> 00:02:50,700
+So that's, this is what you're going to see if you're activating actual self really, really
+
+54
+00:02:50,700 --> 00:02:54,540
+well, lower click through rates, higher AOV and stable returns.
+
+55
+00:02:55,020 --> 00:02:58,780
+If you're activating ideal self, the performance markers you're going to want to look for is
+
+56
+00:02:58,780 --> 00:02:59,880
+high click through rate.
+
+57
+00:03:00,240 --> 00:03:04,440
+Anybody who's in like, I want to become something is really click happy because they're trying
+
+58
+00:03:04,440 --> 00:03:05,260
+to figure it out, right?
+
+59
+00:03:05,260 --> 00:03:09,140
+They're in this kind of exploratory evaluative mode where they're just like, somebody give
+
+60
+00:03:09,140 --> 00:03:09,740
+me an answer, right?
+
+61
+00:03:09,740 --> 00:03:12,620
+So high click through rate comes out for this particular customer type.
+
+62
+00:03:12,960 --> 00:03:16,600
+They're going to have lower AOV because they've not, they don't really trust the product yet.
+
+63
+00:03:17,500 --> 00:03:22,420
+So if you've got a lot of ideal self customer types in your funnel, you're going to see low
+
+64
+00:03:22,420 --> 00:03:24,360
+AOV, really fast clicks though.
+
+65
+00:03:24,500 --> 00:03:28,800
+Lots of engagement on your ads, just like not a whole lot of commitment, if that makes sense.
+
+66
+00:03:29,280 --> 00:03:32,480
+And for opt self in particular, what you're going to see is you're going to see very slow
+
+67
+00:03:32,480 --> 00:03:32,880
+starts.
+
+68
+00:03:33,120 --> 00:03:35,060
+It's going to be like, God, we cannot get traction.
+
+69
+00:03:35,400 --> 00:03:37,980
+We've had this ad running for like two weeks and nothing's going on.
+
+70
+00:03:37,980 --> 00:03:42,240
+And then all of a sudden it will fricking hit strong intent from these guys though.
+
+71
+00:03:42,820 --> 00:03:47,780
+Anybody that's in this opt self version, high LTV customers, because they feel as though
+
+72
+00:03:47,780 --> 00:03:48,320
+they should.
+
+73
+00:03:48,500 --> 00:03:53,000
+And as soon as they get attached to doing something out of duty, they will continue to do it.
+
+74
+00:03:53,060 --> 00:03:56,900
+They are, these are the, like, I thought they're just such a good customer type for businesses
+
+75
+00:03:56,900 --> 00:04:02,320
+because if you're shopping in opt self, you will get very, very loyal, very quickly because
+
+76
+00:04:02,320 --> 00:04:06,080
+you feel this sense of responsibility to yourself, to your family, to whoever else.
+
+77
+00:04:06,080 --> 00:04:07,780
+This is what you're going to see from them though.
+
+78
+00:04:07,960 --> 00:04:12,540
+Really slow start, strong intent though, on the purchasing side, lots of add to carts,
+
+79
+00:04:12,780 --> 00:04:13,380
+high LTV.
+
+80
+00:04:14,360 --> 00:04:16,220
+That's kind of what you're going to see from the opt self.
+
+81
+00:04:16,900 --> 00:04:21,340
+To wrap up here though, I think most brands kind of stall out, not because they're lazy
+
+82
+00:04:21,340 --> 00:04:22,740
+or unskilled.
+
+83
+00:04:23,300 --> 00:04:24,960
+And it's not because we're bad at creative.
+
+84
+00:04:25,060 --> 00:04:26,900
+Like all of us are really, really skilled at this now.
+
+85
+00:04:27,380 --> 00:04:30,280
+I think we stall out mostly because we hit a wall.
+
+86
+00:04:30,500 --> 00:04:33,640
+We're targeting the same version of the same customer over and over and over.
+
+87
+00:04:33,640 --> 00:04:35,920
+And the worst part is we don't even realize we're doing it.
+
+88
+00:04:36,220 --> 00:04:38,600
+It's just happening because we get bias.
+
+89
+00:04:39,560 --> 00:04:41,060
+Marketers are human too.
+
+90
+00:04:41,260 --> 00:04:45,600
+We get so over biased to one type of marketing that we just can't pull out of it.
+
+91
+00:04:45,840 --> 00:04:49,560
+So your ads may be working, but maybe they're not scaling, right?
+
+92
+00:04:49,580 --> 00:04:52,940
+Or your angles might be converting, but then they tend to fatigue.
+
+93
+00:04:53,140 --> 00:04:55,340
+It's like, we can't get this, any other angle to work.
+
+94
+00:04:55,380 --> 00:04:56,180
+It's just this one.
+
+95
+00:04:56,300 --> 00:04:57,960
+And what happens if that one stops working?
+
+96
+00:04:58,480 --> 00:05:02,800
+Really, if you narrow in on identity, it's a pretty unsafe way to scale.
+
+97
+00:05:03,640 --> 00:05:07,500
+And at the end of the day, we have to be able to branch out using a system that's kind of
+
+98
+00:05:07,500 --> 00:05:08,760
+designed for this, right?
+
+99
+00:05:08,840 --> 00:05:14,900
+So we have to be able to diagnose who we're speaking to, reframe all of our angles for that
+
+100
+00:05:14,900 --> 00:05:20,560
+kind of new emotional entry point, and then test it all using kind of like a very systematized
+
+101
+00:05:20,560 --> 00:05:28,520
+messaging program that matches how your customers see themselves today in three different versions,
+
+102
+00:05:28,640 --> 00:05:28,780
+right?
+
+103
+00:05:28,780 --> 00:05:30,060
+Three different forms of themselves.
+
+104
+00:05:30,540 --> 00:05:36,220
+And this is how you kind of make your ads a little bit more of this auto-target kind of a system
+
+105
+00:05:36,220 --> 00:05:40,700
+and reduce angle fatigue, angle rut that you've been in for so long.
+
+106
+00:05:40,980 --> 00:05:46,160
+So no new offers are needed, no complicated funnels, really just a deeper understanding of sense of self,
+
+107
+00:05:46,640 --> 00:05:46,820
+right?
+
+108
+00:05:46,940 --> 00:05:49,500
+Self-discrepancy theory is massive for marketing.
+
+109
+00:05:49,620 --> 00:05:54,160
+It's incredibly, incredibly powerful to understand how this works and meet your customers where they are.
+
+110
+00:05:54,160 --> 00:06:00,280
+So this week, I want you to go run a self-targeting scan, pick your next segment, open the door to
+
+111
+00:06:00,280 --> 00:06:05,140
+buyers, and really just go target the ones you haven't even met yet just by shifting a little bit
+
+112
+00:06:05,140 --> 00:06:09,940
+towards the current version of themselves and see if you can activate a totally new customer because
+
+113
+00:06:09,940 --> 00:06:12,420
+at the end of the day, that's how we scale our ad accounts.
+
+114
+00:06:13,160 --> 00:06:14,020
+Appreciate you guys.
+
+115
+00:06:14,160 --> 00:06:16,080
+All of the resources are going to be down below.
+
+116
+00:06:16,520 --> 00:06:17,920
+Get into this, dive into this.
+
+117
+00:06:17,940 --> 00:06:21,380
+And if you have any questions at all, please, please, please DM me or comment.
+
+118
+00:06:21,380 --> 00:06:27,120
+Obviously, we're here for you guys just to help you get set up, but I can't wait to see what you create.
+
+119
+00:06:27,340 --> 00:06:28,100
+Thanks for watching.
+

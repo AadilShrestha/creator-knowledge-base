@@ -1,0 +1,524 @@
+1
+00:00:00,270 --> 00:00:05,710
+Okay, so we have gone through a few of these mental heuristics, the psychological shortcuts
+
+2
+00:00:05,710 --> 00:00:06,830
+that we're trading on today.
+
+3
+00:00:07,130 --> 00:00:13,050
+We've done scarcity, social proof, authority proof, effects heuristic, processing fluency
+
+4
+00:00:13,050 --> 00:00:15,890
+bias, and then the last one we did was temporal discounting.
+
+5
+00:00:16,290 --> 00:00:18,410
+Let's move on to some other ones here.
+
+6
+00:00:18,830 --> 00:00:20,310
+These are going to be really, really interesting.
+
+7
+00:00:20,710 --> 00:00:25,570
+Obviously, we are wired to move, right, when something is urgent, novel, or like clearly
+
+8
+00:00:25,570 --> 00:00:26,110
+worth it.
+
+9
+00:00:26,410 --> 00:00:30,030
+But these next three heuristics are going to influence attention, motivation, and
+
+10
+00:00:30,030 --> 00:00:33,390
+specifically pricing psychology, which we can talk a lot more about.
+
+11
+00:00:33,530 --> 00:00:39,430
+So this first one, salience bias, this is a really interesting one, mostly because it
+
+12
+00:00:39,430 --> 00:00:43,250
+really just talks about the fact that like we have shiny quarter syndrome as humans.
+
+13
+00:00:44,170 --> 00:00:49,090
+This one, salience bias is all about like attention, really just what stands out captures
+
+14
+00:00:49,090 --> 00:00:50,170
+a whole lot of attention.
+
+15
+00:00:50,650 --> 00:00:54,970
+And the reason why this works is novelty really does trigger awareness for the brain.
+
+16
+00:00:54,970 --> 00:00:56,490
+It flags it as important.
+
+17
+00:00:56,490 --> 00:01:02,050
+So if it sees something like kind of this bright sea of like this peachy color, and then you
+
+18
+00:01:02,050 --> 00:01:06,150
+have something blue in the center with text on top of it, that's breaking up a little bit
+
+19
+00:01:06,150 --> 00:01:11,170
+of this ad, the brain is going to kind of get sucked into the middle where this kind of black
+
+20
+00:01:11,170 --> 00:01:13,070
+color is, right?
+
+21
+00:01:13,330 --> 00:01:19,710
+So salience bias can be used in this particular way, where you're kind of breaking up a little
+
+22
+00:01:19,710 --> 00:01:22,830
+bit of this color on the outside with darker colors on the inside.
+
+23
+00:01:22,830 --> 00:01:27,430
+But the best way to use salience bias that I've ever seen is actually just to make everything
+
+24
+00:01:27,430 --> 00:01:33,930
+around one color, like white space, and then something dead in the center, another color
+
+25
+00:01:33,930 --> 00:01:34,970
+that's pretty drastic.
+
+26
+00:01:34,970 --> 00:01:37,590
+So red, orange, black, those type of things.
+
+27
+00:01:38,050 --> 00:01:40,530
+Muted colors in particular tend to kind of wash together.
+
+28
+00:01:40,750 --> 00:01:45,090
+But if you have one bright color on the outside and darker colors on the inside, this is kind
+
+29
+00:01:45,090 --> 00:01:47,290
+of how salience bias gets used.
+
+30
+00:01:47,290 --> 00:01:54,010
+So applications for this, use some very visual contrast, like bold colors, odd formats, odd
+
+31
+00:01:54,010 --> 00:01:58,590
+objects can also be used pretty well if you want to start using salience bias in your ads.
+
+32
+00:01:58,590 --> 00:02:04,290
+But in particular, this one just comes down to something that's strange, odd, or something
+
+33
+00:02:04,290 --> 00:02:07,110
+that's like just a little bit different color, right?
+
+34
+00:02:07,230 --> 00:02:08,730
+Contrast between two things.
+
+35
+00:02:09,190 --> 00:02:10,950
+So that's salience bias.
+
+36
+00:02:11,770 --> 00:02:12,450
+Goal gradient effect.
+
+37
+00:02:12,590 --> 00:02:13,430
+Oh, I love this one.
+
+38
+00:02:13,430 --> 00:02:17,930
+I cannot get enough of this particular one because it helps me just in general as a human.
+
+39
+00:02:18,090 --> 00:02:24,050
+So what this is, the closer we feel to a goal, the more motivated we get to go after that goal.
+
+40
+00:02:24,430 --> 00:02:28,850
+So the reason why this one works is because progress, especially near the finish line,
+
+41
+00:02:29,250 --> 00:02:30,630
+is pretty sensitive, right?
+
+42
+00:02:30,650 --> 00:02:32,410
+Like the brain is very, very sensitive to it.
+
+43
+00:02:32,610 --> 00:02:35,990
+If it can see the carrot, it will just keep going after it.
+
+44
+00:02:36,550 --> 00:02:41,590
+So in general, humans are very, very emotional about their goals, right?
+
+45
+00:02:41,590 --> 00:02:47,090
+So for example, for this particular ad, this looks pretty normal, like give them a gift
+
+46
+00:02:47,090 --> 00:02:47,910
+that holds on the memories.
+
+47
+00:02:48,050 --> 00:02:50,230
+We've got some best gifts, some social proof, all kinds of things.
+
+48
+00:02:50,390 --> 00:02:53,830
+Where we're using the goal gradient effect here though, is this.
+
+49
+00:02:54,130 --> 00:02:59,150
+So we added this, like you are here, kind of a message with an arrow that starts at a
+
+50
+00:02:59,150 --> 00:03:01,530
+particular action, right?
+
+51
+00:03:01,610 --> 00:03:02,850
+So pick a size.
+
+52
+00:03:02,930 --> 00:03:04,090
+That's where they are.
+
+53
+00:03:04,210 --> 00:03:05,190
+And we need to show them.
+
+54
+00:03:05,230 --> 00:03:09,470
+You only have two more steps to get to what you want, which is this quilt made out of all
+
+55
+00:03:09,470 --> 00:03:13,650
+of these awesome t-shirts that you've collected over time to give as like a memory or a keepsake.
+
+56
+00:03:14,250 --> 00:03:16,950
+This goal gradient effect can be used everywhere.
+
+57
+00:03:17,730 --> 00:03:22,570
+CRO is typically where I see it best used, where people will put a bar at the top of like,
+
+58
+00:03:22,630 --> 00:03:23,470
+here's where you are.
+
+59
+00:03:23,550 --> 00:03:24,190
+You're in your cart.
+
+60
+00:03:24,390 --> 00:03:25,310
+The next is payment.
+
+61
+00:03:25,550 --> 00:03:27,930
+The next is, you know, giving us all of your information for shipping.
+
+62
+00:03:28,190 --> 00:03:29,370
+And then the next is checkout.
+
+63
+00:03:29,610 --> 00:03:34,010
+They're using the goal gradient effect to help people understand how close they are to the goal.
+
+64
+00:03:34,010 --> 00:03:39,130
+This one in particular, like I said, progress bars, completion steps, unlockable rewards,
+
+65
+00:03:39,230 --> 00:03:40,070
+those type of things.
+
+66
+00:03:40,470 --> 00:03:43,970
+Really, really powerful if you want to use the goal gradient effect.
+
+67
+00:03:44,370 --> 00:03:46,010
+I love this one.
+
+68
+00:03:46,490 --> 00:03:51,990
+I wish we would use this so more often, understanding and placing people in the sequence of where
+
+69
+00:03:51,990 --> 00:03:53,330
+they are in the purchasing process.
+
+70
+00:03:54,030 --> 00:03:55,210
+Huge, huge for the brain.
+
+71
+00:03:55,830 --> 00:03:56,010
+Okay.
+
+72
+00:03:56,670 --> 00:03:58,650
+Last one on here out of nine.
+
+73
+00:03:58,810 --> 00:04:00,590
+This one is probably one of my favorites.
+
+74
+00:04:00,810 --> 00:04:02,610
+Like, oh, might be my ultimate favorite.
+
+75
+00:04:02,610 --> 00:04:03,730
+But framing effect.
+
+76
+00:04:04,010 --> 00:04:06,250
+This one is so freaking powerful.
+
+77
+00:04:06,670 --> 00:04:11,030
+I have never seen a heuristic be so versatile, I would say.
+
+78
+00:04:11,110 --> 00:04:15,670
+You can use this everywhere in any capacity to explain things in different ways.
+
+79
+00:04:15,810 --> 00:04:17,910
+So how you present the information.
+
+80
+00:04:18,070 --> 00:04:18,830
+This is what it comes down to.
+
+81
+00:04:19,250 --> 00:04:22,930
+Framing effect is all about how you present whatever it is you're trying to say.
+
+82
+00:04:22,930 --> 00:04:25,150
+Because it will change how people perceive it.
+
+83
+00:04:25,570 --> 00:04:27,570
+Especially if the numbers are the same.
+
+84
+00:04:27,690 --> 00:04:29,070
+And I'm going to explain what that means in a second.
+
+85
+00:04:29,070 --> 00:04:34,730
+But the reason why this works, this differentiation of explaining things, is because the brain
+
+86
+00:04:34,730 --> 00:04:37,490
+does not evaluate absolute value.
+
+87
+00:04:38,250 --> 00:04:40,430
+It doesn't evaluate absolute value.
+
+88
+00:04:40,650 --> 00:04:46,930
+Meaning it won't take a phone or, I don't know, a remote control, glasses, or anything
+
+89
+00:04:46,930 --> 00:04:50,230
+else it's looking at, and say, what is this made of?
+
+90
+00:04:50,450 --> 00:04:51,930
+What did that material cost?
+
+91
+00:04:52,230 --> 00:04:54,410
+And what kind of value should I place on this?
+
+92
+00:04:54,830 --> 00:04:59,390
+What it actually does is just compares to what is kind of the environment around it.
+
+93
+00:04:59,790 --> 00:05:04,310
+So this is the reason why, for this particular ad, when we were designing it for these guys,
+
+94
+00:05:05,170 --> 00:05:09,010
+lots of different ways that you could say, like, this is going to last a long time.
+
+95
+00:05:09,010 --> 00:05:15,250
+Uh, we could have just put a hundred milliliters on here and hoped that our audience would understand
+
+96
+00:05:15,250 --> 00:05:18,610
+how long a hundred mill, like, bottle lasts.
+
+97
+00:05:18,870 --> 00:05:23,930
+However, I wasn't quite sure if this particular audience knew what that meant.
+
+98
+00:05:23,970 --> 00:05:28,990
+If you have a whole bunch of bottles of perfume on your dresser and all of them say a hundred
+
+99
+00:05:28,990 --> 00:05:34,350
+mil, but some of them get used faster than others, how do you know how long that hundred
+
+100
+00:05:34,350 --> 00:05:36,010
+milliliter bottle is going to last, right?
+
+101
+00:05:36,010 --> 00:05:40,690
+So for this particular one, I decided to break it down by sprays.
+
+102
+00:05:40,710 --> 00:05:43,130
+So we did this breakdown of three sprays per day.
+
+103
+00:05:43,290 --> 00:05:44,230
+This will last one year.
+
+104
+00:05:44,470 --> 00:05:47,510
+If you spray it five times a day, it'll last six to nine months.
+
+105
+00:05:47,650 --> 00:05:50,850
+If you spray it 10 times a day, it'll last about three to five months.
+
+106
+00:05:51,590 --> 00:05:56,210
+This is using the framing effect to take the exact same number.
+
+107
+00:05:56,290 --> 00:05:58,250
+And that's why I talk about it's comparative, right?
+
+108
+00:05:58,710 --> 00:06:02,670
+We could have just said a hundred milliliter bottle, whatever it is, but we decided to go
+
+109
+00:06:02,670 --> 00:06:07,970
+after this spray kind of breakdown, uh, mostly because it's a better way of framing it and
+
+110
+00:06:07,970 --> 00:06:12,230
+the brain will understand it a whole lot better because we took the time to break down, not
+
+111
+00:06:12,230 --> 00:06:15,790
+just like how much is in the bottle, but how many sprays you can get from it.
+
+112
+00:06:15,890 --> 00:06:18,250
+You can use this absolutely everywhere.
+
+113
+00:06:18,450 --> 00:06:21,350
+Try reframing your price in usage terms.
+
+114
+00:06:21,350 --> 00:06:26,030
+Just like we did here, cost per wear, or like long-term value comparison savings.
+
+115
+00:06:26,430 --> 00:06:31,050
+Try really hard to take whatever it is you actually, um, are using as your benefit or
+
+116
+00:06:31,050 --> 00:06:34,150
+your value and break it down into smaller units.
+
+117
+00:06:34,390 --> 00:06:38,450
+Cause these are really going to help you guys, um, push a little bit harder, right?
+
+118
+00:06:38,650 --> 00:06:42,350
+Into what it is you're actually trying to convey, especially if you're going after value
+
+119
+00:06:42,350 --> 00:06:44,370
+or like, um, what is that called?
+
+120
+00:06:44,390 --> 00:06:47,770
+Like budget friendly people who really, really want a good bang for their buck.
+
+121
+00:06:47,770 --> 00:06:51,010
+Like this one in particular, Oh, I love the framing effect.
+
+122
+00:06:51,110 --> 00:06:51,230
+Okay.
+
+123
+00:06:51,990 --> 00:06:55,590
+These here are really going to help people pay attention and they're going to, uh, fuel
+
+124
+00:06:55,590 --> 00:06:58,930
+progress a little bit and, and build believability in your product.
+
+125
+00:06:59,150 --> 00:07:03,970
+Um, but next we're going to kind of talk about how to combine these shortcuts into one specific
+
+126
+00:07:03,970 --> 00:07:04,270
+ad.
+
+127
+00:07:04,350 --> 00:07:06,210
+So you have kind of an exponential effect.
+
+128
+00:07:06,370 --> 00:07:08,830
+These shouldn't be used in standalone waves.
+
+129
+00:07:08,990 --> 00:07:14,350
+These really should be used in tandem with each other combined into one particular ad.
+
+130
+00:07:14,350 --> 00:07:19,370
+That way you can really capitalize on the amount of mental shortcuts that already exist in the
+
+131
+00:07:19,370 --> 00:07:21,290
+brain and you can get to your goal faster.
+

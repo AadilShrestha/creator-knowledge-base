@@ -1,0 +1,416 @@
+1
+00:00:00,700 --> 00:00:01,880
+Okay, welcome back.
+
+2
+00:00:02,180 --> 00:00:06,400
+We are going to start by running through these nine psychological shortcuts that you can
+
+3
+00:00:06,400 --> 00:00:13,620
+use inside your advertising to help the brain do a faster job, basically get to the end of
+
+4
+00:00:13,620 --> 00:00:16,060
+its kind of like double check system that we just talked about.
+
+5
+00:00:16,680 --> 00:00:18,740
+So you can get to the sale faster, right?
+
+6
+00:00:18,780 --> 00:00:23,080
+So all we're trying to do is make it easier for the brain to run through its process of
+
+7
+00:00:23,080 --> 00:00:27,720
+checks balances so that we can get it to get it to move forward, if that makes sense.
+
+8
+00:00:27,720 --> 00:00:30,540
+The very first one we're going to talk about is scarcity heuristics.
+
+9
+00:00:30,760 --> 00:00:34,320
+So this one is interesting because I think a lot of marketers actually understand it.
+
+10
+00:00:34,360 --> 00:00:38,040
+They know what this is, but it goes in a lot of different directions more than what we
+
+11
+00:00:38,040 --> 00:00:39,200
+actually use it for currently.
+
+12
+00:00:40,120 --> 00:00:44,640
+First, I think it's important to note the scarcity heuristic really works off of a little bit
+
+13
+00:00:44,640 --> 00:00:47,020
+of this idea that I'm going to miss out on something, right?
+
+14
+00:00:47,320 --> 00:00:51,500
+So when something feels limited, like it's not going to be here for long or there's limited
+
+15
+00:00:51,500 --> 00:00:54,000
+stock, limited quantity of it, we want it more.
+
+16
+00:00:54,000 --> 00:00:59,600
+The reason why this works is it triggers kind of a survival instinct in us, a primal fear
+
+17
+00:00:59,600 --> 00:01:00,500
+of missing out.
+
+18
+00:01:00,980 --> 00:01:05,540
+And so a lot of people that when I see them use scarcity heuristic, this is typically how
+
+19
+00:01:05,540 --> 00:01:11,180
+they use it is in buttons in particular, ones that say things like our best stock is almost
+
+20
+00:01:11,180 --> 00:01:17,440
+out or our best styles are selling out quickly or limited time offers, limited stock, or like
+
+21
+00:01:17,440 --> 00:01:19,780
+this is never coming back, those types of things.
+
+22
+00:01:19,780 --> 00:01:25,280
+This is how we'd use scarcity heuristic correctly, and I think a lot of us already have a really
+
+23
+00:01:25,280 --> 00:01:25,940
+good handle on this.
+
+24
+00:01:26,220 --> 00:01:29,960
+This one in particular, though, I think it's interesting once you branch out into scarcity
+
+25
+00:01:29,960 --> 00:01:31,120
+in different ways.
+
+26
+00:01:31,480 --> 00:01:35,560
+So a lot of people want to use time as a scarcity, limited time offer, but I think it's even
+
+27
+00:01:35,560 --> 00:01:41,580
+more powerful if you use limited quantities, like we only have 100 of these, or if you can
+
+28
+00:01:41,580 --> 00:01:44,000
+only use limited quantities by customer.
+
+29
+00:01:44,000 --> 00:01:50,820
+So one of the best examples I have of this is KFC ran a very, very large campaign, I think
+
+30
+00:01:50,820 --> 00:01:55,880
+this was in 2014, where they put a limit on the amount that people could have, meaning
+
+31
+00:01:55,880 --> 00:02:03,460
+they were selling their dollar fries, so they told people limited to four packs of fries per
+
+32
+00:02:03,460 --> 00:02:03,840
+customer.
+
+33
+00:02:04,540 --> 00:02:10,060
+The reason that this works when you do quantity style scarcity, it tells people exactly how
+
+34
+00:02:10,060 --> 00:02:15,500
+much you expect them to buy, and it also kind of helps them make a judgment call as to how
+
+35
+00:02:15,500 --> 00:02:18,600
+many packs of things other people are also buying.
+
+36
+00:02:18,980 --> 00:02:24,100
+So scarcity doesn't have to just be time limits, or possibly like product limits, it could also
+
+37
+00:02:24,100 --> 00:02:26,080
+be quantity limits as well.
+
+38
+00:02:26,800 --> 00:02:27,560
+So that's scarcity.
+
+39
+00:02:28,260 --> 00:02:32,500
+Second one on here, social proof, we use this constantly in DTC, we're very, very good,
+
+40
+00:02:32,580 --> 00:02:33,360
+well-versed at it.
+
+41
+00:02:33,360 --> 00:02:38,440
+But this particular one, though, if you don't currently use it a lot, the social proof heuristic
+
+42
+00:02:38,440 --> 00:02:42,760
+basically just says, if we assume that other people like it, it must be good, and I should
+
+43
+00:02:42,760 --> 00:02:43,260
+like it too.
+
+44
+00:02:43,960 --> 00:02:47,720
+Social proof is really interesting for the brain because it causes people to understand
+
+45
+00:02:47,720 --> 00:02:54,980
+very quickly whether or not this item, object, lead magnets, service, whatever it is, whether
+
+46
+00:02:54,980 --> 00:02:55,900
+it's safe, right?
+
+47
+00:02:55,920 --> 00:02:59,340
+If a lot of people have used it, I'm going to assume it's safe, and then I can use it
+
+48
+00:02:59,340 --> 00:02:59,560
+too.
+
+49
+00:02:59,920 --> 00:03:02,420
+We have evolved to follow the crowd for safety.
+
+50
+00:03:02,420 --> 00:03:03,740
+This is really why this works.
+
+51
+00:03:04,320 --> 00:03:10,400
+If you say things like over 10,000 people trust us, or 6,000 five-star reviews, people
+
+52
+00:03:10,400 --> 00:03:15,100
+understand very, very quickly, oh, okay, a lot of people have tested this, so I probably
+
+53
+00:03:15,100 --> 00:03:17,280
+don't need to worry about using this.
+
+54
+00:03:17,740 --> 00:03:22,560
+To apply this, it's very important that we use reviews, testimonials, social media posts,
+
+55
+00:03:22,620 --> 00:03:23,940
+those type of things.
+
+56
+00:03:24,300 --> 00:03:29,400
+But I would push further into this, honestly, because social proof can be all kinds of
+
+57
+00:03:29,400 --> 00:03:30,000
+different things.
+
+58
+00:03:30,000 --> 00:03:32,320
+It doesn't necessarily have to be five stars.
+
+59
+00:03:33,040 --> 00:03:37,960
+Another good example that I saw of this is if you take the social proof you have, 6,000
+
+60
+00:03:37,960 --> 00:03:43,900
+five-star reviews, and talk about what those 6,000 people are, like who they are, instead
+
+61
+00:03:43,900 --> 00:03:51,940
+of the stars, we now get 6,000 sock lovers have adopted whoever this is, or we have 6,000
+
+62
+00:03:51,940 --> 00:03:53,440
+people who have tried it and loved it.
+
+63
+00:03:53,880 --> 00:03:56,980
+So talk about the people instead of the actual five-star review.
+
+64
+00:03:56,980 --> 00:04:02,360
+And oftentimes, you can get a lot better results just by injecting some humanity into your social
+
+65
+00:04:02,360 --> 00:04:02,720
+proof.
+
+66
+00:04:03,860 --> 00:04:05,400
+Next one, authority bias.
+
+67
+00:04:05,520 --> 00:04:09,420
+This one, I think, is used sparingly in the industry, but I wish we would use it more because
+
+68
+00:04:09,420 --> 00:04:14,180
+it's so, so, so, so powerful, especially if you're selling something that's medicalized
+
+69
+00:04:14,180 --> 00:04:16,620
+or something that solves some sort of a medical issue.
+
+70
+00:04:16,620 --> 00:04:23,560
+So this one, what it is, we trust perceived experts, and I say that perceived on purpose.
+
+71
+00:04:24,080 --> 00:04:25,440
+Experts can be basically anybody.
+
+72
+00:04:25,780 --> 00:04:29,520
+They don't have to be doctors, lawyers, or anybody like government officials.
+
+73
+00:04:29,520 --> 00:04:34,460
+Like, experts can also be somebody who just has read a lot, somebody who knows a whole
+
+74
+00:04:34,460 --> 00:04:37,260
+lot about the topic that we're trying to learn more about.
+
+75
+00:04:37,460 --> 00:04:38,920
+It can also be family members.
+
+76
+00:04:39,380 --> 00:04:40,160
+It can be friends.
+
+77
+00:04:40,620 --> 00:04:45,200
+Whoever the authority bias is, this typically works really well for people who are sensitive
+
+78
+00:04:45,200 --> 00:04:49,720
+to authority bias, because following authority figures used to mean survival.
+
+79
+00:04:50,160 --> 00:04:54,420
+If we follow people who are in a position of authority, we have a better chance of staying
+
+80
+00:04:54,420 --> 00:04:56,180
+on the planet for a lot longer.
+
+81
+00:04:56,180 --> 00:05:01,580
+So, examples of these, Dr. Recommended in this particular ad that we designed, this one
+
+82
+00:05:01,580 --> 00:05:06,660
+really just calls out a dermatologist talking about her experience of this product, but we're
+
+83
+00:05:06,660 --> 00:05:12,040
+basically borrowing authority from her because she has some sort of certification or award or
+
+84
+00:05:12,040 --> 00:05:13,060
+expert status.
+
+85
+00:05:13,160 --> 00:05:15,100
+She's a credible niche, right?
+
+86
+00:05:15,580 --> 00:05:16,960
+She has a lot of credibility in her niche.
+
+87
+00:05:17,300 --> 00:05:20,320
+So, these are really, really powerful if you can use them well.
+
+88
+00:05:20,900 --> 00:05:24,480
+So, but I would say with authority bias, you have to be very careful because depending on
+
+89
+00:05:24,480 --> 00:05:29,000
+the authority bias you choose, your audience might not be trusting of authority.
+
+90
+00:05:29,380 --> 00:05:31,440
+And this happens often specifically with boomers.
+
+91
+00:05:32,800 --> 00:05:37,720
+I've found that quite a lot of them tend to trust friend to friend or peer to peer or even
+
+92
+00:05:37,720 --> 00:05:39,900
+nurse or what would they call that?
+
+93
+00:05:39,920 --> 00:05:46,440
+Like functional practitioners over doctor level authority, mostly out of like experience.
+
+94
+00:05:46,440 --> 00:05:52,100
+If you have a customer type who's had bad experiences with authority, particular doctors, it might not
+
+95
+00:05:52,100 --> 00:05:54,460
+be your best practice to use this type of stuff.
+
+96
+00:05:54,600 --> 00:05:58,060
+So, choose your authority bias wisely if you're going to use this one.
+
+97
+00:05:58,480 --> 00:06:03,960
+And in general, make sure that you are very careful with how you are framing this, if that
+
+98
+00:06:03,960 --> 00:06:04,340
+makes sense.
+
+99
+00:06:04,820 --> 00:06:08,760
+These three social biases are obviously very common.
+
+100
+00:06:08,900 --> 00:06:09,580
+We use them a lot.
+
+101
+00:06:09,660 --> 00:06:11,320
+They're also very expected in DTC.
+
+102
+00:06:11,840 --> 00:06:16,300
+Let's go deeper now into some heuristics that marketers never think to use or possibly
+
+103
+00:06:16,300 --> 00:06:21,560
+don't know because these are the ones that I see are doing the biggest numbers in the ad account.
+
+104
+00:06:21,560 --> 00:06:22,740
+So, let's go to that next.
+

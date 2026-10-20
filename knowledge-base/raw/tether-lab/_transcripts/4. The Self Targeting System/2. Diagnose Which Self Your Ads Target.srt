@@ -1,0 +1,156 @@
+1
+00:00:00,590 --> 00:00:06,130
+Hi, hi, welcome back. Okay, so we are talking about the three self targeting system, targeting
+
+2
+00:00:06,130 --> 00:00:10,590
+the three different selves of your customers so that you can draw in more people who might be in
+
+3
+00:00:10,590 --> 00:00:15,570
+the market to buy your products or services or whatever you're selling, specifically based
+
+4
+00:00:15,570 --> 00:00:18,810
+upon who they are underneath, right? Because we talked a little bit about the three different
+
+5
+00:00:18,810 --> 00:00:22,810
+selves and we're going to dive deeper into those in just a second. But before we start,
+
+6
+00:00:22,890 --> 00:00:26,290
+I want you to know that we are going to do some analysis and chat. I have prompts for this so you
+
+7
+00:00:26,290 --> 00:00:29,670
+don't have to worry about like trying to figure it out on your own or trying to draft any prompts
+
+8
+00:00:29,670 --> 00:00:34,230
+on the outside. These are all plug and play for you. But before you go and like copy and paste all
+
+9
+00:00:34,230 --> 00:00:38,670
+of your ads into chat, just know that you don't have to start with a lot of ads to be able to do
+
+10
+00:00:38,670 --> 00:00:44,150
+this analysis. You can take everything down if you want, screenshot everything or take all of your
+
+11
+00:00:44,150 --> 00:00:48,130
+videos, transcribe them. You can do that entire work if you'd like and throw it into chat to analyze.
+
+12
+00:00:48,690 --> 00:00:52,930
+But just know that if you run your entire ad account through there, you're going to likely
+
+13
+00:00:52,930 --> 00:00:57,670
+just be overwhelmed, right? So let's start with a small little sample size. You don't have to have
+
+14
+00:00:57,670 --> 00:01:01,130
+a whole lot of ads to do this analysis. This is great too, if you're just not running a whole lot
+
+15
+00:01:01,130 --> 00:01:05,550
+of ads right now. So no, you do not have to have hundreds of ads to do this. Take what you've got
+
+16
+00:01:05,550 --> 00:01:10,430
+and go ahead and analyze what you have. Or if you do have, you know, hundreds of ads in the ad
+
+17
+00:01:10,430 --> 00:01:14,510
+account, let's just take a sample size of what you got going. And then we'll analyze that. So
+
+18
+00:01:14,510 --> 00:01:20,090
+to start, here's what I recommend. We're going to do for the analysis part, at least we're going to
+
+19
+00:01:20,090 --> 00:01:24,410
+start with nine ads total. We're going to start with three performers, three mid kind of performers,
+
+20
+00:01:24,410 --> 00:01:28,990
+and then three clear flops. So when we go through, we want to kind of get a sense of the metrics on
+
+21
+00:01:28,990 --> 00:01:33,550
+the back end, obviously. Take a look at these ads that were like, dang, these are just crushing for
+
+22
+00:01:33,550 --> 00:01:38,070
+us. Take a look at a few that are like, eh, these are okay, but they're not scaling super well. We're
+
+23
+00:01:38,070 --> 00:01:41,470
+kind of just leaving them on to see what happens. And then three that were like, dang, we ran these and
+
+24
+00:01:41,470 --> 00:01:46,990
+they sucked. Take three of each category. That way, when we do the analysis, we can tell very,
+
+25
+00:01:47,090 --> 00:01:51,930
+very clearly what happened in each and every one of these ad groups when it comes to actually
+
+26
+00:01:51,930 --> 00:01:54,890
+targeting the ideal self of your customer or the selves of your customer, I should say.
+
+27
+00:01:55,190 --> 00:01:59,290
+So this is going to give you a clean diagnostic set, right? Which self are you speaking to?
+
+28
+00:01:59,450 --> 00:02:03,730
+Which self is being ignored in the ad account? And where is their opportunity to kind of unlock
+
+29
+00:02:03,730 --> 00:02:09,470
+a net new audience? I call this kind of a nine ad identity scan. So when you do this, you take down
+
+30
+00:02:09,470 --> 00:02:13,450
+a good, like I said, sample size, but this is going to help you identify which self is being
+
+31
+00:02:13,450 --> 00:02:18,670
+activated the most during the purchasing process. And oftentimes this comes down to, as marketers,
+
+32
+00:02:18,670 --> 00:02:25,250
+we have a very specific customer in our head. One of these three people typically. And it's
+
+33
+00:02:25,250 --> 00:02:30,490
+interesting because as you run this through this particular analysis for the self-targeting
+
+34
+00:02:30,490 --> 00:02:34,830
+system, you're going to build a really clear picture of which angles you are overusing.
+
+35
+00:02:35,110 --> 00:02:40,530
+Not necessarily which ones like the customers are currently like best suited to, but which one
+
+36
+00:02:40,530 --> 00:02:46,030
+your mind defaults to as you create ads. So what you haven't tested yet is the ones that we
+
+37
+00:02:46,030 --> 00:02:50,110
+actually have to go after the most so that we can get ahead of fatigue and kind of expand the market
+
+38
+00:02:50,110 --> 00:02:54,790
+from the inside out. And this system is going to help us do that. So if you're ready, let's dive
+
+39
+00:02:54,790 --> 00:02:55,130
+into it.
+

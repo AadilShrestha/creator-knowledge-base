@@ -1,0 +1,364 @@
+1
+00:00:00,590 --> 00:00:04,150
+Moving right along here, we are going to dive deep into this next section.
+
+2
+00:00:04,210 --> 00:00:05,510
+It's going to be super, super interesting.
+
+3
+00:00:05,830 --> 00:00:08,670
+So I want to show you guys, now that we know what the problem is
+
+4
+00:00:08,670 --> 00:00:11,650
+and we understand a little bit more about what the emotions are
+
+5
+00:00:11,650 --> 00:00:14,390
+that are actually involved in the process of purchasing,
+
+6
+00:00:14,730 --> 00:00:16,910
+I want to show you guys how we're actually going to map this.
+
+7
+00:00:17,010 --> 00:00:22,690
+So to start, we are going to map this on the valence intensity axis here.
+
+8
+00:00:22,850 --> 00:00:26,170
+So obviously this is a four-quadrant axis model.
+
+9
+00:00:26,510 --> 00:00:28,370
+So you have valence at the top, valence at the bottom,
+
+10
+00:00:28,370 --> 00:00:31,750
+intensity low on the left, intensity high on the right.
+
+11
+00:00:32,210 --> 00:00:36,890
+Now, the first step in kind of diagnosing why your ad didn't work
+
+12
+00:00:36,890 --> 00:00:41,670
+is we need to ask ourselves, is the emotion that we use in this ad negative or positive?
+
+13
+00:00:41,850 --> 00:00:43,830
+Where does it sit on this line, right?
+
+14
+00:00:43,830 --> 00:00:47,130
+And we're going to map the emotion using two of these simple axes, right?
+
+15
+00:00:47,230 --> 00:00:50,150
+So valence first, is the emotion positive or negative?
+
+16
+00:00:50,390 --> 00:00:53,530
+Because where your emotions fall on this line is going to directly affect
+
+17
+00:00:53,530 --> 00:00:57,270
+the reaction that we get from people who are actually reading the ad,
+
+18
+00:00:57,270 --> 00:00:58,690
+from the people that we're communicating with.
+
+19
+00:00:59,090 --> 00:01:01,650
+The second step here is to map intensity.
+
+20
+00:01:01,650 --> 00:01:04,650
+Is it a low energy or is it a high energy emotion?
+
+21
+00:01:05,130 --> 00:01:08,570
+This is going to give us kind of four emotional quadrants to work with.
+
+22
+00:01:09,090 --> 00:01:11,330
+Because depending on where you are in the intensity level,
+
+23
+00:01:11,490 --> 00:01:13,870
+you may want to dial it up or dial it back,
+
+24
+00:01:13,870 --> 00:01:17,930
+depending on where your customers sit emotionally with their problem and their experience.
+
+25
+00:01:18,610 --> 00:01:20,890
+This is going to help us kind of get a better sense
+
+26
+00:01:20,890 --> 00:01:22,990
+of how our messaging is hitting the audience.
+
+27
+00:01:23,330 --> 00:01:26,370
+So I want to break down each of these quadrants so you can see kind of how they work.
+
+28
+00:01:26,370 --> 00:01:31,570
+This quadrant, which is what we call high valence, low intensity.
+
+29
+00:01:32,090 --> 00:01:33,110
+High valence, low intensity.
+
+30
+00:01:33,270 --> 00:01:36,770
+So again, high valence, meaning these are like really high emotions,
+
+31
+00:01:36,770 --> 00:01:39,170
+but the intensity on them is really low.
+
+32
+00:01:39,490 --> 00:01:40,750
+These are kind of feel-good energy.
+
+33
+00:01:40,890 --> 00:01:43,650
+So zone one, you can kind of bucket in your brain as like,
+
+34
+00:01:43,710 --> 00:01:44,610
+this is the feel-good zone.
+
+35
+00:01:45,210 --> 00:01:49,050
+Zone one is all about like reassuring, calm, supportive messaging.
+
+36
+00:01:49,350 --> 00:01:54,010
+Works really well for wellness, luxury brands, intimacy brands, safety brands,
+
+37
+00:01:54,010 --> 00:01:58,850
+belonging brands, anytime you're selling a product where you want someone to feel okay inside,
+
+38
+00:01:59,050 --> 00:02:00,310
+you want to be in zone one.
+
+39
+00:02:01,170 --> 00:02:04,390
+Zone two on the opposite side is going to be high valence, high intensity.
+
+40
+00:02:04,750 --> 00:02:07,610
+You can think of this as like hype and anticipation zone.
+
+41
+00:02:08,170 --> 00:02:11,590
+Zone two is all about like joy, thrill, excitement, pride.
+
+42
+00:02:11,810 --> 00:02:14,150
+This works really well if you're launching something,
+
+43
+00:02:14,610 --> 00:02:17,750
+if you're working on performance, in particular performance products,
+
+44
+00:02:17,970 --> 00:02:20,390
+performance industries, achievement or momentum.
+
+45
+00:02:20,390 --> 00:02:23,930
+Zone two is going to be a really great spot for your customers to live in
+
+46
+00:02:23,930 --> 00:02:26,090
+if you're trying to push them to move.
+
+47
+00:02:26,250 --> 00:02:29,090
+We're trying to get them to do something physical in their world.
+
+48
+00:02:29,330 --> 00:02:30,230
+Okay, so that's zone two.
+
+49
+00:02:31,130 --> 00:02:34,910
+Zone three, negative valence and low intensity.
+
+50
+00:02:35,270 --> 00:02:37,730
+This one is going to be that kind of subtle frustration.
+
+51
+00:02:39,070 --> 00:02:41,710
+Zone three is really interesting because a lot of brands sit here
+
+52
+00:02:41,710 --> 00:02:46,190
+where they're trying to pull out a little bit of frustrating emotions
+
+53
+00:02:46,190 --> 00:02:48,730
+around the problem that people are trying to solve.
+
+54
+00:02:48,730 --> 00:02:53,050
+This is a great place if you're trying to get people to feel annoyed
+
+55
+00:02:53,050 --> 00:02:56,610
+or if you're trying to get them to think about like unmet expectations,
+
+56
+00:02:57,130 --> 00:02:58,910
+fatigue, irritation, disappointment.
+
+57
+00:02:59,270 --> 00:03:03,130
+This is a really, really good zone if you're trying to work on pain point
+
+58
+00:03:03,130 --> 00:03:06,230
+building with a customer type or if you're trying to use that kind of
+
+59
+00:03:06,230 --> 00:03:10,330
+before and after contrast or setting up for a relief on the opposite side.
+
+60
+00:03:10,550 --> 00:03:14,150
+A lot of marketers live in low intensity, low valence.
+
+61
+00:03:14,270 --> 00:03:18,010
+So I don't suggest you use this one if you're in a saturated industry.
+
+62
+00:03:18,010 --> 00:03:21,590
+There's lots of other places that you could live on the valence intensity map.
+
+63
+00:03:21,910 --> 00:03:24,690
+But in general, this one's really, really good if you're trying to get people
+
+64
+00:03:24,690 --> 00:03:26,750
+to think about what their problems are.
+
+65
+00:03:27,270 --> 00:03:31,710
+Last one on here, zone four is going to be negative valence, high intensity.
+
+66
+00:03:32,090 --> 00:03:33,990
+This is where your fear and urgency lives.
+
+67
+00:03:34,330 --> 00:03:37,330
+This is kind of that energy of panic scarcity a little bit.
+
+68
+00:03:37,750 --> 00:03:40,590
+Threats or loss also kind of live in this particular zone.
+
+69
+00:03:40,890 --> 00:03:45,010
+Works really well for limited time offers or if you're in a health safety focused industry.
+
+70
+00:03:45,010 --> 00:03:48,410
+Industry, but you have to be very careful with how you use this one.
+
+71
+00:03:48,790 --> 00:03:51,310
+We do not want to trigger people negatively, guys.
+
+72
+00:03:51,690 --> 00:03:55,730
+In marketing, it is not our job to make people feel bad about something.
+
+73
+00:03:56,270 --> 00:04:02,490
+All we want to do is elicit some sort of an emotion that's attached to their specific experience, okay?
+
+74
+00:04:02,930 --> 00:04:04,970
+You don't want to try and like trigger traumas.
+
+75
+00:04:05,270 --> 00:04:06,370
+That's not what we're trying to do here.
+
+76
+00:04:06,610 --> 00:04:10,710
+All we're trying to do is help them realize that the emotions around their problem
+
+77
+00:04:10,710 --> 00:04:13,250
+could be solved with your specific product.
+
+78
+00:04:13,830 --> 00:04:18,190
+So in general, none of these like zones are wrong, right?
+
+79
+00:04:18,190 --> 00:04:21,550
+There's nothing in here that really is, what would we call that?
+
+80
+00:04:21,650 --> 00:04:24,990
+Like unethically, like an unethical thing that you could use.
+
+81
+00:04:25,150 --> 00:04:27,550
+But they are things that are going to trigger emotions.
+
+82
+00:04:27,550 --> 00:04:31,350
+So we have to think about this consciously as we go through the process of mapping, right?
+
+83
+00:04:31,670 --> 00:04:34,790
+Each zone is going to work because it matches the emotional context
+
+84
+00:04:34,790 --> 00:04:39,170
+your audience is in when they see your ad and when they think about what they're experiencing.
+
+85
+00:04:40,710 --> 00:04:41,990
+You can write the smartest ad in the world.
+
+86
+00:04:42,070 --> 00:04:45,570
+But if it's shouting the wrong emotional language, it's not going to land.
+
+87
+00:04:45,730 --> 00:04:49,370
+So next, we are going to break down an actual ad example.
+
+88
+00:04:49,370 --> 00:04:55,410
+So I can show you from top to bottom, here's how we go about mapping your specific ad
+
+89
+00:04:55,410 --> 00:05:00,290
+on the valence intensity map and figuring out which zone do we need to live in
+
+90
+00:05:00,290 --> 00:05:02,750
+to elicit a better response and get the sale.
+
+91
+00:05:02,750 --> 00:05:04,670
+So let's work on that next.
+

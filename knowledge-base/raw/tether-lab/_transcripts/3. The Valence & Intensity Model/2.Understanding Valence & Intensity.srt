@@ -1,0 +1,124 @@
+1
+00:00:00,340 --> 00:00:05,340
+Okay, so we've talked a little bit about what the problem is, primarily being this ad should
+
+2
+00:00:05,340 --> 00:00:09,260
+have worked, why didn't it? And we're going to talk a little bit more about how to solve that,
+
+3
+00:00:09,320 --> 00:00:14,480
+how to fix that now. But before we dive into it, we want to build your emotional radar so we can
+
+4
+00:00:14,480 --> 00:00:20,560
+kind of understand how to identify which piece of the ad didn't work to begin with. So every
+
+5
+00:00:20,560 --> 00:00:26,820
+feeling that you create inside an ad lives in one of four emotional zones. And each of these zones
+
+6
+00:00:26,820 --> 00:00:31,240
+kind of lead to different buyer behavior. But before we dive into kind of which zone we're in
+
+7
+00:00:31,240 --> 00:00:36,060
+and how to figure out which zone you want to go to next, we're going to dive into the two categories
+
+8
+00:00:36,060 --> 00:00:41,320
+that these zones are built from. First, we're going to talk about valence. You can think of valence as
+
+9
+00:00:41,320 --> 00:00:46,680
+what kind of emotion you're trying to pull out from someone, aka like, what am I trying to say?
+
+10
+00:00:46,920 --> 00:00:52,680
+Which emotion am I trying to get this person to feel? That's what valence is. So a positive valence
+
+11
+00:00:52,680 --> 00:00:59,100
+is usually emotions that feel good. Joy, pride, excitement, hope, comfort, those are all kind of
+
+12
+00:00:59,100 --> 00:01:04,740
+feel good feelings. Those are positive valence, right, on this particular map. Negative valence
+
+13
+00:01:04,740 --> 00:01:09,720
+on the opposite side is going to be emotions that feel bad or negative. Things, ones that think of
+
+14
+00:01:09,720 --> 00:01:16,440
+like fear, frustration, anxiety, FOMO, anger, all of these are negative valence, right? They're a little
+
+15
+00:01:16,440 --> 00:01:21,760
+bit lower emotional tone. Intensity, on the other hand, has to do with how hard you're hitting these
+
+16
+00:01:21,760 --> 00:01:29,620
+emotions. So this comes down to how am I saying this emotion? Valence is what I'm saying. Intensity
+
+17
+00:01:29,620 --> 00:01:36,080
+is how I'm saying it. So think of intensity as more like how deep does this emotion go? Is it
+
+18
+00:01:36,080 --> 00:01:41,820
+irritation or is it like rage that we're going after? There are different levels of intensity and
+
+19
+00:01:41,820 --> 00:01:48,640
+how you map those in your ad is going to directly affect how well that ad performs. So positive
+
+20
+00:01:48,640 --> 00:01:53,020
+valence, when it comes to mapping these emotions, positive valence pulls people towards something
+
+21
+00:01:53,020 --> 00:01:57,940
+they want. So aspirational marketing is almost always positive valence. Negative valence on the
+
+22
+00:01:57,940 --> 00:02:02,340
+opposite side pushes people away from things they fear or dislike. So this is almost like risk
+
+23
+00:02:02,340 --> 00:02:07,380
+level marketing. So if we're talking a lot about like secure your future, protect something,
+
+24
+00:02:07,380 --> 00:02:13,500
+that's more of that kind of low valence level. High intensity is stronger emotional arousal. So
+
+25
+00:02:13,500 --> 00:02:19,020
+great for kind of urgency or creating momentum. Low intensity is more softer, kind of emotional
+
+26
+00:02:19,020 --> 00:02:24,080
+impact. Great for building like trust or recognition or reflection, those type of things. So again,
+
+27
+00:02:24,500 --> 00:02:28,900
+you can think of valence as which emotion I'm trying to communicate or which one I'm trying to get my
+
+28
+00:02:28,900 --> 00:02:35,560
+customers to feel. And intensity is going to be how hard am I hitting that emotion? Next, we are going
+
+29
+00:02:35,560 --> 00:02:41,500
+to map these emotions using two simple axes on here. This is where really psychology meets application.
+
+30
+00:02:41,500 --> 00:02:47,080
+So let's keep going so you guys can figure out what happened to my ad. Where does it sit in this
+
+31
+00:02:47,080 --> 00:02:51,580
+particular valence intensity map? And where do I need to move next to get people to buy?
+

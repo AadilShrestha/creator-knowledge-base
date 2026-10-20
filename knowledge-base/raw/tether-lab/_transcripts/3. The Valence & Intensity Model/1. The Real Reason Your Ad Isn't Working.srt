@@ -1,0 +1,292 @@
+1
+00:00:00,630 --> 00:00:03,070
+Welcome to the Valence Intensity Model.
+
+2
+00:00:03,570 --> 00:00:05,550
+This week's training is going to help you diagnose
+
+3
+00:00:05,550 --> 00:00:08,330
+why your ads aren't working and then how to fix them.
+
+4
+00:00:08,970 --> 00:00:10,870
+In particular, when it comes to ads
+
+5
+00:00:10,870 --> 00:00:12,190
+that seem like they should work,
+
+6
+00:00:12,290 --> 00:00:13,850
+but they're just not for some reason.
+
+7
+00:00:14,210 --> 00:00:16,870
+So to start, we're going to start with a question
+
+8
+00:00:16,870 --> 00:00:18,750
+that I get all the time, which is,
+
+9
+00:00:19,090 --> 00:00:20,370
+Sarah, this ad should be working.
+
+10
+00:00:20,630 --> 00:00:21,470
+Why is it not?
+
+11
+00:00:21,750 --> 00:00:22,550
+Why is it not?
+
+12
+00:00:22,750 --> 00:00:24,470
+And it's always interesting when I get this question
+
+13
+00:00:24,470 --> 00:00:25,890
+because it's always about a product
+
+14
+00:00:25,890 --> 00:00:27,150
+or an ad in particular
+
+15
+00:00:27,150 --> 00:00:29,430
+that has a good offer included in it.
+
+16
+00:00:29,430 --> 00:00:30,470
+It's got a strong headline.
+
+17
+00:00:30,570 --> 00:00:31,530
+It's beautiful, creative.
+
+18
+00:00:31,670 --> 00:00:33,310
+It's well-developed, well-designed,
+
+19
+00:00:33,410 --> 00:00:35,070
+but it's still not converting.
+
+20
+00:00:35,390 --> 00:00:36,470
+And it's really interesting
+
+21
+00:00:36,470 --> 00:00:38,050
+because it's kind of a gut punch moment
+
+22
+00:00:38,050 --> 00:00:40,150
+when you're sitting here saying,
+
+23
+00:00:40,270 --> 00:00:41,390
+I have done all this research.
+
+24
+00:00:41,550 --> 00:00:43,370
+I know this should hit with our audience.
+
+25
+00:00:43,570 --> 00:00:45,650
+Why is this not working, right?
+
+26
+00:00:45,970 --> 00:00:46,910
+Why does this happen?
+
+27
+00:00:47,010 --> 00:00:49,630
+So typically when I see brands do this,
+
+28
+00:00:49,690 --> 00:00:52,270
+most of the time when they run into an ad
+
+29
+00:00:52,270 --> 00:00:53,590
+that should have worked but didn't,
+
+30
+00:00:53,730 --> 00:00:55,290
+they want to shift all kinds of things.
+
+31
+00:00:55,370 --> 00:00:57,290
+They want to change targeting or make it a GIF
+
+32
+00:00:57,290 --> 00:00:59,570
+or get a new UGC creator on board
+
+33
+00:00:59,570 --> 00:01:00,830
+and like draft 70 new hooks.
+
+34
+00:01:00,970 --> 00:01:02,930
+They want to go back and tweak and tweak and tweak
+
+35
+00:01:02,930 --> 00:01:05,750
+and tweak, but typically it doesn't work
+
+36
+00:01:05,750 --> 00:01:07,450
+even though it should.
+
+37
+00:01:08,110 --> 00:01:09,150
+Now this is really interesting
+
+38
+00:01:09,150 --> 00:01:12,330
+because it's not a creative problem really.
+
+39
+00:01:12,550 --> 00:01:14,770
+It's an emotional tone issue, right?
+
+40
+00:01:14,830 --> 00:01:16,430
+So your ad is kind of misaligned
+
+41
+00:01:16,430 --> 00:01:18,670
+with what your audience believes about their problem
+
+42
+00:01:18,670 --> 00:01:21,350
+and it needs to shift emotionally
+
+43
+00:01:21,350 --> 00:01:23,470
+in order for them to feel that buy, right?
+
+44
+00:01:23,470 --> 00:01:25,810
+Feel that kind of motivation to move forward.
+
+45
+00:01:25,810 --> 00:01:27,770
+So it's not your hook, it's not your price,
+
+46
+00:01:27,910 --> 00:01:31,150
+it's your vibe that we need to adjust, right?
+
+47
+00:01:31,390 --> 00:01:34,990
+So this is typically what I see with the consumers.
+
+48
+00:01:35,310 --> 00:01:37,490
+The words on this ad are right,
+
+49
+00:01:37,670 --> 00:01:39,730
+but the feeling is kind of wrong
+
+50
+00:01:39,730 --> 00:01:41,870
+and customers feel this pretty deeply.
+
+51
+00:01:42,270 --> 00:01:43,670
+And as soon as they hit an ad like that,
+
+52
+00:01:43,710 --> 00:01:45,070
+they just kind of scroll on.
+
+53
+00:01:45,250 --> 00:01:47,430
+When your ad's emotional temperature
+
+54
+00:01:47,430 --> 00:01:50,250
+doesn't align with the moment
+
+55
+00:01:50,250 --> 00:01:51,910
+that your customer is currently in
+
+56
+00:01:51,910 --> 00:01:54,030
+or how they're feeling about their problem,
+
+57
+00:01:54,030 --> 00:01:56,330
+everything, even great offers
+
+58
+00:01:56,330 --> 00:01:57,770
+are going to fall completely flat, right?
+
+59
+00:01:57,890 --> 00:01:59,190
+This is why it's kind of critical
+
+60
+00:01:59,190 --> 00:02:00,890
+to get this step correct.
+
+61
+00:02:01,570 --> 00:02:03,750
+Most marketers are going to optimize words.
+
+62
+00:02:03,930 --> 00:02:05,850
+They're going to optimize the copy itself,
+
+63
+00:02:05,850 --> 00:02:08,770
+but the winners are going to optimize for feel.
+
+64
+00:02:09,230 --> 00:02:11,190
+So next, I'm going to show you
+
+65
+00:02:11,190 --> 00:02:12,690
+how to take your ad from something
+
+66
+00:02:12,690 --> 00:02:14,230
+that feels slightly off,
+
+67
+00:02:14,330 --> 00:02:16,070
+something that should be converting but isn't,
+
+68
+00:02:16,350 --> 00:02:19,170
+to an ad that is spot on emotionally
+
+69
+00:02:19,170 --> 00:02:20,650
+with where your customers sit
+
+70
+00:02:20,650 --> 00:02:22,270
+inside their subconscious mind
+
+71
+00:02:22,270 --> 00:02:24,090
+so that you can generate better results
+
+72
+00:02:24,090 --> 00:02:25,330
+on your next test.
+
+73
+00:02:25,470 --> 00:02:26,790
+So let's dive into it.
+

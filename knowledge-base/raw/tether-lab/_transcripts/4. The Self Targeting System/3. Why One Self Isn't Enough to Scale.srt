@@ -1,0 +1,408 @@
+1
+00:00:00,460 --> 00:00:05,060
+Okay. So let's dive into it. The three self targeting system. We're going to talk all
+
+2
+00:00:05,060 --> 00:00:09,940
+about these selves in this module, but we're also going to talk about something that I think is
+
+3
+00:00:09,940 --> 00:00:15,040
+pretty important, pretty integral that specifically marketers remember as we're going through and
+
+4
+00:00:15,040 --> 00:00:19,240
+developing new ads and trying to keep our account from stagnating, particularly when it comes to
+
+5
+00:00:19,240 --> 00:00:22,540
+angles. Most of the time when I work with marketers, especially if I'm doing any sort
+
+6
+00:00:22,540 --> 00:00:28,600
+of ad accounts or audits, I noticed something in the ad account. And that's usually that most of
+
+7
+00:00:28,600 --> 00:00:34,620
+their ads for marketers, at least are drafted for one version of customers, one, one type of self
+
+8
+00:00:34,620 --> 00:00:39,920
+for each customer. And that's usually like the achiever, the dreamer, the doer. We keep speaking
+
+9
+00:00:39,920 --> 00:00:44,400
+to the same self over and over and over as marketers. And it's almost always the ideal
+
+10
+00:00:44,400 --> 00:00:48,680
+self, which we'll talk about in a second. The toughest part about doing that as a marketer,
+
+11
+00:00:48,680 --> 00:00:53,320
+we're trying to motivate our customers to get up off the couch and like do something to click our ad
+
+12
+00:00:53,320 --> 00:00:58,360
+and purchase something to buy something to become someone better. The toughest part about it though,
+
+13
+00:00:58,360 --> 00:01:02,920
+is at some point that segment is going to get tapped. It's going to dry up, right? Because there
+
+14
+00:01:02,920 --> 00:01:07,900
+is not a large enough pool of people in any segment, even if we're talking about health and
+
+15
+00:01:07,900 --> 00:01:13,180
+fitness and all over the place, there's not enough people who are in ideal self while they're
+
+16
+00:01:13,180 --> 00:01:19,240
+purchasing. And for that to like last forever, if that makes sense. So you're not really scaling
+
+17
+00:01:19,240 --> 00:01:23,960
+anymore. If you continuously use this aspirational, you can do it. Everything's going to be great.
+
+18
+00:01:23,960 --> 00:01:28,360
+Our product's going to change your lifestyle of marketing. You're just kind of echoing the same
+
+19
+00:01:28,360 --> 00:01:32,120
+thing that you said for the last like five to 10 years, depending on how long you've been in business.
+
+20
+00:01:33,640 --> 00:01:38,440
+Doing this for the brand side is not necessarily a bad thing if you want to attach your brand
+
+21
+00:01:38,440 --> 00:01:44,840
+to aspiration. But in the ad account, this fatigues pretty quick and it makes it so that your angles
+
+22
+00:01:44,840 --> 00:01:50,520
+start to look the same over time. Now, I think it's pretty important that we understand how the brain
+
+23
+00:01:50,520 --> 00:01:55,640
+actually processes these ads through so that you can start to generate better ads that speak to the
+
+24
+00:01:55,640 --> 00:02:00,920
+specific selves that exist inside your customer base. So to start, I want you guys to know that
+
+25
+00:02:00,920 --> 00:02:06,760
+your customer is not actually just one avatar. They're kind of a system, right? The brain is kind
+
+26
+00:02:06,760 --> 00:02:11,560
+of creating a map of all the different things that it's experienced around your particular industry
+
+27
+00:02:11,560 --> 00:02:16,280
+and your product. And so your customer type is actually hundreds of different avatars,
+
+28
+00:02:16,280 --> 00:02:21,560
+all kind of wrapped into one person. Because depending on what they believe about your specific
+
+29
+00:02:21,560 --> 00:02:26,360
+product, in this instance, maybe coffee, they have seen experiences throughout their entire life.
+
+30
+00:02:26,360 --> 00:02:30,680
+Coffee is connected to what they drink at Starbucks this morning, which is also connected
+
+31
+00:02:30,680 --> 00:02:34,520
+to what kind of coffee beans they have at home. And that's connected to the type of coffee their mother
+
+32
+00:02:34,520 --> 00:02:38,520
+used to drink when they were a kid. And that's connected to the type of coffee that she swore she
+
+33
+00:02:38,520 --> 00:02:42,520
+would never drink because her father drank it and she hated that coffee. So it's all kind of
+
+34
+00:02:42,520 --> 00:02:47,480
+connected inside the brain. And the brain is doing this mostly because it's a master at connecting
+
+35
+00:02:47,480 --> 00:02:53,160
+ideas together. That's all the brain is built to do is just connect ideas over and over and over and over
+
+36
+00:02:53,160 --> 00:02:57,560
+and over. Now it's doing this for a very specific reason. We're going to walk through that just a
+
+37
+00:02:57,560 --> 00:03:01,320
+little bit because I think it's important. The brain, when it comes to making decisions,
+
+38
+00:03:02,840 --> 00:03:08,200
+the brain is really interesting because we're working entirely off of a system that is basically on
+
+39
+00:03:08,200 --> 00:03:15,320
+autopilot. So 95% of our decisions are made inside the subconscious mind. This is a very old brain,
+
+40
+00:03:15,320 --> 00:03:20,680
+subsection of the brain. It's a very reactive section of the brain. And it's a very emotional
+
+41
+00:03:20,680 --> 00:03:27,640
+one, right? So almost all of our decisions, 95%, according to neuroscience, our decisions are being
+
+42
+00:03:27,640 --> 00:03:32,840
+made from a mind that's just reacting. It's not actually taking information in and trying to make
+
+43
+00:03:32,840 --> 00:03:37,560
+a logical decision. Is this right for me? All it's doing is just making a split second decision.
+
+44
+00:03:37,560 --> 00:03:43,240
+Should I do this or not? No. And then dips out if it's not important enough. Now, this is really
+
+45
+00:03:43,240 --> 00:03:46,520
+interesting because the subconscious is just a recorder, right? It's not a bad thing that it's
+
+46
+00:03:46,520 --> 00:03:50,600
+doing this. It's just taking in everything you experience, every person you interact with,
+
+47
+00:03:50,600 --> 00:03:56,040
+everything you see or touch or smell, everything that you experience on a daily basis. It stores it
+
+48
+00:03:56,840 --> 00:04:04,120
+and then processes it and then tries to make sense of it so that the next time it sees or encounters this
+
+49
+00:04:04,120 --> 00:04:09,800
+exact experience, it will know what to do. So if your ads are starting to kind of become stagnant,
+
+50
+00:04:09,800 --> 00:04:14,920
+your creative in the account, especially is starting to repeat itself, the brain, especially if it's
+
+51
+00:04:14,920 --> 00:04:21,240
+ignored your ads in the past, it's going to keep ignoring them because you're teaching it to ignore
+
+52
+00:04:21,240 --> 00:04:27,240
+you, which I feel bad saying that, but there's a reason for this. It's not, again, the brain is,
+
+53
+00:04:27,240 --> 00:04:32,680
+it's not like it doesn't want what you have. It's just the brain has to process so much information
+
+54
+00:04:32,680 --> 00:04:39,000
+that it is super crazy careful on what it spends energy on. So about 20% of all your daily energy
+
+55
+00:04:39,000 --> 00:04:42,920
+that you actually take in, right? Glucose that you're eating or like the energy that's stored
+
+56
+00:04:42,920 --> 00:04:48,840
+in your body, 20% of that is going just to running your brain. So that's a lot. The brain is
+
+57
+00:04:48,840 --> 00:04:52,920
+very careful to make sure that it doesn't spend that energy on things that is not going to be
+
+58
+00:04:52,920 --> 00:04:57,880
+beneficial to keeping you alive because that's all the brain is supposed to do. So every, every day,
+
+59
+00:04:57,880 --> 00:05:01,240
+the brain has to kind of make a judgment call on what it's going to spend its energy on and what
+
+60
+00:05:01,240 --> 00:05:06,120
+things it's just going to ignore. Once it does that, it's going to make basically like a memory bank
+
+61
+00:05:06,120 --> 00:05:10,200
+of all the useful information that it's kind of encountered. And then it's going to send messages
+
+62
+00:05:10,200 --> 00:05:15,320
+to the conscious mind if it does encounter something that's new, something that the conscious
+
+63
+00:05:15,320 --> 00:05:19,320
+needs to pay attention to, because that's the brain that is very logical and is very analytical.
+
+64
+00:05:19,320 --> 00:05:24,680
+So great example of this. If you haven't eaten breakfast and you're starving and it's 11am and
+
+65
+00:05:24,680 --> 00:05:29,400
+you see an ad for something delicious like pizza, the subconscious is going to make a very quick
+
+66
+00:05:29,400 --> 00:05:35,240
+decision as to whether or not we should stop on this ad based upon all of the things that it has
+
+67
+00:05:35,240 --> 00:05:40,200
+seen in the past, all of those maps, right? All the ideas that is connected together to try and figure
+
+68
+00:05:40,200 --> 00:05:44,280
+out is pizza something that we should stop on currently. And the reason it's doing that is because
+
+69
+00:05:44,280 --> 00:05:49,240
+it wants you to get what you want. It wants you to get what you want. And it's doing this
+
+70
+00:05:49,240 --> 00:05:53,400
+for every single decision you have to make on a daily basis. It's just running it in the
+
+71
+00:05:53,400 --> 00:05:57,640
+background because you won't even know that it's happening because this is the subconscious mind.
+
+72
+00:05:57,640 --> 00:06:03,480
+So all of these memories, all of these experiences, the feelings, especially that come along with
+
+73
+00:06:03,480 --> 00:06:10,760
+gaining things or losing things or feeling things throughout your day stack up, right? So over time,
+
+74
+00:06:10,760 --> 00:06:15,320
+the brain starts to create more and more of these kind of like banks so it can quickly make decisions.
+
+75
+00:06:15,320 --> 00:06:20,520
+And so it doesn't have to waste energy. Each bank is created from memories. Memories are built on
+
+76
+00:06:20,520 --> 00:06:25,320
+emotion and then emotion is built from the experience you have in the world, right? Experiences. We can
+
+77
+00:06:25,320 --> 00:06:28,840
+talk a little bit about this in another time, but like experience is also based on context or like
+
+78
+00:06:28,840 --> 00:06:34,120
+the situations that we encounter. All you need to know though is because of the way the brain is
+
+79
+00:06:34,120 --> 00:06:40,280
+starting to process this information out. If you use those banks long enough and you never update the
+
+80
+00:06:40,280 --> 00:06:46,440
+systems they're, they're built with, they become a part of the program. They become basically set. You
+
+81
+00:06:46,440 --> 00:06:52,120
+can't change them very easily. Uh, and they become a part of who you are as a person. So your habits,
+
+82
+00:06:52,120 --> 00:06:59,080
+your behaviors, and most importantly, your identities, yourselves, right? So these identity
+
+83
+00:06:59,080 --> 00:07:04,120
+banks vary by the person, uh, and will be activated kind of in different ways, depending on which products
+
+84
+00:07:04,120 --> 00:07:08,040
+you're interacting with or which brands you come across or which offers those type of things, but they're
+
+85
+00:07:08,040 --> 00:07:12,600
+always there. And the interesting part is, uh, and we'll talk about this just a second, once we get
+
+86
+00:07:12,600 --> 00:07:16,680
+into the actual, like, um, breakdown of the three selves that you have in there, those selves are
+
+87
+00:07:16,680 --> 00:07:21,080
+created based upon all of these identity banks that you hold based upon all the experiences that
+
+88
+00:07:21,080 --> 00:07:25,880
+you have been having as a human on this planet. So at the end of the day, your customer is really
+
+89
+00:07:25,880 --> 00:07:30,280
+just a system of a lot of beliefs and identities that are all mapped together. They're not one static
+
+90
+00:07:30,280 --> 00:07:34,680
+avatar and they never will be because humans are complex. So some days they're going to try and become
+
+91
+00:07:34,680 --> 00:07:38,600
+somebody new other days, they're going to be holding tight to kind of who they are and they
+
+92
+00:07:38,600 --> 00:07:42,840
+don't want to let that go. Sometimes they're under immense amount of pressure and all they want to
+
+93
+00:07:42,840 --> 00:07:48,040
+do is live up to the expectations of who they think they should be. And all of this is stemming from
+
+94
+00:07:48,040 --> 00:07:53,960
+a brain that just wants to save energy and makes decisions quickly. So next we're going to kind of dive
+
+95
+00:07:53,960 --> 00:07:58,360
+into how this affects your apps, right? So, cause this is obviously paid advertising. We still have to
+
+96
+00:07:58,360 --> 00:08:02,200
+be able to connect to the brain somehow. Um, and in particular, I want to teach you guys how you can
+
+97
+00:08:02,200 --> 00:08:07,560
+avoid this kind of angle rut, um, by tapping into just one particular type of person, right? That's
+
+98
+00:08:07,560 --> 00:08:11,560
+how you create an angle rut. But I want you guys to be able to tap into the brain's kind of natural
+
+99
+00:08:11,560 --> 00:08:16,520
+behavior and the different selves that it kind of morphs through all throughout the day, all throughout
+
+100
+00:08:16,520 --> 00:08:23,000
+the year so that you can get a better return on investment just by changing who you're targeting.
+
+101
+00:08:23,000 --> 00:08:27,000
+Not that, not the angle, not the customer, right? We're not going after like avatars,
+
+102
+00:08:27,000 --> 00:08:31,720
+but the actual internal self of your customer. And we're going to do that in the next module. So let's get to it.
+

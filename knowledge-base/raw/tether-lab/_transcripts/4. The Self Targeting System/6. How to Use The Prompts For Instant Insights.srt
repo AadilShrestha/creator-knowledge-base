@@ -1,0 +1,420 @@
+1
+00:00:00,180 --> 00:00:04,460
+So let's walk through a tutorial. These, these are going to be super, super fun for you guys. I
+
+2
+00:00:04,460 --> 00:00:10,340
+really love studying actual ideal and all. So I just find it really interesting. So in general,
+
+3
+00:00:10,460 --> 00:00:13,100
+inside this document, I have three different prompts and we're going to walk through them
+
+4
+00:00:13,100 --> 00:00:18,060
+one at a time. So you guys understand how they all work, right? So first prompt, this one is
+
+5
+00:00:18,060 --> 00:00:23,920
+going to be identifying self discrepancy and doing an analysis, but no performance data included.
+
+6
+00:00:24,000 --> 00:00:28,460
+So this one's just going to tell chat, I've got a random group of ads here for you. Go ahead and
+
+7
+00:00:28,460 --> 00:00:34,340
+score them on a zero to 10 scale based upon what type of self you see in that ad. And then
+
+8
+00:00:34,340 --> 00:00:37,860
+obviously write me a short summary paragraph so we can figure out which self is coming out the
+
+9
+00:00:37,860 --> 00:00:41,780
+strongest. This one is super, super powerful. But the second one in here, this bonus prompt,
+
+10
+00:00:42,080 --> 00:00:47,380
+this one is going to do self discrepancy plus performance analysis. You guys can get a good
+
+11
+00:00:47,380 --> 00:00:52,240
+example. This one is so, so powerful. This one is going to analyze to see which self is going to
+
+12
+00:00:52,240 --> 00:00:57,940
+convert the best, right? So it's still going to do the analysis score for you, but it's also going
+
+13
+00:00:57,940 --> 00:01:02,240
+to analyze your key metrics. So if you're pulling them down from motion or if you had them from
+
+14
+00:01:02,240 --> 00:01:08,560
+Facebook, wherever you're tracking your particular metric group, go ahead and load that up included
+
+15
+00:01:08,560 --> 00:01:12,660
+with all of the ads that you're are mapping those two. And it will go ahead and give you a couple
+
+16
+00:01:12,660 --> 00:01:18,220
+different things. It's going to write you a summary and then it's going to specifically suggest the next
+
+17
+00:01:18,220 --> 00:01:22,480
+test direction you need to go. So it's going to provide you with a ratio, right? For future
+
+18
+00:01:22,480 --> 00:01:27,660
+testing. So it's going to say for your particular self, the ones that you're really, really good at
+
+19
+00:01:27,660 --> 00:01:32,560
+converting from, maybe it's ideal self or actual self or whoever it is, we need to shift more towards
+
+20
+00:01:32,560 --> 00:01:38,600
+50% actual 10% ought and the rest of it needs to be ideal. It'll give you that ratio. So you can figure
+
+21
+00:01:38,600 --> 00:01:45,340
+out how to iterate because a lot of times what I see is people get a lot of ads in the ad account,
+
+22
+00:01:45,500 --> 00:01:50,380
+two to three of them are holding up the entirety of that ad account. And then they basically have no
+
+23
+00:01:50,380 --> 00:01:55,160
+idea where to go next. They try and iterate format, but they don't know how to iterate core messaging,
+
+24
+00:01:55,160 --> 00:01:59,920
+which is what this is particular, like specifically meant to do. Now, even better, if you can map
+
+25
+00:01:59,920 --> 00:02:04,720
+yourselves that you're currently identifying here with valence and intensity, and I can show you guys
+
+26
+00:02:04,720 --> 00:02:08,920
+how to do that. If you haven't taken the valence and intensity course, please, please, please go take
+
+27
+00:02:08,920 --> 00:02:13,940
+that one. Cause that's going to show you how to dial up or dial, like dial back the emotions that you're
+
+28
+00:02:13,940 --> 00:02:19,620
+actually targeting. And then you analyze that and actually map it on top of self discrepancy here,
+
+29
+00:02:19,620 --> 00:02:24,740
+or like the odd self, ideal self, actual self. And you can get some really, really cool tests going
+
+30
+00:02:24,740 --> 00:02:30,180
+because from here, once we know who we need to talk to, which self, then we can identify which
+
+31
+00:02:30,180 --> 00:02:35,380
+emotion we need to actually speak to. And then you can start building a crap ton of working ads
+
+32
+00:02:35,380 --> 00:02:40,600
+instead of just like one to two at a time. So, okay, I digress. So this is the secondary one. It's
+
+33
+00:02:40,600 --> 00:02:45,820
+going to be bonus metric and ad analysis. The last one on here is basically just to rewrite your
+
+34
+00:02:45,820 --> 00:02:49,900
+winning ads. And I'll show you how to do that in a second, um, for all three selves. So that way you
+
+35
+00:02:49,900 --> 00:02:54,140
+can start to get some good tests and good wins, uh, right off the gate just by switching to a different
+
+36
+00:02:54,140 --> 00:03:00,140
+sense of self. So to start, we are going to just do this first prompt here today. Um, predominantly
+
+37
+00:03:00,140 --> 00:03:05,500
+because this is an example. Um, also because like, I don't have any metric data to go along with these
+
+38
+00:03:05,500 --> 00:03:10,300
+particular ads. Cause it's just an example. So if I was doing this in real time though, for a brand,
+
+39
+00:03:10,300 --> 00:03:14,620
+if I was doing any sort of like account audits or anything, I would a hundred percent want metric
+
+40
+00:03:14,620 --> 00:03:19,420
+data to go along with this. Um, so I'm just going to delete this kind of insert numbered ad copy,
+
+41
+00:03:19,420 --> 00:03:23,900
+because it's not copy that we're actually doing. Uh, we are actually going to upload the ads,
+
+42
+00:03:23,900 --> 00:03:27,900
+go ahead and find them on your computer, wherever you have them. I just have them as screenshots on
+
+43
+00:03:27,900 --> 00:03:33,980
+my desktop and open them up. And then once they are all loaded, um, I have chosen nine as my first
+
+44
+00:03:33,980 --> 00:03:39,580
+sample size. We're going to ask chat to analyze. So obviously, like I said before, chat is going to go
+
+45
+00:03:39,580 --> 00:03:44,380
+through and it's going to analyze this based upon what it sees. So it's going to analyze not just the,
+
+46
+00:03:44,380 --> 00:03:48,860
+uh, copy. So the headlines, the subheads, the bullets, whatever it is, it's also going to analyze
+
+47
+00:03:48,860 --> 00:03:54,380
+the image itself. So this is a really great pro tip when you're doing analysis with chat,
+
+48
+00:03:54,380 --> 00:03:58,780
+chat is really good at NLP, which is natural language, uh, processing. It's going to take what
+
+49
+00:03:58,780 --> 00:04:04,540
+it sees and then it's going to analyze it, uh, and try and get a good sense of, um, basically it's
+
+50
+00:04:04,540 --> 00:04:08,700
+going to get a good sense of like how everything looks overall based upon the categories it's
+
+51
+00:04:08,700 --> 00:04:12,780
+trying to put it in. Right. So that's kind of how NLP works. We have categories. We're trying
+
+52
+00:04:12,780 --> 00:04:18,060
+to bucket everything into, uh, its individual categories as I go and do the analysis. So all
+
+53
+00:04:18,060 --> 00:04:23,340
+that being said, you have to give chat some fences, tell it, I want scores, give me numbers to provide
+
+54
+00:04:23,340 --> 00:04:27,900
+me percentages. Otherwise it kind of just like, if you just say it, analyze this and tell me what you see,
+
+55
+00:04:28,540 --> 00:04:32,300
+sometimes it'll just come back with random stuff because it's not quite sure what you're looking for.
+
+56
+00:04:32,300 --> 00:04:37,020
+So this is the reason why all these prompts are built to, um, work off of like mathematical,
+
+57
+00:04:37,020 --> 00:04:43,100
+statistical analysis. Okay. So it has gone through and it's extracted everything in here.
+
+58
+00:04:43,100 --> 00:04:46,940
+And then it says, uh, I can go ahead and proceed with the analysis. So you can just say
+
+59
+00:04:46,940 --> 00:04:51,900
+proceed or continue whatever you'd like to say. And then it will go through and run the analysis.
+
+60
+00:04:51,900 --> 00:04:56,860
+So for high camp, let's see what's coming back at. It will go one at a time here. And I'm going to
+
+61
+00:04:56,860 --> 00:05:01,260
+show you what it's doing. It's going to give you a text summary of like, here's what the text
+
+62
+00:05:01,260 --> 00:05:06,220
+actually says. And then it's going to tell you what the text is actually doing from a language
+
+63
+00:05:06,220 --> 00:05:11,980
+standpoint. It's going through and analyzing emotion, um, uh, descriptive words, adjectives,
+
+64
+00:05:11,980 --> 00:05:16,620
+verbs, those types of things. And it's taking a look at it and it's assigning it a number based upon
+
+65
+00:05:16,620 --> 00:05:23,100
+how intense that emotion is and what type of self it's actually, um, aligning with, um, with the
+
+66
+00:05:23,100 --> 00:05:28,060
+actual words. So you can go through these one by one, if you want to look at like the actual numbers,
+
+67
+00:05:28,060 --> 00:05:32,380
+but in the end it should give you this summary table where it'll come up and it'll actually
+
+68
+00:05:32,380 --> 00:05:37,260
+say, here's the score. Here's the actual ads we analyzed. Here's the score for every single,
+
+69
+00:05:37,260 --> 00:05:43,820
+uh, emotional or, um, self type, right? So for actual score ad, number one had an eight out of
+
+70
+00:05:43,820 --> 00:05:49,660
+10 for actual self for ideal self. It was a three out of 10 for ought self. It was a two out of 10,
+
+71
+00:05:49,660 --> 00:05:54,460
+and it will give you a reason why. So there's strong identity validation for wine lovers in here
+
+72
+00:05:54,460 --> 00:06:00,780
+because ad number one, woo, if we go back up the top said Rose all day. So I would agree with that
+
+73
+00:06:00,780 --> 00:06:05,660
+emphasizes that kind of like social enjoyment for specifically wine lovers. So I would agree with
+
+74
+00:06:05,660 --> 00:06:10,060
+this analysis here. Um, and it'll go through each and every single one. So it assigns it a number
+
+75
+00:06:10,060 --> 00:06:16,780
+based upon how much that self is coming out in the ad. Actual self is coming out at like a four.
+
+76
+00:06:16,780 --> 00:06:21,660
+Ideal self is coming out at a seven. Ought self is coming out as a two. So hopefully that makes sense.
+
+77
+00:06:21,660 --> 00:06:25,740
+If you have any questions, please, please, please drop it down. Um, in the actual, like comments
+
+78
+00:06:25,740 --> 00:06:29,180
+in the school, I can always help you guys, you guys walk through this if you want. Um,
+
+79
+00:06:29,180 --> 00:06:33,180
+especially if you want like, um, an analysis of your ads, but in particular for high camp,
+
+80
+00:06:33,180 --> 00:06:37,500
+this is looking pretty good. Summer wise, it's given me a good score for every single self
+
+81
+00:06:37,500 --> 00:06:42,780
+that's coming out. It's also mapped it by the ad itself. Takeaways on here. This is what I really
+
+82
+00:06:42,780 --> 00:06:49,180
+wanted it to do. So across all the ads, actual self is the most consistently activated here,
+
+83
+00:06:49,180 --> 00:06:52,700
+especially for identity based stuff. Right? So we're talking about wine lovers,
+
+84
+00:06:52,700 --> 00:06:57,020
+outdoorsman, whiskey drinkers, those types of things. Um, brand is relying heavily on kind of
+
+85
+00:06:57,020 --> 00:07:02,540
+validation and lifestyle. Ideal self is the most used when elevating the product itself though. I
+
+86
+00:07:02,540 --> 00:07:08,140
+find that interesting. So chat has, uh, identified something that I didn't notice, which is the reason
+
+87
+00:07:08,140 --> 00:07:14,140
+why I love having chat do this. Um, when we look at ads that in particular have the product involved,
+
+88
+00:07:14,140 --> 00:07:18,620
+so we can go back up here and look at these ads. Um, some of these ads just say things like rosé
+
+89
+00:07:18,620 --> 00:07:22,700
+all day, right? That's an identity that it's calling out, but if it's calling out the product
+
+90
+00:07:22,700 --> 00:07:28,620
+itself may cause excessive compliments, right? Discover all in one, three piece wine flask,
+
+91
+00:07:28,620 --> 00:07:33,500
+or if there's a product comparisons here where I've tried a lot of flasks, here's the old one I tried,
+
+92
+00:07:33,500 --> 00:07:39,020
+here's the new one that I tried for chat. When I went through and did this analysis, it says ideal
+
+93
+00:07:39,020 --> 00:07:43,500
+self is what we're using most when we're talking about just the product itself. Now that's really
+
+94
+00:07:43,500 --> 00:07:50,220
+interesting. I might not want to be doing that. Um, if I'm trying to iterate my way to success,
+
+95
+00:07:50,220 --> 00:07:54,700
+or if I'm trying really hard to make sure I'm not stagnating on that one point. Um, it looks like
+
+96
+00:07:54,700 --> 00:07:59,980
+I ought self is only playing a minor supportive role showing up in kind of justifications for better
+
+97
+00:07:59,980 --> 00:08:06,380
+quality or cleaner habits. So this is really interesting. So overall, this analysis really
+
+98
+00:08:06,380 --> 00:08:14,060
+does help me figure out where I am overusing some of my, uh, emotional tactics. This is like so,
+
+99
+00:08:14,060 --> 00:08:17,580
+so key you guys, because this takeaway summary is going to tell you a little bit more about
+
+100
+00:08:17,580 --> 00:08:23,020
+which direction you should go. Um, especially when it comes to identifying what directions you're
+
+101
+00:08:23,020 --> 00:08:28,700
+over indexing on, which I see all the time. So please don't feel bad if you're doing it because this is
+
+102
+00:08:28,700 --> 00:08:33,660
+very normal. This is how human bias works. Next, we are going to dive into how to actually take this
+
+103
+00:08:33,660 --> 00:08:39,100
+analysis and apply it to a specific ad so that you can start seeing good results just by shifting
+
+104
+00:08:39,100 --> 00:08:43,500
+the self that you're targeting inside the ad accounts. Um, and we're going to do that next.
+
+105
+00:08:43,500 --> 00:08:53,340
+So let's get to it.
+
