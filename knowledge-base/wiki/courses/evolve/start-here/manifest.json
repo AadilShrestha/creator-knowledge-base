@@ -1,0 +1,6121 @@
+{
+  "schema_version": 1,
+  "creator": "evolve",
+  "course": "start-here",
+  "course_title": "Evolve Start Here",
+  "instructor": "unverified",
+  "source_url": "https://mega.nz/folder/jhQDiSSY#eDwZp_oMz5QVaEtPL-_s1g",
+  "inventory_date": "2026-10-20",
+  "inventory_complete": true,
+  "remote_file_count": 359,
+  "remote_total_bytes": 6528942830,
+  "source_root_names": [
+    "👣 Evolve (Start Here)"
+  ],
+  "ingestion_complete": false,
+  "files": [
+    {
+      "source_id": "mega:jhQDiSSY:L1gk2LjC",
+      "original_path": "👣 Evolve (Start Here)/1. 🆕 Start Here Overview Of Evolve 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 97782495,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:uhxSxbBI",
+      "original_path": "👣 Evolve (Start Here)/1. 🆕 Start Here_ Overview Of Evolve_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 385715,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:a0hmzbiL",
+      "original_path": "👣 Evolve (Start Here)/10. Market Awareness 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 41658443,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:74wSTZ7Z",
+      "original_path": "👣 Evolve (Start Here)/10. Market Awareness.pptx",
+      "size_bytes": 2096661,
+      "extension": ".pptx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:WxpERB5B",
+      "original_path": "👣 Evolve (Start Here)/10. Market Awareness_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 335166,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:CowgnDiA",
+      "original_path": "👣 Evolve (Start Here)/100. How To See Ads Performance + Our Columns 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 40184353,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:Kogk0JKD",
+      "original_path": "👣 Evolve (Start Here)/100. How To See Ads Performance + Our Columns_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 339935,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:XswSEJ7Y",
+      "original_path": "👣 Evolve (Start Here)/101. How To Set Targets & KPIs 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 19597955,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:H05QjDxI",
+      "original_path": "👣 Evolve (Start Here)/101. How To Set Targets & KPIs_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 340672,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:DpwGjLYC",
+      "original_path": "👣 Evolve (Start Here)/102. 💥 Action Item - Set Your Targets & KPIs_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 221271,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:r5ggVZaI",
+      "original_path": "👣 Evolve (Start Here)/103. 🆕 How To Duplicate Ads Into Champions (NEW WAY) 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 26554181,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:OtxUyDYI",
+      "original_path": "👣 Evolve (Start Here)/103. 🆕 How To Duplicate Ads Into Champions (NEW WAY)_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 224427,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:7wpCATrY",
+      "original_path": "👣 Evolve (Start Here)/104. How To Find Any Post IDs For Winning Ads 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 65729855,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:CgoCyRqC",
+      "original_path": "👣 Evolve (Start Here)/104. How To Find Any Post IDs For Winning Ads_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 241370,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:TtpwlbbT",
+      "original_path": "👣 Evolve (Start Here)/105. 💥 Action Item - Add Your Winning Ads_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 225201,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:e4pg1byT",
+      "original_path": "👣 Evolve (Start Here)/106. Turning On Seasonal Ads For Quick Performance 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 89432063,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:zx4ylDKb",
+      "original_path": "👣 Evolve (Start Here)/106. Turning On _Seasonal_ Ads For Quick Performance_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 681249,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:j9g0mRoS",
+      "original_path": "👣 Evolve (Start Here)/107. How To Protect Against Bad Ads Over Spending 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 18788428,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:D4oGARob",
+      "original_path": "👣 Evolve (Start Here)/107. How To Protect Against _Bad Ads_ Over Spending_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 340089,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:igoGRR5T",
+      "original_path": "👣 Evolve (Start Here)/108. How To Set Up A Promo Campaign 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 27459517,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:jwhSXboC",
+      "original_path": "👣 Evolve (Start Here)/108. How To Set Up A Promo Campaign_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 338392,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:35o2mT4J",
+      "original_path": "👣 Evolve (Start Here)/109. How To Set Up Naming Templates 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 13607209,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:vlgGADKQ",
+      "original_path": "👣 Evolve (Start Here)/109. How To Set Up Naming Templates.docx",
+      "size_bytes": 8529,
+      "extension": ".docx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:O4g2DZKZ",
+      "original_path": "👣 Evolve (Start Here)/109. How To Set Up Naming Templates_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 332637,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:GgwgGTCA",
+      "original_path": "👣 Evolve (Start Here)/11. Understanding Unaware + Awareness Levels 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 16142241,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:Phgg2BbQ",
+      "original_path": "👣 Evolve (Start Here)/11. Understanding Unaware + Awareness Levels_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 377840,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:74xiRLYI",
+      "original_path": "👣 Evolve (Start Here)/110. 🆕 Winning Ads Definition - Part 1 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 78678368,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:6o52kJ5Z",
+      "original_path": "👣 Evolve (Start Here)/110. 🆕 Winning Ads Definition - Part 1_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 335788,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:jkoEQLSR",
+      "original_path": "👣 Evolve (Start Here)/110. 🆕 Winning Ads Definition.docx",
+      "size_bytes": 1145454,
+      "extension": ".docx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:vhxEUDhQ",
+      "original_path": "👣 Evolve (Start Here)/111. 🆕 Winning Ads Definition - Part 2 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 10304758,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:O8wQBBxJ",
+      "original_path": "👣 Evolve (Start Here)/111. 🆕 Winning Ads Definition - Part 2_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 351947,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:OxoU1L6a",
+      "original_path": "👣 Evolve (Start Here)/111. 🆕 Winning Ads Definition.docx",
+      "size_bytes": 1145456,
+      "extension": ".docx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:vlhSSLKY",
+      "original_path": "👣 Evolve (Start Here)/112. 🆕 Winning Ad Definitions ($0 mo-$1M mo) 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 130534114,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:ygoSRDza",
+      "original_path": "👣 Evolve (Start Here)/112. 🆕 Winning Ad Definitions ($0_mo-$1M_mo).docx",
+      "size_bytes": 1145452,
+      "extension": ".docx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:n9gwmTrS",
+      "original_path": "👣 Evolve (Start Here)/112. 🆕 Winning Ad Definitions ($0_mo-$1M_mo).xlsx",
+      "size_bytes": 52327,
+      "extension": ".xlsx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:ig4giJaB",
+      "original_path": "👣 Evolve (Start Here)/112. 🆕 Winning Ad Definitions ($0_mo-$1M_mo)_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 371716,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:itpGWbIb",
+      "original_path": "👣 Evolve (Start Here)/113. 🆕 How To Generate + Submit Winning Ad Report 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 67529597,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:joxGXZ4a",
+      "original_path": "👣 Evolve (Start Here)/113. 🆕 How To Generate + Submit Winning Ad Report_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 338994,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:TghWVbKI",
+      "original_path": "👣 Evolve (Start Here)/114. 💥 Action Item - Generate + Submit Your Reports_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 237674,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:W1ogwDgA",
+      "original_path": "👣 Evolve (Start Here)/115. How to Scale Facebook Ads (Up & Down) 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 57679170,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:ugpWSD4K",
+      "original_path": "👣 Evolve (Start Here)/115. How to Scale Facebook Ads (Up & Down)_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 362445,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:ekgQyR6I",
+      "original_path": "👣 Evolve (Start Here)/116. How To Understand Facebook Ads Attribution 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 34784594,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:GxwwHbpZ",
+      "original_path": "👣 Evolve (Start Here)/116. How To Understand Facebook Ads Attribution_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 340671,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:blpiGZZJ",
+      "original_path": "👣 Evolve (Start Here)/117. How To View Attribution in TW (Triple Whale) 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 33645138,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:OshWTRCK",
+      "original_path": "👣 Evolve (Start Here)/117. How To View Attribution in TW (Triple Whale)_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 353265,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:KhpCgTDZ",
+      "original_path": "👣 Evolve (Start Here)/118. (Advanced) Surf Scaling Method 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 25028360,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:D1gggZJS",
+      "original_path": "👣 Evolve (Start Here)/118. (Advanced) Surf Scaling Method.xlsx",
+      "size_bytes": 25607,
+      "extension": ".xlsx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:W55iULbJ",
+      "original_path": "👣 Evolve (Start Here)/118. (Advanced) Surf Scaling Method_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 336461,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:ng40RTRJ",
+      "original_path": "👣 Evolve (Start Here)/119. 💥 Action Item - Scale Your Ads_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 223404,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:q1oUABgD",
+      "original_path": "👣 Evolve (Start Here)/12. Market Sophistication 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 40949379,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:bthGmbzQ",
+      "original_path": "👣 Evolve (Start Here)/12. Market Sophistication.pptx",
+      "size_bytes": 5166948,
+      "extension": ".pptx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:q84ERLJA",
+      "original_path": "👣 Evolve (Start Here)/12. Market Sophistication_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 374864,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:TtoSBZDJ",
+      "original_path": "👣 Evolve (Start Here)/120. How To See If You Should Turn Off High-Spend Ads 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 29760525,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:uwhQ3R5S",
+      "original_path": "👣 Evolve (Start Here)/120. How To See If You Should Turn Off High-Spend Ads_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 372855,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:r1hgGLrL",
+      "original_path": "👣 Evolve (Start Here)/121. How To Deal With Roller Coaster Performance 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 143828905,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:q5w0CJpC",
+      "original_path": "👣 Evolve (Start Here)/121. How To Deal With Roller Coaster Performance.pptx",
+      "size_bytes": 16865642,
+      "extension": ".pptx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:rghwQRSL",
+      "original_path": "👣 Evolve (Start Here)/121. How To Deal With Roller Coaster Performance_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 344441,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:T0hkgBTD",
+      "original_path": "👣 Evolve (Start Here)/122. How To Do Learnings - Part 1 (Losers) 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 41546161,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:Tp42ybTA",
+      "original_path": "👣 Evolve (Start Here)/122. How To Do Learnings - Part 1 (Losers)_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 329542,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:q4pUEbJZ",
+      "original_path": "👣 Evolve (Start Here)/123. How To Do Learnings - Part 2 (Winning Ads) 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 47190296,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:3gpyWLpS",
+      "original_path": "👣 Evolve (Start Here)/123. How To Do Learnings - Part 2 (Winning Ads)_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 358155,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:2wxkHLqY",
+      "original_path": "👣 Evolve (Start Here)/124. How To Do Learnings - Part 3 (Losers) 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 97148744,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:6woGVbTA",
+      "original_path": "👣 Evolve (Start Here)/124. How To Do Learnings - Part 3 (Losers)_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 320482,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:G8pUBDjT",
+      "original_path": "👣 Evolve (Start Here)/125. How To Do Learnings - Part 4 (Winning Ads) 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 77111400,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:Kp4QgJaA",
+      "original_path": "👣 Evolve (Start Here)/125. How To Do Learnings - Part 4 (Winning Ads)_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 316796,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:XwoUWTjY",
+      "original_path": "👣 Evolve (Start Here)/126. How To Pull Frameworks From Ads 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 47827831,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:25xEwRZZ",
+      "original_path": "👣 Evolve (Start Here)/126. How To Pull Frameworks From Ads_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 323835,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:OhxGwTKC",
+      "original_path": "👣 Evolve (Start Here)/127. How To Do Learnings - Part 5 (Winning Ads) 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 83504175,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:Hg4GkRQR",
+      "original_path": "👣 Evolve (Start Here)/127. How To Do Learnings - Part 5 (Winning Ads)_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 324010,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:Sp4gFRCA",
+      "original_path": "👣 Evolve (Start Here)/128. How To Do Learnings - Questions 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 28762927,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:D5w03JIZ",
+      "original_path": "👣 Evolve (Start Here)/128. How To Do Learnings - Questions_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 363311,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:mt42mbbA",
+      "original_path": "👣 Evolve (Start Here)/129. 💥 Action Item - Review Your Ads_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 220103,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:ek5gQDAC",
+      "original_path": "👣 Evolve (Start Here)/13. 💥 Action Item Practicing The Core 3 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 14978758,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:L0xEmTaQ",
+      "original_path": "👣 Evolve (Start Here)/13. 💥 Action Item_ Practicing The Core 3_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 344027,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:ixggEDxB",
+      "original_path": "👣 Evolve (Start Here)/130. How To Rewrite Losing Ads Into Winners 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 604868219,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:bx5wCJYS",
+      "original_path": "👣 Evolve (Start Here)/130. How To Rewrite Losing Ads Into Winners.docx",
+      "size_bytes": 10826,
+      "extension": ".docx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:GogUCBBZ",
+      "original_path": "👣 Evolve (Start Here)/130. How To Rewrite Losing Ads Into Winners_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 802353,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:L84GmDLD",
+      "original_path": "👣 Evolve (Start Here)/131. How To Do Iterations & Variations (Live Example) 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 34455974,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:ihp0nT6A",
+      "original_path": "👣 Evolve (Start Here)/131. How To Do Iterations & Variations (Live Example)_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 352688,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:qho0lLRD",
+      "original_path": "👣 Evolve (Start Here)/132. 💥 Action Item - Create Some Variations_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 236919,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:LtggEJpT",
+      "original_path": "👣 Evolve (Start Here)/133. Winning Humidifier Ad - Learnings (Shaun) 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 43101959,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:vkpi3TAJ",
+      "original_path": "👣 Evolve (Start Here)/133. Winning Humidifier Ad - Learnings (Shaun)_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 357902,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:bpgkSbzA",
+      "original_path": "👣 Evolve (Start Here)/134. Why Content Is So Important - Part 1 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 16989412,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:3x4WkR5K",
+      "original_path": "👣 Evolve (Start Here)/134. Why Content Is So Important - Part 1_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 347293,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:G94wBBiR",
+      "original_path": "👣 Evolve (Start Here)/134. Why Content Is So Important.pptx",
+      "size_bytes": 9927185,
+      "extension": ".pptx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:K542Bbga",
+      "original_path": "👣 Evolve (Start Here)/135. Why Content Is So Important - Part 2 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 18032961,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:ilwWgRxC",
+      "original_path": "👣 Evolve (Start Here)/135. Why Content Is So Important - Part 2_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 342285,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:3gpG2T4A",
+      "original_path": "👣 Evolve (Start Here)/136. 🆕 How To Get Viral UGC Inspo For Creators & Ads 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 19016316,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:H5xWBbQA",
+      "original_path": "👣 Evolve (Start Here)/136. 🆕 How To Get Viral UGC Inspo For Creators & Ads_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 349259,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:ms4G3JjS",
+      "original_path": "👣 Evolve (Start Here)/137. Does Insense Still Work 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 17155530,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:j0ogDLTA",
+      "original_path": "👣 Evolve (Start Here)/137. Does Insense Still Work__👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 338517,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:Po52jTgC",
+      "original_path": "👣 Evolve (Start Here)/138. UGC Content Overview - Part 1 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 15336115,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:jthAmRIS",
+      "original_path": "👣 Evolve (Start Here)/138. UGC Content Overview - Part 1_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 340306,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:z5oyiB4a",
+      "original_path": "👣 Evolve (Start Here)/139. UGC Content Overview - Part 2 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 8938564,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:epgEmDgQ",
+      "original_path": "👣 Evolve (Start Here)/139. UGC Content Overview - Part 2_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 346175,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:jo4wzLAI",
+      "original_path": "👣 Evolve (Start Here)/14. Rule Of 1 - 1 Desire, Avatar, Message 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 81909167,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:v8wWDBCZ",
+      "original_path": "👣 Evolve (Start Here)/14. Rule Of 1 - 1 Desire, Avatar, Message_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 382060,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:L5gETR7b",
+      "original_path": "👣 Evolve (Start Here)/140. 💥 Action Item_ Sign Up For Insense_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 240971,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:uk4gjDIK",
+      "original_path": "👣 Evolve (Start Here)/141. How To Add a New Brand To Insense 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 7748777,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:uog0zbBI",
+      "original_path": "👣 Evolve (Start Here)/141. How To Add a New Brand To Insense_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 363564,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:ypxmSZwJ",
+      "original_path": "👣 Evolve (Start Here)/142. 💥 Action Item_ Add Your Brand To Insense_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 243627,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:D8g0BTIQ",
+      "original_path": "👣 Evolve (Start Here)/143. How To Create an Insense Campaign 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 30503965,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:atpGXBLS",
+      "original_path": "👣 Evolve (Start Here)/143. How To Create an Insense Campaign_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 359295,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:Ck5QBTDI",
+      "original_path": "👣 Evolve (Start Here)/144. 💥 Action Item_ Launch Your First Insense Campaign_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 276372,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:KphgWZ5D",
+      "original_path": "👣 Evolve (Start Here)/145. How To Process Creators & Add To Shortlist 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 20115005,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:akoiEZhY",
+      "original_path": "👣 Evolve (Start Here)/145. How To Process Creators & Add To Shortlist.docx",
+      "size_bytes": 7646,
+      "extension": ".docx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:ztpiiLDb",
+      "original_path": "👣 Evolve (Start Here)/145. How To Process Creators & Add To Shortlist_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 362171,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:OlhilJQA",
+      "original_path": "👣 Evolve (Start Here)/146. How To Download Creators & Upload To Sheet 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 14528027,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:CtgUiLhQ",
+      "original_path": "👣 Evolve (Start Here)/146. How To Download Creators & Upload To Sheet.xlsx",
+      "size_bytes": 35194,
+      "extension": ".xlsx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:agwCXZrR",
+      "original_path": "👣 Evolve (Start Here)/146. How To Download Creators & Upload To Sheet_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 339514,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:qkoAlDrA",
+      "original_path": "👣 Evolve (Start Here)/147. How to Hire Approved Creators - Part 1 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 21933685,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:S05kgJIA",
+      "original_path": "👣 Evolve (Start Here)/147. How to Hire Approved Creators - Part 1_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 321294,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:ClxCnZhA",
+      "original_path": "👣 Evolve (Start Here)/147. How to Hire Approved Creators.docx",
+      "size_bytes": 7646,
+      "extension": ".docx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:2koAzRyY",
+      "original_path": "👣 Evolve (Start Here)/148. Sending Frameworks To Creators - Part 2 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 27228865,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:C0gmBLCa",
+      "original_path": "👣 Evolve (Start Here)/148. Sending Frameworks To Creators - Part 2_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 351536,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:z5wSTDJQ",
+      "original_path": "👣 Evolve (Start Here)/148. Sending Frameworks To Creators.docx",
+      "size_bytes": 65670637,
+      "extension": ".docx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:uhgQkbAQ",
+      "original_path": "👣 Evolve (Start Here)/149. How To Make B-Rolls For Frameworks 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 8728130,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:Pl4SVRaZ",
+      "original_path": "👣 Evolve (Start Here)/149. How To Make B-Rolls For Frameworks_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 342966,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:L54m2BbQ",
+      "original_path": "👣 Evolve (Start Here)/15. Market Identification 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 42531060,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:bo4SQTII",
+      "original_path": "👣 Evolve (Start Here)/15. Market Identification.pptx",
+      "size_bytes": 23271118,
+      "extension": ".pptx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:C4wkCRIQ",
+      "original_path": "👣 Evolve (Start Here)/15. Market Identification_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 357372,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:e1xQELJQ",
+      "original_path": "👣 Evolve (Start Here)/150. 💥 Action Item_ Hire Creators_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 222674,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:q0x0lbxb",
+      "original_path": "👣 Evolve (Start Here)/151. How to Follow Up & Upload Content - Part 1 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 17239123,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:254w0Lyb",
+      "original_path": "👣 Evolve (Start Here)/151. How to Follow Up & Upload Content - Part 1_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 341178,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:z950mbRK",
+      "original_path": "👣 Evolve (Start Here)/151. How to Follow Up & Upload Content.docx",
+      "size_bytes": 7646,
+      "extension": ".docx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:KkwWVZwK",
+      "original_path": "👣 Evolve (Start Here)/152. How to Follow Up & Upload Content - Part 2 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 5812743,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:DphkyJYQ",
+      "original_path": "👣 Evolve (Start Here)/152. How to Follow Up & Upload Content - Part 2_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 359825,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:H1wyFBTJ",
+      "original_path": "👣 Evolve (Start Here)/152. How to Follow Up & Upload Content.docx",
+      "size_bytes": 7646,
+      "extension": ".docx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:jkxSTZwJ",
+      "original_path": "👣 Evolve (Start Here)/153. 💥 Action Item_ Collect Content_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 236452,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:b4wEWJxY",
+      "original_path": "👣 Evolve (Start Here)/154. How to Contact Winning Creators + Affiliate 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 18731622,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:WxpUGBTJ",
+      "original_path": "👣 Evolve (Start Here)/154. How to Contact Winning Creators + Affiliate.xlsx",
+      "size_bytes": 11514,
+      "extension": ".xlsx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:mh5WxboB",
+      "original_path": "👣 Evolve (Start Here)/154. How to Contact Winning Creators + Affiliate_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 368629,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:mlgWgLgZ",
+      "original_path": "👣 Evolve (Start Here)/155. 💥 Action Item_ Contact Top Performing Creators_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 264102,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:u8hQCBja",
+      "original_path": "👣 Evolve (Start Here)/156. % Ad Spend Contract + Whitelisting.pdf",
+      "size_bytes": 3646990,
+      "extension": ".pdf",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:mo4iEZjB",
+      "original_path": "👣 Evolve (Start Here)/156. Contract For % Ad Spend.pdf",
+      "size_bytes": 3643154,
+      "extension": ".pdf",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:iphmlbIL",
+      "original_path": "👣 Evolve (Start Here)/156. Contract For % of Revenue.pdf",
+      "size_bytes": 3643278,
+      "extension": ".pdf",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:bthAzZiL",
+      "original_path": "👣 Evolve (Start Here)/156. How To Onboard Brand Ambassadors 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 17881715,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:Dh4AhL5T",
+      "original_path": "👣 Evolve (Start Here)/156. How To Onboard Brand Ambassadors_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 330713,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:Wo4QwBhR",
+      "original_path": "👣 Evolve (Start Here)/157. 💥 Action Item_ Onboard Brand Ambassador_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 221655,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:O1hUjTRI",
+      "original_path": "👣 Evolve (Start Here)/158. How To Communicate With Brand Ambassadors 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 5929825,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:P9pGjZwS",
+      "original_path": "👣 Evolve (Start Here)/158. How To Communicate With Brand Ambassadors_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 337674,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:Dp4AgTwZ",
+      "original_path": "👣 Evolve (Start Here)/159. 💥 Action Item_ Communicate With Your Ambassadors!_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 217357,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:OgxWXB5L",
+      "original_path": "👣 Evolve (Start Here)/16. Market Belief 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 36865169,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:W5w0EJJA",
+      "original_path": "👣 Evolve (Start Here)/16. Market Belief.pptx",
+      "size_bytes": 10858905,
+      "extension": ".pptx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:G5pC0ThJ",
+      "original_path": "👣 Evolve (Start Here)/16. Market Belief_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 367722,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:axoQgTLR",
+      "original_path": "👣 Evolve (Start Here)/160. Feedback Loops With Your Brand Ambassadors 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 98271849,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:H85wRLaA",
+      "original_path": "👣 Evolve (Start Here)/160. Feedback Loops With Your Brand Ambassadors_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 241905,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:f4pAxRyI",
+      "original_path": "👣 Evolve (Start Here)/161. 💥 Action Item_ Complete Your Feedback Loops_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 219833,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:akpCWLYJ",
+      "original_path": "👣 Evolve (Start Here)/162. Whitelisting Overview + Proof It Works 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 22920892,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:7spyWJyB",
+      "original_path": "👣 Evolve (Start Here)/162. Whitelisting Overview + Proof It Works_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 333178,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:uooUmR5L",
+      "original_path": "👣 Evolve (Start Here)/163. How To Setup Whitelisting (Creators) 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 15629800,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:XlomFBaZ",
+      "original_path": "👣 Evolve (Start Here)/163. How To Setup Whitelisting (Creators)_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 344025,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:6kh2gRrC",
+      "original_path": "👣 Evolve (Start Here)/164. How To Test Whitelisted Ads 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 11070398,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:n05k2ZyY",
+      "original_path": "👣 Evolve (Start Here)/164. How To Test Whitelisted Ads_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 345682,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:mt5URLwC",
+      "original_path": "👣 Evolve (Start Here)/165. 🆕 Partnership Ads (Updated Strategy) 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 7877550,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:H9xUBDKQ",
+      "original_path": "👣 Evolve (Start Here)/165. 🆕 Partnership Ads (Updated Strategy)_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 326204,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:Ok4wDZKQ",
+      "original_path": "👣 Evolve (Start Here)/166. How To Find Time And Get Shit Done 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 12782226,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:D1okAT6B",
+      "original_path": "👣 Evolve (Start Here)/166. How To Find Time And Get Shit Done_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 349400,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:Hk5yxDRK",
+      "original_path": "👣 Evolve (Start Here)/167. How To Focus & Quiet Your Mind 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 16086206,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:SwgAFRSA",
+      "original_path": "👣 Evolve (Start Here)/167. How To Focus & Quiet Your Mind_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 329355,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:3opwQD7Y",
+      "original_path": "👣 Evolve (Start Here)/168. Endless Motivation - Rewiring Pain & Pleasure 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 18747251,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:OwxQVRAL",
+      "original_path": "👣 Evolve (Start Here)/168. Endless Motivation - Rewiring Pain & Pleasure_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 331408,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:OlgQzZgC",
+      "original_path": "👣 Evolve (Start Here)/169. Planning & Achieving Goals (Important) 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 24767203,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:ysg0GLQL",
+      "original_path": "👣 Evolve (Start Here)/169. Planning & Achieving Goals (Important)_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 338960,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:Kt4CRLCT",
+      "original_path": "👣 Evolve (Start Here)/17. Overview & Self Onboarding 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 8397856,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:ag4QTDYR",
+      "original_path": "👣 Evolve (Start Here)/17. Overview & Self Onboarding_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 342178,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:ngxy1BhS",
+      "original_path": "👣 Evolve (Start Here)/170. Never Stop Growing YoY - Face Off With Devil 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 48584567,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:j4h2iTBS",
+      "original_path": "👣 Evolve (Start Here)/170. Never Stop Growing YoY - Face Off With Devil_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 337348,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:u8hm0BgR",
+      "original_path": "👣 Evolve (Start Here)/171. How To Make Any Product Work (Brand Building) Pt 1 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 93476097,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:2s40xbTA",
+      "original_path": "👣 Evolve (Start Here)/171. How To Make Any Product Work (Brand Building) Pt 1_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 330968,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:zto2QbTR",
+      "original_path": "👣 Evolve (Start Here)/172. Live Product Research w Kalodata - Pt 2 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 161416499,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:615CHDJZ",
+      "original_path": "👣 Evolve (Start Here)/172. Live Product Research w_ Kalodata - Pt 2_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 341124,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:u452FLDZ",
+      "original_path": "👣 Evolve (Start Here)/173. How Brands Actually Scale to 8 Figures 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 16894172,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:vo4UVbIQ",
+      "original_path": "👣 Evolve (Start Here)/173. How Brands Actually Scale to 8 Figures.pptx",
+      "size_bytes": 2963606,
+      "extension": ".pptx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:3450QByQ",
+      "original_path": "👣 Evolve (Start Here)/173. How Brands Actually Scale to 8 Figures_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 338813,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:fkxgzDYR",
+      "original_path": "👣 Evolve (Start Here)/174. 🆕 I'm Overwhelmed Stuck - Wat Do 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 33552433,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:a4pWHRgS",
+      "original_path": "👣 Evolve (Start Here)/174. 🆕 I'm Overwhelmed _Stuck - Wat Do__👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 334488,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:i44yhBJC",
+      "original_path": "👣 Evolve (Start Here)/175. What To Focus On To Scale To $10M mth (By Rev) 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 55062998,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:OxwQFBpZ",
+      "original_path": "👣 Evolve (Start Here)/175. What To Focus On To Scale To $10M_mth (By Rev)_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 349328,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:OphkhRzb",
+      "original_path": "👣 Evolve (Start Here)/18. 💥 Action Item_ Self Onboarding.docx",
+      "size_bytes": 32938,
+      "extension": ".docx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:ilpW1ZpI",
+      "original_path": "👣 Evolve (Start Here)/18. 💥 Action Item_ Self Onboarding_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 231011,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:mphERTAR",
+      "original_path": "👣 Evolve (Start Here)/19. Getting Ready To Do Research - Part 1 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 13752935,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:Wp5WSLQC",
+      "original_path": "👣 Evolve (Start Here)/19. Getting Ready To Do Research - Part 1_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 370225,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:W5w02RZB",
+      "original_path": "👣 Evolve (Start Here)/2. 🆕 Win The $100k Day Award 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 7730924,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:P5g2lDaC",
+      "original_path": "👣 Evolve (Start Here)/2. 🆕 Win The $100k_Day Award_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 351986,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:fk5CEJhI",
+      "original_path": "👣 Evolve (Start Here)/20. Getting Ready To Do Research - Part 2 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 12270351,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:LwwShT4K",
+      "original_path": "👣 Evolve (Start Here)/20. Getting Ready To Do Research - Part 2_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 366091,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:m1wiDJSa",
+      "original_path": "👣 Evolve (Start Here)/21. 💥 Action Item_ Copy Research Document.docx",
+      "size_bytes": 36022,
+      "extension": ".docx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:mg5EUbCI",
+      "original_path": "👣 Evolve (Start Here)/21. 💥 Action Item_ Copy Research Document_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 226686,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:zp423D4C",
+      "original_path": "👣 Evolve (Start Here)/22. Understanding Your Product - Part 1 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 10434558,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:Pww0hT4K",
+      "original_path": "👣 Evolve (Start Here)/22. Understanding Your Product - Part 1_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 366917,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:nwoglBIC",
+      "original_path": "👣 Evolve (Start Here)/23. Understanding The Product - Part 2 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 4745351,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:7ohk0DKZ",
+      "original_path": "👣 Evolve (Start Here)/23. Understanding The Product - Part 2_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 328132,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:75wg2baR",
+      "original_path": "👣 Evolve (Start Here)/24. 💥 Action Item_ Understanding Product_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 222304,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:jh520L6K",
+      "original_path": "👣 Evolve (Start Here)/25. Google Research - Part 1 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 10948926,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:bggADJYY",
+      "original_path": "👣 Evolve (Start Here)/25. Google Research - Part 1_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 350166,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:agpG1DKb",
+      "original_path": "👣 Evolve (Start Here)/26. Google Research - Part 2 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 20880069,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:OpxSwZZD",
+      "original_path": "👣 Evolve (Start Here)/26. Google Research - Part 2_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 342788,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:e4xSATaS",
+      "original_path": "👣 Evolve (Start Here)/27. 💥 Action Item_ Google Research_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 223420,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:ew5SmRwL",
+      "original_path": "👣 Evolve (Start Here)/28. Amazon Research - Part 1 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 20066871,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:f85AkTbZ",
+      "original_path": "👣 Evolve (Start Here)/28. Amazon Research - Part 1_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 360857,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:jog0ULrJ",
+      "original_path": "👣 Evolve (Start Here)/29. Amazon Research - Part 2 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 10238512,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:yx5yFTyC",
+      "original_path": "👣 Evolve (Start Here)/29. Amazon Research - Part 2_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 357604,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:KxgWyTSB",
+      "original_path": "👣 Evolve (Start Here)/3. 90 Seconds Tip to Hit $1m Month 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 2840294,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:mo4QVJiI",
+      "original_path": "👣 Evolve (Start Here)/3. 90 Seconds Tip to Hit $1m_Month_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 341774,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:rshiRbhB",
+      "original_path": "👣 Evolve (Start Here)/30. 💥 Action Item_ Amazon Research_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 225470,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:ykgyTLIT",
+      "original_path": "👣 Evolve (Start Here)/31. Reddit Research 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 13578877,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:KxgQAR4Y",
+      "original_path": "👣 Evolve (Start Here)/31. Reddit Research_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 380896,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:HlxEiBLB",
+      "original_path": "👣 Evolve (Start Here)/32. 💥 Action Item_ Reddit Research_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 253141,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:u4pGTJzC",
+      "original_path": "👣 Evolve (Start Here)/33. YouTube Research 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 27298456,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:Ko4ylD7Y",
+      "original_path": "👣 Evolve (Start Here)/33. YouTube Research_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 352007,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:DsxkxJSZ",
+      "original_path": "👣 Evolve (Start Here)/34. 💥 Action Item_ YouTube Research_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 246258,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:GxpCnB7B",
+      "original_path": "👣 Evolve (Start Here)/35. Competitor Research - Part 1 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 15627625,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:H9pwxbxQ",
+      "original_path": "👣 Evolve (Start Here)/35. Competitor Research - Part 1_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 351834,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:ehgyDZAZ",
+      "original_path": "👣 Evolve (Start Here)/36. Competitor Research - Part 2 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 7585258,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:rogUUTBC",
+      "original_path": "👣 Evolve (Start Here)/36. Competitor Research - Part 2_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 374572,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:rphGjL6Q",
+      "original_path": "👣 Evolve (Start Here)/37. 💥 Action Item_ Competitor Research_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 207709,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:L54AHL7I",
+      "original_path": "👣 Evolve (Start Here)/38. Facebook Research - Part 1 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 18473276,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:2gowWBgS",
+      "original_path": "👣 Evolve (Start Here)/38. Facebook Research - Part 1_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 413411,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:3ogWTRKK",
+      "original_path": "👣 Evolve (Start Here)/39. Facebook Research - Part 2 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 10350091,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:iwgUxBaL",
+      "original_path": "👣 Evolve (Start Here)/39. Facebook Research - Part 2_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 385700,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:alogzBpK",
+      "original_path": "👣 Evolve (Start Here)/4. 📌 100+ Winning Ads Document 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 25734438,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:vl4WGbhB",
+      "original_path": "👣 Evolve (Start Here)/4. 📌 100+ Winning Ads Document_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 341749,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:a9hQABDL",
+      "original_path": "👣 Evolve (Start Here)/40. 💥 Action Item_ Facebook Research_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 241738,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:fsoyALBD",
+      "original_path": "👣 Evolve (Start Here)/41. Creative Research - Part 1 (Atria) 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 8031115,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:O1hCDJAD",
+      "original_path": "👣 Evolve (Start Here)/41. Creative Research - Part 1 (Atria)_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 404088,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:fpok2B7B",
+      "original_path": "👣 Evolve (Start Here)/42. Creative Research - Part 2 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 26352904,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:HwoChTRb",
+      "original_path": "👣 Evolve (Start Here)/42. Creative Research - Part 2_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 379027,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:Wl5yRDJI",
+      "original_path": "👣 Evolve (Start Here)/43. 💥 Action Item_ Creative Research_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 263840,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:z0wwxDRT",
+      "original_path": "👣 Evolve (Start Here)/44. TikTok Research 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 24718404,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:y9hE1TyL",
+      "original_path": "👣 Evolve (Start Here)/44. TikTok Research_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 359723,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:6t5GCDIJ",
+      "original_path": "👣 Evolve (Start Here)/45. 💥 Action Item_ TikTok Research_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 234415,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:7lxgHRqJ",
+      "original_path": "👣 Evolve (Start Here)/46. Ad Account Research 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 19514729,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:Kt4yCDoA",
+      "original_path": "👣 Evolve (Start Here)/46. Ad Account Research_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 363236,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:yswghBiJ",
+      "original_path": "👣 Evolve (Start Here)/47. 💥 Action Item_ Ad Account Research_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 239629,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:P8500DrD",
+      "original_path": "👣 Evolve (Start Here)/48. Understanding Other Desires 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 13903738,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:zwxUnDaD",
+      "original_path": "👣 Evolve (Start Here)/48. Understanding Other Desires_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 365465,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:u55mURia",
+      "original_path": "👣 Evolve (Start Here)/49. Understanding Objections 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 11684143,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:eg5iFJ7A",
+      "original_path": "👣 Evolve (Start Here)/49. Understanding Objections_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 373218,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:ao4CjbyI",
+      "original_path": "👣 Evolve (Start Here)/5. 📌 100+ Hook Templates (From Ads Doc) 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 10359773,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:G4hWCLoK",
+      "original_path": "👣 Evolve (Start Here)/5. 📌 100+ Hook Templates (From Ads Doc)_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 329941,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:rthwWBjK",
+      "original_path": "👣 Evolve (Start Here)/50. 💥 Action Item_ Objections & Other Desires_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 212017,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:asgUEZTS",
+      "original_path": "👣 Evolve (Start Here)/51. Cleaning Up The Research Doc 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 5736995,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:OsxyRLRb",
+      "original_path": "👣 Evolve (Start Here)/51. Cleaning Up The Research Doc_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 356400,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:zshmHJ6J",
+      "original_path": "👣 Evolve (Start Here)/52. 💥 Action Item_ Clean Up The Research Doc_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 232913,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:jshCCLrR",
+      "original_path": "👣 Evolve (Start Here)/53. 🆕 Ad ONLY Instagram Research 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 14745862,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:Th5SwBwI",
+      "original_path": "👣 Evolve (Start Here)/53. 🆕 Ad ONLY Instagram Research_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 338810,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:384CTbga",
+      "original_path": "👣 Evolve (Start Here)/54. Answer The Public - Research 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 36517798,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:T0wk3RKD",
+      "original_path": "👣 Evolve (Start Here)/54. Answer The Public - Research_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 371607,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:PopS0bBC",
+      "original_path": "👣 Evolve (Start Here)/55. Customer Phone Call Research 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 11344769,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:CowEkTzS",
+      "original_path": "👣 Evolve (Start Here)/55. Customer Phone Call Research_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 366230,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:z85EyBSb",
+      "original_path": "👣 Evolve (Start Here)/56. 🆕 Organizing Insights Overview (Must-Watch) 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 29606189,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:30hSiRZI",
+      "original_path": "👣 Evolve (Start Here)/56. 🆕 Organizing Insights Overview (Must-Watch).docx",
+      "size_bytes": 10872,
+      "extension": ".docx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:GwwwnR4b",
+      "original_path": "👣 Evolve (Start Here)/56. 🆕 Organizing Insights Overview (Must-Watch)_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 350728,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:atgE0DLa",
+      "original_path": "👣 Evolve (Start Here)/57. Understanding Your Product - Part 1 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 42266162,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:a1wWBbQb",
+      "original_path": "👣 Evolve (Start Here)/57. Understanding Your Product - Part 1_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 343671,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:Dgog3T7I",
+      "original_path": "👣 Evolve (Start Here)/57. Understanding Your Product.docx",
+      "size_bytes": 8942,
+      "extension": ".docx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:vowmRDxB",
+      "original_path": "👣 Evolve (Start Here)/58. Understanding Your Product - Part 2 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 86898549,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:m8xEmJBZ",
+      "original_path": "👣 Evolve (Start Here)/58. Understanding Your Product - Part 2_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 340642,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:C8gkxDCC",
+      "original_path": "👣 Evolve (Start Here)/59. Understanding Your Product - Part 3 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 14481374,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:WwhyTB4C",
+      "original_path": "👣 Evolve (Start Here)/59. Understanding Your Product - Part 3_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 336217,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:SkxygDaa",
+      "original_path": "👣 Evolve (Start Here)/6. 📌 13 Winning Static Ad Templates 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 35001233,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:C4o0kZhT",
+      "original_path": "👣 Evolve (Start Here)/6. 📌 13 Winning Static Ad Templates_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 319890,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:7w52HZ5Y",
+      "original_path": "👣 Evolve (Start Here)/60. 💥 Action Item_ Complete Understanding Product Doc.docx",
+      "size_bytes": 8942,
+      "extension": ".docx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:WpwmEJaT",
+      "original_path": "👣 Evolve (Start Here)/60. 💥 Action Item_ Complete Understanding Product Doc_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 240619,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:O9hijJrJ",
+      "original_path": "👣 Evolve (Start Here)/61. Understanding & Applying Desire - Part 1 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 245276191,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:b5oSmB5Z",
+      "original_path": "👣 Evolve (Start Here)/61. Understanding & Applying Desire - Part 1_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 343077,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:yg4UQDiR",
+      "original_path": "👣 Evolve (Start Here)/61. Understanding & Applying Desire.docx",
+      "size_bytes": 13954,
+      "extension": ".docx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:O4wyxBSS",
+      "original_path": "👣 Evolve (Start Here)/62. The Desire Calendar - Part 2 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 52036077,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:K5xEXRbQ",
+      "original_path": "👣 Evolve (Start Here)/62. The Desire Calendar - Part 2_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 342654,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:ntoQRZoI",
+      "original_path": "👣 Evolve (Start Here)/62. The Desire Calendar.docx",
+      "size_bytes": 1016211,
+      "extension": ".docx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:X1pW0B5S",
+      "original_path": "👣 Evolve (Start Here)/63. How To Find Desires - Part 3 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 133462458,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:u4gm3LYI",
+      "original_path": "👣 Evolve (Start Here)/63. How To Find Desires - Part 3_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 324849,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:v95QgTDb",
+      "original_path": "👣 Evolve (Start Here)/63. How To Find Desires.docx",
+      "size_bytes": 12831,
+      "extension": ".docx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:uwpmzTgJ",
+      "original_path": "👣 Evolve (Start Here)/64. link anyway.docx",
+      "size_bytes": 7206,
+      "extension": ".docx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:K54CzRjR",
+      "original_path": "👣 Evolve (Start Here)/64. 💥 Action Item_ Start Your Desire Hunt.docx",
+      "size_bytes": 12834,
+      "extension": ".docx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:m5hiyLAL",
+      "original_path": "👣 Evolve (Start Here)/64. 💥 Action Item_ Start Your Desire Hunt_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 238546,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:WwoUSTra",
+      "original_path": "👣 Evolve (Start Here)/65. Understanding Market Sophistication - Part 1 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 103473457,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:SggkWZYZ",
+      "original_path": "👣 Evolve (Start Here)/65. Understanding Market Sophistication - Part 1_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 343815,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:HwgwARJR",
+      "original_path": "👣 Evolve (Start Here)/65. Understanding Market Sophistication.docx",
+      "size_bytes": 1012894,
+      "extension": ".docx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:rxgGTJoY",
+      "original_path": "👣 Evolve (Start Here)/66. How To Find & Apply New Mechanisms - Part 2 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 29083521,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:2hwixTqJ",
+      "original_path": "👣 Evolve (Start Here)/66. How To Find & Apply New Mechanisms - Part 2_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 343156,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:6lwGFJwb",
+      "original_path": "👣 Evolve (Start Here)/66. How To Find & Apply New Mechanisms.docx",
+      "size_bytes": 8699,
+      "extension": ".docx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:Dh4C2ZIA",
+      "original_path": "👣 Evolve (Start Here)/67. 💥 Action Item Find New Mechanisms 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 37738050,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:yl5yybYL",
+      "original_path": "👣 Evolve (Start Here)/67. 💥 Action Item_ Find New Mechanisms.docx",
+      "size_bytes": 8700,
+      "extension": ".docx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:fs5CWJJD",
+      "original_path": "👣 Evolve (Start Here)/67. 💥 Action Item_ Find New Mechanisms_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 231918,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:74gmXZoY",
+      "original_path": "👣 Evolve (Start Here)/68. How To Find & Apply New Information - Part 3 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 57097032,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:LkxGXbwS",
+      "original_path": "👣 Evolve (Start Here)/68. How To Find & Apply New Information - Part 3_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 343713,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:fkg2DBrL",
+      "original_path": "👣 Evolve (Start Here)/68. How To Find & Apply New Information.docx",
+      "size_bytes": 1661686,
+      "extension": ".docx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:D0oiFJzL",
+      "original_path": "👣 Evolve (Start Here)/69. 💥 Action Item_ Find New Information.docx",
+      "size_bytes": 1661686,
+      "extension": ".docx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:C5xiGRqa",
+      "original_path": "👣 Evolve (Start Here)/69. 💥 Action Item_ Find New Information_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 253019,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:Kxw2TJTD",
+      "original_path": "👣 Evolve (Start Here)/7. 📌 Evolve Master Prompt Doc.docx",
+      "size_bytes": 111269,
+      "extension": ".docx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:yh4gSDTJ",
+      "original_path": "👣 Evolve (Start Here)/7. 📌 Evolve Master Prompt Doc_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 209399,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:jp5GGBBK",
+      "original_path": "👣 Evolve (Start Here)/70. How To Find & Apply New Identities - Part 4 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 18254782,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:DhogwLpS",
+      "original_path": "👣 Evolve (Start Here)/70. How To Find & Apply New Identities_ - Part 4_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 343472,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:75wUwD6T",
+      "original_path": "👣 Evolve (Start Here)/71. ⭐️ The Evolve Avatar Training 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 467023844,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:W0h2FRTL",
+      "original_path": "👣 Evolve (Start Here)/71. ⭐️ The Evolve Avatar Training.docx",
+      "size_bytes": 1858083,
+      "extension": ".docx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:L04yRb6I",
+      "original_path": "👣 Evolve (Start Here)/71. ⭐️ The Evolve Avatar Training_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 341744,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:msx0XZiY",
+      "original_path": "👣 Evolve (Start Here)/72. Evolve Avatar Training (AI Podcast Version) 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 26731094,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:7whiRB5R",
+      "original_path": "👣 Evolve (Start Here)/72. Evolve Avatar Training (AI Podcast Version)_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 296914,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:LtpkBBjI",
+      "original_path": "👣 Evolve (Start Here)/73. 💥 Action Item_ Take a Breather_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 235653,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:HphiHJyI",
+      "original_path": "👣 Evolve (Start Here)/74. How To Build Core Avatars 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 132296065,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:j45E3BJS",
+      "original_path": "👣 Evolve (Start Here)/74. How To Build Core Avatars_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 336465,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:v05GRLaI",
+      "original_path": "👣 Evolve (Start Here)/75. 💥 Action Item_ Identify Your Core Avatars_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 245545,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:35gwCZSC",
+      "original_path": "👣 Evolve (Start Here)/76. How To Build Sub Avatars 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 96869872,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:G9x0xLKL",
+      "original_path": "👣 Evolve (Start Here)/76. How To Build Sub Avatars_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 349010,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:PkgyjTaZ",
+      "original_path": "👣 Evolve (Start Here)/77. 💥 Action Item_ Create Your Sub Avatars_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 246944,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:fs5iVDSB",
+      "original_path": "👣 Evolve (Start Here)/78. Understanding Ad Definitions 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 44912461,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:e4gkABSK",
+      "original_path": "👣 Evolve (Start Here)/78. Understanding Ad Definitions_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 331247,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:zghkDZzD",
+      "original_path": "👣 Evolve (Start Here)/79. How To Come Up With Ad Angles 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 116420693,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:GpxQFZaD",
+      "original_path": "👣 Evolve (Start Here)/79. How To Come Up With Ad Angles.docx",
+      "size_bytes": 21804440,
+      "extension": ".docx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:n4gWADBQ",
+      "original_path": "👣 Evolve (Start Here)/79. How To Come Up With Ad Angles_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 336681,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:3t4EzBxQ",
+      "original_path": "👣 Evolve (Start Here)/8. Overview Of Psychology 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 2996267,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:6toGiBQL",
+      "original_path": "👣 Evolve (Start Here)/8. Overview Of Psychology_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 366705,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:WwpSTL4Q",
+      "original_path": "👣 Evolve (Start Here)/80. 💥 Action Item_ Come Up With New Ad Angles_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 211713,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:Hp4UQZhC",
+      "original_path": "👣 Evolve (Start Here)/81. The 3 Testing Methods - Part 1 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 60035517,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:e8oSABRK",
+      "original_path": "👣 Evolve (Start Here)/81. The 3 Testing Methods - Part 1_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 327136,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:qwh0yLya",
+      "original_path": "👣 Evolve (Start Here)/81. The 3 Testing Methods.docx",
+      "size_bytes": 2052423,
+      "extension": ".docx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:Pl5iiBDR",
+      "original_path": "👣 Evolve (Start Here)/82. The 3 Testing Methods - Part 2 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 73737461,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:2hp0lRbI",
+      "original_path": "👣 Evolve (Start Here)/82. The 3 Testing Methods - Part 2_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 328527,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:245yWTxQ",
+      "original_path": "👣 Evolve (Start Here)/83. Putting All The Planning Together (Examples) 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 105806456,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:21oU1BaJ",
+      "original_path": "👣 Evolve (Start Here)/83. Putting All The Planning Together (Examples).docx",
+      "size_bytes": 3228982,
+      "extension": ".docx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:j1xSHLQK",
+      "original_path": "👣 Evolve (Start Here)/83. Putting All The Planning Together (Examples)_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 334024,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:ehhAxJLT",
+      "original_path": "👣 Evolve (Start Here)/84. 💥 Action Item_ Plan Your 5-10 First Concepts_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 219169,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:ao5y3LqL",
+      "original_path": "👣 Evolve (Start Here)/85. ⭐️ The 3.0 Evolve Growth Guide 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 73515323,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:iowGBTYT",
+      "original_path": "👣 Evolve (Start Here)/85. ⭐️ The 3.0 Evolve Growth Guide.xlsx",
+      "size_bytes": 250600,
+      "extension": ".xlsx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:uoxEUL5D",
+      "original_path": "👣 Evolve (Start Here)/85. ⭐️ The 3.0 Evolve Growth Guide_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 334456,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:Kp4kxRoC",
+      "original_path": "👣 Evolve (Start Here)/86. 💥 Action Item_ Make a Copy + Add Your Concepts.xlsx",
+      "size_bytes": 250094,
+      "extension": ".xlsx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:mhomyTxB",
+      "original_path": "👣 Evolve (Start Here)/86. 💥 Action Item_ Make a Copy + Add Your Concepts_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 243099,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:LsgATDrT",
+      "original_path": "👣 Evolve (Start Here)/87. 🆕 Overview Of How To Make Ads 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 11122385,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:SsowgJqA",
+      "original_path": "👣 Evolve (Start Here)/87. 🆕 Overview Of How To Make Ads_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 348544,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:C5pAFZIT",
+      "original_path": "👣 Evolve (Start Here)/88. The Execution Problem 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 107687671,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:W4gSzJaA",
+      "original_path": "👣 Evolve (Start Here)/88. The Execution Problem.docx",
+      "size_bytes": 12901,
+      "extension": ".docx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:D0xiXbLZ",
+      "original_path": "👣 Evolve (Start Here)/88. The Execution Problem_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 338323,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:fgxQBJKA",
+      "original_path": "👣 Evolve (Start Here)/89. Every Ad Format That You Can Use 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 30393106,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:S4gQwbCT",
+      "original_path": "👣 Evolve (Start Here)/89. Every Ad Format That You Can Use.docx",
+      "size_bytes": 11876851,
+      "extension": ".docx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:Gk50CbTA",
+      "original_path": "👣 Evolve (Start Here)/89. Every Ad Format That You Can Use_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 335049,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:X1hwGRpS",
+      "original_path": "👣 Evolve (Start Here)/9. Market Desires 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 35737176,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:a5pQjRRJ",
+      "original_path": "👣 Evolve (Start Here)/9. Market Desires.pptx",
+      "size_bytes": 6914138,
+      "extension": ".pptx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:ixpkURxC",
+      "original_path": "👣 Evolve (Start Here)/9. Market Desires_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 352280,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:D84SSD5I",
+      "original_path": "👣 Evolve (Start Here)/90. 🆕 How To Get A-Players Editors & Content 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 35475621,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:egwmVLjR",
+      "original_path": "👣 Evolve (Start Here)/90. 🆕 How To Get A-Players Editors & Content_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 374811,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:ioxADRxR",
+      "original_path": "👣 Evolve (Start Here)/91. 💥 Action Item_ Go To Copywriting Program_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 215687,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:rkpmzZqC",
+      "original_path": "👣 Evolve (Start Here)/92. Evolve Facebook Ads Philosophy 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 14483758,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:H44GmDyR",
+      "original_path": "👣 Evolve (Start Here)/92. Evolve Facebook Ads Philosophy_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 381510,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:mo4myb7I",
+      "original_path": "👣 Evolve (Start Here)/93. 🆕 Full Media Buying Strategy Outline (2026) 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 14852765,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:HhpCQBpa",
+      "original_path": "👣 Evolve (Start Here)/93. 🆕 Full Media Buying Strategy Outline (2026).xlsx",
+      "size_bytes": 164123,
+      "extension": ".xlsx",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:r1pUBDzY",
+      "original_path": "👣 Evolve (Start Here)/93. 🆕 Full Media Buying Strategy Outline (2026)_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 372750,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:alpUkBgQ",
+      "original_path": "👣 Evolve (Start Here)/94. How To Set Up a 3 2 2 Campaign 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 84443348,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:XohSgDZZ",
+      "original_path": "👣 Evolve (Start Here)/94. How To Set Up a 3_2_2 Campaign_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 368146,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:fxoi0B7Y",
+      "original_path": "👣 Evolve (Start Here)/95. How To Test Landing Pages 3 2 2 2 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 18342726,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:Kt4GRZiL",
+      "original_path": "👣 Evolve (Start Here)/95. How To Test Landing Pages 3_2_2_2_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 356985,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:7soWRL7T",
+      "original_path": "👣 Evolve (Start Here)/96. 🆕 How To Set Up Zombie Graveyard Campaign 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 25087600,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:Lw5GTB5R",
+      "original_path": "👣 Evolve (Start Here)/96. 🆕 How To Set Up Zombie_Graveyard Campaign_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 327828,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:uwhCWBxL",
+      "original_path": "👣 Evolve (Start Here)/97. 🆕 How To Set Up ABO Scaling Campaign 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 48698504,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:H0p0kJTI",
+      "original_path": "👣 Evolve (Start Here)/97. 🆕 How To Set Up ABO Scaling Campaign_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 344039,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:LhokhTzB",
+      "original_path": "👣 Evolve (Start Here)/98. How To Set Up Raw Content Campaign 👣 Evolve (Start Here) Evolve.mp4",
+      "size_bytes": 11274462,
+      "extension": ".mp4",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:qgxmkZbS",
+      "original_path": "👣 Evolve (Start Here)/98. How To Set Up Raw Content Campaign_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 336256,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    },
+    {
+      "source_id": "mega:jhQDiSSY:ah5EWTZY",
+      "original_path": "👣 Evolve (Start Here)/99. 💥 Action Item - Launch Your Campaigns_👣 Evolve (Start Here)_Evolve.html",
+      "size_bytes": 226288,
+      "extension": ".html",
+      "status": "pending",
+      "stages": {
+        "downloaded": false,
+        "transcribed": false,
+        "extracted": false,
+        "summarized": false,
+        "verified": false
+      },
+      "evidence_paths": [],
+      "wiki_pages": [],
+      "notes": ""
+    }
+  ]
+}

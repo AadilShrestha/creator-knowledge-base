@@ -4,9 +4,9 @@
 
 Build a source-grounded reference for agents and humans doing e-commerce research, copywriting, competitor-ad analysis, UGC scripts, creative briefs, and testing. Preserve teaching beyond that focus when a course contains it; classify it rather than dropping it.
 
-At session start: read this file, `knowledge-base/CLAUDE.md`, the assigned course's `PROGRESS.md` and `manifest.json`, then its `index.md`. Check `git status --short --branch` before editing. Resolve paths from the repository root, never from a Windows drive hardcoded in old tools.
+At session start: read this file, `knowledge-base/CLAUDE.md`, the course's `PROGRESS.md` and `manifest.json`, then its `index.md`, when those files exist. Resolve paths from the workspace root, never from a Windows drive hardcoded in old tools. Create missing course checkpoints before processing sources.
 
-For the friend assignment, read `handoff/FRIEND-PROMPT.md`; on a new Mac also read `handoff/MAC-SETUP.md`. That assignment's creator-local paths below override the older single-course paths in `knowledge-base/CLAUDE.md`.
+For new courses, the creator-local paths below take precedence over the older single-course paths in `knowledge-base/CLAUDE.md`.
 
 ## Three layers and exact destinations
 
@@ -16,11 +16,11 @@ For the friend assignment, read `handoff/FRIEND-PROMPT.md`; on a new Mac also re
 
 Existing Tether Lab pages keep their current paths. New creators use lowercase ASCII slugs. Use `evolve` as the source organization until instructors are verified. Multiple courses from a creator remain separate course subfolders. Course-local pages retain attribution; after review, reusable cross-creator synthesis can be added to shared `wiki/concepts/`, `wiki/frameworks/`, etc., with backlinks to each creator.
 
-## Branch ownership
+## Local workflow
 
-Work on `contrib/friend-creators`. The friend owns the two Evolve course folders, their source-evidence folders, and their image folders. Other contributors own existing Tether Lab pages and global indexes/synthesis. Link to existing shared knowledge without rewriting it. Put proposed global edits in a course's `MERGE-NOTES.md` for the owner. Do not regenerate the global index with the old Windows-only `_tools/build_index.py`.
+Build and save the knowledge base directly in the selected local workspace. No repository, branch, commit, push, or pull request is required for ingestion. Perform Git operations only when explicitly requested. Preserve unrelated existing work and keep each creator/course in its own folder. Link to related shared knowledge and integrate reusable ideas with source attribution. Do not regenerate the global index with the old Windows-only `_tools/build_index.py`; it assumes the old course depth.
 
-Make separate commits per course or coherent batch. Stage explicit paths. Review staged filenames and `git diff --cached --stat`; commit text and selected images only. Push the contribution branch, open a PR against `main`, and leave merging to the owner. Never force-push or overwrite another contributor's work.
+Detect the operating system, architecture, disk space, and available tools. Set up required local dependencies and scripts, using a Python virtual environment. On a Mac, select an Apple Silicon or Intel-compatible transcription backend. Ask the user only for an actual missing permission, login, or access requirement; give a single concrete step and continue independent work.
 
 ## Ingestion workflow
 
@@ -46,8 +46,8 @@ Manifest statuses: `pending`, `downloaded`, `transcribed`, `extracted`, `summari
 
 Only mark `verified` when the complete source was processed, its linked evidence and wiki page exist, meaningful visuals were considered, and checks passed. The manifest must map every teaching source to a page or a documented exclusion/blocker. Report exclusions and blockers separately; zero pending items alone does not mean complete.
 
-Before stopping: save exact counts, blockers, current lesson, next command, and latest commit in `PROGRESS.md`; leave a concise status for the human. At a session limit, the next session resumes from these files. Do not promise unattended work after the process stops.
+Before stopping: save exact counts, blockers, current lesson, completed files, and next action/command in `PROGRESS.md`; leave a concise status for the human. At a session limit, the next session resumes from these files. Do not promise unattended work after the process stops.
 
 ## Query and maintenance
 
-For answers, start with the relevant course/global index, read the supporting pages, and cite course, lesson, and timestamp/page. File reusable syntheses back into the appropriate wiki scope and log them. Periodic lint checks links, missing evidence, unindexed pages, contradictions, and source coverage. Read `handoff/OWNER-GITHUB.md` for the owner's integration workflow.
+For answers, start with the relevant course/global index, read the supporting pages, and cite course, lesson, and timestamp/page. File reusable syntheses back into the appropriate wiki scope and log them. Periodic lint checks links, missing evidence, unindexed pages, contradictions, and source coverage.
