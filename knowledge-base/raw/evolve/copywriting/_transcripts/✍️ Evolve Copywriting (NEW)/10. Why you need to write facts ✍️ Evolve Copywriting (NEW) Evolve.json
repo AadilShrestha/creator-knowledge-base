@@ -1,0 +1,868 @@
+{
+  "source_file": "10. Why you need to write facts ✍️ Evolve Copywriting (NEW) Evolve.mp4",
+  "source_id": "mega:LlQnyCIZ:npoyjTyA",
+  "source_sha256": "f0aa3f6d53271edc9b2f72115f5440176bfd6591d5b52669172576abc05aa33e",
+  "backend": "faster-whisper-cuda-int8_float16",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 828.03,
+  "last_segment_end": 828.02,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.38,
+      "text": "All right. In this module, we are going to be talking about why you need to write with facts."
+    },
+    {
+      "start": 5.46,
+      "end": 9.22,
+      "text": "I'm actually really excited about this module. I'm not gonna lie, this specifically gets me"
+    },
+    {
+      "start": 9.22,
+      "end": 13.84,
+      "text": "fired up because I think this actually pushes a lot of you guys to really think about what"
+    },
+    {
+      "start": 13.84,
+      "end": 18.46,
+      "text": "you're advertising. But more importantly, it just brings, I think, the best out of a lot of"
+    },
+    {
+      "start": 18.46,
+      "end": 24.74,
+      "text": "people's writing. So the number one reason why you need to write with facts is because facts are"
+    },
+    {
+      "start": 24.74,
+      "end": 32.6,
+      "text": "unbiased. Okay. If I say I'm five foot 10, right? It's fact. There's no bias to that. I'm not saying"
+    },
+    {
+      "start": 32.6,
+      "end": 39.8,
+      "text": "it's good. I'm not saying it's bad. Right. But opinions are completely biased, right? If I'm"
+    },
+    {
+      "start": 39.8,
+      "end": 44.86,
+      "text": "like, oh, if you're five foot 10, you're short. It's like, that's just an opinion. Like some people"
+    },
+    {
+      "start": 44.86,
+      "end": 48.06,
+      "text": "might see five foot 10 is tall. Do you think somebody who's five foot see someone who's five"
+    },
+    {
+      "start": 48.06,
+      "end": 53.5,
+      "text": "10 and thinks like that guy's tall? Like maybe, right? Maybe they don't. It's just opinions are,"
+    },
+    {
+      "start": 53.5,
+      "end": 59.78,
+      "text": "you can always argue them and people will always have bias on opinions. Okay. But facts are facts."
+    },
+    {
+      "start": 60.04,
+      "end": 66.22,
+      "text": "Okay. And so this saying right here, I just, oh, I love, I love the saying so much. And you guys will"
+    },
+    {
+      "start": 66.22,
+      "end": 74.94,
+      "text": "know exactly who this is from, but you want to turn a matter of opinion into a matter of fact. Okay."
+    },
+    {
+      "start": 75.1,
+      "end": 82.48,
+      "text": "So again, shout out to Harry. Whenever you are stating something, just ask yourself, is this an"
+    },
+    {
+      "start": 82.48,
+      "end": 90.38,
+      "text": "opinion? If it is an opinion, just try to turn into a fact. Okay. And the, the biggest thing with"
+    },
+    {
+      "start": 90.38,
+      "end": 94.88,
+      "text": "this is again, facts are true opinions are not, but the biggest thing with this is that facts, just"
+    },
+    {
+      "start": 94.88,
+      "end": 101.2,
+      "text": "like how we talked about before, are usually going to communicate something more. Right. And so when"
+    },
+    {
+      "start": 101.2,
+      "end": 107.2,
+      "text": "in doubt, just give a fact. Okay. Uh, and so I want to do a few exercises with you guys. Cause I think"
+    },
+    {
+      "start": 107.2,
+      "end": 111.32,
+      "text": "it's fun. I think one of these are Harry's the other two. I kind of just added in exercise. Number"
+    },
+    {
+      "start": 111.32,
+      "end": 117.2,
+      "text": "one facts versus opinions. Okay. So here it is. Here's a list of a bunch of different, you know,"
+    },
+    {
+      "start": 117.2,
+      "end": 122.54,
+      "text": "saints, right? Unmatched power and performance. The first stainless steel humidifier, the best tasting"
+    },
+    {
+      "start": 122.54,
+      "end": 129.6,
+      "text": "protein powder, oil your way to fuller hair, reduces cavities by 45%. 15 minutes could save you 15%"
+    },
+    {
+      "start": 129.6,
+      "end": 136.3,
+      "text": "more on car insurance. Okay. Now are these facts or opinions? Did you, did you spot the facts? Because"
+    },
+    {
+      "start": 136.3,
+      "end": 142.74,
+      "text": "it's a mix. All right. I'll give you that one, but did you spot the facts? Maybe you did. Well,"
+    },
+    {
+      "start": 143.04,
+      "end": 150.14,
+      "text": "here they are unmatched power and performance. Not a fact, right? Like what the first stainless steel"
+    },
+    {
+      "start": 150.14,
+      "end": 155.42,
+      "text": "humidifier, that's a fact, right? And it can be proven. And this was an angle that actually murdered for"
+    },
+    {
+      "start": 155.42,
+      "end": 161.04,
+      "text": "us when we were stealing a humidifier brand. Okay. Then the best tasting protein powder. It's not a"
+    },
+    {
+      "start": 161.04,
+      "end": 167.54,
+      "text": "fact. That is fully an opinion. Oil your way to fuller hair. Again, complete opinion, right?"
+    },
+    {
+      "start": 168.14,
+      "end": 173.86,
+      "text": "Reduces cavities by 45%. Well, if you had a study that showed that, guess what? That's a fact."
+    },
+    {
+      "start": 174.0,
+      "end": 177.94,
+      "text": "And then the bottom one I threw down here was kind of a little trick one. Um, but this just kind of"
+    },
+    {
+      "start": 177.94,
+      "end": 183.92,
+      "text": "shows how you can work facts and opinions together, but you can sometimes make your opinions appear more"
+    },
+    {
+      "start": 183.92,
+      "end": 189.8,
+      "text": "factual by saying, Hey, 15 minutes. That's just like, Hey, spend 15 minutes with us. All right."
+    },
+    {
+      "start": 190.22,
+      "end": 196.0,
+      "text": "Could save you 15% or more on insurance. Now this becomes a bit of opinion just by adding this word"
+    },
+    {
+      "start": 196.0,
+      "end": 202.4,
+      "text": "could, but they have statistics and facts that showed that they've had people spend 15 minutes"
+    },
+    {
+      "start": 202.4,
+      "end": 207.58,
+      "text": "with them. And in that 15 minutes, they were able to save that person 15% or, you know, potentially more"
+    },
+    {
+      "start": 207.58,
+      "end": 212.42,
+      "text": "on car insurance. Okay. So they are kind of merging fact and opinion a little bit together. But what this"
+    },
+    {
+      "start": 212.42,
+      "end": 217.74,
+      "text": "is saying is like, it's, it's rooted in fact. And again, this is goes a lot more. It's like their"
+    },
+    {
+      "start": 217.74,
+      "end": 222.3,
+      "text": "brand slogan with the 15 and 15, you remember it, right. And you see it and it kind of sticks with"
+    },
+    {
+      "start": 222.3,
+      "end": 226.72,
+      "text": "you. Uh, but my point with this is, is that if you're able to kind of spot the difference between"
+    },
+    {
+      "start": 226.72,
+      "end": 230.62,
+      "text": "facts and opinions, again, always ask yourself, is this a fact or is this opinion? And again,"
+    },
+    {
+      "start": 230.62,
+      "end": 233.62,
+      "text": "you guys have Claude, so you can go and ask Claude as well. Sometimes I do that too, where sometimes"
+    },
+    {
+      "start": 233.62,
+      "end": 236.86,
+      "text": "when I look at something for too long, I'm like, I don't even know if this is a fact"
+    },
+    {
+      "start": 236.86,
+      "end": 241.46,
+      "text": "or this is opinion. Cause we're going to get into some things as well. Um, and, and my,"
+    },
+    {
+      "start": 242.42,
+      "end": 246.06,
+      "text": "is that you always want to make sure that you check whether or not you're staying"
+    },
+    {
+      "start": 246.06,
+      "end": 250.7,
+      "text": "opinion. And if you're just stating opinion, then you better have a fact coming up, or you"
+    },
+    {
+      "start": 250.7,
+      "end": 254.54,
+      "text": "better have some kind of fact to claim. And we'll talk about that at the end, but exercise"
+    },
+    {
+      "start": 254.54,
+      "end": 260.1,
+      "text": "number two here is turning opinions into facts. This is also one of Harry's exercises. So I've"
+    },
+    {
+      "start": 260.1,
+      "end": 265.24,
+      "text": "got three ads here, right? And you can see what the ads say. This one says teen, always grumpy"
+    },
+    {
+      "start": 265.24,
+      "end": 270.22,
+      "text": "first day helps teens go from grumpy and moody to energized and happy. Okay. Then we have"
+    },
+    {
+      "start": 270.22,
+      "end": 275.94,
+      "text": "less is more them bad ingredients, smells artificial, super expensive, Papa bear naturals, none of"
+    },
+    {
+      "start": 275.94,
+      "end": 280.66,
+      "text": "that. And then this one over here, we have the rug your dog will love. Okay. So now what"
+    },
+    {
+      "start": 280.66,
+      "end": 283.88,
+      "text": "I want you guys to do, you guys can pause this if you want and do the exercise. And I'd probably"
+    },
+    {
+      "start": 283.88,
+      "end": 286.54,
+      "text": "encourage you to do it because again, like the more you write, the more you practice, the"
+    },
+    {
+      "start": 286.54,
+      "end": 290.5,
+      "text": "better it gets, but pause the video and be like, okay, how can I rewrite this section"
+    },
+    {
+      "start": 290.5,
+      "end": 295.4,
+      "text": "down here? Right? So first day helps teens go from grumpy and moody and then rewrite this"
+    },
+    {
+      "start": 295.4,
+      "end": 299.8,
+      "text": "section here, the them and the Papa bear naturals, and then rewrite the headline that you"
+    },
+    {
+      "start": 299.8,
+      "end": 306.28,
+      "text": "would add here for this product. Okay. How can you turn these into facts? Okay. I'll let"
+    },
+    {
+      "start": 306.28,
+      "end": 310.94,
+      "text": "you pause the video. How can you turn these into facts? Well, here we go. Now we have teen"
+    },
+    {
+      "start": 310.94,
+      "end": 315.68,
+      "text": "always grumpy. Vitamin deficiencies can create chemical imbalances that may lead to increase"
+    },
+    {
+      "start": 315.68,
+      "end": 321.32,
+      "text": "irritability in teens. Interesting. And guess what? There's even more facts here. We're saying"
+    },
+    {
+      "start": 321.32,
+      "end": 326.32,
+      "text": "there's magnesium in here, vitamin B12, vitamin A, vitamin K, E, D1, C, folate, and vitamin D"
+    },
+    {
+      "start": 326.32,
+      "end": 331.56,
+      "text": "are all in here. Facts, facts, facts, facts, facts, facts, lots of facts. That's what Harry"
+    },
+    {
+      "start": 331.56,
+      "end": 337.88,
+      "text": "says. Um, and then this one here, I absolutely love them. Papa bear naturals. Okay. There's"
+    },
+    {
+      "start": 337.88,
+      "end": 344.14,
+      "text": "one, two, three, four, five, six ingredients in this. Look at Olay's side. Now what they"
+    },
+    {
+      "start": 344.14,
+      "end": 349.64,
+      "text": "did here is they added this less is more, which again, this is an opinion. Less is more"
+    },
+    {
+      "start": 349.64,
+      "end": 356.56,
+      "text": "is an opinion, but what I love is the ad still works. Even if you just do this and what I"
+    },
+    {
+      "start": 356.56,
+      "end": 362.5,
+      "text": "love about people that create ads that like leave it up for the user's assumption. It's"
+    },
+    {
+      "start": 362.5,
+      "end": 366.44,
+      "text": "like, they're looking for somebody to explain this, but what if I don't explain this? What"
+    },
+    {
+      "start": 366.44,
+      "end": 371.5,
+      "text": "if I just run an ad that literally says nothing but this, what do you think this is going to"
+    },
+    {
+      "start": 371.5,
+      "end": 376.52,
+      "text": "draw? Right. And like, imagine the engagement that this would potentially stir up as well, where"
+    },
+    {
+      "start": 376.52,
+      "end": 382.26,
+      "text": "you, you say nothing other than just show six ingredients versus 32 and ones that you"
+    },
+    {
+      "start": 382.26,
+      "end": 388.06,
+      "text": "can't pronounce, right? You're, you're literally saying no opinion here. You're not claiming that"
+    },
+    {
+      "start": 388.06,
+      "end": 394.5,
+      "text": "you're better by saying less is more. You're just literally stating it. And people who want a, you"
+    },
+    {
+      "start": 394.5,
+      "end": 398.7,
+      "text": "know, uh, uh, some kind of skincare or some kind of product that doesn't have all these random"
+    },
+    {
+      "start": 398.7,
+      "end": 402.48,
+      "text": "chemicals and doesn't have all these additional ingredients and just has simple, all natural"
+    },
+    {
+      "start": 402.48,
+      "end": 406.1,
+      "text": "ingredients. How do you think this ad makes me feel like, I feel like, damn, they're just"
+    },
+    {
+      "start": 406.1,
+      "end": 410.62,
+      "text": "like, they're not even saying it. They're, they're letting you make an, and come to that"
+    },
+    {
+      "start": 410.62,
+      "end": 415.16,
+      "text": "decision, right? What does your ad communicate? This communicates to me. Oh, wow. This is a"
+    },
+    {
+      "start": 415.16,
+      "end": 418.92,
+      "text": "simple product. And that has a bunch of crap in it that I don't want. And I love this because"
+    },
+    {
+      "start": 418.92,
+      "end": 424.92,
+      "text": "these are all facts. It's like, this is inside of this and this is inside of that. So you don't"
+    },
+    {
+      "start": 424.92,
+      "end": 430.06,
+      "text": "need to say anything. People can draw the conclusion that less is more. And if you want an all"
+    },
+    {
+      "start": 430.06,
+      "end": 435.86,
+      "text": "natural kind of like real ingredients, stuff that you can pronounce in your skincare, then there"
+    },
+    {
+      "start": 435.86,
+      "end": 440.62,
+      "text": "you go. Right. Uh, and then here we have dog proof washable rugs. Now, again, this is"
+    },
+    {
+      "start": 440.62,
+      "end": 445.44,
+      "text": "slightly opinionated with the dog proof, but what you'll notice here is they added this little"
+    },
+    {
+      "start": 445.44,
+      "end": 452.14,
+      "text": "poo emoji. Okay. This little emoji, I think turns it into more of a fact because they're"
+    },
+    {
+      "start": 452.14,
+      "end": 457.98,
+      "text": "basically saying it's dog proof from shit. Okay. And so what they're saying is this is"
+    },
+    {
+      "start": 457.98,
+      "end": 464.66,
+      "text": "dog proof from dog shit because it's a washable rug and this is a washable rug. And so they"
+    },
+    {
+      "start": 464.66,
+      "end": 469.2,
+      "text": "are stating more of a factor. Now dog proof again is slightly opinionated, but they're coming"
+    },
+    {
+      "start": 469.2,
+      "end": 473.84,
+      "text": "back with like, the reason why it's dog proof is because it's washable. Right. And you're"
+    },
+    {
+      "start": 473.84,
+      "end": 478.86,
+      "text": "like, that's valid. That makes sense. Okay. And so exercise number three, hope you guys"
+    },
+    {
+      "start": 478.86,
+      "end": 482.74,
+      "text": "had fun with that one again. And you guys might've said your own facts. You guys might've done"
+    },
+    {
+      "start": 482.74,
+      "end": 486.36,
+      "text": "it differently. I don't know what you would have done. Um, but going into the third and final"
+    },
+    {
+      "start": 486.36,
+      "end": 490.0,
+      "text": "exercise here, this is the one that I just wanted to do with you guys is kind of how to"
+    },
+    {
+      "start": 490.0,
+      "end": 495.58,
+      "text": "work with facts. All right. So trying to apply this on your brand. So think about a fact that"
+    },
+    {
+      "start": 495.58,
+      "end": 499.74,
+      "text": "you could say around your product or your brand, like just think of anything, like what is a"
+    },
+    {
+      "start": 499.74,
+      "end": 504.8,
+      "text": "fact that you actually have? Okay. Now, before you do that, one thing that is very important"
+    },
+    {
+      "start": 504.8,
+      "end": 510.24,
+      "text": "that I want to call out is that this does not need to be a statistic. Okay. I think so"
+    },
+    {
+      "start": 510.24,
+      "end": 515.4,
+      "text": "many people, when they think facts immediately go to statistic ads. And I think that's why a"
+    },
+    {
+      "start": 515.4,
+      "end": 518.62,
+      "text": "lot of people, if you haven't tested it, like you definitely can, but you know, ads with"
+    },
+    {
+      "start": 518.62,
+      "end": 522.84,
+      "text": "statistics usually do well because like, you're not lying. Right. And a lot of the FTC stuff"
+    },
+    {
+      "start": 522.84,
+      "end": 526.8,
+      "text": "as well, it's like, you actually can't say opinions. You kind of have to state facts."
+    },
+    {
+      "start": 526.96,
+      "end": 531.0,
+      "text": "In fact, you, you need to state facts. And so you'll see on a lot of like TV commercial"
+    },
+    {
+      "start": 531.0,
+      "end": 535.56,
+      "text": "stuff like that, they're always stating facts and, and, and using those and kind of rooting"
+    },
+    {
+      "start": 535.56,
+      "end": 541.56,
+      "text": "their messaging in that. Um, but again, it doesn't need to be a statistic. And the example"
+    },
+    {
+      "start": 541.56,
+      "end": 546.16,
+      "text": "that I'm going to show you actually doesn't use a statistic. It's just a fact that exists."
+    },
+    {
+      "start": 546.16,
+      "end": 552.62,
+      "text": "And now this is obviously a lot harder, but again, even here, if I go back, washable rugs"
+    },
+    {
+      "start": 552.62,
+      "end": 557.74,
+      "text": "is not a statistic. And this one here, these, this is not a statistic. The only one that"
+    },
+    {
+      "start": 557.74,
+      "end": 561.54,
+      "text": "is essentially a statistic has a little bit of opinion, but like vitamin deficiencies"
+    },
+    {
+      "start": 561.54,
+      "end": 566.64,
+      "text": "can create chemical imbalances. Like that is somewhat of a statistic. Cause I'm saying"
+    },
+    {
+      "start": 566.64,
+      "end": 569.62,
+      "text": "like, you know, I'm assuming that there's a certain percentage here and could we make"
+    },
+    {
+      "start": 569.62,
+      "end": 573.48,
+      "text": "this better with a percentage potentially, but again, like these all don't have statistics."
+    },
+    {
+      "start": 573.48,
+      "end": 576.74,
+      "text": "And I did that for the purpose of, I don't want you guys to think immediately"
+    },
+    {
+      "start": 576.74,
+      "end": 580.94,
+      "text": "like, Oh, my product has X percent of this, right? Like that's a fact, but that"
+    },
+    {
+      "start": 580.94,
+      "end": 584.62,
+      "text": "is the obvious one that every single person will go through. So if, if you just"
+    },
+    {
+      "start": 584.62,
+      "end": 588.56,
+      "text": "have like some kind of stat that is, you know, numerical, that's fine. Um, but"
+    },
+    {
+      "start": 588.56,
+      "end": 591.44,
+      "text": "try to push yourself to think of some other kind of fact. Okay. So I'll give you a"
+    },
+    {
+      "start": 591.44,
+      "end": 596.16,
+      "text": "second to do that. Okay. Now I'm going to go ahead and move forward. And what I've"
+    },
+    {
+      "start": 596.16,
+      "end": 600.52,
+      "text": "done here is I have this. Okay. I don't know if you guys know what this is, but this"
+    },
+    {
+      "start": 600.52,
+      "end": 606.82,
+      "text": "is a hand holding M&Ms. Okay. And the fact is that M&Ms won't melt in your hand. Now,"
+    },
+    {
+      "start": 606.86,
+      "end": 610.22,
+      "text": "again, this is what I talked about, like going back and forth between facts and opinion."
+    },
+    {
+      "start": 610.76,
+      "end": 616.14,
+      "text": "Obviously, if you have M&Ms in your hand and someone puts a blowtorch on it, it's probably"
+    },
+    {
+      "start": 616.14,
+      "end": 621.12,
+      "text": "going to melt. Uh, and if you're outside in 45 degree weather, it probably will melt."
+    },
+    {
+      "start": 621.26,
+      "end": 626.08,
+      "text": "But the point of this is, is that compared to like traditional chocolate, like if I put"
+    },
+    {
+      "start": 626.08,
+      "end": 631.64,
+      "text": "a chocolate bar in my hand, it would melt. If I just had these M&Ms in my hand, same"
+    },
+    {
+      "start": 631.64,
+      "end": 636.94,
+      "text": "environment, they would not melt. Okay. Because of the coding that they have M&Ms won't"
+    },
+    {
+      "start": 636.94,
+      "end": 642.6,
+      "text": "melt in your hand. Well, what can I do with this fact? Well, that's the next step for you"
+    },
+    {
+      "start": 642.6,
+      "end": 648.78,
+      "text": "guys. How can you write something that comes from that fact? Right? So again, if you guys"
+    },
+    {
+      "start": 648.78,
+      "end": 653.72,
+      "text": "have your fact, now is the time to like, try to write that fact into something. Now, if"
+    },
+    {
+      "start": 653.72,
+      "end": 658.08,
+      "text": "you know the M&M ad, then you might be, you might be seeing where I'm going with"
+    },
+    {
+      "start": 658.08,
+      "end": 661.18,
+      "text": "this, but again, try to do that for your brand as well. So I'll give you a second"
+    },
+    {
+      "start": 661.18,
+      "end": 666.42,
+      "text": "to go ahead and do that. And now again, here's my example. The milk chocolate melts"
+    },
+    {
+      "start": 666.42,
+      "end": 672.14,
+      "text": "in your mouth, not in your hand. Right? And again, that melt in your mouth kind of"
+    },
+    {
+      "start": 672.14,
+      "end": 676.62,
+      "text": "sensation is something that a lot of chocolate brands will say, but because"
+    },
+    {
+      "start": 676.62,
+      "end": 680.34,
+      "text": "their chocolate doesn't melt in your hand, because that is a fact that they are"
+    },
+    {
+      "start": 680.34,
+      "end": 684.7,
+      "text": "using, they're able to create an ad that has more power and is more unique"
+    },
+    {
+      "start": 684.7,
+      "end": 688.34,
+      "text": "to their brand and their product, right? The milk chocolate melts in your"
+    },
+    {
+      "start": 688.34,
+      "end": 691.94,
+      "text": "mouth, not in your hand. And as you guys can see, this is a very old ad, but it's"
+    },
+    {
+      "start": 691.94,
+      "end": 695.06,
+      "text": "iconic and it crushed for them, right? Because it's like, oh, that M&M is the"
+    },
+    {
+      "start": 695.06,
+      "end": 697.26,
+      "text": "chocolate that doesn't melt in your hand, right? It's like, yeah, yeah, that's"
+    },
+    {
+      "start": 697.26,
+      "end": 701.82,
+      "text": "them. And obviously everybody knows what M&Ms are nowadays. So probably a pretty"
+    },
+    {
+      "start": 701.82,
+      "end": 706.36,
+      "text": "good example of great marketing and how they kind of position themselves."
+    },
+    {
+      "start": 706.66,
+      "end": 709.68,
+      "text": "Okay. And so the question that I want to have, or I want you guys to ask"
+    },
+    {
+      "start": 709.68,
+      "end": 714.88,
+      "text": "yourselves is, you know, are you stating opinions or are you stating facts? And"
+    },
+    {
+      "start": 714.88,
+      "end": 719.88,
+      "text": "again, when, when in doubt, try to turn a matter of opinion into a matter of"
+    },
+    {
+      "start": 719.88,
+      "end": 723.76,
+      "text": "fact. Okay. Now the final thing here behind every fact, there's usually some"
+    },
+    {
+      "start": 723.76,
+      "end": 728.02,
+      "text": "kind of a story, right? And you know, Henry talks about this and the biggest"
+    },
+    {
+      "start": 728.02,
+      "end": 731.8,
+      "text": "thing that I want to share with you guys is this, which is like, when you say a"
+    },
+    {
+      "start": 731.8,
+      "end": 734.68,
+      "text": "fact, it guarantees that you say something. Um, where again, a lot of you"
+    },
+    {
+      "start": 734.68,
+      "end": 737.98,
+      "text": "guys, like I had in that module where it's like unmatched power and"
+    },
+    {
+      "start": 737.98,
+      "end": 742.8,
+      "text": "performance, it's like, what? Okay. Um, but again, when you say a fact where"
+    },
+    {
+      "start": 742.8,
+      "end": 746.74,
+      "text": "it's like, it has 1100 horsepower, you're saying something there, right?"
+    },
+    {
+      "start": 746.74,
+      "end": 750.44,
+      "text": "Something that actually means something. Okay. And Harry recommends that if you"
+    },
+    {
+      "start": 750.44,
+      "end": 754.14,
+      "text": "start with a fact, you can then turn that into something else, right? Just like"
+    },
+    {
+      "start": 754.14,
+      "end": 757.98,
+      "text": "how we did in this exercise here, where it's like, Hey, I have this fact where"
+    },
+    {
+      "start": 757.98,
+      "end": 761.56,
+      "text": "these candies will melt in your head. Okay. Well, what can I do with that? Well, I can"
+    },
+    {
+      "start": 761.56,
+      "end": 765.02,
+      "text": "tell, I can tell people that, Hey, our milk chocolate melts in your mouth, not in your"
+    },
+    {
+      "start": 765.02,
+      "end": 769.66,
+      "text": "hand. Pretty good at if you aren't a hundred percent clear on this, which is the reason"
+    },
+    {
+      "start": 769.66,
+      "end": 773.34,
+      "text": "why I, all the examples that I use don't really have numerical values. It's that"
+    },
+    {
+      "start": 773.34,
+      "end": 779.28,
+      "text": "facts do not just have to be a number or statistic. Okay. The obvious one that you"
+    },
+    {
+      "start": 779.28,
+      "end": 782.22,
+      "text": "guys may remember from the previous modules is like, you know, Ava said, Hey, we're"
+    },
+    {
+      "start": 782.22,
+      "end": 788.02,
+      "text": "number two. Again, that was a fact. Again, it had a number in it, but all facts don't"
+    },
+    {
+      "start": 788.02,
+      "end": 792.44,
+      "text": "have to be numerical or statistic. Okay. And again, I love this. And David was actually"
+    },
+    {
+      "start": 792.44,
+      "end": 796.94,
+      "text": "the one who, who added this. So I gave him credits at the end, which is, and to be"
+    },
+    {
+      "start": 796.94,
+      "end": 800.22,
+      "text": "honest, he has credits for all, for all of this stuff as well. David Peril, the guy"
+    },
+    {
+      "start": 800.22,
+      "end": 805.84,
+      "text": "who interviewed Harry is that when you are rooted in facts, you have much more"
+    },
+    {
+      "start": 805.84,
+      "end": 810.8,
+      "text": "credibility, right? Like if I start with a fact, if I say a fact first and you're"
+    },
+    {
+      "start": 810.8,
+      "end": 814.86,
+      "text": "like, that's true. Right. And then maybe I say another fact, you're like, well, that's"
+    },
+    {
+      "start": 814.86,
+      "end": 819.88,
+      "text": "also true. And then if I maybe throw in an opinion, depending on how much of an"
+    },
+    {
+      "start": 819.88,
+      "end": 823.48,
+      "text": "opinion it is, you might also be like, Oh yeah, that's true. But my point is, is that"
+    },
+    {
+      "start": 823.48,
+      "end": 825.94,
+      "text": "when you're rooted in facts, you have much more credibility and you have more"
+    },
+    {
+      "start": 825.94,
+      "end": 828.02,
+      "text": "credibility. People will believe you."
+    }
+  ]
+}

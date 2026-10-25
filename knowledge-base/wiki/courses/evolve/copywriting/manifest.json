@@ -3,7 +3,7 @@
   "creator": "evolve",
   "course": "copywriting",
   "course_title": "Evolve Copywriting",
-  "instructor": "unverified",
+  "instructor": "Spencer Pawliw",
   "source_url": "https://mega.nz/folder/LlQnyCIZ#l_Dfcb8HnnxfFk_siwzDjA",
   "inventory_date": "2026-10-20",
   "inventory_complete": true,
@@ -12,23 +12,29 @@
   "source_root_names": [
     "✍️ Evolve Copywriting (NEW)"
   ],
-  "ingestion_complete": false,
+  "ingestion_complete": true,
   "files": [
     {
       "source_id": "mega:LlQnyCIZ:fkgw0JhD",
       "original_path": "✍️ Evolve Copywriting (NEW)/1. Overview Of Copywriting Program ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 16915470,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/1. Overview Of Copywriting Program ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/1. Overview Of Copywriting Program ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/1. Overview Of Copywriting Program ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/01-overview-of-copywriting-program.md"
+      ],
       "notes": ""
     },
     {
@@ -36,16 +42,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/1. Overview Of Copywriting Program_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 277293,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/1. Overview Of Copywriting Program_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/01-overview-of-copywriting-program.md"
+      ],
       "notes": ""
     },
     {
@@ -53,16 +63,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/10. Why you need to write facts ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 32075011,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/10. Why you need to write facts ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/10. Why you need to write facts ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/10. Why you need to write facts ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/10-why-you-need-to-write-facts.md"
+      ],
       "notes": ""
     },
     {
@@ -70,16 +86,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/10. Why you need to write facts_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 271856,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/10. Why you need to write facts_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/10-why-you-need-to-write-facts.md"
+      ],
       "notes": ""
     },
     {
@@ -87,16 +107,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/11. Why you need to write less fluff ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 19475200,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/11. Why you need to write less fluff ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/11. Why you need to write less fluff ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/11. Why you need to write less fluff ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/11-why-you-need-to-write-less-fluff.md"
+      ],
       "notes": ""
     },
     {
@@ -104,16 +130,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/11. Why you need to write less fluff_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 294718,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/11. Why you need to write less fluff_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/11-why-you-need-to-write-less-fluff.md"
+      ],
       "notes": ""
     },
     {
@@ -121,16 +151,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/12. Why you need to speak copy, not write it ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 7178696,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/12. Why you need to speak copy, not write it ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/12. Why you need to speak copy, not write it ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/12. Why you need to speak copy, not write it ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/12-why-you-need-to-speak-copy-not-write-it.md"
+      ],
       "notes": ""
     },
     {
@@ -138,16 +174,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/12. Why you need to speak copy, not write it_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 271504,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/12. Why you need to speak copy, not write it_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/12-why-you-need-to-speak-copy-not-write-it.md"
+      ],
       "notes": ""
     },
     {
@@ -155,16 +195,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/13. Why you need to write at a 6th grade level ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 7250731,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/13. Why you need to write at a 6th grade level ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/13. Why you need to write at a 6th grade level ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/13. Why you need to write at a 6th grade level ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/13-why-you-need-to-write-at-a-6th-grade-level.md"
+      ],
       "notes": ""
     },
     {
@@ -172,16 +218,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/13. Why you need to write at a 6th grade level_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 291699,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/13. Why you need to write at a 6th grade level_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/13-why-you-need-to-write-at-a-6th-grade-level.md"
+      ],
       "notes": ""
     },
     {
@@ -189,16 +239,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/14. Why you need to use unique mechanisms ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 38298361,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/14. Why you need to use unique mechanisms ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/14. Why you need to use unique mechanisms ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/14. Why you need to use unique mechanisms ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/14-why-you-need-to-use-unique-mechanisms.md"
+      ],
       "notes": ""
     },
     {
@@ -206,16 +262,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/14. Why you need to use unique mechanisms_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 268821,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/14. Why you need to use unique mechanisms_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/14-why-you-need-to-use-unique-mechanisms.md"
+      ],
       "notes": ""
     },
     {
@@ -223,16 +283,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/15. Why you need to understand beliefs ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 34818781,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/15. Why you need to understand beliefs ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/15. Why you need to understand beliefs ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/15. Why you need to understand beliefs ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/15-why-you-need-to-understand-beliefs.md"
+      ],
       "notes": ""
     },
     {
@@ -240,16 +306,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/15. Why you need to understand beliefs_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 295855,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/15. Why you need to understand beliefs_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/15-why-you-need-to-understand-beliefs.md"
+      ],
       "notes": ""
     },
     {
@@ -257,16 +327,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/16. Why you need to understand authority ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 95167402,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/16. Why you need to understand authority ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/16. Why you need to understand authority ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/16. Why you need to understand authority ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/16-why-you-need-to-understand-authority.md"
+      ],
       "notes": ""
     },
     {
@@ -274,16 +350,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/16. Why you need to understand authority_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 291261,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/16. Why you need to understand authority_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/16-why-you-need-to-understand-authority.md"
+      ],
       "notes": ""
     },
     {
@@ -291,16 +371,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/17. Being aware of avatars ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 12555297,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/17. Being aware of avatars ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/17. Being aware of avatars ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/17. Being aware of avatars ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/17-being-aware-of-avatars.md"
+      ],
       "notes": ""
     },
     {
@@ -308,16 +394,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/17. Being aware of avatars_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 265418,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/17. Being aware of avatars_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/17-being-aware-of-avatars.md"
+      ],
       "notes": ""
     },
     {
@@ -325,16 +415,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/18. Being aware of angles ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 11370563,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/18. Being aware of angles ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/18. Being aware of angles ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/18. Being aware of angles ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/18-being-aware-of-angles.md"
+      ],
       "notes": ""
     },
     {
@@ -342,16 +438,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/18. Being aware of angles_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 286617,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/18. Being aware of angles_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/18-being-aware-of-angles.md"
+      ],
       "notes": ""
     },
     {
@@ -359,16 +459,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/19. Being aware of mechanisms ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 10227509,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/19. Being aware of mechanisms ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/19. Being aware of mechanisms ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/19. Being aware of mechanisms ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/19-being-aware-of-mechanisms.md"
+      ],
       "notes": ""
     },
     {
@@ -376,16 +482,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/19. Being aware of mechanisms_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 272241,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/19. Being aware of mechanisms_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/19-being-aware-of-mechanisms.md"
+      ],
       "notes": ""
     },
     {
@@ -393,16 +503,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/2. The current state of copywriting ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 29134883,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/2. The current state of copywriting ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/2. The current state of copywriting ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/2. The current state of copywriting ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/02-the-current-state-of-copywriting.md"
+      ],
       "notes": ""
     },
     {
@@ -410,16 +526,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/2. The current state of copywriting_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 301021,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/2. The current state of copywriting_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/02-the-current-state-of-copywriting.md"
+      ],
       "notes": ""
     },
     {
@@ -427,16 +547,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/20. Being aware of authorities ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 9065415,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/20. Being aware of authorities ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/20. Being aware of authorities ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/20. Being aware of authorities ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/20-being-aware-of-authorities.md"
+      ],
       "notes": ""
     },
     {
@@ -444,16 +570,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/20. Being aware of authorities_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 289742,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/20. Being aware of authorities_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/20-being-aware-of-authorities.md"
+      ],
       "notes": ""
     },
     {
@@ -461,16 +591,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/21. Being aware of market awareness ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 53597827,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/21. Being aware of market awareness ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/21. Being aware of market awareness ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/21. Being aware of market awareness ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/21-being-aware-of-market-awareness.md"
+      ],
       "notes": ""
     },
     {
@@ -478,16 +614,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/21. Being aware of market awareness_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 276537,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/21. Being aware of market awareness_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/21-being-aware-of-market-awareness.md"
+      ],
       "notes": ""
     },
     {
@@ -495,16 +635,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/22. How to finalize your ad ideas ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 13904756,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/22. How to finalize your ad ideas ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/22. How to finalize your ad ideas ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/22. How to finalize your ad ideas ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/22-how-to-finalize-your-ad-ideas.md"
+      ],
       "notes": ""
     },
     {
@@ -512,16 +658,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/22. How to finalize your ad ideas.xlsx",
       "size_bytes": 250751,
       "extension": ".xlsx",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/22. How to finalize your ad ideas.xlsx.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/22-how-to-finalize-your-ad-ideas.md"
+      ],
       "notes": ""
     },
     {
@@ -529,16 +679,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/22. How to finalize your ad ideas_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 291457,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/22. How to finalize your ad ideas_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/22-how-to-finalize-your-ad-ideas.md"
+      ],
       "notes": ""
     },
     {
@@ -546,16 +700,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/23. The framework behind great hooks ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 36355651,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/23. The framework behind great hooks ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/23. The framework behind great hooks ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/23. The framework behind great hooks ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/23-the-framework-behind-great-hooks.md"
+      ],
       "notes": ""
     },
     {
@@ -563,16 +723,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/23. The framework behind great hooks_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 272443,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/23. The framework behind great hooks_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/23-the-framework-behind-great-hooks.md"
+      ],
       "notes": ""
     },
     {
@@ -580,16 +744,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/24. The 2 types of hooks ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 22828441,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/24. The 2 types of hooks ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/24. The 2 types of hooks ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/24. The 2 types of hooks ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/24-the-2-types-of-hooks.md"
+      ],
       "notes": ""
     },
     {
@@ -597,16 +767,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/24. The 2 types of hooks_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 288300,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/24. The 2 types of hooks_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/24-the-2-types-of-hooks.md"
+      ],
       "notes": ""
     },
     {
@@ -614,16 +788,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/25. The 2 ways to write great hooks ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 49062749,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/25. The 2 ways to write great hooks ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/25. The 2 ways to write great hooks ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/25. The 2 ways to write great hooks ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/25-the-2-ways-to-write-great-hooks.md"
+      ],
       "notes": ""
     },
     {
@@ -631,16 +811,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/25. The 2 ways to write great hooks_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 299602,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/25. The 2 ways to write great hooks_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/25-the-2-ways-to-write-great-hooks.md"
+      ],
       "notes": ""
     },
     {
@@ -648,16 +832,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/26. 1️⃣ - How to write open loops ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 44584709,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/26. 1️⃣ - How to write open loops ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/26. 1️⃣ - How to write open loops ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/26. 1️⃣ - How to write open loops ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/26-how-to-write-open-loops.md"
+      ],
       "notes": ""
     },
     {
@@ -665,16 +855,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/26. 1️⃣ - How to write open loops_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 289333,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/26. 1️⃣ - How to write open loops_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/26-how-to-write-open-loops.md"
+      ],
       "notes": ""
     },
     {
@@ -682,16 +876,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/27. 2️⃣ - How to write a bridge ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 63167553,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/27. 2️⃣ - How to write a bridge ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/27. 2️⃣ - How to write a bridge ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/27. 2️⃣ - How to write a bridge ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/27-how-to-write-a-bridge.md"
+      ],
       "notes": ""
     },
     {
@@ -699,16 +899,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/27. 2️⃣ - How to write a bridge_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 313211,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/27. 2️⃣ - How to write a bridge_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/27-how-to-write-a-bridge.md"
+      ],
       "notes": ""
     },
     {
@@ -716,16 +920,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/28. 3️⃣ - How to prevent handle objections in writing ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 103703168,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/28. 3️⃣ - How to prevent handle objections in writing ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/28. 3️⃣ - How to prevent handle objections in writing ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/28. 3️⃣ - How to prevent handle objections in writing ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/28-how-to-prevent-handle-objections-in-writing.md"
+      ],
       "notes": ""
     },
     {
@@ -733,16 +943,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/28. 3️⃣ - How to prevent_handle objections in writing_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 294786,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/28. 3️⃣ - How to prevent_handle objections in writing_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/28-how-to-prevent-handle-objections-in-writing.md"
+      ],
       "notes": ""
     },
     {
@@ -750,16 +964,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/29. 4️⃣ - How to pitch without rejection ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 34683792,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/29. 4️⃣ - How to pitch without rejection ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/29. 4️⃣ - How to pitch without rejection ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/29. 4️⃣ - How to pitch without rejection ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/29-how-to-pitch-without-rejection.md"
+      ],
       "notes": ""
     },
     {
@@ -767,16 +987,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/29. 4️⃣ - How to pitch without rejection_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 276917,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/29. 4️⃣ - How to pitch without rejection_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/29-how-to-pitch-without-rejection.md"
+      ],
       "notes": ""
     },
     {
@@ -784,16 +1008,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/3. How to guarantee you get better at copywriting ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 25871589,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/3. How to guarantee you get better at copywriting ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/3. How to guarantee you get better at copywriting ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/3. How to guarantee you get better at copywriting ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/03-how-to-guarantee-you-get-better-at-copywriting.md"
+      ],
       "notes": ""
     },
     {
@@ -801,16 +1031,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/3. How to guarantee you get better at copywriting_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 293650,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/3. How to guarantee you get better at copywriting_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/03-how-to-guarantee-you-get-better-at-copywriting.md"
+      ],
       "notes": ""
     },
     {
@@ -818,16 +1052,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/30. How to raise the stakes ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 37653586,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/30. How to raise the stakes ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/30. How to raise the stakes ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/30. How to raise the stakes ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/30-how-to-raise-the-stakes.md"
+      ],
       "notes": ""
     },
     {
@@ -835,16 +1075,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/30. How to raise the stakes_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 296936,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/30. How to raise the stakes_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/30-how-to-raise-the-stakes.md"
+      ],
       "notes": ""
     },
     {
@@ -852,16 +1096,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/31. How to create ads that show, don't tell ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 22762562,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/31. How to create ads that show, don't tell ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/31. How to create ads that show, don't tell ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/31. How to create ads that show, don't tell ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/31-how-to-create-ads-that-show-dont-tell.md"
+      ],
       "notes": ""
     },
     {
@@ -869,16 +1119,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/31. How to create ads that show, don't tell_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 276612,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/31. How to create ads that show, don't tell_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/31-how-to-create-ads-that-show-dont-tell.md"
+      ],
       "notes": ""
     },
     {
@@ -886,16 +1140,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/32. How to write ads that show and don't tell ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 17273100,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/32. How to write ads that show and don't tell ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/32. How to write ads that show and don't tell ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/32. How to write ads that show and don't tell ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/32-how-to-write-ads-that-show-and-dont-tell.md"
+      ],
       "notes": ""
     },
     {
@@ -903,16 +1163,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/32. How to write ads that show and don't tell_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 283317,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/32. How to write ads that show and don't tell_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/32-how-to-write-ads-that-show-and-dont-tell.md"
+      ],
       "notes": ""
     },
     {
@@ -920,16 +1184,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/33. How to use metaphors similes analogies ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 36131693,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/33. How to use metaphors similes analogies ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/33. How to use metaphors similes analogies ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/33. How to use metaphors similes analogies ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/33-how-to-use-metaphors-similes-analogies.md"
+      ],
       "notes": ""
     },
     {
@@ -937,16 +1207,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/33. How to use metaphors_similes_analogies_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 279609,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/33. How to use metaphors_similes_analogies_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/33-how-to-use-metaphors-similes-analogies.md"
+      ],
       "notes": ""
     },
     {
@@ -954,16 +1228,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/34. How to write with labels & customer language ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 25656567,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/34. How to write with labels & customer language ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/34. How to write with labels & customer language ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/34. How to write with labels & customer language ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/34-how-to-write-with-labels-customer-language.md"
+      ],
       "notes": ""
     },
     {
@@ -971,16 +1251,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/34. How to write with labels & customer language.docx",
       "size_bytes": 9576,
       "extension": ".docx",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/34. How to write with labels & customer language.docx.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/34-how-to-write-with-labels-customer-language.md"
+      ],
       "notes": ""
     },
     {
@@ -988,16 +1272,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/34. How to write with labels & customer language_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 295811,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/34. How to write with labels & customer language_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/34-how-to-write-with-labels-customer-language.md"
+      ],
       "notes": ""
     },
     {
@@ -1005,16 +1293,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/35. How to write unaware ads (hooks) ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 53737333,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/35. How to write unaware ads (hooks) ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/35. How to write unaware ads (hooks) ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/35. How to write unaware ads (hooks) ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/35-how-to-write-unaware-ads-hooks.md"
+      ],
       "notes": ""
     },
     {
@@ -1022,16 +1316,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/35. How to write unaware ads (hooks)_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 301864,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/35. How to write unaware ads (hooks)_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/35-how-to-write-unaware-ads-hooks.md"
+      ],
       "notes": ""
     },
     {
@@ -1039,16 +1337,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/36. What about AI ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 7061549,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/36. What about AI ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/36. What about AI ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/36. What about AI ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/36-what-about-ai.md"
+      ],
       "notes": ""
     },
     {
@@ -1056,16 +1360,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/36. What about AI__✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 284562,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/36. What about AI__✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/36-what-about-ai.md"
+      ],
       "notes": ""
     },
     {
@@ -1073,16 +1381,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/37. Evolve Writing Prompts.docx",
       "size_bytes": 111263,
       "extension": ".docx",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/37. Evolve Writing Prompts.docx.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/37-evolve-writing-prompts.md"
+      ],
       "notes": ""
     },
     {
@@ -1090,16 +1402,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/37. Evolve Writing Prompts_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 176206,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/37. Evolve Writing Prompts_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/37-evolve-writing-prompts.md"
+      ],
       "notes": ""
     },
     {
@@ -1107,16 +1423,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/38. Why storytelling is so powerful ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 19777410,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/38. Why storytelling is so powerful ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/38. Why storytelling is so powerful ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/38. Why storytelling is so powerful ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/38-why-storytelling-is-so-powerful.md"
+      ],
       "notes": ""
     },
     {
@@ -1124,16 +1446,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/38. Why storytelling is so powerful_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 288296,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/38. Why storytelling is so powerful_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/38-why-storytelling-is-so-powerful.md"
+      ],
       "notes": ""
     },
     {
@@ -1141,16 +1467,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/39. Why you can't just rely on education ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 22803491,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/39. Why you can't just rely on education ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/39. Why you can't just rely on education ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/39. Why you can't just rely on education ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/39-why-you-cant-just-rely-on-education.md"
+      ],
       "notes": ""
     },
     {
@@ -1158,16 +1490,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/39. Why you can't just rely on education_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 281144,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/39. Why you can't just rely on education_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/39-why-you-cant-just-rely-on-education.md"
+      ],
       "notes": ""
     },
     {
@@ -1175,16 +1511,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/4. 💥 Schedule Your Writing Development Block_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 176203,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/4. 💥 Schedule Your Writing Development Block_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/04-schedule-your-writing-development-block.md"
+      ],
       "notes": ""
     },
     {
@@ -1192,16 +1532,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/40. ⭐️ What makes a great story ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 90962083,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/40. ⭐️ What makes a great story ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/40. ⭐️ What makes a great story ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/40. ⭐️ What makes a great story ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/40-what-makes-a-great-story.md"
+      ],
       "notes": ""
     },
     {
@@ -1209,16 +1555,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/40. ⭐️ What makes a great story_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 285703,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/40. ⭐️ What makes a great story_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/40-what-makes-a-great-story.md"
+      ],
       "notes": ""
     },
     {
@@ -1226,16 +1576,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/41. The laws of story telling ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 25722514,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/41. The laws of story telling ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/41. The laws of story telling ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/41. The laws of story telling ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/41-the-laws-of-story-telling.md"
+      ],
       "notes": ""
     },
     {
@@ -1243,16 +1599,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/41. The laws of story telling_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 267678,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/41. The laws of story telling_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/41-the-laws-of-story-telling.md"
+      ],
       "notes": ""
     },
     {
@@ -1260,16 +1620,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/42. The three enemies of storytelling ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 13804536,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/42. The three enemies of storytelling ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/42. The three enemies of storytelling ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/42. The three enemies of storytelling ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/42-the-three-enemies-of-storytelling.md"
+      ],
       "notes": ""
     },
     {
@@ -1277,16 +1643,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/42. The three enemies of storytelling_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 289588,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/42. The three enemies of storytelling_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/42-the-three-enemies-of-storytelling.md"
+      ],
       "notes": ""
     },
     {
@@ -1294,16 +1664,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/43. The storytelling arcs plots ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 47075535,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/43. The storytelling arcs plots ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/43. The storytelling arcs plots ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/43. The storytelling arcs plots ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/43-the-storytelling-arcs-plots.md"
+      ],
       "notes": ""
     },
     {
@@ -1311,16 +1687,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/43. The storytelling arcs_plots_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 278597,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/43. The storytelling arcs_plots_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/43-the-storytelling-arcs-plots.md"
+      ],
       "notes": ""
     },
     {
@@ -1328,16 +1708,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/44. Prompts to help you storytell ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 21435144,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/44. Prompts to help you storytell ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/44. Prompts to help you storytell ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/44. Prompts to help you storytell ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/44-prompts-to-help-you-storytell.md"
+      ],
       "notes": ""
     },
     {
@@ -1345,16 +1731,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/44. Prompts to help you storytell.docx",
       "size_bytes": 8798,
       "extension": ".docx",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/44. Prompts to help you storytell.docx.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/44-prompts-to-help-you-storytell.md"
+      ],
       "notes": ""
     },
     {
@@ -1362,16 +1752,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/44. Prompts to help you storytell_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 295298,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/44. Prompts to help you storytell_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/44-prompts-to-help-you-storytell.md"
+      ],
       "notes": ""
     },
     {
@@ -1379,16 +1773,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/45. 🆕 Overview Of Iteration Section ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 10861745,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/45. 🆕 Overview Of Iteration Section ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/45. 🆕 Overview Of Iteration Section ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/45. 🆕 Overview Of Iteration Section ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/45-overview-of-iteration-section.md"
+      ],
       "notes": ""
     },
     {
@@ -1396,16 +1796,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/45. 🆕 Overview Of Iteration Section_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 272293,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/45. 🆕 Overview Of Iteration Section_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/45-overview-of-iteration-section.md"
+      ],
       "notes": ""
     },
     {
@@ -1413,16 +1817,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/46. 🆕 The 10 Step Iteration Process ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 58250306,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/46. 🆕 The 10 Step Iteration Process ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/46. 🆕 The 10 Step Iteration Process ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/46. 🆕 The 10 Step Iteration Process ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/46-the-10-step-iteration-process.md"
+      ],
       "notes": ""
     },
     {
@@ -1430,16 +1840,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/46. 🆕 The 10 Step Iteration Process_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 285022,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/46. 🆕 The 10 Step Iteration Process_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/46-the-10-step-iteration-process.md"
+      ],
       "notes": ""
     },
     {
@@ -1447,16 +1861,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/47. How To Do Iterations + Long Q&A.docx",
       "size_bytes": 14644,
       "extension": ".docx",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/47. How To Do Iterations + Long Q&A.docx.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/47-claude-code-10-step-iteration-process.md"
+      ],
       "notes": ""
     },
     {
@@ -1464,16 +1882,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/47. 🆕 Claude Code - 10 Step Iteration Process ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 53887606,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/47. 🆕 Claude Code - 10 Step Iteration Process ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/47. 🆕 Claude Code - 10 Step Iteration Process ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/47. 🆕 Claude Code - 10 Step Iteration Process ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/47-claude-code-10-step-iteration-process.md"
+      ],
       "notes": ""
     },
     {
@@ -1481,16 +1905,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/47. 🆕 Claude Code - 10 Step Iteration Process_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 272303,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/47. 🆕 Claude Code - 10 Step Iteration Process_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/47-claude-code-10-step-iteration-process.md"
+      ],
       "notes": ""
     },
     {
@@ -1498,16 +1926,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/48. 🆕 How To Iterate On Losing Ads ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 58022724,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/48. 🆕 How To Iterate On Losing Ads ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/48. 🆕 How To Iterate On Losing Ads ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/48. 🆕 How To Iterate On Losing Ads ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/48-how-to-iterate-on-losing-ads.md"
+      ],
       "notes": ""
     },
     {
@@ -1515,16 +1949,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/48. 🆕 How To Iterate On Losing Ads_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 306424,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/48. 🆕 How To Iterate On Losing Ads_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/48-how-to-iterate-on-losing-ads.md"
+      ],
       "notes": ""
     },
     {
@@ -1532,16 +1970,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/49. 🆕 How To Iterate On KPI Winners ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 13062995,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/49. 🆕 How To Iterate On KPI Winners ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/49. 🆕 How To Iterate On KPI Winners ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/49. 🆕 How To Iterate On KPI Winners ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/49-how-to-iterate-on-kpi-winners.md"
+      ],
       "notes": ""
     },
     {
@@ -1549,16 +1993,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/49. 🆕 How To Iterate On KPI Winners_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 282960,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/49. 🆕 How To Iterate On KPI Winners_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/49-how-to-iterate-on-kpi-winners.md"
+      ],
       "notes": ""
     },
     {
@@ -1566,16 +2014,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/5. Why you need to write in the environment ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 35322274,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/5. Why you need to write in the environment ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/5. Why you need to write in the environment ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/5. Why you need to write in the environment ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/05-why-you-need-to-write-in-the-environment.md"
+      ],
       "notes": ""
     },
     {
@@ -1583,16 +2037,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/5. Why you need to write in the environment_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 292510,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/5. Why you need to write in the environment_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/05-why-you-need-to-write-in-the-environment.md"
+      ],
       "notes": ""
     },
     {
@@ -1600,16 +2058,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/50. 🆕 How To Iterate On Spend Winners ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 55839870,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/50. 🆕 How To Iterate On Spend Winners ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/50. 🆕 How To Iterate On Spend Winners ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/50. 🆕 How To Iterate On Spend Winners ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/50-how-to-iterate-on-spend-winners.md"
+      ],
       "notes": ""
     },
     {
@@ -1617,16 +2081,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/50. 🆕 How To Iterate On Spend Winners_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 300752,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/50. 🆕 How To Iterate On Spend Winners_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/50-how-to-iterate-on-spend-winners.md"
+      ],
       "notes": ""
     },
     {
@@ -1634,16 +2102,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/51. 🆕 How To Iterate On 🏆 Breakthroughs ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 54266891,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/51. 🆕 How To Iterate On 🏆 Breakthroughs ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/51. 🆕 How To Iterate On 🏆 Breakthroughs ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/51. 🆕 How To Iterate On 🏆 Breakthroughs ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/51-how-to-iterate-on-breakthroughs.md"
+      ],
       "notes": ""
     },
     {
@@ -1651,16 +2125,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/51. 🆕 How To Iterate On 🏆 Breakthroughs_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 310322,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/51. 🆕 How To Iterate On 🏆 Breakthroughs_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/51-how-to-iterate-on-breakthroughs.md"
+      ],
       "notes": ""
     },
     {
@@ -1668,16 +2146,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/52. Example Here.docx",
       "size_bytes": 9599,
       "extension": ".docx",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/52. Example Here.docx.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/52-the-iteration-playbook-script.md"
+      ],
       "notes": ""
     },
     {
@@ -1685,16 +2167,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/52. 🆕 The Iteration Playbook - Script ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 62260711,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/52. 🆕 The Iteration Playbook - Script ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/52. 🆕 The Iteration Playbook - Script ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/52. 🆕 The Iteration Playbook - Script ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/52-the-iteration-playbook-script.md"
+      ],
       "notes": ""
     },
     {
@@ -1702,16 +2190,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/52. 🆕 The Iteration Playbook - Script_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 313374,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/52. 🆕 The Iteration Playbook - Script_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/52-the-iteration-playbook-script.md"
+      ],
       "notes": ""
     },
     {
@@ -1719,16 +2211,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/53. 🆕 The Iteration Playbook - Formats & Styles ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 51347855,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/53. 🆕 The Iteration Playbook - Formats & Styles ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/53. 🆕 The Iteration Playbook - Formats & Styles ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/53. 🆕 The Iteration Playbook - Formats & Styles ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/53-the-iteration-playbook-formats-styles.md"
+      ],
       "notes": ""
     },
     {
@@ -1736,16 +2234,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/53. 🆕 The Iteration Playbook - Formats & Styles_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 316515,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/53. 🆕 The Iteration Playbook - Formats & Styles_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/53-the-iteration-playbook-formats-styles.md"
+      ],
       "notes": ""
     },
     {
@@ -1753,16 +2255,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/54. 📌 Iteration Examples & Breakdowns (Walkthrough) ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 68942075,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/54. 📌 Iteration Examples & Breakdowns (Walkthrough) ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/54. 📌 Iteration Examples & Breakdowns (Walkthrough) ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/54. 📌 Iteration Examples & Breakdowns (Walkthrough) ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/54-iteration-examples-breakdowns-walkthrough.md"
+      ],
       "notes": ""
     },
     {
@@ -1770,16 +2278,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/54. 📌 Iteration Examples & Breakdowns (Walkthrough)_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 291019,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/54. 📌 Iteration Examples & Breakdowns (Walkthrough)_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/54-iteration-examples-breakdowns-walkthrough.md"
+      ],
       "notes": ""
     },
     {
@@ -1787,16 +2299,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/55. ⭐️ Why you need to position your brand ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 106898121,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/55. ⭐️ Why you need to position your brand ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/55. ⭐️ Why you need to position your brand ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/55. ⭐️ Why you need to position your brand ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/55-why-you-need-to-position-your-brand.md"
+      ],
       "notes": ""
     },
     {
@@ -1804,16 +2322,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/55. ⭐️ Why you need to position your brand_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 288137,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/55. ⭐️ Why you need to position your brand_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/55-why-you-need-to-position-your-brand.md"
+      ],
       "notes": ""
     },
     {
@@ -1821,16 +2343,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/56. 💥 Positioning Exercise ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 19244087,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/56. 💥 Positioning Exercise ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/56. 💥 Positioning Exercise ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/56. 💥 Positioning Exercise ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/56-positioning-exercise.md"
+      ],
       "notes": ""
     },
     {
@@ -1838,16 +2366,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/56. 💥 Positioning Exercise_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 273467,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/56. 💥 Positioning Exercise_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/56-positioning-exercise.md"
+      ],
       "notes": ""
     },
     {
@@ -1855,16 +2387,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/57. 📌 100 Hook Templates (Form Winning Ads Deck) ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 10358534,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/57. 📌 100 Hook Templates (Form Winning Ads Deck) ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/57. 📌 100 Hook Templates (Form Winning Ads Deck) ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/57. 📌 100 Hook Templates (Form Winning Ads Deck) ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/57-100-hook-templates-form-winning-ads-deck.md"
+      ],
       "notes": ""
     },
     {
@@ -1872,33 +2410,41 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/57. 📌 100 Hook Templates (Form Winning Ads Deck)_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 279666,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
-      "notes": ""
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/57. 📌 100 Hook Templates (Form Winning Ads Deck)_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/57-100-hook-templates-form-winning-ads-deck.md"
+      ],
+      "notes": "Linked Google Sheet \"100 Hook Templates\" is login-blocked (HTTP 401); only the 25 rows legible on screen are recorded."
     },
     {
       "source_id": "mega:LlQnyCIZ:f9400LKQ",
       "original_path": "✍️ Evolve Copywriting (NEW)/58. Copywriting Checklist (when writing)_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 175484,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/58. Copywriting Checklist (when writing)_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/58-copywriting-checklist-when-writing.md"
+      ],
       "notes": ""
     },
     {
@@ -1906,16 +2452,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/59. Visual words_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 186757,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/59. Visual words_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/59-visual-words.md"
+      ],
       "notes": ""
     },
     {
@@ -1923,16 +2473,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/6. 💥 Update Your Milanote_Figma For Writing_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 181686,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/6. 💥 Update Your Milanote_Figma For Writing_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/06-update-your-milanote-figma-for-writing.md"
+      ],
       "notes": ""
     },
     {
@@ -1940,16 +2494,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/60. Facts list_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 192195,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/60. Facts list_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/60-facts-list.md"
+      ],
       "notes": ""
     },
     {
@@ -1957,16 +2515,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/61. Objections list_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 193083,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/61. Objections list_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/61-objections-list.md"
+      ],
       "notes": ""
     },
     {
@@ -1974,16 +2536,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/62. Value words_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 191220,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/62. Value words_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/62-value-words.md"
+      ],
       "notes": ""
     },
     {
@@ -1991,16 +2557,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/63. Power words_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 215369,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/63. Power words_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/63-power-words.md"
+      ],
       "notes": ""
     },
     {
@@ -2008,16 +2578,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/64. Eugene's Headlines_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 213433,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/64. Eugene's Headlines_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/64-eugenes-headlines.md"
+      ],
       "notes": ""
     },
     {
@@ -2025,16 +2599,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/65. Banger Static Ads Prompt ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 63799519,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/65. Banger Static Ads Prompt ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/65. Banger Static Ads Prompt ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/65. Banger Static Ads Prompt ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/65-banger-static-ads-prompt.md"
+      ],
       "notes": ""
     },
     {
@@ -2042,16 +2622,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/65. Banger Static Ads Prompt.docx",
       "size_bytes": 27524,
       "extension": ".docx",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/65. Banger Static Ads Prompt.docx.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/65-banger-static-ads-prompt.md"
+      ],
       "notes": ""
     },
     {
@@ -2059,16 +2643,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/65. Banger Static Ads Prompt_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 1016832,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/65. Banger Static Ads Prompt_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/65-banger-static-ads-prompt.md"
+      ],
       "notes": ""
     },
     {
@@ -2076,16 +2664,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/66. Learn more about copywriting_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 200061,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/66. Learn more about copywriting_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/66-learn-more-about-copywriting.md"
+      ],
       "notes": ""
     },
     {
@@ -2093,16 +2685,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/67. How To Write Image Ads - Part 1 ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 116016653,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/67. How To Write Image Ads - Part 1 ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/67. How To Write Image Ads - Part 1 ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/67. How To Write Image Ads - Part 1 ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/67-how-to-write-image-ads-part-1.md"
+      ],
       "notes": ""
     },
     {
@@ -2110,16 +2708,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/67. How To Write Image Ads - Part 1_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 298128,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/67. How To Write Image Ads - Part 1_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/67-how-to-write-image-ads-part-1.md"
+      ],
       "notes": ""
     },
     {
@@ -2127,16 +2729,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/67. How To Write Image Ads.docx",
       "size_bytes": 8048,
       "extension": ".docx",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/67. How To Write Image Ads.docx.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/67-how-to-write-image-ads-part-1.md"
+      ],
       "notes": ""
     },
     {
@@ -2144,16 +2750,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/68. How To Write Image Ads - Part 2 ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 202626703,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/68. How To Write Image Ads - Part 2 ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/68. How To Write Image Ads - Part 2 ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/68. How To Write Image Ads - Part 2 ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/68-how-to-write-image-ads-part-2.md"
+      ],
       "notes": ""
     },
     {
@@ -2161,16 +2773,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/68. How To Write Image Ads - Part 2_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 304795,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/68. How To Write Image Ads - Part 2_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/68-how-to-write-image-ads-part-2.md"
+      ],
       "notes": ""
     },
     {
@@ -2178,16 +2794,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/69. 💥 Action Item_ Write Your Image Ad Briefs.docx",
       "size_bytes": 8049,
       "extension": ".docx",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/69. 💥 Action Item_ Write Your Image Ad Briefs.docx.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/69-action-item-write-your-image-ad-briefs.md"
+      ],
       "notes": ""
     },
     {
@@ -2195,16 +2815,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/69. 💥 Action Item_ Write Your Image Ad Briefs_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 178613,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/69. 💥 Action Item_ Write Your Image Ad Briefs_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/69-action-item-write-your-image-ad-briefs.md"
+      ],
       "notes": ""
     },
     {
@@ -2212,16 +2836,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/7. Why great copywriting requires boredom ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 28157158,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/7. Why great copywriting requires boredom ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/7. Why great copywriting requires boredom ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/7. Why great copywriting requires boredom ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/07-why-great-copywriting-requires-boredom.md"
+      ],
       "notes": ""
     },
     {
@@ -2229,16 +2859,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/7. Why great copywriting requires boredom_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 286342,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/7. Why great copywriting requires boredom_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/07-why-great-copywriting-requires-boredom.md"
+      ],
       "notes": ""
     },
     {
@@ -2246,16 +2880,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/70. How To Write Video Ads - Part 1 ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 113221408,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/70. How To Write Video Ads - Part 1 ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/70. How To Write Video Ads - Part 1 ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/70. How To Write Video Ads - Part 1 ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/70-how-to-write-video-ads-part-1.md"
+      ],
       "notes": ""
     },
     {
@@ -2263,16 +2903,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/70. How To Write Video Ads - Part 1_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 287694,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/70. How To Write Video Ads - Part 1_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/70-how-to-write-video-ads-part-1.md"
+      ],
       "notes": ""
     },
     {
@@ -2280,33 +2924,41 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/70. How To Write Video Ads.docx",
       "size_bytes": 53687,
       "extension": ".docx",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
-      "notes": ""
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/70. How To Write Video Ads.docx.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/70-how-to-write-video-ads-part-1.md"
+      ],
+      "notes": "Same text as the other two \"How To Write Video Ads\" DOCX copies (bytes differ only in metadata); verbatim prompt reproduced once on lesson 72."
     },
     {
       "source_id": "mega:LlQnyCIZ:ixh21LyL",
       "original_path": "✍️ Evolve Copywriting (NEW)/71. Final Script Written By Spencer.pdf",
       "size_bytes": 211875,
       "extension": ".pdf",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/71. Final Script Written By Spencer.pdf.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/71-how-to-write-video-ads-part-2.md"
+      ],
       "notes": ""
     },
     {
@@ -2314,16 +2966,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/71. How To Write Video Ads - Part 2 ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 148082946,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/71. How To Write Video Ads - Part 2 ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/71. How To Write Video Ads - Part 2 ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/71. How To Write Video Ads - Part 2 ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/71-how-to-write-video-ads-part-2.md"
+      ],
       "notes": ""
     },
     {
@@ -2331,16 +2989,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/71. How To Write Video Ads - Part 2_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 285183,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/71. How To Write Video Ads - Part 2_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/71-how-to-write-video-ads-part-2.md"
+      ],
       "notes": ""
     },
     {
@@ -2348,50 +3010,62 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/71. How To Write Video Ads.docx",
       "size_bytes": 53687,
       "extension": ".docx",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
-      "notes": ""
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/71. How To Write Video Ads.docx.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/71-how-to-write-video-ads-part-2.md"
+      ],
+      "notes": "Same text as the other two \"How To Write Video Ads\" DOCX copies (bytes differ only in metadata); verbatim prompt reproduced once on lesson 72."
     },
     {
       "source_id": "mega:LlQnyCIZ:ighWgbQA",
       "original_path": "✍️ Evolve Copywriting (NEW)/72. 💥 Action Item_ Write Your Video Ad Briefs.docx",
       "size_bytes": 53687,
       "extension": ".docx",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
-      "notes": ""
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/72. 💥 Action Item_ Write Your Video Ad Briefs.docx.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/72-action-item-write-your-video-ad-briefs.md"
+      ],
+      "notes": "Same text as the other two \"How To Write Video Ads\" DOCX copies (bytes differ only in metadata); verbatim prompt reproduced once on lesson 72."
     },
     {
       "source_id": "mega:LlQnyCIZ:n1pm3LRC",
       "original_path": "✍️ Evolve Copywriting (NEW)/72. 💥 Action Item_ Write Your Video Ad Briefs_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 176309,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/72. 💥 Action Item_ Write Your Video Ad Briefs_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/72-action-item-write-your-video-ad-briefs.md"
+      ],
       "notes": ""
     },
     {
@@ -2399,16 +3073,22 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/8. The 3 checks for great copywriting ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 41639618,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/8. The 3 checks for great copywriting ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/8. The 3 checks for great copywriting ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/8. The 3 checks for great copywriting ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/08-the-3-checks-for-great-copywriting.md"
+      ],
       "notes": ""
     },
     {
@@ -2416,16 +3096,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/8. The 3 checks for great copywriting_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 287991,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/8. The 3 checks for great copywriting_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/08-the-3-checks-for-great-copywriting.md"
+      ],
       "notes": ""
     },
     {
@@ -2433,16 +3117,20 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/9. The importance of _how_ you say it_✍️ Evolve Copywriting (NEW)_Evolve.html",
       "size_bytes": 281775,
       "extension": ".html",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
+        "downloaded": true,
         "transcribed": false,
-        "extracted": false,
-        "summarized": false,
-        "verified": false
+        "extracted": true,
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_extracted/✍️ Evolve Copywriting (NEW)/9. The importance of _how_ you say it_✍️ Evolve Copywriting (NEW)_Evolve.html.md"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/09-the-importance-of-how-you-say-it.md"
+      ],
       "notes": ""
     },
     {
@@ -2450,17 +3138,42 @@
       "original_path": "✍️ Evolve Copywriting (NEW)/9. The importance of how you say it ✍️ Evolve Copywriting (NEW) Evolve.mp4",
       "size_bytes": 27373730,
       "extension": ".mp4",
-      "status": "pending",
+      "status": "verified",
       "stages": {
-        "downloaded": false,
-        "transcribed": false,
+        "downloaded": true,
+        "transcribed": true,
         "extracted": false,
-        "summarized": false,
-        "verified": false
+        "summarized": true,
+        "verified": true
       },
-      "evidence_paths": [],
-      "wiki_pages": [],
+      "evidence_paths": [
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/9. The importance of how you say it ✍️ Evolve Copywriting (NEW) Evolve.txt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/9. The importance of how you say it ✍️ Evolve Copywriting (NEW) Evolve.srt",
+        "knowledge-base/raw/evolve/copywriting/_transcripts/✍️ Evolve Copywriting (NEW)/9. The importance of how you say it ✍️ Evolve Copywriting (NEW) Evolve.json"
+      ],
+      "wiki_pages": [
+        "knowledge-base/wiki/courses/evolve/copywriting/lessons/09-the-importance-of-how-you-say-it.md"
+      ],
       "notes": ""
     }
-  ]
+  ],
+  "status_counts": {
+    "verified": 144
+  },
+  "instructor_evidence": "On-screen tweet \"Spencer Pawliw @spencepawliw\" (lesson 40, 02:40); self-references \"Spencer\" in lessons 8, 25, 30, 55; PDF \"Final Script Written By Spencer\".",
+  "linked_sources": {
+    "skool_images": 104,
+    "google_docs_exported": 9,
+    "blocked": [
+      "lesson 57 Google Sheet \"100 Hook Templates\" (401, login required)"
+    ],
+    "index": "knowledge-base/raw/evolve/copywriting/linked/linked-index.json"
+  },
+  "verification": {
+    "date": "2026-10-22",
+    "transcripts": "59/59 videos; faster-whisper large-v3-turbo (CUDA); no transcript ends >20 s before the recording ends",
+    "links": "tools/kb/check_links.py: 130 course Markdown files, 0 missing link/image/frontmatter-source targets",
+    "timestamp_sample": "_tools/verify_quotes.py: 1,531 quoted lines with timestamps; 1,145 located in transcripts, of which 1,120 within the cited time range ±60 s (11 mis-timed narration quotes corrected); unmatched quotes are mostly on-screen/document text (spot-checked)",
+    "visuals": "candidate frames for all 59 videos reviewed by lesson writers; 385 screenshots/images embedded"
+  }
 }

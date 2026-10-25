@@ -1,0 +1,118 @@
+{
+  "source_file": "65. Banger Static Ads Prompt ✍️ Evolve Copywriting (NEW) Evolve.mp4",
+  "source_id": "mega:LlQnyCIZ:XhokUBTI",
+  "source_sha256": "fafb9c36e0d5b7c41efb7515b1a1a6117350cad9d4aba59a83a4dcf58742258c",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 450.58,
+  "last_segment_end": 450.58,
+  "segments": [
+    {
+      "start": 0.34,
+      "end": 17.41,
+      "text": "All right, guys, so in this loom, I'm gonna be walking you through the new static ads prompt that I have been working on. This one, honestly, is got a little bit more sauce to it, if you ask me, because it is really about creating bold and, you know, really like..."
+    },
+    {
+      "start": 17.41,
+      "end": 46.83,
+      "text": "eye-catching statics that some of them are going to be humorous, some are going to be witty, some are going to be kind of like controversial, but the goal of these statics is to be bold and definitely not be ones that get scrolled by. So again, this static prompt is inside of here and you can see some of these are basically referencing some incredible ads. So it's quite a long prompt, almost a 20-page prompt here, but it is something that is very, very, very powerful. So what I'm going to go ahead and do is"
+    },
+    {
+      "start": 46.83,
+      "end": 76.02,
+      "text": "is just walk through the entire process with you. So the first thing here is obviously we're gonna have to upload our research doc. We're gonna have to upload everything else. So I will go ahead and upload that now. And just a reminder, guys, if you need a specific avatar in this chat, you can always go back into the program, go to how to make personas and avatars, and obviously just copy this section. And then when you go into Claude, you can just upload that and say, I will need you to actually create a new avatar for the Viking Spark following this prompt."
+    },
+    {
+      "start": 76.02,
+      "end": 96.96,
+      "text": "and then we can move on to the next step, okay? So if you don't have the right avatar, again, you can always come in, reuse that prompt, and it will write a new avatar for you. And again, it should work super smooth. So now what we're gonna do is we're gonna go ahead and upload the product information. We're actually gonna be using this product specifically. So I'm gonna go ahead and paste this in."
+    },
+    {
+      "start": 96.96,
+      "end": 119.82,
+      "text": "All right, so now just raw first take here, you can see some of the headlines that are going to come together. For some reason, cloud format is a little weird. Sometimes it will do that. But as you can see here, what this is going to output to you is it's going to say what it was inspired by. So there is a lot of basically world-class ads. I've scraped almost a lot of the internet to find some of these ads. Some of them you may recognize, some you may not."
+    },
+    {
+      "start": 119.82,
+      "end": 145.15,
+      "text": "Essentially inside of here, as you can see, the first headline is a dull knife and no fire can ruin your entire adventure. And again, something like this here, you can see I actually messed up and I put in the spark necklace when it was actually meant to be the Viking spark necklace, which is kind of like this tandem product here, which is kind of cool. Anyhow, you can see this headline plays on our avatar's fear of being unprepared while creating urgency, and it will then give you two alternate versions as well."
+    },
+    {
+      "start": 145.15,
+      "end": 156.51,
+      "text": "And so in these alternate versions, you can see your knife is dull, your fire's dead, now what, right? And so again, like these statics are pretty intense, right? Don't let a dull blade end your adventure early."
+    },
+    {
+      "start": 156.51,
+      "end": 177.33,
+      "text": "pretty bold as well. Here's another one here you can see, inspired by example ad number one, Ryanair's value comparison, your survival kit weighs two ounces, your peace of mind priceless, right? Emphasize the lightweight practical nature while hitting emotional benefits, alternate versions, survival gear that weighs less than your wallet, two ounces of readiness you'll never leave behind."
+    },
+    {
+      "start": 177.33,
+      "end": 206.67,
+      "text": "Pretty cool there, right? Here's another one. Inspired by example, add number six. Chipotle is usually when you roll. The only survival tool you can wear to a wedding. Pretty cool, right? Plays on the style and function aspect that appears to our avatar. Alternate versions. Finally, survival gear that doesn't scream prepper and survival gear that looks as good as it performs. Inspired by example, add number eight, the cooling comforter. Sharp blade, hot fire, one necklace, right? Direct benefit focus headline highlighting dual functionality. Alternate versions, the Swiss army knife."
+    },
+    {
+      "start": 206.67,
+      "end": 211.31,
+      "text": "of necklaces and more capable than your entire survival kit like some pretty"
+    },
+    {
+      "start": 211.31,
+      "end": 240.75,
+      "text": "banger headlines in here. Here's one from Nutella. This is jewelry. This is survival gear. Creates intrigue through contrast and transformation. Alternate versions. Looks like jewelry. Works like survival gear. When jewelry meets survival gear. Pretty cool stuff. Inspired by example ad number four. Patron. Because Amazon doesn't deliver to the wilderness. That is fire. Uses humor to address a serious concern. Alternate versions. When plan A fails, wear plan B."
+    },
+    {
+      "start": 240.75,
+      "end": 258.05,
+      "text": "When things go wrong, be ready. That's actually crazy. This would actually, so this is something where you guys can take this as well, where you can say, because Amazon doesn't deliver to the Amazon, right? So you could play on words with that. And again, these ads that it's pulling from are fire, okay? These are."
+    },
+    {
+      "start": 258.05,
+      "end": 287.54,
+      "text": "Crazy fire ads. Inside of here, some really good headlines. Inspired example ad number 11 by Huel. Adventures ready, style ready, you ready, question mark. Super fire there. Alternate versions, ready for anything, built for everything. Gear up, stand out, be ready. This one is inspired by the zero stars. Zero stars would not recommend. Mother Nature uses clever reverse psychology to highlight effectiveness. Alternate versions, camping's worst nightmare. Bears, one star, two effective, the elements."
+    },
+    {
+      "start": 287.54,
+      "end": 313.97,
+      "text": "That one's okay. Inspired by example ad number 10, wear Bear Grylls' favorite necklace. Maybe that one's not that good. Actually, just a really capable survival tool. So that one's okay. This ad is actually really good as well. Your dad's survival kit got jealous. Their survival tool, your gear wishes it was. Some pretty decent one theirs as well. So again, you guys can take inspo from this."
+    },
+    {
+      "start": 313.97,
+      "end": 325.41,
+      "text": "you know, have some fun and play with it. But there's definitely some headlines in here that compared to the basic static app prompt are super fire. And now from here, what you're going to do is you're going to pick your favorites. So I'm going to go ahead and pick my favorite."
+    },
+    {
+      "start": 325.41,
+      "end": 354.86,
+      "text": "All right, so these are the three headlines that I go with, or that I'm going to go with, and I didn't even adjust these, but when plan A fails, where plan B, that is super fire. So I'm going to go through with this, and now you'll see the next part of the prompt is actually going to go ahead and start describing this for you. So it's going to say, I'll now develop concepts for each of these headlines, focusing on imagery and supporting text that will resonate with our target avatar. So concept number one, your knife is dull, your fire's dead. Now what? Add visual description. So this could be a split screen image set in a dramatic wilderness setting at dusk. Left side, a frustrated outdoorsman."
+    },
+    {
+      "start": 354.86,
+      "end": 384.08,
+      "text": "and try to cut through rope with a visible dull knife. Pile of wet matches nearby. Right side, the same scene showing the Viking spark necklace in use, creating brilliant sparks and featuring the wet stone's sleek surface. The contract should be immediate and striking with the right side showing confidence and capability. Never be caught unprepared. The Viking spark combines premium Arkansas wet stone and ferro rod necklace, blah, blah, blah, blah, blah. Concept number two, the only survival tool you can wear to a wedding. Add description, a sophisticated lifestyle shot showing the Viking spark warm with both formal and outdoor attire."
+    },
+    {
+      "start": 384.08,
+      "end": 413.3,
+      "text": "You know, main focus, the Viking spark necklace worn with a suit looking like an intentional piece of jewelry. Instant images, small action shots showing the necklace creating sparks. Style meets survival. This isn't just jewelry. It's a premium whatever. Concept number three, when plan A fails, wear plan B. Add visual description. So this would be a clever montage showing everyday scenarios turning unexpected. South center, the Viking spark necklace prominently displayed. Around it, three small vignettes showing real world uses. A camp stove failing, but the necklace creating sparks. A dull knife being quickly shown."
+    },
+    {
+      "start": 413.3,
+      "end": 418.43,
+      "text": "sharpened and someone wearing it with everyday clothes, the overall tone should be confident and capable, not alarming. So again,"
+    },
+    {
+      "start": 418.43,
+      "end": 447.79,
+      "text": "Pretty crazy that it can come up with a lot of these descriptions as well. And so you guys can see this. Obviously, you can let your visual designers cook with this too. And this might, again, just spark ideas. But as you can see, this stat gap prompt is super, super fire. And if you wanted to run it back, you totally can. This prompt will continue to get better as we're obviously going to continue to add actually better statics and more winning statics to it as well. But with that said, hopefully you guys like this. Really, really excited about this. Our team is going to be pumping out statics with this."
+    },
+    {
+      "start": 447.79,
+      "end": 450.58,
+      "text": "excited to go through it so that's uh the new static ad prompt"
+    }
+  ]
+}

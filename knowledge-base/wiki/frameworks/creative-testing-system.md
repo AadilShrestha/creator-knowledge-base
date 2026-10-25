@@ -19,7 +19,7 @@ updated: 2026-10-20
 ---
 
 # Creative Testing System
-> One consolidated playbook for testing ad creative the Tether Lab way: **precision over volume** (3–5 new ads a week), **small batches** (launch 3, keep 1, add 3), **message first, then heuristics, then format**, iterate winners **one variable at a time**, find copy × image "customer genomes", climb the **format ladder** (static → GIF/carousel → UGC → pro video), scale **10–15% a day**, and don't mistake a frequency of 2 for fatigue.
+> One consolidated playbook for testing ad creative the Tether Lab way: **precision over volume** (3–5 new ads a week), **small batches** (launch 3, keep 1, add 3), **message first, then heuristics, then format**, iterate winners **one variable at a time**, find copy × image "customer genomes", climb the **format ladder** (static → GIF/carousel → UGC → pro video), scale cautiously (**+10% every other day**, rising to **10–15% a day** while CPA holds), and don't mistake a frequency of 2 for fatigue.
 
 ## 🤖 Agent use
 - **Use when:** turning a competitor teardown or a fresh angle into a test plan; deciding what to change next on a winning ad; deciding whether a winner is "fatigued"; turning a winning static into a UGC/video brief; diagnosing why a video isn't converting; sizing a weekly/monthly creative calendar for a sub-8-figure brand.
@@ -32,7 +32,7 @@ updated: 2026-10-20
   - DO iterate a **proven winner one variable at a time** (headline, badge, product treatment, image). Keep what's known to work. [Jul 9 0:29:12–0:32:21](../courses/tether-lab/05-live-recordings/2025-07-09-live-with-sarah.md); [Jul 23 0:52:41–0:55:52](../courses/tether-lab/05-live-recordings/2025-07-23-roast-my-ads-3.md)
   - DON'T test a *new* message as five identical statics with one headline each; for new messages, vary **format** around one message (≈5 messages × 4 formats). [Jun 11 0:51:49–0:52:52](../courses/tether-lab/05-live-recordings/2025-06-11-live-with-sarah.md)
   - DO put expensive formats (UGC, pro video, "fake podcast") on a concept **only after its static has won**. [Jun 18 0:59:15–1:01:19](../courses/tether-lab/05-live-recordings/2025-06-18-live-with-sarah.md)
-  - DO scale a winner **+10–15% budget a day** while CPA and CVR hold (cautious: +10% every other day). [Jun 18 0:38:03–0:39:07](../courses/tether-lab/05-live-recordings/2025-06-18-live-with-sarah.md)
+  - DO scale a winner starting at **+10% every other day**, rising to **+10–15% budget a day** while CPA and CVR hold (both from the same answer; see [contradictions](../contradictions.md) row 7b). [Jun 18 0:38:03–0:39:07](../courses/tether-lab/05-live-recordings/2025-06-18-live-with-sarah.md)
   - DON'T kill a winning format because *you* are bored. "A frequency of two… I've seen it twice now in my whole life… that's no time." [Jul 23 0:51:41–0:54:47](../courses/tether-lab/05-live-recordings/2025-07-23-roast-my-ads-3.md)
   - IF a video doesn't convert THEN A/B test **speed first**, then the **hook**, then the **story**, then **visuals/creator**. [May 14 0:44:50–0:45:41](../courses/tether-lab/05-live-recordings/2025-05-14-live-with-sarah.md)
   - DON'T drop the winning message when you turn a static into a video. **Message in frame 1**, model/product second. [Jul 23 0:18:56–0:21:32](../courses/tether-lab/05-live-recordings/2025-07-23-roast-my-ads-3.md)
@@ -201,7 +201,7 @@ It sits on top of the targeting frameworks: [valence/intensity zones](valence-in
 | One-variable tests | Jun 11: 2015-style "five images each with one headline" now "too slow", vary format [Jun 11 0:51:49] | May 7: "same creative, five different headlines" [0:13:46]; Jul 9: headline-only iteration "one of the best ways" [0:29:12]; Jul 23: one product variable at a time | One variable for iterating winners; format diversity for new messages |
 | Statics vs video | Chase: sub-$5M "shouldn't mess around with video at all" [Chase 0:04:49] | Sarah: video after a static concept wins, at any size; some accounts only take video [Jun 18 0:59:15; Jun 11 0:52:52] | Default to statics; move up the ladder per concept, not per revenue tier |
 | What "variety" means | Chase: variations of winners (new colour, icon, badge, crop) [Chase 0:19:10–0:21:46] | Sarah: creative *diversity* = many formats of one message [Jun 18 0:57:11] | Both: keep the message; vary primitives *and* formats |
-| Scaling increment | 10–15%/day | "+10% every other day" (very conservative); Whisper "10 to 50%" [Jun 18 0:38:03] | 10–15%/day default |
+| Scaling increment | 10–15%/day | "+10% every other day" (very conservative); Whisper "10 to 50%" [Jun 18 0:38:03] | Start +10% every other day → 10–15%/day while CPA holds ([contradictions](../contradictions.md) 7b) |
 | Ad-library longevity | CreativeOS lesson: live 90+ days = presumed winner ([CreativeOS bonus](../courses/tether-lab/02-heuristics-101/08-bonus-creativeos.md) [05:12]) | Jun 11: "running for 195 days" isn't proof; big brands can leave ads on [0:22:19–0:26:35] | Use longevity as a filter, confirm with comment signal |
 | Variant next to winner | Bren: put it next to the winner | Khalid: both flop; Darian: new ad set [Jul 23 0:21:32–0:24:54] | Keep the account's working structure |
 

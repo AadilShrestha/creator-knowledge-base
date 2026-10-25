@@ -1,0 +1,1223 @@
+{
+  "source_file": "2. The current state of copywriting ✍️ Evolve Copywriting (NEW) Evolve.mp4",
+  "source_id": "mega:LlQnyCIZ:j4gkTTJB",
+  "source_sha256": "c678a34f920269bb71cc6ce771158a3b7dfcad329c3e05351754ff08ee796bc1",
+  "backend": "faster-whisper-cuda-int8_float16",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 755.39,
+  "last_segment_end": 755.34,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.08,
+      "text": "All right, in this video, we are going to be talking about the current state of copywriting."
+    },
+    {
+      "start": 5.26,
+      "end": 8.68,
+      "text": "Now, I know this is listed as module one, it probably won't be module one, but we're"
+    },
+    {
+      "start": 8.68,
+      "end": 10.58,
+      "text": "going to go ahead and get started here."
+    },
+    {
+      "start": 10.74,
+      "end": 15.64,
+      "text": "So this is a very visual picture that I think is probably going to resonate with some of"
+    },
+    {
+      "start": 15.64,
+      "end": 23.62,
+      "text": "you, but also is just kind of showcasing how people who are winning and how people"
+    },
+    {
+      "start": 23.62,
+      "end": 29.98,
+      "text": "who are actually out marketing everybody in the actual industry right now."
+    },
+    {
+      "start": 30.88,
+      "end": 32.5,
+      "text": "Basically, this is what this represents."
+    },
+    {
+      "start": 32.72,
+      "end": 41.16,
+      "text": "If you want to see where the 99% of e-commerce brands are and where the top 1% are, this is"
+    },
+    {
+      "start": 41.16,
+      "end": 43.5,
+      "text": "maybe even top 0.1%, to be honest with you."
+    },
+    {
+      "start": 43.74,
+      "end": 45.38,
+      "text": "This is where they are in the blue, okay?"
+    },
+    {
+      "start": 45.6,
+      "end": 51.6,
+      "text": "And the only difference is that the people in the blue are people who use AI to write"
+    },
+    {
+      "start": 51.6,
+      "end": 55.1,
+      "text": "copy who also understand copywriting, right?"
+    },
+    {
+      "start": 55.14,
+      "end": 61.18,
+      "text": "And that is one of the biggest drivers for why I am doing this and why I personally am"
+    },
+    {
+      "start": 61.18,
+      "end": 64.58,
+      "text": "doubling down so much on this skill that is so old."
+    },
+    {
+      "start": 64.96,
+      "end": 68.62,
+      "text": "Everybody thinks is like, oh, copywriting is dead."
+    },
+    {
+      "start": 68.7,
+      "end": 69.74,
+      "text": "Like you don't need it anymore."
+    },
+    {
+      "start": 69.92,
+      "end": 70.9,
+      "text": "AI can just do it all."
+    },
+    {
+      "start": 71.14,
+      "end": 74.38,
+      "text": "And I just feel like that couldn't be more wrong."
+    },
+    {
+      "start": 74.64,
+      "end": 79.68,
+      "text": "Right now, I think most companies, they don't understand really what is going on in the space"
+    },
+    {
+      "start": 79.68,
+      "end": 86.14,
+      "text": "and like just the actual volume of how much information and how many words these customers"
+    },
+    {
+      "start": 86.14,
+      "end": 91.5,
+      "text": "consume on a daily basis, whether that's online through social media where your ads are running"
+    },
+    {
+      "start": 91.5,
+      "end": 95.7,
+      "text": "or that's on Netflix or it's reading, you know, for some of them still reading magazines and"
+    },
+    {
+      "start": 95.7,
+      "end": 99.78,
+      "text": "newspapers or for other people literally just watching, you know, on the younger generation,"
+    },
+    {
+      "start": 99.98,
+      "end": 101.5,
+      "text": "watching streamers all day long."
+    },
+    {
+      "start": 101.64,
+      "end": 101.84,
+      "text": "Okay."
+    },
+    {
+      "start": 101.84,
+      "end": 108.1,
+      "text": "And the thing is, is that most of you guys have very little to say, and not only do you"
+    },
+    {
+      "start": 108.1,
+      "end": 111.5,
+      "text": "have very little say, you're actually very bad at saying it."
+    },
+    {
+      "start": 111.74,
+      "end": 113.08,
+      "text": "And I love this quote."
+    },
+    {
+      "start": 113.2,
+      "end": 117.32,
+      "text": "I stole this from Harry and you guys will see the credits after every single slide here."
+    },
+    {
+      "start": 117.48,
+      "end": 121.2,
+      "text": "So if some of this is familiar to you, it's because I've learned it from very smart people."
+    },
+    {
+      "start": 121.64,
+      "end": 123.5,
+      "text": "But nothing said well is still nothing."
+    },
+    {
+      "start": 124.72,
+      "end": 125.16,
+      "text": "Okay."
+    },
+    {
+      "start": 125.5,
+      "end": 129.52,
+      "text": "And so what I want to jump into today, just to help you kind of understand like the biggest"
+    },
+    {
+      "start": 129.52,
+      "end": 134.14,
+      "text": "problems in copywriting and why this is seriously a problem that you need to solve for."
+    },
+    {
+      "start": 135.06,
+      "end": 139.18,
+      "text": "And just going to kind of walk through them to help you understand probably the mistakes"
+    },
+    {
+      "start": 139.18,
+      "end": 143.46,
+      "text": "that you're making, but more importantly, why, again, we are going so deep into this."
+    },
+    {
+      "start": 143.58,
+      "end": 148.26,
+      "text": "So number one, most people are content writing, not copywriting."
+    },
+    {
+      "start": 148.56,
+      "end": 152.24,
+      "text": "And what I mean by that is most marketers are not actually copywriters anymore."
+    },
+    {
+      "start": 152.5,
+      "end": 153.52,
+      "text": "They are content writers."
+    },
+    {
+      "start": 153.68,
+      "end": 153.9,
+      "text": "Okay."
+    },
+    {
+      "start": 153.92,
+      "end": 156.12,
+      "text": "You guys know that you have ads that you need to make."
+    },
+    {
+      "start": 156.2,
+      "end": 158.26,
+      "text": "And so you write copy that fills those ads."
+    },
+    {
+      "start": 158.26,
+      "end": 160.56,
+      "text": "That is what majority of you do."
+    },
+    {
+      "start": 160.88,
+      "end": 161.0,
+      "text": "Okay."
+    },
+    {
+      "start": 161.02,
+      "end": 164.88,
+      "text": "You've got to make a certain amount of creatives every single week, every single month."
+    },
+    {
+      "start": 165.18,
+      "end": 168.4,
+      "text": "And so you've got to fill those ads with something because those are your deliverables."
+    },
+    {
+      "start": 168.88,
+      "end": 169.02,
+      "text": "Right."
+    },
+    {
+      "start": 169.54,
+      "end": 174.94,
+      "text": "And the problem here is you just, if you do that and you follow that process, which is"
+    },
+    {
+      "start": 174.94,
+      "end": 178.74,
+      "text": "again, something that we still teach, but we are trying to build the infrastructure"
+    },
+    {
+      "start": 178.74,
+      "end": 179.88,
+      "text": "around us to go deeper."
+    },
+    {
+      "start": 180.14,
+      "end": 185.66,
+      "text": "Essentially, if you do go deeper, you transition from a content writer to an actual copywriter."
+    },
+    {
+      "start": 185.8,
+      "end": 186.0,
+      "text": "Okay."
+    },
+    {
+      "start": 186.0,
+      "end": 190.9,
+      "text": "And so a content writer is someone who just writes words that are educational or entertaining"
+    },
+    {
+      "start": 190.9,
+      "end": 193.0,
+      "text": "and give information on a topic."
+    },
+    {
+      "start": 193.12,
+      "end": 193.3,
+      "text": "Right."
+    },
+    {
+      "start": 193.42,
+      "end": 197.82,
+      "text": "A lot of you guys are just out there providing information to you, information to users."
+    },
+    {
+      "start": 197.82,
+      "end": 199.44,
+      "text": "Like that's what you guys do."
+    },
+    {
+      "start": 200.1,
+      "end": 206.94,
+      "text": "Whereas a copywriter is someone who writes something that reinforces a position or establishes"
+    },
+    {
+      "start": 206.94,
+      "end": 215.5,
+      "text": "one in the user's mind and can influence her and can influence a behavior, AKA get the user"
+    },
+    {
+      "start": 215.5,
+      "end": 217.02,
+      "text": "to actually take action."
+    },
+    {
+      "start": 217.02,
+      "end": 222.82,
+      "text": "And so this is the biggest difference between copywriters and people who just think they're"
+    },
+    {
+      "start": 222.82,
+      "end": 227.12,
+      "text": "copywriting, but they're not like, if you are actually copywriting, you are influencing"
+    },
+    {
+      "start": 227.12,
+      "end": 227.98,
+      "text": "behavior."
+    },
+    {
+      "start": 227.98,
+      "end": 228.48,
+      "text": "Okay."
+    },
+    {
+      "start": 228.48,
+      "end": 234.18,
+      "text": "And you are likely reinforcing a position or establishing a position in a person's mind."
+    },
+    {
+      "start": 234.18,
+      "end": 239.42,
+      "text": "And so that is the difference between people who just write words versus people who actually"
+    },
+    {
+      "start": 239.42,
+      "end": 242.52,
+      "text": "write words that do that means something and do something."
+    },
+    {
+      "start": 242.52,
+      "end": 243.02,
+      "text": "Okay."
+    },
+    {
+      "start": 243.02,
+      "end": 248.14,
+      "text": "And again, the goal of copywriting is get somebody to do the action that you want them to do."
+    },
+    {
+      "start": 248.18,
+      "end": 248.32,
+      "text": "Right."
+    },
+    {
+      "start": 248.32,
+      "end": 249.48,
+      "text": "You want to influence them."
+    },
+    {
+      "start": 249.48,
+      "end": 249.8,
+      "text": "Right."
+    },
+    {
+      "start": 249.8,
+      "end": 253.1,
+      "text": "When you're writing content, you're not really trying to influence people."
+    },
+    {
+      "start": 253.1,
+      "end": 255.26,
+      "text": "You're just providing content to people, right?"
+    },
+    {
+      "start": 255.26,
+      "end": 260.56,
+      "text": "Like a movie, maybe it has like this, you know, like a great, great movie, interstellar"
+    },
+    {
+      "start": 260.56,
+      "end": 261.44,
+      "text": "for anybody who's seen it."
+    },
+    {
+      "start": 261.64,
+      "end": 263.54,
+      "text": "Hopefully you have, if you haven't, you know, watch that."
+    },
+    {
+      "start": 263.64,
+      "end": 267.9,
+      "text": "But my point is, is like, that doesn't really influence me to go do anything."
+    },
+    {
+      "start": 267.9,
+      "end": 272.64,
+      "text": "It doesn't, you know, reinforce this specific position in me or get me to go and take a specific"
+    },
+    {
+      "start": 272.64,
+      "end": 273.02,
+      "text": "action."
+    },
+    {
+      "start": 273.02,
+      "end": 278.78,
+      "text": "Now it might make me think a lot about like, holy cow, you know, space is crazy and time"
+    },
+    {
+      "start": 278.78,
+      "end": 282.52,
+      "text": "continuums and all that kind of stuff, but it's not really going to make me go take an"
+    },
+    {
+      "start": 282.52,
+      "end": 282.72,
+      "text": "action."
+    },
+    {
+      "start": 282.84,
+      "end": 286.34,
+      "text": "Now, some movies are so inspirational that they make people go and take action."
+    },
+    {
+      "start": 286.48,
+      "end": 289.18,
+      "text": "But my point is, is like, it's content, right?"
+    },
+    {
+      "start": 289.3,
+      "end": 291.62,
+      "text": "It's phenomenal content, but it's content."
+    },
+    {
+      "start": 291.94,
+      "end": 295.16,
+      "text": "Copywriting is getting somebody to, again, take an action."
+    },
+    {
+      "start": 295.76,
+      "end": 299.9,
+      "text": "Now, the second biggest problem in the current state of copywriting is that nobody is learning"
+    },
+    {
+      "start": 299.9,
+      "end": 300.06,
+      "text": "it."
+    },
+    {
+      "start": 300.86,
+      "end": 301.1,
+      "text": "Okay."
+    },
+    {
+      "start": 301.22,
+      "end": 305.42,
+      "text": "And this is, if you ask me, one of the more concerning problems, but also something that"
+    },
+    {
+      "start": 305.42,
+      "end": 309.18,
+      "text": "excites me because there are so many people that just don't think they need to learn"
+    },
+    {
+      "start": 309.18,
+      "end": 313.06,
+      "text": "copywriting, copywriting, and like, that is just the biggest advantage."
+    },
+    {
+      "start": 313.06,
+      "end": 316.92,
+      "text": "And if you are actually sitting here, like watching this and committing to this, you are"
+    },
+    {
+      "start": 316.92,
+      "end": 317.8,
+      "text": "going to have an advantage."
+    },
+    {
+      "start": 317.92,
+      "end": 319.58,
+      "text": "There's no other way to put it, right?"
+    },
+    {
+      "start": 319.82,
+      "end": 324.4,
+      "text": "So with copywriting right now, majority of people think they don't need to learn it because"
+    },
+    {
+      "start": 324.4,
+      "end": 326.68,
+      "text": "AI can do it and they're not wrong."
+    },
+    {
+      "start": 327.16,
+      "end": 329.02,
+      "text": "AI can do copywriting, right?"
+    },
+    {
+      "start": 329.14,
+      "end": 333.58,
+      "text": "And as I mentioned here, although people who know nothing about copywriting will get better,"
+    },
+    {
+      "start": 333.58,
+      "end": 337.94,
+      "text": "all this means is that the floor is raised on average copy."
+    },
+    {
+      "start": 338.16,
+      "end": 344.04,
+      "text": "It's why people are able to start making money pretty quickly because you have a copywriter"
+    },
+    {
+      "start": 344.04,
+      "end": 346.78,
+      "text": "in AI that is good at copywriting, right?"
+    },
+    {
+      "start": 347.02,
+      "end": 352.88,
+      "text": "And the truth is though, is that if good, if AI is good at copywriting and then everybody"
+    },
+    {
+      "start": 352.88,
+      "end": 356.76,
+      "text": "is using AI to write their ads and everybody's using AI to, you know, basically do everything"
+    },
+    {
+      "start": 356.76,
+      "end": 357.38,
+      "text": "in their business."
+    },
+    {
+      "start": 357.52,
+      "end": 361.12,
+      "text": "Well, that just starts to become the average, right?"
+    },
+    {
+      "start": 361.12,
+      "end": 363.78,
+      "text": "You have to understand how these things work, right?"
+    },
+    {
+      "start": 364.02,
+      "end": 368.72,
+      "text": "Like Facebook ads in 2016, when there was not a lot of people doing it, you didn't really"
+    },
+    {
+      "start": 368.72,
+      "end": 371.14,
+      "text": "have to be great at, at copywriting."
+    },
+    {
+      "start": 371.22,
+      "end": 372.4,
+      "text": "You had to be great at making ads."
+    },
+    {
+      "start": 372.5,
+      "end": 374.02,
+      "text": "You just said like, here's my product."
+    },
+    {
+      "start": 374.02,
+      "end": 377.66,
+      "text": "And you were like advertising in this place where nobody was advertising and there was"
+    },
+    {
+      "start": 377.66,
+      "end": 383.58,
+      "text": "all these customers and there was so much demand and so little supply that it's like, you"
+    },
+    {
+      "start": 383.58,
+      "end": 387.88,
+      "text": "could be an idiot and you could succeed on Facebook ads in 2016, 2017, right?"
+    },
+    {
+      "start": 387.96,
+      "end": 389.76,
+      "text": "Now it can be a complete idiot, but you get my point."
+    },
+    {
+      "start": 389.76,
+      "end": 393.42,
+      "text": "You weren't an idiot if you were running, if you're advertising 2016, 2017, I can tell"
+    },
+    {
+      "start": 393.42,
+      "end": 393.7,
+      "text": "you that."
+    },
+    {
+      "start": 394.22,
+      "end": 399.52,
+      "text": "But what happens is, is over time, because it's so easy to use and because there's not"
+    },
+    {
+      "start": 399.52,
+      "end": 403.06,
+      "text": "a lot of barrier to entry there, it's like, oh, you just sign up and start running ads."
+    },
+    {
+      "start": 403.14,
+      "end": 407.98,
+      "text": "Now the biggest barrier entry was media buying, but sticking to the point here, as more and"
+    },
+    {
+      "start": 407.98,
+      "end": 412.2,
+      "text": "more people kind of use the tool, it just starts to become average."
+    },
+    {
+      "start": 412.3,
+      "end": 416.28,
+      "text": "So now if you just take a random photo of your product and throw it onto meta, depending on"
+    },
+    {
+      "start": 416.28,
+      "end": 419.0,
+      "text": "the category, it's probably not going to do much, right?"
+    },
+    {
+      "start": 419.54,
+      "end": 423.12,
+      "text": "And so average copywriting here, the reason why I give you that example is because I know"
+    },
+    {
+      "start": 423.12,
+      "end": 424.44,
+      "text": "for a lot of you, like that makes sense."
+    },
+    {
+      "start": 424.5,
+      "end": 427.56,
+      "text": "A lot of you have, if you've been in the game for longer, have seen Facebook ads get"
+    },
+    {
+      "start": 427.56,
+      "end": 430.96,
+      "text": "harder, but it's just because like the floor has, has raised."
+    },
+    {
+      "start": 431.2,
+      "end": 431.46,
+      "text": "Okay."
+    },
+    {
+      "start": 431.6,
+      "end": 436.2,
+      "text": "And so average copywriting or even right now, like good copywriting will just become average."
+    },
+    {
+      "start": 436.28,
+      "end": 440.74,
+      "text": "And so if you actually want to be above everybody else, you have to understand the"
+    },
+    {
+      "start": 440.74,
+      "end": 444.78,
+      "text": "skill at a higher level because AI will never be like fully trained."
+    },
+    {
+      "start": 444.84,
+      "end": 447.44,
+      "text": "And there's all these people that have like these clawed wrappers and all that kind of"
+    },
+    {
+      "start": 447.44,
+      "end": 449.9,
+      "text": "stuff, but it's just, it's not at that level yet."
+    },
+    {
+      "start": 449.98,
+      "end": 451.24,
+      "text": "Now, will it potentially get there?"
+    },
+    {
+      "start": 451.38,
+      "end": 451.5,
+      "text": "Sure."
+    },
+    {
+      "start": 451.58,
+      "end": 457.38,
+      "text": "But again, it's always going to require an operator to actually like get it to execute the"
+    },
+    {
+      "start": 457.38,
+      "end": 461.18,
+      "text": "way that you want it to execute at a high level, because you will know what good looks"
+    },
+    {
+      "start": 461.18,
+      "end": 461.84,
+      "text": "like, right?"
+    },
+    {
+      "start": 461.96,
+      "end": 467.24,
+      "text": "So again, average copywriting or even right now, like good copywriting with AI just becomes"
+    },
+    {
+      "start": 467.24,
+      "end": 469.08,
+      "text": "ineffective because everybody is using it."
+    },
+    {
+      "start": 469.08,
+      "end": 469.44,
+      "text": "Okay."
+    },
+    {
+      "start": 469.56,
+      "end": 475.1,
+      "text": "And so if you ask me, it has never been more important to learn copywriting and it has"
+    },
+    {
+      "start": 475.1,
+      "end": 478.0,
+      "text": "never been more important to just learn skills in general."
+    },
+    {
+      "start": 478.12,
+      "end": 482.56,
+      "text": "So that way you can optimize the AI based off of the skillset that you have."
+    },
+    {
+      "start": 482.8,
+      "end": 483.04,
+      "text": "Right."
+    },
+    {
+      "start": 483.1,
+      "end": 486.74,
+      "text": "And that is the most important thing, because even if somebody comes out with, you know,"
+    },
+    {
+      "start": 486.78,
+      "end": 491.88,
+      "text": "if Eugene Schwartz comes out with his AI copywriting, um, obviously he can't, but my"
+    },
+    {
+      "start": 491.88,
+      "end": 495.52,
+      "text": "point is, is that if everybody just uses it, then that's what everybody will use."
+    },
+    {
+      "start": 495.52,
+      "end": 498.66,
+      "text": "And so it's like, there's always going to be a level where like you have some kind of"
+    },
+    {
+      "start": 498.66,
+      "end": 502.48,
+      "text": "proprietary knowledge and that proprietary proprietary knowledge, if you ask me is the"
+    },
+    {
+      "start": 502.48,
+      "end": 504.6,
+      "text": "skillset that you develop by learning this stuff."
+    },
+    {
+      "start": 504.82,
+      "end": 505.18,
+      "text": "Okay."
+    },
+    {
+      "start": 505.84,
+      "end": 510.58,
+      "text": "Now the third biggest problem, and this is the one that I see like kind of causing, like"
+    },
+    {
+      "start": 510.58,
+      "end": 513.66,
+      "text": "even right now is still the biggest issue and will continue to become a big issue is"
+    },
+    {
+      "start": 513.66,
+      "end": 514.62,
+      "text": "like, nobody is different."
+    },
+    {
+      "start": 514.84,
+      "end": 515.2,
+      "text": "Okay."
+    },
+    {
+      "start": 515.2,
+      "end": 519.4,
+      "text": "And I kind of call this me too copywriting and I stole this from, from a book, but you"
+    },
+    {
+      "start": 519.4,
+      "end": 520.7,
+      "text": "know, everybody is funnel hacking."
+    },
+    {
+      "start": 520.7,
+      "end": 523.84,
+      "text": "So copying the best people, everybody's using the same templates."
+    },
+    {
+      "start": 523.84,
+      "end": 528.76,
+      "text": "So just copying the experts, like I just kind of mentioned and relying, you know, on AI or"
+    },
+    {
+      "start": 528.76,
+      "end": 530.62,
+      "text": "solely on AI for execution."
+    },
+    {
+      "start": 530.86,
+      "end": 533.02,
+      "text": "And it's making everybody the same."
+    },
+    {
+      "start": 533.12,
+      "end": 537.68,
+      "text": "So not only is it making, you know, the floor just better, but it's just making everybody"
+    },
+    {
+      "start": 537.68,
+      "end": 538.22,
+      "text": "the same."
+    },
+    {
+      "start": 538.32,
+      "end": 543.9,
+      "text": "And again, if you lack differentiation, and again, I got to proofread this before I do the"
+    },
+    {
+      "start": 543.9,
+      "end": 544.64,
+      "text": "next presentation."
+    },
+    {
+      "start": 544.88,
+      "end": 550.38,
+      "text": "If you lack differentiation, so if you're not different in your marketing, you will struggle."
+    },
+    {
+      "start": 550.38,
+      "end": 550.82,
+      "text": "Okay."
+    },
+    {
+      "start": 551.44,
+      "end": 556.06,
+      "text": "Because there's no reason why, like, there's going to be no reason why for people to buy"
+    },
+    {
+      "start": 556.06,
+      "end": 558.56,
+      "text": "in general, like, you're just going to be the same as everybody else."
+    },
+    {
+      "start": 558.56,
+      "end": 560.0,
+      "text": "Like everybody's going to say like, we're the best this."
+    },
+    {
+      "start": 560.04,
+      "end": 560.96,
+      "text": "And you're going to be like me too."
+    },
+    {
+      "start": 561.14,
+      "end": 564.58,
+      "text": "And then there's going to be 30 other brands that are like me too, me too, me too."
+    },
+    {
+      "start": 564.7,
+      "end": 569.52,
+      "text": "And if you're all the same, it's like, you don't have an edge and profitability just becomes"
+    },
+    {
+      "start": 569.52,
+      "end": 573.42,
+      "text": "extremely hard because then you like, you'd have to start giving discounts and like trying"
+    },
+    {
+      "start": 573.42,
+      "end": 575.2,
+      "text": "to get the cheapest people to come and buy your stuff."
+    },
+    {
+      "start": 575.2,
+      "end": 577.96,
+      "text": "And it's like, it's just not, it's not a real business, it's not a brand."
+    },
+    {
+      "start": 577.96,
+      "end": 578.56,
+      "text": "Right."
+    },
+    {
+      "start": 578.7,
+      "end": 583.5,
+      "text": "And again, for clarity, like LLMs are trained on predictive words."
+    },
+    {
+      "start": 583.78,
+      "end": 584.3,
+      "text": "Okay."
+    },
+    {
+      "start": 584.58,
+      "end": 588.9,
+      "text": "Which means we are automatically guaranteed to sound like everyone else and say what"
+    },
+    {
+      "start": 588.9,
+      "end": 590.92,
+      "text": "everyone else is saying if we rely on AI."
+    },
+    {
+      "start": 591.34,
+      "end": 591.82,
+      "text": "Okay."
+    },
+    {
+      "start": 591.92,
+      "end": 596.66,
+      "text": "And again, the goal, the best copywriting and the best ads that we're going to get"
+    },
+    {
+      "start": 596.66,
+      "end": 601.14,
+      "text": "into in this copywriting program, they, they have clear differentiation, right?"
+    },
+    {
+      "start": 601.18,
+      "end": 602.92,
+      "text": "And you'll see a lot of this stuff coming up."
+    },
+    {
+      "start": 602.92,
+      "end": 603.48,
+      "text": "Okay."
+    },
+    {
+      "start": 603.62,
+      "end": 608.42,
+      "text": "So again, can you find sweet spots that work for a little while for sure?"
+    },
+    {
+      "start": 608.68,
+      "end": 608.94,
+      "text": "Okay."
+    },
+    {
+      "start": 609.04,
+      "end": 612.14,
+      "text": "Like everybody's going crazy at the time of this, uh, filming this."
+    },
+    {
+      "start": 612.18,
+      "end": 615.2,
+      "text": "So these native ads or these camouflage ads where it's like, Whoa, all you have to do"
+    },
+    {
+      "start": 615.2,
+      "end": 616.88,
+      "text": "is copy this, this template, bro."
+    },
+    {
+      "start": 616.92,
+      "end": 617.96,
+      "text": "And just put it into Claude, bro."
+    },
+    {
+      "start": 617.96,
+      "end": 621.46,
+      "text": "And then take this photo of this, this bald dude and put it into Higgs field, bro."
+    },
+    {
+      "start": 621.46,
+      "end": 623.06,
+      "text": "And like, you know, you're cooking."
+    },
+    {
+      "start": 623.24,
+      "end": 628.02,
+      "text": "And it's like, okay, well, if that is your entire skillset copy and paste, it's going to"
+    },
+    {
+      "start": 628.02,
+      "end": 628.58,
+      "text": "die fast."
+    },
+    {
+      "start": 628.78,
+      "end": 628.92,
+      "text": "Okay."
+    },
+    {
+      "start": 628.92,
+      "end": 630.7,
+      "text": "Like, can you make some money on an intern for sure?"
+    },
+    {
+      "start": 630.88,
+      "end": 633.88,
+      "text": "But it's like, do you want to be the guy that's constantly having to catch trends and"
+    },
+    {
+      "start": 633.88,
+      "end": 638.54,
+      "text": "constantly having to catch, you know, all of these, you know, waves in, in, in like,"
+    },
+    {
+      "start": 638.6,
+      "end": 639.58,
+      "text": "and that's your business model."
+    },
+    {
+      "start": 639.64,
+      "end": 640.32,
+      "text": "That's your strategy."
+    },
+    {
+      "start": 640.36,
+      "end": 641.1,
+      "text": "That's your skillset."
+    },
+    {
+      "start": 641.12,
+      "end": 644.56,
+      "text": "It's like, you know, I would rather have a skillset where it's like, regardless of"
+    },
+    {
+      "start": 644.56,
+      "end": 646.56,
+      "text": "what's going on, I could still make money."
+    },
+    {
+      "start": 647.06,
+      "end": 647.42,
+      "text": "Right."
+    },
+    {
+      "start": 647.96,
+      "end": 651.2,
+      "text": "And again, apologies for my horrendous spelling here."
+    },
+    {
+      "start": 651.64,
+      "end": 655.6,
+      "text": "But again, if something doesn't really require true skill, if it doesn't require work"
+    },
+    {
+      "start": 655.6,
+      "end": 658.52,
+      "text": "for you to develop this skill, right?"
+    },
+    {
+      "start": 658.72,
+      "end": 660.46,
+      "text": "And you're just a me too copywriter."
+    },
+    {
+      "start": 660.46,
+      "end": 665.54,
+      "text": "And there's nothing at all that is different about your brand."
+    },
+    {
+      "start": 665.66,
+      "end": 667.4,
+      "text": "It's like, you're, you're going to struggle."
+    },
+    {
+      "start": 667.56,
+      "end": 668.08,
+      "text": "Okay."
+    },
+    {
+      "start": 668.26,
+      "end": 674.46,
+      "text": "And so copywriting, if you ask me is the number one skill in marketing and still is the number"
+    },
+    {
+      "start": 674.46,
+      "end": 675.4,
+      "text": "one skill in marketing."
+    },
+    {
+      "start": 675.4,
+      "end": 680.98,
+      "text": "So not learning it means that you're not able to communicate to customers effectively."
+    },
+    {
+      "start": 681.64,
+      "end": 687.34,
+      "text": "And in an age of over communication, I'd say it's probably pretty important."
+    },
+    {
+      "start": 687.62,
+      "end": 691.42,
+      "text": "And I'll likely touch on more on this point around like over communication."
+    },
+    {
+      "start": 691.42,
+      "end": 696.78,
+      "text": "But again, you have to understand how much information is being bombarded into the minds"
+    },
+    {
+      "start": 696.78,
+      "end": 698.1,
+      "text": "of everybody, right?"
+    },
+    {
+      "start": 698.14,
+      "end": 703.32,
+      "text": "There is so much like, even like there's books being published, there's courses dropping,"
+    },
+    {
+      "start": 703.32,
+      "end": 707.22,
+      "text": "there's YouTube videos every day, there's social, like, you know, Instagram and Facebook,"
+    },
+    {
+      "start": 707.34,
+      "end": 712.08,
+      "text": "social media, short form stuff, TikTok, like there's just so much over communication happening"
+    },
+    {
+      "start": 712.08,
+      "end": 716.36,
+      "text": "that if you don't know how to communicate properly, you're kind of setting yourself"
+    },
+    {
+      "start": 716.36,
+      "end": 716.92,
+      "text": "up for failure."
+    },
+    {
+      "start": 717.06,
+      "end": 720.8,
+      "text": "And that's what copywriting is about, is about learning how to communicate and how to position"
+    },
+    {
+      "start": 720.8,
+      "end": 721.58,
+      "text": "properly."
+    },
+    {
+      "start": 721.82,
+      "end": 721.98,
+      "text": "Okay."
+    },
+    {
+      "start": 722.32,
+      "end": 725.72,
+      "text": "As always, again, we'll always mention where I got this information from."
+    },
+    {
+      "start": 725.82,
+      "end": 728.0,
+      "text": "Harry Dry, phenomenal copywriter."
+    },
+    {
+      "start": 728.54,
+      "end": 731.02,
+      "text": "Jason Flatlin, who's the guy that actually does webinars."
+    },
+    {
+      "start": 731.02,
+      "end": 732.42,
+      "text": "I've learned a lot of this stuff from him."
+    },
+    {
+      "start": 732.42,
+      "end": 734.96,
+      "text": "Uh, and I'll rise to Jack Trout from, from positioning."
+    },
+    {
+      "start": 735.1,
+      "end": 738.76,
+      "text": "There's a few other books as well that you guys will see me kind of mentioned, but for"
+    },
+    {
+      "start": 738.76,
+      "end": 740.78,
+      "text": "these slides specifically, that's where I got the information from."
+    },
+    {
+      "start": 740.92,
+      "end": 746.28,
+      "text": "And so I hope that this has influenced you to actually take all of the modules down below"
+    },
+    {
+      "start": 746.28,
+      "end": 746.92,
+      "text": "a lot more seriously."
+    },
+    {
+      "start": 747.22,
+      "end": 752.66,
+      "text": "And again, if you are struggling with execution, you are struggling to make ads that can actually"
+    },
+    {
+      "start": 752.66,
+      "end": 753.04,
+      "text": "scale."
+    },
+    {
+      "start": 753.54,
+      "end": 755.34,
+      "text": "This is probably the biggest reason why."
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+1
+00:00:00,000 --> 00:00:28,980
+All right, now that we're backed into more of a safe place here and not in Cloud Goat, we're gonna talk about how to iterate on losing ads, okay? So I'm gonna go through this. This is, again, from this Google Doc. If you guys are like, I want the Google Doc, like, this is the Google Doc. It's all in here for you guys. And yes, you guys are even able to copy this and give this to your cloud and do whatever you wanna do. But for the losing ads specifically, we're gonna go through this and then we're also going to, you know, take a look at some of the examples that I have in the iteration playbook Canva file. So first things first, the problem that we're trying to solve here,
+
+2
+00:00:28,980 --> 00:00:39,840
+is that this ad isn't getting any spend. It's not hitting KPI, okay? And so the majority of time when you create a losing ad, it's due to the fact that the hook just simply did not grab the person's attention.
+
+3
+00:00:39,840 --> 00:01:09,700
+Okay. Remember, a losing ad is an ad that doesn't pull significant spend and also doesn't hit KPI. So not only did Meta say like, I don't want to spend on this, but it also said like, even if it gets a little bit of spend and doesn't hit your KPI, it's like, wow, it's not even good enough to hit any purchases. Okay. TLDR of that is nobody cared about the ad. And if nobody cares, it just means a lot of the time, like more times than not, that the hook is not stopping them and the hook is not interesting enough for somebody to pay attention. So most common reasons ads are losers is again, the hook did not grab someone's attention. I have less than 30% as a benchmark. We have had breakthroughs.
+
+4
+00:01:09,700 --> 00:01:27,500
+with 30% hook rates. Okay. So that's why soft metrics aren't the end all be all. But at the end of the day, if your hook is like below 30%, it just didn't grab a person's attention. Okay. The overall angle might've just been off. It might've been too niche, too broad. Nobody really cares about it. Although again, a lot of the times it's not an angle issue. It's an execution issue.
+
+5
+00:01:27,500 --> 00:01:55,440
+Okay. Another big one that we've seen is that if you're creating unaware ads, the ad might've just been too much of a wild card. And it was a really big swing that just didn't have good enough execution on it to actually land with anyone. If it was a problem or a solution aware ad, this is where the hook was just not relatable at all. Or maybe the problem wasn't painful enough. Or again, the copy was just super basic. A lot of the times with losing ads, again, guys, it's just a copy issue, right? Like if you're trying to target someone that, you know, has low testosterone, like a hook that's like, do you have low testosterone?
+
+6
+00:01:55,440 --> 00:02:18,560
+Like, it's the most obvious thing that people think of, right? It's not a very creative hook, especially if you don't have a good visual to actually grab someone's attention with it, okay? Product to most aware, again, the offer is just not competitive and the differentiation is just not clear. So ad types that we'll do iterations on when it comes to losers, okay? So if you create an ad and it's a loser, these are the types of ads that we'll actually do iterations on.
+
+7
+00:02:18,560 --> 00:02:44,180
+ideation, we may try the idea. So the original idea, whatever the angle was, desire, all that kind of stuff, whatever that was, we may try executing that two to three more times. But the most important thing is we have to have evidence for why we would create a new version. So if we do an ideation and it's a loser, right, around a specific angle, desire, whatever, and say we review the ad and we do the learnings process before we start considering iterations and we're like, hey,
+
+8
+00:02:44,180 --> 00:03:11,680
+This, like, we have no authority here whatsoever. And this entire ad is opinionated. There's no facts. Let's just rewrite this. Let's do this better. So again, we have evidence of why we think this ideation didn't work. And again, even though it was a loser, we have evidence where it's like, it's all opinionated and there's absolutely no authority. There's nothing building belief here. We need to rewrite it. Then we will do a new version of it. And sometimes we'll do that a second time or a third time. But again.
+
+9
+00:03:11,680 --> 00:03:39,780
+every single time, we have to have new evidence for why this ad didn't work and how we think we're going to execute it differently. Now, when it comes to iterations, we again need to identify what went wrong in the execution, okay? Because a lot of the times, if you do an iteration, it's gonna be on a spend winner or a breakthrough. And so you have an ad to compare it to. So if you create an iteration that's a full-on loser and the original version was a spend winner or a breakthrough, regardless of how you feel,
+
+10
+00:03:39,780 --> 00:04:00,450
+you made the ad worse, okay? Or you didn't make it different enough for Meta to really care about it. That's also another thing. But at the end of the day, a lot of times, again, it doesn't mean that if we do an iteration on a winning ad that we stop after one iteration. It just means we need to identify like what actually went wrong. And if we compare it to the winning ad, how is this ad actually worse, okay? And then...
+
+11
+00:04:00,450 --> 00:04:29,740
+For the example of like, let's say we had an ideation that became a loser. We do an iteration of that losing ad and then it's another loser. That's when we need to, again, ask yourself, do we have new evidence for how we can make this better? And again, this iteration of this losing ad didn't lead to a spend winner or a breakthrough. So what went wrong, right? Again, identify how did something go wrong? And now just to clean this up, when it comes to imitations, which again, are ads that we've replicated, we usually do not do iterations on losing imitation ads, especially if it's a visual thing. So say for example,
+
+12
+00:04:29,740 --> 00:04:59,180
+example, we saw, you know, somebody just sent me this FaceTime format. If we try a FaceTime format for some of our best ads and it just doesn't work, a lot of the times we're not going to like do another iteration on that format or do another iteration of it. Just because a lot of the times we just, we just haven't seen winners come from trying different versions of imitations. Okay. Now it doesn't mean you can't, I'm just letting you know that we usually don't do iterations on losing imitation ads. It's like, Hey, we tried this style or this, we saw, we got this inspiration. We tried it. It didn't work. Let's just move on.
+
+13
+00:04:59,180 --> 00:05:26,960
+Okay. So those are the types that we'll actually do iterations on again, ideations and iterations. The most important thing is you must have evidence and you must do learnings. Okay. If you didn't do learnings, don't do another iteration. It doesn't make sense. Okay. Now, if you want to know the type of iterations that we do, the number one iteration that we'll do is hooks. Okay. So hook issue number one is you need to make the hook more engaging. That's why we have the entire evolve hook training up here. We have tons of training on that, but we will do a new iteration. And a lot of times.
+
+14
+00:05:26,960 --> 00:05:53,550
+with this as well, you need visuals that either contrast or are more congruent with your messaging as well to create curiosity. Okay. And again, the number one reason why ads are losers is usually because the hook. So for example, here is an ad where you could see here, we just have this losing visual, which is this AI man looking into a mirror, right? Like what is going on here? I was, you know, obviously it says I was four months into TRT. It's kind of specific, but the end of the day.
+
+15
+00:05:53,550 --> 00:06:14,060
+This visual is just not that good. Whereas if you look at this visual, there's a juxtaposition of, you know, basically a needle going into this jack dude. That's a sketch. It's like, that's kind of weird, right? Like what is going on here? And then we see, I almost started testosterone injections until I found this, right? There's curiosity, there's juxtaposition. We're creating, you know, suspense for someone to watch the rest of the video. It's just a much better hook.
+
+16
+00:06:14,060 --> 00:06:43,120
+Okay. And that is really just like the easiest way for me to show you guys. Cause again, I can't actually show you a lot of our client stuff anymore. Unfortunately, it's kind of part as evolved growing. A lot of our clients don't want to be shown with their numbers and saying like, Hey, this is an obvious winning ad, but that's why I'm just using other brands. Okay. And you can see, it's a really great example of like, this is just a bad hook versus this hook is much better. Okay. Number two is the TAM issue. Okay. Your angle messaging or labels are too niche or specific. And the ad resonates with some people, but.
+
+17
+00:06:43,120 --> 00:07:12,670
+It's probably too narrow of a group to scale or it's too narrow in comparison to what you already have scaling in your account. Okay. So I have an important note here that I'll just read out for you guys as well. If you feel like it is a niche angle that can scale and can add spend to your overall account, but just won't be able to scale as far as your current winners, then you can test these types of smaller TAM style ads and a separate, you know, CBO campaign for that specific angle or that specific avatar.
+
+18
+00:07:12,670 --> 00:07:41,970
+or a separate ABO campaign, again, so it's not competing with your way bigger TAM or way more at-scale campaign where you have angles that are just crushing, okay? So say, for example, in this angle, right, of the TRT situation, like this is definitely a TAM, right? People who are on TRT right now that are not feeling like themselves. But I'm really confident in this because I do think this execution is just ass. But if I was really confident in this angle and I wanted to do an iteration and I just, you know, for example,
+
+19
+00:07:41,970 --> 00:08:03,070
+I have this angle over here, which is a way bigger time of people potentially considering testosterone, then I might create a separate campaign to test this. But this is really only as I mentioned here, this is really only for people that are at more scale. I say 3k per day, but I would say, you know, even like 10k per day is probably a better benchmark for this. Because if you have an angle that's at 10k or 15k per day, you should
+
+20
+00:08:03,070 --> 00:08:31,600
+probably still focus on that angle. But for us, like we have brands that are spending 40, 50 K a day on a specific angle and on a specific product. And so if we're trying to get another product or another angle up and running, that's just different from what we currently have running. We sometimes segment that into a different campaign. Okay. Asking yourself the question here, like men considering TRT versus men on TRT, the amount of men that are considering TRT or not on TRT is way bigger than the percentage of men who already are. And especially in this instance, four months in, which is very specific.
+
+21
+00:08:31,600 --> 00:09:01,010
+2.5 here is a broad issue. Again, so your angle, your messaging, your labels are too broad and your copy is not strong enough to capture attention of the masses. If you are not confident in your direct response copy skills, do not go this broad. If you don't feel like you have a good skill set or you haven't made multiple winning ads, going broad is going to be too hard for you, which is why we have the avatar training, which is why we tell a lot of people sub 100K per month, sub 200K per month, even though it does work for brands at much more scale, if you just go
+
+22
+00:09:01,010 --> 00:09:17,230
+more narrow, the odds of you being able to find success with less strong copy are much higher versus if you're trying to go after broad audiences, you better be fucking dialed from a creative strategy standpoint and you better be really good at what you do. Okay. So again, going too broad.
+
+23
+00:09:17,230 --> 00:09:46,540
+can definitely be a reason why an ad is a loser, especially if you're not a strong copywriter, because what ends up happening is you give this ad to the algorithm and you're trying to go after like this huge tam, like, hey, like, you know, are you struggling with hair loss or, hey, do you want to lose weight? It's like, you got to have way better copy and way better direct response principles to actually go after a very broad audience and like basically capture everyone's attention and then funnel them down. Okay. So that's why unaware ads are very hard to create or just like.
+
+24
+00:09:46,540 --> 00:10:00,700
+Very broad promo ads are very hard to create. Now, again, I have an example here of an ad that goes very broad, that does a really good job and has really good direct response copy. So I'm going to go ahead and play it. I've had four cats in my life and I'm embarrassed to say, I just learned this. My cat.
+
+25
+00:10:00,700 --> 00:10:24,660
+So for example, I've had four cats in my life and I'm embarrassed to say I just learned this. Anybody who has a cat can watch that video. But again, the copy there is so much, it's so much more optimized and so much more dialed where it's like, I've had four different cats and I'm embarrassed to say I just learned this. And then again, look at this. I've had four cats in my life. It's this dude throwing cats into a boat. Like that is going to grab a lot of attention, okay? And so the overall creative strategy.
+
+26
+00:10:24,660 --> 00:10:49,820
+from this person or from this brand is at a much higher level than someone who, you know, is trying to like crack an ad for a broad cat audience that doesn't have that same kind of skill. So a lot of times it's just a skill issue, but hopefully that makes sense where again, you might be making losing ads by just going too broad and not having strong enough execution. Valence and intensity issue. Again, credit to Sarah Levenger as always on this. This is when your ad could be saying the right thing, but it isn't converting because it just doesn't feel right to the customer.
+
+27
+00:10:49,820 --> 00:11:19,230
+OK, so you might need to shift the emotional tone of the ad. So if the ad is giving more of a positive feeling, try the inverse, maybe a more negative feeling. OK, if the ad is giving more of a negative feeling again, try a more feel good, more aspirational, more positive. Right. If the ad is super intense, try dialing it down. The ad is super boring, which is very common. Try cranking up the intensity. Try raising the stakes. Try making it more intense. OK, an example here is negative problems, not recognizing self, acne, bloating.
+
+28
+00:11:19,230 --> 00:11:46,110
+versus positive outcomes. Stayed away from the needle, doubled my test results, right? This is the exact same ad here. And again, I will play it. Four months into TRT when I caught my reflection and didn't recognize the guy looking back. Acne across my shoulders. Face looked bloated. Again, this is very negative, very sad. Oh, I don't recognize myself. Acne bloated. Let's compare it to this one. I almost started testosterone injections until I found this. Let me show you how I doubled my testosterone levels without touching a needle.
+
+29
+00:11:46,110 --> 00:11:56,670
+Right. Let me show you how I double my like more. It's more exciting. Right. Let me show you how I double my testosterone without touching a needle. This is sick. Right. I found this. It's very exciting. Very more. It's much more positive than negative.
+
+30
+00:11:56,670 --> 00:12:18,140
+Right. And so that is very, very important to consider when you're writing ads. And again, you will notice usually your winning ads will follow into a specific level of valence and intensity. Not all the time, like, especially if you have a lot of winners, you might have some positive ones, you might have some negative ones, but this is very helpful for those of you that maybe have a winning ad right now in a specific level of valence and intensity. It's actually like, you know, it's, it's.
+
+31
+00:12:18,140 --> 00:12:46,050
+It's working for you. So you can try to just stay in that zone, especially for that specific avatar. Again, if you want to learn more about valence and intensity, Sarah did a call on this. But here's another great example of like, even just on a simple level, like fixing the ugliest thing about my house. That feels negative, right? It's more of a negative feeling. And I'm going to try to mute this just so that way I can talk over a lot of this stuff. Let's compare this to this is the coolest thing we've ever added to our house. I'll go ahead and play this as well. This is the coolest thing we've... Right. And you can see there, like the difference is, okay.
+
+32
+00:12:46,050 --> 00:12:57,700
+fixing the ugliest thing about my house, kind of like a negative thing. Like it is maybe somewhat positive because she's fixing it, but like, this is kind of boring. But when we say this is the coolest thing, right, that we've added to our house, much more positive, much more like.
+
+33
+00:12:57,700 --> 00:13:26,340
+high intensity, right? Coolest thing we've ever added, right? Again, even just adding a word like ever can make it even more intense, okay? So hopefully that makes sense on a balance and intensity side. And sometimes your ads are losing just because they don't feel right. Hook issue number two, you didn't use proper visuals and messaging to tell Meta's algorithm and the delivery system which audience to serve your ad to. This is much more common now with Andromeda. But again, man looking in the mirror, what is that visual? That could be anything, right? But if we have a needle going into what looks like a jack dude,
+
+34
+00:13:26,340 --> 00:13:54,740
+pretty obvious that this is going to be about muscles and steroids, which is, you know, testosterone is technically a steroid, right? And so at the end of the day, right, it's very obvious who to serve this to versus man looking in the mirror. I'm not really sure who to serve that to. Obviously we mentioned TRT, but it's a little bit harder to visualize that, or at least for Meta's system to pick that up. Okay. Now, number five is probably one of the biggest things, especially if you're, if you have a decent hook rate or your hook has stopped someone, but it's just not converting. It's just not getting spent is that you just make.
+
+35
+00:13:54,740 --> 00:14:22,060
+claims with zero proof, zero facts, zero anything, zero authority, nothing that is going to actually build belief in your sophisticated market, right? Nobody is going to believe you, okay? So even if it is exactly what people want, and I'm gonna get into a belief issue down here as well, but even if it is what people want, if you don't have anything to back your claims, prevent objections, or build belief in your ad, most of the time the ad will fail miserably, right? And here's another example of
+
+36
+00:14:22,060 --> 00:14:51,070
+beat the dad bod, right? Beat the dad bod with Marsman. That's a claim. Of course, your product is going to help me beat my dad bod. But over here, we don't even really make a claim. We say the belly isn't beer, it's cortisol and it's killing your testosterone, right? We start to make claims later on the advertorial for this ad specifically, but look at the difference between this, right? Like this is just an empty claim. Nobody, there's no reason why, like sure, Marsman is going to help me beat the dad bod. There's no proof, right? You're just making a claim that everybody is going to object. We're here.
+
+37
+00:14:51,070 --> 00:15:01,630
+you know, we're not making a claim. We're like giving them new information and now they want to learn more. Like, what is this cortisol and why is it killing my testosterone? Okay. That's a great example of how to just not make empty claims.
+
+38
+00:15:01,630 --> 00:15:30,930
+in a sophisticated market. Bridge issue. Okay, the bridge is awkward, does not connect seamlessly between the hook to the hold. A lot of the times ads do a great job of grabbing attention in the hook. However, the bridge fails to maintain that attention and keep the audience that just got hooked in. Now, sometimes the best hooks will do a lot of heavy lifting to keep people hooked in. But again, the bridge section is usually a make or break on how much of that attention stays on the ad. So here's a really good example of this, again, where the bridge is just not that great. And I've talked about this in a YouTube video, if you guys have seen.
+
+39
+00:15:30,930 --> 00:15:49,500
+me talk about it, but here, right? The difference is, is that this losing ad is just all opinion. You know, chocolate is way too sweet. It's not really satisfying. It feels more sugary. It's like, okay, well, that's how you feel about it. Whenever I eat a Snickers, I'm pretty happy. Like, you know what I'm saying? Whereas the bridge on this one, it's just fat base. This is a cacao pod.
+
+40
+00:15:49,500 --> 00:16:18,700
+This is where chocolate comes from. It started as medicine. It's used as ancient tribes, right? Like the bridge here is much, much more fact-focused rather than opinion-focused. And you guys can see this, right? I'll play the ad at some point. Chocolate stopped feeling like chocolate, started feeling like candy. It's like, bro, chocolate has kind of always been candy, right? It's not satisfying. Half the times it feels like it's more sugar. It's like, I know it's a lot of sugar, right? But at the end of the day here, if we look at this one, it's just more facts. What is the number one ingredient in most chocolate bars? I'll give you a hint.
+
+41
+00:16:18,700 --> 00:16:25,360
+It's not cacao. It's not chocolate, right? She didn't say how she feels about it. She just stated a fact, right? She said, this is a fruit.
+
+42
+00:16:25,360 --> 00:16:50,910
+right started as medicine it's one of the most powerful plants that ancient cultures had right so you could see here she's just stating facts right and so that is an example of just a way better bridge and obviously hook in general to make someone stay watching because like they're kind of learning and they're they're especially early on in an ad someone's looking for a reason to scroll off they want a reason to object because they know it's an ad but if you're not giving them a reason to object
+
+43
+00:16:50,910 --> 00:16:58,640
+Probably going to keep their attention. Belief issue, right? A majority of the time ads fail because they are lacking trust, aka belief. You fix this.
+
+44
+00:16:58,640 --> 00:17:23,380
+by understanding more about your customer's belief, which again, I have a video on this that talks about the copywriting principles of like why you need to understand belief. And I go very nerdy and very deep over there. But for the most part, you need to, from an iteration perspective, think about how can you add more authority and how can you optimize your script to prevent objections and earn trust? I love this one right here because again, the winning version mentions an authority of some MILF.
+
+45
+00:17:23,380 --> 00:17:52,510
+right? You guys might not see a MILF or some MILF being an authority, but in this instance, it is, okay? And so here you can see some MILF talking about a $9 Korean cream, right? The emphasis on that term obviously points to the fact that this person is an older and good looking person. And so if someone is a MILF, it means they're older, they have kids and they're good looking, right? And so we're able to build authority and build trust by saying that. And on top of that, the claim's not coming from her. She's just sharing like, hey, I saw some MILF.
+
+46
+00:17:52,510 --> 00:18:22,270
+talking about this $9 Korean cream saying it's better than Botox. And now I'm using it. Check this out, right? Whereas we look at this one, the losing version doesn't have any authority. It's just coming from this random girl for again, all we know is actually 17. Like we don't know, right? And so again, when you start to use the famous anti, you know, wrinkles, Korean cream duo, and now suddenly you look like a 17 year old again, like, of course, if I use this product, I'm going to look at like a 17 year old, right? Of course, you're going to say that you're trying to saw me something where this girl is saying, hey,
+
+47
+00:18:22,270 --> 00:18:26,800
+I'm 35, but I don't have a wrinkle in sight because this MILF was talking about this cream.
+
+48
+00:18:26,800 --> 00:18:56,110
+Right. And that, that, that one word is the authority. That's what builds the trust. Okay. I know I got a lot of different tabs open here and we're, we're starting to cook on this, but the final one here is an offer issue. Okay. So a lot of the times if you're at as a loser, especially early days, you might just have an offer issue. Okay. So you might need to study price objections. You might need to study how to overcome and prevent them with, you know, better offers. And there's an offer training here as well for you guys, even though it's inside of the origins program in evolve. This is, you know,
+
+49
+00:18:56,110 --> 00:19:12,060
+really solid offer training that can show you guys how to create new offers. And it's definitely needed, especially for those of you that are at smaller scale. With that said, a lot of the times offer issues are, if you get an ad that's getting a lot of spend, but it has a very low conversion rate, sometimes it is an offer issue as well. But those are the eight.
+
+50
+00:19:12,060 --> 00:19:34,950
+types of iterations that we'll do. Obviously the final one, the offer issue is not really an iteration on the ad. It's more of an iteration outside of the ad, but that is how you will go through. And again, do learnings on your ad, identify what the type is. So whether or not it makes sense to do an iteration. And then from there, these are the types of iterations that you will do with the examples of how they are actually done. Okay. Hopefully that makes sense. I'll see you in KPI winners.

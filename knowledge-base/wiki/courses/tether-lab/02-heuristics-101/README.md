@@ -5,6 +5,7 @@ course: tether-lab
 module: 02-heuristics-101
 order: 2
 sources:
+  - "raw/tether-lab/_extracted/2. Heuristics 101/6. 6._Quiz!_-_Heuristics_101_·_Tether_Lab.md"
   - raw/tether-lab/_transcripts/2. Heuristics 101/
   - raw/tether-lab/_extracted/2. Heuristics 101/
   - raw/tether-lab/2. Heuristics 101/7. Heuristics 101 e-book.pdf

@@ -1,0 +1,894 @@
+[
+ {
+  "lesson": 21,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/5e54412003874d10aa6a042597ff6361392ee819cc2841749e5de5ad49bc0b95.png",
+  "file": "skool-images/21/21-img01.png",
+  "bytes": 135248,
+  "status": "ok"
+ },
+ {
+  "lesson": 22,
+  "url": "https://docs.google.com/spreadsheets/d/1zdDeYK0gwjFWbp4nq5VVm1COXqL1v8TailKJNHZ",
+  "status": "blocked: HTTP Error 404: Not Found"
+ },
+ {
+  "lesson": 22,
+  "url": "https://docs.google.com/spreadsheets/d/1zdDeYK0gwjFWbp4nq5VVm1COXqL1v8TailKJNHZ_pDI",
+  "file": "google/22-spreadsheets-1zdDeYK0gw.xlsx",
+  "bytes": 249636,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "status": "ok"
+ },
+ {
+  "lesson": 23,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/251af028c2f04789b34ab94c0315bcc284bafd3854bc4e998b9586661896f932-md.png",
+  "file": "skool-images/23/23-img01.png",
+  "bytes": 576768,
+  "status": "ok"
+ },
+ {
+  "lesson": 24,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/f020f9da209b42b5a997dcce7507e01fe81aa712c50845e69d54cb6086beea74.png",
+  "file": "skool-images/24/24-img01.png",
+  "bytes": 953111,
+  "status": "ok"
+ },
+ {
+  "lesson": 24,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/5ecbd45fb8174e69a98b5017fabd36225ddeff4a05ba4d348d426cabfe5856ee.png",
+  "file": "skool-images/24/24-img02.png",
+  "bytes": 1239203,
+  "status": "ok"
+ },
+ {
+  "lesson": 24,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/279b3318d0e24aa5991148832ba5ae6c74f7915001a24fec8a8a08893b8371d8.png",
+  "file": "skool-images/24/24-img03.png",
+  "bytes": 404693,
+  "status": "ok"
+ },
+ {
+  "lesson": 24,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/8b4ca68c2e40424dac4076ccd30a184575d4da88bc0c4f41918200b593b8ff89.png",
+  "file": "skool-images/24/24-img04.png",
+  "bytes": 453702,
+  "status": "ok"
+ },
+ {
+  "lesson": 24,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/d7cbc58b4c534bc48e01b96f5780c1ec242f74b59b964c58ae0552f67fdfb4e4-md.png",
+  "file": "skool-images/24/24-img05.png",
+  "bytes": 915247,
+  "status": "ok"
+ },
+ {
+  "lesson": 25,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/32fb8ac449ed49518ca703a55f5da5fdcb099d36ea934a4ba9674dae0b103eda-md.png",
+  "file": "skool-images/25/25-img01.png",
+  "bytes": 903165,
+  "status": "ok"
+ },
+ {
+  "lesson": 25,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/5c0c3d35b71847ce8ee5d4a6e8dd06c179622a4f57524ed0910838d62ca0f423-md.png",
+  "file": "skool-images/25/25-img02.png",
+  "bytes": 513102,
+  "status": "ok"
+ },
+ {
+  "lesson": 25,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/edf6a16c827b4fd081ede161c3850af7fe4ec3db700a417f84604a2353d52b3b-md.png",
+  "file": "skool-images/25/25-img03.png",
+  "bytes": 978545,
+  "status": "ok"
+ },
+ {
+  "lesson": 25,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/d9be5edb533d4d53b973c9f5756f274630dab1a0c60b4dabb6f334629231506c-md.png",
+  "file": "skool-images/25/25-img04.png",
+  "bytes": 1100016,
+  "status": "ok"
+ },
+ {
+  "lesson": 25,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/51eed99b19ac4449bf059e7aea5b378187568ed49c484e5c97af9d97007e9873-md.png",
+  "file": "skool-images/25/25-img05.png",
+  "bytes": 1543292,
+  "status": "ok"
+ },
+ {
+  "lesson": 25,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/a82e3487fbae41259ad54534ce4eae76fb418c2226a84826a9e2a96f272bbbd3.png",
+  "file": "skool-images/25/25-img06.png",
+  "bytes": 778930,
+  "status": "ok"
+ },
+ {
+  "lesson": 25,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/cb6312f3bd9047528f3a6e453b62f15b41ffc37e186b47648c364994baf90fe2.png",
+  "file": "skool-images/25/25-img07.png",
+  "bytes": 653659,
+  "status": "ok"
+ },
+ {
+  "lesson": 25,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/f8cd26adb80e4de79f3c798cf925e1bf673679be28f844e9a780779496a8fcff.png",
+  "file": "skool-images/25/25-img08.png",
+  "bytes": 754887,
+  "status": "ok"
+ },
+ {
+  "lesson": 25,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/255f2d9fe0544d16b5b9b084bbb01ca6e24926b787ce4c089791760dc4ba952e-md.png",
+  "file": "skool-images/25/25-img09.png",
+  "bytes": 1087361,
+  "status": "ok"
+ },
+ {
+  "lesson": 25,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/a6228854e0354faa8e27390827fa81c2ab8ae2e348ea4c57bf9dea177716681e-md.png",
+  "file": "skool-images/25/25-img10.png",
+  "bytes": 514352,
+  "status": "ok"
+ },
+ {
+  "lesson": 25,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/26204effe20447c99e1e347d21178cbf65c9a64706d846abb147f7037f102c1d.png",
+  "file": "skool-images/25/25-img11.png",
+  "bytes": 560544,
+  "status": "ok"
+ },
+ {
+  "lesson": 25,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/b49858ea71d54ab38efb51ab0e867c65789d68f9b0d44766a72cf13d8ca45b0a.png",
+  "file": "skool-images/25/25-img12.png",
+  "bytes": 582226,
+  "status": "ok"
+ },
+ {
+  "lesson": 26,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/b02df9ad2f834722b787f8a2fadc13012cc925327fd6439183be70c6438fe9cd.png",
+  "file": "skool-images/26/26-img01.png",
+  "bytes": 1592397,
+  "status": "ok"
+ },
+ {
+  "lesson": 26,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/f3c349e7ea414227b62fb3a3c70fcc2fd53fc24a9b474f1b875aca396ed0dc62-md.png",
+  "file": "skool-images/26/26-img02.png",
+  "bytes": 896732,
+  "status": "ok"
+ },
+ {
+  "lesson": 26,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/5a5bc8c2cec54cd7a26edf8123cb710aed7073ef465a475ca18c3f2beb5b6c0d.png",
+  "file": "skool-images/26/26-img03.png",
+  "bytes": 944759,
+  "status": "ok"
+ },
+ {
+  "lesson": 26,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/98e6d025f0d34d42b4f278bb60804dd5ef7de9e0bded4e078e17402befe7312d.png",
+  "file": "skool-images/26/26-img04.png",
+  "bytes": 1354122,
+  "status": "ok"
+ },
+ {
+  "lesson": 26,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/c2e80080d0a84f8492fa404784e00c0b2c549daaff784944abb484aa3df979cd.png",
+  "file": "skool-images/26/26-img05.png",
+  "bytes": 742016,
+  "status": "ok"
+ },
+ {
+  "lesson": 26,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/3a1d52f8a45c4e489cf17301c4443bb087191eebde0243ffb15b132fe12dfada-md.png",
+  "file": "skool-images/26/26-img06.png",
+  "bytes": 889428,
+  "status": "ok"
+ },
+ {
+  "lesson": 26,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/2aa3067d1384405d93f2efbeadf6a83ce800e94f815742b4bcc06b6ad58c32d6.png",
+  "file": "skool-images/26/26-img07.png",
+  "bytes": 1131366,
+  "status": "ok"
+ },
+ {
+  "lesson": 26,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/7f011f8720eb4a24b2c5acb5db2b1e65f0665bdb569445f9a35229074cb5cb80.png",
+  "file": "skool-images/26/26-img08.png",
+  "bytes": 608064,
+  "status": "ok"
+ },
+ {
+  "lesson": 27,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/ed9d5af4f43d4a18b70eeea4292c27bac2ca48abbb47458db9f32e3376ca60d4.png",
+  "file": "skool-images/27/27-img01.png",
+  "bytes": 506108,
+  "status": "ok"
+ },
+ {
+  "lesson": 27,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/9fcccaea92b54b6fae8cebeb19115418efb7873af9204db3a1b78efd02092aec.png",
+  "file": "skool-images/27/27-img02.png",
+  "bytes": 968848,
+  "status": "ok"
+ },
+ {
+  "lesson": 27,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/9e1471b43209497483fe34acec2d8ef324c6aa18768f46e093c1a153b0cb716f.png",
+  "file": "skool-images/27/27-img03.png",
+  "bytes": 651735,
+  "status": "ok"
+ },
+ {
+  "lesson": 27,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/a7e81b34a5934fc5a7908eed9d00d6d40c8c52c9ca67422c932ec5e115079067.png",
+  "file": "skool-images/27/27-img04.png",
+  "bytes": 714153,
+  "status": "ok"
+ },
+ {
+  "lesson": 27,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/418677a95cf64d23bafd08ef5ed5fba22451fc52516d4045b5711d2275c557eb-md.png",
+  "file": "skool-images/27/27-img05.png",
+  "bytes": 848047,
+  "status": "ok"
+ },
+ {
+  "lesson": 27,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/2d7705cc77234e76886da5a7be8de949d994b228ddb24b178863a9c9ddd4e66a.png",
+  "file": "skool-images/27/27-img06.png",
+  "bytes": 882291,
+  "status": "ok"
+ },
+ {
+  "lesson": 27,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/dd3e6d9693444404ae39b6bfd78e9f6ab5a67179044b4591a2efe90197c3581e.png",
+  "file": "skool-images/27/27-img07.png",
+  "bytes": 1123338,
+  "status": "ok"
+ },
+ {
+  "lesson": 27,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/609b12e9f32d4f478d99bd30f2bf846b7e45c02dab664a88b84878c7b2b168ef.png",
+  "file": "skool-images/27/27-img08.png",
+  "bytes": 364526,
+  "status": "ok"
+ },
+ {
+  "lesson": 27,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/9e65a0a123a346ee91cf81e191662fab82cb28e7aade46b1bfdc0db616468cf7.png",
+  "file": "skool-images/27/27-img09.png",
+  "bytes": 883515,
+  "status": "ok"
+ },
+ {
+  "lesson": 27,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/557a262ed94c4cb0b537697ebc0c70611223e9c2faab424b955b8f2d5dedcf43.png",
+  "file": "skool-images/27/27-img10.png",
+  "bytes": 836947,
+  "status": "ok"
+ },
+ {
+  "lesson": 27,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/08568af655e343269ff62e0cc5d90394c8cef4c6ef594d448a1d4f8d004c8756-md.png",
+  "file": "skool-images/27/27-img11.png",
+  "bytes": 959420,
+  "status": "ok"
+ },
+ {
+  "lesson": 27,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/74225217583f4d4798f0e59f664b9987130d02b140cf49558e21be3a15d5516a.png",
+  "file": "skool-images/27/27-img12.png",
+  "bytes": 812664,
+  "status": "ok"
+ },
+ {
+  "lesson": 27,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/8af1e07fd5e34218af070c795fdb604e81fdb78b8fc84c9e8a82cded6f2f31bd-md.png",
+  "file": "skool-images/27/27-img13.png",
+  "bytes": 1000012,
+  "status": "ok"
+ },
+ {
+  "lesson": 27,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/f3894ce213154cc4be2ee6793eefb8e9b28cd61070ac43f2a857713bec2d666c.png",
+  "file": "skool-images/27/27-img14.png",
+  "bytes": 664826,
+  "status": "ok"
+ },
+ {
+  "lesson": 27,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/2c4a3b2536ae4397a27fd4a23ef18e34d3e9dfa5949747c1869ea932fd994fe2.png",
+  "file": "skool-images/27/27-img15.png",
+  "bytes": 921731,
+  "status": "ok"
+ },
+ {
+  "lesson": 27,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/ada6ddd3971d43f89928d7f80972b3cc596d1021f749473095ed8b4db99079cc-md.png",
+  "file": "skool-images/27/27-img16.png",
+  "bytes": 603357,
+  "status": "ok"
+ },
+ {
+  "lesson": 27,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/195596ccc4c6498d857a9f3f4869d31edd80cbe3aeea4691adcfbb316e23efc2-md.png",
+  "file": "skool-images/27/27-img17.png",
+  "bytes": 886220,
+  "status": "ok"
+ },
+ {
+  "lesson": 29,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/03b47164fe194a98a57006080b16f681bb735a5957e04c6a87420598ff6e766e-md.png",
+  "file": "skool-images/29/29-img01.png",
+  "bytes": 855899,
+  "status": "ok"
+ },
+ {
+  "lesson": 29,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/d1e14ba30be745b5b10f213c9ca093183629b452ae744c1ca1c77d4eccc119f4.png",
+  "file": "skool-images/29/29-img02.png",
+  "bytes": 396925,
+  "status": "ok"
+ },
+ {
+  "lesson": 30,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/6009493b51f544bf9d1fb6cec75a982e546a7e5dcd9144f3bdaf51371ce6310a.png",
+  "file": "skool-images/30/30-img01.png",
+  "bytes": 496467,
+  "status": "ok"
+ },
+ {
+  "lesson": 30,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/7c0e8a1a6d19456e8dd5e28649576f16ccad134e08f0490ba194ebb8118f894e.png",
+  "file": "skool-images/30/30-img02.png",
+  "bytes": 1075457,
+  "status": "ok"
+ },
+ {
+  "lesson": 30,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/13ab322895d44a30abf8343bb4339bb06ef73829ecd64b00a493cd8f2da3e230.png",
+  "file": "skool-images/30/30-img03.png",
+  "bytes": 1024282,
+  "status": "ok"
+ },
+ {
+  "lesson": 30,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/898970c30f0f4f5f8f7e75a3740c2f7271bd5adf23bb4d41805ddf6a4c35f6af-md.png",
+  "file": "skool-images/30/30-img04.png",
+  "bytes": 791290,
+  "status": "ok"
+ },
+ {
+  "lesson": 30,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/da73759eac0247c992f77f9d9875b5b7879b060b08da4af0ae12438997cbb110-md.png",
+  "file": "skool-images/30/30-img05.png",
+  "bytes": 875946,
+  "status": "ok"
+ },
+ {
+  "lesson": 31,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/3eb4b4b9ab9a45f194d435dcb1bc0784bd195d3cec974a808a520dd12d61c257.png",
+  "file": "skool-images/31/31-img01.png",
+  "bytes": 430793,
+  "status": "ok"
+ },
+ {
+  "lesson": 31,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/50907daa3ae84a0397a76f68873e95557a0f4cd5465c4c29b30e76c05139c3df.png",
+  "file": "skool-images/31/31-img02.png",
+  "bytes": 528319,
+  "status": "ok"
+ },
+ {
+  "lesson": 31,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/cc899af02ea24daf9039a54305d4b847d1a991f8fe7f41e1ae7b4f6d668002a6.png",
+  "file": "skool-images/31/31-img03.png",
+  "bytes": 410436,
+  "status": "ok"
+ },
+ {
+  "lesson": 31,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/6bb580cc4ba14b8a8d6a3790b9ed06209f466c3f23eb4303a27176a905aa2eef.png",
+  "file": "skool-images/31/31-img04.png",
+  "bytes": 585224,
+  "status": "ok"
+ },
+ {
+  "lesson": 31,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/08e2e6c63b4347e093f7f672713341a10b4edd49840a414c9d62133c2dca7fd3.png",
+  "file": "skool-images/31/31-img05.png",
+  "bytes": 316638,
+  "status": "ok"
+ },
+ {
+  "lesson": 31,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/f23ca40d2161488d80922b86fc4235cfad858cef70374102ae2cc36978c0a9b2.png",
+  "file": "skool-images/31/31-img06.png",
+  "bytes": 407115,
+  "status": "ok"
+ },
+ {
+  "lesson": 31,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/e570678dbcaa4f8aa64ebf8a5b3e835368e032f691e5489281b9ff20605ba058.png",
+  "file": "skool-images/31/31-img07.png",
+  "bytes": 989914,
+  "status": "ok"
+ },
+ {
+  "lesson": 33,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/196bb2dc23454dfea482656103688d7c1e270009798e453a9a4b4360ca631f61.png",
+  "file": "skool-images/33/33-img01.png",
+  "bytes": 431015,
+  "status": "ok"
+ },
+ {
+  "lesson": 33,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/10a2059725c941d6b9b59640e8d9ba3c6f167906b9f84d159512c36db5b5a558.png",
+  "file": "skool-images/33/33-img02.png",
+  "bytes": 90755,
+  "status": "ok"
+ },
+ {
+  "lesson": 33,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/a589cc50a92444e2bf7be5f8f068245f2033a63c1296427fad826ce152bb4d8a.png",
+  "file": "skool-images/33/33-img03.png",
+  "bytes": 402607,
+  "status": "ok"
+ },
+ {
+  "lesson": 33,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/df22ef8fd5124de0807fd221918dce252f0439bbd75e4b7d9c1a3ce82cf1c89a.png",
+  "file": "skool-images/33/33-img04.png",
+  "bytes": 361803,
+  "status": "ok"
+ },
+ {
+  "lesson": 33,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/fc9e4dd08087480a981673a8aeaec61a30dbc275db9b4948b77e5f0418aa7a4f.png",
+  "file": "skool-images/33/33-img05.png",
+  "bytes": 647870,
+  "status": "ok"
+ },
+ {
+  "lesson": 33,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/640d7d5e454e4fdf9ed3114aa9a758613fe1b5cd3d204f9ea56d37b18a119cf4.png",
+  "file": "skool-images/33/33-img06.png",
+  "bytes": 63897,
+  "status": "ok"
+ },
+ {
+  "lesson": 33,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/05748f884d6b4591a217ca5deef1881c1290f0fda54e4b2ab33004a2c8e75d42-md.png",
+  "file": "skool-images/33/33-img07.png",
+  "bytes": 1032609,
+  "status": "ok"
+ },
+ {
+  "lesson": 34,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/968d9c99f66a4502a533edd7053a8b474352313fa4d048a282eabc93b81fea4b.png",
+  "file": "skool-images/34/34-img01.png",
+  "bytes": 376404,
+  "status": "ok"
+ },
+ {
+  "lesson": 34,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/66cfe7825006416a80665890962bf294729f413f221341d19fd2aab19f6bddf4.png",
+  "file": "skool-images/34/34-img02.png",
+  "bytes": 371258,
+  "status": "ok"
+ },
+ {
+  "lesson": 34,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/d0cc1e494138408c92ca829765fed18bf15f30bb0af64136a38ce68a93974713.png",
+  "file": "skool-images/34/34-img03.png",
+  "bytes": 273858,
+  "status": "ok"
+ },
+ {
+  "lesson": 34,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/13dde264a9284f48af177a1783e77e444253c64eb4fa4fca965cd5a30e530175.png",
+  "file": "skool-images/34/34-img04.png",
+  "bytes": 936614,
+  "status": "ok"
+ },
+ {
+  "lesson": 34,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/2d478c25d1ee4f21841d73c0074a61d38b4d0be6d0c344acba7605ee71cecd0a.png",
+  "file": "skool-images/34/34-img05.png",
+  "bytes": 442655,
+  "status": "ok"
+ },
+ {
+  "lesson": 34,
+  "url": "https://docs.google.com/document/d/1DSuZsQFbTIBPKoIa0FcHh9RiHegybv5lhIV22LwsxHo",
+  "file": "google/34-document-1DSuZsQFbT.docx",
+  "bytes": 9166,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "status": "ok"
+ },
+ {
+  "lesson": 35,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/a16c727397f2498da2394aae88ce8aabf30672c862434a6d900e16942c2ce597.png",
+  "file": "skool-images/35/35-img01.png",
+  "bytes": 48439,
+  "status": "ok"
+ },
+ {
+  "lesson": 35,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/dbeba0eefeae4141ba7c3da1d22986269daf59f60b8445ed8ad215c624c4b02d-md.png",
+  "file": "skool-images/35/35-img02.png",
+  "bytes": 960261,
+  "status": "ok"
+ },
+ {
+  "lesson": 35,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/5e64b699644140b285e9673b4e11159cc53c5994874d4027a44ffabf67a2c9fa.png",
+  "file": "skool-images/35/35-img03.png",
+  "bytes": 467067,
+  "status": "ok"
+ },
+ {
+  "lesson": 35,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/06909f9893634eeca4aa9b471633f3e0849d8cc6759d447f987e16a86231fad6.png",
+  "file": "skool-images/35/35-img04.png",
+  "bytes": 332899,
+  "status": "ok"
+ },
+ {
+  "lesson": 35,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/528faac7369a47d7a961c1f7780fae90b159c5b27e5f43668e9b5dd84b43b403.png",
+  "file": "skool-images/35/35-img05.png",
+  "bytes": 634852,
+  "status": "ok"
+ },
+ {
+  "lesson": 35,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/34abb11b7de44d60b5cc4c2182e03e863cf123c3e52a41269f7c0d58497c3424.png",
+  "file": "skool-images/35/35-img06.png",
+  "bytes": 523801,
+  "status": "ok"
+ },
+ {
+  "lesson": 35,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/ab6cfdcfbdb944c1b28efa44d670fe7f747ce11e8037485a9952054c96367047.png",
+  "file": "skool-images/35/35-img07.png",
+  "bytes": 1622050,
+  "status": "ok"
+ },
+ {
+  "lesson": 35,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/66c28040f5fe47bfa375f11709ef6a19cd0f4668ddeb45ed9471d11a2d1922ec.png",
+  "file": "skool-images/35/35-img08.png",
+  "bytes": 605693,
+  "status": "ok"
+ },
+ {
+  "lesson": 35,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/cb387518049e4776b44855ee34ed1ac56352e35193124dd2a97a8297ec4051c3.png",
+  "file": "skool-images/35/35-img09.png",
+  "bytes": 953117,
+  "status": "ok"
+ },
+ {
+  "lesson": 35,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/7e7002ad631b4ad9853e1d6d921af90c3837966989e94cdd9b3e54eeb8c4c6f2.png",
+  "file": "skool-images/35/35-img10.png",
+  "bytes": 460244,
+  "status": "ok"
+ },
+ {
+  "lesson": 35,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/f9a4fbe6be074d96ab5acbc7f1a5aa9f5f63f2b98b70461b9b06796fb55236ba.png",
+  "file": "skool-images/35/35-img11.png",
+  "bytes": 1032694,
+  "status": "ok"
+ },
+ {
+  "lesson": 35,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/0d711354ca874ee198a30d76fd53f8cba8e279bb5fcf4b01b86120a80a379e06-md.png",
+  "file": "skool-images/35/35-img12.png",
+  "bytes": 1151356,
+  "status": "ok"
+ },
+ {
+  "lesson": 35,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/3f17edf28cd645ad8c2ef6363ca111c341bfa2a7f1f44ddcbf83c8bf531d1afa.png",
+  "file": "skool-images/35/35-img13.png",
+  "bytes": 1058972,
+  "status": "ok"
+ },
+ {
+  "lesson": 35,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/5632d36bd55d4cd1ab24b13ec59c6e4d24a1beb4bfba407ab56478bc12ff27d1.png",
+  "file": "skool-images/35/35-img14.png",
+  "bytes": 754339,
+  "status": "ok"
+ },
+ {
+  "lesson": 35,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/2e695bf16cd04b3386217279541e5bc45cd9466af23841f2a4980009eec38e0e.png",
+  "file": "skool-images/35/35-img15.png",
+  "bytes": 831961,
+  "status": "ok"
+ },
+ {
+  "lesson": 37,
+  "url": "https://docs.google.com/document/d/1wco7k1qt53skRFaPv8buruQhu9t",
+  "status": "blocked: HTTP Error 404: Not Found"
+ },
+ {
+  "lesson": 37,
+  "url": "https://docs.google.com/document/d/1wco7k1qt53skRFaPv8buruQhu9t_tCVgm_u-ReGJJN8",
+  "file": "google/37-document-1wco7k1qt5.docx",
+  "bytes": 110426,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "status": "ok"
+ },
+ {
+  "lesson": 4,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/8f9af73a753745bb97e5a1fb45cac66bb3a2c6d007b64c33bd8943a2a9c41f7a.png",
+  "file": "skool-images/04/04-img01.png",
+  "bytes": 186432,
+  "status": "ok"
+ },
+ {
+  "lesson": 41,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/2c924f88fad94a66b1c9dffa9e1a22c3547a4ff3a8604739951d213dff64378d.png",
+  "file": "skool-images/41/41-img01.png",
+  "bytes": 359817,
+  "status": "ok"
+ },
+ {
+  "lesson": 41,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/dcc69648ac974d39a890e3ce5b6a7b2a4a44f6ddba964b7aa809281b6ad3df1d.png",
+  "file": "skool-images/41/41-img02.png",
+  "bytes": 652117,
+  "status": "ok"
+ },
+ {
+  "lesson": 41,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/26bb44695f064523a3efdf0a2a2c4690557637e92143443a90bcf0f6e2d9ee1e.png",
+  "file": "skool-images/41/41-img03.png",
+  "bytes": 493051,
+  "status": "ok"
+ },
+ {
+  "lesson": 42,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/c19c44ee252244ecba00655526a8b7f6333301a44f5445aa8bf6d429cea08313.png",
+  "file": "skool-images/42/42-img01.png",
+  "bytes": 607932,
+  "status": "ok"
+ },
+ {
+  "lesson": 44,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/821a23b25fac48f382c24d30fb4d2936b34fca381a8147f5a348b85f4a82d62d.png",
+  "file": "skool-images/44/44-img01.png",
+  "bytes": 399245,
+  "status": "ok"
+ },
+ {
+  "lesson": 44,
+  "url": "https://docs.google.com/document/d/1OGUHfnnGAgM5eAadg",
+  "status": "blocked: HTTP Error 404: Not Found"
+ },
+ {
+  "lesson": 44,
+  "url": "https://docs.google.com/document/d/1OGUHfnnGAgM5eAadg-1BLx_fFaGi0EvALOw13YvRzNo",
+  "file": "google/44-document-1OGUHfnnGA.docx",
+  "bytes": 8485,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "status": "ok"
+ },
+ {
+  "lesson": 5,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/295d8bfd6e6347f09fbdc371cecbfeead9c84398559946caa119defbeec5adc3.png",
+  "file": "skool-images/05/05-img01.png",
+  "bytes": 141522,
+  "status": "ok"
+ },
+ {
+  "lesson": 5,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/913fc329d80142b18d673c626bdaf9d508b4bc81a4c948a58bdbebaed6deac43.png",
+  "file": "skool-images/05/05-img02.png",
+  "bytes": 160669,
+  "status": "ok"
+ },
+ {
+  "lesson": 5,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/cc9020694d1042769a08018886e7c948e7c64af24e744df88e055ead7d089692-md.png",
+  "file": "skool-images/05/05-img03.png",
+  "bytes": 265928,
+  "status": "ok"
+ },
+ {
+  "lesson": 52,
+  "url": "https://docs.google.com/document/d/1GfqPd4bNjjerikandyBhzPqpjpzcVF3qs2D1z0J-ySE",
+  "file": "google/52-document-1GfqPd4bNj.docx",
+  "bytes": 9310,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "status": "ok"
+ },
+ {
+  "lesson": 57,
+  "url": "https://docs.google.com/spreadsheets/d/1PNbydGy",
+  "status": "blocked: HTTP Error 404: Not Found"
+ },
+ {
+  "lesson": 57,
+  "url": "https://docs.google.com/spreadsheets/d/1PNbydGy-_bgni80Nj7d-J3CEGxEgu_ReeaLDPRz60FE",
+  "status": "blocked: HTTP Error 401: Unauthorized"
+ },
+ {
+  "lesson": 6,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/913fc329d80142b18d673c626bdaf9d508b4bc81a4c948a58bdbebaed6deac43.png",
+  "file": "skool-images/06/06-img01.png",
+  "bytes": 160669,
+  "status": "ok"
+ },
+ {
+  "lesson": 6,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/cc9020694d1042769a08018886e7c948e7c64af24e744df88e055ead7d089692-md.png",
+  "file": "skool-images/06/06-img02.png",
+  "bytes": 265928,
+  "status": "ok"
+ },
+ {
+  "lesson": 62,
+  "url": "https://assets.skool.com/f/99f29f7059f347559e88fdeddd3f5516/01f90f3b722547d18b2fb49a731057359038f7d7e68a4f41a2e08fc9c2ce849a.png",
+  "file": "skool-images/62/62-img01.png",
+  "bytes": 189745,
+  "status": "ok"
+ },
+ {
+  "lesson": 65,
+  "url": "https://docs.google.com/document/d/1uarIpWx86Ih6yOe0i2pWon7i8Homx9oHM5wufgK-fYA",
+  "file": "google/65-document-1uarIpWx86.docx",
+  "bytes": 27524,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "status": "ok"
+ },
+ {
+  "lesson": 65,
+  "url": "https://docs.google.com/document/d/1uarIpWx86Ih6yOe0i2pWon7i8Homx9oHM5wufgK",
+  "status": "blocked: HTTP Error 404: Not Found"
+ },
+ {
+  "lesson": 67,
+  "url": "https://assets.skool.com/f/3ea65847e3034db389797fafd5b476d7/61f858324e764b8caf8af238e3af75dd44675187af894d1998e91f9e022235d9.png",
+  "file": "skool-images/67/67-img01.png",
+  "bytes": 362349,
+  "status": "ok"
+ },
+ {
+  "lesson": 67,
+  "url": "https://assets.skool.com/f/3ea65847e3034db389797fafd5b476d7/e68e67d274e14caea44bae3e7c593ecdac782d9e793a486eb395a7e627fb4a85.png",
+  "file": "skool-images/67/67-img02.png",
+  "bytes": 368746,
+  "status": "ok"
+ },
+ {
+  "lesson": 67,
+  "url": "https://assets.skool.com/f/3ea65847e3034db389797fafd5b476d7/0019fe4a8b0549dcba2a17929dc6d0dc58df737638ba4a3c9e473a552573cc39.png",
+  "file": "skool-images/67/67-img03.png",
+  "bytes": 384058,
+  "status": "ok"
+ },
+ {
+  "lesson": 67,
+  "url": "https://assets.skool.com/f/3ea65847e3034db389797fafd5b476d7/dcc9df5745b54c12b85ac295c48d9a864427b5488d94474fa656c74f87ce294a.png",
+  "file": "skool-images/67/67-img04.png",
+  "bytes": 377494,
+  "status": "ok"
+ },
+ {
+  "lesson": 67,
+  "url": "https://docs.google.com/document/d/1HqmKhRnQE2rSZX0myJZE_ntOUjjap6Qt28hiC115xT8",
+  "file": "google/67-document-1HqmKhRnQE.docx",
+  "bytes": 7513,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "status": "ok"
+ },
+ {
+  "lesson": 67,
+  "url": "https://docs.google.com/document/d/1apOBJnwgJriNRV38PA4t445pRVH0ZiQNDq4NYKlP7pI",
+  "file": "google/67-document-1apOBJnwgJ.docx",
+  "bytes": 21804444,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "status": "ok"
+ },
+ {
+  "lesson": 67,
+  "url": "https://docs.google.com/document/d/1HqmKhRnQE2rSZX0myJZE",
+  "status": "blocked: HTTP Error 404: Not Found"
+ },
+ {
+  "lesson": 67,
+  "url": "https://docs.google.com/document/d/1nDnGxTxPorufnI2uGYoe1PFMWwd-F45EIzVys1XwNFc",
+  "file": "google/67-document-1nDnGxTxPo.docx",
+  "bytes": 193018,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "status": "ok"
+ },
+ {
+  "lesson": 67,
+  "url": "https://docs.google.com/document/d/1nDnGxTxPorufnI2uGYoe1PFMWwd",
+  "status": "blocked: HTTP Error 404: Not Found"
+ },
+ {
+  "lesson": 68,
+  "url": "https://assets.skool.com/f/3ea65847e3034db389797fafd5b476d7/b877414efdc1439ca2f5ad8347f863ee986522b7c24c4240be376d1f39fe6b05.png",
+  "file": "skool-images/68/68-img01.png",
+  "bytes": 301967,
+  "status": "ok"
+ },
+ {
+  "lesson": 68,
+  "url": "https://assets.skool.com/f/3ea65847e3034db389797fafd5b476d7/f200db507e674dc195cbfa928a3e4aca5143f772dcef43e1aa08e72062457c67.png",
+  "file": "skool-images/68/68-img02.png",
+  "bytes": 315860,
+  "status": "ok"
+ },
+ {
+  "lesson": 68,
+  "url": "https://assets.skool.com/f/3ea65847e3034db389797fafd5b476d7/ef826a1220bd4ecd8571c8f94fc69e924bfec843560e4e1f91a618338f52876e.png",
+  "file": "skool-images/68/68-img03.png",
+  "bytes": 326666,
+  "status": "ok"
+ },
+ {
+  "lesson": 69,
+  "url": "https://docs.google.com/document/d/1HqmKhRnQE2rSZX0myJZE_ntOUjjap6Qt28hiC115xT8",
+  "file": "google/69-document-1HqmKhRnQE.docx",
+  "bytes": 7513,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "status": "ok"
+ },
+ {
+  "lesson": 69,
+  "url": "https://docs.google.com/document/d/1HqmKhRnQE2rSZX0myJZE",
+  "status": "blocked: HTTP Error 404: Not Found"
+ },
+ {
+  "lesson": 70,
+  "url": "https://docs.google.com/document/d/11fMpEFheBCONwW2xW7e11C",
+  "status": "blocked: HTTP Error 404: Not Found"
+ },
+ {
+  "lesson": 70,
+  "url": "https://docs.google.com/document/d/11fMpEFheBCONwW2xW7e11C-NzXHIWVhiviqcgWF0m3w",
+  "file": "google/70-document-11fMpEFheB.docx",
+  "bytes": 52856,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "status": "ok"
+ },
+ {
+  "lesson": 71,
+  "url": "https://docs.google.com/document/d/11fMpEFheBCONwW2xW7e11C",
+  "status": "blocked: HTTP Error 404: Not Found"
+ },
+ {
+  "lesson": 71,
+  "url": "https://docs.google.com/document/d/11fMpEFheBCONwW2xW7e11C-NzXHIWVhiviqcgWF0m3w",
+  "file": "google/71-document-11fMpEFheB.docx",
+  "bytes": 52856,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "status": "ok"
+ },
+ {
+  "lesson": 72,
+  "url": "https://docs.google.com/document/d/11fMpEFheBCONwW2xW7e11C",
+  "status": "blocked: HTTP Error 404: Not Found"
+ },
+ {
+  "lesson": 72,
+  "url": "https://docs.google.com/document/d/11fMpEFheBCONwW2xW7e11C-NzXHIWVhiviqcgWF0m3w",
+  "file": "google/72-document-11fMpEFheB.docx",
+  "bytes": 52856,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "status": "ok"
+ }
+]

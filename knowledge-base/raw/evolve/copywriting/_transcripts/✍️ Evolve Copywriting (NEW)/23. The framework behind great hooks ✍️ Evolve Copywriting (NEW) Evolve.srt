@@ -1,0 +1,131 @@
+1
+00:00:00,000 --> 00:00:20,300
+All right, now in this video, we're going to talk about the framework behind great hooks. Now, I want to talk about this before we actually get into the actual writing of hooks, because I think it's important for you guys to understand these frameworks. Now, I didn't put this into a fancy slide, just because we're kind of getting more into some of the tactical stuff here. But essentially, the hook is the number one job of the writer. If your ad is not working, it is 98%.
+
+2
+00:00:20,300 --> 00:00:48,860
+percent, probably 99% of the time due to your hook. Okay. And the number one thing that I need you guys to understand, I have this great example here to help it kind of hit home is your hook has to be sticky. Okay. And I'm going to give full credit to Adley here. You guys will see kind of her information, some of her stuff down below. Your hook has to create an itch. Okay. And then you can't scratch that itch. Okay. And what that does is that keeps the user engaged. I want to use the example of phishing.
+
+3
+00:00:48,860 --> 00:01:13,650
+because it is going to be a great, like a very visual example for you guys. But when you're fishing, you don't just want the fish to bite on the hook and then fall off, right? Like imagine you're fishing and you get the fish on the hook. You're like, oh, we got a fish on the hook, right? And then it's like, you do one reel and it's like, and then the fish falls off. And then you do it again. You get, oh, we got a bite. You do one reel and the fish falls off. It's like, it doesn't matter if you have the best hook in the world for getting the fish to.
+
+4
+00:01:13,650 --> 00:01:37,500
+grab on. If it can't keep them on, it's a terrible hook. Okay. So I need you guys to understand that. Like some of you guys are so obsessed and I was too, it was the exact same way. I was so obsessed with high hook rates, but it does not matter if they don't keep watching. Okay. And so again, you want the fish to stay on the hook so you could fully reel it in, right? The same idea applies to hooks on your ads.
+
+5
+00:01:37,500 --> 00:02:05,920
+All right. You might have a great hook that gets a lot of bites, but you don't want bites. You want sales. Right. And so if you can't reel it in, then who cares? Right. So again, content creator goals. I want you guys to understand that for me to kind of develop this framework or not even me develop it, this is actually fully credit to Adley. I'm just kind of sharing it with you guys. And I've kind of added my own examples and stuff like that and stolen one of hers. But essentially here, like when you study some of the people who are the best in the world at creating hooks, you start to pick things up.
+
+6
+00:02:05,920 --> 00:02:33,790
+And so you have to understand that content creators, their content is not forced to audiences like we are forcing to audience with our ads. We have an advantage as marketers because we are forcing our content onto people. Content creators don't have that luxury. They have to just compete in the freaking auction of just millions and millions of videos at this point every single day.
+
+7
+00:02:33,790 --> 00:02:56,860
+You have to understand like their goal and their success metrics are insane. Okay. So what they actually want is 90% retention for the first six seconds. So I want you guys to think how like one second, two second, three second, four seconds, five seconds, six, like six full seconds where 90% of people are watching. Like that is.
+
+8
+00:02:56,860 --> 00:03:25,620
+astronomically high compared to what most of you, you guys are able to actually get with your ads. Okay. And so when I studied from these people, I'm like, Hey, you know what? If I could even just get 45% of people, that's going to like probably be a banging ad. Okay. But we have to strive high. Okay. And so my point with this is hook must haves are emotions, curiosity gaps, and high stakes. Now, not every single hook that works has to have all three of these. Again, there are obviously hooks that don't have all three, but
+
+9
+00:03:25,620 --> 00:03:47,730
+a lot of great hooks do. They have emotion, they have curiosity gap and they have high stakes. Okay. And we're going to break some of this stuff down. Emotion, not so much. You guys kind of know what that is, but curiosity gaps and high stakes, as you guys can probably see down below, we're going to get a lot into those in their own modules. But first example here, and this is one that I'm stealing from Adley because I love it so much. The hook is this 25 year old knows exactly how I'm going to die just from this.
+
+10
+00:03:47,860 --> 00:04:16,820
+Okay. Does that have emotion? Uh, yeah. Uh, that kind of scares me. Like, okay, I have like this fear emotion. Like this guy knows I'm going to die. Right. Curiosity gap. How does a 25 year old know how I'm going to die? That's kind of, that's a huge gap that we have to bridge and is dying high stakes. Yeah, it's pretty high stakes. Okay. And what this is, is this is an entertainment wrapper that funnels all the way down to a genetic testing kit. Okay. And the end of the day.
+
+11
+00:04:16,820 --> 00:04:19,020
+They're selling a genetic testing kit.
+
+12
+00:04:19,020 --> 00:04:48,460
+There's nothing that crazy or that unique about it, but this one tells you how you're going to die. That is how they have positioned it. You guys are going to, you guys are going to hear positioning over and over and over again because positioning is everything. All right. That's an insane example, but they essentially made themselves their own category of like, Hey, here's, you know, exactly how you're going to find out when you're going to die. Now, this is an actual video. This is not made up. Like this is an actual video that went super viral. I tried to find the example. Um, I couldn't find it, but anyway.
+
+13
+00:04:48,460 --> 00:05:15,550
+Like this is a legitimate video. Okay. Full credit to Adley here. I fully stole this from her. It's actually in her thing as well, which you guys will find down below. But I want to share this because it's so powerful. Here's one that I stole from the authority one, right? This is how my nonverbal toddler found his voice. What kind of emotion does that create? That creates hope, kind of creates a sympathy. Like, oh my goodness. Like, wow, this is, this is an incredible story. Like this is possible, right? Curiosity. How did a nonverbal toddler find its voice? It's nonverbal.
+
+14
+00:05:15,550 --> 00:05:39,230
+How did it find its voice, right? And then high stakes, the kid was diagnosed, or at least that's what this is communicating, as nonverbal. So it's like, that's pretty high stakes. Like this kid was essentially done for, right? And then it found his voice, right? Very high stakes, especially for parents that potentially think that their kid might be nonverbal, right? And again, if this works for a nonverbal toddler, don't you think it's going to work for ones that aren't? Yeah.
+
+15
+00:05:39,230 --> 00:06:08,510
+Right. All of these copywriting principles, as you can see, are starting to come together. Here's another amazing one that I love. I've had four cats in my life and I'm embarrassed to say I just learned this. Now, does this have emotion? Yeah, it literally says embarrassed. Right. I'm embarrassed. Right. It's a that's emotion that so many people can tap into curiosity. What did this authority just learn? OK, this person has four cats and like they just learned this. Like what what did they learn? And then high stakes. Where's the high stakes here? Well, it's actually in the visual.
+
+16
+00:06:08,510 --> 00:06:35,980
+okay this is literally a video of this guy like the hook starts with him throwing four cats into a boat and it's like whoa whoa whoa wait a second what what is this catch just like flying in the air in a lake like what is going on right that is the high stakes so high stakes aren't always in the text it can also be in the visual which is important why your editors need to understand this stuff as well and for you where it's like you don't have to incorporate all of these things into your written hook
+
+17
+00:06:35,980 --> 00:06:59,580
+Some of it can be supported with the visual as well. Even though this cat being thrown in the boat has nothing to do with the fact that, you know, this guy saying I've had four cats in my life and I'm embarrassed to say I just learned this. It just creates high stakes. It's like, whoa, what's going on? Like what's going to happen to this cat? Like, and then they're kind of like locked in. Now, this might be more of a bite hook where a lot of people stop to just watch this, like make sure the cat's okay and they don't care and they scroll on. But again, there's high stakes here because like what's going to happen to this cat?
+
+18
+00:06:59,580 --> 00:07:19,390
+right? Visual high stakes. Okay. Another great thing over here when it comes to like the framework behind great hooks is starting in the action. Don't overly explain what you're talking about. Just, just start it right in the action. And this applies even to yap sessions here. Now I'm gonna show you guys a very extreme example of this. That is again, like a pretty.
+
+19
+00:07:19,390 --> 00:07:42,980
+large winning ad, but this ad is just titled choking incident. And this guy is literally like the first 12 seconds is choking. Like, is this not high stakes? Uh, yeah. Is there emotion in this? A hundred percent. Like you're freaking out right now. And then again, is there a curiosity gap? It's like, yeah, like what is, what's going on? Like what's going to happen to this guy? Like this guy's literally choking. And then it goes, Hey, I'm Spencer. Great name. Uh, Spencer Kelly. I'm a commercial technician. Boom. Authority.
+
+20
+00:07:42,980 --> 00:07:58,020
+Right. I get countless emergency calls and there's one type of call that still haunts me. It's the choking one. Right. And so, again, they started right in the action and then they start to explain it. Right. So, you know, add these framework is you'll get to the point eventually.
+
+21
+00:07:58,020 --> 00:08:16,380
+Right. But even for yap sessions here, like here's another one of just like this authority, again, talking about pros and cons. He's not saying like, I'm going to pause it here. He's not saying here are, you know, here's our, I'm going to explain to you today what the pros and cons of this thing are. If you want to learn, it's like, no, he just, he just gets straight to it. He's like, drink alcohol. If you want to destroy your liver.
+
+22
+00:08:16,380 --> 00:08:45,140
+Right. So boom, he goes straight to the point and he starts comparing these things one-to-one. Right. And so you have to think about that. Like that's right in the action, even though he's just talking, there's no like actual action. There's no person actually joking, but he's getting straight to the point. He's starting it in the action and he's not overly explaining it. Okay. The next one down here is have zero backstory. I'm just going to scroll down so you can see all this has your backstory. So again, we are making videos that users were not planning on watching.
+
+23
+00:08:45,140 --> 00:09:05,900
+Right. They're scrolling through their feed. They're just trying to be entertained. They're not planning on watching. And they didn't specifically go on Netflix and be like, I want to learn about as crazy as this is. Like, I don't, I wanted to learn about Epstein files. You don't like, you don't go watch that documentary on Netflix. Like you didn't personally choose to do that. You are being interrupted. Okay. And so you can't make them feel like they are missing.
+
+24
+00:09:05,900 --> 00:09:23,870
+something about you or that like they don't like they don't know it's not like if you know you know sort of thing right there has to be zero backstory everybody has to just be able to get it or at least the person that you're targeting has to be able to get it just by seeing it right if they feel like they're missing something they're like wait what what is going on like they're just going to scroll okay
+
+25
+00:09:23,870 --> 00:09:52,560
+Zero chaos. This is another one that is super important, right? A lot of you guys do this crazy editing. There's so many things to focus on. There's like this sensory overload. And at the end of the day, a confused brain will scroll. Again, you might get bites, but if the person is just confused and like, what is going on? They're just going to scroll. And the biggest, biggest, biggest, biggest thing here, and I love that Abby calls this out and because it applies so much to marketing, is we want people to be curious. Curious.
+
+26
+00:09:52,560 --> 00:10:04,880
+Not confused. I just made up my own word. We want them curious, not confused, right? So when in doubt, dumb it down, right? Just try to simplify it down. And again, we want people to be curious, but we do not want them to be confused.
+
+27
+00:10:04,880 --> 00:10:34,190
+OK, and then another just good note from Adley. And again, you guys can check out Violish. It's full credit to them for this framework. And there's a lot of other things that I've taken from there to apply and share with you guys here. But I always try to give credit where credit is due. Adley is a killer. I've seen her speak on stages and stuff like that. I've gone through her programs multiple times. And, you know, she is just a killer when it comes to just creating content. And you can check out her profile and all that kind of stuff. I'll actually link it here so you guys can check her out and just watch her videos, too. It's she literally practices what she preaches.
+
+28
+00:10:34,190 --> 00:11:07,500
+And I want to show you one video specifically that like really hit home for me. All right, amazing. So here's Adley here again, 1.2 million followers. Like she practices what she preaches. 62 million views, 100 million views, guys. Like, you know, she knows how to create curiosity gaps. But I want to share this video specifically because when I first watched this video, I was like, I get it. So let's go ahead and play this video. Video using pregnancy test for... I got it. Do you have a hammer? So if I was going to make a video first...
+
+29
+00:11:07,630 --> 00:11:34,220
+I would probably start doing something like this. Now I'm taking something that people associate with happiness and I'm destroying it in order to stop the scroll, grab attention, immediately spark an emotion and installing a curiosity gap to keep that emotion in the forefront of their minds. Next, I'll do something intentional like setting this aside to anchor something that will make sense later as a retention tactic. Next, I'll take the blue pieces here and drop them in something useful to me but doesn't add up yet to the viewer.
+
+30
+00:11:34,220 --> 00:12:03,570
+I obviously don't have the materials or know-how for this niche, so I found some videos online. I would show how I've molded these items into a gold setting and memorialized one of the most important moments in someone's life into a beautiful keepsake. Because if 99% of us are just mindlessly scrolling Instagram and you come across a girl trying to promote her small jewelry business, you're probably not gonna care. I'm probably not gonna care. But with this model, you see that way more of us are willing to watch this video and slowly be psychologically funneled into an emotional connection with this jewelry company that we never would have been over.
+
+31
+00:12:03,570 --> 00:12:14,400
+So absolutely savage, right? When we think about that.
+
+32
+00:12:14,400 --> 00:12:43,700
+And we, you know, just to zoom out here and going to kind of scroll back up and wrap this up. When you think about that, it's like, oh, wow. Yeah, that is very clear. It's very obvious rather than, hey, I'm Sarah and I have this jewelry company. It's like they do something that, again, has emotion, has a curiosity gap, has high stakes, right? And they're able to funnel people through. And we're going to talk about that as well in the two different types of hooks that you can use, because obviously that's a hook that applies to essentially everybody or at least people who, you know, care about pregnancy tests. But again, anybody can watch that hook, right?
+
+33
+00:12:43,700 --> 00:13:02,230
+so again, that's the framework behind great hooks, huge, huge shout out to Adley. I'm not even going to pretend that like, uh, this is all 100% me. Um, she is incredible content creator. And again, when you study some of the best content creators and what they do and the systems and the processes that they follow, it can be applied to ads and it can absolutely crush for you.

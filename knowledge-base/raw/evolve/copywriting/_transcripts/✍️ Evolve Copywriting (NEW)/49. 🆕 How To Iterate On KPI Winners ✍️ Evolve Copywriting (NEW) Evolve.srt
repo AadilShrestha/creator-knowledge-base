@@ -1,0 +1,47 @@
+1
+00:00:00,000 --> 00:00:22,080
+All right. Now in this next module, we are going to be talking about how to iterate on KPI winners. This one's going to be a little bit shorter because it is very similar to losers. But the problem that we're trying to solve when we hit a KPI winner is that the ad isn't getting breakthrough levels of spend. Okay. So it's hitting your KPI, but it's not pulling significant amounts of spend. Okay. So majority of the time when you create a KPI winner is due to one, two things. Okay. Number one.
+
+2
+00:00:22,080 --> 00:00:39,380
+It has a similar issue to losing ads. Okay. And so for those of you that are at a little bit more scale, potentially you're spending, you know, 15, 20, $30,000 a day on ads. And so you launch an ad and again, it gets a very small percentage. Again, if you're spending $20,000 a day on ads, you know, getting $300 or $400 a day in spend is nothing.
+
+3
+00:00:39,380 --> 00:00:57,700
+Right. It's like 1%. And so if it's getting 1% of spend, but say it's hitting your KPI, it's like great, but it's not scaling. Right. And so we, a lot of the times have that same issue of it's just a losing ad that got lucky and got some purchases. But the other side of it is like, maybe it is getting a little bit more spend. So maybe, I don't know, you're spending.
+
+4
+00:00:57,700 --> 00:01:27,090
+$2,000 a day. And the ad is getting like a hundred or $200 in that instance, because $200 of 2000 is 10%. So it's definitely not like nothing. It's a little bit and it's hitting KPI, but it's just not really taking off. Well, in this instance, a lot of times you just need to leave the ad running in the account and see if meta starts to shift spend to it later. But the main thing here, the second point that I'm trying to get to is that you might've made a bottom of funnel or offer focused or retargeting style ad that was just meant to convert users who have likely already seen some of your other ads. Remember.
+
+5
+00:01:27,090 --> 00:01:55,470
+a KPI winner is an ad that doesn't pull significant spend, but this time it does hit KPI, which means the ad is getting purchases, just not at scale. And so even though you have an ad that's not at scale, if it's getting purchases, that's not a bad thing. A lot of the times we create these mill of funnel, bomb of funnel ads that yeah, they're not breakthroughs and yeah, they're not spend winners that are sucking up all the spend, but they're just hovering in the account. Maybe they get 10%, 15%, whatever it may be, or if we're at more scale, maybe five or whatever. And
+
+6
+00:01:55,470 --> 00:02:14,190
+It's just getting purchases and it's doing a good job. And so if that's the case, it's still, you know, we would still kind of consider that a winner. And obviously there's a scale of KPI winners, but at the end of the day with these ads, again, it really does depend on the percentage of spend that they get. On top of that, you need to keep in mind that KPI winners aren't a bad thing. Okay. So with that said.
+
+7
+00:02:14,190 --> 00:02:37,490
+They are ads that can sometimes hold up the account, like I said, and help boost the overall ROAS and CPA and work alongside the other ads in your account to convert users who are coming from your colder prospecting ads. A lot of times, like if you have a super high spend winner that is, you know, getting like maybe your target to 2x and your spend winner is getting 1.5x, you might have a KPI winner in your account that's not like a 3x ROAS that's like help balancing out the account.
+
+8
+00:02:37,490 --> 00:03:06,860
+Okay. So again, most common reasons ads are KPI winners. If the ad is very low percentage of spend, but has a few purchases, it likely just got lucky getting attribution or being forced to very warm buyers. If the ad was offer focused and can't scale past the more product or most aware category, then again, it's more of a bomb of funnel ad, which is what a lot of KPI winners are. And the overall angle is resonating with a small sector, but it's not scalable. So it's potentially too niche. Okay. Ad types that we'll do iterations on are basically the exact same as losers.
+
+9
+00:03:06,860 --> 00:03:27,330
+But at the end of the day, the main difference here with ideation is if we were not focused on making an offer-specific ad, we may try the idea two to three more times. But if we're like, hey, we were making an offer-specific ad, it's doing its job, it's hitting KPI, it's not scaling the account, but it's helping provide a boost to the overall account, it's helping pick up the overall ROAS, then great, kind of mission accomplished there.
+
+10
+00:03:27,330 --> 00:03:56,620
+Okay. And then again, we rarely do iterations on KPI winning ads. And for iterations of KPI winners, again, it's the exact same thing. This rule of thumb, like, Hey, maybe we'll do an iteration of an offer specific ad and try to make it more offer focused. But a lot of the times KPI winners, if we have a certain focus to just make an offer style ad, we just do the offer style ad and that's it. Now KPI winner iterations. Again, these iterations are the same as losers. So I don't need to go down these. They're literally the exact same. So this video, like I said, is going to be a little bit.
+
+11
+00:03:56,620 --> 00:04:13,870
+shorter. If you want to see me do the full explanation around hook issues, tam issues, broad issues, et cetera, then obviously you can go back and watch the loser video. So how to iterate on losers. But for the most part, the difference between losers and KPI winners is again, either none, like not really that big of a difference. Like it's just a loser that got lucky.
+
+12
+00:04:13,870 --> 00:04:41,450
+Or again, you made a specific bottom of funnel ad. And in that instance, if you want to do some iterations on it, you can maybe test some different formats. But most of the time, we're not overly excited by KPI winners. What we really want to focus our iteration process on is, you know, ideas that we felt really good about that we executed wrongly. Or again, breakthrough ads and spend winners, which is what we're going to get into in the following sections. But again, if you guys have questions around iterations on the KPI winner side, let me know. But it's relatively straightforward. And hopefully that's all clear. And I'll see you in the next module.

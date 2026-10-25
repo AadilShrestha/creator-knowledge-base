@@ -48,7 +48,8 @@ These get compiled into `wiki/libraries/` (hooks, angles, ad-teardowns, rewrites
 
 ```
 knowledge-base/
-├── CLAUDE.md                      ← this file
+├── CLAUDE.md                      ← this file (maintainers: schema + ingest/query/lint workflows)
+├── AGENT-GUIDE.md                 ← front door for agents USING the KB (task → start-here, non-negotiable rules)
 ├── raw/
 │   ├── tether-lab/                ← mirror of the MEGA folder (html/pdf/docx/png…)
 │   │   ├── _transcripts/          ← Whisper transcripts per video (.txt paragraphs w/ [hh:mm:ss], .srt, .json)
@@ -56,9 +57,11 @@ knowledge-base/
 │   └── assets/tether-lab/pdf-pages/  ← every PDF page rendered as PNG
 └── wiki/
     ├── index.md                   ← catalog of EVERY wiki page (read this first)
+    ├── contradictions.md          ← where sources disagree + the default to follow
     ├── log.md                     ← append-only chronological log
     ├── overview.md                ← big-picture synthesis across all courses
     ├── courses/<course>/          ← README.md (course hub) + one folder per module, one page per lesson/session
+    ├── courses/<creator>/<course>/ ← newer courses (e.g. evolve/copywriting): course-local lessons/, concepts/, frameworks/, playbooks/, rubrics/, libraries/, contradictions.md + PROGRESS.md/manifest.json (see repo-root AGENTS.md)
     ├── concepts/                  ← one idea per page (e.g. valence, loss aversion). concepts/heuristics/ = one page per heuristic/bias
     ├── frameworks/                ← step-by-step procedures / diagnostics / checklists you can run
     ├── people/                    ← instructors, guests

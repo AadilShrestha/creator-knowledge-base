@@ -1,0 +1,333 @@
+{
+  "source_file": "12. Why you need to speak copy, not write it ✍️ Evolve Copywriting (NEW) Evolve.mp4",
+  "source_id": "mega:LlQnyCIZ:SpoEmbgA",
+  "source_sha256": "3e991617516f35ced98c17a2f5cb8c7969fa47f1502f5856b903da550ce9f9a3",
+  "backend": "faster-whisper-cuda-int8_float16",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 204.22,
+  "last_segment_end": 204.14,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.62,
+      "text": "All right, so in this module, we'll be covering a very short, but very important and powerful"
+    },
+    {
+      "start": 3.62,
+      "end": 8.4,
+      "text": "one, which is why you need to speak copy and not write it."
+    },
+    {
+      "start": 8.8,
+      "end": 11.92,
+      "text": "And so this is something that when I first heard it, I was like, oh yeah, that makes"
+    },
+    {
+      "start": 11.92,
+      "end": 12.14,
+      "text": "sense."
+    },
+    {
+      "start": 12.3,
+      "end": 16.38,
+      "text": "So this is going to be very simple to the point, but I want to jump straight into an"
+    },
+    {
+      "start": 16.38,
+      "end": 21.22,
+      "text": "example here because imagine you were selling a MacBook Air and most of you would probably"
+    },
+    {
+      "start": 21.22,
+      "end": 24.62,
+      "text": "write copy or write a headline that says, you know, if you were like, oh, I need to"
+    },
+    {
+      "start": 24.62,
+      "end": 25.44,
+      "text": "state a fact, right?"
+    },
+    {
+      "start": 25.5,
+      "end": 26.98,
+      "text": "I want to try to make it visual."
+    },
+    {
+      "start": 26.98,
+      "end": 29.52,
+      "text": "It's like the MacBook Air is just 40 millimeters thin."
+    },
+    {
+      "start": 30.66,
+      "end": 30.84,
+      "text": "Right."
+    },
+    {
+      "start": 31.28,
+      "end": 32.26,
+      "text": "Seems fair enough."
+    },
+    {
+      "start": 32.34,
+      "end": 32.9,
+      "text": "Seems decent."
+    },
+    {
+      "start": 33.02,
+      "end": 35.02,
+      "text": "That's something that most writers would probably write."
+    },
+    {
+      "start": 35.38,
+      "end": 39.38,
+      "text": "Whereas if you think about, okay, I'm speaking to somebody, right?"
+    },
+    {
+      "start": 39.54,
+      "end": 40.58,
+      "text": "Again, that is written."
+    },
+    {
+      "start": 40.94,
+      "end": 45.8,
+      "text": "You might grab an envelope and grab a MacBook Air and do what Steve Jobs did if you're a"
+    },
+    {
+      "start": 45.8,
+      "end": 50.86,
+      "text": "great marketer and put the laptop inside of the envelope and say, this is how thin the"
+    },
+    {
+      "start": 50.86,
+      "end": 52.8,
+      "text": "MacBook Air is, right?"
+    },
+    {
+      "start": 54.14,
+      "end": 56.42,
+      "text": "Pretty, pretty visual to see how thin it is."
+    },
+    {
+      "start": 56.42,
+      "end": 57.92,
+      "text": "You're like, wow, that's crazy."
+    },
+    {
+      "start": 58.12,
+      "end": 58.3,
+      "text": "Okay."
+    },
+    {
+      "start": 58.64,
+      "end": 59.74,
+      "text": "This is spoken."
+    },
+    {
+      "start": 60.16,
+      "end": 64.18,
+      "text": "And the quote that, you know, I'm pulling here from Harry as well as the guy who actually"
+    },
+    {
+      "start": 64.18,
+      "end": 67.9,
+      "text": "said it is, would this help a salesman sell the goods?"
+    },
+    {
+      "start": 68.06,
+      "end": 69.9,
+      "text": "That is a question that you have to ask yourself, right?"
+    },
+    {
+      "start": 69.96,
+      "end": 70.98,
+      "text": "And that's from Claude Hopkins."
+    },
+    {
+      "start": 71.8,
+      "end": 74.04,
+      "text": "Obviously wrote one of the most famous books about copywriting."
+    },
+    {
+      "start": 74.04,
+      "end": 80.04,
+      "text": "But here, again, like just to spensify it, it's like when you're writing your ads, imagine"
+    },
+    {
+      "start": 80.04,
+      "end": 85.2,
+      "text": "you are a door-to-door salesperson, you know, what are you going to say, right?"
+    },
+    {
+      "start": 85.2,
+      "end": 88.6,
+      "text": "Like if you were selling, you know, I don't know, something to do with fitness, would you"
+    },
+    {
+      "start": 88.6,
+      "end": 91.04,
+      "text": "be like, this is a revolutionary fitness experience?"
+    },
+    {
+      "start": 91.04,
+      "end": 92.86,
+      "text": "It's like, probably not."
+    },
+    {
+      "start": 92.88,
+      "end": 93.88,
+      "text": "Like, that's just, okay."
+    },
+    {
+      "start": 93.88,
+      "end": 94.96,
+      "text": "Like, what does it do?"
+    },
+    {
+      "start": 95.06,
+      "end": 95.22,
+      "text": "Right?"
+    },
+    {
+      "start": 95.22,
+      "end": 97.72,
+      "text": "Like, it doesn't make sense, okay?"
+    },
+    {
+      "start": 98.12,
+      "end": 103.78,
+      "text": "And so, again, when you're writing and you're thinking from this frame of like, I'm going"
+    },
+    {
+      "start": 103.78,
+      "end": 109.02,
+      "text": "to have to say this to a person in person, you know, door-to-door sales, that helps you"
+    },
+    {
+      "start": 109.02,
+      "end": 112.14,
+      "text": "kind of clean up your writing and think about what you're actually saying, okay?"
+    },
+    {
+      "start": 112.26,
+      "end": 117.08,
+      "text": "And again, remember that for your videos that you guys are writing, the video briefs that"
+    },
+    {
+      "start": 117.08,
+      "end": 121.06,
+      "text": "you're writing, they are either going to be spoken by a person, right?"
+    },
+    {
+      "start": 121.26,
+      "end": 125.6,
+      "text": "Sometimes a UGC creator will actually just do a voiceover, or nowadays it's usually spoken"
+    },
+    {
+      "start": 125.6,
+      "end": 127.72,
+      "text": "by an AI, which an AI does a voiceover."
+    },
+    {
+      "start": 128.42,
+      "end": 133.4,
+      "text": "And especially if you guys are doing UGC frameworks and UGC in general with people, like they're actually"
+    },
+    {
+      "start": 133.4,
+      "end": 139.04,
+      "text": "filming their own videos, then you 100% want it to be written like a person is going to"
+    },
+    {
+      "start": 139.04,
+      "end": 139.46,
+      "text": "speak it."
+    },
+    {
+      "start": 139.84,
+      "end": 144.06,
+      "text": "And even for those of you that decide to use AI people, although we're not quite there"
+    },
+    {
+      "start": 144.06,
+      "end": 145.2,
+      "text": "yet, same thing, right?"
+    },
+    {
+      "start": 145.42,
+      "end": 149.62,
+      "text": "Like, you have to have it speak like a person, right?"
+    },
+    {
+      "start": 149.76,
+      "end": 155.1,
+      "text": "And then the only other option that you have for videos is like text on screen, which is,"
+    },
+    {
+      "start": 155.38,
+      "end": 158.7,
+      "text": "again, still being kind of spoken in the consumer's own voice, right?"
+    },
+    {
+      "start": 158.7,
+      "end": 162.98,
+      "text": "It's being read in the consumer's own voice when they're seeing the ad, okay?"
+    },
+    {
+      "start": 162.98,
+      "end": 168.08,
+      "text": "And so your ads are already being spoken, so you need to write like it, okay?"
+    },
+    {
+      "start": 168.48,
+      "end": 174.62,
+      "text": "So again, big credit to Harry, big credit to Claude on this very simple but very powerful"
+    },
+    {
+      "start": 174.62,
+      "end": 175.06,
+      "text": "concept."
+    },
+    {
+      "start": 175.48,
+      "end": 179.62,
+      "text": "And I hope this helps you guys, again, visualize your copy and think about like, what am I"
+    },
+    {
+      "start": 179.62,
+      "end": 181.72,
+      "text": "actually writing and am I actually speaking this?"
+    },
+    {
+      "start": 181.94,
+      "end": 186.28,
+      "text": "And again, we're going to get into a little bit more around these sections here of like"
+    },
+    {
+      "start": 186.28,
+      "end": 191.72,
+      "text": "show, don't tell, because this is actually if you ask me kind of more about showing than"
+    },
+    {
+      "start": 191.72,
+      "end": 195.74,
+      "text": "it is just about telling like, hey, this is 40 millimeters thin versus like, you know,"
+    },
+    {
+      "start": 195.92,
+      "end": 197.32,
+      "text": "let me just show you how thin it is."
+    },
+    {
+      "start": 197.42,
+      "end": 202.34,
+      "text": "It's a much powerful way, but this kind of falls in the same line of like, hey, your copy needs"
+    },
+    {
+      "start": 202.34,
+      "end": 204.14,
+      "text": "to be spoken and not just written."
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+1
+00:00:00,000 --> 00:00:11,090
+All right, so in this video, we're going to be going through the 10 step iteration process. Now, this will include a Claude skill for those of you that are already up to speed with.
+
+2
+00:00:11,090 --> 00:00:36,540
+getting cloud code set up on your desktop and not just on your browser. And so if you don't know how to do that, I've actually included the video from Zach, who is our CTO and basically head of AI at everything that we do across all of our companies. Guy's absolutely cracked. He's completely changed the way that we're thinking through things. And me and him are building a lot. This is just a small sample size of like, I want to try to get some of you guys into this and have you kind of crawling before we sprint.
+
+3
+00:00:36,540 --> 00:00:57,740
+Some of you guys are already, you know, power users on this stuff. So you guys might take this skill, take the idea of it, and then just max the hell out of it. Some of you guys might already have something similar to this, but at least you guys are going to get one that's trained on the evolved systems. Okay. Now, if you're like, what the hell is a cloud skill? I'm just here to try to learn iterations. You could still do this without a cloud skill. But at the end of the day, I think using the cloud skill is a great way to do it because it stores.
+
+4
+00:00:57,740 --> 00:01:14,270
+your data, stores your learnings, and there's a lot of really cool built-in things that I have to visualize a lot of the learnings and actually automatically write them in your growth guide. And then on top of that, you just get to talk to the AI about why you think your learnings are good rather than trying to format them properly. So with that said,
+
+5
+00:01:14,270 --> 00:01:36,320
+The 10 step iteration process is relatively straightforward. But again, it's important that you have context on, you know, the outcomes, which is why I mentioned in the overview video, you have to know what these definitions are. With that said, the process is step one, you need to identify the batch number. Now, if you are not naming your ads, I'm telling you guys like it is it's at the point where if you're not.
+
+6
+00:01:36,320 --> 00:02:05,540
+labeling your ads and you're not naming your ads and following a proper naming scheme, you are shooting yourself in the foot because AI is not really going to be able to help you until you actually start to take this seriously. And so in the how to run ad section here, which is what I'm trying to find, we have the how to set up naming templates and you can find our naming templates here. I will actually bring this back in here for you guys as well. If you guys are not actually using this, please install a proper naming scheme. Even if ours is too complex, the only bare minimum that you need to do.
+
+7
+00:02:05,540 --> 00:02:25,870
+is you need to at least have the batch number. Okay, so this is batch number one, batch number two. And we do this inside of the growth guide as well. You can see batch one, batch two, batch three, right? And so it's important to make sure that you label at least by batch number because that is how we are going to track everything, especially with an AI and make sure we know the specific ad that we are talking about.
+
+8
+00:02:25,870 --> 00:02:40,380
+OK, now, once you've done that, you then need to identify the outcome. Now, to give you guys context, we do learnings and we do iterations after an ad has been running for at least seven days and we've clearly marked it with an outcome. With that said, if you have an ad.
+
+9
+00:02:40,380 --> 00:03:09,680
+that you launch and within two to three days, say it starts ripping and it starts scaling the entire account. And you're like, yeah, this is clearly going to be a breakthrough because a lot of times the breakthroughs will show themselves early. Now, sometimes they break through and then they come crashing down and we're going to talk about what to do when that happens. But if you notice that a breakthrough is working within two to three days and you're like, okay, this ad is allowing me to start scaling. You can start the iteration process early. The main reason why we usually tell people to just wait seven days is that way before you mark an ad.
+
+10
+00:03:09,680 --> 00:03:31,730
+a spend winner, or before you mark and add a KPI winner or a loser or a breakthrough, you're at least giving it a full seven days. But as long as you see an ad getting spent, and if you feel confident that yeah, this is definitely going to be a spend winner, this is definitely going to be a breakthrough within the first two to three days of the ad going live, you're more than welcome to start the iteration process. This for us is just usually something that we do after a full seven days.
+
+11
+00:03:31,730 --> 00:03:46,770
+Again, unless it is, you know, a spend winner or a breakthrough and it's, you know, playing a lot of spend. We're like, okay, we got to focus on this. We don't, you know, we don't need to wait the full seven days. We can see this is getting a lot of traction. Let's start the iteration process now. Okay. Now, again, what you're going to do in this is you're going to note the following. So the total amount.
+
+12
+00:03:46,770 --> 00:04:14,240
+of a spend that the ad received and then the total amount of spend that the campaign had during that same period so you would go into that ad set copy that ad set spend and then you would go to the campaign and you would copy the campaign spend and that is just going to also tell the machine especially when we use ai just like how much spend it actually got and then if you guys you know are following the actual rules for how to identify your ads you'll be able to actually clearly see whether or not something was a spend winner uh breakthrough or kpi winner whatever okay now
+
+13
+00:04:14,240 --> 00:04:29,870
+identify the ad site this is crucial as well if you are not tracking ideation imitation or iteration you really need to okay and this is because this will uh change how we actually do iterations on ads because a lot of the times if we have a new idea and it
+
+14
+00:04:29,870 --> 00:04:55,940
+comes out as a loser, we will likely still iterate on that ad. But if we just have like an imitation and it becomes a loser, we might not iterate on it because it's like, okay, that format just didn't really work. Now, there are times where we might, but we're probably not gonna iterate as much on an imitation style ad versus an ideation. Now, if you don't know what ideation, imitation, or iteration actually means, it's very straightforward, okay? It all comes down to where did the idea
+
+15
+00:04:55,940 --> 00:05:25,340
+for the ad come from, okay? Not the finished ad, it's all about the idea. Because where I see a lot of people get confused is that they sometimes don't know if like, oh, hey, if I get my idea from research and then I find some other template to put my research in, is that an imitation? No, it all comes down to where the idea came from. So if your initial idea was like, okay, I did research on Reddit, I saw a lot of moms complaining about how their washing machine smells like garbage. Okay, great.
+
+16
+00:05:25,340 --> 00:05:47,310
+My idea is to make an ad about why, like how to fix your, you know, your smelly washing machine. Okay, great. That idea came from research, right? Now an imitation is, let's say you're scrolling through Atria or you're scrolling through TrendTrack and you see a really cool static ad and you're like, hey, I want to do an ad that looks like that's in that format. I want to steal that format.
+
+17
+00:05:47,310 --> 00:06:05,700
+Okay, great. That is an imitation. Now where people get confused is you could also have an imitation of an idea. So you might see potentially your competitor running an ad about, you know, smelly ass washing machines, right? And if you want to imitate their angle, that is also an imitation. Again, it all comes down to where the idea comes from.
+
+18
+00:06:05,700 --> 00:06:33,230
+Okay. Iteration is super straightforward. The idea came from an existing ad. There's not much more than that. And existing ad means one of your existing ads. Hopefully that's clear now, but those are the three ad types that exist, right? So we have ideation style ads. We have imitation style ads and iteration ads. I don't want to beat this up too much. If you are still kind of confused on this, you can go back into the how to plan ad section and watch the growth guide overview where I explain it a little bit more deeper. By the end of the day, it's important for you guys to understand. And again, this is something that should be included.
+
+19
+00:06:33,230 --> 00:06:54,700
+in your naming scheme as well so you're like hey was this an ideation imitation or iteration okay it was an ideation all right now i know my next step okay step four you need to identify the hooks verbatim okay so write out exactly you know write out every hook exactly as it appears in the ad okay so don't just summarize it and you want to definitely note whether or not the hook rate was good or the hold rate was good
+
+20
+00:06:54,700 --> 00:07:18,750
+And then from there, the most important thing for you to do is make sure that if there's any other like voiceover hook as well, that you list both of them. So if you have a text on screen hook and then a different voiceover hook, you need to note both of them as well. Okay. What I'm trying to do with you guys here is to get you to focus on your hooks. I am working on a hook library, which I think will be really exciting. We're basically just going to take all the top owning ads and.
+
+21
+00:07:18,750 --> 00:07:39,500
+turn them into hooks. But my point is here is that you need to be able to look at the hooks because a lot of the times, most of you guys are going to make losers and you're going to make KPI winners. You might not make spend winners or breakthroughs all the time, but losers and KPI winners are very popular. And a lot of the times ads are losers or KPI winners because of the hook. And so super, super important that you look at the hook.
+
+22
+00:07:39,500 --> 00:08:00,720
+Like, why isn't this hook working, right? And then from there, it's important to make sure you look at the hook rate and look at the hold rate. Again, I mentioned the significant spend here because if your ad spent $2 and it says it has a 70% hook rate, it's just like, it's not accurate. It needs more data, okay? You just had one random person or two random people out of four people, you know, stop on the ad.
+
+23
+00:08:00,720 --> 00:08:30,000
+Right. And there you go. Now you have a 50 percent hook rate, whatever it is. OK, but you need to identify your hooks. And I say for beta because I don't want you guys to make alterations to the hooks. It's what did the hook text on screen actually say? And if there was a voiceover hook as well, so they were saying something else, make sure you write that down, too. And again, I'm going to show you guys how to do this in cloud code as well. I'm just going through it step by step. All right. And now step five, you might have noticed just changed. It was actually different than what was inside of the iteration playbook, which is where I was working. So I'm updating this for you guys as well. And again, if I didn't already mention it, this what you guys.
+
+24
+00:08:30,000 --> 00:08:42,140
+you're seeing here is the exact same now uh as the google dog okay so now step five is to then verify the components against the growth guide and fill in the rest okay and so this
+
+25
+00:08:42,140 --> 00:09:05,440
+is i feel like one of those steps where you're going to realize whether or not you're actually executing the way that you think you are or it's going to expose that you're not actually preparing ads as as well as you should be okay some of you guys might just be having like a single ad idea and then just being like here's here's why i think this will be good and then you just don't do anything else this is really going to expose a hole in that okay but
+
+26
+00:09:05,440 --> 00:09:20,080
+Even if you are skipping that process, what is going to happen is you are going to need to identify all of this. Okay. And so now this double check what was stored in the growth guide, cloud code will automatically do that. But what I mean by that is you need to go in the growth guide and be like, okay, here was batch number three.
+
+27
+00:09:20,080 --> 00:09:49,660
+What was my sub avatar? What was the angle? What was my memo, right? What awareness level was I actually going after, right? And you're going to pull some of these items. Now, once you either manually pull those things or you, if you didn't do it, you look at your ad and say, okay, what was the market awareness level of my ad? And does the copy that you wrote actually match that? Because you might've thought and might've wanted to write a problem aware ad, or you told your creative strategist to write a problem aware ad, but then you read the ad and it's not problem aware.
+
+28
+00:09:49,660 --> 00:10:15,920
+It's like product aware or solution aware, right? Or unaware. It's like that, that wasn't what we had in mind. Okay. And so this is where a lot of you guys are like throwing out angles or like saying that your idea didn't work when it just wasn't even executed properly. Okay. And this happens guys. Like our team has done this before. I have done this before. Okay. So this is just like a way for us to go through. And I know like it's, you don't want to be robotic when you're writing copy, but it's like, Hey, if you said you were going to write a problem aware ad, then make it problem aware. Right.
+
+29
+00:10:15,920 --> 00:10:35,090
+Valence and intensity. This is also where you want to take a look. And over time, as you study your winners and study your breakthroughs as well, you'll probably notice patterns, which is a huge thing that the Claude skill will actually do. It's actually going to store learnings and store all of this on all of your breakthrough ads. And it's also going to visualize it as well. So you'd be like, hey, this ad that I wrote.
+
+30
+00:10:35,090 --> 00:10:58,690
+was high valence, high intensity, but I don't have a single winning ad that is high valence and high intensity. So if we just change this to match the tonality of maybe low valence, low intensity, which is working for all of our winners, maybe this could be a winning angle or winning ad, right? Desire, does the outcome match, right? Again, if you were going after a status desire, are you actually tapping in and intensifying that or are you just going on a completely different direction?
+
+31
+00:10:58,690 --> 00:11:22,560
+Right. Avatar. Does this copy communicate to them? Like if you actually think and read the avatar that you were supposed to be communicating with and then you read the ad, does it actually communicate to them? Great, great thing to look at. Same thing with the angle. Is the reason clear of why someone should buy this? The mechanism. Is there a new mechanism being communicated on like how it's different? Belief. What are we doing to build trust? Is there a clear authority?
+
+32
+00:11:22,560 --> 00:11:51,860
+Is there any strategic copy that we've done? And you guys will have this example as well, where I've actually gone through and identified this. And I've actually optimized this a little bit as well. You'll notice where I said, like, what is the authority building trust? And I've adjusted this to just being belief. And I've also added an additional one, which is called what are the reasons that someone needs to actually take action today? So what is the urgency, which we'll get down to. But again, this belief component is a huge piece of why so many ads fail. I'm showing all of this to you guys right now, but each one of these sections.
+
+33
+00:11:51,860 --> 00:12:20,160
+will have specific points that you actually focus on, okay? Next one down here, the eighth one is positioning. Like, what are we doing that's different? How are we separating ourselves? Now, sometimes this question is a little bit harder to answer, but if you can look at the ad and be like, okay, compared to all my competitors, compared to what I know about my competitors, do I just feel like I'm doing the same thing as them? Yeah, okay, well, don't really have a lot of differentiation. This breakthrough ad might not last that long because I'm just gonna get copied back by my competitor, right? And then urgency.
+
+34
+00:12:20,160 --> 00:12:49,460
+what is the reason or what are the reasons that someone needs to take action today? This one is crucial. And it's why I added it back in because as I was reviewing so many different breakthrough ads, I was like, man, the urgency that these breakthrough ads have is real. And so you guys need to consider this as well. Okay, now again, the Claude Code skill will handle pulling what you originally had in the growth guide into your Visual Fig Jam sheet, which I will show you in a second. But it's important that you check it to make sure that these components were actually executed properly based off what you planned. And like I said,
+
+35
+00:12:49,460 --> 00:13:14,720
+said, this is, Hey, I said, I was going to make a problem aware ad in my growth guide. However, when I look at the ad, it's not problem aware, right? That is an issue. Okay. Now step six is where, after you look at all of these components and again, guys, why do we break all these components down is because these are the components that need to be there. Like these are the components that you're doing research for. And you need to consider when you're writing ads, like, what is the desire? What is the angle? What is the avatar? Right.
+
+36
+00:13:14,720 --> 00:13:34,140
+What kind of zone, like how are we making this person feel? Is there a clear mechanism providing hope? Is this, does this ad feel believable? Is there any differentiation, right? Is there urgency? Those are all things that matter. Now what you're going to do from a copy standpoint or just from an overall standpoint is you're going to write your hypothesis on why you think this ad got the outcome that it got.
+
+37
+00:13:34,140 --> 00:13:56,610
+Right. And then on top of that, we need to discuss the iterations. You guys probably like, listen, we're step six and we haven't talked anything about iterations yet. It's because you can't do iterations without learning your ad first. And this is the problem that so many of you have is you just do iterations without thinking about what is going on or without breaking apart the ad. You need to break apart the ad so that you know what to actually iterate on.
+
+38
+00:13:56,610 --> 00:14:17,620
+Okay. Because if you're just doing empty iterations, you're just hoping for the best. You're like, Hey, let me just test this hook, right? You're not thinking through it. You're not actually understanding why your ad is working. So you need to understand why your ad worked or didn't work before you start doing actual iterations. Okay. And then from here, you need to write your hypothesis and plus your ideas for iterations. So again, why do you think this ad performed the way it did?
+
+39
+00:14:17,620 --> 00:14:42,620
+Right. Why don't you think this ad worked? Right. What specifically worked or what didn't work? What was good on this ad? What wasn't good? Right. And all of this should come from the lens that you get from learning the copywriting strategies that we teach here. It's why I spend so much time on these copywriting strategies so you guys can learn these yourself, not just Claude, but you can learn it so you can know whether or not a hook is a good hook or whether or not a bridge is a good bridge or whether or not you're doing a good job of handling objections, preventing objections, whatever it may be.
+
+40
+00:14:42,620 --> 00:15:08,300
+OK, super important here is and this is my biggest, biggest rule for you guys. So if you tuned out a little bit, like come back in for this, because you need to remember this is a hypothesis. This is not fact. OK, if you treat this as fact, which is very common, you might be like, oh, the reason why this ad didn't work is because I use this mechanism when I need to use this mechanism instead. OK, that is not fact.
+
+41
+00:15:08,300 --> 00:15:32,060
+That is a guess, okay? We are guessing. We're doing our best. This is a very educated guess, but at the end of the day, we are guessing. And you will only know that something is really a fact when you actually say, okay, in that instance, this ad is not working because this mechanism is outdated. I need a newer mechanism. And then you recreate the ad, you do an iteration with a newer mechanism and it pops.
+
+42
+00:15:32,060 --> 00:15:40,580
+guess what? Your guess, your hypothesis was right, okay? That is the only time where you can be like, okay, that was a clear learning, right?
+
+43
+00:15:40,580 --> 00:16:04,300
+Otherwise, all of what you're doing here is this is what I think. Not this is what is, it's what I think, okay? So that's super important because I don't want you guys to, especially when you're talking to AI and you sometimes have to remind AI this, and I've tried to do a good job of this in the skill, but you need to remind the AI and you need to remind yourself and remind your team that all of these are hypotheses. They are not facts, okay? And then while you're doing that,
+
+44
+00:16:04,300 --> 00:16:23,230
+your brain should be going a little bit creative, right? You might see while you're going through this component, oh shit, I don't actually have a good mechanism in here. Oh shit, I'm not doing anything to build trust. I have no authority in this ad. Oh shit, I have no urgency in this ad whatsoever. Okay, now I have some ideas for iterations, right? So now you can start to list out what are some potential iterations that...
+
+45
+00:16:23,230 --> 00:16:41,630
+you can make. And the AI will actually do some suggesting as well. And you guys can take a lot of the playbook as well and give it to your AI. But my point is, is that this is an opportunity for you to explain some ideas that you have, because the whole reason why I do learnings is so that you can make better ads. And so what other ideas do you have from doing these learnings that you can act on?
+
+46
+00:16:41,630 --> 00:17:02,700
+okay step seven you're gonna link the original files this is more or less in the claude code skill but again like store the link and this is also why we have this inside of the uh the growth guide as well right link to add um so you store the files there and then the final thing or final two down here is confirm that it's in the visual playbook so what you can actually do is you can create your own visual playbook now you do need a paid
+
+47
+00:17:02,700 --> 00:17:31,980
+Figma license for this, from my understanding, if you're going to connect it with the AI, if you're not connecting it with the AI, then you could just do this yourself. But here's an example of how we've created this new visual iteration playbook. And I do want to give a big shout out to a few older of all members, Daniel Pizzi and his brother, they originally had like a visual style learnings growth guide that was really, really powerful for them. And what I like about doing things visually is it just allows you to see everything you're allowed to see.
+
+48
+00:17:31,980 --> 00:17:59,470
+all the angles together. You're going to have your learnings in here. And so the AI will automatically do this. We're going to jump into how to do that next, but you will be able to actually go through and write your learnings down. Your iterations will be here. All of the different, you know, desires, avatar, angle, awareness, ad type, mechanism, belief, right? All of that will also get stored. You're then also going to have the variations of the hooks text there with the valence and intensity. And so if you notice that one of them specifically is.
+
+49
+00:17:59,470 --> 00:18:24,980
+maybe working better. Like this was the version that worked better. And it's a different type of valence and intensity. Or, you know, again, these hooks are just like random hooks, but you could see the difference between this hook working versus these other two. Right. And then as you stack more breakthrough ads here, and as you stack more losers, if you want to come in and just compare them as well, sometimes that's really helpful to do. And it's just a very visual way to basically store all of your learnings and also just see it.
+
+50
+00:18:24,980 --> 00:18:54,500
+Okay. So that is what the stigma file will look like. And again, I'm sure you guys have to do that in cloud code. And then step nine is you're going to follow the iteration playbook. Okay. So based on the outcome and based on everything that you've gone through, you're going to go to that, to that part of the iteration playbook. And you're going to take a look at what are the iterations that you should be doing. I've just realized that because this video is quite long, I'm going to split this into a part two, where we actually show you how to do all of this in cloud code. But if you guys want to do this manually, you can, and you guys can go through all of this stuff and you will be able to.
+
+51
+00:18:54,500 --> 00:19:22,690
+start the process of iterations. Because again, the reason why this is first, as you notice, we have eight steps before we even get to step nine, which is actually doing the iterations is because that is what will make your iterations work. Okay. And then the final thing down here, this is something new that might not be in the naming scheme. So I wanted to make sure that I add it here is that you need to make sure that you name your iterations and you track it. Okay. So before you launch any iteration, the iteration must be named correctly. So you can go back and find it later.
+
+52
+00:19:22,690 --> 00:19:46,270
+Okay. And then on top of that, you're also going to be able to see how many times you've iterated on a specific concept. And for most of you guys, if I said, Hey, how many times have you iterated on this ad? You'd be like, Oh, we've iterated a ton. I'd be like, how many? And you wouldn't be able to answer. Well, is it five? Is it 30? Is it four? Right. And then from there you can see, okay, if you've done 30 iterations, right. Maybe you shouldn't be iterating anymore. Right. But.
+
+53
+00:19:46,270 --> 00:20:15,040
+If you've done 30 iterations and you haven't found another winner of a breakthrough ad, I would start to be very concerned that the iterations that you're doing are not in depth and they're not with intent, which is why we're spending all this time to do things with intent. But the point is, is that if you label your ads as iteration number, this is iteration number one, iteration number two, iteration number three, number 10, number 15 on the specific batch number, right? So if I'm iterating on batch number three, if it's iteration two batch number three, that means it's the second iteration.
+
+54
+00:20:15,040 --> 00:20:44,030
+for batch number three. And now I'm actually able to track it, okay? And it's important to do this at the file level, ad name level, and the ad set level so you can know which number iteration you are on and you're able to actually see how many iterations. And this is something that I wanna share with you guys that we had a breakthrough ad and a month went by with our team. And I said, guys, how many times did we iterate on this ad? And they said, oh, we iterated twice. I said, why have we only iterated two times? And like one out of the two iterations that we did was another breakthrough. I was like, what?
+
+55
+00:20:44,030 --> 00:21:08,610
+Why aren't we iterating more? They're like, I don't know. It felt like we had done way more. I was like, well, we've only done two. So let's do way more. And now as a result of tracking this, everyone can see, okay, this ad is like the fifth iteration of this, right? You can go back and you can look at all the other iterations that you've also done to make sure that you don't just, because sometimes you'll, like the first iteration that you do, you know, by the time you're on your eighth one or your ninth iteration of that ad, you might just repeat yourself.
+
+56
+00:21:08,610 --> 00:21:22,210
+And you're like, oh shit, I already did this in iteration number one. Like, why am I wasting my time on this again? Okay. So this is a crucial thing that we've added to make sure that when you launch these ads, you also name them as well. Okay. So that is the 10 step.
+
+57
+00:21:22,210 --> 00:21:39,820
+iteration process obviously now i'm going to get into how to do this with cloud code it's gonna be really cool so if you guys don't have cloud code set up you can have an action item to go and set this up you can download the skill and then we're going to get into how to do this cloud code because i'm telling you guys gonna be way better doing this through cloud code and you are going to see it live so let's go ahead and jump into the next module

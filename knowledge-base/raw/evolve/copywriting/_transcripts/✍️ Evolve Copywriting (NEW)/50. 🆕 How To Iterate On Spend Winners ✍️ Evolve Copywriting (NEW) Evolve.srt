@@ -1,0 +1,195 @@
+1
+00:00:00,000 --> 00:00:06,610
+All right. The next thing that we have here is the spin winner iteration playbook. This is where things start to get fun.
+
+2
+00:00:06,610 --> 00:00:35,920
+Because the problem that we're trying to solve here is the ad is hitting breakthrough levels of spend, okay? So it is pulling a significant spend, but it is not hitting KPI or it's not scaling the ad account. Mainly the latter here of not scaling the account. Now, the majority of time when you create a spend winner, it means you've done something right. The algorithm sees the ad is scalable and begins to push more and more spend towards it, aka pushing it towards colder and colder audiences. Again, spend winner means that the ad is pulling breakthrough levels of spend. However, the KPI is below the account average and it did not scale the account. Now, some...
+
+3
+00:00:35,920 --> 00:00:56,780
+thing to keep in mind is that not all spend winners are equal. Obviously there are some spend winners that will suck up a bunch of spend and get like a 0.2, 0.3 X return on ad spend, right? Like that's not good. That's a spend winner that like, okay, something is clearly wrong. We're misleading. And you could probably turn that off while some other spend winners are as it might be like keeping off your entire account.
+
+4
+00:00:56,780 --> 00:01:15,170
+right? It might be an ad that just sucks up a bunch of spend and gets a 1.x ROAS when your target's a 2, but it's just not allowing you to scale further, right? It doesn't have that extra efficiency power that a breakthrough ad will have to actually help you improve your current ROAS at your current spend in order for you to scale further. Either way,
+
+5
+00:01:15,170 --> 00:01:32,830
+The ad is not scaling your account, which is the TLDR. So what that means is that either the CPM, CPC, CVR, or AOV, again, the metrics that make up ROAS are lacking. So you need to look at how it is performing in comparison to the account and identify where specifically it is lacking.
+
+6
+00:01:32,830 --> 00:02:02,160
+This is also when you can start to get more granular and start to analyze other metrics on the ad as well, such as hook rates, hold rates, hook to hold, average playtime, frequency, percentage of new visitors. These are all really good things to go and check just to better understand the ad because now that the ad is actually getting spent, I'm going to have a little bit more significant data or statistically significant data. You can also start to dig deeper into some of the other metrics using a breakdown tool like age, gender, placement platform, just to see.
+
+7
+00:02:02,160 --> 00:02:25,420
+where the ad is going. But most of the time, most of the time, when you hit a spend winner and the ad doesn't scale, it means you are either lacking one of these two things, at least from all of the, you know, learnings that I've done on spend winners versus breakthroughs, especially internally, is we are missing trust. So you fix this by just adding more authority or again, optimizing your copy to be more believable or you're missing urgency.
+
+8
+00:02:25,420 --> 00:02:38,880
+And you fix this by escalating the problem or essentially making people realize that what will go wrong or what can happen if they don't take action today. Or the third potential thing, although most of the time it's these two, is you might have a funnel issue.
+
+9
+00:02:38,880 --> 00:03:05,660
+And so you can fix this by optimizing your landing page. This can sometimes be a real thing, especially if you guys are creating like some static ads, like, you know, the winning ad that I showed you guys here, this ad going to a product page is just probably not going to convert. There's definitely more of an advertorial or more of a list school here that needs to explain how this beer belly is actually cortisol belly and why it's killing testosterone. So that's obviously an example of where if you're just saying this to a PDP might be a spend winner, but until you optimize a LP for it, it might not be a full breakthrough.
+
+10
+00:03:05,660 --> 00:03:29,340
+Okay. Going deeper into this, you could usually tell an ad is lacking in those departments because it will have a lower conversion rate compared to the account. And most of the time when we see a spend winner, it's never usually a cost per click issue. Usually the cost per click and the CTR are good. Or the issue is, is either on the conversion rate or on the AOV side. And a lot of times it's conversion rate. And again, that's why meta will force a lot of spend these ads because usually they're driving a lot of traffic, but then there's an issue.
+
+11
+00:03:29,340 --> 00:03:45,340
+with that traffic like traffic is just not believing that you can actually deliver on everything that you're promising in the ad okay again what this means is that people are getting stopped by the ad they're watching it they're looking at it which is what meta wants however it's not convincing enough to convert those who are stopping now
+
+12
+00:03:45,340 --> 00:04:07,730
+A big trap that a lot of marketers can fall into is going into hold iteration mode where they take this as, oh, my hook works. Now I need to test a bunch of different formats and test a bunch of different holds, which we will get into, but you don't actually consider that the hook itself could be the problem, okay? Your hook does a lot of the time, most of the heavy lifting and sets up the app.
+
+13
+00:04:07,730 --> 00:04:28,100
+Right. Like sometimes some of you guys make these crazy hooks or use these crazy visuals, but you just can't tie it back together. And so although the hook is getting attention, there's just no way that it sets up a person to watch the rest of the ad to learn more information or it sets the person up to actually buy. OK, so sometimes although you think your hook is the reason why the ad's working, it's actually the reason why it's not working and why it's not converting.
+
+14
+00:04:28,100 --> 00:04:46,720
+Okay. Sometimes the hook itself is the reason why the ad doesn't scale and get conversions because it becomes too hard to actually convince someone based on how you set them up. And just because your hook is stopping people, like I said, doesn't mean that it's going to get them to purchase. Okay. Your goal, yes, is to get attention, but not just get attention. You want to get attention that will actually buy.
+
+15
+00:04:46,720 --> 00:05:16,080
+Okay. So again, that's what I just clarified here. Now, most common reasons ads are spend winners. The hook is misleading. Okay. There's a disconnect from what people expect from the ad versus what's on the page. You grab the user's attention. They like your claims, but they don't believe you. It's going after a broader or colder audience, but is lacking conversion factor. The ad lacks urgency or a strong CTA. People do not see the value in your offer. So the price of value is off. So whatever you're potentially claiming in your ad versus how much you're charging, it's just that something is off there and you need to do some.
+
+16
+00:05:16,080 --> 00:05:23,900
+testing. And then from there, you failed to close any open loops from earlier in the ad and viewers were intrigued but felt unsatisfied or not sold after watching.
+
+17
+00:05:23,900 --> 00:05:48,620
+Okay. So ad types that we'll do iterations on all of them. Okay. If a new ad idea gets spend, we'll always try that idea three to five more times because again, Hey, this got spend. We need to crack how to turn into a breakthrough. And a lot of the times we are able to turn spend winners into breakthrough by again, doing the iteration process down below iterations. Again, we just identify, Hey, if we made an iteration of a spend winner, for example, and it stayed a spend winner, we need to identify why. Okay.
+
+18
+00:05:48,620 --> 00:06:17,900
+where is the issue happening? Is it still the hook? Is it potentially that we didn't do a good enough job of building more belief? Is there still no urgency? What is the issue? And then imitation ads, again, if an imitation ad is working well, it's getting spend, we might try a few different executions of that imitation as well. So based off of what we imitated, whether it was angle or whether it was the actual format, we'll definitely test a few different iterations of it as well. Main thing that I want to cover here is what holds back spend winners from being breakthroughs. A lot of the times it is a
+
+19
+00:06:17,900 --> 00:06:37,380
+broad issue okay and this is a different explanation from what i recommended or what i talked about in the losers but just how we mentioned in losers and kpi winners the ad likely has an angle messaging or labels that are too broad however in this instance for the spend winner outcome your copy was likely strong enough to capture attention of the masses which is why meta is forcing spend on it
+
+20
+00:06:37,380 --> 00:07:04,270
+but it is not strong enough to ultimately convert those masses, which is again, now it's the next level. Okay, you've become a good enough copywriter to get the attention of the masses, but you haven't become a good enough copywriter to funnel that attention down to actually get it to become conversions, okay? So in this instance, you definitely wanna make sure you apply some of the things that are missing below in regards to belief, urgency, and funnel congruence, okay? You've already seen the example for this. Belief issue, this is similar.
+
+21
+00:07:04,270 --> 00:07:33,550
+to the losing ad. But again, when it comes to belief issues on spend winners, it usually means you've done a really good job of resonating with people and grabbing their attention, but they just don't believe or trust your claims. And again, you need to understand more about your customer's belief. And from an iteration perspective, you need to analyze where in the script you can add more authority and how you can optimize specific parts of the script to use more facts or show vulnerability, which what I mean by this is like, say, for example, as a brand, maybe you help people improve their phone speed. And if you're like, hey, if you
+
+22
+00:07:33,550 --> 00:07:40,960
+your phone is loading really slow, we can help you, right? That would be a claim that people would make. But instead of making a claim like that, you could say, listen,
+
+23
+00:07:40,960 --> 00:08:10,260
+if your phone is an iPhone 12 or below, like we can't help you. But if you have a 13 or a 14 or a 15, we 100%, this will help you increase the speed on your phone. And so we're basically being honest about a, you know, something that most people aren't honest about, which is, hey, this doesn't work for everyone, but this can work for you, right? And so showing that vulnerability that like, hey, this isn't this perfect end all be all solution, but if you are in this category, you're this type of person, you know, we can help you. And that can also build trust as well. Now, the new things that we've added,
+
+24
+00:08:10,260 --> 00:08:35,600
+year in regards to spend winners, number nine being the urgency issue, which is something that I talked about above. But again, another big reason why spend winners never become breakthroughs is because they lack urgency and not urgency in the way of sale and snide or limited quantities left or you got to act now or it's almost sold out. You're missing urgency from a standpoint of why does this potential customer need to buy this now, right? So if you look at your ad,
+
+25
+00:08:35,600 --> 00:09:03,860
+and your ad doesn't have at least one reason why they need to take action on this quickly, or it doesn't explain what could potentially happen if they don't take action, you do not have real urgency in your ad. And here's a really great example of an ad where, again, you can see here the spend winner version, and I'll play it, explains in the hook, food buildup causes issues. But there's no other evidence that follows or any other kind of urgency that makes this amplified. It makes me want to take action today. So let me go ahead and play this.
+
+26
+00:09:03,860 --> 00:09:33,100
+Don't brush your dog's teeth. Food builds up quickly causing issues. Okay, so food builds up quickly causing issues. That is my urgency of why I need to brush my dog's teeth. They say quickly, right? So they've added some kind of timeline to that. But let's watch the rest of the ad to see if there's anything else that makes me feel like I need to take action on this today. This new powder for clean dog teeth can help. This incredible, easy to use powder targets tar tar buildup and stinky dog breath all without a toothbrush.
+
+27
+00:09:33,100 --> 00:10:04,050
+Simply sprinkle one scoop of it onto your dog's food and let... Not a lot of urgency, right? There's nothing that's like, oh, I need to, like, you know, they didn't say what will happen if I don't, you know, do this and what will happen if I continue to delay and all that kind of stuff. But if we watch this ad over here, you'll be able to hopefully feel the urgency. I've obviously called it out here, but I want you to notice the difference. Dental powder cleans dog teeth fast. Are you one of the 96% of dog owners who don't brush their dog's teeth daily? Well,
+
+28
+00:10:04,050 --> 00:10:30,270
+By age three, you could be setting your dog up for a lifetime of dental issues. Urgency by age three, right? Lifetime. This lifetime word creates a massive urgency by stating by age three, for anyone that has a dog that is over the age of three, now it's like even more urgent. Like my dog's five, right? And I haven't been brushing his teeth, right? I need, I can't delay this any longer. I need to actually do this today. This is an issue that I need to fix.
+
+29
+00:10:30,270 --> 00:10:58,270
+today, right? And watch, you'll see more urgency get lifted as well. While traditional teeth cleaning techniques can be challenging, every day you delay is another day your dog's teeth start to become more yellow and their breath gets worse. Every day that you delay, the more yellow your dog's teeth get and the worse that their breath gets, okay? That is urgency. Every day that you delay, right? By age three, they have a lifetime of issues. This has urgency. When I watch this out, I'm like,
+
+30
+00:10:58,270 --> 00:11:07,810
+I can't wait any longer because it's only getting worse. I was so happy when I found this example. It's like this is an example of an iteration that has way more urgency that this one probably scaled way harder.
+
+31
+00:11:07,810 --> 00:11:34,080
+Okay. So that is urgency. The next one is the stakes issue. Again, another reason why your spend winter, your spend winter might not be a breakthrough is due to the lack of stakes. And again, you can learn more about stakes here, which is inside of the program. Okay. How to raise the stakes. You guys can see that. But again, a lot of the best breakthroughs will have high stakes and will make it feel much more important. You'll also notice that by raising the stakes, you can usually increase the urgency as well. And this is.
+
+32
+00:11:34,080 --> 00:11:55,740
+the whole point of like, okay, more urgency, more stakes. How can I make people care more about this, right? Here's an example of, you know, why I regret buying this modern wallet versus... A thief can use a small device to secretly scan and steal your credit card information. Incredibly high stakes. This one. Here's why I regret buying a red wallet.
+
+33
+00:11:55,740 --> 00:12:15,500
+Obviously they have the same clip, but he's just saying, here's why I regret. Where here they're saying a thief can use a small device to steal your information. Way higher stakes, okay? Difference between, you know, low stakes and high stakes, okay? And then funnel congruence issue. If you found a new spend winner and it has a new angle.
+
+34
+00:12:15,500 --> 00:12:44,850
+from the other angles that you're currently running, okay? So it's a net new angle. There's a high likelihood that you have a congruence issue or funnel issue. And what this means is that the ad is grabbing attention and has people interested, but it's going to more of a generic page that doesn't complete the customer journey. Or in a lot of instances, it's going to a page that is completely tailored towards a different avatar, okay? And so this is important for you to also, when you hit spend winners that potentially have a low conversion rate, to analyze your funnel and try to see if there's an opportunity to improve.
+
+35
+00:12:44,850 --> 00:13:14,240
+the actual funnel in order to turn that spend winner into a breakthrough, right? So just by optimizing the funnel or optimizing your listicle or advertorial or offer in general, you might be able to turn your spend winner into more of a breakthrough by increasing its conversion rate, right? And I mentioned this, majority of the time, the reason why spend winners aren't breakthroughs is because they lack conversion rate, not CTRs, okay? So again, here are some examples of this. This is an ad going after dudes, right? Then I'm going to a page with a girl shaving her arm, not very congruent.
+
+36
+00:13:14,240 --> 00:13:38,530
+So how do we make this more congruent? We just optimize the page, right? Flasher 2.0, men's grooming tool, right? We've got a dude holding it, right? Small things like this, they make a big difference, okay? And I have another example over here as well, where again, here's a spend winner. This is from the actual CRO program, for anybody who's seen the CRO program, where we're saying, hey, stomach issues, there's a soup for that. Here's our angle, right? It was this new angle that we were trying out. Well, then we send it to a homepage that says,
+
+37
+00:13:38,530 --> 00:13:54,050
+delicious gourmet soups tailored to enhance your healthy lifestyle. Like what is that garbage, right? Let's go and create a better landing page where we go to the number one frustration that these people with stomach issues have, which is frustrated with doctors and digestive issues. I was too.
+
+38
+00:13:54,050 --> 00:14:17,360
+No one could pinpoint what was wrong. I tried everything, doctors, supplements, different diets, nothing worked. Every time I thought I was getting better, my symptoms would flare up again, right? So you can see this is much more congruent, right? This was a new angle that we tested. It was kind of like a KPI winner, like somewhat, not really a spend winner, it was more KPI winner. It just wasn't scaling. We built this landing page for it and boom, it turned into a breakthrough. Okay, so this is a way to turn your spend winners.
+
+39
+00:14:17,360 --> 00:14:43,200
+into breakthroughs. Okay. And the next thing in here is a misleading issue. And I forgot there's actually a fourth one, not just three here. And this misleading issue is a lot of the times people believe that meta prioritizes engagement over anything else, which again, as I say here to an extent is true. However, over the longterm, it will always optimize for purchases. So ads that get high engagement or have really good cost per clicks will usually suck up a bunch of spend. However,
+
+40
+00:14:43,200 --> 00:14:58,140
+If they are not a breakthrough or they're not holding ROAS with it, it will not sustain that spend. And usually meta will pull off of it. But the problem is, is for a lot of people, meta doesn't pull away fast enough. So that's why sometimes you have to step in and turn it off. Whenever this happens, it usually means you've created an ad that just.
+
+41
+00:14:58,140 --> 00:15:21,970
+does a better job of getting engagement rather than purchases, which is why I say it's more of like a misleading issue. A very common thing that happens is for a lot of people that are running native ads. A lot of people click see more. A lot of people are really engaged on the ad and they'll read the whole thing. But the problem is, is they don't actually convert. And so Meta sees this as like, this is a great ad. Everybody's stopping on it because it's so weird and it's got this long story, but nobody's buying from it.
+
+42
+00:15:21,970 --> 00:15:33,810
+And so a lot of the times your native ads can suck up a bunch of spend because it's giving meta the right signals, but it's just no conversions. And this is also very popular with very controversial angles that will get a lot of people commenting.
+
+43
+00:15:33,810 --> 00:15:55,150
+A lot of people taking sides and saying, I'm team this, I'm team that, or this is wrong, or this is right. I wish I could provide a clear example of a spend-winning native ad versus a breakthrough native ad. But unfortunately, we don't run a lot of native ads due to our stance of them not really being good long-term winners, which we'll see. Although again, native ads can absolutely rip. So anybody that tells you native ads don't work or even me like poo-pooing native ads.
+
+44
+00:15:55,150 --> 00:16:10,820
+l spencer um but at the end of the day it's just not really something that i care about and you know sometimes we'll test them but i like we have seen spend winner ads and breakthrough ads but i can't share them because of our client ndas and then the problem is is when i was trying to find examples from other people's um actual spend winners again
+
+45
+00:16:10,820 --> 00:16:30,620
+I don't actually have spend winner data, which is why I have this notice here for spend winners and KPI winners. So what I have done, at least in this instance, is to show you guys this is not a real ad, but this is an exaggerated example of something that can happen, right? We're saying five reasons why you need this dog leash and you're trying to sell this dog leash. But the star of the show here is the fucking collar.
+
+46
+00:16:30,620 --> 00:16:52,560
+And again, this is just like an over exaggerated version to show you guys like you need to try to look like where am I potentially misleading? Because a lot of times native ads are just misleading because you guys are throwing up random photos of random shit and people are interested in that. And they're like, what is that? Right. But they're never going to buy. Right. Especially if you're not selling the thing that you're potentially focusing on. Whereas here, it's like five reasons your dog needs these charms. It's like, OK, well.
+
+47
+00:16:52,560 --> 00:17:18,370
+It's obvious that this is what we're selling. It's the caller. Okay. But again, this is an exaggerated version. It's not a real ad. I made this with AI, but you guys can see what I mean by this, where it's like, this is misleading. People care about this, but you're trying to sell this. That's a problem. Okay. And so try to look for that in your native ads as well. Okay. So hopefully that makes sense on the spend winner side of things on the iterations that you will do. Now, with that said, we're going to get into the.
+
+48
+00:17:18,370 --> 00:17:45,730
+how to iterate or the iteration, playbook, script, and format. A lot of the times, spend winners, we will follow this process. We will take a spend winner and try to move it into a different format and see if that improves it, right? However, what I want you guys to think about is if you have spend winners, you need to focus on these issues, right? If you have just a AI voiceover video and it's getting a lot of spend, but it's not converting, just moving that into a native ad or just moving that into an AI animated ad is not going to make it work all of the time.
+
+49
+00:17:45,730 --> 00:18:14,850
+or just changing the script blindly is not going to make it work. These are usually the issues that exist in spend winners. And so if you fix these issues and then you even just keep the same format and you just slightly adjust the script to have more urgency or you fix the funnel or you raise the stakes or you attack the belief issue, a lot of the times you'll actually turn that ad into a breakthrough, which then you get to have way more fun on turning breakthroughs into other iterations, which we're going to get to. But hopefully that all makes sense.

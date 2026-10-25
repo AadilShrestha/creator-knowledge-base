@@ -23,7 +23,7 @@ updated: 2026-10-20
   - **DO** follow Sarah's priority order: **identity → emotion → behavior/tactics**. Heuristics are "secondary characters" ([May 7](05-live-recordings/2025-05-07-live-with-sarah.md)).
   - **DO** create variants by moving a winner to a *different* zone or self, not by inventing net-new concepts ([rewriting for new selves](../../frameworks/rewriting-ads-for-new-selves.md), [tone shifting](../../frameworks/tone-shifting.md)).
   - **DON'T** fabricate proof, scarcity or testimonials. The course flags this repeatedly.
-- **See also:** [AGENTS.md](../../../AGENTS.md), [playbooks](../../playbooks/), [libraries](../../libraries/), [prompt library](07-prompt-library/README.md).
+- **See also:** [AGENT-GUIDE.md](../../../AGENT-GUIDE.md), [playbooks](../../playbooks/), [libraries](../../libraries/), [prompt library](07-prompt-library/README.md).
 
 ## Curriculum
 

@@ -1,0 +1,187 @@
+1
+00:00:00,000 --> 00:00:12,750
+All right, now in the final part of the video here, what we're going to do is we're going to walk through this talk together and just kind of go through each one step by step so you guys can see a little bit more about some of these iterations and if you need more help on losers or spend winners and KPI winners or...
+
+2
+00:00:12,750 --> 00:00:36,220
+breakthroughs or anything that kind of stuff. We're just going to walk through this doc. Now, we did go through most of it, but I just wanted to film a video even for those of you that want to see me explain this a little bit more and kind of go through each one. That is the goal of this. Now, again, a lot of these I've already gone through and basically talked about, but there's even more things that are different between losing and winning versions. I'm just kind of calling out the more obvious ones. This example here, losing visual shows an AI man looking into the mirror.
+
+3
+00:00:36,220 --> 00:01:01,420
+Right. What do I do with that? Well, the winning visual shows a sketch of a muscular man and a real needle being injected into it. And again, these numbers are all in coordination to these iteration things over here. So number one, this is a hook issue. OK, number two. Well, what is number two? Number two is a tan issue. OK, well, this one, this calls out a very specific avatar of men who are on TRT for a few months and having a negative experience, which is kind of specific versus men who are just considering testosterone.
+
+4
+00:01:01,420 --> 00:01:18,160
+right? And are potentially scared of injections. And then number three, balance and intensity. The losing version is more low valence, low intensity. It's kind of focused on negative outcomes versus this is more focused on positive ones. This ad, I've also broken down a lot. I'm not going to go through this again, but big issue here is just the empty claim, right? Beat that bod with our product.
+
+5
+00:01:18,160 --> 00:01:47,660
+Sure, buddy. Losing hook also calls out a very specific sub avatar. And again, the zone and intensity and just so you guys know, the balance and intensity rather doesn't always dictate like there are winning ads in every single zone where that's either like high intensity, high valence or high intensity, low valence. Although again, sometimes low valence, low intensity can work, but the intensity exists on a scale where you can go way too intense and you're just kind of a piece of shit. And then you can also go like so little intense that it's just boring and nobody cares. This video, losing version, this is all opinionated. The other side is fact. We've talked about.
+
+6
+00:01:47,660 --> 00:02:03,660
+out that a ton that number six is a specific call out to the bridge issue right then over here we have the valence intensity change and then also again the bridge issue this is a really good ad if we actually watch through the bridge on this so i'm gonna go ahead and play it so you guys can see the difference
+
+7
+00:02:09,070 --> 00:02:37,300
+Like this bridge is just her doing shit, like no context. Let's watch this one. This is the coolest thing we've ever added to our house. If you're new here, hi, I'm Sammy and welcome to part three of our back deck refresh. So far, we've replaced some board. Welcome to part three. And then, okay, well, I feel left out. What did I miss? Well, so far, here's what we've done. Okay, now I'm caught up, right? So again, this bridge just sets up this story, which kind of makes it more interesting. Okay. And then from there, now as sexist as it sounds, I think it is cool that it's a girl doing this.
+
+8
+00:02:37,300 --> 00:03:02,720
+versus a guy because like most people would think like fixing the patio is like a guy you know it's a blue job uh it's a guy's job versus you know having a girl do it so it's like you know what is this girl doing like she's killing it let's go um again this one over here empty claims belief issue i already talked about this as well pretty extensively but you guys can see the differences here what i wanted to get into because somebody says that didn't get shown were the spend winners and kpi winners and unfortunately again disclaimer i don't have 100 data that says this is definitely a kpi winner
+
+9
+00:03:02,720 --> 00:03:32,020
+This is definitely a spend winner, but I am relatively confident in it just based off of the limited data that I could find. Here is an offer issue, which again, the losing version has a very standard, like get your glow back, save up to 25%, which is just communicating the offer upfront and it's just making a very empty claim and everybody does this. Whereas the winning iteration doesn't actually state the offer at all. It just states that it's their best bundle ever. So it's an amazing offer and it's the only chance that someone's going to get it. And it's so good. They don't care that it's hurting their market.
+
+10
+00:03:32,020 --> 00:03:53,470
+margins, right? And so now they're being vulnerable, right? This is how they're able to build trust. Like get your glow back doesn't build any trust. But I'm like, hey, this offer is so good. It's hurting our margins, but we don't care. Come and get it, right? The difference between these two ads is like they're selling the same bundle. This one, I'm like, damn, I actually believe this person. And if I believe one thing that they say, I might believe the claims that they make on the landing page as well.
+
+11
+00:03:53,470 --> 00:04:20,640
+Okay. This one over here. So again, spend winner to winning iteration, belief issue. Again, here is how we would optimize the bridge to build more belief. It's obviously not a real ad. There's no ad here, but rather than this new powder for clean dog teeth can help. An iteration that we would make is depending on how bad your dog's buildup is, this new powder for clean dog teeth may still be able to help, right? So the script version of earning trust is we say like, this might not be for everyone, right? So again, let's watch the hook. Don't brush your dog's teeth.
+
+12
+00:04:20,640 --> 00:04:46,380
+Food builds up quickly causing issues. This new powder for clean... We just go straight to the product, right? Where my script iteration would be like, hey, listen, depending on how bad your dog's buildup is, this new powder for clean dog teeth might still be able to help. Now I want to find out if I'm the person that could be helped, right? It's going to probably extend the watch time and make people want to see rather than just getting pitched a product, okay? So that's a script version. Now an authority version would be like...
+
+13
+00:04:46,380 --> 00:05:13,300
+I forgot to brush my dog's teeth for four years, but this new powder for clean dog teeth was able to help. So here it's, don't brush your dog's teeth. Food builds up quickly, causing issues. I would know because I didn't brush my dog's teeth for the first four years, but this new powder for clean dog teeth was the only thing that I've been able to find to make it help. A little bit more wordy, you cut it down, you optimize it, you remove the fluff. I'm just going off the dome, but you guys kind of get the idea of how I can now establish an authority where here there's no authority, okay?
+
+14
+00:05:13,300 --> 00:05:32,640
+Hopefully that makes sense. Here's another one that we've already broken down a ton. Great, great example. We've also broken down this one of like stakes, okay? So the spend winner version does show the scanner stealing information, right? But there's no actual stakes. It doesn't actually state what's actually happening. He just says, I regret buying this wallet. Whereas this one, we're saying, hey, millennials are ditching their old wallets.
+
+15
+00:05:32,640 --> 00:05:55,760
+because thieves can use a small device to steal your credit card information. Way higher stakes. And if you guys need more examples on this as well, I have a ton in the copywriting strategies on how to raise the stakes. So lots of good examples in there too. Next one over here, we already talked about the misleading issue. Then we also talked about the spend winner issue where this example just shows the original ad going to the original landing page, which is just basic, right? The next slide.
+
+16
+00:05:55,760 --> 00:06:23,810
+shows one that's fully congruent. We were able to create much more congruent funnel by taking the angle that was working in the ad around stomach issues and gut issues and do more research, basically understand this person even more, right? So now we were able to create a page that went after one of the biggest frustrations of people that have these issues or are dealing with, right? Which is doctors. And then we get into this founder story, which you guys wouldn't believe it, it's a real story, that built a ton of authority and was extremely relatable and then leads to why the product was created.
+
+17
+00:06:23,810 --> 00:06:47,740
+with an offer as well. So we also improved the offer. Okay. And as a result of building out this page, the ad was able to go from a spend winner to a breakthrough, which 3X the entire ad again. Kind of cool. Live case study in the CRO program, if you guys are interested in that. Now, again, I already talked about this one as well. Again, the changes that we made, you know, and I would potentially add a few more things here as well. Like for example, I would maybe add bullet points that say safe for sensitive areas made for men who are scared or hate shaving, et cetera.
+
+18
+00:06:47,740 --> 00:07:18,660
+right? You guys get the point. Here's how I can make the page more congruent. The breakthrough ad here, we already went through about, you know, this ad being easily replicable. Same with product differentiation that I showed you guys some good examples, but I did want to show you guys some examples of how you could take your breakthrough ad over here and actually change these formats, right? So here is a format change where we took the same script and we turned it into a claymation ad, right? So let's go ahead and watch this. If your dog eats grass, do this every day. Most owners don't know this, but... Right? Now let's watch the claymation version.
+
+19
+00:07:18,660 --> 00:07:40,640
+If your dog eats grass, do this every day. Now, most owners don't know this, but eating grass is a common behavior across dogs with fluctuations in their gut. Cool. So you guys can see, like, it's literally the same ad, same script. It's just different format, right? This is a winning iteration that is working for them. Now we have this one. Again, same ad, right? So this is the same breakthrough ad. Here's another iteration. We did a...
+
+20
+00:07:40,640 --> 00:08:05,570
+Pixar style. So you guys should already know this. Let me go ahead and play this one. Our dogs can't talk to us when they feel off on the inside. Instead, they show us through weird behaviors that we usually just laugh off. Now, most owners don't know this, but eating grass is a common behavior across dogs with fluctuations in their gut health. Okay, cool. So you can see here, the hook is different.
+
+21
+00:08:05,570 --> 00:08:22,820
+Right. Our dogs can't talk to us when they feel uncomfortable. Instead, they show us with weird behaviors that we usually just laugh off. And then we get to the point where it says now most owners don't know this. Well, that's pretty familiar. Now, most owners don't know this, but grass eating is a common behavior and it's the same script. But look, the hook.
+
+22
+00:08:22,820 --> 00:08:49,470
+And the format have changed. And this is a great example of potentially going up a higher level of awareness as well, right? Like here we're saying, if your dog eats grass, do this every day. That's for people who are just very aware of this thing happening, right? They might think it's a problem, they might not. But here you can see we're saying our dogs can't talk to us when they feel off inside. Any dog owner can watch that even if they're aware of their dog eating grass or not, right? So not only did they up the awareness level and go from like more
+
+23
+00:08:49,470 --> 00:09:14,300
+problem aware, I would say to more unaware, they also did a format change. And so again, you can make multiple adjustments as long as you're keeping track of what you're actually changing. Okay. And so again, this was an iteration that ended up working for them because they use this new format and they also moved up an awareness level to try to communicate this differently. Another example over here, again, exact same ad guys, same breakthrough. And just so you guys know, like this is Pet Lab Co. They sold for hundreds of millions of dollars. So these guys probably know what they're doing.
+
+24
+00:09:14,300 --> 00:09:39,890
+Right. Here's the iteration of the podcast version. My dog eats grass all the time. Every day. Yeah. And you still think that's normal. It's just grass, isn't it? So what's the big deal? Well, grass eating is actually a dog's instinctive behavior to try to balance the bacteria in there. All right, cool. So you guys can see here again, like this is following all of the same components. But what have we done? Well, we have changed the format into a podcast and we've also added more of an authority with the vet.
+
+25
+00:09:39,890 --> 00:09:55,490
+right so we're able to take this idea and amplify it now is this script word for word no it's been optimized to fit this format but again it's hitting on all of the same components okay here's another one here's a hook remake of if your dog eats grass do this every day
+
+26
+00:09:55,490 --> 00:10:24,080
+Where here, again, what do we do? We add more authority. We already went through this ad and then we add, we kind of change the valence and intensity here to why your dog's grass eating isn't normal. Now I'm a little bit more worried, right? Now let's watch this ad. I'm a dog trainer and this is why your dog's grass eating habit isn't normal. Most owners don't know this. It goes straight into the exact same hole. It's just the hook is different, right? We've remade that. We've tried to communicate this different way. We've tried to add more authority. We've shown a different visual, but we're doing it with intent.
+
+27
+00:10:24,080 --> 00:10:53,870
+OK, here's another example of, you know, moving the desires and again, shifting from this health related desire to more of a status related desire. And again, the iteration is more unaware than problem aware. Right. So if we go ahead and we watch the start of this. If you've never cleaned your washer, this will be uncomfortable to hear. Cool. If you've never cleaned your washer, this will be uncomfortable to hear. This is obviously going to go after people who aren't really aware of a problem that exists. But could it also go after people who are aware? Of course, adjusting the script. You'll notice, though, that the authority is the same. So let me go ahead and play that.
+
+28
+00:10:53,870 --> 00:11:18,800
+So my grandpa is a retired washing machine repairman. You get it, right? Same authority. We're keeping the elements from the winning ad. We're communicating it differently. Here's another example again, where we go lower, right? We go from palm aware to solution aware, but we still have the same mechanism that we're talking about as well, right? Amylase, protease, lipase, right? Like these are the three enzymes that you need to get rid of this problem. It's the same thing that we talk about later in this video as well.
+
+29
+00:11:18,800 --> 00:11:43,810
+Okay. That's another great example of going lower, but still keeping the same mechanism, the same communication style. And again, the same levels of authority too. Here's a great example of adjusting authority. So here the grandpa is the authority that fixes washing machines, right? Well, what's the authority here? It's the guy who works at the appliance store. So let's go ahead and watch this. I work at an appliance store and I need to tell you something about your washer that no salesperson is supposed to say.
+
+30
+00:11:43,810 --> 00:12:08,100
+At least once a week, again, no salesperson is supposed to say this. There's stakes to that. What aren't they telling me? Did I get robbed by someone? Like, why is this guy telling me something? And all these other people aren't, right? There's all these curiosities, all these other questions. And again, this is crucial when you have a four-minute app. These guys are masters of being able to create attention and create hooks that can maintain attention as well. Again, we've gone through this one as well. Same style of this.
+
+31
+00:12:08,100 --> 00:12:26,940
+post-event debrief, but this time it's a new story. So again, this one is the nail salon one. I'll go ahead and play it. Absolutely insane. Right? So we have that version. Now we have this one. This is an iteration. Oh my, that was disgusting. I went up to pay at the register and he told the guy in the back office, oh, there's a cute girl here with nice legs. Come look.
+
+32
+00:12:26,940 --> 00:12:55,620
+Now this one's different, right? This one even goes after almost this different kind of fear of guys who are like gawking at girls, like, oh, look at how hot this girl is, like look at her legs, whatever. Whereas this one is like the ladies are talking shit about her and like calling her fat, right? So it's like, it's a different, it goes after a bit of a different kind of fear as well. It's the same style of format here, just executed a little bit differently from a script perspective, but also from just a fear perspective as well of like different things that can happen out in public.
+
+33
+00:12:55,620 --> 00:13:24,980
+right? Here's the other iteration that we went through where now we just have a different creator, basically recreating the exact same video of this, you know, going to a nail salon, they were talking shit. Here's another one that we talked about, again, different creator coming back from wherever he was, you know, and Latinos were talking shit about him, right? We've talked about this one as well, when we already broke down the bridge on this, and we explained how this bridge over here was much better, because it has much more urgency, as much more intensity, as much more visual versus this guy who said like, Oh, don't worry, like this is this is totally common.
+
+34
+00:13:24,980 --> 00:13:54,530
+Like, no, we needed to create the intensity out. This one here as well, again, we showed the different execution styles. This is another great example of different changes that are made, okay? So this is an example of a specific visual format that is working well and a specific like hook style that is working well, but they change the messaging, right? In the original breakthrough version, they are explaining what they are trying to demonstrate versus the iteration version where they don't say anything. They just let your curiosity run wild, right? So I'll go ahead and play this so you can see it. This is your foot hitting the pavement every...
+
+35
+00:13:54,530 --> 00:14:36,640
+single step. This is steppers, the viral insoles. Cool. So you can see how that hook works. Let's check out this one. This is steppers, the viral insoles that relieve your... Hold comes in the same way, but this time we're just like, we're leaving this open to the imagination. We're like, what is going on? Why is this guy dropping eggs on these insoles, right? We're not communicating exactly what's happening. We're just allowing the brain to watch this. And it's kind of oddly satisfying, right? So again, this is important because...
+
+36
+00:14:36,640 --> 00:14:58,640
+This contradicts something that I talked about over on the loser side of that girl fixing her house, right? So now in some instances, visual only hooks with no message can work well because the visuals are not normal and they have some kind of juxtaposition, right? Eggs and insoles don't go to you. Like, why is this guy dropping eggs on this? Like, and why are they on the table? Like, this is just weird. What's going on, right? However, if you go back to the ad.
+
+37
+00:14:58,640 --> 00:15:21,680
+where the woman is fixing her house the woman fixing her house is not really that weird or it's not going to really stop a lot of scrolls and make you wonder like what's going on it's like it's pretty obvious what's going on she's like repairing her house or she's like doing a bit of a makeover right so in that instance the story voiceover version is better because it provides more context of why it's interesting whereas in this visual right the hook not having any text
+
+38
+00:15:21,680 --> 00:15:48,220
+is fine because like you're you're just kind of curious of like where is this leading to right you see this weird clip and you want to see what the payoff is right you want to see why is he dropping these eggs on it what is the reason he's doing this because this is not normal why is he doing this and then you get to the point where he's able to explain like what this represents okay that is the payoff and the final one over here this is another great example of an old breakthrough ad that's in the winning ad stock with a winning iteration okay again i'll go ahead and play this
+
+39
+00:15:48,220 --> 00:16:10,140
+Three red flags of vitamin deficiencies in kids. Only wanting chicken nuggets. Perfect. That's how that hook and how that bridge goes. Let's watch the winning iteration. This is what a nutrient deficiency looks like in a kid. And most parents never. Kind of hard to listen to. My ears just got ripped there. But again, in this breakthrough version, we have a very simple, hey, three red flags of vitamin deficiency.
+
+40
+00:16:10,140 --> 00:16:19,410
+And as I've mentioned before, this makes someone want to stop and watch the video to make sure that their kid doesn't have vitamin deficiencies, where this iteration is more of a direct approach.
+
+41
+00:16:19,410 --> 00:16:42,510
+where it shows the kid screaming plus a very, you know, like ear popping, you know, audio and the hook of this is what nutrient deficiency looks like in a kid. And so we're getting straight to the point where it's like, there's this thing that a lot of parents don't like. This is what nutrient deficiency looks like in a kid. And it's a kid having a fit. And so now I'm combining these two things of like, hey, I just thought my kid was having a fit.
+
+42
+00:16:42,510 --> 00:17:09,150
+This is actually a nutrient deficiency? Okay, now there's curiosity. Obviously, parents don't enjoy seeing that kind of behavior from their kids, and they potentially wonder why their kids are doing that. So when they are told that this could be a vitamin deficiency, and most parents never connect the dots, and she is obviously somewhat in authority because she is a parent who has done that, right? She says most parents never connect the dots, and then she starts to state facts, right? Did you know that a child's brain is still developing well into their school years? It's like, well...
+
+43
+00:17:09,150 --> 00:17:37,100
+But again, she's just stating a fact, right? You can't really argue with her. It's like, okay, well, that's a fact. And then she says, that's even why small nutrient gaps can have a big impact, right? And then they're just showing these clips of kids driving their parents crazy, right? This sets you up to want to continue to watch the ad to figure out how to solve the problem because they're very visually and with audio showing the problem that exists and then stating this is a nutrient deficiency. This is what it looks like. And now you're able to label this like, oh, I thought my kid was just having a fit.
+
+44
+00:17:37,100 --> 00:17:48,080
+like this is something deeper okay i need to figure this out so it's a great example of a different execution around the same angle same components same everything it's just the execution is different all right so
+
+45
+00:17:48,080 --> 00:18:10,020
+With all that said, I hope that you guys have enjoyed this series. I've actually one take this whole thing. So hopefully all of it was easy. Hopefully I didn't make too many mistakes while I was talking because I've been talking for about six hours right now and I need to go catch a flight. But I hope you guys enjoyed this series. And if you guys want to see more of these iteration breakdowns, let me know. Obviously I've tried to give as many examples as I have. I mean, this.
+
+46
+00:18:10,020 --> 00:18:30,820
+slide deck has like 30 plus examples in it to hopefully show you guys visually what it looks like. I figured that would be easier rather than watching me write a script. It's like, let me just show you the differences. And a lot of the times, guys, you have to understand that because I have NDAs with clients, any scripts that I write or any scripts that my team writes, I can't show them, which kind of sucks. And I'm not going to have my team go and write scripts for companies.
+
+47
+00:18:30,820 --> 00:19:00,080
+that like we can't test the ads and get the data back on. And I don't even know if the script would be a winner. So it's a little bit frustrating and it's hard, but what I'm gonna do and what I'm working on after this is just like basically hook templates. So any of our ads that have become breakthroughs or any ads that we're talking about that become breakthroughs, I'm gonna try to turn those into hook templates for you guys. And I'm very excited to do that. But with that said, I hope you enjoyed this series and I look forward to hopefully seeing a lot of you guys finding a lot more breakthroughs as a result and starting to turn your losers, KPI winners and spend winners into ads that can print money for you.

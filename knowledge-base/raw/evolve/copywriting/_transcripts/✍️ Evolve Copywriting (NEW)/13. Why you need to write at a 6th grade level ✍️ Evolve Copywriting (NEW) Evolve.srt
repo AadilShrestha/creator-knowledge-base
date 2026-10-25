@@ -1,0 +1,159 @@
+1
+00:00:00,000 --> 00:00:04,660
+I guess in this video, no fancy slideshow, just very simply why you need to write at a sixth grade
+
+2
+00:00:04,660 --> 00:00:08,800
+level. And I don't really need to over explain this because it's been proven by so many different
+
+3
+00:00:08,800 --> 00:00:12,640
+people that you just need to keep your writing simple. Okay. And so the tool that we use is
+
+4
+00:00:12,640 --> 00:00:17,340
+called the Hemingway app. So you can go to the Hemingway app and you can paste your text in there
+
+5
+00:00:17,340 --> 00:00:22,680
+and it will actually tell you what grade level it's at. Okay. And the reason why we do this is
+
+6
+00:00:22,680 --> 00:00:26,440
+because your customers don't want complicated language. They don't want to feel like they're
+
+7
+00:00:26,440 --> 00:00:31,560
+reading a fricking research report, whenever you send it, send them or show them your ad. Okay.
+
+8
+00:00:31,660 --> 00:00:36,080
+They want easy to understand everyday language that you would use. So speak with them that way,
+
+9
+00:00:36,120 --> 00:00:39,660
+right? You don't want to try to sound smarter than you actually are. There's no point in doing it.
+
+10
+00:00:39,700 --> 00:00:43,940
+There's no benefit in doing it. Okay. And so when you use the Hemingway app, what you are aiming for
+
+11
+00:00:43,940 --> 00:00:50,160
+is grade six or below. And again, Claude is your friend on this and, you know, use Claude as we
+
+12
+00:00:50,160 --> 00:00:56,000
+will talk about with caution. But my point is, and what I mean by caution is like, don't just take
+
+13
+00:00:56,000 --> 00:01:01,080
+whatever it gives you, like actually analyze it. All right. Because for example, when you upload a
+
+14
+00:01:01,080 --> 00:01:05,540
+script and it's like, oh crap, this is like 11th grade reading level because you guys wrote a VSL
+
+15
+00:01:05,540 --> 00:01:09,240
+that's, you know, trying to change everybody's mind. But it's like, if your language is too
+
+16
+00:01:09,240 --> 00:01:13,340
+complicated, like nobody's going to understand. Okay. And just to show you some examples, it's like,
+
+17
+00:01:13,360 --> 00:01:17,280
+okay, here's an ad here where you can see, I just copied this text and I paste it in here.
+
+18
+00:01:17,280 --> 00:01:21,500
+And this is at a grade five. It's like, okay, great. It looks like Hemingway is like optimizing this
+
+19
+00:01:21,500 --> 00:01:24,940
+as well. They got like some editor plus we haven't played with this yet. But again, yeah,
+
+20
+00:01:24,940 --> 00:01:30,760
+you can look at words with a simpler alternative, or you can check out, you know, Hey, this is a hard
+
+21
+00:01:30,760 --> 00:01:34,340
+to read sentence. And what's really cool about Hemingway as well. And I'm going to show you guys
+
+22
+00:01:34,340 --> 00:01:38,680
+this too, is like, it'll also tell you when it's just hard to read. So some of you guys just like
+
+23
+00:01:38,680 --> 00:01:45,180
+throw blocks of texts like this into your ad, like you'll have a big paragraph of text. And look at this,
+
+24
+00:01:45,200 --> 00:01:52,220
+like the readability of this is grade 13. Okay. And if you just format it in a clearer way,
+
+25
+00:01:52,220 --> 00:01:57,320
+it goes all the way down to grade five, this is the exact same text. It's just simplified down and
+
+26
+00:01:57,320 --> 00:02:03,760
+it's easier to read. Okay. And so it's not just about the words that you're using. It's also about
+
+27
+00:02:03,760 --> 00:02:11,240
+the actual format that it's in. Okay. Same thing here, like alleviate might be too much of a, of a,
+
+28
+00:02:11,500 --> 00:02:16,860
+you know, big word for them. Or like, again, vital, vital plus ice baths are designed to fuel your
+
+29
+00:02:16,860 --> 00:02:21,580
+progress, like feel your part. What does that even mean? That's so trippish. But anyways, like you get
+
+30
+00:02:21,580 --> 00:02:25,460
+the point, right? This is the sentence is hard to read, right? Cools, waters, those three degrees
+
+31
+00:02:25,460 --> 00:02:30,840
+save thousands and ice bath anywhere, anytime military grade to build for durability. Okay.
+
+32
+00:02:31,040 --> 00:02:35,780
+Again, this copy is a copy that, you know, they haven't been to the copywriting program yet. But my
+
+33
+00:02:35,780 --> 00:02:39,940
+point is, is use Hemingway. There's not much more than I need to add than that. It'll help you
+
+34
+00:02:39,940 --> 00:02:43,640
+simplify your writing down. It'll tell you where things are overly complex because again, if you're
+
+35
+00:02:43,640 --> 00:02:49,100
+overly complex, it just doesn't benefit you, right? Like nobody is going to be mad if something is
+
+36
+00:02:49,100 --> 00:02:52,880
+easy to read. But if something isn't easy to read or something isn't easy to follow,
+
+37
+00:02:53,280 --> 00:02:57,220
+there more people are going to be mad. Okay. I've never complained about like, oh, wow, that was such
+
+38
+00:02:57,220 --> 00:03:02,240
+a simple and easy sentence to read. So just use Hemingway. It's your friend. Whenever you write
+
+39
+00:03:02,240 --> 00:03:05,780
+a brief, whenever you write a script, drop it in there and just check it again. This will be part
+
+40
+00:03:05,780 --> 00:03:07,620
+of the copywriting toolkit for you guys as well.

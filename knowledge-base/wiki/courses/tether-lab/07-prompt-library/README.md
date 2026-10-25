@@ -6,6 +6,7 @@ module: 07-prompt-library
 order: 7
 video_length: "4:37"
 sources:
+  - "raw/tether-lab/_extracted/7. The Prompt Library/0_Video_Tutorial_How_To_Use_The_Prompt_Library_The_Prom.md"
   - raw/tether-lab/7. The Prompt Library/
   - raw/tether-lab/_extracted/7. The Prompt Library/
   - raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md

@@ -1,0 +1,183 @@
+1
+00:00:00,000 --> 00:00:22,130
+All right, we have made it to the breakthrough ad iteration, which is now is where all the fun starts. Now, just to be clear, this is going to talk about what can potentially go wrong with breakthrough ads. And the number one issue with breakthrough ads is time. Okay, so the problem that we're trying to solve here is the ad is a breakthrough, but it's dying too fast. And you aren't sure on how to actually dissect and iterate on the ad to create more breakthroughs.
+
+2
+00:00:22,130 --> 00:00:51,520
+First thing I'm gonna talk about here is like the ad is dying too fast. That's what this is gonna talk about. And then we're gonna get into, you know, the iterations on the script side and the format side here as well with tons and tons of examples. But when an ad is identified as a breakthrough ad, you've accomplished step one of scaling your brand. So as I say here, give yourself a pat on the back, give your team some praise. Hey guys, we just created an ad that took us from $2,000 a day in spend to 2.5K per day in spend or 4K per day in spend or 5K per day in spend.
+
+3
+00:00:51,520 --> 00:01:15,200
+That is sick, okay? Now our goal is to study the fuck out of that ad and learn why it is working to correct your lens and make better ads. But again, it's important that you celebrate the Ws when they come in in order to tell your team, like, this is what we want to do more of and get them addicted to that feeling of seeing the ad account scale. However.
+
+4
+00:01:15,200 --> 00:01:44,560
+Now that you've accomplished creating a breakthrough, you can't just sit back and relax. You now have to push harder than before. All of the hard work that you've done to crack the breakthrough angle and the execution style to get that angle to work. Again, these are the two biggest variables. Is this angle scalable? And is the way that I'm communicating this angle right? Okay? When you land on both of those, you get a breakthrough. Okay? So all of that hard work that you've done, all of the models that you watch, all of the research you've done, all that kind of shit, right? It's going to go to waste unless you actually learn
+
+5
+00:01:44,560 --> 00:02:12,460
+how to analyze your ad correctly, okay? And so now we're gonna touch on breakthrough iterations that are needed in the following modules below, as I mentioned. However, it's important that we discuss the one issue that is inevitable after creating breakthrough ads, and it is really everybody's worst nightmare, okay? You go from, I'm about to buy a new SVJ to, oh my gosh, I can't afford rent, okay? And that thing is called ad fatigue, okay? These breakthroughs, they don't last forever, right? Ad fatigue, aka what we call the time issue, is a real thing.
+
+6
+00:02:12,460 --> 00:02:33,150
+OK, so depending on the type of breakthrough that you've created, sometimes the ad fatigue can hit a lot faster than people expect. And honestly, like truthfully, guys, as of late, I have noticed in the last year and a half that ads die way faster than how it used to be. OK, in like 2023, 2024, we would have breakthroughs that would last an entire year.
+
+7
+00:02:33,150 --> 00:02:58,750
+Now, it does depend on a few variables that I'm gonna talk about below, but for a lot of you guys, if you're dropshipping, you don't have a lot of differentiation and all those things that we're gonna get into, your ads, unfortunately, are going to die faster than you would hope to have them die, okay? So that's why you need to dissect it better than your competitors so you can learn and replicate that success that you just had. Rather than getting lucky, you're actually able to repeat the process, okay? So for example,
+
+8
+00:02:58,750 --> 00:03:25,630
+Some breakthrough ads that we've created have continued to get spend and performance for six plus months, whereas others have lasted two to three weeks before they start to come crashing down. And instead of maintaining that new level of ad spend that you got to, you have to scale back down to pre-breakthrough level. So again, you were spending 2K a day at a 2X ROAS. You launched an ad. It increased your ROAS to 3.5. You were able to double your budget. Now you're at 5K. Two to three weeks go by.
+
+9
+00:03:25,630 --> 00:03:53,470
+Now you have to start scaling back down to the 2.5K because the breakthrough ad is dying, okay? That's not ideal. It's extremely frustrating. But at the end of the day, we're gonna show you guys how to fix this. Now, all of a sudden, the holy grail breakthrough ad that was absolutely ripping for you is not like a ripping. You have no idea how that's possible. And as a result, you usually start spamming hook iterations or format iterations that you think are better, but they don't convert. The number one mistake a lot of people make after finding a breakthrough is this. When they see a breakthrough ad starts to slow down and they see the ROAS drop,
+
+10
+00:03:53,470 --> 00:04:22,580
+and they see the CPA infalte, they see the CPA inflate, they turn off the breakthrough. And I'm telling you guys like, oh, you just have to be so careful doing this, okay? If you have an ad that helped you double your budget and it was, you know, kept you there for like three, four weeks or a month, and then it has a few bad days, say it starts to slow down a little bit, and then you turn it off. I'm telling you, you are doing more damage to your account than you know, okay? Your ads earn respect.
+
+11
+00:04:22,580 --> 00:04:52,590
+Okay. Just like how maybe you're willing to sit here and listen to me. Maybe I've earned your respect on wanting to learn from me. Whereas if I was just a random nobody with no track record, you might not care about what I'm talking about here. But my point is, is like your ads do the same. Your ad earns respect by ripping in your ad account for a month plus. If it has a few bad days, you know what? You just, you let it have those few bad days and you see if it could pick itself back up. Even then, sometimes we let breakthrough ads run for a week.
+
+12
+00:04:52,590 --> 00:05:06,860
+Because I don't want to let one bad week destroy my entire ad account. Because so many times we have seen ads have a bad few days or a bad week. We do nothing. And then the next week, performance jumps back up and we're all good. Okay? And so just...
+
+13
+00:05:06,860 --> 00:05:36,190
+please, please, please be careful. The only time we usually actually turn off breakthroughs, and again, every single week that your ad stays at its scale and stays at that KPI with whatever you got it up to, we usually count that as like, all right, this ad is earning more of its stripes and it gets more leeway when it comes to turning it off. If I have an ad that skyrockets for three days and then crashes for a week, it's earned less of my respect. But if an ad has been crushing for three weeks and then it has one bad week, I'm more willing to leave that ad on.
+
+14
+00:05:36,190 --> 00:06:06,160
+Okay. Now I know I'm not talking about iterations here, but this is super important for you guys to consider. Okay. Because again, turning these off can be catastrophic to your ad account. And especially at the new scale that you've got to, you have to understand that if an ad help you get to that scale, it's probably going to help you maintain it. Because if you turn that ad off and you have no other ads that are winning, you're just going to go back down to your pre-breakthrough levels. And that's when we see people just do so much damage to their account. So don't do that. Okay. If an ad has been running for a long time, give it a little bit more leeway.
+
+15
+00:06:06,160 --> 00:06:32,270
+before you turn it off, okay? Hopefully that makes sense. Now, when it comes to how long breakthrough ads can actually last, here's a list of all of the things that will typically cause your breakthrough ad to have a shorter lifespan so at least you guys can be aware of it and be proactive and why it's not able to sustain that breakthrough scale for months on end. Number one, the ad can be easily copied or has a low barrier of entry to make. If you have a native ad that ripped in your account, well, anybody else can copy that, okay? When ads are easy to make,
+
+16
+00:06:32,270 --> 00:06:57,220
+It means they're easy to replicate. And again, sometimes you might actually do a lot more effort to create a native ad. But if you just did the same Higgs field, give me a random image, Claude, take this script from these other winning native ads from these other brands and write me my own script for my product. If you just did that, what's stopping someone else from doing that? Everybody in dropshipping knows how to do that. So it's like, if it was an ad that didn't really take your brain to make, it means that someone else without a brain can also make it.
+
+17
+00:06:57,220 --> 00:07:09,920
+Okay. So when ads are easy to replicate, it typically means it's not going to sustain performance for a very long time, especially in competitive markets because it will be copied by someone else. And sometimes native ads get a bad rep for me. Okay. Because of the fact that.
+
+18
+00:07:09,920 --> 00:07:39,220
+This is what a lot of people who don't really understand marketing, they just do and they kind of get lucky. There are people and there are brands in Evolve that actually have a dialed fucking process that other people, like people with no brains, don't know how to copy. And they have a method to their native ads that actually requires strategy and thought and process. Same thing with their AI UGC that they potentially make. They have a strategy and a process that is not copy-paste, okay? And so if you don't have an actual process for these native ads or for these easy-to-make ads,
+
+19
+00:07:39,220 --> 00:08:01,230
+They're not going to last that long because it just means somebody else is going to copy you, okay? And this can happen even faster if you lack strong product differentiation, which we're going to get to down below. Another reason why an ad might die super fast is if you just copied it from a direct competitor, okay? If you just copy someone else's ad and you didn't really think about what you were doing and you didn't make something your own or you didn't really go deeper other than just claw and make this for me, it's going to be easy for someone else to just copy you back.
+
+20
+00:08:01,230 --> 00:08:22,580
+okay and then they pull market share back and you go through this war of like you copy your competitor and now you found a winning ad and then your competitor copies you back and now they have a better winning ad and then you copy them and then now you have a better winning ad and then they copy you again now they have the better winning ad and it's just this you know heavyweight bout or you know just this boxing match of going back and forth on who who has the winning ad for a specific period of time
+
+21
+00:08:22,580 --> 00:08:44,190
+Okay. Number three, the ad is going after more of a niche sub avatar and angle that doesn't have a very scalable TAM. Okay. In reference to the avatar training, if you're going after very niche pain points and specific issues, it's not a bad thing, but you're going to run into a scale issue. It's only going to be able to scale you so far. Okay. Which is why iterations become very important to do. Now, fourth is the ad is purely offer focused or most aware.
+
+22
+00:08:44,190 --> 00:09:13,250
+Now, if you created an ad that is more offer-focused or bottom of the funnel, again, it might perform extremely well for a few days or for a week, and it might actually help you scale the account. However, once you clear out that funnel, the ad will likely struggle to sustain scale. I'll give you an example of this. I can't show it, but we had an ad get launched, and I shit you not, it collected $27,000 in spend the first day it was launched, and our budget for that campaign was $28,000. It sucked up like 98% of spend. That ad,
+
+23
+00:09:13,250 --> 00:09:40,180
+basically two or three days later, just fell off a cliff because we neglected bottom of funnel for so long that someone made one bottom of funnel ad and it just absolutely ripped, okay? But that said, again, there are times where offer ads can stay as strong KPI winners in the account with extremely efficient ROASs and numbers. And a lot of times it doesn't mean you throw those ads off. But again, you might have an offer ad that crushes for seven days and then comes back down and is just a KPI winner. That's totally okay.
+
+24
+00:09:40,180 --> 00:10:07,860
+right? Because a breakthrough ad doesn't stay as a breakthrough ad for a long period of time. Doesn't mean it's a bad thing as long as you're finding other breakthroughs, which again, you will hopefully do as a result of going through the modules to follow. You just need to understand that again, sometimes these more bottom of funnel offer focused ads will not have the longest lifespan. Okay. And then also seasonality is a real thing, right? We used to create ads for, you know, the humidifier brand January and February, bro, they would spend 60K a day. We come to July, we were lucky if they spent 6K a day, right? Seasonality.
+
+25
+00:10:07,860 --> 00:10:28,530
+is a real thing. Same thing with gifting angles and all that kind of stuff. A lot of you guys crack in Black Friday. You guys think you're SVJ by the time you finish, you know, Black Friday, January hits and you're cooked because those angles are just out of season. Below, you will find examples that show you the type of ads that are easily replicable, lack product differentiation and go after a small tam. With that said,
+
+26
+00:10:28,530 --> 00:10:55,470
+Now that you have been able to crack a breakthrough ad, the most important thing for you to do is to begin the iteration process, okay? The iteration process we will cover in the next module starts with really breaking down the ad and reviewing your ads, as you guys saw in the 10-step iteration process, and being able to identify the components that are making the ad work and strategically applying them or optimizing them in other formats and in the script is what will help you get the most out of the breakthroughs, which is why we take time to, especially with breakthroughs, you have no excuse to not.
+
+27
+00:10:55,470 --> 00:11:22,740
+dissect the hell out of your breakthrough to identify all the components so you can create more ads with those components, okay? And if done correctly, you can have one single breakthrough lead to multiples of others of breakthroughs that could scale you way past 100K days. There are tons of examples of this in my YouTube channel where you hear people, they first hit their 100K per day, and then a week or two weeks later, they go from 100K per day to 150K per day, 200K per day, 250K, right? They just...
+
+28
+00:11:22,740 --> 00:11:51,200
+massively scale because they're able to crack an ad that gets them to a hundred K days. And then they understand the iteration process and they understand how to do the breakthroughs that will actually lead to more. Okay. So with that said, ad types, we'll do iterations on when it comes to breakthroughs, all of them, we always do iterations. Okay. Now what holds breakthrough ads back? Tam issue, even though the ad is a breakthrough, it might not be a long-term breakthrough due to the angle messaging or labels that are too niche or specific. So for example, with Marsman.
+
+29
+00:11:51,200 --> 00:12:19,790
+right? They have a breakthrough on the considering TRT angle. However, that might not be as big as their breakthrough on their beer belly angle. As I would assume, again, I haven't done the facts, but more men are probably dealing with the issue of having a beer belly than considering TRT. So it doesn't mean that it's a bad thing. It just means that some angles are just going to be able to be more scalable than others. You guys have seen both these ads. You guys want to click the link. You can. The next thing on here is easily replicable. Okay. Most of the time.
+
+30
+00:12:19,790 --> 00:12:43,180
+If your breakthrough ad is dying out quickly, it just means that it could be easily replicated or ripped by competitors. We already talked about that, but instances of this are native ads or other very low effort ads. And again, this gets amplified even more, especially if you have a product or brand that lacks differentiation. I explain that down below, which makes it even easier for competitors to copy your claims. Now, here's an example of this, right? So this is an ad that is easily replicable, okay?
+
+31
+00:12:43,180 --> 00:13:12,980
+Native ads are some of the most common time issue ads that exist. And don't get me wrong, they can scale your brand extremely hard, as I always say, and they can also scale you extremely fast because of how much engagement they get and how much they're able to get people to like pay attention. But at the end of the day, they are incredibly easy to copy because anybody can just regenerate a weirder, a different, more eye-catching image and grab your copy and feed it to AI and have it replicated almost one-to-one in a way that is potentially even more interesting or has a crazier story.
+
+32
+00:13:12,980 --> 00:13:38,370
+Because a lot of these are fake. Nobody's actually relying on real customer success stories or real imagery, which makes it incredibly hard for you, especially, big emphasis here, if you don't, again, have strong product differentiation to separate yourself from these people. So for example, I could just take this ad and just, all right, let me put up some more warning tape or let me make this house look like it's falling apart. Maybe I put this house on fire. Everybody's making shit up. Like, you know what I'm saying? Like, this is not a real photo.
+
+33
+00:13:38,370 --> 00:14:00,990
+People just make this shit up. So what's stopping me from making this weeder? And drop shippers are, they're fucking demons a lot of them, bro, right? Like they just do crazy shit. They have no moral compass. They don't give a fuck. They'll go crazy. They might just have a person in the back of the truck. Like they'll do crazier. They'll do crazier shit than you. And as a result of that, they're going to get more attention. Okay. And so you have to understand.
+
+34
+00:14:00,990 --> 00:14:22,270
+that the easier it is for you to do something and the more easy it is for someone else to take these and do even crazier shit and just have Claude copy your copy word for word, it just means that it's easy for everyone else to do it because it doesn't take a lot of thought process, it doesn't take a lot of brain power, okay? A lot of the time you do all the heavy work and then someone else just copies you, okay? And that's always going to be a thing with these native ads. So a lot of the time...
+
+35
+00:14:22,270 --> 00:14:45,740
+the barrier to entry for you to create your breakthrough ad. So how much it actually took for you to create the breakthrough ad makes it harder for them to copy, okay? The amount of effort, energy, and basically differentiation that you have in your development process or your ad creation process is what will dictate how good it's actually going to be. The best part about native ads though is if you guys actually learn this process of how to dissect them, more or less how to dissect the...
+
+36
+00:14:45,740 --> 00:15:10,350
+copying what it's doing, you're going to have a huge advantage because your competitor doesn't know how to do that. So if you crack a winning native ad, you just dissect it. You're like, all right, time to do an AI voiceover, time to do an AI animated ad, time to do a text on screen. You just do all these different formats with the same idea and with hitting on the same components. Okay. I have another example here as well with product differentiation, which we're going to get into and no shade to this person's brand. Product differentiation, another issue.
+
+37
+00:15:10,350 --> 00:15:28,060
+that we see with breakthrough ads that die very quickly is that the brand and products itself lacks positioning or differentiation. We have seen so many people say, I just had a breakthrough ad and now it's dead. Well, especially with AI nowadays, it doesn't take long for someone to build a store, copy your ads and launch the exact same product instead of Facebook and steal market share. Okay. That's an unfortunate part.
+
+38
+00:15:28,060 --> 00:15:44,670
+For those who do not have a strong brand or a clear product differentiation factor, I've said that a hundred times already, but it's a real reason why breakthrough ads will die faster than usual. And so if we jump back in, for example, this is again, a native ad for a product that sells, you know.
+
+39
+00:15:44,670 --> 00:16:14,060
+water fountains, okay? No shade to whoever's brand this is because obviously they're still scaling and they're getting spent. But this is an example of bad product differentiation because there really isn't anything different between this cat fountain and the dozens of other cat fountains that I can find, okay? And in fact, some of them look the exact same. Like this is the exact same as this and it's the exact same as this. There's not even a visual differentiation. They look visually the exact same. Yet this one is $89 and this one's $29. And even this one over here is $27.
+
+40
+00:16:14,060 --> 00:16:29,950
+Okay. And so as you can see from the Google search below, essentially the exact same fountain can be found from Chewy or Petco for third of the price. Not to mention that there just isn't a lot of differences here to separate it from other dropshippers selling the same product or people coming in and just grabbing this product from Alibaba and...
+
+41
+00:16:29,950 --> 00:16:59,340
+you know, throwing it in there. Whereas you look at a brand like Pet Me Bro, they've developed their own cat phones. And so like theirs visually just looks different. And like they might have other components that maybe monitor your cat's health, all these other different things, right? And so again, I know you guys can make money with this, but it's not a long-term thing. That's why you're always relied on getting the next best ad. And you're in this constant cycle of chasing this next best native ad, next best native ad, or next best product, right? And so that's why I'm trying to help you guys understand why this is sometimes painful for you.
+
+42
+00:16:59,340 --> 00:17:24,340
+depends what kind of pain you want to deal with right sometimes this is a great way to stack up some cash but if you're tired of dealing with this well then it's maybe time to add some differentiation to your product and improve your ad process okay so that is everything in regards to how to not really iterate on breakthroughs but how to like understand the difference between breakthroughs that last a long time and ones that don't and i actually do have an example here as well that i want to go into that shows you like a good example of this where here's
+
+43
+00:17:24,340 --> 00:17:47,420
+good product differentiation with the native ad and here's a native ad that can't really be copied because this actually is a real photo even though ai could make this this is a real story that exists and at the end of the day their product has differentiation right this brand sells these like urns that turn into plants right you can't really find that on alibaba right i'm sure somebody would probably find a way to do it but at the end of the day it's very hard to copy this
+
+44
+00:17:47,420 --> 00:18:00,510
+and have the same brand and the same presence that this ad has, okay? Same thing with CarePod, right? This is a breakthrough ad that lasted for over two years. CarePod over here has been cranking on this ad, right? We actually made this ad for them.
+
+45
+00:18:00,510 --> 00:18:29,310
+To copy this ad, you would obviously have to have the same nurse. You would have to do all this kind of stuff. And obviously it's going to get to the point where AI can probably just replicate this one-to-one. But the point is, is that the product itself has immense amounts of R&D and the brand itself has become more well-known. And so for you to copy this ad is extremely hard. It's great product differentiation. It's a great ad. This nurse recommends this specific product. And this is all our own content. We all do this ourselves. This is not made with AI. You can see it's branded a care pod, right? It's thoughtfully designed, it's award-winning, all this kind of stuff. We have all of this.
+
+46
+00:18:29,310 --> 00:18:49,900
+things that create a moat for us as a brand which makes it harder for people to copy our shit okay and this is why this ad has ran for over two plus years that is again how to you know understand breakthroughs now we get into what i'm sure everybody's looking to get into which is the iteration playbook from a script level and a format level cannot wait to show you guys

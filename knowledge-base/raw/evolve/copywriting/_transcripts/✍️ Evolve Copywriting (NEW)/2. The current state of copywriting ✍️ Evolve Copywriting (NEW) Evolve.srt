@@ -1,0 +1,967 @@
+1
+00:00:00,000 --> 00:00:05,080
+All right, in this video, we are going to be talking about the current state of copywriting.
+
+2
+00:00:05,260 --> 00:00:08,680
+Now, I know this is listed as module one, it probably won't be module one, but we're
+
+3
+00:00:08,680 --> 00:00:10,580
+going to go ahead and get started here.
+
+4
+00:00:10,740 --> 00:00:15,640
+So this is a very visual picture that I think is probably going to resonate with some of
+
+5
+00:00:15,640 --> 00:00:23,620
+you, but also is just kind of showcasing how people who are winning and how people
+
+6
+00:00:23,620 --> 00:00:29,980
+who are actually out marketing everybody in the actual industry right now.
+
+7
+00:00:30,880 --> 00:00:32,500
+Basically, this is what this represents.
+
+8
+00:00:32,720 --> 00:00:41,160
+If you want to see where the 99% of e-commerce brands are and where the top 1% are, this is
+
+9
+00:00:41,160 --> 00:00:43,500
+maybe even top 0.1%, to be honest with you.
+
+10
+00:00:43,740 --> 00:00:45,380
+This is where they are in the blue, okay?
+
+11
+00:00:45,600 --> 00:00:51,600
+And the only difference is that the people in the blue are people who use AI to write
+
+12
+00:00:51,600 --> 00:00:55,100
+copy who also understand copywriting, right?
+
+13
+00:00:55,140 --> 00:01:01,180
+And that is one of the biggest drivers for why I am doing this and why I personally am
+
+14
+00:01:01,180 --> 00:01:04,580
+doubling down so much on this skill that is so old.
+
+15
+00:01:04,960 --> 00:01:08,620
+Everybody thinks is like, oh, copywriting is dead.
+
+16
+00:01:08,700 --> 00:01:09,740
+Like you don't need it anymore.
+
+17
+00:01:09,920 --> 00:01:10,900
+AI can just do it all.
+
+18
+00:01:11,140 --> 00:01:14,380
+And I just feel like that couldn't be more wrong.
+
+19
+00:01:14,640 --> 00:01:19,680
+Right now, I think most companies, they don't understand really what is going on in the space
+
+20
+00:01:19,680 --> 00:01:26,140
+and like just the actual volume of how much information and how many words these customers
+
+21
+00:01:26,140 --> 00:01:31,500
+consume on a daily basis, whether that's online through social media where your ads are running
+
+22
+00:01:31,500 --> 00:01:35,700
+or that's on Netflix or it's reading, you know, for some of them still reading magazines and
+
+23
+00:01:35,700 --> 00:01:39,780
+newspapers or for other people literally just watching, you know, on the younger generation,
+
+24
+00:01:39,980 --> 00:01:41,500
+watching streamers all day long.
+
+25
+00:01:41,640 --> 00:01:41,840
+Okay.
+
+26
+00:01:41,840 --> 00:01:48,100
+And the thing is, is that most of you guys have very little to say, and not only do you
+
+27
+00:01:48,100 --> 00:01:51,500
+have very little say, you're actually very bad at saying it.
+
+28
+00:01:51,740 --> 00:01:53,080
+And I love this quote.
+
+29
+00:01:53,200 --> 00:01:57,320
+I stole this from Harry and you guys will see the credits after every single slide here.
+
+30
+00:01:57,480 --> 00:02:01,200
+So if some of this is familiar to you, it's because I've learned it from very smart people.
+
+31
+00:02:01,640 --> 00:02:03,500
+But nothing said well is still nothing.
+
+32
+00:02:04,720 --> 00:02:05,160
+Okay.
+
+33
+00:02:05,500 --> 00:02:09,520
+And so what I want to jump into today, just to help you kind of understand like the biggest
+
+34
+00:02:09,520 --> 00:02:14,140
+problems in copywriting and why this is seriously a problem that you need to solve for.
+
+35
+00:02:15,060 --> 00:02:19,180
+And just going to kind of walk through them to help you understand probably the mistakes
+
+36
+00:02:19,180 --> 00:02:23,460
+that you're making, but more importantly, why, again, we are going so deep into this.
+
+37
+00:02:23,580 --> 00:02:28,260
+So number one, most people are content writing, not copywriting.
+
+38
+00:02:28,560 --> 00:02:32,240
+And what I mean by that is most marketers are not actually copywriters anymore.
+
+39
+00:02:32,500 --> 00:02:33,520
+They are content writers.
+
+40
+00:02:33,680 --> 00:02:33,900
+Okay.
+
+41
+00:02:33,920 --> 00:02:36,120
+You guys know that you have ads that you need to make.
+
+42
+00:02:36,200 --> 00:02:38,260
+And so you write copy that fills those ads.
+
+43
+00:02:38,260 --> 00:02:40,560
+That is what majority of you do.
+
+44
+00:02:40,880 --> 00:02:41,000
+Okay.
+
+45
+00:02:41,020 --> 00:02:44,880
+You've got to make a certain amount of creatives every single week, every single month.
+
+46
+00:02:45,180 --> 00:02:48,400
+And so you've got to fill those ads with something because those are your deliverables.
+
+47
+00:02:48,880 --> 00:02:49,020
+Right.
+
+48
+00:02:49,540 --> 00:02:54,940
+And the problem here is you just, if you do that and you follow that process, which is
+
+49
+00:02:54,940 --> 00:02:58,740
+again, something that we still teach, but we are trying to build the infrastructure
+
+50
+00:02:58,740 --> 00:02:59,880
+around us to go deeper.
+
+51
+00:03:00,140 --> 00:03:05,660
+Essentially, if you do go deeper, you transition from a content writer to an actual copywriter.
+
+52
+00:03:05,800 --> 00:03:06,000
+Okay.
+
+53
+00:03:06,000 --> 00:03:10,900
+And so a content writer is someone who just writes words that are educational or entertaining
+
+54
+00:03:10,900 --> 00:03:13,000
+and give information on a topic.
+
+55
+00:03:13,120 --> 00:03:13,300
+Right.
+
+56
+00:03:13,420 --> 00:03:17,820
+A lot of you guys are just out there providing information to you, information to users.
+
+57
+00:03:17,820 --> 00:03:19,440
+Like that's what you guys do.
+
+58
+00:03:20,100 --> 00:03:26,940
+Whereas a copywriter is someone who writes something that reinforces a position or establishes
+
+59
+00:03:26,940 --> 00:03:35,500
+one in the user's mind and can influence her and can influence a behavior, AKA get the user
+
+60
+00:03:35,500 --> 00:03:37,020
+to actually take action.
+
+61
+00:03:37,020 --> 00:03:42,820
+And so this is the biggest difference between copywriters and people who just think they're
+
+62
+00:03:42,820 --> 00:03:47,120
+copywriting, but they're not like, if you are actually copywriting, you are influencing
+
+63
+00:03:47,120 --> 00:03:47,980
+behavior.
+
+64
+00:03:47,980 --> 00:03:48,480
+Okay.
+
+65
+00:03:48,480 --> 00:03:54,180
+And you are likely reinforcing a position or establishing a position in a person's mind.
+
+66
+00:03:54,180 --> 00:03:59,420
+And so that is the difference between people who just write words versus people who actually
+
+67
+00:03:59,420 --> 00:04:02,520
+write words that do that means something and do something.
+
+68
+00:04:02,520 --> 00:04:03,020
+Okay.
+
+69
+00:04:03,020 --> 00:04:08,140
+And again, the goal of copywriting is get somebody to do the action that you want them to do.
+
+70
+00:04:08,180 --> 00:04:08,320
+Right.
+
+71
+00:04:08,320 --> 00:04:09,480
+You want to influence them.
+
+72
+00:04:09,480 --> 00:04:09,800
+Right.
+
+73
+00:04:09,800 --> 00:04:13,100
+When you're writing content, you're not really trying to influence people.
+
+74
+00:04:13,100 --> 00:04:15,260
+You're just providing content to people, right?
+
+75
+00:04:15,260 --> 00:04:20,560
+Like a movie, maybe it has like this, you know, like a great, great movie, interstellar
+
+76
+00:04:20,560 --> 00:04:21,440
+for anybody who's seen it.
+
+77
+00:04:21,640 --> 00:04:23,540
+Hopefully you have, if you haven't, you know, watch that.
+
+78
+00:04:23,640 --> 00:04:27,900
+But my point is, is like, that doesn't really influence me to go do anything.
+
+79
+00:04:27,900 --> 00:04:32,640
+It doesn't, you know, reinforce this specific position in me or get me to go and take a specific
+
+80
+00:04:32,640 --> 00:04:33,020
+action.
+
+81
+00:04:33,020 --> 00:04:38,780
+Now it might make me think a lot about like, holy cow, you know, space is crazy and time
+
+82
+00:04:38,780 --> 00:04:42,520
+continuums and all that kind of stuff, but it's not really going to make me go take an
+
+83
+00:04:42,520 --> 00:04:42,720
+action.
+
+84
+00:04:42,840 --> 00:04:46,340
+Now, some movies are so inspirational that they make people go and take action.
+
+85
+00:04:46,480 --> 00:04:49,180
+But my point is, is like, it's content, right?
+
+86
+00:04:49,300 --> 00:04:51,620
+It's phenomenal content, but it's content.
+
+87
+00:04:51,940 --> 00:04:55,160
+Copywriting is getting somebody to, again, take an action.
+
+88
+00:04:55,760 --> 00:04:59,900
+Now, the second biggest problem in the current state of copywriting is that nobody is learning
+
+89
+00:04:59,900 --> 00:05:00,060
+it.
+
+90
+00:05:00,860 --> 00:05:01,100
+Okay.
+
+91
+00:05:01,220 --> 00:05:05,420
+And this is, if you ask me, one of the more concerning problems, but also something that
+
+92
+00:05:05,420 --> 00:05:09,180
+excites me because there are so many people that just don't think they need to learn
+
+93
+00:05:09,180 --> 00:05:13,060
+copywriting, copywriting, and like, that is just the biggest advantage.
+
+94
+00:05:13,060 --> 00:05:16,920
+And if you are actually sitting here, like watching this and committing to this, you are
+
+95
+00:05:16,920 --> 00:05:17,800
+going to have an advantage.
+
+96
+00:05:17,920 --> 00:05:19,580
+There's no other way to put it, right?
+
+97
+00:05:19,820 --> 00:05:24,400
+So with copywriting right now, majority of people think they don't need to learn it because
+
+98
+00:05:24,400 --> 00:05:26,680
+AI can do it and they're not wrong.
+
+99
+00:05:27,160 --> 00:05:29,020
+AI can do copywriting, right?
+
+100
+00:05:29,140 --> 00:05:33,580
+And as I mentioned here, although people who know nothing about copywriting will get better,
+
+101
+00:05:33,580 --> 00:05:37,940
+all this means is that the floor is raised on average copy.
+
+102
+00:05:38,160 --> 00:05:44,040
+It's why people are able to start making money pretty quickly because you have a copywriter
+
+103
+00:05:44,040 --> 00:05:46,780
+in AI that is good at copywriting, right?
+
+104
+00:05:47,020 --> 00:05:52,880
+And the truth is though, is that if good, if AI is good at copywriting and then everybody
+
+105
+00:05:52,880 --> 00:05:56,760
+is using AI to write their ads and everybody's using AI to, you know, basically do everything
+
+106
+00:05:56,760 --> 00:05:57,380
+in their business.
+
+107
+00:05:57,520 --> 00:06:01,120
+Well, that just starts to become the average, right?
+
+108
+00:06:01,120 --> 00:06:03,780
+You have to understand how these things work, right?
+
+109
+00:06:04,020 --> 00:06:08,720
+Like Facebook ads in 2016, when there was not a lot of people doing it, you didn't really
+
+110
+00:06:08,720 --> 00:06:11,140
+have to be great at, at copywriting.
+
+111
+00:06:11,220 --> 00:06:12,400
+You had to be great at making ads.
+
+112
+00:06:12,500 --> 00:06:14,020
+You just said like, here's my product.
+
+113
+00:06:14,020 --> 00:06:17,660
+And you were like advertising in this place where nobody was advertising and there was
+
+114
+00:06:17,660 --> 00:06:23,580
+all these customers and there was so much demand and so little supply that it's like, you
+
+115
+00:06:23,580 --> 00:06:27,880
+could be an idiot and you could succeed on Facebook ads in 2016, 2017, right?
+
+116
+00:06:27,960 --> 00:06:29,760
+Now it can be a complete idiot, but you get my point.
+
+117
+00:06:29,760 --> 00:06:33,420
+You weren't an idiot if you were running, if you're advertising 2016, 2017, I can tell
+
+118
+00:06:33,420 --> 00:06:33,700
+you that.
+
+119
+00:06:34,220 --> 00:06:39,520
+But what happens is, is over time, because it's so easy to use and because there's not
+
+120
+00:06:39,520 --> 00:06:43,060
+a lot of barrier to entry there, it's like, oh, you just sign up and start running ads.
+
+121
+00:06:43,140 --> 00:06:47,980
+Now the biggest barrier entry was media buying, but sticking to the point here, as more and
+
+122
+00:06:47,980 --> 00:06:52,200
+more people kind of use the tool, it just starts to become average.
+
+123
+00:06:52,300 --> 00:06:56,280
+So now if you just take a random photo of your product and throw it onto meta, depending on
+
+124
+00:06:56,280 --> 00:06:59,000
+the category, it's probably not going to do much, right?
+
+125
+00:06:59,540 --> 00:07:03,120
+And so average copywriting here, the reason why I give you that example is because I know
+
+126
+00:07:03,120 --> 00:07:04,440
+for a lot of you, like that makes sense.
+
+127
+00:07:04,500 --> 00:07:07,560
+A lot of you have, if you've been in the game for longer, have seen Facebook ads get
+
+128
+00:07:07,560 --> 00:07:10,960
+harder, but it's just because like the floor has, has raised.
+
+129
+00:07:11,200 --> 00:07:11,460
+Okay.
+
+130
+00:07:11,600 --> 00:07:16,200
+And so average copywriting or even right now, like good copywriting will just become average.
+
+131
+00:07:16,280 --> 00:07:20,740
+And so if you actually want to be above everybody else, you have to understand the
+
+132
+00:07:20,740 --> 00:07:24,780
+skill at a higher level because AI will never be like fully trained.
+
+133
+00:07:24,840 --> 00:07:27,440
+And there's all these people that have like these clawed wrappers and all that kind of
+
+134
+00:07:27,440 --> 00:07:29,900
+stuff, but it's just, it's not at that level yet.
+
+135
+00:07:29,980 --> 00:07:31,240
+Now, will it potentially get there?
+
+136
+00:07:31,380 --> 00:07:31,500
+Sure.
+
+137
+00:07:31,580 --> 00:07:37,380
+But again, it's always going to require an operator to actually like get it to execute the
+
+138
+00:07:37,380 --> 00:07:41,180
+way that you want it to execute at a high level, because you will know what good looks
+
+139
+00:07:41,180 --> 00:07:41,840
+like, right?
+
+140
+00:07:41,960 --> 00:07:47,240
+So again, average copywriting or even right now, like good copywriting with AI just becomes
+
+141
+00:07:47,240 --> 00:07:49,080
+ineffective because everybody is using it.
+
+142
+00:07:49,080 --> 00:07:49,440
+Okay.
+
+143
+00:07:49,560 --> 00:07:55,100
+And so if you ask me, it has never been more important to learn copywriting and it has
+
+144
+00:07:55,100 --> 00:07:58,000
+never been more important to just learn skills in general.
+
+145
+00:07:58,120 --> 00:08:02,560
+So that way you can optimize the AI based off of the skillset that you have.
+
+146
+00:08:02,800 --> 00:08:03,040
+Right.
+
+147
+00:08:03,100 --> 00:08:06,740
+And that is the most important thing, because even if somebody comes out with, you know,
+
+148
+00:08:06,780 --> 00:08:11,880
+if Eugene Schwartz comes out with his AI copywriting, um, obviously he can't, but my
+
+149
+00:08:11,880 --> 00:08:15,520
+point is, is that if everybody just uses it, then that's what everybody will use.
+
+150
+00:08:15,520 --> 00:08:18,660
+And so it's like, there's always going to be a level where like you have some kind of
+
+151
+00:08:18,660 --> 00:08:22,480
+proprietary knowledge and that proprietary proprietary knowledge, if you ask me is the
+
+152
+00:08:22,480 --> 00:08:24,600
+skillset that you develop by learning this stuff.
+
+153
+00:08:24,820 --> 00:08:25,180
+Okay.
+
+154
+00:08:25,840 --> 00:08:30,580
+Now the third biggest problem, and this is the one that I see like kind of causing, like
+
+155
+00:08:30,580 --> 00:08:33,660
+even right now is still the biggest issue and will continue to become a big issue is
+
+156
+00:08:33,660 --> 00:08:34,620
+like, nobody is different.
+
+157
+00:08:34,840 --> 00:08:35,200
+Okay.
+
+158
+00:08:35,200 --> 00:08:39,400
+And I kind of call this me too copywriting and I stole this from, from a book, but you
+
+159
+00:08:39,400 --> 00:08:40,700
+know, everybody is funnel hacking.
+
+160
+00:08:40,700 --> 00:08:43,840
+So copying the best people, everybody's using the same templates.
+
+161
+00:08:43,840 --> 00:08:48,760
+So just copying the experts, like I just kind of mentioned and relying, you know, on AI or
+
+162
+00:08:48,760 --> 00:08:50,620
+solely on AI for execution.
+
+163
+00:08:50,860 --> 00:08:53,020
+And it's making everybody the same.
+
+164
+00:08:53,120 --> 00:08:57,680
+So not only is it making, you know, the floor just better, but it's just making everybody
+
+165
+00:08:57,680 --> 00:08:58,220
+the same.
+
+166
+00:08:58,320 --> 00:09:03,900
+And again, if you lack differentiation, and again, I got to proofread this before I do the
+
+167
+00:09:03,900 --> 00:09:04,640
+next presentation.
+
+168
+00:09:04,880 --> 00:09:10,380
+If you lack differentiation, so if you're not different in your marketing, you will struggle.
+
+169
+00:09:10,380 --> 00:09:10,820
+Okay.
+
+170
+00:09:11,440 --> 00:09:16,060
+Because there's no reason why, like, there's going to be no reason why for people to buy
+
+171
+00:09:16,060 --> 00:09:18,560
+in general, like, you're just going to be the same as everybody else.
+
+172
+00:09:18,560 --> 00:09:20,000
+Like everybody's going to say like, we're the best this.
+
+173
+00:09:20,040 --> 00:09:20,960
+And you're going to be like me too.
+
+174
+00:09:21,140 --> 00:09:24,580
+And then there's going to be 30 other brands that are like me too, me too, me too.
+
+175
+00:09:24,700 --> 00:09:29,520
+And if you're all the same, it's like, you don't have an edge and profitability just becomes
+
+176
+00:09:29,520 --> 00:09:33,420
+extremely hard because then you like, you'd have to start giving discounts and like trying
+
+177
+00:09:33,420 --> 00:09:35,200
+to get the cheapest people to come and buy your stuff.
+
+178
+00:09:35,200 --> 00:09:37,960
+And it's like, it's just not, it's not a real business, it's not a brand.
+
+179
+00:09:37,960 --> 00:09:38,560
+Right.
+
+180
+00:09:38,700 --> 00:09:43,500
+And again, for clarity, like LLMs are trained on predictive words.
+
+181
+00:09:43,780 --> 00:09:44,300
+Okay.
+
+182
+00:09:44,580 --> 00:09:48,900
+Which means we are automatically guaranteed to sound like everyone else and say what
+
+183
+00:09:48,900 --> 00:09:50,920
+everyone else is saying if we rely on AI.
+
+184
+00:09:51,340 --> 00:09:51,820
+Okay.
+
+185
+00:09:51,920 --> 00:09:56,660
+And again, the goal, the best copywriting and the best ads that we're going to get
+
+186
+00:09:56,660 --> 00:10:01,140
+into in this copywriting program, they, they have clear differentiation, right?
+
+187
+00:10:01,180 --> 00:10:02,920
+And you'll see a lot of this stuff coming up.
+
+188
+00:10:02,920 --> 00:10:03,480
+Okay.
+
+189
+00:10:03,620 --> 00:10:08,420
+So again, can you find sweet spots that work for a little while for sure?
+
+190
+00:10:08,680 --> 00:10:08,940
+Okay.
+
+191
+00:10:09,040 --> 00:10:12,140
+Like everybody's going crazy at the time of this, uh, filming this.
+
+192
+00:10:12,180 --> 00:10:15,200
+So these native ads or these camouflage ads where it's like, Whoa, all you have to do
+
+193
+00:10:15,200 --> 00:10:16,880
+is copy this, this template, bro.
+
+194
+00:10:16,920 --> 00:10:17,960
+And just put it into Claude, bro.
+
+195
+00:10:17,960 --> 00:10:21,460
+And then take this photo of this, this bald dude and put it into Higgs field, bro.
+
+196
+00:10:21,460 --> 00:10:23,060
+And like, you know, you're cooking.
+
+197
+00:10:23,240 --> 00:10:28,020
+And it's like, okay, well, if that is your entire skillset copy and paste, it's going to
+
+198
+00:10:28,020 --> 00:10:28,580
+die fast.
+
+199
+00:10:28,780 --> 00:10:28,920
+Okay.
+
+200
+00:10:28,920 --> 00:10:30,700
+Like, can you make some money on an intern for sure?
+
+201
+00:10:30,880 --> 00:10:33,880
+But it's like, do you want to be the guy that's constantly having to catch trends and
+
+202
+00:10:33,880 --> 00:10:38,540
+constantly having to catch, you know, all of these, you know, waves in, in, in like,
+
+203
+00:10:38,600 --> 00:10:39,580
+and that's your business model.
+
+204
+00:10:39,640 --> 00:10:40,320
+That's your strategy.
+
+205
+00:10:40,360 --> 00:10:41,100
+That's your skillset.
+
+206
+00:10:41,120 --> 00:10:44,560
+It's like, you know, I would rather have a skillset where it's like, regardless of
+
+207
+00:10:44,560 --> 00:10:46,560
+what's going on, I could still make money.
+
+208
+00:10:47,060 --> 00:10:47,420
+Right.
+
+209
+00:10:47,960 --> 00:10:51,200
+And again, apologies for my horrendous spelling here.
+
+210
+00:10:51,640 --> 00:10:55,600
+But again, if something doesn't really require true skill, if it doesn't require work
+
+211
+00:10:55,600 --> 00:10:58,520
+for you to develop this skill, right?
+
+212
+00:10:58,720 --> 00:11:00,460
+And you're just a me too copywriter.
+
+213
+00:11:00,460 --> 00:11:05,540
+And there's nothing at all that is different about your brand.
+
+214
+00:11:05,660 --> 00:11:07,400
+It's like, you're, you're going to struggle.
+
+215
+00:11:07,560 --> 00:11:08,080
+Okay.
+
+216
+00:11:08,260 --> 00:11:14,460
+And so copywriting, if you ask me is the number one skill in marketing and still is the number
+
+217
+00:11:14,460 --> 00:11:15,400
+one skill in marketing.
+
+218
+00:11:15,400 --> 00:11:20,980
+So not learning it means that you're not able to communicate to customers effectively.
+
+219
+00:11:21,640 --> 00:11:27,340
+And in an age of over communication, I'd say it's probably pretty important.
+
+220
+00:11:27,620 --> 00:11:31,420
+And I'll likely touch on more on this point around like over communication.
+
+221
+00:11:31,420 --> 00:11:36,780
+But again, you have to understand how much information is being bombarded into the minds
+
+222
+00:11:36,780 --> 00:11:38,100
+of everybody, right?
+
+223
+00:11:38,140 --> 00:11:43,320
+There is so much like, even like there's books being published, there's courses dropping,
+
+224
+00:11:43,320 --> 00:11:47,220
+there's YouTube videos every day, there's social, like, you know, Instagram and Facebook,
+
+225
+00:11:47,340 --> 00:11:52,080
+social media, short form stuff, TikTok, like there's just so much over communication happening
+
+226
+00:11:52,080 --> 00:11:56,360
+that if you don't know how to communicate properly, you're kind of setting yourself
+
+227
+00:11:56,360 --> 00:11:56,920
+up for failure.
+
+228
+00:11:57,060 --> 00:12:00,800
+And that's what copywriting is about, is about learning how to communicate and how to position
+
+229
+00:12:00,800 --> 00:12:01,580
+properly.
+
+230
+00:12:01,820 --> 00:12:01,980
+Okay.
+
+231
+00:12:02,320 --> 00:12:05,720
+As always, again, we'll always mention where I got this information from.
+
+232
+00:12:05,820 --> 00:12:08,000
+Harry Dry, phenomenal copywriter.
+
+233
+00:12:08,540 --> 00:12:11,020
+Jason Flatlin, who's the guy that actually does webinars.
+
+234
+00:12:11,020 --> 00:12:12,420
+I've learned a lot of this stuff from him.
+
+235
+00:12:12,420 --> 00:12:14,960
+Uh, and I'll rise to Jack Trout from, from positioning.
+
+236
+00:12:15,100 --> 00:12:18,760
+There's a few other books as well that you guys will see me kind of mentioned, but for
+
+237
+00:12:18,760 --> 00:12:20,780
+these slides specifically, that's where I got the information from.
+
+238
+00:12:20,920 --> 00:12:26,280
+And so I hope that this has influenced you to actually take all of the modules down below
+
+239
+00:12:26,280 --> 00:12:26,920
+a lot more seriously.
+
+240
+00:12:27,220 --> 00:12:32,660
+And again, if you are struggling with execution, you are struggling to make ads that can actually
+
+241
+00:12:32,660 --> 00:12:33,040
+scale.
+
+242
+00:12:33,540 --> 00:12:35,340
+This is probably the biggest reason why.

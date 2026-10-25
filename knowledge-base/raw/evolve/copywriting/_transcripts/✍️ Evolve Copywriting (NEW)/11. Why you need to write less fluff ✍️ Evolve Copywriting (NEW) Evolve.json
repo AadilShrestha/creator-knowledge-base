@@ -1,0 +1,508 @@
+{
+  "source_file": "11. Why you need to write less fluff ✍️ Evolve Copywriting (NEW) Evolve.mp4",
+  "source_id": "mega:LlQnyCIZ:7oxUBJpQ",
+  "source_sha256": "f3b9fc945b7907027bee3ced8ce466b1559e9035d2748d7d76d92b002f0b53fd",
+  "backend": "faster-whisper-cuda-int8_float16",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 524.97,
+  "last_segment_end": 524.88,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.78,
+      "text": "all right so in this module we are going to be talking about why you need to write less fluff"
+    },
+    {
+      "start": 4.78,
+      "end": 10.9,
+      "text": "uh which again depending on how you see this at the moment uh you might think you know you've"
+    },
+    {
+      "start": 10.9,
+      "end": 16.14,
+      "text": "probably heard before like oh there's never um a thing that's too long only too boring and that"
+    },
+    {
+      "start": 16.14,
+      "end": 22.64,
+      "text": "100 holds true with that said a lot of you guys are not able to write long because you write long"
+    },
+    {
+      "start": 22.64,
+      "end": 27.26,
+      "text": "with the intention of writing long rather than actually needing to write long to explain points"
+    },
+    {
+      "start": 27.26,
+      "end": 32.58,
+      "text": "further and so what i'm going to go through here today is essentially i i would believe is like"
+    },
+    {
+      "start": 32.58,
+      "end": 37.86,
+      "text": "the direct response copywriters kind of number one tool i would say because i think a lot of people"
+    },
+    {
+      "start": 37.86,
+      "end": 43.62,
+      "text": "are great at writing thoughts down uh but very few are good at compacting it um as you can see here"
+    },
+    {
+      "start": 43.62,
+      "end": 48.98,
+      "text": "where the quote is a great sentence is a good sentence made shorter right and if you've been"
+    },
+    {
+      "start": 48.98,
+      "end": 53.4,
+      "text": "on some of the weekly calls before and evolve you've probably heard me say this um and this was said by"
+    },
+    {
+      "start": 53.4,
+      "end": 59.26,
+      "text": "harry dry i don't know if he took it from somebody else um but another really really good quote here"
+    },
+    {
+      "start": 59.26,
+      "end": 66.22,
+      "text": "is if i had more time i would have written a shorter letter uh and this is actually from like a very old"
+    },
+    {
+      "start": 66.22,
+      "end": 71.62,
+      "text": "like ancient kind of french i think he was like an artist or something like that like very very long"
+    },
+    {
+      "start": 71.62,
+      "end": 76.54,
+      "text": "ago and even him saying you know if i had more time i would have written a shorter letter i love how"
+    },
+    {
+      "start": 76.54,
+      "end": 80.86,
+      "text": "this kind of juxtapose where most people think oh if i have more time i can write more where it's"
+    },
+    {
+      "start": 80.86,
+      "end": 87.36,
+      "text": "actually the opposite okay and so what i want you guys to understand is that the best direct response"
+    },
+    {
+      "start": 87.36,
+      "end": 95.26,
+      "text": "copywriters are able to ruthlessly and emphasis on that word there compress a message and compress"
+    },
+    {
+      "start": 95.26,
+      "end": 103.16,
+      "text": "their message to get it across with kind of more power more impact okay and the biggest thing from this"
+    },
+    {
+      "start": 103.16,
+      "end": 110.48,
+      "text": "is that they're able to do that without losing meaning uh it's one thing to write compact and"
+    },
+    {
+      "start": 110.48,
+      "end": 116.18,
+      "text": "as we've talked about before say absolutely nothing and even though you wrote nice and compact you still"
+    },
+    {
+      "start": 116.18,
+      "end": 121.68,
+      "text": "wrote nothing so it doesn't matter again nothing written well is still nothing okay and so the most"
+    },
+    {
+      "start": 121.68,
+      "end": 128.7,
+      "text": "important thing here is that you're able to kind of write um and compress everything that you are"
+    },
+    {
+      "start": 128.7,
+      "end": 134.78,
+      "text": "thinking and all of the you know ideas and the words that you want to use into a you know a shorter"
+    },
+    {
+      "start": 134.78,
+      "end": 141.62,
+      "text": "more compact version without losing meaning okay and this is a really great uh image i actually sold"
+    },
+    {
+      "start": 141.62,
+      "end": 145.9,
+      "text": "this his name is ben sawyer from uh linkedin i actually saw the post i was just looking for a"
+    },
+    {
+      "start": 145.9,
+      "end": 150.1,
+      "text": "visual to help you guys understand uh this rule which actually i learned from harry as well uh"
+    },
+    {
+      "start": 150.1,
+      "end": 156.1,
+      "text": "kaplan's law of words and so it it says if a word isn't working for you it's actually working against"
+    },
+    {
+      "start": 156.1,
+      "end": 160.82,
+      "text": "you okay and now this diagram doesn't make sense because for me i was like wait i don't get it"
+    },
+    {
+      "start": 160.82,
+      "end": 167.62,
+      "text": "um this is what this diagram means okay so over here you can see we have this circle of like what"
+    },
+    {
+      "start": 167.62,
+      "end": 173.48,
+      "text": "you could say all right and so there's all of these things like imagine i'm not really the biggest fan"
+    },
+    {
+      "start": 173.48,
+      "end": 178.06,
+      "text": "of this but i'm gonna go ahead and just like take a screenshot so you guys can kind of see my point"
+    },
+    {
+      "start": 178.06,
+      "end": 184.52,
+      "text": "here but imagine inside of here there was all these other little red dots now ignore the numbers but"
+    },
+    {
+      "start": 184.52,
+      "end": 189.86,
+      "text": "imagine there's all these little red dots everywhere okay this is essentially what he's trying to show"
+    },
+    {
+      "start": 189.86,
+      "end": 194.48,
+      "text": "where he's like there's all these different things that you should say but or that you could say but"
+    },
+    {
+      "start": 194.48,
+      "end": 200.46,
+      "text": "this is what you actually should say right just one of them right just say one of the things and so"
+    },
+    {
+      "start": 200.46,
+      "end": 206.32,
+      "text": "my my point with this is is a lot of the times again we write excess excess things because we think"
+    },
+    {
+      "start": 206.32,
+      "end": 212.26,
+      "text": "it makes our argument better or we think we need to but a lot of times we don't right so you know"
+    },
+    {
+      "start": 212.26,
+      "end": 220.08,
+      "text": "that a hook or headline or lead or hold is basically ready to ship by looking at and saying like there's"
+    },
+    {
+      "start": 220.08,
+      "end": 225.16,
+      "text": "nothing left for me to remove okay so i would i would highly encourage you and you guys will see"
+    },
+    {
+      "start": 225.16,
+      "end": 228.24,
+      "text": "this that when you're writing you're probably gonna have a lot of ideas you're probably gonna write"
+    },
+    {
+      "start": 228.24,
+      "end": 233.02,
+      "text": "out a full idea but then you start to look at look at it from the lens of like what can i remove and"
+    },
+    {
+      "start": 233.02,
+      "end": 237.42,
+      "text": "when you're looking at a hook or headline or leader or hold and you're like there's nothing left for"
+    },
+    {
+      "start": 237.42,
+      "end": 241.72,
+      "text": "me to remove here because if i remove anything else it's gonna lose the meaning it's gonna lose"
+    },
+    {
+      "start": 241.72,
+      "end": 246.08,
+      "text": "the flow that i want it to have then you've probably got something pretty good copy should"
+    },
+    {
+      "start": 246.08,
+      "end": 251.08,
+      "text": "and this is another really great visual that uh again i stole from harry is copy should be treated"
+    },
+    {
+      "start": 251.08,
+      "end": 256.92,
+      "text": "like this okay it should be for those of you that know what it is it's like a jenga tower okay uh if you"
+    },
+    {
+      "start": 256.92,
+      "end": 261.32,
+      "text": "look at this and again we'll we'll take a screenshot for the sake of visual purposes if you look at this"
+    },
+    {
+      "start": 261.32,
+      "end": 267.34,
+      "text": "thing it's like oh man this thing is kind of crazy like it's barely standing right and for example if"
+    },
+    {
+      "start": 267.34,
+      "end": 274.96,
+      "text": "we pulled this out over here uh the whole tower would come crumbling down right and we don't want"
+    },
+    {
+      "start": 274.96,
+      "end": 279.36,
+      "text": "the whole tower to come crumbling down because in this analogy that would mean we've lost the message"
+    },
+    {
+      "start": 279.36,
+      "end": 283.56,
+      "text": "we've lost the meaning right but you might be looking at this tower and be like you know what like"
+    },
+    {
+      "start": 283.56,
+      "end": 289.98,
+      "text": "i could maybe and i'm not that great at jenga so bear with me but i could maybe pull this little guy"
+    },
+    {
+      "start": 291.32,
+      "end": 296.3,
+      "text": "analyzing and looking at the copy and i'm like you know what i don't think this actually needs to be"
+    },
+    {
+      "start": 296.3,
+      "end": 301.04,
+      "text": "here now my point with this is is like this is where your copy should get to a lot of you guys"
+    },
+    {
+      "start": 301.04,
+      "end": 305.46,
+      "text": "just have like a standard jenga tower with like you know the easiest ones pulled out and you haven't"
+    },
+    {
+      "start": 305.46,
+      "end": 310.26,
+      "text": "fully thought through like what else can be removed because again when you remove you you actually"
+    },
+    {
+      "start": 310.26,
+      "end": 315.26,
+      "text": "clarify your message sometimes now sometimes you can go the opposite way but again um you're able to"
+    },
+    {
+      "start": 315.26,
+      "end": 320.22,
+      "text": "just kind of carry more weight with your words like every word is heavy hitting and again when you're"
+    },
+    {
+      "start": 320.22,
+      "end": 324.78,
+      "text": "in direct response you don't have the luxury a lot of the times of just being able to say a bunch of"
+    },
+    {
+      "start": 324.78,
+      "end": 331.08,
+      "text": "stuff okay and so again the entire thing should collapse if you remove something and that's how"
+    },
+    {
+      "start": 331.08,
+      "end": 336.24,
+      "text": "you know you've got something basically perfected right and here's another thing that's like just"
+    },
+    {
+      "start": 336.24,
+      "end": 340.84,
+      "text": "kind of obvious but i know some of you are probably looking at this where it's like that's hard to do"
+    },
+    {
+      "start": 340.84,
+      "end": 344.06,
+      "text": "like what do you mean like i've got to like scan through and be like what can i remove it's like yeah"
+    },
+    {
+      "start": 344.06,
+      "end": 349.52,
+      "text": "when you write clear when you write more compact uh it does require more time it does require more"
+    },
+    {
+      "start": 349.52,
+      "end": 356.28,
+      "text": "effort uh and it does require a lot more thought right compared to just writing a long unedited you"
+    },
+    {
+      "start": 356.28,
+      "end": 360.74,
+      "text": "know draft and a bunch of scribble and truthfully like a lot of you guys this is gonna kind of"
+    },
+    {
+      "start": 360.74,
+      "end": 367.3,
+      "text": "maybe hit you in a way that i i hope will help you wake up or help your team wake up which is a lot"
+    },
+    {
+      "start": 367.3,
+      "end": 372.56,
+      "text": "of you are just shipping drafts and what i mean by that is like you you write a first draft and they're"
+    },
+    {
+      "start": 372.56,
+      "end": 376.12,
+      "text": "like yeah let's go let's ship it right because it needs to be done in time needs to be done here and"
+    },
+    {
+      "start": 376.12,
+      "end": 382.02,
+      "text": "a lot of times it's like you're surprised that your ad doesn't work but it's like dude you submitted a"
+    },
+    {
+      "start": 382.02,
+      "end": 387.4,
+      "text": "draft you know like you you submitted a rough draft a first draft like you didn't actually like really"
+    },
+    {
+      "start": 387.4,
+      "end": 393.02,
+      "text": "sit down and try to reflect this and again we're going to talk about time sort of being an opportunity"
+    },
+    {
+      "start": 393.02,
+      "end": 397.82,
+      "text": "cost but my point is is a lot of you guys don't even look twice you just kind of write the brief or"
+    },
+    {
+      "start": 397.82,
+      "end": 401.14,
+      "text": "cloud will just give you it and you'll just ship it where you don't actually go through"
+    },
+    {
+      "start": 401.14,
+      "end": 405.64,
+      "text": "and look through the copy and really try to challenge yourself and be like how can i make this better"
+    },
+    {
+      "start": 405.64,
+      "end": 410.48,
+      "text": "right and that's where the high intent actually comes in because again if you guys are struggling"
+    },
+    {
+      "start": 410.48,
+      "end": 418.46,
+      "text": "right now this is probably something that you are doing okay and so overall the kind of final page"
+    },
+    {
+      "start": 418.46,
+      "end": 422.22,
+      "text": "that i want to wrap up with i think this is one of the final ones is write less fluff okay so"
+    },
+    {
+      "start": 422.22,
+      "end": 426.52,
+      "text": "write with the delete key when you write things go back through and see what you can remove see"
+    },
+    {
+      "start": 426.52,
+      "end": 432.6,
+      "text": "what you can delete okay using fewer words lets you be more impactful with the words that you keep"
+    },
+    {
+      "start": 432.6,
+      "end": 437.74,
+      "text": "writing with less fluff shows you also respect your customer's time and helps you write words that are"
+    },
+    {
+      "start": 437.74,
+      "end": 444.72,
+      "text": "again more impactful to them and if you can pull out a sentence and your flow still works it probably"
+    },
+    {
+      "start": 444.72,
+      "end": 449.16,
+      "text": "shouldn't have been there in the first place so again look for like filler and just look for things"
+    },
+    {
+      "start": 449.16,
+      "end": 454.28,
+      "text": "that might be causing you to lose a customer because i promise you guys if you go back through some"
+    },
+    {
+      "start": 454.28,
+      "end": 458.34,
+      "text": "of your briefs even on some of your winning ads there might be areas where it's like you can just"
+    },
+    {
+      "start": 458.34,
+      "end": 463.76,
+      "text": "refine and you can polish and you can make things better and so the key takeaways here is like write"
+    },
+    {
+      "start": 463.76,
+      "end": 468.52,
+      "text": "with the delete key using fewer words shows that you respect your customer's time and you can usually"
+    },
+    {
+      "start": 468.52,
+      "end": 474.62,
+      "text": "write more impactful because you're compressing so much and if you can pull a sentence out and it still"
+    },
+    {
+      "start": 474.62,
+      "end": 479.38,
+      "text": "works so when you're reading just be like what happens if i delete this you'll realize that okay yeah"
+    },
+    {
+      "start": 479.38,
+      "end": 485.06,
+      "text": "that's that's fluff all right um so again giving credits here to harry again i've learned a lot of"
+    },
+    {
+      "start": 485.06,
+      "end": 489.88,
+      "text": "this stuff uh and a lot of these kind of like modules of copywriting fundamentals and things like"
+    },
+    {
+      "start": 489.88,
+      "end": 493.82,
+      "text": "that that i want to share with you guys but just breaking them down and in driving them home a little"
+    },
+    {
+      "start": 493.82,
+      "end": 498.5,
+      "text": "bit further so hopefully they land uh and again my takeaway for you and what i want you to do is take a"
+    },
+    {
+      "start": 498.5,
+      "end": 503.62,
+      "text": "second to like go back and look at what you wrote right maybe give yourself a little bit of time"
+    },
+    {
+      "start": 503.62,
+      "end": 506.8,
+      "text": "you know maybe an hour or something like that again if you're writing briefs in the morning"
+    },
+    {
+      "start": 506.8,
+      "end": 510.92,
+      "text": "and say you're trying to ship i don't know two or three briefs a day maybe write your two or three"
+    },
+    {
+      "start": 510.92,
+      "end": 516.46,
+      "text": "briefs in the morning and then you know take a break and then come back and re and reread them and maybe"
+    },
+    {
+      "start": 516.46,
+      "end": 520.18,
+      "text": "rewrite them like give your brain a little bit of a break like hey just get the draft done and then you"
+    },
+    {
+      "start": 520.18,
+      "end": 524.88,
+      "text": "can come back and you can optimize it and by doing that you're likely going to write with less fluff"
+    }
+  ]
+}

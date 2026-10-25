@@ -1,0 +1,343 @@
+{
+  "source_file": "27. 2️⃣ - How to write a bridge ✍️ Evolve Copywriting (NEW) Evolve.mp4",
+  "source_id": "mega:LlQnyCIZ:jgxiAJ6A",
+  "source_sha256": "dceb8fcb443781e8ff994df6a18e41ec2e2950298642a866878e787956da3466",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 1463.66,
+  "last_segment_end": 1463.66,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 11.74,
+      "text": "In this video, we are going to talk about how to write a bridge. So once you have written your hook, you have essentially accomplished goal number one, which is grab the person's attention."
+    },
+    {
+      "start": 11.74,
+      "end": 31.14,
+      "text": "That is really the job of the hook. Now, the hook does set up a lot of the ads. So, you know, hooks are hooks are very crucial. Again, even if you're just grabbing someone's attention doesn't mean that it's going to convert. But essentially, again, the goal of your hook is like get someone to stop their scroll. The goal of your bridge is to keep their attention."
+    },
+    {
+      "start": 31.14,
+      "end": 60.43,
+      "text": "OK, and so that's one of those things where if you're testing these random hooks and it doesn't make any sense and you can't bridge it properly, then that's how you know you're essentially creating hooks that aren't just like they're not doing the right job. OK, so hooks and bridge work together. But the reason why I wanted to make a module specifically on bridges is because, again, this is how we keep an audience hooked in and engaged. And this is how the customer essentially makes this very important decision to decide whether or not they want to keep watching or if they want to drop off. OK, because once you."
+    },
+    {
+      "start": 60.43,
+      "end": 79.78,
+      "text": "grabs someone's attention, very quickly, their brain is going to decide whether or not this is something they want to keep watch, right? Like most people will stop and read the hook. And then either they keep watching because then it leads into something interesting, which is essentially the bridge. Or again, we lose them. Okay. And so one thing that I want to call out here, and you'll see this down below is essentially bridges can be."
+    },
+    {
+      "start": 79.78,
+      "end": 107.73,
+      "text": "great hook sometimes. And this is a strategy that I want to give full credit to Sarah Levenger for helping us identify this. But essentially what this is, is this is called in media res, where you basically just start right in the action. And again, a lot of the times just by cutting the hook out completely. So just having no hook and just going straight into the action can actually lead to breakthrough ads. So there's going to be a pro tip that I recommend for you guys to try down below, which is essentially like a hookless ad."
+    },
+    {
+      "start": 107.73,
+      "end": 135.3,
+      "text": "as long as it makes sense. And again, you guys will see some examples. But one of the ads that we made, which, you know, a single ad spent over a million dollars, was actually just an in-media res hook, okay? And that's also known as, if you're like, what is an in-media res? We'll probably talk more about that in the storytelling if we do. But this is essentially just what I call like a bridge hook, where you just don't have a hook, you just start at the bridge, okay? And so again, we will get into that, but sometimes you don't even need to set up the bridge. The bridge itself can be the hook."
+    },
+    {
+      "start": 135.3,
+      "end": 147.39,
+      "text": "Okay, so that's how powerful bridges are. Now, I've got six ways here. Now, again, this is not every single way that you can bridge an ad. What I will say is I have reviewed, I don't know how many ads at this time, and I have access to again."
+    },
+    {
+      "start": 147.39,
+      "end": 176.69,
+      "text": "at multiple ad accounts spending a million dollars plus a month. These are the six ways that I've found to write effective bridges or at least the commonalities that a lot of them have, especially doing a lot of scrolling through ads by doing a lot of scrolling through our own ad accounts and obviously the ones that we consult on. But the six ways are number one, to introduce the mechanism. And then we kind of bridge this back to the benefit. I know we're using bridge twice here, so it's probably not the best word to use. But this is actually a strategy that I actually don't see a lot of people doing. And if you have a great..."
+    },
+    {
+      "start": 176.69,
+      "end": 205.9,
+      "text": "mechanism, you could just introduce the mechanism right away. And you don't even need to like really bring the product. But in product aware markets, like this is a phenomenal way where if you write an open loop or you write some kind of, you know, really strong headline that gets somebody to stop. And then you just introduce the mechanism and you just show it happening. You just get to the point. What I found is that this is extremely effective way. And this is the exact strategy that we use to make the million dollar ad. Now, I literally was searching for probably about an hour and a half, two hours, just scrambling through."
+    },
+    {
+      "start": 205.9,
+      "end": 221.41,
+      "text": "just other people's ads. And I actually couldn't find a lot of people doing this. So if you are not doing this, or you're not testing this, I do have some examples of like frameworks that you can follow down below, I would highly recommend that you test this as one of your bridges and potentially use this as one of your hooks as well. Okay, this works."
+    },
+    {
+      "start": 221.41,
+      "end": 250.7,
+      "text": "really, really well for brands that have like more visual products. With that said, number two, we have escalate the problem. And so we escalate the problem by being more relatable or essentially emotionally charging it. And again, I'll show you the differences of that down below. Number three, we escalate the desire. So again, we escalate the desire through being more relatable or charging it with emotion. Again, sometimes we use both. I'll explain it down below. We then have repositioning the problem. So this is where we kind of start right away. And you've probably seen some of those ads where it's like you don't have this. This is not what you have."
+    },
+    {
+      "start": 250.7,
+      "end": 279.92,
+      "text": "It's this instead. Again, and ideally you need to do this with some form of an authority. And there's actually some really interesting AI ads that you guys will see. And then we have allude to new information, again, ideally from an authority where this is one of those things where you're essentially having this authority share this new information that they found, okay? And essentially this new information is what helps like reposition the problem or helps people better understand the problem. But when you bridge with like, and then I found this thing, again, you guys will see that down below."
+    },
+    {
+      "start": 279.92,
+      "end": 301.57,
+      "text": "really powerful and then another way that we have this and this is common in in some bigger brands as well is just setting a timeline so you basically make your bridge like hey here's what i'm going to explain in this video or here's what happens over this period of time okay and so this bridge can be really helpful as well because essentially you're setting it up and people are able to understand like what they're about to watch and what they're about to get"
+    },
+    {
+      "start": 301.57,
+      "end": 320.35,
+      "text": "OK, now example bridges. This is just from the introducing the mechanism. And I also have here plus time back to the promise. This is kind of going back to the PPB framework that we talked about with Eugene. But again, hook is if you have X, I need to show you this. And again, I pulled this from the brand that, you know, we are."
+    },
+    {
+      "start": 320.35,
+      "end": 349.65,
+      "text": "crushing this with. And again, I couldn't find examples. Obviously can't show their example specifically, but I can show you guys the framework. And here the bridge is the X mechanism helped me get this desire. It was a control-based desire. And the Y mechanism helps with common problem. Okay. So this product actually has two specific mechanisms that essentially work together. And this specifically is absolutely crushing for us. Okay. And so again, the X mechanism helps me get this kind of desire, right? We kind of, we didn't."
+    },
+    {
+      "start": 349.65,
+      "end": 372.86,
+      "text": "escalate the desire here we just said like hey this specific mechanism allows me to get this and this other mechanism that the product also has helps me with this other common problem that contributes to me not being able to get my desire but essentially this is the bridge that we wrote that we wrote okay uh this one here is introduce the mechanism again again hook is watch how this product stops problem okay the bridge is"
+    },
+    {
+      "start": 372.86,
+      "end": 392.53,
+      "text": "First, this product has a new mechanism and the new mechanism is what actually stops the problem and causes. And then you wrote, I wrote here visual solution of the problem where we essentially explain and show. And actually in this ad specifically, we weren't even showing it. We were just explaining it with words, right? We were using words that show and not tell."
+    },
+    {
+      "start": 392.53,
+      "end": 410.88,
+      "text": "Essentially here, we were saying like, hey, you probably noticed this thing happening. And as a result of using our new mechanism on our product, this specific thing no longer happens. Or you'll see that this behavior will happen as a result of using the new mechanism, which is usually a more."
+    },
+    {
+      "start": 410.88,
+      "end": 430.45,
+      "text": "positive result. Okay. And so again, these two, I don't have visual examples for I'm telling you guys, like I spent two hours just trying to search for examples. And if I do find them, I'll come back and add them in. But it's just all the brands that I know that are doing this. I can't share their creative. So just wanted to share this with you. Again, it's a very, very powerful way where you kind of go from the hook and you just go straight into the mechanism."
+    },
+    {
+      "start": 430.45,
+      "end": 452.72,
+      "text": "All right. Second one here is escalating the problem again with relatability or emotion. This one is much more emotion charged. And again, you guys will be able to find the links to all of these ads here. Some of them are in the winning ads doc or Canva deck here. And some of them are just, you know, links to Facebook. But hook here is what if everything you knew about dandruff was wrong, right? Again, this is kind of this negative hook that."
+    },
+    {
+      "start": 452.72,
+      "end": 475.76,
+      "text": "you know, creates an open loop. And the bridge is there's an uncomfortable truth about those embarrassing white flakes on your shoulders. And it's way grosser than you think. Again, we're escalating the problem. It's way grosser than you think. And we're charging this with emotion. There's an uncomfortable truth about those embarrassing white flakes on your shoulders, right? So again, charging this with emotion and we're bridging to everything that we're about to say. This ad specifically also uses"
+    },
+    {
+      "start": 475.76,
+      "end": 490.64,
+      "text": "basically like another bridge they kind of stack this bridge where they set the timeline where he's like give me the next 90 seconds and i'll explain this um so you can also stack these bridges as well you will see some examples of that uh but again uh this is escalating the problem uh the next one that i have here"
+    },
+    {
+      "start": 490.64,
+      "end": 514.51,
+      "text": "watch if you use X. Again, bridge was, I thought I was being an X avatar. Okay. So again, this is where you can kind of call out your avatar saying like, Hey, I thought I was being a, you know, a good parent, or I thought I was, you know, being a good husband or a good wife. Right. But after Y months problem was still happening. And now the problem is even worse. And so what you'll notice here is again, we're escalating the problem."
+    },
+    {
+      "start": 514.51,
+      "end": 542.08,
+      "text": "Right. And again, we're using relatability here because we're calling out the avatar. So the bridge is I thought I was being a great avatar or I thought I was doing well as this avatar. But after X amount of time, the problem was still happening. Right. And then rather than saying now, the problem is that you got like rather than saying this verbatim, explain and show visually. Right. The problem is even worse. I can't visualize that. How can we visualize like now my kids don't want to eat their greens at all."
+    },
+    {
+      "start": 542.08,
+      "end": 571.41,
+      "text": "Right. So now the problem is getting worse. Like I used to struggle to get them to eat greens. Now they're not eating it at all. And so this is an example of, again, we were visual with this rather than just saying like, oh, you know, they weren't eating their greens and now it's worse. Like actually be visual with how it's getting worse. Now, the next example here for escalating the problem is, again, using relatability. And if you take a look at this ad, you guys have seen this multiple times before. Again, three red flags of vitamin deficiency in kids. Right. How do we actually bridge this? Well, again, we actually have to give the reasons. But most importantly, we're doing this relatability."
+    },
+    {
+      "start": 571.41,
+      "end": 576.91,
+      "text": "we're escalating the problem. Only wanting chicken nuggets, red flag. Sugar cravings, red flag."
+    },
+    {
+      "start": 576.91,
+      "end": 606.19,
+      "text": "Low appetite, red flag, right? So basically all of these relatable points, we're saying they are red flags. And as a result, that is escalating the problem. It's like, wait, that's a problem. This is also a problem. That's also a problem. Like, oh my goodness. Okay. Like this is, this is serious, right? Now it's becoming more serious. And then I can go to the rest of the ad. Okay. And you guys can see how this ad does this. If I go down to another version down here, again, escalating the problem. Hook, this is how my nonverbal toddler found his voice. Juxtaposition, as you guys know. Bridge, my three-year-old has..."
+    },
+    {
+      "start": 606.19,
+      "end": 632.66,
+      "text": "we struggled to speak and was recently diagnosed as nonverbal, right? What did we do? We escalated the problem. Now I might be wondering, okay, well, if I have a three-year-old, again, relatable, and they are struggling to speak and I haven't had them actually diagnosed, like they might be diagnosed as nonverbal, right? We are escalating the problem. By doing that, we make it much more serious. Again, this is higher stakes. Now down here, again, escalate the problem with relatability and emotion. Hook."
+    },
+    {
+      "start": 632.66,
+      "end": 661.14,
+      "text": "Dental powder cleans dog teeth fast. Bridge, are you one of the 96% of dog owners who don't clean their dog's teeth daily? Now the bridge is essentially this where we're being relatable, but it's the next line here where we get this acceptance, right? Like, yeah, I am one of those people. Then we transition into escalating the problem, right? Well, by age three, you could be setting up your dog for a lifetime of dental issues, right? And again, this is what bridges do. They escalate the problem. Now I'm like, holy cow."
+    },
+    {
+      "start": 661.14,
+      "end": 664.42,
+      "text": "I really need to watch this to figure out what the solution is."
+    },
+    {
+      "start": 664.42,
+      "end": 693.74,
+      "text": "Now we're going to get into the third variation here, which is essentially escalating the desire. And again, using relatability or emotion here. Here's an example. Hook. Here is how to safely trim your dog's nails without fear, stress, or risk of infection. That is the hook. That is how we are essentially getting this person to watch. Again, trimming your dog's nails without this stuff. Usually when you trim your dog's nails, it has all of this. So we're kind of putting two things that don't go together. Again, essentially a juxtaposition. And the bridge is you're probably dreading tomorrow's nail."
+    },
+    {
+      "start": 693.74,
+      "end": 712.61,
+      "text": "battle as much as your dog is. But what if I showed you dogs actually falling asleep during trim? We've hit them with some relatability here. We said you're probably dreading tomorrow's nail battle. And again, this is emotional as well. Like you're dreading it. It's a really great word choice. And again, this is just something that is relatable. And the key thing here is."
+    },
+    {
+      "start": 712.61,
+      "end": 741.9,
+      "text": "We're not essentially escalating the problem a ton here. Essentially, we are by saying you're dreading tomorrow's nail battle. Like that is essentially dramatizing it. But what we're really doing here is we're escalating the desire by saying, what if I showed you dogs actually falling asleep during trims? And again, this is one of those things where that is the absolute dream outcome for this person, right? We've taken it to the furthest extreme where it's like your dog is sleeping. Like imagine that. Imagine your dog is just sleeping and you can trim its nails. That is exactly what I want. How do I do that? Again, bridge sets it."
+    },
+    {
+      "start": 741.9,
+      "end": 759.1,
+      "text": "up for me to keep watching the rest of the video. Another one to hear again from Dr. Squatch, you guys have seen this ad packs of women are going feral for the new Dr. Squatch scent. Okay, what is the bridge if you smell like this, I'm definitely coming over. Okay, well, now I need to know more about this product because I that's exactly what I want, right?"
+    },
+    {
+      "start": 759.1,
+      "end": 788.4,
+      "text": "escalated the desire. This girl is coming over, right? If just because I smell like this, right? And again, they're using visuals to escalate the desire as well, not just copy. But again, another example of how to escalate the desire. And then I have a framework down here as well. That is really, really good. And not just like a framework, but just another example. But again, hook, my husband didn't want me to use this. So I bought more. Again, that's a juxtaposition. Wait, your husband didn't want you to use it, but you bought more. That doesn't make sense, right? And then we get into the bridge. Nobody believes I'm 54 anymore. They're convinced I got"
+    },
+    {
+      "start": 788.4,
+      "end": 817.62,
+      "text": "some kind of expensive treatment, right? We are escalating the desire. How did this person get this outcome? Again, this is this third party recognition that can be so powerful where nobody believes that you're your age, right? That is the dream outcome that they have. And they're also convinced I got some expensive treatment. We've escalated the desire even further. We've just blown it right out of proportions. Essentially, like this is exactly what this person wants. Again, the hook grabs the attention. The bridge is what gets them to watch it. Now they want."
+    },
+    {
+      "start": 817.62,
+      "end": 831.06,
+      "text": "to learn exactly how to get this okay number four repositioning the problem now again this is something we do ideally with an authority and not an ai stomach but you guys can watch this ad essentially the hook is stop starving me you're making this worse"
+    },
+    {
+      "start": 831.06,
+      "end": 856.08,
+      "text": "right then the bridge although it's all coming from this ai stomach says i'm chubby because your cortisol is high and now you're spiking it even higher because i'm hungry and stressed right and so what they're saying is starving me is or starving yourself is only making the problem worse right that we're repositioning the problem that is not the problem the problem or like the solution is not to starve yourself we need to reposition it where it's like you have like a big stomach because your cortisol is high"
+    },
+    {
+      "start": 856.08,
+      "end": 880.34,
+      "text": "right? And so that's what we're doing. We're repositioning the problem and the authority is essentially the stomach, right? And they've done this in a very unique way where they're essentially using the stomach itself to talk. Here's another example, right? Hook, you don't need scratch mittens. You need him to stop scratching. All right, that's grabbed my attention. Okay, well, how? What's the bridge? Well, even on an image, there is still a bridge, right? Mittens control the scratching, but what's triggering the itch?"
+    },
+    {
+      "start": 880.34,
+      "end": 901.89,
+      "text": "remove what's causing it. Right. And now I'm interested in learning more. And this is where advertorials are great. And this is where listicles are great because now you can continue to provide the rest of the information. This could also be a video script, but I want you guys to understand that again, when you have your funnel set up the right way, and then you could fill in the rest of the information that the person needs, because now I'm like, okay, well, now that I understand that."
+    },
+    {
+      "start": 901.89,
+      "end": 917.89,
+      "text": "I am like essentially putting a bandaid on a deeper problem. Let's go ahead and figure out like what's causing it. Okay. So again, this bridge is now I want to, I want to understand how to fix this. Right. So again, I'm repositioning the problem. You need to not like, you're trying to solve a problem with like."
+    },
+    {
+      "start": 917.89,
+      "end": 947.18,
+      "text": "It's getting your kid to stop scratching where you just need to get to the actual core and you need to get to the root cause of the scratching. Now, again, be careful with saying root cause. I'm just letting you guys know. But again, let's go down to this one. Another ad from Rise. Rise is like kind of the kings of, I would say, like a lot of this stuff with repositioning problems. But again, hook, if you're, he literally says, if your, if your ass won't, it won't stop itching at night. Bridge is, again, the problem isn't skin related. Be careful because it could be something living inside of you. You guys can go and."
+    },
+    {
+      "start": 947.18,
+      "end": 972.51,
+      "text": "check out this video. And again, this is not essentially an authority, but when you speak like this and you're like, hey, the problem isn't actually skin related. You think it's this problem because you're itching, but it's actually something to do or could be something to do with living inside of you. And I like how they are careful with this because they're not saying you have something living inside of you. They're saying it could be this, right? And again, just that alone with smart writing and trying to be more compliant, you're able to, again,"
+    },
+    {
+      "start": 972.51,
+      "end": 977.26,
+      "text": "grab somebody's attention and get them to be like well i need to make sure that there isn't something living inside of me"
+    },
+    {
+      "start": 977.26,
+      "end": 1006.54,
+      "text": "right? Now that's everything to do with repositioning the problem. When we get down to number five down here, we have allude to new information, ideally from some form of an authority. Again, the hook is the hollow fiber revolution that's making cardiologists trash their own compression socks happen completely by accident, right? Now, again, this is a bit of a long drawn out hook, but there's an authority in here. How does this revolution happen by accident? And why are they throwing out their own compression socks, right? There's a lot of unanswered questions here. And then the bridge gets into, so why do most compression socks feel so uncomfortable?"
+    },
+    {
+      "start": 1006.54,
+      "end": 1016.46,
+      "text": "It turns out we've been using the wrong materials, right? Now, again, we're getting into this new information. We're getting somebody to watch the rest of the video because there's new information."
+    },
+    {
+      "start": 1016.46,
+      "end": 1045.78,
+      "text": "here. And it turns out they've been using the wrong materials. And again, now you're hooked. You want to keep watching because you're trying to figure out like, well, what materials, like what is the material that we need to use? Another bridge down here with new information. The hook says I've had four cats in my life. I'm embarrassed to say I just learned this, right? Again, someone who's supposed to be an authority. Why are they embarrassed? It's emotionally charged. Now the bridge here is my cat was trying to teach me something for years, but I ignored him. Every time he scratched my couch instead of his scratcher, he was actually showing me what he needed, right? What we're doing with this bridge here is we're"
+    },
+    {
+      "start": 1045.78,
+      "end": 1073.26,
+      "text": "We're creating suspense and we are alluding to new information, right? My cat was trying to tell me something. He kept doing this symptom and I realized he was just trying to show me what he needed, right? And now we're creating this, okay, like what is this cat trying to tell this person, right? The cat in this way is essentially an authority. And basically what's going on here is this guy's showing this information that he learned from his cat, okay? Another great example down here, hook."
+    },
+    {
+      "start": 1073.26,
+      "end": 1102.54,
+      "text": "Ever wonder why tick preventatives don't work anymore, right? This is this kind of question that is being posed, right? Bridge, my vet's revelation revealed something that the pet industry doesn't want you to know. This is alluding to new information where this person's saying like, my vet revealed something to me, revealed this new information that for some reason, the pet industry doesn't want you to know. Now, obviously this is dramatized, but again, there's new information. We're essentially setting up the fact that they're gonna learn something new. Same thing here. My cat was trying to teach me something, but I ignored him every time he..."
+    },
+    {
+      "start": 1102.54,
+      "end": 1128.99,
+      "text": "scratched. He was actually showing me what he needed. Okay. Again, we're going to learn something about that. Same with this. Why do most compression socks feel so uncomfortable? It turns out we've been using the wrong materials. I'm about to learn something new. Okay. So we're alluding to this new information. And then the sixth one down here is setting the timeline. Okay. So again, how long slash what will you explain? Hook. It took me 30 years of doing laundry to learn this, right? Establishing authority immediately. The bridge is I'll teach it to you in about one minute."
+    },
+    {
+      "start": 1128.99,
+      "end": 1146.59,
+      "text": "Now we're setting the timeline. The bridge has been set. Let's go ahead and explain what we're going to explain. But this is very important to make sure that you actually establish yourself as some form of authority in the beginning, which he does here, because now you know you're probably going to learn something interesting. And that next one down here, again, setting the timeline."
+    },
+    {
+      "start": 1146.59,
+      "end": 1161.92,
+      "text": "Hook, most people don't realize how fast mushroom coffee works. Bridge, here's what happens inside your body in the first seven days. Again, we're setting the timeline. We're basically telling people exactly what we're going to explain to them. And now they're just watching to kind of learn."
+    },
+    {
+      "start": 1161.92,
+      "end": 1184.3,
+      "text": "Right. And again, the hook here works because of the fact that mushroom coffee is a very big product market. Right. But again, he's saying here, most people don't realize how fast it works. So we're kind of calling out that, hey, most people don't even know this. Right. Again, in a way, kind of alluding to new information just in the hook. But again, the bridge is setting the timeline. It's setting people up to know what is coming in the app."
+    },
+    {
+      "start": 1184.3,
+      "end": 1213.74,
+      "text": "Okay. Scrolling down further, I talked about in media res. If we scroll all the way back up here, there's a lot of stuff in here. I talked about how we made an ad that spent over a million dollars using an in media res, AKA a bridge hook. Okay. And so if we scroll down here, I want to show you this framework because what we actually did is again, we just started it right at the bridge. You guys probably remember this from the new mechanism bridge that I showed up above where it's like, if you have X, watch this. What we did is we just cut that hook completely off and we had the."
+    },
+    {
+      "start": 1213.74,
+      "end": 1239.82,
+      "text": "bridge to start with right in the action this x mechanism helped me get this desire and y mechanism helps me with common problem right we just went straight into it and just this framework specifically and just this specific bridge just not having a hook at all just going straight to the bridge is what essentially led to this million dollar ad pro tip that i have for you guys here is don't think about doing this just write your entire ad and then after you write your entire ad"
+    },
+    {
+      "start": 1239.82,
+      "end": 1259.94,
+      "text": "Just literally look at the three hooks that you wrote for your 3-2-2 and just cut the hook off and play it and just see if the ad still makes sense. And just essentially test that as a variation to see, you know, as a fourth variation. So rather than doing 3-2-2, you can do 4-2-2. And then from there, you can see if just getting right to the action and just getting right to the point can work better for you."
+    },
+    {
+      "start": 1259.94,
+      "end": 1288.61,
+      "text": "Okay. What I love about this one is again, this is essentially a hookless ad from rise, right? He's just saying, he doesn't say anything other than drink alcohol. If you want to damage your liver, if you want to repair your liver, eat, I think he says like King trumpet or something, right? There's no hook here. We're just getting straight to the action. We're not saying here's, you know, six things that you need to know about like mushroom. Like they're just getting straight to the point. Right. And again, he's an authority. He's wearing a white coat. It says Blaine shivling, whatever his name is MD."
+    },
+    {
+      "start": 1288.61,
+      "end": 1308.16,
+      "text": "Here's another one from The Groove. You guys have seen this before. We don't say anything. We don't say like, here's the exact book that I use to keep my kid focused or my grandkid focused. We just get straight to the point, right? The unique groove design of these books. We just start right in it, right? We're right at the point. We're not setting anything up. We're just starting right in the action."
+    },
+    {
+      "start": 1308.16,
+      "end": 1335.04,
+      "text": "Okay. Again, here's another one from base supplies. That's a little less in media res because obviously they have this title of we make skincare for eczema. You'll see if I pull this up, just how this ad just gets straight to the point. So let me go ahead and play this. Yes. We make skincare from beef fat. Everyone thought we were crazy until their kid's eczema finally healed. Right. So again, we're not saying here's how we healed, uh, you know, this kid's eczema. We're just getting started this in our kitchen. We're literally just saying."
+    },
+    {
+      "start": 1335.04,
+      "end": 1345.01,
+      "text": "Yes, we make skincare from beef fat and everyone thought we were crazy, right? We're just getting straight to the point. We're not setting this up. We're not explaining this. We're just starting right inside of the action of this girl."
+    },
+    {
+      "start": 1345.01,
+      "end": 1371.33,
+      "text": "cutting this beef fat, right? And so again, there are tons of different examples. And I want you guys to pay attention to this, where if you guys see an ad that literally has no hook at all, that's essentially immediate, right? Like if you're starting right in the action, you're just cutting off the hook. And again, I still have context of what they're talking about here. I also still have context of what they're talking about here. Now here, I don't have as much context until I see the mushroom come in. But at the end of the day, we're just starting right in the action. We're not setting anything up. We're not."
+    },
+    {
+      "start": 1371.33,
+      "end": 1386.19,
+      "text": "you know, basically saying, here's what to expect, right? We're not doing anything other than just starting right in the action. Okay. And as I mentioned up here, again, ideally your bridge has some kind of context around what you're talking about. Otherwise this won't be as effective, but again, just."
+    },
+    {
+      "start": 1386.19,
+      "end": 1410.37,
+      "text": "follow this process, write your ad, cut the hook off and see what happens. Okay. And so this is how we write bridges, obviously pretty dense stuff inside of here, guys. But once you have your hook, it's very, very, very important that you consider the bridge that you're writing. And again, even in the 322 process, sometimes we don't just have one bridge for every single hook. A lot of the times we will customize the bridge as well. So the first, you know,"
+    },
+    {
+      "start": 1410.37,
+      "end": 1432.32,
+      "text": "eight to sometimes eight seconds are actually custom for each one of our three to two right and then we get into the whole that kind of explains everything else but we're definitely not just writing a hook and then having everything go to the same bridge we're really considering what is the hook saying what are we doing to grab their attention and how can we bridge that to keep them hooked in because the bridge is crucial okay so that"
+    },
+    {
+      "start": 1432.32,
+      "end": 1445.06,
+      "text": "is how to write a bridge again, the six ways to write bridges. And again, as the pro tip says down here, I would highly recommend that after you guys write your ads, look to see if there's an action shot where you guys can just, even if it's later in the ad, it might be."
+    },
+    {
+      "start": 1445.06,
+      "end": 1463.66,
+      "text": "kind of deeper in the ad where you just start it right there. And we'll talk a little bit more about that with payoffs and things like that in the module to follow. But my main thing here is try this as well and see if this works for you where you just get straight to the point. You don't try to set anything up. You don't be like in this video, I'm going to explain, you know, all of this and just get straight to the action and see what happens."
+    }
+  ]
+}

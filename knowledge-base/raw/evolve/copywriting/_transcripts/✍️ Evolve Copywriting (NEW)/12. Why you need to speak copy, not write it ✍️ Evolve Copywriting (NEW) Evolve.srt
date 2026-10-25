@@ -1,0 +1,255 @@
+1
+00:00:00,000 --> 00:00:03,620
+All right, so in this module, we'll be covering a very short, but very important and powerful
+
+2
+00:00:03,620 --> 00:00:08,400
+one, which is why you need to speak copy and not write it.
+
+3
+00:00:08,800 --> 00:00:11,920
+And so this is something that when I first heard it, I was like, oh yeah, that makes
+
+4
+00:00:11,920 --> 00:00:12,140
+sense.
+
+5
+00:00:12,300 --> 00:00:16,380
+So this is going to be very simple to the point, but I want to jump straight into an
+
+6
+00:00:16,380 --> 00:00:21,220
+example here because imagine you were selling a MacBook Air and most of you would probably
+
+7
+00:00:21,220 --> 00:00:24,620
+write copy or write a headline that says, you know, if you were like, oh, I need to
+
+8
+00:00:24,620 --> 00:00:25,440
+state a fact, right?
+
+9
+00:00:25,500 --> 00:00:26,980
+I want to try to make it visual.
+
+10
+00:00:26,980 --> 00:00:29,520
+It's like the MacBook Air is just 40 millimeters thin.
+
+11
+00:00:30,660 --> 00:00:30,840
+Right.
+
+12
+00:00:31,280 --> 00:00:32,260
+Seems fair enough.
+
+13
+00:00:32,340 --> 00:00:32,900
+Seems decent.
+
+14
+00:00:33,020 --> 00:00:35,020
+That's something that most writers would probably write.
+
+15
+00:00:35,380 --> 00:00:39,380
+Whereas if you think about, okay, I'm speaking to somebody, right?
+
+16
+00:00:39,540 --> 00:00:40,580
+Again, that is written.
+
+17
+00:00:40,940 --> 00:00:45,800
+You might grab an envelope and grab a MacBook Air and do what Steve Jobs did if you're a
+
+18
+00:00:45,800 --> 00:00:50,860
+great marketer and put the laptop inside of the envelope and say, this is how thin the
+
+19
+00:00:50,860 --> 00:00:52,800
+MacBook Air is, right?
+
+20
+00:00:54,140 --> 00:00:56,420
+Pretty, pretty visual to see how thin it is.
+
+21
+00:00:56,420 --> 00:00:57,920
+You're like, wow, that's crazy.
+
+22
+00:00:58,120 --> 00:00:58,300
+Okay.
+
+23
+00:00:58,640 --> 00:00:59,740
+This is spoken.
+
+24
+00:01:00,160 --> 00:01:04,180
+And the quote that, you know, I'm pulling here from Harry as well as the guy who actually
+
+25
+00:01:04,180 --> 00:01:07,900
+said it is, would this help a salesman sell the goods?
+
+26
+00:01:08,060 --> 00:01:09,900
+That is a question that you have to ask yourself, right?
+
+27
+00:01:09,960 --> 00:01:10,980
+And that's from Claude Hopkins.
+
+28
+00:01:11,800 --> 00:01:14,040
+Obviously wrote one of the most famous books about copywriting.
+
+29
+00:01:14,040 --> 00:01:20,040
+But here, again, like just to spensify it, it's like when you're writing your ads, imagine
+
+30
+00:01:20,040 --> 00:01:25,200
+you are a door-to-door salesperson, you know, what are you going to say, right?
+
+31
+00:01:25,200 --> 00:01:28,600
+Like if you were selling, you know, I don't know, something to do with fitness, would you
+
+32
+00:01:28,600 --> 00:01:31,040
+be like, this is a revolutionary fitness experience?
+
+33
+00:01:31,040 --> 00:01:32,860
+It's like, probably not.
+
+34
+00:01:32,880 --> 00:01:33,880
+Like, that's just, okay.
+
+35
+00:01:33,880 --> 00:01:34,960
+Like, what does it do?
+
+36
+00:01:35,060 --> 00:01:35,220
+Right?
+
+37
+00:01:35,220 --> 00:01:37,720
+Like, it doesn't make sense, okay?
+
+38
+00:01:38,120 --> 00:01:43,780
+And so, again, when you're writing and you're thinking from this frame of like, I'm going
+
+39
+00:01:43,780 --> 00:01:49,020
+to have to say this to a person in person, you know, door-to-door sales, that helps you
+
+40
+00:01:49,020 --> 00:01:52,140
+kind of clean up your writing and think about what you're actually saying, okay?
+
+41
+00:01:52,260 --> 00:01:57,080
+And again, remember that for your videos that you guys are writing, the video briefs that
+
+42
+00:01:57,080 --> 00:02:01,060
+you're writing, they are either going to be spoken by a person, right?
+
+43
+00:02:01,260 --> 00:02:05,600
+Sometimes a UGC creator will actually just do a voiceover, or nowadays it's usually spoken
+
+44
+00:02:05,600 --> 00:02:07,720
+by an AI, which an AI does a voiceover.
+
+45
+00:02:08,420 --> 00:02:13,400
+And especially if you guys are doing UGC frameworks and UGC in general with people, like they're actually
+
+46
+00:02:13,400 --> 00:02:19,040
+filming their own videos, then you 100% want it to be written like a person is going to
+
+47
+00:02:19,040 --> 00:02:19,460
+speak it.
+
+48
+00:02:19,840 --> 00:02:24,060
+And even for those of you that decide to use AI people, although we're not quite there
+
+49
+00:02:24,060 --> 00:02:25,200
+yet, same thing, right?
+
+50
+00:02:25,420 --> 00:02:29,620
+Like, you have to have it speak like a person, right?
+
+51
+00:02:29,760 --> 00:02:35,100
+And then the only other option that you have for videos is like text on screen, which is,
+
+52
+00:02:35,380 --> 00:02:38,700
+again, still being kind of spoken in the consumer's own voice, right?
+
+53
+00:02:38,700 --> 00:02:42,980
+It's being read in the consumer's own voice when they're seeing the ad, okay?
+
+54
+00:02:42,980 --> 00:02:48,080
+And so your ads are already being spoken, so you need to write like it, okay?
+
+55
+00:02:48,480 --> 00:02:54,620
+So again, big credit to Harry, big credit to Claude on this very simple but very powerful
+
+56
+00:02:54,620 --> 00:02:55,060
+concept.
+
+57
+00:02:55,480 --> 00:02:59,620
+And I hope this helps you guys, again, visualize your copy and think about like, what am I
+
+58
+00:02:59,620 --> 00:03:01,720
+actually writing and am I actually speaking this?
+
+59
+00:03:01,940 --> 00:03:06,280
+And again, we're going to get into a little bit more around these sections here of like
+
+60
+00:03:06,280 --> 00:03:11,720
+show, don't tell, because this is actually if you ask me kind of more about showing than
+
+61
+00:03:11,720 --> 00:03:15,740
+it is just about telling like, hey, this is 40 millimeters thin versus like, you know,
+
+62
+00:03:15,920 --> 00:03:17,320
+let me just show you how thin it is.
+
+63
+00:03:17,420 --> 00:03:22,340
+It's a much powerful way, but this kind of falls in the same line of like, hey, your copy needs
+
+64
+00:03:22,340 --> 00:03:24,140
+to be spoken and not just written.

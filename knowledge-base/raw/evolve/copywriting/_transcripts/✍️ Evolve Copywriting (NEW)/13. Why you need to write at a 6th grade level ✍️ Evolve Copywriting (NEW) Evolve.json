@@ -1,0 +1,213 @@
+{
+  "source_file": "13. Why you need to write at a 6th grade level ✍️ Evolve Copywriting (NEW) Evolve.mp4",
+  "source_id": "mega:LlQnyCIZ:n9pSSBjQ",
+  "source_sha256": "3eec8e9c549422ed8f7dc58c5f5bbe17b01439b2d83baf54bdfec8ec848fcdc5",
+  "backend": "faster-whisper-cuda-int8_float16",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 187.63,
+  "last_segment_end": 187.62,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.66,
+      "text": "I guess in this video, no fancy slideshow, just very simply why you need to write at a sixth grade"
+    },
+    {
+      "start": 4.66,
+      "end": 8.8,
+      "text": "level. And I don't really need to over explain this because it's been proven by so many different"
+    },
+    {
+      "start": 8.8,
+      "end": 12.64,
+      "text": "people that you just need to keep your writing simple. Okay. And so the tool that we use is"
+    },
+    {
+      "start": 12.64,
+      "end": 17.34,
+      "text": "called the Hemingway app. So you can go to the Hemingway app and you can paste your text in there"
+    },
+    {
+      "start": 17.34,
+      "end": 22.68,
+      "text": "and it will actually tell you what grade level it's at. Okay. And the reason why we do this is"
+    },
+    {
+      "start": 22.68,
+      "end": 26.44,
+      "text": "because your customers don't want complicated language. They don't want to feel like they're"
+    },
+    {
+      "start": 26.44,
+      "end": 31.56,
+      "text": "reading a fricking research report, whenever you send it, send them or show them your ad. Okay."
+    },
+    {
+      "start": 31.66,
+      "end": 36.08,
+      "text": "They want easy to understand everyday language that you would use. So speak with them that way,"
+    },
+    {
+      "start": 36.12,
+      "end": 39.66,
+      "text": "right? You don't want to try to sound smarter than you actually are. There's no point in doing it."
+    },
+    {
+      "start": 39.7,
+      "end": 43.94,
+      "text": "There's no benefit in doing it. Okay. And so when you use the Hemingway app, what you are aiming for"
+    },
+    {
+      "start": 43.94,
+      "end": 50.16,
+      "text": "is grade six or below. And again, Claude is your friend on this and, you know, use Claude as we"
+    },
+    {
+      "start": 50.16,
+      "end": 56.0,
+      "text": "will talk about with caution. But my point is, and what I mean by caution is like, don't just take"
+    },
+    {
+      "start": 56.0,
+      "end": 61.08,
+      "text": "whatever it gives you, like actually analyze it. All right. Because for example, when you upload a"
+    },
+    {
+      "start": 61.08,
+      "end": 65.54,
+      "text": "script and it's like, oh crap, this is like 11th grade reading level because you guys wrote a VSL"
+    },
+    {
+      "start": 65.54,
+      "end": 69.24,
+      "text": "that's, you know, trying to change everybody's mind. But it's like, if your language is too"
+    },
+    {
+      "start": 69.24,
+      "end": 73.34,
+      "text": "complicated, like nobody's going to understand. Okay. And just to show you some examples, it's like,"
+    },
+    {
+      "start": 73.36,
+      "end": 77.28,
+      "text": "okay, here's an ad here where you can see, I just copied this text and I paste it in here."
+    },
+    {
+      "start": 77.28,
+      "end": 81.5,
+      "text": "And this is at a grade five. It's like, okay, great. It looks like Hemingway is like optimizing this"
+    },
+    {
+      "start": 81.5,
+      "end": 84.94,
+      "text": "as well. They got like some editor plus we haven't played with this yet. But again, yeah,"
+    },
+    {
+      "start": 84.94,
+      "end": 90.76,
+      "text": "you can look at words with a simpler alternative, or you can check out, you know, Hey, this is a hard"
+    },
+    {
+      "start": 90.76,
+      "end": 94.34,
+      "text": "to read sentence. And what's really cool about Hemingway as well. And I'm going to show you guys"
+    },
+    {
+      "start": 94.34,
+      "end": 98.68,
+      "text": "this too, is like, it'll also tell you when it's just hard to read. So some of you guys just like"
+    },
+    {
+      "start": 98.68,
+      "end": 105.18,
+      "text": "throw blocks of texts like this into your ad, like you'll have a big paragraph of text. And look at this,"
+    },
+    {
+      "start": 105.2,
+      "end": 112.22,
+      "text": "like the readability of this is grade 13. Okay. And if you just format it in a clearer way,"
+    },
+    {
+      "start": 112.22,
+      "end": 117.32,
+      "text": "it goes all the way down to grade five, this is the exact same text. It's just simplified down and"
+    },
+    {
+      "start": 117.32,
+      "end": 123.76,
+      "text": "it's easier to read. Okay. And so it's not just about the words that you're using. It's also about"
+    },
+    {
+      "start": 123.76,
+      "end": 131.24,
+      "text": "the actual format that it's in. Okay. Same thing here, like alleviate might be too much of a, of a,"
+    },
+    {
+      "start": 131.5,
+      "end": 136.86,
+      "text": "you know, big word for them. Or like, again, vital, vital plus ice baths are designed to fuel your"
+    },
+    {
+      "start": 136.86,
+      "end": 141.58,
+      "text": "progress, like feel your part. What does that even mean? That's so trippish. But anyways, like you get"
+    },
+    {
+      "start": 141.58,
+      "end": 145.46,
+      "text": "the point, right? This is the sentence is hard to read, right? Cools, waters, those three degrees"
+    },
+    {
+      "start": 145.46,
+      "end": 150.84,
+      "text": "save thousands and ice bath anywhere, anytime military grade to build for durability. Okay."
+    },
+    {
+      "start": 151.04,
+      "end": 155.78,
+      "text": "Again, this copy is a copy that, you know, they haven't been to the copywriting program yet. But my"
+    },
+    {
+      "start": 155.78,
+      "end": 159.94,
+      "text": "point is, is use Hemingway. There's not much more than I need to add than that. It'll help you"
+    },
+    {
+      "start": 159.94,
+      "end": 163.64,
+      "text": "simplify your writing down. It'll tell you where things are overly complex because again, if you're"
+    },
+    {
+      "start": 163.64,
+      "end": 169.1,
+      "text": "overly complex, it just doesn't benefit you, right? Like nobody is going to be mad if something is"
+    },
+    {
+      "start": 169.1,
+      "end": 172.88,
+      "text": "easy to read. But if something isn't easy to read or something isn't easy to follow,"
+    },
+    {
+      "start": 173.28,
+      "end": 177.22,
+      "text": "there more people are going to be mad. Okay. I've never complained about like, oh, wow, that was such"
+    },
+    {
+      "start": 177.22,
+      "end": 182.24,
+      "text": "a simple and easy sentence to read. So just use Hemingway. It's your friend. Whenever you write"
+    },
+    {
+      "start": 182.24,
+      "end": 185.78,
+      "text": "a brief, whenever you write a script, drop it in there and just check it again. This will be part"
+    },
+    {
+      "start": 185.78,
+      "end": 187.62,
+      "text": "of the copywriting toolkit for you guys as well."
+    }
+  ]
+}

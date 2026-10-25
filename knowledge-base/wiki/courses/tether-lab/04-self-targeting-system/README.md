@@ -5,6 +5,8 @@ course: tether-lab
 module: 04-self-targeting-system
 order: 4
 sources:
+  - "raw/tether-lab/_extracted/4. The Self Targeting System/9. 9._Quiz!_-_The_Self_Targeting_System_·_Tether_Lab.md"
+  - "raw/tether-lab/_extracted/4. The Self Targeting System/12_Bonus_Get_CreativeOS_1_Month_Free_The_Self_Targeting.md"
   - raw/tether-lab/_transcripts/4. The Self Targeting System/
   - raw/tether-lab/_extracted/4. The Self Targeting System/
   - raw/tether-lab/4. The Self Targeting System/

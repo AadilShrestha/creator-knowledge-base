@@ -3,12 +3,13 @@ title: "Overview"
 type: overview
 sources:
   - raw/tether-lab/
+  - knowledge-base/wiki/courses/evolve/copywriting/README.md
 tags: [overview, synthesis]
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Overview
-> What this knowledge base knows, how the pieces fit together, and what's still missing. Read this for the big picture; use [AGENTS.md](../AGENTS.md) and the [playbooks](playbooks/README.md) to get work done.
+> What this knowledge base knows, how the pieces fit together, and what's still missing. Read this for the big picture; use [AGENT-GUIDE.md](../AGENT-GUIDE.md) and the [playbooks](playbooks/README.md) to get work done.
 
 ## 🤖 Agent use
 - **Use when:** orienting yourself, or explaining the overall method to a human or another agent.
@@ -24,6 +25,7 @@ updated: 2026-10-20
 | Course | Instructor | Status | What it adds |
 |---|---|---|---|
 | [Tether Lab](courses/tether-lab/README.md) | [Sarah Levinger](people/sarah-levinger.md) | ✅ fully ingested: 7 modules, 21 lesson videos, 16 live recordings (≈19 h of video), 9 PDFs, 1 DOCX, ~75 Skool pages | The *psychology* layer: why ads work |
+| [Evolve Copywriting](courses/evolve/copywriting/README.md) | Spencer Pawliw | ✅ fully ingested: 72 lessons (59 videos, ≈14.7 h), 11 DOCX, 1 XLSX, 1 PDF, 72 Skool pages, 104 page images, 9 linked Google Docs | The *copy-craft and iteration* layer: how to write hooks, bridges, scripts and statics, and what to change after a test |
 | Zakaria Marketing Masterclass 2026 | Zakaria | ⏳ not yet ingested | Product and market research, avatar research, advertorials, Meta campaigns, UGC engine, copywriting |
 | Stefan Georgi: RMBC II | Stefan Georgi | ⏳ not yet ingested | Research → mechanism → brief → copy; VSLs, advertorials, PDPs, upsells, email |
 | Ecomtalent (Karlo) | Karlo | ⏳ not yet ingested | Making ads and scaling e-commerce brands |
@@ -37,6 +39,18 @@ updated: 2026-10-20
 6. Buyers move through **TEEP** (Trigger → Exploration → Evaluation → Purchase). Different copy wins at each stage. ([TEEP](frameworks/teep-journey.md))
 7. **Ability** is the most neglected lever (B = MAP): show "this works for *me*", and kill friction. ([Fogg](frameworks/fogg-behavior-model.md), [barrier buster](concepts/barrier-buster.md))
 8. Test small and often, and **vary proven primitives** rather than chasing net-new ideas. ([creative testing system](frameworks/creative-testing-system.md), [creative primitives](concepts/creative-primitives.md))
+
+## The Evolve Copywriting worldview in 8 lines
+1. Judge copy only by results; "really good" and "not converting" don't belong in the same sentence. ([L03](courses/evolve/copywriting/lessons/03-how-to-guarantee-you-get-better-at-copywriting.md))
+2. Every line should pass three checks: can you **visualise** it, can you **falsify** it, could **nobody else** say it? ([three copy checks](courses/evolve/copywriting/concepts/three-copy-checks.md))
+3. Build an ad from the idea chain: avatar → angle (the reason to buy) → mechanism (the proof) → authority (the credibility), at a chosen awareness level. ([avatars and angles](courses/evolve/copywriting/concepts/avatars-and-angles.md), [market awareness](courses/evolve/copywriting/concepts/market-awareness.md))
+4. A hook must stop *and* stick: emotion + curiosity gap + stakes, no backstory, works muted; then a **bridge** keeps them. ([hooks](courses/evolve/copywriting/concepts/hooks.md), [bridges](courses/evolve/copywriting/concepts/bridges.md))
+5. Write facts, not opinions; speak it, cut the fluff, grade 6; show, don't tell. ([compression and plain language](courses/evolve/copywriting/concepts/compression-and-plain-language.md), [show don't tell](courses/evolve/copywriting/concepts/show-dont-tell.md))
+6. Stories need change, withheld information, stakes, but/so tension, cause and effect, and an enemy. ([story building blocks](courses/evolve/copywriting/concepts/story-building-blocks.md))
+7. Position to be **different, not better**. ([positioning](courses/evolve/copywriting/concepts/positioning.md))
+8. Name the test outcome (loser / KPI winner / spend winner / breakthrough) before iterating, then fix the component that failed. ([iteration outcomes](courses/evolve/copywriting/concepts/iteration-outcomes.md), [iteration playbook](courses/evolve/copywriting/frameworks/iteration-playbook.md))
+
+How the two courses fit together: Tether Lab explains **why** an ad works (psychology lenses); Evolve explains **how to write and iterate** it (copy craft). Use both. Where they disagree, see [contradictions](contradictions.md#cross-creator-tether-lab-vs-evolve-copywriting-29).
 
 ## How the knowledge base maps onto the UGC pipeline
 
@@ -55,6 +69,8 @@ flowchart LR
   I --> B
 ```
 
+Each step also has an Evolve equivalent: [ad idea → brief](courses/evolve/copywriting/playbooks/ad-idea-to-brief.md), [video ad script](courses/evolve/copywriting/playbooks/write-a-video-ad-script.md), [static image ads](courses/evolve/copywriting/playbooks/write-static-image-ads.md), [iterate on test results](courses/evolve/copywriting/playbooks/iterate-on-test-results.md), quality gate [copy checklist scorecard](courses/evolve/copywriting/rubrics/copy-checklist-scorecard.md), and the [Evolve libraries](courses/evolve/copywriting/libraries/README.md).
+
 | Pipeline step | Playbook | Frameworks used | Libraries used |
 |---|---|---|---|
 | Tear down competitors | [competitor-ad-teardown](playbooks/competitor-ad-teardown.md), [landscape audit](playbooks/competitor-landscape-audit.md) | V&I diagnostic, three-selves diagnostic, TEEP, Leach mindstates | [ad teardowns](libraries/ad-teardowns.md), [brands](brands/README.md) |
@@ -65,6 +81,6 @@ flowchart LR
 | Test & iterate | [test-and-iterate](playbooks/test-and-iterate.md) | creative testing system, format ladder, 3 Vs | — |
 
 ## Coverage notes and gaps
-- **Format bias:** Tether Lab mostly teaches **static ads** and landing pages. Guidance for UGC/video is in May 14 (story frameworks), the Joanna Wallace session (humor, skeptic format) and scattered Q&A. Many UGC adaptations in this wiki are marked **(derived)**. The video-heavy courses still to ingest (Zakaria's UGC Engine, Karlo, RMBC VSLs) will fill this gap.
+- **Format bias:** Tether Lab mostly teaches **static ads** and landing pages. Evolve Copywriting adds a full video-script process ([L70–72](courses/evolve/copywriting/frameworks/video-ad-script-workflow.md)), but it is built for **AI-voiceover + B-roll** ads; on-camera UGC adaptations are marked **(derived)**. Still to ingest: Zakaria's UGC Engine, Karlo, RMBC VSLs.
 - **Uncited stats:** Sarah often quotes studies from memory. The pages flag them; never use them as claims in ads.
 - **Source quality:** transcripts are machine-generated (Whisper large-v3-turbo) with names corrected by hand. The video frames carry a reseller watermark. Quizzes and some promised resources are missing. See [contradictions & open questions](contradictions.md).

@@ -1,0 +1,2571 @@
+{
+ "course": "tether-lab",
+ "creator": "sarah-levinger",
+ "source": "https://mega.nz/folder/ipoWHTDb (MEGA public folder)",
+ "file_count": 123,
+ "total_bytes": 6075583703,
+ "files": [
+  {
+   "id": "TL-001",
+   "original_path": "1. Start Here/1. Welcome to Tether lab.mp4",
+   "size": 47734936,
+   "type": "mp4",
+   "mega_handle": "H8ggDJDI",
+   "stages": {
+    "downloaded": true,
+    "audio_only": false,
+    "transcribed": true,
+    "frames": true
+   },
+   "evidence": [
+    "raw/tether-lab/_transcripts/1. Start Here/1. Welcome to Tether lab.txt"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/01-start-here/01-welcome-to-tether-lab.md",
+    "wiki/courses/tether-lab/01-start-here/02-book-your-onboarding-session.md",
+    "wiki/courses/tether-lab/01-start-here/README.md",
+    "wiki/people/sarah-levinger.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-002",
+   "original_path": "1. Start Here/1_1️⃣_Welcome_to_Tether_Lab_👋_Start_Here_·_Tether_Lab.html",
+   "size": 116133,
+   "type": "html",
+   "mega_handle": "2h4QSJAL",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/1. Start Here/1_1️⃣_Welcome_to_Tether_Lab_👋_Start_Here_·_Tether_Lab.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/01-start-here/01-welcome-to-tether-lab.md",
+    "wiki/courses/tether-lab/01-start-here/README.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-003",
+   "original_path": "1. Start Here/2_2️⃣_Book_your_onboarding_session_Start_Here_·_Tether_.html",
+   "size": 161755,
+   "type": "html",
+   "mega_handle": "yo422bQT",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/1. Start Here/2_2️⃣_Book_your_onboarding_session_Start_Here_·_Tether_.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/01-start-here/02-book-your-onboarding-session.md",
+    "wiki/courses/tether-lab/01-start-here/README.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-004",
+   "original_path": "1. Start Here/3. 3️⃣_Start_learning!_-_Start_Here_·_Tether_Lab.html",
+   "size": 166826,
+   "type": "html",
+   "mega_handle": "u1gWSRaJ",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/1. Start Here/3. 3️⃣_Start_learning!_-_Start_Here_·_Tether_Lab.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/01-start-here/03-start-learning.md",
+    "wiki/courses/tether-lab/01-start-here/README.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-005",
+   "original_path": "1. Start Here/4. 📕_Community_Guidelines_-_Start_Here_·_Tether_Lab.html",
+   "size": 162470,
+   "type": "html",
+   "mega_handle": "i542EZjT",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/1. Start Here/4. 📕_Community_Guidelines_-_Start_Here_·_Tether_Lab.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/01-start-here/04-community-guidelines.md",
+    "wiki/courses/tether-lab/01-start-here/README.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-006",
+   "original_path": "2. Heuristics 101/1. Targeting the Decision-Making Brain.mp4",
+   "size": 24234747,
+   "type": "mp4",
+   "mega_handle": "D4wCgDJT",
+   "stages": {
+    "downloaded": true,
+    "audio_only": false,
+    "transcribed": true,
+    "frames": true
+   },
+   "evidence": [
+    "raw/tether-lab/_transcripts/2. Heuristics 101/1. Targeting the Decision-Making Brain.txt"
+   ],
+   "wiki_pages": [
+    "wiki/brands/copper-cow-coffee.md",
+    "wiki/brands/dominos.md",
+    "wiki/concepts/heuristics.md",
+    "wiki/concepts/subconscious-vs-conscious-mind.md",
+    "wiki/courses/tether-lab/02-heuristics-101/01-targeting-the-decision-making-brain.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-007",
+   "original_path": "2. Heuristics 101/1_1_Targeting_the_Decision_Making_Brain_Heuristics_101_.html",
+   "size": 233629,
+   "type": "html",
+   "mega_handle": "K55m0ToQ",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/2. Heuristics 101/1_1_Targeting_the_Decision_Making_Brain_Heuristics_101_.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/02-heuristics-101/01-targeting-the-decision-making-brain.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-008",
+   "original_path": "2. Heuristics 101/2. 2._Using_Biases_That_Sell_-_Heuristics_101_·_Tether_.html",
+   "size": 234689,
+   "type": "html",
+   "mega_handle": "SkpyFBpb",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/2. Heuristics 101/2. 2._Using_Biases_That_Sell_-_Heuristics_101_·_Tether_.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/02-heuristics-101/02-using-biases-that-sell.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-009",
+   "original_path": "2. Heuristics 101/2. Using The Biases That Sell.mp4",
+   "size": 22094640,
+   "type": "mp4",
+   "mega_handle": "vxpkVBSD",
+   "stages": {
+    "downloaded": true,
+    "audio_only": false,
+    "transcribed": true,
+    "frames": true
+   },
+   "evidence": [
+    "raw/tether-lab/_transcripts/2. Heuristics 101/2. Using The Biases That Sell.txt"
+   ],
+   "wiki_pages": [
+    "wiki/brands/crazy-compression.md",
+    "wiki/brands/kfc.md",
+    "wiki/brands/maelove.md",
+    "wiki/brands/pela.md",
+    "wiki/concepts/heuristics/authority-bias.md",
+    "wiki/concepts/heuristics/scarcity-heuristic.md",
+    "wiki/concepts/heuristics/social-proof.md",
+    "wiki/concepts/validation-over-authority.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-010",
+   "original_path": "2. Heuristics 101/3.Emotion,Clarity,Urgency.mp4",
+   "size": 22759462,
+   "type": "mp4",
+   "mega_handle": "zh52FDKa",
+   "stages": {
+    "downloaded": true,
+    "audio_only": false,
+    "transcribed": true,
+    "frames": true
+   },
+   "evidence": [
+    "raw/tether-lab/_transcripts/2. Heuristics 101/3.Emotion,Clarity,Urgency.txt"
+   ],
+   "wiki_pages": [
+    "wiki/brands/ankhway.md",
+    "wiki/brands/high-camp-flasks.md",
+    "wiki/brands/legends.md",
+    "wiki/concepts/heuristics/affect-heuristic.md",
+    "wiki/concepts/heuristics/processing-fluency.md",
+    "wiki/concepts/heuristics/temporal-discounting.md",
+    "wiki/concepts/model-image-psychology.md",
+    "wiki/courses/tether-lab/02-heuristics-101/03-emotion-clarity-urgency.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-011",
+   "original_path": "2. Heuristics 101/3_3_Emotion,_Clarity,_Urgency_Heuristics_101_·_Tether_L.html",
+   "size": 235829,
+   "type": "html",
+   "mega_handle": "O5xiBDIb",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/2. Heuristics 101/3_3_Emotion,_Clarity,_Urgency_Heuristics_101_·_Tether_L.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/02-heuristics-101/03-emotion-clarity-urgency.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-012",
+   "original_path": "2. Heuristics 101/4. Hook Attention, Guide Behaviour.mp4",
+   "size": 25783892,
+   "type": "mp4",
+   "mega_handle": "Hto0QBhK",
+   "stages": {
+    "downloaded": true,
+    "audio_only": false,
+    "transcribed": true,
+    "frames": true
+   },
+   "evidence": [
+    "raw/tether-lab/_transcripts/2. Heuristics 101/4. Hook Attention, Guide Behaviour.txt"
+   ],
+   "wiki_pages": [
+    "wiki/brands/shay-and-blue.md",
+    "wiki/concepts/heuristic-stacking.md",
+    "wiki/concepts/heuristics/framing-effect.md",
+    "wiki/concepts/heuristics/goal-gradient-effect.md",
+    "wiki/concepts/heuristics/salience-bias.md",
+    "wiki/courses/tether-lab/02-heuristics-101/04-hook-attention-guide-behavior.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-013",
+   "original_path": "2. Heuristics 101/4_4_Hook_Attention,_Guide_Behavior_Heuristics_101_·_Tet.html",
+   "size": 236868,
+   "type": "html",
+   "mega_handle": "z8hygTIQ",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/2. Heuristics 101/4_4_Hook_Attention,_Guide_Behavior_Heuristics_101_·_Tet.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/02-heuristics-101/04-hook-attention-guide-behavior.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-014",
+   "original_path": "2. Heuristics 101/5. Stacking Psychology for growth.mp4",
+   "size": 40050499,
+   "type": "mp4",
+   "mega_handle": "K1hElLLL",
+   "stages": {
+    "downloaded": true,
+    "audio_only": false,
+    "transcribed": true,
+    "frames": true
+   },
+   "evidence": [
+    "raw/tether-lab/_transcripts/2. Heuristics 101/5. Stacking Psychology for growth.txt"
+   ],
+   "wiki_pages": [
+    "wiki/brands/high-camp-flasks.md",
+    "wiki/brands/pela.md",
+    "wiki/concepts/heuristic-stacking.md",
+    "wiki/concepts/heuristics.md",
+    "wiki/concepts/heuristics/affect-heuristic.md",
+    "wiki/concepts/heuristics/authority-bias.md",
+    "wiki/concepts/heuristics/choice-overload.md",
+    "wiki/concepts/heuristics/goal-gradient-effect.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-015",
+   "original_path": "2. Heuristics 101/5_5_Stacking_Psychology_for_Growth_Heuristics_101_·_Tet.html",
+   "size": 237933,
+   "type": "html",
+   "mega_handle": "6oxykBYT",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/2. Heuristics 101/5_5_Stacking_Psychology_for_Growth_Heuristics_101_·_Tet.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/02-heuristics-101/05-stacking-psychology-for-growth.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-016",
+   "original_path": "2. Heuristics 101/6. 6._Quiz!_-_Heuristics_101_·_Tether_Lab.html",
+   "size": 203738,
+   "type": "html",
+   "mega_handle": "i840SLbD",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/2. Heuristics 101/6. 6._Quiz!_-_Heuristics_101_·_Tether_Lab.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/02-heuristics-101/README.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-017",
+   "original_path": "2. Heuristics 101/7. Heuristics 101 e-book.pdf",
+   "size": 8395123,
+   "type": "pdf",
+   "mega_handle": "SopEiRzR",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/2. Heuristics 101/7. Heuristics 101 e-book.md"
+   ],
+   "wiki_pages": [
+    "wiki/brands/pela.md",
+    "wiki/concepts/heuristic-stacking.md",
+    "wiki/concepts/heuristics.md",
+    "wiki/concepts/heuristics/affect-heuristic.md",
+    "wiki/concepts/heuristics/authority-bias.md",
+    "wiki/concepts/heuristics/framing-effect.md",
+    "wiki/concepts/heuristics/goal-gradient-effect.md",
+    "wiki/concepts/heuristics/processing-fluency.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-018",
+   "original_path": "2. Heuristics 101/7_Bonus_Heuristics_101_Playbook_Heuristics_101_·_Tether.html",
+   "size": 207722,
+   "type": "html",
+   "mega_handle": "e95wAT7I",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/2. Heuristics 101/7_Bonus_Heuristics_101_Playbook_Heuristics_101_·_Tether.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/02-heuristics-101/07-bonus-heuristics-101-playbook.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-019",
+   "original_path": "2. Heuristics 101/8. Bonus Get Creative OS(1 month Free)Heuristics 101.mp4",
+   "size": 76096869,
+   "type": "mp4",
+   "mega_handle": "LsgQwLxD",
+   "stages": {
+    "downloaded": true,
+    "audio_only": false,
+    "transcribed": true,
+    "frames": true
+   },
+   "evidence": [
+    "raw/tether-lab/_transcripts/2. Heuristics 101/8. Bonus Get Creative OS(1 month Free)Heuristics 101.txt"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/02-heuristics-101/08-bonus-creativeos.md",
+    "wiki/people/README.md",
+    "wiki/people/chase-mohseni.md",
+    "wiki/tools/README.md",
+    "wiki/tools/canva.md",
+    "wiki/tools/creativeos.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-020",
+   "original_path": "2. Heuristics 101/8_Bonus_Get_CreativeOS_1_Month_Free_Heuristics_101_·_Te.html",
+   "size": 123169,
+   "type": "html",
+   "mega_handle": "K9pQyBgb",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/2. Heuristics 101/8_Bonus_Get_CreativeOS_1_Month_Free_Heuristics_101_·_Te.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/02-heuristics-101/08-bonus-creativeos.md",
+    "wiki/tools/creativeos.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-021",
+   "original_path": "3. The Valence & Intensity Model/1. The Real Reason Your Ad Isn't Working.mp4",
+   "size": 16834560,
+   "type": "mp4",
+   "mega_handle": "CwpwnB4a",
+   "stages": {
+    "downloaded": true,
+    "audio_only": false,
+    "transcribed": true,
+    "frames": true
+   },
+   "evidence": [
+    "raw/tether-lab/_transcripts/3. The Valence & Intensity Model/1. The Real Reason Your Ad Isn't Working.txt"
+   ],
+   "wiki_pages": [
+    "wiki/brands/copper-cow-coffee.md",
+    "wiki/concepts/emotional-misfire.md",
+    "wiki/courses/tether-lab/03-valence-intensity-model/01-the-real-reason-your-ad-isnt-working.md",
+    "wiki/courses/tether-lab/03-valence-intensity-model/02-understanding-valence-and-intensity.md",
+    "wiki/courses/tether-lab/03-valence-intensity-model/README.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-022",
+   "original_path": "3. The Valence & Intensity Model/10. Bonus Get CreativeOS ( 1 Month Free ) .mp4",
+   "size": 76096869,
+   "type": "mp4",
+   "mega_handle": "fpoWQTAJ",
+   "stages": {},
+   "status": "excluded",
+   "reason": "byte-size-identical duplicate video",
+   "canonical": "TL-019"
+  },
+  {
+   "id": "TL-023",
+   "original_path": "3. The Valence & Intensity Model/10_Bonus_Get_CreativeOS_1_Month_Free_The_Valence_&_Inte.html",
+   "size": 127703,
+   "type": "html",
+   "mega_handle": "m0oCHbZD",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/3. The Valence & Intensity Model/10_Bonus_Get_CreativeOS_1_Month_Free_The_Valence_&_Inte.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/03-valence-intensity-model/README.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-024",
+   "original_path": "3. The Valence & Intensity Model/1_1_The_Real_Reason_Your_Ad_Isn’t_Working_The_Valence_&.html",
+   "size": 246132,
+   "type": "html",
+   "mega_handle": "Do422L6C",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/3. The Valence & Intensity Model/1_1_The_Real_Reason_Your_Ad_Isn’t_Working_The_Valence_&.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/03-valence-intensity-model/01-the-real-reason-your-ad-isnt-working.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-025",
+   "original_path": "3. The Valence & Intensity Model/2.Understanding Valence & Intensity.mp4",
+   "size": 10340836,
+   "type": "mp4",
+   "mega_handle": "q4oGVBDa",
+   "stages": {
+    "downloaded": true,
+    "audio_only": false,
+    "transcribed": true,
+    "frames": true
+   },
+   "evidence": [
+    "raw/tether-lab/_transcripts/3. The Valence & Intensity Model/2.Understanding Valence & Intensity.txt"
+   ],
+   "wiki_pages": [
+    "wiki/concepts/intensity.md",
+    "wiki/concepts/valence.md",
+    "wiki/courses/tether-lab/03-valence-intensity-model/02-understanding-valence-and-intensity.md",
+    "wiki/courses/tether-lab/03-valence-intensity-model/README.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-026",
+   "original_path": "3. The Valence & Intensity Model/2_2_Understanding_Valence_&_Intensity_The_Valence_&_Int.html",
+   "size": 247143,
+   "type": "html",
+   "mega_handle": "exxy3bqI",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/3. The Valence & Intensity Model/2_2_Understanding_Valence_&_Intensity_The_Valence_&_Int.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/03-valence-intensity-model/02-understanding-valence-and-intensity.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-027",
+   "original_path": "3. The Valence & Intensity Model/3.The 4 Emotional Zones (a.k.a Your Target Map).mp4",
+   "size": 16694667,
+   "type": "mp4",
+   "mega_handle": "bg4ECZib",
+   "stages": {
+    "downloaded": true,
+    "audio_only": false,
+    "transcribed": true,
+    "frames": true
+   },
+   "evidence": [
+    "raw/tether-lab/_transcripts/3. The Valence & Intensity Model/3.The 4 Emotional Zones (a.k.a Your Target Map).txt"
+   ],
+   "wiki_pages": [
+    "wiki/concepts/emotional-zones.md",
+    "wiki/concepts/heuristics/loss-aversion.md",
+    "wiki/concepts/intensity.md",
+    "wiki/concepts/valence.md",
+    "wiki/courses/tether-lab/03-valence-intensity-model/03-the-4-emotional-zones.md",
+    "wiki/courses/tether-lab/03-valence-intensity-model/README.md",
+    "wiki/frameworks/valence-intensity-diagnostic.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-028",
+   "original_path": "3. The Valence & Intensity Model/3_3_The_4_Emotional_Zones_a_k_a_Your_Target_Map_The_Val.html",
+   "size": 248289,
+   "type": "html",
+   "mega_handle": "DhoABb4K",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/3. The Valence & Intensity Model/3_3_The_4_Emotional_Zones_a_k_a_Your_Target_Map_The_Val.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/03-valence-intensity-model/03-the-4-emotional-zones.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-029",
+   "original_path": "3. The Valence & Intensity Model/4. Diagnosing Emotional Misfires.mp4",
+   "size": 21976368,
+   "type": "mp4",
+   "mega_handle": "qwwU1L7Y",
+   "stages": {
+    "downloaded": true,
+    "audio_only": false,
+    "transcribed": true,
+    "frames": true
+   },
+   "evidence": [
+    "raw/tether-lab/_transcripts/3. The Valence & Intensity Model/4. Diagnosing Emotional Misfires.txt"
+   ],
+   "wiki_pages": [
+    "wiki/brands/copper-cow-coffee.md",
+    "wiki/brands/jaguar.md",
+    "wiki/brands/pela.md",
+    "wiki/concepts/emotional-misfire.md",
+    "wiki/concepts/emotional-zones.md",
+    "wiki/courses/tether-lab/03-valence-intensity-model/03-the-4-emotional-zones.md",
+    "wiki/courses/tether-lab/03-valence-intensity-model/04-diagnosing-emotional-misfires.md",
+    "wiki/courses/tether-lab/03-valence-intensity-model/05-fixing-the-tone-without-rebuilding-the-ad.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-030",
+   "original_path": "3. The Valence & Intensity Model/4_4_Diagnosing_Emotional_Misfires_The_Valence_&_Intensi.html",
+   "size": 249164,
+   "type": "html",
+   "mega_handle": "ykoUFRIK",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/3. The Valence & Intensity Model/4_4_Diagnosing_Emotional_Misfires_The_Valence_&_Intensi.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/03-valence-intensity-model/04-diagnosing-emotional-misfires.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-031",
+   "original_path": "3. The Valence & Intensity Model/5. Fixing The Tone Without Rebuilding the ad.mp4",
+   "size": 34543829,
+   "type": "mp4",
+   "mega_handle": "Ox4kXL6T",
+   "stages": {
+    "downloaded": true,
+    "audio_only": false,
+    "transcribed": true,
+    "frames": true
+   },
+   "evidence": [
+    "raw/tether-lab/_transcripts/3. The Valence & Intensity Model/5. Fixing The Tone Without Rebuilding the ad.txt"
+   ],
+   "wiki_pages": [
+    "wiki/brands/copper-cow-coffee.md",
+    "wiki/concepts/emotional-promise.md",
+    "wiki/concepts/emotional-zones.md",
+    "wiki/concepts/intensity.md",
+    "wiki/courses/tether-lab/03-valence-intensity-model/05-fixing-the-tone-without-rebuilding-the-ad.md",
+    "wiki/courses/tether-lab/03-valence-intensity-model/README.md",
+    "wiki/frameworks/tone-shifting.md",
+    "wiki/frameworks/valence-intensity-diagnostic.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-032",
+   "original_path": "3. The Valence & Intensity Model/5_5_Fixing_the_Tone_Without_Rebuilding_the_Ad_The_Valen.html",
+   "size": 250305,
+   "type": "html",
+   "mega_handle": "C5pSTBSb",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/3. The Valence & Intensity Model/5_5_Fixing_the_Tone_Without_Rebuilding_the_Ad_The_Valen.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/03-valence-intensity-model/05-fixing-the-tone-without-rebuilding-the-ad.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-033",
+   "original_path": "3. The Valence & Intensity Model/6. Map + Move Your Messaging.mp4",
+   "size": 14137563,
+   "type": "mp4",
+   "mega_handle": "70xyTTrC",
+   "stages": {
+    "downloaded": true,
+    "audio_only": false,
+    "transcribed": true,
+    "frames": true
+   },
+   "evidence": [
+    "raw/tether-lab/_transcripts/3. The Valence & Intensity Model/6. Map + Move Your Messaging.txt"
+   ],
+   "wiki_pages": [
+    "wiki/brands/copper-cow-coffee.md",
+    "wiki/concepts/emotional-misfire.md",
+    "wiki/concepts/emotional-promise.md",
+    "wiki/courses/tether-lab/03-valence-intensity-model/05-fixing-the-tone-without-rebuilding-the-ad.md",
+    "wiki/courses/tether-lab/03-valence-intensity-model/06-map-and-move-your-messaging.md",
+    "wiki/courses/tether-lab/03-valence-intensity-model/README.md",
+    "wiki/frameworks/tone-shifting.md",
+    "wiki/frameworks/valence-intensity-diagnostic.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-034",
+   "original_path": "3. The Valence & Intensity Model/6_6_Map_+_Move_Your_Messaging_The_Valence_&_Intensity_M.html",
+   "size": 251252,
+   "type": "html",
+   "mega_handle": "21pURbKT",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/3. The Valence & Intensity Model/6_6_Map_+_Move_Your_Messaging_The_Valence_&_Intensity_M.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/03-valence-intensity-model/06-map-and-move-your-messaging.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-035",
+   "original_path": "3. The Valence & Intensity Model/7_7_Quiz!_The_Valence_&_Intensity_Model_·_Tether_Lab.html",
+   "size": 217116,
+   "type": "html",
+   "mega_handle": "rkwGDTZB",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/3. The Valence & Intensity Model/7_7_Quiz!_The_Valence_&_Intensity_Model_·_Tether_Lab.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/03-valence-intensity-model/README.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-036",
+   "original_path": "3. The Valence & Intensity Model/8. Diagnose Why Your Ads Aren't Working.pdf",
+   "size": 2150409,
+   "type": "pdf",
+   "mega_handle": "iopyibyI",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/3. The Valence & Intensity Model/8. Diagnose Why Your Ads Aren't Working.md"
+   ],
+   "wiki_pages": [
+    "wiki/concepts/emotional-misfire.md",
+    "wiki/concepts/emotional-promise.md",
+    "wiki/concepts/emotional-zones.md",
+    "wiki/concepts/intensity.md",
+    "wiki/concepts/valence.md",
+    "wiki/courses/tether-lab/03-valence-intensity-model/08-bonus-diagnose-why-your-ads-arent-working-ebook.md",
+    "wiki/courses/tether-lab/03-valence-intensity-model/README.md",
+    "wiki/frameworks/tone-shifting.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-037",
+   "original_path": "3. The Valence & Intensity Model/8_Bonus_Diagnose_Why_Your_Ads_Aren't_Working_e_Book_The.html",
+   "size": 219910,
+   "type": "html",
+   "mega_handle": "3w5iVbYL",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/3. The Valence & Intensity Model/8_Bonus_Diagnose_Why_Your_Ads_Aren't_Working_e_Book_The.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/03-valence-intensity-model/08-bonus-diagnose-why-your-ads-arent-working-ebook.md",
+    "wiki/resources/diagnose-why-your-ads-arent-working-ebook.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-038",
+   "original_path": "3. The Valence & Intensity Model/9. Valence + Intensity - Prompts.pdf",
+   "size": 614059,
+   "type": "pdf",
+   "mega_handle": "Px4mhTTC",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/3. The Valence & Intensity Model/9. Valence + Intensity - Prompts.md"
+   ],
+   "wiki_pages": [
+    "wiki/concepts/emotional-zones.md",
+    "wiki/courses/tether-lab/03-valence-intensity-model/05-fixing-the-tone-without-rebuilding-the-ad.md",
+    "wiki/courses/tether-lab/03-valence-intensity-model/09-bonus-valence-intensity-prompts.md",
+    "wiki/courses/tether-lab/03-valence-intensity-model/README.md",
+    "wiki/frameworks/tone-shifting.md",
+    "wiki/resources/valence-intensity-prompts.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-039",
+   "original_path": "3. The Valence & Intensity Model/9_Bonus_Valence_+_Intensity_Prompts_The_Valence_&_Inten.html",
+   "size": 219720,
+   "type": "html",
+   "mega_handle": "rhoWHJpT",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/3. The Valence & Intensity Model/9_Bonus_Valence_+_Intensity_Prompts_The_Valence_&_Inten.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/03-valence-intensity-model/09-bonus-valence-intensity-prompts.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-040",
+   "original_path": "4. The Self Targeting System/1. Why your Ads Stop Working Over Time.mp4",
+   "size": 20805016,
+   "type": "mp4",
+   "mega_handle": "3gwQhRqZ",
+   "stages": {
+    "downloaded": true,
+    "audio_only": false,
+    "transcribed": true,
+    "frames": true
+   },
+   "evidence": [
+    "raw/tether-lab/_transcripts/4. The Self Targeting System/1. Why your Ads Stop Working Over Time.txt"
+   ],
+   "wiki_pages": [
+    "wiki/brands/copper-cow-coffee.md",
+    "wiki/concepts/angle-rut.md",
+    "wiki/concepts/self-targeting.md",
+    "wiki/courses/tether-lab/04-self-targeting-system/01-why-your-ads-stop-working-over-time.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-041",
+   "original_path": "4. The Self Targeting System/10. eBook Which ‘You’ Are You Selling To (2).pdf",
+   "size": 4636233,
+   "type": "pdf",
+   "mega_handle": "ytxSjTqC",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/4. The Self Targeting System/10. eBook Which ‘You’ Are You Selling To (2).md"
+   ],
+   "wiki_pages": [
+    "wiki/concepts/actual-self.md",
+    "wiki/concepts/ideal-self.md",
+    "wiki/concepts/ought-self.md",
+    "wiki/concepts/three-selves.md",
+    "wiki/courses/tether-lab/04-self-targeting-system/10-bonus-which-you-are-you-selling-to-playbook.md",
+    "wiki/frameworks/rewriting-ads-for-new-selves.md",
+    "wiki/frameworks/testing-ads-by-self-type.md",
+    "wiki/frameworks/three-selves-diagnostic.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-042",
+   "original_path": "4. The Self Targeting System/10_Bonus_Which_'You'_Are_You_Selling_To_Playbook_The_Se.html",
+   "size": 231886,
+   "type": "html",
+   "mega_handle": "G4pAQLhJ",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/4. The Self Targeting System/10_Bonus_Which_'You'_Are_You_Selling_To_Playbook_The_Se.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/04-self-targeting-system/10-bonus-which-you-are-you-selling-to-playbook.md",
+    "wiki/resources/which-you-are-you-selling-to-ebook.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-043",
+   "original_path": "4. The Self Targeting System/11. 3-Selves Course - Prompts.docx",
+   "size": 368414,
+   "type": "docx",
+   "mega_handle": "2poURRqC",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/4. The Self Targeting System/11. 3-Selves Course - Prompts.md"
+   ],
+   "wiki_pages": [
+    "wiki/concepts/three-selves.md",
+    "wiki/courses/tether-lab/04-self-targeting-system/05-run-the-3-selves-diagnostic-on-your-ads.md",
+    "wiki/courses/tether-lab/04-self-targeting-system/06-how-to-use-the-prompts-for-instant-insights.md",
+    "wiki/courses/tether-lab/04-self-targeting-system/07-how-to-rewrite-winning-ads-for-new-selves.md",
+    "wiki/courses/tether-lab/04-self-targeting-system/11-3-selves-analysis-prompts.md",
+    "wiki/frameworks/rewriting-ads-for-new-selves.md",
+    "wiki/frameworks/testing-ads-by-self-type.md",
+    "wiki/frameworks/three-selves-diagnostic.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-044",
+   "original_path": "4. The Self Targeting System/11_3_Selves_Analysis_Prompts_The_Self_Targeting_System_.html",
+   "size": 229233,
+   "type": "html",
+   "mega_handle": "n4hiWBgR",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/4. The Self Targeting System/11_3_Selves_Analysis_Prompts_The_Self_Targeting_System_.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/04-self-targeting-system/11-3-selves-analysis-prompts.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-045",
+   "original_path": "4. The Self Targeting System/12. Bonus Get CreativeOS ( 1 Month Free ) .mp4",
+   "size": 76096869,
+   "type": "mp4",
+   "mega_handle": "7lgCgRZa",
+   "stages": {},
+   "status": "excluded",
+   "reason": "byte-size-identical duplicate video",
+   "canonical": "TL-019"
+  },
+  {
+   "id": "TL-046",
+   "original_path": "4. The Self Targeting System/12_Bonus_Get_CreativeOS_1_Month_Free_The_Self_Targeting.html",
+   "size": 131985,
+   "type": "html",
+   "mega_handle": "bs5mQbaJ",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/4. The Self Targeting System/12_Bonus_Get_CreativeOS_1_Month_Free_The_Self_Targeting.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/04-self-targeting-system/README.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-047",
+   "original_path": "4. The Self Targeting System/1_1_Why_Your_Ads_Stop_Working_Over_Time_The_Self_Target.html",
+   "size": 256001,
+   "type": "html",
+   "mega_handle": "6wgUzDYS",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/4. The Self Targeting System/1_1_Why_Your_Ads_Stop_Working_Over_Time_The_Self_Target.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/04-self-targeting-system/01-why-your-ads-stop-working-over-time.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-048",
+   "original_path": "4. The Self Targeting System/2. Diagnose Which Self Your Ads Target.mp4",
+   "size": 22320968,
+   "type": "mp4",
+   "mega_handle": "yt4GTLbC",
+   "stages": {
+    "downloaded": true,
+    "audio_only": false,
+    "transcribed": true,
+    "frames": true
+   },
+   "evidence": [
+    "raw/tether-lab/_transcripts/4. The Self Targeting System/2. Diagnose Which Self Your Ads Target.txt"
+   ],
+   "wiki_pages": [
+    "wiki/brands/high-camp-flasks.md",
+    "wiki/courses/tether-lab/04-self-targeting-system/02-diagnose-which-self-your-ads-target.md",
+    "wiki/frameworks/three-selves-diagnostic.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-049",
+   "original_path": "4. The Self Targeting System/2_2_Diagnose_Which_Self_Your_Ads_Target_The_Self_Target.html",
+   "size": 257052,
+   "type": "html",
+   "mega_handle": "H9wwRZqJ",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/4. The Self Targeting System/2_2_Diagnose_Which_Self_Your_Ads_Target_The_Self_Target.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/04-self-targeting-system/02-diagnose-which-self-your-ads-target.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-050",
+   "original_path": "4. The Self Targeting System/3. Why One Self Isn't Enough to Scale.mp4",
+   "size": 35923274,
+   "type": "mp4",
+   "mega_handle": "i84WxDpa",
+   "stages": {
+    "downloaded": true,
+    "audio_only": false,
+    "transcribed": true,
+    "frames": true
+   },
+   "evidence": [
+    "raw/tether-lab/_transcripts/4. The Self Targeting System/3. Why One Self Isn't Enough to Scale.txt"
+   ],
+   "wiki_pages": [
+    "wiki/brands/copper-cow-coffee.md",
+    "wiki/brands/dominos.md",
+    "wiki/concepts/angle-rut.md",
+    "wiki/concepts/ideal-self.md",
+    "wiki/concepts/self-targeting.md",
+    "wiki/concepts/three-selves.md",
+    "wiki/courses/tether-lab/04-self-targeting-system/03-why-one-self-isnt-enough-to-scale.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-051",
+   "original_path": "4. The Self Targeting System/3_3_Why_One_Self_Isn’t_Enough_to_Scale_The_Self_Targeti.html",
+   "size": 258147,
+   "type": "html",
+   "mega_handle": "f84QxLSY",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/4. The Self Targeting System/3_3_Why_One_Self_Isn’t_Enough_to_Scale_The_Self_Targeti.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/04-self-targeting-system/03-why-one-self-isnt-enough-to-scale.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-052",
+   "original_path": "4. The Self Targeting System/4. The 3 Selves That Drive Every Buying Decision.mp4",
+   "size": 109917444,
+   "type": "mp4",
+   "mega_handle": "D1p0mRaB",
+   "stages": {
+    "downloaded": true,
+    "audio_only": false,
+    "transcribed": true,
+    "frames": true
+   },
+   "evidence": [
+    "raw/tether-lab/_transcripts/4. The Self Targeting System/4. The 3 Selves That Drive Every Buying Decision.txt"
+   ],
+   "wiki_pages": [
+    "wiki/concepts/actual-self.md",
+    "wiki/concepts/ideal-self.md",
+    "wiki/concepts/ought-self.md",
+    "wiki/concepts/three-selves.md",
+    "wiki/courses/tether-lab/04-self-targeting-system/04-the-3-selves-that-drive-every-buying-decision.md",
+    "wiki/frameworks/rewriting-ads-for-new-selves.md",
+    "wiki/people/README.md",
+    "wiki/people/e-tory-higgins.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-053",
+   "original_path": "4. The Self Targeting System/4_4_The_3_Selves_That_Drive_Every_Buying_Decision_The_S.html",
+   "size": 259204,
+   "type": "html",
+   "mega_handle": "K9hiCBqB",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/4. The Self Targeting System/4_4_The_3_Selves_That_Drive_Every_Buying_Decision_The_S.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/04-self-targeting-system/04-the-3-selves-that-drive-every-buying-decision.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-054",
+   "original_path": "4. The Self Targeting System/5. Run The 3 Selves Diagnostic on Your Ads.mp4",
+   "size": 28174020,
+   "type": "mp4",
+   "mega_handle": "Gt4AkbSC",
+   "stages": {
+    "downloaded": true,
+    "audio_only": false,
+    "transcribed": true,
+    "frames": true
+   },
+   "evidence": [
+    "raw/tether-lab/_transcripts/4. The Self Targeting System/5. Run The 3 Selves Diagnostic on Your Ads.txt"
+   ],
+   "wiki_pages": [
+    "wiki/brands/high-camp-flasks.md",
+    "wiki/concepts/actual-self.md",
+    "wiki/concepts/ought-self.md",
+    "wiki/courses/tether-lab/04-self-targeting-system/05-run-the-3-selves-diagnostic-on-your-ads.md",
+    "wiki/frameworks/three-selves-diagnostic.md",
+    "wiki/resources/three-selves-prompts.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-055",
+   "original_path": "4. The Self Targeting System/5_5_Run_the_3_Selves_Diagnostic_on_Your_Ads_The_Self_Ta.html",
+   "size": 260382,
+   "type": "html",
+   "mega_handle": "Gh50gLoD",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/4. The Self Targeting System/5_5_Run_the_3_Selves_Diagnostic_on_Your_Ads_The_Self_Ta.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/04-self-targeting-system/05-run-the-3-selves-diagnostic-on-your-ads.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-056",
+   "original_path": "4. The Self Targeting System/6. How to Use The Prompts For Instant Insights.mp4",
+   "size": 48017818,
+   "type": "mp4",
+   "mega_handle": "G45iXDiD",
+   "stages": {
+    "downloaded": true,
+    "audio_only": false,
+    "transcribed": true,
+    "frames": true
+   },
+   "evidence": [
+    "raw/tether-lab/_transcripts/4. The Self Targeting System/6. How to Use The Prompts For Instant Insights.txt"
+   ],
+   "wiki_pages": [
+    "wiki/brands/high-camp-flasks.md",
+    "wiki/concepts/ideal-self.md",
+    "wiki/courses/tether-lab/04-self-targeting-system/06-how-to-use-the-prompts-for-instant-insights.md",
+    "wiki/frameworks/testing-ads-by-self-type.md",
+    "wiki/frameworks/three-selves-diagnostic.md",
+    "wiki/resources/three-selves-prompts.md",
+    "wiki/tools/README.md",
+    "wiki/tools/chatgpt.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-057",
+   "original_path": "4. The Self Targeting System/6_6_How_to_Use_the_Prompts_for_Instant_Insights_The_Sel.html",
+   "size": 261476,
+   "type": "html",
+   "mega_handle": "j9gCFZpL",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/4. The Self Targeting System/6_6_How_to_Use_the_Prompts_for_Instant_Insights_The_Sel.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/04-self-targeting-system/06-how-to-use-the-prompts-for-instant-insights.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-058",
+   "original_path": "4. The Self Targeting System/7. How to Rewrite Winning Ads For New Selves .mp4",
+   "size": 19901569,
+   "type": "mp4",
+   "mega_handle": "rhxymJZA",
+   "stages": {
+    "downloaded": true,
+    "audio_only": false,
+    "transcribed": true,
+    "frames": true
+   },
+   "evidence": [
+    "raw/tether-lab/_transcripts/4. The Self Targeting System/7. How to Rewrite Winning Ads For New Selves .txt"
+   ],
+   "wiki_pages": [
+    "wiki/brands/high-camp-flasks.md",
+    "wiki/concepts/ought-self.md",
+    "wiki/concepts/self-targeting.md",
+    "wiki/courses/tether-lab/04-self-targeting-system/07-how-to-rewrite-winning-ads-for-new-selves.md",
+    "wiki/frameworks/rewriting-ads-for-new-selves.md",
+    "wiki/frameworks/testing-ads-by-self-type.md",
+    "wiki/resources/three-selves-prompts.md",
+    "wiki/tools/chatgpt.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-059",
+   "original_path": "4. The Self Targeting System/7_7_How_to_Rewrite_Winning_Ads_for_New_Selves_The_Self_.html",
+   "size": 262487,
+   "type": "html",
+   "mega_handle": "mwhE3Zha",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/4. The Self Targeting System/7_7_How_to_Rewrite_Winning_Ads_for_New_Selves_The_Self_.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/04-self-targeting-system/07-how-to-rewrite-winning-ads-for-new-selves.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-060",
+   "original_path": "4. The Self Targeting System/8. How to Test Your Ads By Self Type.mp4",
+   "size": 27190275,
+   "type": "mp4",
+   "mega_handle": "O4gSDTYL",
+   "stages": {
+    "downloaded": true,
+    "audio_only": false,
+    "transcribed": true,
+    "frames": true
+   },
+   "evidence": [
+    "raw/tether-lab/_transcripts/4. The Self Targeting System/8. How to Test Your Ads By Self Type.txt"
+   ],
+   "wiki_pages": [
+    "wiki/brands/high-camp-flasks.md",
+    "wiki/concepts/actual-self.md",
+    "wiki/concepts/angle-rut.md",
+    "wiki/concepts/ideal-self.md",
+    "wiki/concepts/ought-self.md",
+    "wiki/concepts/self-targeting.md",
+    "wiki/courses/tether-lab/04-self-targeting-system/08-how-to-test-your-ads-by-self-type.md",
+    "wiki/frameworks/creative-testing-system.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-061",
+   "original_path": "4. The Self Targeting System/8_8_How_to_Test_Your_Ads_by_Self_Type_The_Self_Targetin.html",
+   "size": 263487,
+   "type": "html",
+   "mega_handle": "Tsg22TrA",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/4. The Self Targeting System/8_8_How_to_Test_Your_Ads_by_Self_Type_The_Self_Targetin.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/04-self-targeting-system/08-how-to-test-your-ads-by-self-type.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-062",
+   "original_path": "4. The Self Targeting System/9. 9._Quiz!_-_The_Self_Targeting_System_·_Tether_Lab.html",
+   "size": 229149,
+   "type": "html",
+   "mega_handle": "G1gQgB7Q",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/4. The Self Targeting System/9. 9._Quiz!_-_The_Self_Targeting_System_·_Tether_Lab.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/04-self-targeting-system/README.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-063",
+   "original_path": "5. Recordings/July 2025/1. Roast My Ads #3 July 23, 2025 - Recordings.mp4",
+   "size": 248355218,
+   "type": "mp4",
+   "mega_handle": "K0wC2ZCK",
+   "stages": {
+    "downloaded": false,
+    "audio_only": true,
+    "transcribed": true,
+    "frames": true
+   },
+   "evidence": [
+    "raw/tether-lab/_transcripts/5. Recordings/July 2025/1. Roast My Ads #3 July 23, 2025 - Recordings.txt"
+   ],
+   "wiki_pages": [
+    "wiki/brands/barks-and-brownies.md",
+    "wiki/brands/milky.md",
+    "wiki/brands/net-positive.md",
+    "wiki/brands/omiebox.md",
+    "wiki/concepts/active-cta-language.md",
+    "wiki/concepts/algorithm-as-library.md",
+    "wiki/concepts/color-psychology.md",
+    "wiki/concepts/creative-primitives.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-064",
+   "original_path": "5. Recordings/July 2025/1_Roast_My_Ads_#3_July_23,_2025_Recordings_·_Tether_Lab.html",
+   "size": 149772,
+   "type": "html",
+   "mega_handle": "eh5gjJoC",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/5. Recordings/July 2025/1_Roast_My_Ads_#3_July_23,_2025_Recordings_·_Tether_Lab.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/05-live-recordings/2025-07-23-roast-my-ads-3.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-065",
+   "original_path": "5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.mp4",
+   "size": 253571864,
+   "type": "mp4",
+   "mega_handle": "ugpWwTJB",
+   "stages": {
+    "downloaded": false,
+    "audio_only": true,
+    "transcribed": true,
+    "frames": true
+   },
+   "evidence": [
+    "raw/tether-lab/_transcripts/5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.txt"
+   ],
+   "wiki_pages": [
+    "wiki/brands/ama-biolabs-yerba-magic.md",
+    "wiki/brands/barks-and-brownies.md",
+    "wiki/brands/jaxxon.md",
+    "wiki/brands/nutrafol.md",
+    "wiki/brands/olivia-burton.md",
+    "wiki/brands/prose.md",
+    "wiki/concepts/active-cta-language.md",
+    "wiki/concepts/barrier-buster.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-066",
+   "original_path": "5. Recordings/July 2025/2_Live_With_Sarah!_July_16,_2025_Recordings_·_Tether_La.html",
+   "size": 149424,
+   "type": "html",
+   "mega_handle": "OphCUBQB",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/5. Recordings/July 2025/2_Live_With_Sarah!_July_16,_2025_Recordings_·_Tether_La.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/05-live-recordings/2025-07-16-live-with-sarah.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-067",
+   "original_path": "5. Recordings/July 2025/3. Live With Sarah! - July 09, 2025 - Recordings.mp4",
+   "size": 355966885,
+   "type": "mp4",
+   "mega_handle": "W1oEFD7D",
+   "stages": {
+    "downloaded": false,
+    "audio_only": true,
+    "transcribed": true,
+    "frames": true
+   },
+   "evidence": [
+    "raw/tether-lab/_transcripts/5. Recordings/July 2025/3. Live With Sarah! - July 09, 2025 - Recordings.txt"
+   ],
+   "wiki_pages": [
+    "wiki/brands/canvas-gelato.md",
+    "wiki/brands/golden-milk-chai-aazar-shad.md",
+    "wiki/concepts/active-cta-language.md",
+    "wiki/concepts/algorithm-as-library.md",
+    "wiki/concepts/category-perception.md",
+    "wiki/concepts/creative-primitives.md",
+    "wiki/concepts/font-psychology.md",
+    "wiki/concepts/heuristics.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-068",
+   "original_path": "5. Recordings/July 2025/3_Live_With_Sarah!_July_09,_2025_Recordings_·_Tether_La.html",
+   "size": 149645,
+   "type": "html",
+   "mega_handle": "jwoSzZZZ",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/5. Recordings/July 2025/3_Live_With_Sarah!_July_09,_2025_Recordings_·_Tether_La.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/05-live-recordings/2025-07-09-live-with-sarah.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-069",
+   "original_path": "5. Recordings/July 2025/4. Live With Sarah! - July 02, 2025 - Recordings.mp4",
+   "size": 198449880,
+   "type": "mp4",
+   "mega_handle": "HohQHDZJ",
+   "stages": {
+    "downloaded": false,
+    "audio_only": true,
+    "transcribed": true,
+    "frames": true
+   },
+   "evidence": [
+    "raw/tether-lab/_transcripts/5. Recordings/July 2025/4. Live With Sarah! - July 02, 2025 - Recordings.txt"
+   ],
+   "wiki_pages": [
+    "wiki/brands/canvas-gelato.md",
+    "wiki/brands/kfc.md",
+    "wiki/brands/obvi.md",
+    "wiki/concepts/active-cta-language.md",
+    "wiki/concepts/heuristics.md",
+    "wiki/concepts/heuristics/anchoring-effect.md",
+    "wiki/concepts/heuristics/authority-bias.md",
+    "wiki/concepts/heuristics/bandwagon-effect.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-070",
+   "original_path": "5. Recordings/July 2025/4_Live_With_Sarah!_July_02,_2025_Recordings_·_Tether_La.html",
+   "size": 151338,
+   "type": "html",
+   "mega_handle": "axoGyBDJ",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/5. Recordings/July 2025/4_Live_With_Sarah!_July_02,_2025_Recordings_·_Tether_La.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/05-live-recordings/2025-07-02-live-with-sarah.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-071",
+   "original_path": "5. Recordings/June 2025/1. Guest Session 02 Chase Monhseni - Recordings.mp4",
+   "size": 397557063,
+   "type": "mp4",
+   "mega_handle": "24pCXDYB",
+   "stages": {
+    "downloaded": false,
+    "audio_only": true,
+    "transcribed": true,
+    "frames": true
+   },
+   "evidence": [
+    "raw/tether-lab/_transcripts/5. Recordings/June 2025/1. Guest Session 02 Chase Monhseni - Recordings.txt"
+   ],
+   "wiki_pages": [
+    "wiki/brands/dr-squatch.md",
+    "wiki/brands/fireclub.md",
+    "wiki/brands/hexclad.md",
+    "wiki/concepts/algorithm-as-library.md",
+    "wiki/concepts/creative-primitives.md",
+    "wiki/concepts/hero-image-copy-congruence.md",
+    "wiki/concepts/iteration-vs-variation.md",
+    "wiki/courses/tether-lab/05-live-recordings/2025-06-guest-session-02-chase-mohseni.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-072",
+   "original_path": "5. Recordings/June 2025/1_Guest_Session_02_Chase_Mohseni_Recordings_·_Tether_La.html",
+   "size": 155039,
+   "type": "html",
+   "mega_handle": "XgpiUTTS",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/5. Recordings/June 2025/1_Guest_Session_02_Chase_Mohseni_Recordings_·_Tether_La.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/05-live-recordings/2025-06-guest-session-02-chase-mohseni.md",
+    "wiki/frameworks/three-vs-of-creative.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-073",
+   "original_path": "5. Recordings/June 2025/2. Roast My Ads #2 - June 25,2025 - Recordings.mp4",
+   "size": 354322799,
+   "type": "mp4",
+   "mega_handle": "TxwmQRDB",
+   "stages": {
+    "downloaded": false,
+    "audio_only": true,
+    "transcribed": true,
+    "frames": true
+   },
+   "evidence": [
+    "raw/tether-lab/_transcripts/5. Recordings/June 2025/2. Roast My Ads #2 - June 25,2025 - Recordings.txt"
+   ],
+   "wiki_pages": [
+    "wiki/brands/anatati.md",
+    "wiki/brands/clickmatix.md",
+    "wiki/brands/illusion-nursing-dress.md",
+    "wiki/concepts/active-cta-language.md",
+    "wiki/concepts/barrier-buster.md",
+    "wiki/concepts/category-perception.md",
+    "wiki/concepts/color-psychology.md",
+    "wiki/concepts/emotion-specificity.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-074",
+   "original_path": "5. Recordings/June 2025/2_Roast_My_Ads_#2_June_25,_2025_Recordings_·_Tether_Lab.html",
+   "size": 155768,
+   "type": "html",
+   "mega_handle": "3wxUnRJL",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/5. Recordings/June 2025/2_Roast_My_Ads_#2_June_25,_2025_Recordings_·_Tether_Lab.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/05-live-recordings/2025-06-25-roast-my-ads-2.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-075",
+   "original_path": "5. Recordings/June 2025/3. Live With Sarah!.mp4",
+   "size": 541707156,
+   "type": "mp4",
+   "mega_handle": "2tgkyBSA",
+   "stages": {
+    "downloaded": false,
+    "audio_only": true,
+    "transcribed": true,
+    "frames": true
+   },
+   "evidence": [
+    "raw/tether-lab/_transcripts/5. Recordings/June 2025/3. Live With Sarah!.txt"
+   ],
+   "wiki_pages": [
+    "wiki/brands/canvas-gelato.md",
+    "wiki/brands/fireclub.md",
+    "wiki/brands/golden-milk-chai-aazar-shad.md",
+    "wiki/brands/jaguar.md",
+    "wiki/brands/liquid-death.md",
+    "wiki/brands/maserati.md",
+    "wiki/concepts/active-cta-language.md",
+    "wiki/concepts/algorithm-as-library.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-076",
+   "original_path": "5. Recordings/June 2025/3_Live_With_Sarah!_June_18,_2025_Recordings_·_Tether_La.html",
+   "size": 250228,
+   "type": "html",
+   "mega_handle": "G9hECboK",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/5. Recordings/June 2025/3_Live_With_Sarah!_June_18,_2025_Recordings_·_Tether_La.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/05-live-recordings/2025-06-18-live-with-sarah.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-077",
+   "original_path": "5. Recordings/June 2025/4.Live With Sarah! - June 11, 2025 - Recordings.mp4",
+   "size": 404191937,
+   "type": "mp4",
+   "mega_handle": "P9xm0D4Z",
+   "stages": {
+    "downloaded": false,
+    "audio_only": true,
+    "transcribed": true,
+    "frames": true
+   },
+   "evidence": [
+    "raw/tether-lab/_transcripts/5. Recordings/June 2025/4.Live With Sarah! - June 11, 2025 - Recordings.txt"
+   ],
+   "wiki_pages": [
+    "wiki/brands/ag1.md",
+    "wiki/brands/liquid-death.md",
+    "wiki/concepts/algorithm-as-library.md",
+    "wiki/concepts/barrier-buster.md",
+    "wiki/concepts/brand-enemy.md",
+    "wiki/concepts/color-psychology.md",
+    "wiki/concepts/emotional-stagnation.md",
+    "wiki/concepts/heuristics/gamblers-fallacy.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-078",
+   "original_path": "5. Recordings/June 2025/4_Live_With_Sarah!_June_11,_2025_Recordings_·_Tether_La.html",
+   "size": 152649,
+   "type": "html",
+   "mega_handle": "mw5whJjA",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/5. Recordings/June 2025/4_Live_With_Sarah!_June_11,_2025_Recordings_·_Tether_La.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/05-live-recordings/2025-06-11-live-with-sarah.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-079",
+   "original_path": "5. Recordings/June 2025/5. Live With Sarah!.mp4",
+   "size": 375983076,
+   "type": "mp4",
+   "mega_handle": "314G3RZa",
+   "stages": {
+    "downloaded": false,
+    "audio_only": true,
+    "transcribed": true,
+    "frames": true
+   },
+   "evidence": [
+    "raw/tether-lab/_transcripts/5. Recordings/June 2025/5. Live With Sarah!.txt"
+   ],
+   "wiki_pages": [
+    "wiki/brands/canvas-gelato.md",
+    "wiki/brands/dr-squatch.md",
+    "wiki/brands/fireclub.md",
+    "wiki/brands/hexclad.md",
+    "wiki/brands/jaxxon.md",
+    "wiki/brands/liquid-death.md",
+    "wiki/brands/maelove.md",
+    "wiki/concepts/algorithm-as-library.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-080",
+   "original_path": "5. Recordings/June 2025/5_Live_With_Sarah!_June_4,_2025_Recordings_·_Tether_Lab.html",
+   "size": 251584,
+   "type": "html",
+   "mega_handle": "n9h0BDja",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/5. Recordings/June 2025/5_Live_With_Sarah!_June_4,_2025_Recordings_·_Tether_Lab.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/05-live-recordings/2025-06-04-live-with-sarah.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-081",
+   "original_path": "5. Recordings/May 2025/1. Guest Session 01 Jonna Wallace!.mp4",
+   "size": 364333692,
+   "type": "mp4",
+   "mega_handle": "yx5GELTS",
+   "stages": {
+    "downloaded": false,
+    "audio_only": true,
+    "transcribed": true,
+    "frames": true
+   },
+   "evidence": [
+    "raw/tether-lab/_transcripts/5. Recordings/May 2025/1. Guest Session 01 Jonna Wallace!.txt"
+   ],
+   "wiki_pages": [
+    "wiki/brands/canvas-gelato.md",
+    "wiki/brands/hexclad.md",
+    "wiki/brands/lingopie.md",
+    "wiki/brands/liquid-death.md",
+    "wiki/concepts/barrier-buster.md",
+    "wiki/concepts/fluency-mechanism.md",
+    "wiki/concepts/font-psychology.md",
+    "wiki/concepts/heuristics/anchoring-effect.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-082",
+   "original_path": "5. Recordings/May 2025/1_Guest_Session_01_Joanna_Wallace!_Recordings_·_Tether_.html",
+   "size": 251228,
+   "type": "html",
+   "mega_handle": "LhwSwbST",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/5. Recordings/May 2025/1_Guest_Session_01_Joanna_Wallace!_Recordings_·_Tether_.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/05-live-recordings/2025-05-23-guest-session-01-joanna-wallace.md",
+    "wiki/people/joanna-wallace.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-083",
+   "original_path": "5. Recordings/May 2025/2. Roast my Ads #1.mp4",
+   "size": 324837990,
+   "type": "mp4",
+   "mega_handle": "j45ATBbJ",
+   "stages": {
+    "downloaded": false,
+    "audio_only": true,
+    "transcribed": true,
+    "frames": true
+   },
+   "evidence": [
+    "raw/tether-lab/_transcripts/5. Recordings/May 2025/2. Roast my Ads #1.txt"
+   ],
+   "wiki_pages": [
+    "wiki/brands/canvas-gelato.md",
+    "wiki/brands/fireclub.md",
+    "wiki/brands/high-camp-flasks.md",
+    "wiki/brands/the-only-bean.md",
+    "wiki/brands/vitus.md",
+    "wiki/concepts/active-cta-language.md",
+    "wiki/concepts/blended-emotions.md",
+    "wiki/concepts/color-psychology.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-084",
+   "original_path": "5. Recordings/May 2025/2_Roast_My_Ads_#1_May_28,_2025_Recordings_·_Tether_Lab.html",
+   "size": 252968,
+   "type": "html",
+   "mega_handle": "ap52mDBR",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/5. Recordings/May 2025/2_Roast_My_Ads_#1_May_28,_2025_Recordings_·_Tether_Lab.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/05-live-recordings/2025-05-28-roast-my-ads-1.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-085",
+   "original_path": "5. Recordings/May 2025/3. Live With Sarah!.mp4",
+   "size": 379833623,
+   "type": "mp4",
+   "mega_handle": "39pQCD4S",
+   "stages": {
+    "downloaded": false,
+    "audio_only": true,
+    "transcribed": true,
+    "frames": true
+   },
+   "evidence": [
+    "raw/tether-lab/_transcripts/5. Recordings/May 2025/3. Live With Sarah!.txt"
+   ],
+   "wiki_pages": [
+    "wiki/brands/canvas-gelato.md",
+    "wiki/brands/fireclub.md",
+    "wiki/brands/golden-milk-chai-aazar-shad.md",
+    "wiki/brands/jaguar.md",
+    "wiki/brands/liquid-death.md",
+    "wiki/brands/maserati.md",
+    "wiki/concepts/active-cta-language.md",
+    "wiki/concepts/algorithm-as-library.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-086",
+   "original_path": "5. Recordings/May 2025/3_Live_With_Sarah!_May_21,_2025_Recordings_·_Tether_Lab.html",
+   "size": 253529,
+   "type": "html",
+   "mega_handle": "Dooy3TqT",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/5. Recordings/May 2025/3_Live_With_Sarah!_May_21,_2025_Recordings_·_Tether_Lab.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/05-live-recordings/2025-05-21-live-with-sarah.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-087",
+   "original_path": "5. Recordings/May 2025/4.Live With Sarah!.mp4",
+   "size": 262932641,
+   "type": "mp4",
+   "mega_handle": "LlgkAB6L",
+   "stages": {
+    "downloaded": false,
+    "audio_only": true,
+    "transcribed": true,
+    "frames": true
+   },
+   "evidence": [
+    "raw/tether-lab/_transcripts/5. Recordings/May 2025/4.Live With Sarah!.txt"
+   ],
+   "wiki_pages": [
+    "wiki/brands/ag1.md",
+    "wiki/brands/liquid-death.md",
+    "wiki/brands/maelove.md",
+    "wiki/concepts/algorithm-as-library.md",
+    "wiki/concepts/barrier-buster.md",
+    "wiki/concepts/brand-enemy.md",
+    "wiki/concepts/color-psychology.md",
+    "wiki/concepts/emotional-stagnation.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-088",
+   "original_path": "5. Recordings/May 2025/4_Live_With_Sarah!_May_14,_2025_Recordings_·_Tether_Lab.html",
+   "size": 255597,
+   "type": "html",
+   "mega_handle": "jt5mkLwb",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/5. Recordings/May 2025/4_Live_With_Sarah!_May_14,_2025_Recordings_·_Tether_Lab.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/05-live-recordings/2025-05-14-live-with-sarah.md",
+    "wiki/frameworks/story-frameworks-for-ads.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-089",
+   "original_path": "5. Recordings/May 2025/5. Live With Sarah!.mp4",
+   "size": 433409276,
+   "type": "mp4",
+   "mega_handle": "L5wkFRKK",
+   "stages": {
+    "downloaded": false,
+    "audio_only": true,
+    "transcribed": true,
+    "frames": true
+   },
+   "evidence": [
+    "raw/tether-lab/_transcripts/5. Recordings/May 2025/5. Live With Sarah!.txt"
+   ],
+   "wiki_pages": [
+    "wiki/brands/canvas-gelato.md",
+    "wiki/brands/dr-squatch.md",
+    "wiki/brands/fireclub.md",
+    "wiki/brands/hexclad.md",
+    "wiki/brands/jaxxon.md",
+    "wiki/brands/liquid-death.md",
+    "wiki/brands/maelove.md",
+    "wiki/concepts/algorithm-as-library.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-090",
+   "original_path": "5. Recordings/May 2025/5_Live_With_Sarah!_May_7,_2025_Recordings_·_Tether_Lab.html",
+   "size": 255262,
+   "type": "html",
+   "mega_handle": "v0xiDDSY",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/5. Recordings/May 2025/5_Live_With_Sarah!_May_7,_2025_Recordings_·_Tether_Lab.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/05-live-recordings/2025-05-07-live-with-sarah.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-091",
+   "original_path": "6. The Ad Lab Toolkit/1_Heuristics_101_Playbook_The_Ad_Lab_Toolkit_·_Tether_L.html",
+   "size": 245024,
+   "type": "html",
+   "mega_handle": "3lpWjLDI",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/6. The Ad Lab Toolkit/1_Heuristics_101_Playbook_The_Ad_Lab_Toolkit_·_Tether_L.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/06-ad-lab-toolkit/README.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-092",
+   "original_path": "6. The Ad Lab Toolkit/2. Diagnose Why Your Ads Aren't Working (1).pdf",
+   "size": 2150409,
+   "type": "pdf",
+   "mega_handle": "f1g2jBJY",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/6. The Ad Lab Toolkit/2. Diagnose Why Your Ads Aren't Working (1).md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/06-ad-lab-toolkit/README.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-093",
+   "original_path": "6. The Ad Lab Toolkit/2. Heuristics 101 e-book (1).pdf",
+   "size": 8395123,
+   "type": "pdf",
+   "mega_handle": "Ss4myDpK",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/6. The Ad Lab Toolkit/2. Heuristics 101 e-book (1).md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/06-ad-lab-toolkit/README.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-094",
+   "original_path": "6. The Ad Lab Toolkit/2_Diagnose_Why_Your_Ads_Aren't_Working_e_Book_The_Ad_La.html",
+   "size": 245169,
+   "type": "html",
+   "mega_handle": "jghU3BCR",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/6. The Ad Lab Toolkit/2_Diagnose_Why_Your_Ads_Aren't_Working_e_Book_The_Ad_La.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/06-ad-lab-toolkit/README.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-095",
+   "original_path": "6. The Ad Lab Toolkit/3. Valence + Intensity - Prompts (1).pdf",
+   "size": 614059,
+   "type": "pdf",
+   "mega_handle": "KsxUmTCB",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/6. The Ad Lab Toolkit/3. Valence + Intensity - Prompts (1).md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/06-ad-lab-toolkit/README.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-096",
+   "original_path": "6. The Ad Lab Toolkit/3_Valence_+_Intensity_Prompts_The_Ad_Lab_Toolkit_·_Teth.html",
+   "size": 244966,
+   "type": "html",
+   "mega_handle": "jxhQCDzC",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/6. The Ad Lab Toolkit/3_Valence_+_Intensity_Prompts_The_Ad_Lab_Toolkit_·_Teth.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/06-ad-lab-toolkit/README.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-097",
+   "original_path": "6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.pdf",
+   "size": 3903100,
+   "type": "pdf",
+   "mega_handle": "HtpAlZwL",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md"
+   ],
+   "wiki_pages": [
+    "wiki/concepts/heuristics/anonymity.md",
+    "wiki/concepts/heuristics/aspirational-identity.md",
+    "wiki/concepts/heuristics/authority-borrowing.md",
+    "wiki/concepts/heuristics/contrast.md",
+    "wiki/concepts/heuristics/counterintuitive-insight.md",
+    "wiki/concepts/heuristics/curiosity-gap.md",
+    "wiki/concepts/heuristics/data-driven-insight.md",
+    "wiki/concepts/heuristics/emotional-trigger.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-098",
+   "original_path": "6. The Ad Lab Toolkit/4. The Prompt Library.mp4",
+   "size": 110001986,
+   "type": "mp4",
+   "mega_handle": "LopQDLIJ",
+   "stages": {
+    "downloaded": true,
+    "audio_only": false,
+    "transcribed": true,
+    "frames": true
+   },
+   "evidence": [
+    "raw/tether-lab/_transcripts/6. The Ad Lab Toolkit/4. The Prompt Library.txt"
+   ],
+   "wiki_pages": [
+    "wiki/concepts/heuristics/curiosity-gap.md",
+    "wiki/concepts/heuristics/reverse-psychology.md",
+    "wiki/courses/tether-lab/06-ad-lab-toolkit/README.md",
+    "wiki/courses/tether-lab/07-prompt-library/01-first-principles-thinking-and-loss-aversion.md",
+    "wiki/courses/tether-lab/07-prompt-library/02-status-signaling-and-open-loop.md",
+    "wiki/courses/tether-lab/07-prompt-library/03-curiosity-and-reverse-psychology.md",
+    "wiki/courses/tether-lab/07-prompt-library/04-shock-factor-and-transformation-shortcut.md",
+    "wiki/courses/tether-lab/07-prompt-library/05-tribal-belonging-and-vulnerability.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-099",
+   "original_path": "6. The Ad Lab Toolkit/4. The_Prompt_Library_-_The_Ad_Lab_Toolkit_·_Tether_Lab.html",
+   "size": 244770,
+   "type": "html",
+   "mega_handle": "C05CmL6Z",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. The_Prompt_Library_-_The_Ad_Lab_Toolkit_·_Tether_Lab.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/07-prompt-library/README.md",
+    "wiki/resources/prompt-library-pdf.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-100",
+   "original_path": "6. The Ad Lab Toolkit/5. Rare Behavioral Science Books.pdf",
+   "size": 315250,
+   "type": "pdf",
+   "mega_handle": "n5wglTzA",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/6. The Ad Lab Toolkit/5. Rare Behavioral Science Books.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/06-ad-lab-toolkit/05-sarahs-secret-book-stash.md",
+    "wiki/courses/tether-lab/06-ad-lab-toolkit/README.md",
+    "wiki/resources/books.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-101",
+   "original_path": "6. The Ad Lab Toolkit/5_Sarah's_Secret_Book_Stash_The_Ad_Lab_Toolkit_·_Tether.html",
+   "size": 244960,
+   "type": "html",
+   "mega_handle": "C852SB6D",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/6. The Ad Lab Toolkit/5_Sarah's_Secret_Book_Stash_The_Ad_Lab_Toolkit_·_Tether.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/06-ad-lab-toolkit/05-sarahs-secret-book-stash.md",
+    "wiki/resources/books.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-102",
+   "original_path": "6. The Ad Lab Toolkit/6_FREE_Ad_Creatives_🤩_The_Ad_Lab_Toolkit_·_Tether_Lab.html",
+   "size": 242719,
+   "type": "html",
+   "mega_handle": "m8w0nJQL",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/6. The Ad Lab Toolkit/6_FREE_Ad_Creatives_🤩_The_Ad_Lab_Toolkit_·_Tether_Lab.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/06-ad-lab-toolkit/06-free-ad-creatives.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-103",
+   "original_path": "6. The Ad Lab Toolkit/7. Creative OS 1 Month Free.mp4",
+   "size": 76096869,
+   "type": "mp4",
+   "mega_handle": "S0wAkLCJ",
+   "stages": {},
+   "status": "excluded",
+   "reason": "byte-size-identical duplicate video",
+   "canonical": "TL-019"
+  },
+  {
+   "id": "TL-104",
+   "original_path": "6. The Ad Lab Toolkit/7_Creative_OS_1_Month_FREE_🤩_The_Ad_Lab_Toolkit_·_Tethe.html",
+   "size": 145325,
+   "type": "html",
+   "mega_handle": "bthUUTIL",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/6. The Ad Lab Toolkit/7_Creative_OS_1_Month_FREE_🤩_The_Ad_Lab_Toolkit_·_Tethe.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/06-ad-lab-toolkit/06-free-ad-creatives.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-105",
+   "original_path": "6. The Ad Lab Toolkit/8_The_Tether_Signal_Newsletter_The_Ad_Lab_Toolkit_·_Tet.html",
+   "size": 144162,
+   "type": "html",
+   "mega_handle": "G5pU2BIY",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/6. The Ad Lab Toolkit/8_The_Tether_Signal_Newsletter_The_Ad_Lab_Toolkit_·_Tet.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/06-ad-lab-toolkit/08-the-tether-signal-newsletter.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-106",
+   "original_path": "7. The Prompt Library/0. Video Tutorial How to Use The Prompt Library - The Prompt Library.mp4",
+   "size": 110001986,
+   "type": "mp4",
+   "mega_handle": "z54UiZhZ",
+   "stages": {},
+   "status": "excluded",
+   "reason": "byte-size-identical duplicate video",
+   "canonical": "TL-098"
+  },
+  {
+   "id": "TL-107",
+   "original_path": "7. The Prompt Library/0_Video_Tutorial_How_To_Use_The_Prompt_Library_The_Prom.html",
+   "size": 153550,
+   "type": "html",
+   "mega_handle": "mwxmVTrJ",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/7. The Prompt Library/0_Video_Tutorial_How_To_Use_The_Prompt_Library_The_Prom.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/07-prompt-library/README.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-108",
+   "original_path": "7. The Prompt Library/10_Anonymity_+_Social_Proof_The_Prompt_Library_·_Tether.html",
+   "size": 157665,
+   "type": "html",
+   "mega_handle": "ygxSFDSR",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/7. The Prompt Library/10_Anonymity_+_Social_Proof_The_Prompt_Library_·_Tether.md"
+   ],
+   "wiki_pages": [
+    "wiki/concepts/heuristics/anonymity.md",
+    "wiki/courses/tether-lab/07-prompt-library/10-anonymity-and-social-proof.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-109",
+   "original_path": "7. The Prompt Library/11_Authority_Borrowing_+_Data_Driven_Insight_The_Prompt.html",
+   "size": 157391,
+   "type": "html",
+   "mega_handle": "v5hkWLzI",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/7. The Prompt Library/11_Authority_Borrowing_+_Data_Driven_Insight_The_Prompt.md"
+   ],
+   "wiki_pages": [
+    "wiki/concepts/heuristics/authority-borrowing.md",
+    "wiki/concepts/heuristics/data-driven-insight.md",
+    "wiki/courses/tether-lab/07-prompt-library/11-authority-borrowing-and-data-driven-insight.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-110",
+   "original_path": "7. The Prompt Library/12_Micro_Story_+_Suspense_The_Prompt_Library_·_Tether_L.html",
+   "size": 157442,
+   "type": "html",
+   "mega_handle": "KkgQmR7L",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/7. The Prompt Library/12_Micro_Story_+_Suspense_The_Prompt_Library_·_Tether_L.md"
+   ],
+   "wiki_pages": [
+    "wiki/concepts/heuristics/micro-story.md",
+    "wiki/concepts/heuristics/suspense.md",
+    "wiki/courses/tether-lab/07-prompt-library/12-micro-story-and-suspense.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-111",
+   "original_path": "7. The Prompt Library/13_Counterintuitive_Insight_+_Specificity_The_Prompt_Li.html",
+   "size": 158129,
+   "type": "html",
+   "mega_handle": "KxwkBTTQ",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/7. The Prompt Library/13_Counterintuitive_Insight_+_Specificity_The_Prompt_Li.md"
+   ],
+   "wiki_pages": [
+    "wiki/concepts/heuristics/cognitive-dissonance.md",
+    "wiki/concepts/heuristics/counterintuitive-insight.md",
+    "wiki/concepts/heuristics/specificity.md",
+    "wiki/courses/tether-lab/07-prompt-library/13-counterintuitive-insight-and-specificity.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-112",
+   "original_path": "7. The Prompt Library/14_Reframing_Perception_+_Emotional_Trigger_The_Prompt_.html",
+   "size": 158191,
+   "type": "html",
+   "mega_handle": "iwwyxRrB",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/7. The Prompt Library/14_Reframing_Perception_+_Emotional_Trigger_The_Prompt_.md"
+   ],
+   "wiki_pages": [
+    "wiki/concepts/heuristics/emotional-trigger.md",
+    "wiki/concepts/heuristics/reframing.md",
+    "wiki/courses/tether-lab/07-prompt-library/14-reframing-perception-and-emotional-trigger.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-113",
+   "original_path": "7. The Prompt Library/15_The_‘Why_Didn’t_I_See_This_’_Framework_The_Prompt_Li.html",
+   "size": 155897,
+   "type": "html",
+   "mega_handle": "mkhiXBbS",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/7. The Prompt Library/15_The_‘Why_Didn’t_I_See_This_’_Framework_The_Prompt_Li.md"
+   ],
+   "wiki_pages": [
+    "wiki/concepts/heuristics/bounded-rationality.md",
+    "wiki/concepts/heuristics/hindsight-bias.md",
+    "wiki/courses/tether-lab/07-prompt-library/15-hindsight-bias-and-bounded-rationality.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-114",
+   "original_path": "7. The Prompt Library/16_More_to_come_shortly!_The_Prompt_Library_·_Tether_La.html",
+   "size": 152907,
+   "type": "html",
+   "mega_handle": "fth2yLCD",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/7. The Prompt Library/16_More_to_come_shortly!_The_Prompt_Library_·_Tether_La.md"
+   ],
+   "wiki_pages": [
+    "wiki/courses/tether-lab/07-prompt-library/15-hindsight-bias-and-bounded-rationality.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-115",
+   "original_path": "7. The Prompt Library/1_First_Principles_Thinking_+_Loss_Aversion_The_Prompt_.html",
+   "size": 157803,
+   "type": "html",
+   "mega_handle": "PgwEUDCA",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/7. The Prompt Library/1_First_Principles_Thinking_+_Loss_Aversion_The_Prompt_.md"
+   ],
+   "wiki_pages": [
+    "wiki/concepts/heuristics/first-principles-thinking.md",
+    "wiki/concepts/heuristics/loss-aversion.md",
+    "wiki/courses/tether-lab/07-prompt-library/01-first-principles-thinking-and-loss-aversion.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-116",
+   "original_path": "7. The Prompt Library/2_Status_Signaling_+_Open_Loop_The_Prompt_Library_·_Tet.html",
+   "size": 157635,
+   "type": "html",
+   "mega_handle": "28wiBLZB",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/7. The Prompt Library/2_Status_Signaling_+_Open_Loop_The_Prompt_Library_·_Tet.md"
+   ],
+   "wiki_pages": [
+    "wiki/concepts/heuristics/open-loop.md",
+    "wiki/concepts/heuristics/status-signaling.md",
+    "wiki/courses/tether-lab/07-prompt-library/02-status-signaling-and-open-loop.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-117",
+   "original_path": "7. The Prompt Library/3_Curiosity_+_Reverse_Psychology_The_Prompt_Library_·_T.html",
+   "size": 157546,
+   "type": "html",
+   "mega_handle": "Xl4wxJgK",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/7. The Prompt Library/3_Curiosity_+_Reverse_Psychology_The_Prompt_Library_·_T.md"
+   ],
+   "wiki_pages": [
+    "wiki/concepts/heuristics/curiosity-gap.md",
+    "wiki/concepts/heuristics/reverse-psychology.md",
+    "wiki/courses/tether-lab/07-prompt-library/03-curiosity-and-reverse-psychology.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-118",
+   "original_path": "7. The Prompt Library/4_Shock_Factor_+_Transformation_Shortcut_The_Prompt_Lib.html",
+   "size": 158023,
+   "type": "html",
+   "mega_handle": "K4xAHR4A",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/7. The Prompt Library/4_Shock_Factor_+_Transformation_Shortcut_The_Prompt_Lib.md"
+   ],
+   "wiki_pages": [
+    "wiki/concepts/heuristics/shock-factor.md",
+    "wiki/concepts/heuristics/transformation-shortcut.md",
+    "wiki/courses/tether-lab/07-prompt-library/04-shock-factor-and-transformation-shortcut.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-119",
+   "original_path": "7. The Prompt Library/5_Tribal_Belonging_+_Vulnerability_The_Prompt_Library_·.html",
+   "size": 157857,
+   "type": "html",
+   "mega_handle": "3o4U3DiT",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/7. The Prompt Library/5_Tribal_Belonging_+_Vulnerability_The_Prompt_Library_·.md"
+   ],
+   "wiki_pages": [
+    "wiki/concepts/heuristics/tribal-belonging.md",
+    "wiki/concepts/heuristics/vulnerability.md",
+    "wiki/courses/tether-lab/07-prompt-library/05-tribal-belonging-and-vulnerability.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-120",
+   "original_path": "7. The Prompt Library/6_Pattern_Disruption_+_Hidden_Truth_The_Prompt_Library_.html",
+   "size": 157952,
+   "type": "html",
+   "mega_handle": "XwgQSR6Z",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/7. The Prompt Library/6_Pattern_Disruption_+_Hidden_Truth_The_Prompt_Library_.md"
+   ],
+   "wiki_pages": [
+    "wiki/concepts/heuristics/hidden-truth.md",
+    "wiki/concepts/heuristics/pattern-disruption.md",
+    "wiki/courses/tether-lab/07-prompt-library/06-pattern-disruption-and-hidden-truth.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-121",
+   "original_path": "7. The Prompt Library/7_What_If_Scenario_+_Pain_Point_Amplification_The_Promp.html",
+   "size": 158055,
+   "type": "html",
+   "mega_handle": "ml5ETbpb",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/7. The Prompt Library/7_What_If_Scenario_+_Pain_Point_Amplification_The_Promp.md"
+   ],
+   "wiki_pages": [
+    "wiki/concepts/heuristics/pain-point-amplification.md",
+    "wiki/concepts/heuristics/what-if-scenario.md",
+    "wiki/courses/tether-lab/07-prompt-library/07-what-if-scenario-and-pain-point-amplification.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-122",
+   "original_path": "7. The Prompt Library/8_Contrast_+_Aspirational_Identity_The_Prompt_Library_·.html",
+   "size": 157990,
+   "type": "html",
+   "mega_handle": "W140CRYS",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/7. The Prompt Library/8_Contrast_+_Aspirational_Identity_The_Prompt_Library_·.md"
+   ],
+   "wiki_pages": [
+    "wiki/concepts/heuristics/aspirational-identity.md",
+    "wiki/concepts/heuristics/contrast.md",
+    "wiki/courses/tether-lab/07-prompt-library/08-contrast-and-aspirational-identity.md"
+   ],
+   "status": "summarized"
+  },
+  {
+   "id": "TL-123",
+   "original_path": "7. The Prompt Library/9_Gamification_+_Time_Sensitive_Offer_The_Prompt_Librar.html",
+   "size": 157450,
+   "type": "html",
+   "mega_handle": "Cx5gCbhY",
+   "stages": {
+    "downloaded": true,
+    "extracted": true
+   },
+   "evidence": [
+    "raw/tether-lab/_extracted/7. The Prompt Library/9_Gamification_+_Time_Sensitive_Offer_The_Prompt_Librar.md"
+   ],
+   "wiki_pages": [
+    "wiki/concepts/heuristics/gamification.md",
+    "wiki/courses/tether-lab/07-prompt-library/09-gamification-and-time-sensitive-offer.md"
+   ],
+   "status": "summarized"
+  }
+ ]
+}

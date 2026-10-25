@@ -1,0 +1,368 @@
+{
+  "source_file": "67. How To Write Image Ads - Part 1 ✍️ Evolve Copywriting (NEW) Evolve.mp4",
+  "source_id": "mega:LlQnyCIZ:exxiHBwR",
+  "source_sha256": "9e44ab23b0b3f3914aa62527335c55655047cc706d3e91faf8ab35932acf3412",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 1754.24,
+  "last_segment_end": 1754.24,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 29.26,
+      "text": "All right guys, so in this video, we are going to be writing image ads. Now, the way that you write for image ads and video ads is basically gonna be the exact same, but I just want you, well, not the exact same, but like the process of how you write is gonna be the same. It's just when you do video ads, they're gonna take a little bit longer because you gotta put a little bit more time into them. With that said, what I wanna do is I wanna basically show you guys how I would go through the process of making an ad after using everything. So let's go ahead and jump in. So the first thing that you obviously need is you need your own document. So I kinda have what I call here the master document, right?"
+    },
+    {
+      "start": 29.26,
+      "end": 54.24,
+      "text": "In this document, I have the product tab. I have a research tab here. I have an avatars tab, which I'm going to get into and explain what I did here. I have a new information tab and a new mechanism tab, okay? And just as a pro tip for the chads out there, you got to get a little retro jazz going while you're getting lost in the sauce. Get some vibes. Get the vibes right. Get locked in. You know, this is that wealth building music. Why do they play jazz in the nicest restaurants and all this kind of shit? I actually don't know why. Anyways, the point is, is like..."
+    },
+    {
+      "start": 54.24,
+      "end": 83.58,
+      "text": "Jazz is how you lock the fuck in. All right. So now what we're going to do is we are going to grab this prompt. We're going to open Claude. We're going to drag this over here and we're going to copy this prompt. And we are going to insert our sub avatars in here as well. All right. I don't even know how to use my own prompt, but let me go ahead and pull up what I wanted to pull up here, which was my sub avatars here. So I'm going to copy all this because I think there's some sauce in here. So I'm going to pull all this up and we're going to Claude."
+    },
+    {
+      "start": 83.58,
+      "end": 97.7,
+      "text": "We're going to pace and we're going to go. So let's see what Claude cooks up for us. I will pause until it's done. All right. So let's see what Claude cooked up. So right here, we've got sub-adverture number one, which is the stressed eater. And here's our three different angles."
+    },
+    {
+      "start": 97.7,
+      "end": 126.99,
+      "text": "Angle number one is stop the stress eating cycle. Angle number two is feel or fills the empty pit without food. And angle number three is eliminates the regret cycle. Now, again, if you want to do marksman here on this one sub avatar, you can. I'm actually just going to take, honestly, a relatively bigger swing overall with this. And so the stress eating cycle lowers your cortisol levels. So food stops being your only comfort. Break the urge without needing our discipline. Love this one scoop."
+    },
+    {
+      "start": 126.99,
+      "end": 154.13,
+      "text": "more stress eating. This lowers cortisol. This stops the cycle. Stop needing discipline, start lowering cortisol. I really like this one. This is pretty good. Cortisol is a pretty popular mechanism. But angle number one here, because now we're going to start to build out this concept. Okay, this is going to be our sub avatar test. So angle number one is going to be stops the stress eating cycle. I really do like that. We can jump into some of the other headlines here. So stop needing discipline, start lowering cortisol. This one's pretty good."
+    },
+    {
+      "start": 154.19,
+      "end": 183.79,
+      "text": "So angle one, I'm just going to pop this. Whoopsie, I hate sheets because it's command for some reason. And then over here, we've got fills the empty pit without food. So tells your brain you're actually full by boosting the same hormone as Ozempic. This is getting into obviously what Diaglomera does, not so much around the, this is obviously stress eating, but tells your stomach full even when it's not. I love that headline. Boost GLP1 by 68%, stops the empty pit filling. This isn't collagen, this is appetite control. And then angle number three is eliminates the regret cycle. I actually like this one because we're"
+    },
+    {
+      "start": 183.79,
+      "end": 210.32,
+      "text": "Regret came up a lot. When you're not constantly fighting stress, eating urges, you stop the binge, regret, shame spiral. And that makes you feel, that makes you feel pathetic. So one ingredient, zero regret after eating, calms your cortisol in 30 minutes, ends regret in seven days. Stop fighting the urge, start lowering the hormone. Some of these are okay. I actually really like this, uh, eliminate the regret cycle. And again, the goal that we, that we have here is the, um, you know, is, is to really figure out what angles we want to go with."
+    },
+    {
+      "start": 210.32,
+      "end": 228.46,
+      "text": "Stress eating cycle is good. This says stop needing a blister and start lowering cortisol. I do like how emotionally powered this is. Calms your cortisol in 30 minutes, ends regret in seven days. One ingredient, zero regret after eating. I do really like this idea of the regret that people feel."
+    },
+    {
+      "start": 228.46,
+      "end": 253.97,
+      "text": "especially for people who are stressed but that's kind of more i think for the people who are addicted to junk food uh makes 1200 calories feel easy shuts up your stomach for good um lets you say no without willpower i kind of like this makes 1200 calories easy the reason why i like this one is specifically because of the fact that it's like 1200 eating 1200 calories a day is not easy um let me just ask actually chat to bt uh"
+    },
+    {
+      "start": 253.97,
+      "end": 273.89,
+      "text": "On average, how many calories does a woman eat per day in their 35 plus age range? And now I know a lot of you guys were like, well, Spencer, you didn't add this demographic to your sub avatar. Why is that? I'm just trying to get an idea. So for an average woman, age 31 to 50, about 1600 to 2200 calories per day. All right. And so, boom, we've got this."
+    },
+    {
+      "start": 273.89,
+      "end": 301.41,
+      "text": "backed by science, because like, we just want to make it backed by science, backed by ChadGBT, which is good enough for now. We just want to make sure that what we're saying is actually, you know, makes sense. So angle number two here that we're going to go after is makes 1200 calories feel easy. And so I really just like this idea of calling out that something that is actually hard is easy. So it's like two things that don't go together. That's a common theme that you'll see in execution modules that, you know."
+    },
+    {
+      "start": 301.41,
+      "end": 328.18,
+      "text": "just it's just a great way to grab someone's attention where it's like that's not supposed to be easy how is it easy and guess what now you're curious um so let's go down here and take a look 1200 calories used to be torture not anymore this tells your brain you're full even at 1200 calories that's kind of a banger kind of a banger i like that i don't know what mine was um i'm having way too much fun guys sorry i've got so many documents and tabs open all over the place uh eating 1200 calories is easy um"
+    },
+    {
+      "start": 328.18,
+      "end": 338.54,
+      "text": "I kind of just like that as a headline, to be honest. I might play around with that. I might do a fourth one. I don't know. Let's see who's smarter, you know, Claude or..."
+    },
+    {
+      "start": 338.61,
+      "end": 366.7,
+      "text": "ChatGPT, you know, tells your brain you're full, even at, I might even say like tells your stomach you're full, even at 1200 calories. So I kind of like that. So that's my second angle that I'm gonna be going after. And then the next one in here that we have shut up your stomach for good, shut up your stomach in seven days, super far. I honestly, like I would almost want to do a sniper approach just on this angle. So I might even come in here and just be like Spencer, this is going to be the shut up stomach angle."
+    },
+    {
+      "start": 366.74,
+      "end": 386.54,
+      "text": "okay again desire is still the same um but let me paste that in there nicely i lost it i want to be in control of my appetite and the actual angle here is shutting up your stomach for good and now here i might just be like hook one uh hook two and hook three"
+    },
+    {
+      "start": 386.54,
+      "end": 415.92,
+      "text": "Okay. Um, and so this is just a specific angle. So angle, shut up your stomach for good. Um, is kind of what I would want to do a specific add on. Cause I really, really like it. I also really liked this 1200 calorie one. Uh, let's just say no without willpower. This isn't willpower to someone's and not the biggest fan of that. Um, doesn't really know what GLP one does. All right. So, Hey, look at that. Cloud actually ranked this last, which is kind of interesting. Um, the natural Ozempic alternative reason to buy, uh, you've heard GLP one controls appetite. That's what's in Ozempic. This boosted naturally by six."
+    },
+    {
+      "start": 415.92,
+      "end": 438.99,
+      "text": "percent without injections or prescriptions so hook number one same hormones as ozempic no needles uh this is how ozempic works heard of glp1 this increases it naturally uh i'm actually going to go in and copy some of the context that i put in here to work this uh what glp1 actually does glp1 tells your brain you're full this boosted by 80 uh 68 percent uh one hormone controls cravings this increases it um"
+    },
+    {
+      "start": 438.99,
+      "end": 468.42,
+      "text": "This isn't collagen, this is GOP1 support, the hormone that makes Ozempic work. Ozempic uses GOP1, so does this. 68% more. I actually really like this. That's good. It's just this brand doesn't want to say Ozempic specifically. You know what Ozempic does? This does it naturally. Pretty good as well, but again, we're just saying naturally, we're not showing anything cool. So again, this is why you guys need to know what AI is doing, but let me go ahead and actually pull some of the context to finish this angle number three. I'm going to pause, pull it over, and then you guys are going to see what I wrote just so you can see how I'm working with Claude to basically refine these angles. Cool."
+    },
+    {
+      "start": 468.42,
+      "end": 479.42,
+      "text": "So basically what I said here, it says for the third avatar, can we refine the final angle based on the context here? And I basically just said like, hey, here's the specifics of avatar. Again, I already gave it to them. And I said, my idea is..."
+    },
+    {
+      "start": 479.42,
+      "end": 508.75,
+      "text": "The avatar that we're testing here has heard of GLP-1, and they know that it helps people lose weight, but they don't really understand how it works. Now, this is basically where we want to dumb things down, simplify the language, and explain how our product actually delivers the mechanism. And then I said some potential headlines that I thought of here is keep food in your stomach longer, trick your stomach into thinking it's full, and slow stomach emptying, right? And so let's just see what Claude comes back with for this third and final avatar, just to see if I can get this final angle really nailed down. And this was like the sniper approach that I was..."
+    },
+    {
+      "start": 508.75,
+      "end": 538.13,
+      "text": "mentioning to you guys before i had this idea of just really going deep on people not knowing why glp1 works but according to this um the sub avatar that that clod actually likes is the stress eater um so it might even make sense again based off of this initial test to go and do marksman as well um and again based on the ideas that you guys have you just have to understand like this is one day like i'm doing this and i've probably spent like two hours a little bit going through and doing this stuff so like this is giving me my one concept and your guys's goal is to do like one to two concepts a day right and so from there if you really think about it like"
+    },
+    {
+      "start": 538.13,
+      "end": 564.45,
+      "text": "I don't really need to do more. Like I could spend this much intent on this one marksman level concept. And obviously I still would need to edit the ad, which we're going to get into. But basically this is just how I'm getting to the point where I'm like, okay, I've got a pretty good idea now of like, what is like, what direction I want to go in. I probably don't need to add a ton more ideas, although you guys can add ideas. I'm just trying to help you guys stay focused. So let's just see what Claude responded to here. So again."
+    },
+    {
+      "start": 564.45,
+      "end": 591.23,
+      "text": "new priority um angle one how glp actually works simplified so again this is great uh tricks your stomach into thinking it's still full this is really the main one that i wanted to go after because it's just it's just like that that is the whole idea like people who think they know what glp1 does but they don't really understand how how it really works and so this one here is tricks your stomach into thinking it's full it's kind of like a headline um reason why you've heard glp1 helps you lose weight here's how it uh here's how it tricks your stomach and thinking you're still full even hours after eating this"
+    },
+    {
+      "start": 591.23,
+      "end": 613.81,
+      "text": "but this boosts that hormone naturally. GLP-1 tricks your stomach. This boosts it. This keeps food in your stomach longer. This is how GLP-1 works. Trick your stomach into thinking it's full for hours. I might try to write a few more of these. GLP-1 slows stomach emptying. That's why it works. This is just collagen. Everyone talks about GLP-1. Nobody explains it until now. GLP-1 tricks your stomach."
+    },
+    {
+      "start": 613.81,
+      "end": 638.05,
+      "text": "Joe V1 keeps food in your stomach longer. This is how Zempic works. One scoop, food stays in your stomach three times longer. I like this one. I think this is pretty dope. So I'm going to go with this one here inside the roadmap. So angle number three, one scoop and food stays in your stomach three times longer. I would have to validate that claim. We have to double check if we can actually make that claim. But basically from what I've seen around the product, we should be good."
+    },
+    {
+      "start": 638.05,
+      "end": 667.76,
+      "text": "But basically, I kind of want to refine this a little bit further. I might ask Claude now to just say like, hey, I really like this headline, but can we make it pack more of a punch and make it more shorter and to the point, kind of like the example. And so again, this is me just taking inspiration as well from the Static Ads doc, right? So one scoop, food stays in your stomach longer. Let's just see what Claude cooks up. All right, so after going through it, honestly, I'm just going to go with trick your stomach into thinking it's full. Claude came back with one scoop full three times longer."
+    },
+    {
+      "start": 667.76,
+      "end": 697.33,
+      "text": "Eh, you know, but I'm really just a fan of just like trick your stomach into thinking it's full. I kind of like that as a headline. Okay. Well, the good news is, is with statics, you basically have like, we're done. You know what I mean? And so what we can do here is we can pull up the new and optimize ideation concept. This is not the one. It's this one over here. Let me go ahead and pull it up for you guys. We've got the ideation concept or concept brief. Okay. And what you're going to do is you're gonna make a copy of this."
+    },
+    {
+      "start": 697.94,
+      "end": 726.14,
+      "text": "All right, we can just call this brief template batch number one. And I'm going to call this S batch. And this is the sub avatar test, right? So this is where we take our roadmap, right? Like, okay, well, we've got our sub avatar test. Guess what? We're working on it. Let's go. So this is the concept sub avatar test. We know the desire. Here's our angles that we're going after. So guess what? This makes it pretty easy. So we can go to our brief. What's our concept? Our concept here is to test specific sub avatars."
+    },
+    {
+      "start": 726.14,
+      "end": 747.82,
+      "text": "to figure out what direction we should go further in from an execution standpoint oh angle here the selling strategy how you're choosing to sell the product well guess what we're using multiple angles okay bada boom there they are testing method which method are we using here come on i'm going to give you a couple of seconds come on"
+    },
+    {
+      "start": 747.82,
+      "end": 773.95,
+      "text": "guess it all right there we go we're going to marksman right because we got three angles uh specific format you guys have all of the specific formats here right so it's going to give you an idea of how you want to bring it to life but i know a lot of you guys are very visual okay and so what you can do is you can just very simply go into the winning doc here and let's just see like would this template work for this brief that i have"
+    },
+    {
+      "start": 773.95,
+      "end": 800.59,
+      "text": "Stop stressing. I mean, where's the headlines? We need to go down to the messaging here. So we have variation three. We're actually going to have a fourth variation. And again, this is static ads specifically, so we don't need to worry about it. So we can just kind of delete the hold here. But let's take a look at this. So we have our four variations. Let's copy these from the document and let's just put them into our brief. And so here again, we have our headlines. So variation one is stop needing discipline. Stop lowering cortisol."
+    },
+    {
+      "start": 800.59,
+      "end": 816.46,
+      "text": "Next one here is eating 1200 calories is easy. We're going to pop variation number three, which is like this tells your stomach you're full, even at 1200 calories. And the final one here is going to be trick your stomach into thinking it's still full."
+    },
+    {
+      "start": 816.53,
+      "end": 839.34,
+      "text": "Okay. And so now again, these are all kind of going towards the main kind of approach here of curbing cravings. But at the end of the day, we could just go and take a look at, okay, what, what are some specific templates that this can work for? And this is the part where I think a lot of you guys prefer to go visual first. And so I'm going to show you kind of how to go visual first with your sub avatars. I just wanted to like."
+    },
+    {
+      "start": 839.34,
+      "end": 847.94,
+      "text": "do this method first so it's okay we now basically focus on the execution but you just really need to think about like what needs to be shown here like stop"
+    },
+    {
+      "start": 847.94,
+      "end": 872.77,
+      "text": "stop needing discipline, start lowering cortisol. Eating 1200 calories is easy. This tells your stomach you're full even at 1200 calories and trick your stomach into thinking it's full. Now what you can do is again, take a look at this template. Well, this template looks pretty good. Let's just go ahead and pull this up because it's pretty simple, right? And for those of you that don't know, you need a file, you need to make a copy of this. Once you have a copy, now you should have the ability to edit this however you want."
+    },
+    {
+      "start": 872.77,
+      "end": 899.78,
+      "text": "okay now we could also even do something as simple as this right that just says like boom boom boom with like the main things that we want to call out um but let's just go ahead and grab this one because i think this one's the easiest okay and so what we're going to do here is we're going to grab this and we're going to say stop needing discipline start lowering cortisol and let's go into this specific right and now we can kind of adjust this the way that we want but let's think about the photo that we need here they just had like a product photo there right"
+    },
+    {
+      "start": 899.78,
+      "end": 929.62,
+      "text": "Well, again, I'm no freaking, I don't have, I obviously they have other images, but like, even if you just have a basic product image, like we can still find a way to make this look good. Like this image right here can look good. So I'm assuming that we have this image. If you don't have this image, I mean, you can use this one, but I'm just going to go into this client's Google drive specifically to find this image. Cause this fits perfect. It's off to the side and boom, I can stack my text there. So something I just want to show you guys is like, sometimes you just got to figure things out on your own."
+    },
+    {
+      "start": 929.62,
+      "end": 953.54,
+      "text": "And like, I mean, you've got things like ChatGPT where I didn't even know ChatGPT could do this because I was just too lazy to like go and like try to edit over this. I just wanted to drag and drop. So I was like, yo, chat, can you pull the text off of this? He's like, yeah, sure. No problem. Then it's done. All right, cool. I've got a million tabs open. Let's drop this in here. Right. We need to put this in here. This looks this looks rough, but that's OK. So in case you guys weren't aware of like."
+    },
+    {
+      "start": 953.54,
+      "end": 980.45,
+      "text": "how to do stuff here now there is a background remover i have this because i'm on camera pro i think camera pro is 16 a month uh so you know you could do that um but let's just go ahead and let's just take a look at zen's colors it kind of has like this blue color so to try to keep things on brand we can kind of just use that you know what i mean um so i'm gonna go back this kind of is like a lifestyle photo i don't know how this is gonna look if i copy this color but basically what you can do"
+    },
+    {
+      "start": 980.45,
+      "end": 1003.02,
+      "text": "is there's an extension called color picker and you can basically just use that to like snipe a color from your website uh and you can go over here and you can do uh let's just pop this in i don't know that's gonna do it yeah there we go look at that uh looks a little little tough down there not definitely not ideal uh i don't know what that is i have to like clean that up a little bit"
+    },
+    {
+      "start": 1003.02,
+      "end": 1026.29,
+      "text": "and i probably will like i just know my graphic designer is just absolutely because he might be watching this but i just know he is he is just loving watching me having to edit in canva i'm literally fully back in the trenches you guys um so anyways here here we go now we've got this laid out and now i'm trying to click multiple of these but i think the secondary color"
+    },
+    {
+      "start": 1026.29,
+      "end": 1052.8,
+      "text": "that we have here. I don't know if we have one, actually. This blue looks good. Let's use this blue. How about that? Again, use the colors from your website, guys. Follow your brand guidelines, although most of you probably don't have them. I'm going to pop this one in here. Bada boom. How does that look? Okay, okay. We're getting there. I need to also figure out what happened with this. I might need to clean this up a little bit because that looks a little..."
+    },
+    {
+      "start": 1052.8,
+      "end": 1082.45,
+      "text": "Yeah, it's a little ugly. All right, here's what we're going to do, guys. We can just make this a white image instead. Uh-huh. Look at that. Okay. And now, ideally, we bring this over a little bit more. And so here, what we can do is we can actually cheat a little bit and we can just make this white. I think it's white. I don't really know what's going on there. Should be good. We can pull this over a little bit more just so you can see it. And then we have the stop needing discipline, start lowering cortisol. All right, now we've got it."
+    },
+    {
+      "start": 1082.45,
+      "end": 1107.04,
+      "text": "okay and so what i'm gonna do here is i'm just gonna copy this okay i'm gonna take a screenshot of this and i'm gonna go into claude and this is where claude was doing some stuff and i don't want to confuse you guys but i'm just gonna say hey claude i need three bullet points for this headline specifically write them here similar to how this ad has it i have attached the inspo ad"
+    },
+    {
+      "start": 1107.04,
+      "end": 1136.77,
+      "text": "So you can see how it works. And so what are we going to do guys? We're going to go back to the winning ad and we are going to copy this. So they know what's up and then they can refer the ad again, working hard or working smart, not hard. Okay. My headline is stop eating discipline and start lowering cortisol. Okay. I want you guys to do one very important thing here while we wait for Claude is to make sure that you have your research."
+    },
+    {
+      "start": 1136.77,
+      "end": 1166.29,
+      "text": "okay you need need need need need to have your research here so based on the format style they can have reduced stress eating triggers ooh comms move without drowsiness um lowers cortisol naturally and breaks the stress eating cycle okay very interesting so the pattern that matches your inspo pull up our our banger out i've got so many tabs open here right reduces stress eating triggers we might have to pull this over even a little bit more maybe even have to like shrink it down a little bit um"
+    },
+    {
+      "start": 1166.99,
+      "end": 1190.64,
+      "text": "yeah, it's, it's getting, it's getting a little, a little ugly in here. This is where sometimes guys, you gotta, you gotta let the ugly ads do their thing. You know what I mean? Ugly ads are just, they're just going to be ugly. Maybe you have to shrink this down just a little bit more. It's also pretty, it's a pretty chunky headline to be honest. Um, but there we go. That gives us a little bit more room. Uh, now we've got comms mood without drowsiness. Um,"
+    },
+    {
+      "start": 1190.64,
+      "end": 1211.02,
+      "text": "Yeah, not sure if I'm the biggest fan of that. And the reason why I wanted to mention it's very important to have your research because let's take a look at this, right? This is obviously the headline if we go back for the stress eating cycle, right? So someone who's stressed. All right, I eat so much junk food, I feel sick and I feel regretful afterwards. I just have the urge to eat all day. It's like an empty pit. I have to eat apples instead."
+    },
+    {
+      "start": 1211.02,
+      "end": 1229.9,
+      "text": "Food is my comforter. It's the only thing that calms me down. We can start adding some of the stuff in here. So reduce stress eating triggers. That's a big call out right there. All right, finally, Claude figured it out. So what I did here is I like, for some reason, it just kept giving me two bullet points. I didn't want two bullet points. Oh, it's because I said I need two bullet points. Whoops. I don't have to say I need four."
+    },
+    {
+      "start": 1229.9,
+      "end": 1254.9,
+      "text": "uh so i basically said i was like claude what are you doing man i was like by the way here's again all that information so this is where all of your guys's research comes in handy right so all my research that i had here i just copied in i was like claude give me this and he kept giving me too i was like bro i need four all right so here we go so improve stress response and sleep quality interesting right and so now what we can do is we can go in here and you got to be careful with the claims like let's just say improves stress response um"
+    },
+    {
+      "start": 1254.9,
+      "end": 1285.44,
+      "text": "Let's take a look at enhances emotional control without willpower. Be careful what you guys are claiming because if you're claiming like it's a wonder drug, again, you're going to run into belief issues. Provides natural calm. Let's just do this. Provides natural calm. I kind of like that one. And I think the other one here, what does he say? This enhances performance and recovery. Let's just see here what Claude wrote. Enhances emotional control. Great. And what I would say is also..."
+    },
+    {
+      "start": 1285.44,
+      "end": 1293.82,
+      "text": "Although it looks kind of uglier, I'm going to write this lowercase because apparently it is easier to read. So reduces stress eating."
+    },
+    {
+      "start": 1293.82,
+      "end": 1322.8,
+      "text": "triggers now i'm not gonna lie i'm i'm really not the biggest fan i just realized like the glass is kind of showing here anyways so what i might actually do here is i might actually revert back to what i did originally and actually just update all of this to be the blue color because i want this background to to pop a little bit you know what i mean um and i think just the white background is like really boring um and this to me like look at the difference between that guys like obviously this this it looks a little bit weird but it looks that way"
+    },
+    {
+      "start": 1322.8,
+      "end": 1351.01,
+      "text": "kind of all together and if your ad is a little bit ugly that's that's okay we can it's okay to have ugly ads now i'm probably going to have my graph designer remake these but i just wanted to show you guys like how to make this up okay and so i actually screwed up because i duplicated this like 10 times when i didn't need to um what i'm gonna do now is duplicate this three more times okay so now what's our what's our next headline and again by the way guys like i know we have this brief here this brief is really for you if you"
+    },
+    {
+      "start": 1351.01,
+      "end": 1373.95,
+      "text": "have a graphic designer like and your graph designer is doing this and you're not like me struggling to do this um you could then go into this next one here which is eat 1200 calories okay and so let's go into this one eating 1200 calories is easy um and then we could just add a potential second line here and this is where we you know start to get a little bit crazy and then we can just go down"
+    },
+    {
+      "start": 1373.95,
+      "end": 1398.66,
+      "text": "and we can maybe not bold this but we could just actually duplicate this so let's do this one that i wrote is in my document which is why again you you write stuff down um with zen wellness right people want to be like what is zen wellness with metaglow diglomera could work i'm just going to say metaglow and i believe we actually could look even really smart here if we just copied this because diglomera has like this little r in it"
+    },
+    {
+      "start": 1398.66,
+      "end": 1420.24,
+      "text": "And so I might just try to like position myself as an authority here. And I'm going to use this little R. So with Diaglomera, and I can maybe add like a little dot, dot, dot. And then down here, I can say dot, dot, dot with Diaglomera. And so it's like eating 1200 calories is easy with Diaglomera. It's like, well, what's Diaglomera? Well, we can now explain what this does. So let's go ahead."
+    },
+    {
+      "start": 1420.24,
+      "end": 1448.98,
+      "text": "and do the same thing. All right, Claude, we now need to do the same thing for this new headline. Okay, and we can pop that in there and let's go grab our research. This one here, sub avatar, addicted to junk food. And the more quotes that you guys have here, the better Claude's gonna be. The more context you give it about who your customer is, the better it's gonna be. Think about the difference of how Claude is writing with this context versus, hey, Claude, write me this ad. Reduces hunger and cravings without torture. Oof, love it."
+    },
+    {
+      "start": 1448.98,
+      "end": 1477.5,
+      "text": "Banger, banger, banger, banger. Without torture is kind of intense. Reduces cravings without torture. Pretty intense there. Let's take a look at what else Claude cooked up. Improves natural fullness signals. Love it. And again, we're going to jot these ends down. I'm just going to paste them all in here that I can clean up later so you guys don't have to watch this. Enhances ability to say no to junk. I love that."
+    },
+    {
+      "start": 1477.5,
+      "end": 1507.55,
+      "text": "Um, that's a good one. And then provides lasting satisfaction all day. Um, not sure if I'm a fan of that one. Um, let's take a peek here. What else we had from our doc, wherever it is. Uh, we've got, you know, benefits of green tea and curbing appetite. I eat enough. Low calories beginning. I'm curious like torture eating 1200 calories. I eat enough not to feel hungry. I'm just looking, uh, start tricking them instead. Uh, tells your stomach it's full. Tells your stomach to stay full. That could be a good one. Um,"
+    },
+    {
+      "start": 1507.55,
+      "end": 1538.51,
+      "text": "provides natural fullness now i'm gonna say tells your stomach it's full reduces cravings without torture improves natural um stomach signals yeah it has the ability to say no to junk and if you can't think of a fourth one that's fine just delete it but whatever this is fine with me to say no to junk very very simple now we could use some stats here right like if you look at diagramma um it's like 68 something to increase i think"
+    },
+    {
+      "start": 1538.51,
+      "end": 1568.88,
+      "text": "Uh, there's something in our product doc here. I should probably know that, but let's go to our product doc. What does it say? Um, this collagen works through triple action, diaglomeric leasing, natural GPM1 production by 68%. Pretty sick claim. This is craving without torture. So we could start with that, right? So I'm going to have to go back on my word here. I'm bringing back the fourth one after I just capitalize all of that. So I might bring this down. I'm going to pop this in here. Increases natural GPM1 production by 68%. That's a bold ass claim."
+    },
+    {
+      "start": 1569.1,
+      "end": 1600.72,
+      "text": "It's a fire claim. I'd just say by 68%, or I probably have to say production, but improves natural fullness, enhances ability to say no to junk. Because now we're leading with a fact, right? And then I think the other one down here was like reduces cravings without the torture. Let's just see what else we can do. Enhances ability to say no to junk. And then the final one down here is reduces cravings."
+    },
+    {
+      "start": 1600.72,
+      "end": 1618.35,
+      "text": "We'll say no to torture. Might have to slide this over just a bit more. I might, or maybe, I mean, this is all aligned. It looks pretty, but there we go. Eating 1200 calories is easy with Aglomera. Increases natural GP1 by 68%, improves natural fullness signals, reduces cravings without torture, enhances ability to say no to junk. Pretty interesting ad."
+    },
+    {
+      "start": 1618.35,
+      "end": 1646.61,
+      "text": "All right, let's go to the next one here. We're almost done here, guys. I think you guys get the point. So maybe I don't even need to do the rest, but we would be doing this for the rest of them. So hopefully you guys can see how I've done it. And in case you need the final step, what do we do here? Well, we go here and we go download and we need to make sure we download just this one. We don't download old pages, just download page four. All right, boom. We've got this. We've got our download here. And we made our first ad. We need to celebrate, guys. Like this is a big moment. Let me pull this up. Come on now."
+    },
+    {
+      "start": 1646.61,
+      "end": 1674.59,
+      "text": "Look how beautiful that is. Eating 1200 calories is easy with Diaglomera. Come on now. We're testing it. I don't care. It's an S batch. We're doing it. But I wanted to make this video just to like show you guys, Ron, like this took me about an hour and a half to make. But again, you guys have to understand, like I don't do graphic design and a lot of you guys don't either. And if it takes you time in the beginning, that's okay. Like, is this ad hideous? Yes, it's hideous. But guess what? The information in it is damn good. It's good info."
+    },
+    {
+      "start": 1674.59,
+      "end": 1698.13,
+      "text": "All right. And we're going to test this. We're going to see what happens. But I just want you guys to know that when you go through this level of depth and you can just have really good ads just with images right away to get a direction. So that is how we put everything together, shows you guys how to make the ad from scratch. Obviously a lot of ins and outs, troubleshooting with Claude, asking GBT to do all this kind of stuff, all that. But I don't think there's anybody here."
+    },
+    {
+      "start": 1698.13,
+      "end": 1708.27,
+      "text": "that can't make the ad that I just made. You literally have zero excuse, okay? If you don't have a photo of the powder pouring into the cup, then just put the product image there, right? Everything that I just did..."
+    },
+    {
+      "start": 1708.27,
+      "end": 1729.33,
+      "text": "literally anybody with a brain should be able to do okay so hopefully that makes sense for the image ads there's going to be obviously another video coming around uh video ads that's a little bit more complex because for those of you that don't have a video editor or don't have video video editing skill set we're going to get into that of like what you can do to solve that problem uh because i'm not that guy i don't edit videos i have in the past but i just don't do it anymore and i'm not going to watch you guys or"
+    },
+    {
+      "start": 1729.33,
+      "end": 1754.24,
+      "text": "let you guys watch where you struggle to edit video ads because we have video editors that do that. And originally I hired a video editor, even when I didn't really have a lot of money, I was like, I need a video editor because I don't know what I'm doing. So I hired one, even if you pay them per concept, whatever it is, we'll get to that. But I wanted to make this video just to show you how to create the image ads all the way to the end, script writing, all that kind of stuff. And as you can see, again, the script writing wasn't even that intense. We just took some inspo, we filled it in and boom, there we go. So that is how you can create image ads."
+    }
+  ]
+}
