@@ -4,14 +4,14 @@ type: library
 creator: sarah-levinger
 course: tether-lab
 sources:
-  - wiki/courses/tether-lab/07-prompt-library/  # 15 lever-pair prompts (verbatim on each page)
-  - wiki/resources/valence-intensity-prompts.md
-  - wiki/resources/three-selves-prompts.md
-  - wiki/frameworks/story-frameworks-for-ads.md
-  - wiki/frameworks/customer-research-stack.md
-  - wiki/frameworks/mindstate-emotion-mapping.md
-  - wiki/tools/chatgpt.md
-  - wiki/courses/tether-lab/05-live-recordings/  # spoken prompts in session "Prompts" sections
+  - knowledge-base/wiki/courses/tether-lab/07-prompt-library/
+  - knowledge-base/wiki/resources/valence-intensity-prompts.md
+  - knowledge-base/wiki/resources/three-selves-prompts.md
+  - knowledge-base/wiki/frameworks/story-frameworks-for-ads.md
+  - knowledge-base/wiki/frameworks/customer-research-stack.md
+  - knowledge-base/wiki/frameworks/mindstate-emotion-mapping.md
+  - knowledge-base/wiki/tools/chatgpt.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/
 tags: [library, prompts, chatgpt, llm, index, research, diagnose, ideate, write, rewrite, test]
 updated: 2026-10-20
 ---
@@ -141,3 +141,11 @@ Each of #1–#14 returns **3 ad concepts** (Big Idea / Premise, Narrative Angle 
 - **Searched:** every fenced code block in the wiki (only the pages above hold prompts; the other blocks are output templates, YAML and diagrams) and every session page's "Prompts…" section and spoken "Chat, …" lines.
 - **Known gaps (named in sessions, text not in the course files):** Darian's first-principles-thinking prompt (Jul 2 0:40:13, text not shown); the "proof graphic" prompt being added to the Prompt Library (Jun 18 0:42:22); the "15 more" Prompt Library prompts and lesson "16. More to come shortly!" (empty); the "7 Free psychology ad prompts" from the onboarding call; the planned "psychological modifiers for chat" training; Sarah's custom GPTs (not shared). The PDF version of Prompt Library #4 has a wrong psychology section; use the Skool text.
 - **Provenance:** *as spoken* prompts are transcriptions and may differ slightly from what Sarah typed. *Derived* entries (#17, #40, #47, the full #43) are wiki assemblies; label them as such in briefs.
+
+## In other courses
+- Evolve Copywriting: [Prompt index: every prompt and AI instruction in Evolve Copywriting](../courses/evolve/copywriting/libraries/prompts.md): copy prompts
+- Evolve Start Here: [Prompts library: every AI prompt in Evolve Start Here (verbatim, grouped by pipeline step)](../courses/evolve/start-here/libraries/prompts.md): research and media-buying prompts
+- RMBC II: [RMBC II prompt library: every prompt and Claude Project instruction, by pipeline stage](../courses/stefan-georgi/rmbc-ii/libraries/prompts.md): 130 verbatim Claude Project prompts
+- RMBC II: [The Claude Project recipe](../courses/stefan-georgi/rmbc-ii/concepts/claude-project-recipe.md): how to set up a Claude Project
+
+Which page owns the topic: [topic map](../topic-map.md).

@@ -5,7 +5,7 @@ niche: kids-and-parenting
 sub_niche: "premium kids' bento lunchboxes"
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/1. Roast My Ads #3 July 23, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/1. Roast My Ads #3 July 23, 2025 - Recordings.txt
 tags: [brand, lunchbox, kids, parenting, social-proof, authority-bias, headline-testing, launch-creative, drop-language, colour-saturation, trend-colours, chatgpt-variants, statics]
 updated: 2026-10-20
 ---

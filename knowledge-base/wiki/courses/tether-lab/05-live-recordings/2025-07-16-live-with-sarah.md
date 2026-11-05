@@ -7,9 +7,9 @@ order: 2
 session_date: 2025-07-16
 video_length: "1:00:47"
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.srt
-  - raw/tether-lab/_extracted/5. Recordings/July 2025/2_Live_With_Sarah!_July_16,_2025_Recordings_·_Tether_La.md
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.srt
+  - knowledge-base/raw/tether-lab/_extracted/5. Recordings/July 2025/2_Live_With_Sarah!_July_16,_2025_Recordings_·_Tether_La.md
 tags: [live-session, fogg-behavior-model, ability, motivation, prompts, cro, landing-page, pricing-psychology, buy-box, intensity, three-selves, jewelry, supplements, haircare, pet]
 updated: 2026-10-20
 ---

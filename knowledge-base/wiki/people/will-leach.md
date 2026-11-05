@@ -3,9 +3,9 @@ title: "Will Leach"
 type: person
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/5. Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/3. Live With Sarah! - July 09, 2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/5. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/5. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/3. Live With Sarah! - July 09, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/5. Live With Sarah!.txt
 tags: [person, author, behavioral-science, mindstates, purchase-emotions, nlp, review-mining]
 updated: 2026-10-20
 ---

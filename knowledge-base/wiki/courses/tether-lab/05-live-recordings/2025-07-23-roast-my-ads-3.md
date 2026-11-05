@@ -7,9 +7,9 @@ order: 1
 session_date: 2025-07-23
 video_length: "1:00:55"
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/1. Roast My Ads #3 July 23, 2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/1. Roast My Ads #3 July 23, 2025 - Recordings.srt
-  - raw/tether-lab/_extracted/5. Recordings/July 2025/1_Roast_My_Ads_#3_July_23,_2025_Recordings_·_Tether_Lab.md
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/1. Roast My Ads #3 July 23, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/1. Roast My Ads #3 July 23, 2025 - Recordings.srt
+  - knowledge-base/raw/tether-lab/_extracted/5. Recordings/July 2025/1_Roast_My_Ads_#3_July_23,_2025_Recordings_·_Tether_Lab.md
 tags: [live-session, roast-my-ads, ad-teardown, statics, model-selection, body-language, scarcity, social-proof, salience, teep, consumer-journey, ad-account-structure, meta, valence, intensity, message-variants, drop-language, color-psychology, pinterest-predicts, anthropomorphism, underwear, pet, kids, lunchbox, supplements, lactase]
 updated: 2026-10-20
 ---

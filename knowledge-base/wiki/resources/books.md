@@ -4,12 +4,12 @@ type: resource
 course: tether-lab
 module: 06-ad-lab-toolkit
 sources:
-  - raw/tether-lab/6. The Ad Lab Toolkit/5. Rare Behavioral Science Books.pdf
-  - raw/tether-lab/_extracted/6. The Ad Lab Toolkit/5. Rare Behavioral Science Books.md
-  - raw/tether-lab/_extracted/6. The Ad Lab Toolkit/5_Sarah's_Secret_Book_Stash_The_Ad_Lab_Toolkit_·_Tether.md
-  - raw/assets/tether-lab/pdf-pages/5-Rare-Behavioral-Science-Books/
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/3. Live With Sarah! - July 09, 2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/6. The Ad Lab Toolkit/5. Rare Behavioral Science Books.pdf
+  - knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/5. Rare Behavioral Science Books.md
+  - knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/5_Sarah's_Secret_Book_Stash_The_Ad_Lab_Toolkit_·_Tether.md
+  - knowledge-base/raw/assets/tether-lab/pdf-pages/5-Rare-Behavioral-Science-Books/
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/3. Live With Sarah! - July 09, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.txt
 tags: [resource, books, reading-list, behavioral-science, consumer-psychology, emotion, behavioral-economics]
 updated: 2026-10-20
 ---

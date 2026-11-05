@@ -4,11 +4,11 @@ type: concept
 course: tether-lab
 module: 04-self-targeting-system
 sources:
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/3. Why One Self Isn't Enough to Scale.txt
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/4. The 3 Selves That Drive Every Buying Decision.txt
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/6. How to Use The Prompts For Instant Insights.txt
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/8. How to Test Your Ads By Self Type.txt
-  - raw/tether-lab/_extracted/4. The Self Targeting System/10. eBook Which ‘You’ Are You Selling To (2).md
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/3. Why One Self Isn't Enough to Scale.txt
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/4. The 3 Selves That Drive Every Buying Decision.txt
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/6. How to Use The Prompts For Instant Insights.txt
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/8. How to Test Your Ads By Self Type.txt
+  - knowledge-base/raw/tether-lab/_extracted/4. The Self Targeting System/10. eBook Which ‘You’ Are You Selling To (2).md
 tags: [ideal-self, three-selves, aspiration, self-discrepancy-theory, angle-rut]
 updated: 2026-10-20
 ---

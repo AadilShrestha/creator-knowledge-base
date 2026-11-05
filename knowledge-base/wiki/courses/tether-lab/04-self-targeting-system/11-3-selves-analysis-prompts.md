@@ -5,9 +5,9 @@ course: tether-lab
 module: 04-self-targeting-system
 order: 11
 sources:
-  - raw/tether-lab/_extracted/4. The Self Targeting System/11_3_Selves_Analysis_Prompts_The_Self_Targeting_System_.md
-  - raw/tether-lab/_extracted/4. The Self Targeting System/11. 3-Selves Course - Prompts.md
-  - raw/tether-lab/4. The Self Targeting System/11. 3-Selves Course - Prompts.docx
+  - knowledge-base/raw/tether-lab/_extracted/4. The Self Targeting System/11_3_Selves_Analysis_Prompts_The_Self_Targeting_System_.md
+  - knowledge-base/raw/tether-lab/_extracted/4. The Self Targeting System/11. 3-Selves Course - Prompts.md
+  - knowledge-base/raw/tether-lab/4. The Self Targeting System/11. 3-Selves Course - Prompts.docx
 tags: [bonus, prompts, chatgpt, three-selves-diagnostic, rewriting]
 updated: 2026-10-20
 ---

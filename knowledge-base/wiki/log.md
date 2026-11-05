@@ -51,3 +51,17 @@ Append-only. Newest at the bottom. Grep with `grep "^## \[" log.md`.
 
 ## [2026-10-22] lint | Whole wiki after the Evolve ingest
 - 409 Markdown files: 0 missing link/image targets. 1,014 frontmatter `sources` flags are older Tether Lab paths written relative to `knowledge-base/` (baseline, unchanged).
+
+## [2026-10-28] research | Instagram email creator source library
+- Added resources/instagram-email-creator-research.md and indexed it without regenerating unrelated pages.
+- Linked checkoutnotes archive: 880 relevant posts/20accounts;274full-caption annotations;11new sampled-video reviews (8usableASRreads);5carousels/48slides. Unreviewed media remains pending.
+- Exact UTC/Nepal timestamps and observed30-day cadence retained; public counts are not leads, retention or sales. Corrected mistaken Phil identity; known source/access gaps remain explicit. Existing course raw evidence was not changed.
+
+## [2026-11-05] lint | Cross-course wiring and link repair
+- **Front door:** `AGENT-GUIDE.md` rewritten for four courses: 31 task rows (VSLs, advertorials, PDPs, checkout/upsells/email, funnels, Claude Projects, claim audit, media buying, account audit, CRO, platforms, creator programs added), funnel lenses, claim-audit rule. Root `AGENTS.md` routing and the `write-ugc-script` skill pointers updated.
+- **New page:** [topic map](topic-map.md): owner page per topic across Tether Lab, Evolve Copywriting, Evolve Start Here and RMBC II, with conflict row IDs.
+- **Contradictions:** rows S1–S5 (Start Here) and R1–R16 (RMBC II) added.
+- **Shared hubs:** overview, playbooks, libraries, rubrics, people and tools hubs point at the Start Here and RMBC II material; index entry points list the topic map.
+- **Backlinks:** "In other courses" sections on 54 pages (Tether shared pages, Evolve Copywriting, Start Here).
+- **Link repair:** 1,014 missing frontmatter sources fixed (old `raw/` and `wiki/` prefixes made repo-relative; one filename typo). `tools/kb/check_links.py knowledge-base/wiki`: 0 missing targets.
+- **Privacy:** creator names, handles and faces blurred in 10 Start Here screenshots (lessons 156, 158, 160, 162, 163).

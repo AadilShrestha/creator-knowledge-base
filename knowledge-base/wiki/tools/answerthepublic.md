@@ -3,7 +3,7 @@ title: "AnswerThePublic"
 type: tool
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/5. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/5. Live With Sarah!.txt
 tags: [tool, research, search-questions, awareness-level, teep, market-research]
 updated: 2026-10-20
 ---

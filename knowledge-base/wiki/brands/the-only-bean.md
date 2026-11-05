@@ -5,7 +5,7 @@ niche: food-and-beverage
 sub_niche: "better-for-you snack: crunchy dry-roasted edamame"
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/2. Roast my Ads #1.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/2. Roast my Ads #1.txt
 tags: [brand, snacks, edamame, high-protein, weight-loss, member-brand, video-hook, ugc, gain-framing, loss-aversion, framing, curiosity]
 updated: 2026-10-20
 ---

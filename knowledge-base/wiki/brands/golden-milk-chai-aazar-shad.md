@@ -5,8 +5,8 @@ niche: food-and-beverage
 sub_niche: "DTC golden milk / turmeric chai tea (caffeine-free, sugar-free)"
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/3. Live With Sarah! - July 09, 2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/3. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/3. Live With Sarah! - July 09, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/3. Live With Sarah!.txt
 tags: [brand, tea, chai, golden-milk, turmeric, beverage, member-brand, static, heuristic-test, scarcity, social-proof, authority, processing-fluency, choice, switching, iteration]
 updated: 2026-10-20
 ---

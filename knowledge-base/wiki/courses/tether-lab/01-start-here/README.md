@@ -5,11 +5,11 @@ course: tether-lab
 module: 01-start-here
 order: 1
 sources:
-  - raw/tether-lab/_transcripts/1. Start Here/1. Welcome to Tether lab.txt
-  - raw/tether-lab/_extracted/1. Start Here/1_1️⃣_Welcome_to_Tether_Lab_👋_Start_Here_·_Tether_Lab.md
-  - raw/tether-lab/_extracted/1. Start Here/2_2️⃣_Book_your_onboarding_session_Start_Here_·_Tether_.md
-  - raw/tether-lab/_extracted/1. Start Here/3. 3️⃣_Start_learning!_-_Start_Here_·_Tether_Lab.md
-  - raw/tether-lab/_extracted/1. Start Here/4. 📕_Community_Guidelines_-_Start_Here_·_Tether_Lab.md
+  - knowledge-base/raw/tether-lab/_transcripts/1. Start Here/1. Welcome to Tether lab.txt
+  - knowledge-base/raw/tether-lab/_extracted/1. Start Here/1_1️⃣_Welcome_to_Tether_Lab_👋_Start_Here_·_Tether_Lab.md
+  - knowledge-base/raw/tether-lab/_extracted/1. Start Here/2_2️⃣_Book_your_onboarding_session_Start_Here_·_Tether_.md
+  - knowledge-base/raw/tether-lab/_extracted/1. Start Here/3. 3️⃣_Start_learning!_-_Start_Here_·_Tether_Lab.md
+  - knowledge-base/raw/tether-lab/_extracted/1. Start Here/4. 📕_Community_Guidelines_-_Start_Here_·_Tether_Lab.md
 tags: [onboarding, community, skool]
 updated: 2026-10-20
 ---

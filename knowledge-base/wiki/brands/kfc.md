@@ -5,8 +5,8 @@ niche: food-and-beverage
 sub_niche: "quick-service restaurant (fast food)"
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/2. Heuristics 101/2. Using The Biases That Sell.txt
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/4. Live With Sarah! - July 02, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/2. Heuristics 101/2. Using The Biases That Sell.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/4. Live With Sarah! - July 02, 2025 - Recordings.txt
 tags: [brand, qsr, fast-food, scarcity, quantity-limit, reciprocity, ben-franklin-effect, offer, campaign]
 updated: 2026-10-20
 ---

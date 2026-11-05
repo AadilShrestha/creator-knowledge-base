@@ -6,10 +6,10 @@ module: 02-heuristics-101
 order: 4
 video_length: "7:21"
 sources:
-  - raw/tether-lab/_transcripts/2. Heuristics 101/4. Hook Attention, Guide Behaviour.txt
-  - raw/tether-lab/_transcripts/2. Heuristics 101/4. Hook Attention, Guide Behaviour.srt
-  - raw/tether-lab/_extracted/2. Heuristics 101/4_4_Hook_Attention,_Guide_Behavior_Heuristics_101_·_Tet.md
-  - raw/tether-lab/_extracted/2. Heuristics 101/7. Heuristics 101 e-book.md
+  - knowledge-base/raw/tether-lab/_transcripts/2. Heuristics 101/4. Hook Attention, Guide Behaviour.txt
+  - knowledge-base/raw/tether-lab/_transcripts/2. Heuristics 101/4. Hook Attention, Guide Behaviour.srt
+  - knowledge-base/raw/tether-lab/_extracted/2. Heuristics 101/4_4_Hook_Attention,_Guide_Behavior_Heuristics_101_·_Tet.md
+  - knowledge-base/raw/tether-lab/_extracted/2. Heuristics 101/7. Heuristics 101 e-book.md
 tags: [heuristics, salience-bias, goal-gradient, framing-effect, pricing-psychology, cro]
 updated: 2026-10-20
 ---

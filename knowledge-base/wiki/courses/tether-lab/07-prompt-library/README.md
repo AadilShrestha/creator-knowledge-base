@@ -6,12 +6,12 @@ module: 07-prompt-library
 order: 7
 video_length: "4:37"
 sources:
-  - "raw/tether-lab/_extracted/7. The Prompt Library/0_Video_Tutorial_How_To_Use_The_Prompt_Library_The_Prom.md"
-  - raw/tether-lab/7. The Prompt Library/
-  - raw/tether-lab/_extracted/7. The Prompt Library/
-  - raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
-  - raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. The_Prompt_Library_-_The_Ad_Lab_Toolkit_·_Tether_Lab.md
-  - raw/tether-lab/_transcripts/6. The Ad Lab Toolkit/4. The Prompt Library.txt
+  - "knowledge-base/raw/tether-lab/_extracted/7. The Prompt Library/0_Video_Tutorial_How_To_Use_The_Prompt_Library_The_Prom.md"
+  - knowledge-base/raw/tether-lab/7. The Prompt Library/
+  - knowledge-base/raw/tether-lab/_extracted/7. The Prompt Library/
+  - knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
+  - knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. The_Prompt_Library_-_The_Ad_Lab_Toolkit_·_Tether_Lab.md
+  - knowledge-base/raw/tether-lab/_transcripts/6. The Ad Lab Toolkit/4. The Prompt Library.txt
 tags: [prompts, prompt-library, chatgpt, ad-concepts, hooks, heuristic-stacking, lever-pairs]
 updated: 2026-10-20
 ---

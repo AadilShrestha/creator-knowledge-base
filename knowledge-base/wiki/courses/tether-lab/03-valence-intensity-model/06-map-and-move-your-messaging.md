@@ -6,9 +6,9 @@ module: 03-valence-intensity-model
 order: 6
 video_length: "2:59"
 sources:
-  - raw/tether-lab/_transcripts/3. The Valence & Intensity Model/6. Map + Move Your Messaging.txt
-  - raw/tether-lab/_transcripts/3. The Valence & Intensity Model/6. Map + Move Your Messaging.srt
-  - raw/tether-lab/_extracted/3. The Valence & Intensity Model/6_6_Map_+_Move_Your_Messaging_The_Valence_&_Intensity_M.md
+  - knowledge-base/raw/tether-lab/_transcripts/3. The Valence & Intensity Model/6. Map + Move Your Messaging.txt
+  - knowledge-base/raw/tether-lab/_transcripts/3. The Valence & Intensity Model/6. Map + Move Your Messaging.srt
+  - knowledge-base/raw/tether-lab/_extracted/3. The Valence & Intensity Model/6_6_Map_+_Move_Your_Messaging_The_Valence_&_Intensity_M.md
 tags: [emotion, tone-shifting, diagnosis, testing, action-plan]
 updated: 2026-10-20
 ---

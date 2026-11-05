@@ -4,7 +4,7 @@ type: concept
 course: tether-lab
 aliases: ["Observer effect", "Being watched", "I see you"]
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/4. Live With Sarah! - July 02, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/4. Live With Sarah! - July 02, 2025 - Recordings.txt
 tags: [heuristics, observer-expectancy-effect, accountability, direct-to-camera, retention, cart-abandonment, decision-lab]
 updated: 2026-10-20
 ---

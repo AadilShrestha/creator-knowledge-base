@@ -125,3 +125,9 @@ Two tools from one principle ("One of the biggest mistakes that I feel like copy
 ## Related
 - [avatars-and-angles](avatars-and-angles.md) · [hooks](hooks.md) · [bridges](bridges.md) · [unaware-ads](unaware-ads.md) · [compression-and-plain-language](compression-and-plain-language.md) · [ai-in-copywriting](ai-in-copywriting.md) · [comparisons](comparisons.md) · [show-dont-tell](show-dont-tell.md)
 - [video-ad-script-workflow](../frameworks/video-ad-script-workflow.md) · [static-ad-workflow](../frameworks/static-ad-workflow.md) · [copy-checklist-scorecard](../rubrics/copy-checklist-scorecard.md)
+
+## In other courses
+- Evolve Start Here: [The research doc (Evolve's single research workspace: schema, versions, who fills what)](../../start-here/concepts/research-doc.md): research doc
+- RMBC II: [Unified Research Document](../../../stefan-georgi/rmbc-ii/concepts/unified-research-document.md): LLM research quotes are leads only (R3)
+
+Which page owns the topic: [topic map](../../../../topic-map.md).

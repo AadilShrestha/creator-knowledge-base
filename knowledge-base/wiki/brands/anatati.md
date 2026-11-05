@@ -5,7 +5,7 @@ niche: apparel-and-accessories
 sub_niche: "women's fashion, natural fibres (American-made, European-inspired)"
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/2. Roast My Ads #2 - June 25,2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/2. Roast My Ads #2 - June 25,2025 - Recordings.txt
 tags: [brand, womens-fashion, natural-fibres, landing-page, homepage, cognitive-load, choice-overload, cta-language, ownership-language, emotion-specificity, video-for-fabric]
 updated: 2026-10-20
 ---

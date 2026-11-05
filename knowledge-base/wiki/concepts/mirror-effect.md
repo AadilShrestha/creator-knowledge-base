@@ -4,7 +4,7 @@ type: concept
 course: tether-lab
 aliases: ["mirror effect", "displaced guilt", "guilt parody"]
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/3. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/3. Live With Sarah!.txt
 tags: [emotion, guilt, shame, ethics, parody, humor, storytelling, ugc-skit, ought-self, pet]
 updated: 2026-10-20
 ---

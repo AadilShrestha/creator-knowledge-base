@@ -320,3 +320,10 @@ teardown_card:
 
 ## Related
 [Playbooks hub](README.md) · [Landscape audit](competitor-landscape-audit.md) · [Angle remix](angle-remix.md) · [Valence-intensity diagnostic](../frameworks/valence-intensity-diagnostic.md) · [Three-selves diagnostic](../frameworks/three-selves-diagnostic.md) · [TEEP](../frameworks/teep-journey.md) · [Mindstate mapping](../frameworks/mindstate-emotion-mapping.md) · [Story frameworks](../frameworks/story-frameworks-for-ads.md) · [Skeptic format](../frameworks/skeptic-format.md) · [Visual weight hierarchy](../frameworks/visual-weight-hierarchy.md) · [Psychology application ladder](../frameworks/psychology-application-ladder.md) · [Emotional stagnation](../concepts/emotional-stagnation.md) · [ChatGPT](../tools/chatgpt.md) · [Ad teardowns library](../libraries/ad-teardowns.md)
+
+## In other courses
+- Evolve Start Here: [Ad teardowns library: Evolve Start Here (every real ad critiqued, grouped by niche)](../courses/evolve/start-here/libraries/ad-teardowns.md): teardowns by niche
+- RMBC II: [Ad and page teardowns library: RMBC II (every ad, VSL, page, checkout and upsell critiqued)](../courses/stefan-georgi/rmbc-ii/libraries/ad-teardowns.md): VSL, advertorial and PDP teardowns
+- RMBC II: [Composite vs swipe](../courses/stefan-georgi/rmbc-ii/concepts/composite-vs-swipe.md): composite, never swipe (R15)
+
+Which page owns the topic: [topic map](../topic-map.md).

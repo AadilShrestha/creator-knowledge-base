@@ -6,9 +6,9 @@ module: 04-self-targeting-system
 order: 2
 video_length: "2:56"
 sources:
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/2. Diagnose Which Self Your Ads Target.txt
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/2. Diagnose Which Self Your Ads Target.srt
-  - raw/tether-lab/_extracted/4. The Self Targeting System/2_2_Diagnose_Which_Self_Your_Ads_Target_The_Self_Target.md
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/2. Diagnose Which Self Your Ads Target.txt
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/2. Diagnose Which Self Your Ads Target.srt
+  - knowledge-base/raw/tether-lab/_extracted/4. The Self Targeting System/2_2_Diagnose_Which_Self_Your_Ads_Target_The_Self_Target.md
 tags: [three-selves, diagnostic, sampling, nine-ad-identity-scan, ad-analysis]
 updated: 2026-10-20
 ---

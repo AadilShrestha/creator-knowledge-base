@@ -6,9 +6,9 @@ module: 03-valence-intensity-model
 order: 2
 video_length: "2:51"
 sources:
-  - raw/tether-lab/_transcripts/3. The Valence & Intensity Model/2.Understanding Valence & Intensity.txt
-  - raw/tether-lab/_transcripts/3. The Valence & Intensity Model/2.Understanding Valence & Intensity.srt
-  - raw/tether-lab/_extracted/3. The Valence & Intensity Model/2_2_Understanding_Valence_&_Intensity_The_Valence_&_Int.md
+  - knowledge-base/raw/tether-lab/_transcripts/3. The Valence & Intensity Model/2.Understanding Valence & Intensity.txt
+  - knowledge-base/raw/tether-lab/_transcripts/3. The Valence & Intensity Model/2.Understanding Valence & Intensity.srt
+  - knowledge-base/raw/tether-lab/_extracted/3. The Valence & Intensity Model/2_2_Understanding_Valence_&_Intensity_The_Valence_&_Int.md
 tags: [emotion, valence, intensity, definitions]
 updated: 2026-10-20
 ---

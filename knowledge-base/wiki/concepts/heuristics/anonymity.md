@@ -3,8 +3,8 @@ title: "Anonymity (Confession from the Crowd)"
 type: concept
 course: tether-lab
 sources:
-  - raw/tether-lab/_extracted/7. The Prompt Library/10_Anonymity_+_Social_Proof_The_Prompt_Library_·_Tether.md
-  - raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
+  - knowledge-base/raw/tether-lab/_extracted/7. The Prompt Library/10_Anonymity_+_Social_Proof_The_Prompt_Library_·_Tether.md
+  - knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
 tags: [lever, anonymity, testimonials, ugc, authenticity, social-proof, prompt-library]
 updated: 2026-10-20
 ---

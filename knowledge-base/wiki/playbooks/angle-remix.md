@@ -157,3 +157,9 @@ Source mechanism (from Milky, [R3 0:55:52–1:00:02](../courses/tether-lab/05-li
 
 ## Related
 [Playbooks hub](README.md) · [Competitor ad teardown](competitor-ad-teardown.md) · [Landscape audit](competitor-landscape-audit.md) · [Customer research → angles](customer-research-to-angles.md) · [UGC script writing](ugc-script-writing.md) · [Static ad creation](static-ad-creation.md) · [Iteration vs variation](../concepts/iteration-vs-variation.md) · [Angle rut](../concepts/angle-rut.md) · [Mirror effect](../concepts/mirror-effect.md) · [Risk-reduction hooks](../concepts/risk-reduction-hooks.md) · [Switching behavior](../concepts/switching-behavior.md)
+
+## In other courses
+- RMBC II: [Composite vs swipe](../courses/stefan-georgi/rmbc-ii/concepts/composite-vs-swipe.md): composite vs swipe (R15)
+- Evolve Start Here: [Angle generation prompt (sub-avatar → desire + behavior + gap → ranked angles and direct hooks)](../courses/evolve/start-here/frameworks/angle-generation-prompt.md): angle generation prompt
+
+Which page owns the topic: [topic map](../topic-map.md).

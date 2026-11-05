@@ -3,8 +3,8 @@ title: "Chase Mohseni"
 type: person
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/1. Guest Session 02 Chase Monhseni - Recordings.txt
-  - raw/tether-lab/_transcripts/2. Heuristics 101/8. Bonus Get Creative OS(1 month Free)Heuristics 101.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/1. Guest Session 02 Chase Monhseni - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/2. Heuristics 101/8. Bonus Get Creative OS(1 month Free)Heuristics 101.txt
 tags: [guest, creativeos, static-ads, creative-testing, growth, saas]
 updated: 2026-10-20
 ---

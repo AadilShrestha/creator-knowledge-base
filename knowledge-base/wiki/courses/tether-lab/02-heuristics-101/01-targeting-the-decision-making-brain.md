@@ -6,10 +6,10 @@ module: 02-heuristics-101
 order: 1
 video_length: "5:34"
 sources:
-  - raw/tether-lab/_transcripts/2. Heuristics 101/1. Targeting the Decision-Making Brain.txt
-  - raw/tether-lab/_transcripts/2. Heuristics 101/1. Targeting the Decision-Making Brain.srt
-  - raw/tether-lab/_extracted/2. Heuristics 101/1_1_Targeting_the_Decision_Making_Brain_Heuristics_101_.md
-  - raw/tether-lab/_extracted/2. Heuristics 101/7. Heuristics 101 e-book.md
+  - knowledge-base/raw/tether-lab/_transcripts/2. Heuristics 101/1. Targeting the Decision-Making Brain.txt
+  - knowledge-base/raw/tether-lab/_transcripts/2. Heuristics 101/1. Targeting the Decision-Making Brain.srt
+  - knowledge-base/raw/tether-lab/_extracted/2. Heuristics 101/1_1_Targeting_the_Decision_Making_Brain_Heuristics_101_.md
+  - knowledge-base/raw/tether-lab/_extracted/2. Heuristics 101/7. Heuristics 101 e-book.md
 tags: [heuristics, subconscious, conscious, decision-making, brain]
 updated: 2026-10-20
 ---

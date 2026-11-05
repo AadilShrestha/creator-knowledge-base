@@ -3,9 +3,9 @@ title: "Specificity"
 type: concept
 course: tether-lab
 sources:
-  - raw/tether-lab/_extracted/7. The Prompt Library/13_Counterintuitive_Insight_+_Specificity_The_Prompt_Li.md
-  - raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/3. Live With Sarah! - July 09, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_extracted/7. The Prompt Library/13_Counterintuitive_Insight_+_Specificity_The_Prompt_Li.md
+  - knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/3. Live With Sarah! - July 09, 2025 - Recordings.txt
 aliases: ["Situational specificity", "Situational awareness"]
 tags: [lever, specificity, situational-specificity, numbers, credibility, targeting, prompt-library]
 updated: 2026-10-20

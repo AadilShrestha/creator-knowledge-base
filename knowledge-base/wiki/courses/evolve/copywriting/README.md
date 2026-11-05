@@ -24,7 +24,7 @@ updated: 2026-10-21
   - **DO** treat AI output as a 70–80% draft and check every claim and number against the product document. [L70](lessons/70-how-to-write-video-ads-part-1.md), [L67](lessons/67-how-to-write-image-ads-part-1.md)
   - **DON'T** reuse a reference ad's wording near-verbatim; take its mechanism (structure, angle, hook move) and write new lines from our product's facts. See the caution on [L65](lessons/65-banger-static-ads-prompt.md).
   - **DON'T** invent proof, stats or authority. Borrowed authority says "we noticed…", never "X endorses us". [L16](lessons/16-why-you-need-to-understand-authority.md)
-- **See also:** [playbooks](playbooks/README.md) · [libraries](libraries/README.md) · [course index](index.md) · [AGENT-GUIDE](../../../../AGENT-GUIDE.md)
+- **See also:** [playbooks](playbooks/README.md) · [libraries](libraries/README.md) · [course index](index.md) · [AGENT-GUIDE](../../../../AGENT-GUIDE.md) · [cross-course topic map](../../../topic-map.md)
 
 ## Start here (by agent task)
 | Task | Course page | Combine with (Tether Lab) |

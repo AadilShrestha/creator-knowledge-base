@@ -3,8 +3,8 @@ title: "Open Loop"
 type: concept
 course: tether-lab
 sources:
-  - raw/tether-lab/_extracted/7. The Prompt Library/2_Status_Signaling_+_Open_Loop_The_Prompt_Library_·_Tet.md
-  - raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
+  - knowledge-base/raw/tether-lab/_extracted/7. The Prompt Library/2_Status_Signaling_+_Open_Loop_The_Prompt_Library_·_Tet.md
+  - knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
 tags: [heuristics, open-loop, curiosity, retention, hooks, prompt-library]
 updated: 2026-10-20
 ---

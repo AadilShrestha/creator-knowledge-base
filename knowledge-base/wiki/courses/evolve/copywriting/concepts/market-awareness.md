@@ -138,5 +138,11 @@ The video-ad prompt says "ONLY writing for Problem-Aware or Product-Aware… Do 
 ## Related
 [Unaware ads](unaware-ads.md) · [Hooks](hooks.md) · [Bridges](bridges.md) · [Beliefs](beliefs.md) · [Objection handling](objection-handling.md) · [Unique mechanism](unique-mechanism.md) · [Positioning](positioning.md) · [Avatars and angles](avatars-and-angles.md)
 
+## In other courses
+- Evolve Start Here: [Market awareness levels (Start Here specifics: per-level jobs, comparison rule, awareness × page type)](../../start-here/concepts/market-awareness-levels.md): awareness × page-type matrix
+- RMBC II: [Product-market awareness (RMBC II model)](../../../stefan-georgi/rmbc-ii/concepts/product-market-awareness.md): category-level awareness and the market-split prompt (R1)
+
+Which page owns the topic: [topic map](../../../../topic-map.md).
+
 ## Sources and limitations
 L21's video is a page scroll; the copy-length table is the page's own image and is not read aloud. "10 minutes" vs "20 minutes" from problem to most aware both appear. Market-size claims are the instructor's opinion, without data.

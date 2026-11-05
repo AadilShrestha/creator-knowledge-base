@@ -5,7 +5,7 @@ niche: supplements-and-health
 sub_niche: "lactase pills (wallet card)"
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/1. Roast My Ads #3 July 23, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/1. Roast My Ads #3 July 23, 2025 - Recordings.txt
 tags: [brand, supplements, digestive-health, lactose-intolerance, roast-my-ads, statics, ought-self, zone-3, competitor-comparison, social-proof, format-fatigue, anthropomorphism]
 updated: 2026-10-20
 ---

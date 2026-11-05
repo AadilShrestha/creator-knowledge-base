@@ -26,3 +26,13 @@ updated: 2026-10-20
 | [Landing-page scorecard](landing-page-scorecard.md) | landers, PDPs, advertorials (ours and competitors') | `lp_scorecard` (0–100, 6 sections, auto-fails LP1–LP5) | ≥80, no auto-fail | [teardown](../playbooks/competitor-ad-teardown.md), [test and iterate](../playbooks/test-and-iterate.md) |
 
 Related diagnostics that work like rubrics: [valence-intensity diagnostic](../frameworks/valence-intensity-diagnostic.md) (zone scoring), [three-selves diagnostic](../frameworks/three-selves-diagnostic.md) (self scoring 0–10), [3 Vs check](../frameworks/three-vs-of-creative.md) (vibe / variety / velocity).
+
+## Course rubrics
+| Rubric | Course | Applies to |
+|---|---|---|
+| [Copy checklist scorecard](../courses/evolve/copywriting/rubrics/copy-checklist-scorecard.md) | Evolve Copywriting | any ad copy before production |
+| [Execution checklist](../courses/evolve/start-here/rubrics/execution-checklist.md) | Evolve Start Here | an ad concept before it is shot or built (13 checks) |
+| [Ad account audit](../courses/evolve/start-here/rubrics/ad-account-audit.md) | Evolve Start Here | a Meta ad account: structure, budgets, labels, attribution |
+| [LLM output claim audit](../courses/stefan-georgi/rmbc-ii/rubrics/llm-output-claim-audit.md) | RMBC II | **every model-written draft**, whichever course's procedure produced it |
+| [VSL review](../courses/stefan-georgi/rmbc-ii/rubrics/vsl-review.md) | RMBC II | a VSL script before production |
+| [Funnel audit](../courses/stefan-georgi/rmbc-ii/rubrics/funnel-audit.md) | RMBC II | a funnel from ad to email: congruence, pages, checkout, economics |

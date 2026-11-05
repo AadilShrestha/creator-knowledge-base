@@ -4,11 +4,11 @@ type: framework
 course: tether-lab
 module: 05-live-recordings
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/5. Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/5. Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/4.Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/4. Live With Sarah! - July 02, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/5. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/5. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/4.Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/4. Live With Sarah! - July 02, 2025 - Recordings.txt
 tags: [framework, research, surveys, core-identity-map, cim, pictorial-surveys, metaphorical-questions, nps, survey-design, leading-questions, identity, behavior, retention, icp]
 updated: 2026-10-20
 ---

@@ -5,8 +5,8 @@ course: tether-lab
 module: 01-start-here
 order: 2
 sources:
-  - raw/tether-lab/_extracted/1. Start Here/2_2️⃣_Book_your_onboarding_session_Start_Here_·_Tether_.md
-  - raw/tether-lab/_transcripts/1. Start Here/1. Welcome to Tether lab.txt
+  - knowledge-base/raw/tether-lab/_extracted/1. Start Here/2_2️⃣_Book_your_onboarding_session_Start_Here_·_Tether_.md
+  - knowledge-base/raw/tether-lab/_transcripts/1. Start Here/1. Welcome to Tether lab.txt
 tags: [onboarding]
 updated: 2026-10-20
 ---

@@ -6,9 +6,9 @@ module: 03-valence-intensity-model
 order: 4
 video_length: "6:18"
 sources:
-  - raw/tether-lab/_transcripts/3. The Valence & Intensity Model/4. Diagnosing Emotional Misfires.txt
-  - raw/tether-lab/_transcripts/3. The Valence & Intensity Model/4. Diagnosing Emotional Misfires.srt
-  - raw/tether-lab/_extracted/3. The Valence & Intensity Model/4_4_Diagnosing_Emotional_Misfires_The_Valence_&_Intensi.md
+  - knowledge-base/raw/tether-lab/_transcripts/3. The Valence & Intensity Model/4. Diagnosing Emotional Misfires.txt
+  - knowledge-base/raw/tether-lab/_transcripts/3. The Valence & Intensity Model/4. Diagnosing Emotional Misfires.srt
+  - knowledge-base/raw/tether-lab/_extracted/3. The Valence & Intensity Model/4_4_Diagnosing_Emotional_Misfires_The_Valence_&_Intensi.md
 tags: [emotion, emotional-misfire, diagnosis, chatgpt, prompts, examples]
 updated: 2026-10-20
 ---

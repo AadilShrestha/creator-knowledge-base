@@ -4,65 +4,65 @@ type: library
 creator: sarah-levinger
 course: tether-lab
 sources:
-  - wiki/concepts/barrier-buster.md
-  - wiki/concepts/brand-enemy.md
-  - wiki/concepts/emotion-specificity.md
-  - wiki/concepts/heuristics/affect-heuristic.md
-  - wiki/concepts/heuristics/authority-bias.md
-  - wiki/concepts/heuristics/bandwagon-effect.md
-  - wiki/concepts/heuristics/bounded-rationality.md
-  - wiki/concepts/heuristics/commitment-and-consistency.md
-  - wiki/concepts/heuristics/curiosity-gap.md
-  - wiki/concepts/heuristics/framing-effect.md
-  - wiki/concepts/heuristics/gamblers-fallacy.md
-  - wiki/concepts/heuristics/goal-gradient-effect.md
-  - wiki/concepts/heuristics/hindsight-bias.md
-  - wiki/concepts/heuristics/ikea-effect.md
-  - wiki/concepts/heuristics/in-group-bias.md
-  - wiki/concepts/heuristics/observer-expectancy-effect.md
-  - wiki/concepts/heuristics/ostrich-effect.md
-  - wiki/concepts/heuristics/reciprocity.md
-  - wiki/concepts/heuristics/reverse-psychology.md
-  - wiki/concepts/heuristics/scarcity-heuristic.md
-  - wiki/concepts/heuristics/social-proof.md
-  - wiki/concepts/heuristics/sunk-cost-fallacy.md
-  - wiki/concepts/heuristics/temporal-discounting.md
-  - wiki/concepts/heuristics/tribal-belonging.md
-  - wiki/concepts/heuristics/what-if-scenario.md
-  - wiki/concepts/identity-stacking.md
-  - wiki/concepts/luxury-positioning.md
-  - wiki/concepts/mirror-effect.md
-  - wiki/concepts/perception-management.md
-  - wiki/concepts/risk-reduction-hooks.md
-  - wiki/concepts/switching-behavior.md
-  - wiki/concepts/triggering-events.md
-  - wiki/concepts/validation-over-authority.md
-  - wiki/courses/tether-lab/02-heuristics-101/03-emotion-clarity-urgency.md
-  - wiki/courses/tether-lab/02-heuristics-101/04-hook-attention-guide-behavior.md
-  - wiki/courses/tether-lab/02-heuristics-101/05-stacking-psychology-for-growth.md
-  - wiki/courses/tether-lab/03-valence-intensity-model/04-diagnosing-emotional-misfires.md
-  - wiki/courses/tether-lab/03-valence-intensity-model/05-fixing-the-tone-without-rebuilding-the-ad.md
-  - wiki/courses/tether-lab/04-self-targeting-system/04-the-3-selves-that-drive-every-buying-decision.md
-  - wiki/courses/tether-lab/04-self-targeting-system/05-run-the-3-selves-diagnostic-on-your-ads.md
-  - wiki/courses/tether-lab/04-self-targeting-system/06-how-to-use-the-prompts-for-instant-insights.md
-  - wiki/courses/tether-lab/04-self-targeting-system/07-how-to-rewrite-winning-ads-for-new-selves.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-05-07-live-with-sarah.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-05-14-live-with-sarah.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-05-21-live-with-sarah.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-05-23-guest-session-01-joanna-wallace.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-05-28-roast-my-ads-1.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-06-04-live-with-sarah.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-06-11-live-with-sarah.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-06-18-live-with-sarah.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-06-25-roast-my-ads-2.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-07-02-live-with-sarah.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-07-09-live-with-sarah.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-07-16-live-with-sarah.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-07-23-roast-my-ads-3.md
-  - wiki/courses/tether-lab/07-prompt-library/03-curiosity-and-reverse-psychology.md
-  - wiki/courses/tether-lab/07-prompt-library/15-hindsight-bias-and-bounded-rationality.md
-  - wiki/frameworks/customer-research-stack.md
-  - wiki/frameworks/skeptic-format.md
+  - knowledge-base/wiki/concepts/barrier-buster.md
+  - knowledge-base/wiki/concepts/brand-enemy.md
+  - knowledge-base/wiki/concepts/emotion-specificity.md
+  - knowledge-base/wiki/concepts/heuristics/affect-heuristic.md
+  - knowledge-base/wiki/concepts/heuristics/authority-bias.md
+  - knowledge-base/wiki/concepts/heuristics/bandwagon-effect.md
+  - knowledge-base/wiki/concepts/heuristics/bounded-rationality.md
+  - knowledge-base/wiki/concepts/heuristics/commitment-and-consistency.md
+  - knowledge-base/wiki/concepts/heuristics/curiosity-gap.md
+  - knowledge-base/wiki/concepts/heuristics/framing-effect.md
+  - knowledge-base/wiki/concepts/heuristics/gamblers-fallacy.md
+  - knowledge-base/wiki/concepts/heuristics/goal-gradient-effect.md
+  - knowledge-base/wiki/concepts/heuristics/hindsight-bias.md
+  - knowledge-base/wiki/concepts/heuristics/ikea-effect.md
+  - knowledge-base/wiki/concepts/heuristics/in-group-bias.md
+  - knowledge-base/wiki/concepts/heuristics/observer-expectancy-effect.md
+  - knowledge-base/wiki/concepts/heuristics/ostrich-effect.md
+  - knowledge-base/wiki/concepts/heuristics/reciprocity.md
+  - knowledge-base/wiki/concepts/heuristics/reverse-psychology.md
+  - knowledge-base/wiki/concepts/heuristics/scarcity-heuristic.md
+  - knowledge-base/wiki/concepts/heuristics/social-proof.md
+  - knowledge-base/wiki/concepts/heuristics/sunk-cost-fallacy.md
+  - knowledge-base/wiki/concepts/heuristics/temporal-discounting.md
+  - knowledge-base/wiki/concepts/heuristics/tribal-belonging.md
+  - knowledge-base/wiki/concepts/heuristics/what-if-scenario.md
+  - knowledge-base/wiki/concepts/identity-stacking.md
+  - knowledge-base/wiki/concepts/luxury-positioning.md
+  - knowledge-base/wiki/concepts/mirror-effect.md
+  - knowledge-base/wiki/concepts/perception-management.md
+  - knowledge-base/wiki/concepts/risk-reduction-hooks.md
+  - knowledge-base/wiki/concepts/switching-behavior.md
+  - knowledge-base/wiki/concepts/triggering-events.md
+  - knowledge-base/wiki/concepts/validation-over-authority.md
+  - knowledge-base/wiki/courses/tether-lab/02-heuristics-101/03-emotion-clarity-urgency.md
+  - knowledge-base/wiki/courses/tether-lab/02-heuristics-101/04-hook-attention-guide-behavior.md
+  - knowledge-base/wiki/courses/tether-lab/02-heuristics-101/05-stacking-psychology-for-growth.md
+  - knowledge-base/wiki/courses/tether-lab/03-valence-intensity-model/04-diagnosing-emotional-misfires.md
+  - knowledge-base/wiki/courses/tether-lab/03-valence-intensity-model/05-fixing-the-tone-without-rebuilding-the-ad.md
+  - knowledge-base/wiki/courses/tether-lab/04-self-targeting-system/04-the-3-selves-that-drive-every-buying-decision.md
+  - knowledge-base/wiki/courses/tether-lab/04-self-targeting-system/05-run-the-3-selves-diagnostic-on-your-ads.md
+  - knowledge-base/wiki/courses/tether-lab/04-self-targeting-system/06-how-to-use-the-prompts-for-instant-insights.md
+  - knowledge-base/wiki/courses/tether-lab/04-self-targeting-system/07-how-to-rewrite-winning-ads-for-new-selves.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-05-07-live-with-sarah.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-05-14-live-with-sarah.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-05-21-live-with-sarah.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-05-23-guest-session-01-joanna-wallace.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-05-28-roast-my-ads-1.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-06-04-live-with-sarah.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-06-11-live-with-sarah.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-06-18-live-with-sarah.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-06-25-roast-my-ads-2.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-07-02-live-with-sarah.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-07-09-live-with-sarah.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-07-16-live-with-sarah.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-07-23-roast-my-ads-3.md
+  - knowledge-base/wiki/courses/tether-lab/07-prompt-library/03-curiosity-and-reverse-psychology.md
+  - knowledge-base/wiki/courses/tether-lab/07-prompt-library/15-hindsight-bias-and-bounded-rationality.md
+  - knowledge-base/wiki/frameworks/customer-research-stack.md
+  - knowledge-base/wiki/frameworks/skeptic-format.md
 tags: [library, hooks, ugc, scripts, statics, heuristics, emotional-zones, three-selves, teep-model, teardown]
 updated: 2026-10-20
 ---
@@ -643,3 +643,11 @@ updated: 2026-10-20
 - [Angles library](angles.md) · [Rewrites library](rewrites.md)
 - [Heuristics hub](../concepts/heuristics.md) · [Emotional zones](../concepts/emotional-zones.md) · [Three selves](../concepts/three-selves.md) · [TEEP journey](../frameworks/teep-journey.md)
 - [Risk-reduction hooks](../concepts/risk-reduction-hooks.md) · [Skeptic format](../frameworks/skeptic-format.md) · [Story frameworks for ads](../frameworks/story-frameworks-for-ads.md) · [Brands hub](../brands/README.md)
+
+## In other courses
+- Evolve Copywriting: [Hooks library: Evolve Copywriting (de-duplicated, grouped by hook type)](../courses/evolve/copywriting/libraries/hooks.md): copy-craft hooks
+- Evolve Start Here: [Hooks library: Evolve Start Here (de-duplicated, grouped by hook type, niche-tagged)](../courses/evolve/start-here/libraries/hooks.md): Start Here hooks
+- RMBC II: [Hooks library: RMBC II (de-duplicated, grouped by hook family, with claim risk)](../courses/stefan-georgi/rmbc-ii/libraries/hooks.md): VSL and sell-the-click hooks
+- RMBC II: [Hook Generation System (RMBC II)](../courses/stefan-georgi/rmbc-ii/frameworks/hook-generation-system.md): hook generation with LLMs
+
+Which page owns the topic: [topic map](../topic-map.md).

@@ -141,5 +141,11 @@ ad_idea_brief:
 ## Related
 [Course playbooks hub](README.md) · [Write static image ads](write-static-image-ads.md) · [Write a video ad script](write-a-video-ad-script.md) · [Iterate on test results](iterate-on-test-results.md) · [Avatars and angles](../concepts/avatars-and-angles.md) · [Unique mechanism](../concepts/unique-mechanism.md)
 
+## In other courses
+- RMBC II: [Brief 2.0 (the New Brief)](../../../stefan-georgi/rmbc-ii/concepts/brief-2-0.md): Brief 2.0 for VSLs and funnels (R13)
+- Evolve Start Here: [Concept planning + Growth Guide 3.0 (concept cards, Marksman/Sniper choice, Ad Roadmap routine)](../../start-here/frameworks/concept-planning-and-growth-guide.md): Growth Guide 3.0 ad roadmap
+
+Which page owns the topic: [topic map](../../../../topic-map.md).
+
 ## Sources and limitations
 - Steps 0–10, the decision table and the YAML are pipeline design built on the cited lesson rules. "$280k" and the Breakthrough label are the sheet's example values; the instructor says example rows are made up or anonymised [L22 00:00–00:50].

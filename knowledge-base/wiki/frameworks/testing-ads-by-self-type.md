@@ -4,11 +4,11 @@ type: framework
 course: tether-lab
 module: 04-self-targeting-system
 sources:
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/8. How to Test Your Ads By Self Type.txt
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/7. How to Rewrite Winning Ads For New Selves .txt
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/6. How to Use The Prompts For Instant Insights.txt
-  - raw/tether-lab/_extracted/4. The Self Targeting System/11. 3-Selves Course - Prompts.md
-  - raw/tether-lab/_extracted/4. The Self Targeting System/10. eBook Which ‘You’ Are You Selling To (2).md
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/8. How to Test Your Ads By Self Type.txt
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/7. How to Rewrite Winning Ads For New Selves .txt
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/6. How to Use The Prompts For Instant Insights.txt
+  - knowledge-base/raw/tether-lab/_extracted/4. The Self Targeting System/11. 3-Selves Course - Prompts.md
+  - knowledge-base/raw/tether-lab/_extracted/4. The Self Targeting System/10. eBook Which ‘You’ Are You Selling To (2).md
 tags: [framework, testing, media-buying, ctr, aov, ltv, three-selves, iteration]
 updated: 2026-10-20
 ---

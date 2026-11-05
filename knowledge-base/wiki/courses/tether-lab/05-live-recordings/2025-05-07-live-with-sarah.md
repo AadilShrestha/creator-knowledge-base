@@ -7,10 +7,10 @@ order: 5
 session_date: 2025-05-07
 video_length: "57:09"
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/5. Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/5. Live With Sarah!.srt
-  - raw/tether-lab/_extracted/5. Recordings/May 2025/5_Live_With_Sarah!_May_7,_2025_Recordings_·_Tether_Lab.md
-  - raw/tether-lab/5. Recordings/May 2025/5_Live_With_Sarah!_May_7,_2025_Recordings_·_Tether_Lab.html
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/5. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/5. Live With Sarah!.srt
+  - knowledge-base/raw/tether-lab/_extracted/5. Recordings/May 2025/5_Live_With_Sarah!_May_7,_2025_Recordings_·_Tether_Lab.md
+  - knowledge-base/raw/tether-lab/5. Recordings/May 2025/5_Live_With_Sarah!_May_7,_2025_Recordings_·_Tether_Lab.html
 tags: [live-session, q-and-a, identity, emotion, heuristics, prioritization, core-emotion, core-message, brand-message, enemy, tagline, icp, avatars, pictorial-surveys, survey-design, research-cadence, reddit, chatgpt, how-i-hooks, risk-reduction, valence, intensity, format, algorithm-library, creative-testing, statics, comments-as-signal, team-adoption, skincare, maelove, mushroom-gummies, liquid-death, dr-squatch]
 updated: 2026-10-20
 ---

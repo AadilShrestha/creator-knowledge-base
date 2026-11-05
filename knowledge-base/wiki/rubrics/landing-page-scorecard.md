@@ -128,3 +128,10 @@ lp_scorecard:
 
 ## Related
 [Rubrics hub](README.md) · [Landing-page psychology audit](../frameworks/landing-page-psychology-audit.md) · [3 Vs of creative](../frameworks/three-vs-of-creative.md) · [Active CTA language](../concepts/active-cta-language.md) · [Hero-image ↔ copy congruence](../concepts/hero-image-copy-congruence.md) · [Choice overload](../concepts/heuristics/choice-overload.md) · [Anchoring effect](../concepts/heuristics/anchoring-effect.md) · [Competitor ad teardown](../playbooks/competitor-ad-teardown.md)
+
+## In other courses
+- RMBC II: [PDP Build (outline-extract → swipe → copy-chief → test)](../courses/stefan-georgi/rmbc-ii/frameworks/pdp-build.md): PDP build
+- RMBC II: [Advertorial Build (RMBC II)](../courses/stefan-georgi/rmbc-ii/frameworks/advertorial-build.md): advertorial build
+- RMBC II: [Funnel audit rubric (13-01 structure fit, 16-03 economics, 11-01/11-02 checkout, 16-01 CRO)](../courses/stefan-georgi/rmbc-ii/rubrics/funnel-audit.md): whole-funnel audit
+
+Which page owns the topic: [topic map](../topic-map.md).

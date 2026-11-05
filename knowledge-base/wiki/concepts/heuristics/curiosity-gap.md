@@ -3,9 +3,9 @@ title: "Curiosity Gap"
 type: concept
 course: tether-lab
 sources:
-  - raw/tether-lab/_extracted/7. The Prompt Library/3_Curiosity_+_Reverse_Psychology_The_Prompt_Library_·_T.md
-  - raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
-  - raw/tether-lab/_transcripts/6. The Ad Lab Toolkit/4. The Prompt Library.txt
+  - knowledge-base/raw/tether-lab/_extracted/7. The Prompt Library/3_Curiosity_+_Reverse_Psychology_The_Prompt_Library_·_T.md
+  - knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
+  - knowledge-base/raw/tether-lab/_transcripts/6. The Ad Lab Toolkit/4. The Prompt Library.txt
 tags: [heuristics, curiosity, information-gap, hooks, prompt-library]
 updated: 2026-10-20
 ---

@@ -194,3 +194,9 @@ Then give 3 alternative hooks; then "pull out the deepest emotion and the core m
 
 ## Related
 [Playbooks hub](README.md) · [Angle remix](angle-remix.md) · [Creator brief](creator-brief.md) · [Static ad creation](static-ad-creation.md) · [Test and iterate](test-and-iterate.md) · [Micro-story](../concepts/heuristics/micro-story.md) · [Open loop](../concepts/heuristics/open-loop.md) · [Humor in ads](../concepts/humor-in-ads.md) · [Fluency mechanism](../concepts/fluency-mechanism.md) · [ElevenLabs](../tools/elevenlabs.md) · [ChatGPT](../tools/chatgpt.md)
+
+## In other courses
+- RMBC II: [Hook Generation System (RMBC II)](../courses/stefan-georgi/rmbc-ii/frameworks/hook-generation-system.md): generating hooks at volume (R5)
+- RMBC II: [VSL length bands](../courses/stefan-georgi/rmbc-ii/concepts/vsl-length-bands.md): the short (1–4 min) VSL band
+
+Which page owns the topic: [topic map](../topic-map.md).

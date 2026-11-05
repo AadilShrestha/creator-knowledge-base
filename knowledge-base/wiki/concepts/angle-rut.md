@@ -4,9 +4,9 @@ type: concept
 course: tether-lab
 module: 04-self-targeting-system
 sources:
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/1. Why your Ads Stop Working Over Time.txt
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/3. Why One Self Isn't Enough to Scale.txt
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/8. How to Test Your Ads By Self Type.txt
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/1. Why your Ads Stop Working Over Time.txt
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/3. Why One Self Isn't Enough to Scale.txt
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/8. How to Test Your Ads By Self Type.txt
 tags: [angle-rut, ad-fatigue, creative-fatigue, creative-strategy, scaling, three-selves]
 updated: 2026-10-20
 ---
@@ -61,3 +61,9 @@ updated: 2026-10-20
 
 ## Related concepts
 [Self-targeting](self-targeting.md) · [3 selves](three-selves.md) · [Ideal Self](ideal-self.md) · [Subconscious vs conscious mind](subconscious-vs-conscious-mind.md) · [Heuristics](heuristics.md)
+
+## In other courses
+- Evolve Start Here: [Core avatars and sub-avatars (the Core 5 method)](../courses/evolve/start-here/concepts/core-and-sub-avatars.md): sub-avatars as a source of new angles
+- Evolve Copywriting: [Avatars and angles (who it's for, and the reason to buy)](../courses/evolve/copywriting/concepts/avatars-and-angles.md): angle as the reason to buy
+
+Which page owns the topic: [topic map](../topic-map.md).

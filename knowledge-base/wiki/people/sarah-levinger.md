@@ -3,11 +3,11 @@ title: "Sarah Levinger"
 type: person
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/1. Start Here/1. Welcome to Tether lab.txt
-  - raw/tether-lab/_transcripts/2. Heuristics 101/5. Stacking Psychology for growth.txt
-  - raw/tether-lab/_extracted/2. Heuristics 101/7. Heuristics 101 e-book.md
-  - raw/tether-lab/_transcripts/5. Recordings/
-  - raw/tether-lab/_extracted/1. Start Here/
+  - knowledge-base/raw/tether-lab/_transcripts/1. Start Here/1. Welcome to Tether lab.txt
+  - knowledge-base/raw/tether-lab/_transcripts/2. Heuristics 101/5. Stacking Psychology for growth.txt
+  - knowledge-base/raw/tether-lab/_extracted/2. Heuristics 101/7. Heuristics 101 e-book.md
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/
+  - knowledge-base/raw/tether-lab/_extracted/1. Start Here/
 tags: [instructor, consumer-psychology, behavioral-science, dtc]
 updated: 2026-10-20
 ---

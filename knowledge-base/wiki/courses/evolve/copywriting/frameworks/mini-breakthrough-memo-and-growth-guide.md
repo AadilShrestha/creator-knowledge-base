@@ -210,6 +210,11 @@ ad_roadmap_row:
 ## Related
 [Ad idea to brief](../playbooks/ad-idea-to-brief.md) · [Static ad workflow](static-ad-workflow.md) · [Video ad script workflow](video-ad-script-workflow.md) · [Ten-step learnings](ten-step-iteration-learnings.md) · [Positioning exercise](positioning-exercise.md) · [Angles library](../libraries/angles.md) · [Templates library](../libraries/templates.md)
 
+## In other courses
+- Evolve Start Here: [Concept planning + Growth Guide 3.0 (concept cards, Marksman/Sniper choice, Ad Roadmap routine)](../../start-here/frameworks/concept-planning-and-growth-guide.md): Growth Guide 3.0 ad roadmap (S3)
+
+Which page owns the topic: [topic map](../../../../topic-map.md).
+
 ## Sources and limitations
 - Workbook values are verbatim from the XLSX (typos kept). Example rows are partly placeholders (2026 dates, a stray "24th Oct 11am CET" note); the instructor says real client ads could not be shown [L22 00:00–00:50]. "$280k" is an instructor/sheet claim.
 - The "upvoting system" is described in one sentence [L22 04:23]. The memo quality gate and YAML templates are derived.

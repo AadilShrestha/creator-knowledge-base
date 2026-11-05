@@ -6,10 +6,10 @@ module: 02-heuristics-101
 order: 5
 video_length: "9:04"
 sources:
-  - raw/tether-lab/_transcripts/2. Heuristics 101/5. Stacking Psychology for growth.txt
-  - raw/tether-lab/_transcripts/2. Heuristics 101/5. Stacking Psychology for growth.srt
-  - raw/tether-lab/_extracted/2. Heuristics 101/5_5_Stacking_Psychology_for_Growth_Heuristics_101_·_Tet.md
-  - raw/tether-lab/_extracted/2. Heuristics 101/7. Heuristics 101 e-book.md
+  - knowledge-base/raw/tether-lab/_transcripts/2. Heuristics 101/5. Stacking Psychology for growth.txt
+  - knowledge-base/raw/tether-lab/_transcripts/2. Heuristics 101/5. Stacking Psychology for growth.srt
+  - knowledge-base/raw/tether-lab/_extracted/2. Heuristics 101/5_5_Stacking_Psychology_for_Growth_Heuristics_101_·_Tet.md
+  - knowledge-base/raw/tether-lab/_extracted/2. Heuristics 101/7. Heuristics 101 e-book.md
 tags: [heuristics, stacking, static-ads, authority-bias, salience-bias, goal-gradient]
 updated: 2026-10-20
 ---

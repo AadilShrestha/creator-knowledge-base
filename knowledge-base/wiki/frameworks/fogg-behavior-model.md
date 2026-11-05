@@ -4,10 +4,10 @@ type: framework
 course: tether-lab
 module: 05-live-recordings
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.srt
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/4. Live With Sarah! - July 02, 2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/3. Live With Sarah! - July 09, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.srt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/4. Live With Sarah! - July 02, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/3. Live With Sarah! - July 09, 2025 - Recordings.txt
 tags: [framework, fogg-behavior-model, b-map, motivation, ability, prompt, ability-crusher, cro, pdp, ugc-script, three-selves, typed-social-proof]
 updated: 2026-10-20
 ---

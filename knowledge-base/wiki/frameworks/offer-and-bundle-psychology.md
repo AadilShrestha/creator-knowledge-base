@@ -4,12 +4,12 @@ type: framework
 course: tether-lab
 module: 05-live-recordings
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/4. Live With Sarah! - July 02, 2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/3. Live With Sarah! - July 09, 2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/1. Roast My Ads #3 July 23, 2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/5. Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/1. Guest Session 01 Jonna Wallace!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/4. Live With Sarah! - July 02, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/3. Live With Sarah! - July 09, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/1. Roast My Ads #3 July 23, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/5. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/1. Guest Session 01 Jonna Wallace!.txt
 tags: [framework, offer, bundling, aov, ltv, frame-of-reference, time-framing, subscriptions, free-trial, pricing-psychology, buy-box, anchoring, decoy-effect, bandwagon-effect, scarcity]
 updated: 2026-10-20
 ---
@@ -243,3 +243,10 @@ Offer psychology is how the *presentation* of quantities, prices, durations and 
 
 ## Related
 [Landing-page psychology audit](landing-page-psychology-audit.md) · [Fogg Behavior Model](fogg-behavior-model.md) · [TEEP journey](teep-journey.md) · [Creative testing system](creative-testing-system.md) · [Anchoring effect](../concepts/heuristics/anchoring-effect.md) · [Decoy effect](../concepts/heuristics/decoy-effect.md) · [Bandwagon effect](../concepts/heuristics/bandwagon-effect.md) · [Consistency bias](../concepts/heuristics/commitment-and-consistency.md) · [Cognitive dissonance](../concepts/heuristics/cognitive-dissonance.md) · [IKEA effect](../concepts/heuristics/ikea-effect.md) · [Reciprocity](../concepts/heuristics/reciprocity.md) · [Ben Franklin effect](../concepts/heuristics/reciprocity.md) · [Scarcity](../concepts/heuristics/scarcity-heuristic.md) · [Social proof](../concepts/heuristics/social-proof.md) · [Temporal discounting](../concepts/heuristics/temporal-discounting.md) · [Framing effect](../concepts/heuristics/framing-effect.md) · [Barrier buster](../concepts/barrier-buster.md) · [Luxury positioning](../concepts/luxury-positioning.md) · [Actual self](../concepts/actual-self.md) · [Sarah Levinger](../people/sarah-levinger.md)
+
+## In other courses
+- RMBC II: [Upsell formula (reaffirm → new or expanded problem → irresistible offer)](../courses/stefan-georgi/rmbc-ii/concepts/upsell-formula.md): upsell formula
+- RMBC II: [Checkout Optimization (spec, audit, bump test)](../courses/stefan-georgi/rmbc-ii/frameworks/checkout-optimization.md): checkout
+- RMBC II: [Funnel economics (CPA, AOV, COGS, gross profit, break-even CPA, LTV)](../courses/stefan-georgi/rmbc-ii/concepts/funnel-economics.md): CPA / AOV / COGS math
+
+Which page owns the topic: [topic map](../topic-map.md).

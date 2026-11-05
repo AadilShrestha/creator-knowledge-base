@@ -4,10 +4,10 @@ type: concept
 course: tether-lab
 aliases: ["sight smell", "show don't tell (food)", "smell it through the screen"]
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/2. Roast my Ads #1.txt
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/3. Live With Sarah! - July 09, 2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/1. Roast My Ads #3 July 23, 2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/2. Roast My Ads #2 - June 25,2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/2. Roast my Ads #1.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/3. Live With Sarah! - July 09, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/1. Roast My Ads #3 July 23, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/2. Roast My Ads #2 - June 25,2025 - Recordings.txt
 tags: [sight-smell, show-dont-tell, sensory, food, ingredients, visuals, statics, ugc]
 updated: 2026-10-20
 ---

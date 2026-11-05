@@ -4,9 +4,9 @@ type: concept
 course: tether-lab
 aliases: ["core emotion", "core brand message", "core message", "brand line"]
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/5. Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/3. Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/3. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/5. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/3. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/3. Live With Sarah!.txt
 tags: [emotion, brand, core-message, tagline, positioning, repetition, use-cases, mindstates]
 updated: 2026-10-20
 ---
@@ -95,3 +95,8 @@ updated: 2026-10-20
 
 ## Related
 [Brand enemy](brand-enemy.md) · [One core emotion per ad](one-core-emotion-per-ad.md) · [Blended emotions](blended-emotions.md) · [Emotion specificity](emotion-specificity.md) · [Fluency mechanism](fluency-mechanism.md) · [Processing fluency](heuristics/processing-fluency.md) · [Iteration vs variation](iteration-vs-variation.md) · [Tether Brand Personality Engine](../tools/tether-brand-personality-engine.md)
+
+## In other courses
+- Evolve Start Here: [Market desire (channel it, never create it)](../courses/evolve/start-here/concepts/market-desire.md): the market desire the brand emotion serves
+
+Which page owns the topic: [topic map](../topic-map.md).

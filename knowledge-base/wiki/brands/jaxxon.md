@@ -5,8 +5,8 @@ niche: apparel-and-accessories
 sub_niche: "men's gold / Cuban-link chains"
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/5. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/5. Live With Sarah!.txt
 tags: [brand, mens-jewelry, chains, homepage, pdp, fogg-behavior-model, urgency, prompts, cognitive-load, quiet-respect, status-signaling, pricing-psychology]
 updated: 2026-10-20
 ---

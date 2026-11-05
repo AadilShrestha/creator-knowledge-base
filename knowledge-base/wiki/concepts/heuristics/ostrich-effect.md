@@ -4,7 +4,7 @@ type: concept
 course: tether-lab
 aliases: ["Ignoring negative information", "Head in the sand"]
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/3. Live With Sarah! - July 09, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/3. Live With Sarah! - July 09, 2025 - Recordings.txt
 tags: [heuristics, ostrich-effect, avoidance, denial, hooks, founder-video, hair-loss, decision-lab]
 updated: 2026-10-20
 ---

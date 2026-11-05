@@ -93,3 +93,10 @@ ugc_checklist:
 
 ## Related
 [Rubrics hub](README.md) · [Ad scorecard](ad-scorecard.md) · [UGC script writing](../playbooks/ugc-script-writing.md) · [Creator brief](../playbooks/creator-brief.md) · [Story frameworks](../frameworks/story-frameworks-for-ads.md) · [Skeptic format](../frameworks/skeptic-format.md)
+
+## In other courses
+- RMBC II: [LLM output claim audit (mandatory gate before any RMBC draft is used)](../courses/stefan-georgi/rmbc-ii/rubrics/llm-output-claim-audit.md): claim audit for model drafts
+- Evolve Start Here: [Execution checklist (the 13 execution checks, strategy-vs-execution test, benchmarks, retest limits)](../courses/evolve/start-here/rubrics/execution-checklist.md): execution checks
+- Evolve Copywriting: [Copy checklist scorecard (13 questions + three checks + Big 4 + craft, with blocking truth gates)](../courses/evolve/copywriting/rubrics/copy-checklist-scorecard.md): copy checklist scorecard
+
+Which page owns the topic: [topic map](../topic-map.md).

@@ -4,11 +4,11 @@ type: framework
 course: tether-lab
 module: 04-self-targeting-system
 sources:
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/2. Diagnose Which Self Your Ads Target.txt
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/5. Run The 3 Selves Diagnostic on Your Ads.txt
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/6. How to Use The Prompts For Instant Insights.txt
-  - raw/tether-lab/_extracted/4. The Self Targeting System/11. 3-Selves Course - Prompts.md
-  - raw/tether-lab/_extracted/4. The Self Targeting System/10. eBook Which ‘You’ Are You Selling To (2).md
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/2. Diagnose Which Self Your Ads Target.txt
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/5. Run The 3 Selves Diagnostic on Your Ads.txt
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/6. How to Use The Prompts For Instant Insights.txt
+  - knowledge-base/raw/tether-lab/_extracted/4. The Self Targeting System/11. 3-Selves Course - Prompts.md
+  - knowledge-base/raw/tether-lab/_extracted/4. The Self Targeting System/10. eBook Which ‘You’ Are You Selling To (2).md
 tags: [framework, diagnostic, three-selves, ad-teardown, scoring, competitor-research]
 updated: 2026-10-20
 ---

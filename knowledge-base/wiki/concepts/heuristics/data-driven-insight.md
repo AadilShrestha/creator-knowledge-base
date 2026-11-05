@@ -3,8 +3,8 @@ title: "Data-Driven Insight"
 type: concept
 course: tether-lab
 sources:
-  - raw/tether-lab/_extracted/7. The Prompt Library/11_Authority_Borrowing_+_Data_Driven_Insight_The_Prompt.md
-  - raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
+  - knowledge-base/raw/tether-lab/_extracted/7. The Prompt Library/11_Authority_Borrowing_+_Data_Driven_Insight_The_Prompt.md
+  - knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
 tags: [lever, data, statistics, proof, insight, prompt-library]
 updated: 2026-10-20
 ---

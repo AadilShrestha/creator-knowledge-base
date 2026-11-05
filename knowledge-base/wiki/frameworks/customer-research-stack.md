@@ -4,15 +4,15 @@ type: framework
 course: tether-lab
 module: 05-live-recordings
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/5. Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/5. Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/4.Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/3. Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/2. Roast my Ads #1.txt
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/1. Guest Session 01 Jonna Wallace!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/4.Live With Sarah! - June 11, 2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/3. Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/2. Heuristics 101/3.Emotion,Clarity,Urgency.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/5. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/5. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/4.Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/3. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/2. Roast my Ads #1.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/1. Guest Session 01 Jonna Wallace!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/4.Live With Sarah! - June 11, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/3. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/2. Heuristics 101/3.Emotion,Clarity,Urgency.txt
 tags: [framework, research, customer-research, market-research, review-mining, nlp, hidden-motivators, reddit, google-trends, keyword-planner, pinterest-trends, answerthepublic, tiktok-creator-search-insights, core-identity-map, icp, chatgpt, hooks, competitor-research, mindstates]
 updated: 2026-10-20
 ---
@@ -213,3 +213,11 @@ Do not invent quotes or statistics.
 
 ## Related
 [Core Identity Map surveys](core-identity-map-surveys.md) · [TEEP journey](teep-journey.md) · [Valence-intensity diagnostic](valence-intensity-diagnostic.md) · [Three selves diagnostic](three-selves-diagnostic.md) · [Psychology application ladder](psychology-application-ladder.md) · [Creative testing system](creative-testing-system.md) · [Skeptic format](skeptic-format.md) · [Emotional zones](../concepts/emotional-zones.md) · [Emotion specificity](../concepts/emotion-specificity.md) · [Blended emotions](../concepts/blended-emotions.md) · [Emotional stagnation](../concepts/emotional-stagnation.md) · [Affect heuristic](../concepts/heuristics/affect-heuristic.md) · [Tools: ChatGPT](../tools/chatgpt.md), [AnswerThePublic](../tools/answerthepublic.md), [Google Trends](../tools/README.md), [TikTok Creator Search Insights](../tools/tiktok-creator-search-insights.md), [Gigabrain](../tools/README.md) · [Will Leach](../people/will-leach.md)
+
+## In other courses
+- Evolve Start Here: [Research stack workflow (onboarding → 14 sources → objections → clean-up → organize insights)](../courses/evolve/start-here/frameworks/research-stack-workflow.md): 14-source research order
+- Evolve Start Here: [The research doc (Evolve's single research workspace: schema, versions, who fills what)](../courses/evolve/start-here/concepts/research-doc.md): research doc schema
+- RMBC II: [Deep research workflow (awareness → competitors → psychographics → unified brief → ingredients)](../courses/stefan-georgi/rmbc-ii/frameworks/deep-research-workflow.md): LLM deep-research first pass; its quotes are leads only (R3)
+- RMBC II: [Unified Research Document](../courses/stefan-georgi/rmbc-ii/concepts/unified-research-document.md): merging several research reports
+
+Which page owns the topic: [topic map](../topic-map.md).

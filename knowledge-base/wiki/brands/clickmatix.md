@@ -5,7 +5,7 @@ niche: services-and-b2b
 sub_niche: "Australian digital-marketing agency (lead-gen, book-a-call)"
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/2. Roast My Ads #2 - June 25,2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/2. Roast My Ads #2 - June 25,2025 - Recordings.txt
 tags: [brand, agency, b2b, lead-gen, landing-page, long-form, authority-bias, social-proof, risk-reversal, salience-bias, formatting, testimonials, arrows]
 updated: 2026-10-20
 ---

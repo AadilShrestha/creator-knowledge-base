@@ -3,9 +3,9 @@ title: "Temporal Discounting"
 type: concept
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/2. Heuristics 101/3.Emotion,Clarity,Urgency.txt
-  - raw/tether-lab/_extracted/2. Heuristics 101/7. Heuristics 101 e-book.md
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/5. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/2. Heuristics 101/3.Emotion,Clarity,Urgency.txt
+  - knowledge-base/raw/tether-lab/_extracted/2. Heuristics 101/7. Heuristics 101 e-book.md
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/5. Live With Sarah!.txt
 tags: [heuristics, temporal-discounting, urgency, immediacy, benefits, future-focus, insurance]
 updated: 2026-10-20
 ---

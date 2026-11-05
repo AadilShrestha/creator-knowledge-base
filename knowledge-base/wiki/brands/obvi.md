@@ -5,7 +5,7 @@ niche: supplements-and-health
 sub_niche: "weight-loss / fat-burner supplements"
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/4. Live With Sarah! - July 02, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/4. Live With Sarah! - July 02, 2025 - Recordings.txt
 tags: [brand, supplements, weight-loss, upsell, bundle, frame-of-reference, anchoring, aov]
 updated: 2026-10-20
 ---

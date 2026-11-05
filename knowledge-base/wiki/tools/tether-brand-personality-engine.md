@@ -3,7 +3,7 @@ title: "Tether Brand Personality Engine (BPE)"
 type: tool
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/5. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/5. Live With Sarah!.txt
 tags: [tool, sarah-levinger, brand, core-emotion, brand-enemy, positioning]
 updated: 2026-10-20
 ---

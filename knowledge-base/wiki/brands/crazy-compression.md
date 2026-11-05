@@ -5,7 +5,7 @@ niche: apparel-and-accessories
 sub_niche: "compression socks"
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/2. Heuristics 101/2. Using The Biases That Sell.txt
+  - knowledge-base/raw/tether-lab/_transcripts/2. Heuristics 101/2. Using The Biases That Sell.txt
 tags: [brand, compression-socks, apparel, social-proof, reviews-badge, static]
 updated: 2026-10-20
 ---

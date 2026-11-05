@@ -6,9 +6,9 @@ module: 04-self-targeting-system
 order: 3
 video_length: "8:31"
 sources:
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/3. Why One Self Isn't Enough to Scale.txt
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/3. Why One Self Isn't Enough to Scale.srt
-  - raw/tether-lab/_extracted/4. The Self Targeting System/3_3_Why_One_Self_Isn’t_Enough_to_Scale_The_Self_Targeti.md
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/3. Why One Self Isn't Enough to Scale.txt
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/3. Why One Self Isn't Enough to Scale.srt
+  - knowledge-base/raw/tether-lab/_extracted/4. The Self Targeting System/3_3_Why_One_Self_Isn’t_Enough_to_Scale_The_Self_Targeti.md
 tags: [ideal-self, angle-rut, subconscious, brain, identity, avatar, scaling]
 updated: 2026-10-20
 ---

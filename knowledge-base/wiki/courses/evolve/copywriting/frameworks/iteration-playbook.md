@@ -201,6 +201,13 @@ iteration_plan:
 ## Related
 [Iteration issue codes](iteration-issue-codes.md) · [Nine-component audit](nine-component-audit.md) · [Ten-step learnings](ten-step-iteration-learnings.md) · [Iterate on test results](../playbooks/iterate-on-test-results.md) · [Rewrites library](../libraries/rewrites.md) · [Ad teardowns library](../libraries/ad-teardowns.md)
 
+## In other courses
+- Evolve Start Here: [Learnings review (losers, winners, the 14 questions, pulling frameworks from ads)](../../start-here/frameworks/learnings-review.md): learnings review
+- Evolve Start Here: [Rewrite losers and iterate (near-winner rewrite, spend-led ladder, 3 variations in priority order)](../../start-here/frameworks/rewrite-losers-and-iterate.md): rewrite losers
+- RMBC II: [Modular creative and hook swaps (locked body, swapped hooks, IDs, one-variable tests)](../../../stefan-georgi/rmbc-ii/concepts/modular-creative-and-hook-swaps.md): hook swaps (R6)
+
+Which page owns the topic: [topic map](../../../../topic-map.md).
+
 ## Sources and limitations
 - The Canva decks, the Loom (in media res), the Winning Ads doc and Camilo's AI-ads call are linked in the course but not in the files; slide text comes from screen frames. Dollar figures ("over two million dollars", "$500-600K") are instructor claims.
 - The three-list map, decision table and plan template are derived.

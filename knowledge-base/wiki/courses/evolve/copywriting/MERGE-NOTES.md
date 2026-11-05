@@ -7,7 +7,7 @@ instructor: "Spencer Pawliw"
 sources:
   - knowledge-base/wiki/courses/evolve/copywriting/README.md
 tags: [integration, cross-course]
-updated: 2026-10-21
+updated: 2026-11-05
 ---
 
 # Evolve Copywriting: shared integration notes
@@ -28,7 +28,9 @@ updated: 2026-10-21
 | Statics | Visual weight, layout psychology | Static workflow with angle prompt and a 29k-character static-ads prompt |
 | Testing | Creative testing system, TEEP account structure, one variable per test | 4 outcomes, 10-step learnings, issue codes, 22 named iterations |
 
-## Proposed for a later shared synthesis (not done yet)
+## Proposed shared synthesis
+Superseded 2026-11-05 by the [topic map](../../../topic-map.md): each topic keeps one owner page, and overlapping pages link each other under "In other courses". Later courses (Start Here, RMBC II) are wired in the same way.
+
 - A shared `concepts/market-awareness.md` combining Evolve's awareness levels with Tether's TEEP stages (they answer different questions: what the viewer knows vs where they are in the buying journey).
 - A shared hooks page that merges Evolve's hook anatomy (sticky, targeted/broad, promise/open loop) with Tether's heuristic tagging of hooks.
 - A shared iteration page that reconciles Evolve's outcome-based iteration with Tether's one-variable testing rules.

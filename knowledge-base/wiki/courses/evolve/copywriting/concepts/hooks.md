@@ -190,5 +190,12 @@ Rule (derived from the above): low hook rate → rewrite the hook (and its visua
 ## Related
 [Open loops](open-loops.md) · [Bridges](bridges.md) · [Unaware ads](unaware-ads.md) · [Market awareness](market-awareness.md) · [Avatars and angles](avatars-and-angles.md) · [Raising the stakes](raising-the-stakes.md) · [Says vs communicates](says-vs-communicates.md) · [Iteration outcomes](iteration-outcomes.md)
 
+## In other courses
+- RMBC II: [Hook Generation System (RMBC II)](../../../stefan-georgi/rmbc-ii/frameworks/hook-generation-system.md): hooks at volume with LLMs (R5)
+- RMBC II: [Modular creative and hook swaps (locked body, swapped hooks, IDs, one-variable tests)](../../../stefan-georgi/rmbc-ii/concepts/modular-creative-and-hook-swaps.md): hook swaps on a locked body (R6)
+- Evolve Start Here: [Hooks library: Evolve Start Here (de-duplicated, grouped by hook type, niche-tagged)](../../start-here/libraries/hooks.md): Start Here hooks
+
+Which page owns the topic: [topic map](../../../../topic-map.md).
+
 ## Sources and limitations
 View counts and "98-99%", "90%", "45%" figures are instructor claims or on-screen numbers. The full 100+ hook sheet in L57 is login-blocked; only 25 rows are recorded.

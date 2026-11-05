@@ -5,8 +5,8 @@ niche: food-and-beverage
 sub_niche: "quick-service pizza"
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/2. Heuristics 101/1. Targeting the Decision-Making Brain.txt
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/3. Why One Self Isn't Enough to Scale.txt
+  - knowledge-base/raw/tether-lab/_transcripts/2. Heuristics 101/1. Targeting the Decision-Making Brain.txt
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/3. Why One Self Isn't Enough to Scale.txt
 tags: [brand, qsr, pizza, facebook-feed, subconscious, present-state, physiological-need, static]
 updated: 2026-10-20
 ---

@@ -5,10 +5,10 @@ course: tether-lab
 module: 07-prompt-library
 order: 4
 sources:
-  - raw/tether-lab/7. The Prompt Library/4_Shock_Factor_+_Transformation_Shortcut_The_Prompt_Lib.html
-  - raw/tether-lab/_extracted/7. The Prompt Library/4_Shock_Factor_+_Transformation_Shortcut_The_Prompt_Lib.md
-  - raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
-  - raw/tether-lab/_transcripts/6. The Ad Lab Toolkit/4. The Prompt Library.txt
+  - knowledge-base/raw/tether-lab/7. The Prompt Library/4_Shock_Factor_+_Transformation_Shortcut_The_Prompt_Lib.html
+  - knowledge-base/raw/tether-lab/_extracted/7. The Prompt Library/4_Shock_Factor_+_Transformation_Shortcut_The_Prompt_Lib.md
+  - knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
+  - knowledge-base/raw/tether-lab/_transcripts/6. The Ad Lab Toolkit/4. The Prompt Library.txt
 tags: [prompt, prompt-library, shock-factor, transformation-shortcut, scroll-stopper, tofu, ad-concepts]
 updated: 2026-10-20
 ---

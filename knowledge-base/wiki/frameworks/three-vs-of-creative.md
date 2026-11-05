@@ -4,9 +4,9 @@ type: framework
 course: tether-lab
 module: 05-live-recordings
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/1. Guest Session 02 Chase Monhseni - Recordings.txt
-  - raw/tether-lab/_extracted/5. Recordings/June 2025/1_Guest_Session_02_Chase_Mohseni_Recordings_·_Tether_La.md
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/3. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/1. Guest Session 02 Chase Monhseni - Recordings.txt
+  - knowledge-base/raw/tether-lab/_extracted/5. Recordings/June 2025/1_Guest_Session_02_Chase_Mohseni_Recordings_·_Tether_La.md
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/3. Live With Sarah!.txt
 tags: [framework, creative-strategy, vibe, variety, velocity, ad-to-landing-page-congruence, creative-primitives, templates, approval-workflow, creativeos, chase-mohseni]
 updated: 2026-10-20
 ---

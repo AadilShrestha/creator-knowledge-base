@@ -4,9 +4,9 @@ type: concept
 course: tether-lab
 aliases: ["emotional stagnation", "one-zone account", "zone rut"]
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/4.Live With Sarah! - June 11, 2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/5. Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/5. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/4.Live With Sarah! - June 11, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/5. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/5. Live With Sarah!.txt
 tags: [emotion, emotional-zones, valence, intensity, stagnation, account-audit, competitor-research, ag1, creative-diversity]
 updated: 2026-10-20
 ---

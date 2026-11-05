@@ -3,8 +3,8 @@ title: "Gamification"
 type: concept
 course: tether-lab
 sources:
-  - raw/tether-lab/_extracted/7. The Prompt Library/9_Gamification_+_Time_Sensitive_Offer_The_Prompt_Librar.md
-  - raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
+  - knowledge-base/raw/tether-lab/_extracted/7. The Prompt Library/9_Gamification_+_Time_Sensitive_Offer_The_Prompt_Librar.md
+  - knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
 tags: [lever, gamification, challenge, rewards, urgency, offers, prompt-library]
 updated: 2026-10-20
 ---

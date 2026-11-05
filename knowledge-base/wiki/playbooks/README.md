@@ -83,6 +83,28 @@ Course-local playbooks from [Evolve Copywriting](../courses/evolve/copywriting/R
 | Static / image ads | [write-static-image-ads](../courses/evolve/copywriting/playbooks/write-static-image-ads.md) | [static-ad-creation](static-ad-creation.md) |
 | After a test: loser / KPI winner / spend winner / breakthrough | [iterate-on-test-results](../courses/evolve/copywriting/playbooks/iterate-on-test-results.md) | [test-and-iterate](test-and-iterate.md) |
 
+## Evolve Start Here playbooks
+Course-local playbooks from [Evolve Start Here](../courses/evolve/start-here/README.md) (Spencer Pawliw, Shaun Eng): research before the brief, and buying, testing and scaling after it.
+
+| Job | Start Here playbook | Pairs with |
+|---|---|---|
+| Research a product and market → first ad concepts | [research-to-first-concepts](../courses/evolve/start-here/playbooks/research-to-first-concepts.md) | [customer-research-to-angles](customer-research-to-angles.md) |
+| Launch a new product end to end | [launch-a-new-product-end-to-end](../courses/evolve/start-here/playbooks/launch-a-new-product-end-to-end.md) | [RMBC offer-to-funnel](../courses/stefan-georgi/rmbc-ii/playbooks/offer-to-funnel-end-to-end.md) |
+| Weekly Meta media buying: structure, budgets, labels, scaling | [weekly-media-buying-routine](../courses/evolve/start-here/playbooks/weekly-media-buying-routine.md) | [test-and-iterate](test-and-iterate.md) |
+| Creator and ambassador program, whitelisting | [creator-program-setup](../courses/evolve/start-here/playbooks/creator-program-setup.md) | [creator-brief](creator-brief.md) |
+
+## RMBC II playbooks
+Course-local playbooks from [RMBC II](../courses/stefan-georgi/rmbc-ii/README.md) (Stefan Georgi): long-form copy and everything after the click. Their example outputs contain invented proof; follow the procedures and run the [claim audit](../courses/stefan-georgi/rmbc-ii/rubrics/llm-output-claim-audit.md).
+
+| Job | RMBC playbook | Pairs with |
+|---|---|---|
+| Offer → research → mechanism → brief → pages → checkout → upsells → email | [offer-to-funnel-end-to-end](../courses/stefan-georgi/rmbc-ii/playbooks/offer-to-funnel-end-to-end.md) | [landing-page scorecard](../rubrics/landing-page-scorecard.md) |
+| Write a VSL (long, medium, 3–7 min, short) with Claude Projects | [write-a-vsl-with-claude](../courses/stefan-georgi/rmbc-ii/playbooks/write-a-vsl-with-claude.md) | [ugc-script-writing](ugc-script-writing.md) for short ads |
+| Launch and debug a cold-traffic funnel | [launch-a-cold-traffic-funnel](../courses/stefan-georgi/rmbc-ii/playbooks/launch-a-cold-traffic-funnel.md) | [test-and-iterate](test-and-iterate.md) |
+| Checkout, upsells, post-purchase and retention email | [post-purchase-and-retention](../courses/stefan-georgi/rmbc-ii/playbooks/post-purchase-and-retention.md) | [offer & bundle psychology](../frameworks/offer-and-bundle-psychology.md) |
+
+Which course owns which step when several cover it: [topic map](../topic-map.md).
+
 ## Hand-off artifacts
 | Artifact | ID pattern | Produced by | Consumed by | Template |
 |---|---|---|---|---|

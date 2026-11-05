@@ -3,11 +3,11 @@ title: "Loss Aversion"
 type: concept
 course: tether-lab
 sources:
-  - raw/tether-lab/_extracted/7. The Prompt Library/1_First_Principles_Thinking_+_Loss_Aversion_The_Prompt_.md
-  - raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
-  - raw/tether-lab/_transcripts/3. The Valence & Intensity Model/3.The 4 Emotional Zones (a.k.a Your Target Map).txt
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/2. Roast my Ads #1.txt
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/4. Live With Sarah! - July 02, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_extracted/7. The Prompt Library/1_First_Principles_Thinking_+_Loss_Aversion_The_Prompt_.md
+  - knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
+  - knowledge-base/raw/tether-lab/_transcripts/3. The Valence & Intensity Model/3.The 4 Emotional Zones (a.k.a Your Target Map).txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/2. Roast my Ads #1.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/4. Live With Sarah! - July 02, 2025 - Recordings.txt
 tags: [heuristics, loss-aversion, urgency, fear, zone-4, prompt-library, gain-framing, the-flip]
 updated: 2026-10-20
 ---

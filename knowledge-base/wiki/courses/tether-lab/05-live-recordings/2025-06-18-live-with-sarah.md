@@ -7,10 +7,10 @@ order: 3
 session_date: 2025-06-18
 video_length: "1:07:37"
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/3. Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/3. Live With Sarah!.srt
-  - raw/tether-lab/_extracted/5. Recordings/June 2025/3_Live_With_Sarah!_June_18,_2025_Recordings_·_Tether_La.md
-  - raw/tether-lab/5. Recordings/June 2025/3_Live_With_Sarah!_June_18,_2025_Recordings_·_Tether_La.html
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/3. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/3. Live With Sarah!.srt
+  - knowledge-base/raw/tether-lab/_extracted/5. Recordings/June 2025/3_Live_With_Sarah!_June_18,_2025_Recordings_·_Tether_La.md
+  - knowledge-base/raw/tether-lab/5. Recordings/June 2025/3_Live_With_Sarah!_June_18,_2025_Recordings_·_Tether_La.html
 tags: [live-session, q-and-a, three-selves, ought-self, actual-self, funnel, coaching, high-ticket, luxury, pricing, qualification, framing, anchoring, scarcity, mental-models, science-of-belief, heuristics, situational-specificity, scaling, sales, evergreen, creative-testing, creative-diversity, statics, core-message, gen-z, switching-behavior, gelato, tea]
 updated: 2026-10-20
 ---

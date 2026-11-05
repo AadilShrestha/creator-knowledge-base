@@ -4,11 +4,11 @@ type: concept
 course: tether-lab
 aliases: ["image-text match", "context priming", "ad-to-landing-page congruence", "vibe match", "show don't tell"]
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/2. Roast My Ads #2 - June 25,2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/2. Roast my Ads #1.txt
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/1. Guest Session 02 Chase Monhseni - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/1. Roast My Ads #3 July 23, 2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/2. Roast My Ads #2 - June 25,2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/2. Roast my Ads #1.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/1. Guest Session 02 Chase Monhseni - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/1. Roast My Ads #3 July 23, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.txt
 tags: [congruence, hero-image, context-priming, props, image-text-match, metaphor, vibe, landing-page, statics, video, message-order]
 updated: 2026-10-20
 ---
@@ -121,3 +121,9 @@ updated: 2026-10-20
 
 ## Related
 [Model image psychology](model-image-psychology.md) · [Sight smell](sight-smell.md) · [Color psychology](color-psychology.md) · [One core emotion per ad](one-core-emotion-per-ad.md) · [Active CTA language](active-cta-language.md) · [Cognitive load](heuristics/cognitive-load.md) · [Cognitive dissonance](heuristics/cognitive-dissonance.md) · [Iteration vs variation](iteration-vs-variation.md) · [Landing-page psychology audit](../frameworks/landing-page-psychology-audit.md)
+
+## In other courses
+- RMBC II: [Congruence (topic and experience match across ad, page, checkout and upsell)](../courses/stefan-georgi/rmbc-ii/concepts/congruence.md): topic and experience congruence from ad to checkout
+- RMBC II: [Ad-to-page journey (ad → pre-sell → VSL or PDP → checkout)](../courses/stefan-georgi/rmbc-ii/concepts/ad-to-page-journey.md): what the ad revealed decides the page
+
+Which page owns the topic: [topic map](../topic-map.md).

@@ -3,8 +3,8 @@ title: "Tribal Belonging"
 type: concept
 course: tether-lab
 sources:
-  - raw/tether-lab/_extracted/7. The Prompt Library/5_Tribal_Belonging_+_Vulnerability_The_Prompt_Library_·.md
-  - raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
+  - knowledge-base/raw/tether-lab/_extracted/7. The Prompt Library/5_Tribal_Belonging_+_Vulnerability_The_Prompt_Library_·.md
+  - knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
 tags: [heuristics, belonging, tribe, in-group, community, actual-self, prompt-library]
 updated: 2026-10-20
 ---

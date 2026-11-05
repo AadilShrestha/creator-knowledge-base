@@ -104,5 +104,10 @@ When an agent drafts a script, output it card by card: `HOOK n` (on-screen text 
 ## Related
 [Compression and plain language](compression-and-plain-language.md) · [Hooks](hooks.md) · [Bridges](bridges.md) · [Show, don't tell](show-dont-tell.md) · [AI in copywriting](ai-in-copywriting.md)
 
+## In other courses
+- RMBC II: [Congruence (topic and experience match across ad, page, checkout and upsell)](../../../stefan-georgi/rmbc-ii/concepts/congruence.md): congruence from ad to page
+
+Which page owns the topic: [topic map](../../../../topic-map.md).
+
 ## Sources and limitations
 The Milanote and Canva templates themselves were not accessed (login/password); their structure is taken from screenshots in L05, L70 and the L71 PDF.

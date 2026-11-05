@@ -4,12 +4,12 @@ type: prompt
 course: tether-lab
 module: 04-self-targeting-system
 sources:
-  - raw/tether-lab/4. The Self Targeting System/11. 3-Selves Course - Prompts.docx
-  - raw/tether-lab/_extracted/4. The Self Targeting System/11. 3-Selves Course - Prompts.md
-  - raw/tether-lab/_extracted/4. The Self Targeting System/10. eBook Which ‘You’ Are You Selling To (2).md
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/5. Run The 3 Selves Diagnostic on Your Ads.txt
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/6. How to Use The Prompts For Instant Insights.txt
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/7. How to Rewrite Winning Ads For New Selves .txt
+  - knowledge-base/raw/tether-lab/4. The Self Targeting System/11. 3-Selves Course - Prompts.docx
+  - knowledge-base/raw/tether-lab/_extracted/4. The Self Targeting System/11. 3-Selves Course - Prompts.md
+  - knowledge-base/raw/tether-lab/_extracted/4. The Self Targeting System/10. eBook Which ‘You’ Are You Selling To (2).md
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/5. Run The 3 Selves Diagnostic on Your Ads.txt
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/6. How to Use The Prompts For Instant Insights.txt
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/7. How to Rewrite Winning Ads For New Selves .txt
 tags: [prompts, chatgpt, three-selves, self-discrepancy-theory, diagnostic, rewriting, performance-analysis]
 updated: 2026-10-20
 ---

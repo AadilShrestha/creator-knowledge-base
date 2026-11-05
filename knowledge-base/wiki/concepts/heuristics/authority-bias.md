@@ -3,12 +3,12 @@ title: "Authority Bias"
 type: concept
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/2. Heuristics 101/2. Using The Biases That Sell.txt
-  - raw/tether-lab/_transcripts/2. Heuristics 101/5. Stacking Psychology for growth.txt
-  - raw/tether-lab/_extracted/2. Heuristics 101/7. Heuristics 101 e-book.md
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/3. Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/4. Live With Sarah! - July 02, 2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/1. Guest Session 01 Jonna Wallace!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/2. Heuristics 101/2. Using The Biases That Sell.txt
+  - knowledge-base/raw/tether-lab/_transcripts/2. Heuristics 101/5. Stacking Psychology for growth.txt
+  - knowledge-base/raw/tether-lab/_extracted/2. Heuristics 101/7. Heuristics 101 e-book.md
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/3. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/4. Live With Sarah! - July 02, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/1. Guest Session 01 Jonna Wallace!.txt
 tags: [heuristics, authority-bias, authority-proof, experts, guarantees, trust, validation, messenger-effect]
 updated: 2026-10-20
 ---

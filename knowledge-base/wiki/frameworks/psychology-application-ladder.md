@@ -4,10 +4,10 @@ type: framework
 course: tether-lab
 module: 05-live-recordings
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/3. Live With Sarah!.txt
-  - wiki/courses/tether-lab/05-live-recordings/2025-06-18-live-with-sarah.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-05-07-live-with-sarah.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-06-11-live-with-sarah.md
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/3. Live With Sarah!.txt
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-06-18-live-with-sarah.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-05-07-live-with-sarah.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-06-11-live-with-sarah.md
 tags: [framework, psychology-ladder, heuristics, mental-models, science-of-belief, core-beliefs, identity, emotion, behavior, priority-stack, testing-order, generations, diagnosis]
 updated: 2026-10-20
 ---

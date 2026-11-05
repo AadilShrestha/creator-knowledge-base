@@ -4,12 +4,12 @@ type: concept
 course: tether-lab
 aliases: ["humor types", "comedy in ads", "funny ads", "memes in ads", "humor as a second identity"]
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/1. Guest Session 01 Jonna Wallace!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/3. Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/5. Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/3. Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/5. Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/1. Roast My Ads #3 July 23, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/1. Guest Session 01 Jonna Wallace!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/3. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/5. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/3. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/5. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/1. Roast My Ads #3 July 23, 2025 - Recordings.txt
 tags: [humor, comedy, memes, brand-voice, self-deprecation, sarcasm, absurdism, satire, parody, slapstick, characters, identity-stacking, hexclad, joanna-wallace]
 updated: 2026-10-20
 ---

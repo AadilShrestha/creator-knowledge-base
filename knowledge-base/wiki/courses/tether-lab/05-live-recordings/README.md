@@ -5,8 +5,8 @@ course: tether-lab
 module: 05-live-recordings
 order: 5
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/
-  - raw/tether-lab/_extracted/5. Recordings/
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/
+  - knowledge-base/raw/tether-lab/_extracted/5. Recordings/
 tags: [live-sessions, q-and-a, roast-my-ads, teardowns, guest-sessions]
 updated: 2026-10-20
 ---

@@ -4,10 +4,10 @@ type: framework
 course: tether-lab
 module: 03-valence-intensity-model
 sources:
-  - raw/tether-lab/_transcripts/3. The Valence & Intensity Model/5. Fixing The Tone Without Rebuilding the ad.txt
-  - raw/tether-lab/_transcripts/3. The Valence & Intensity Model/6. Map + Move Your Messaging.txt
-  - raw/tether-lab/_extracted/3. The Valence & Intensity Model/8. Diagnose Why Your Ads Aren't Working.md
-  - raw/tether-lab/_extracted/3. The Valence & Intensity Model/9. Valence + Intensity - Prompts.md
+  - knowledge-base/raw/tether-lab/_transcripts/3. The Valence & Intensity Model/5. Fixing The Tone Without Rebuilding the ad.txt
+  - knowledge-base/raw/tether-lab/_transcripts/3. The Valence & Intensity Model/6. Map + Move Your Messaging.txt
+  - knowledge-base/raw/tether-lab/_extracted/3. The Valence & Intensity Model/8. Diagnose Why Your Ads Aren't Working.md
+  - knowledge-base/raw/tether-lab/_extracted/3. The Valence & Intensity Model/9. Valence + Intensity - Prompts.md
 tags: [framework, tone-shifting, copywriting, visuals, emotional-promise, rewrites, prompts, agent-runnable]
 updated: 2026-10-20
 ---

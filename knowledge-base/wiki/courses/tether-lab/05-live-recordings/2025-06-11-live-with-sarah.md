@@ -7,10 +7,10 @@ order: 4
 session_date: 2025-06-11
 video_length: "59:11"
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/4.Live With Sarah! - June 11, 2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/4.Live With Sarah! - June 11, 2025 - Recordings.srt
-  - raw/tether-lab/_extracted/5. Recordings/June 2025/4_Live_With_Sarah!_June_11,_2025_Recordings_·_Tether_La.md
-  - raw/tether-lab/5. Recordings/June 2025/4_Live_With_Sarah!_June_11,_2025_Recordings_·_Tether_La.html
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/4.Live With Sarah! - June 11, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/4.Live With Sarah! - June 11, 2025 - Recordings.srt
+  - knowledge-base/raw/tether-lab/_extracted/5. Recordings/June 2025/4_Live_With_Sarah!_June_11,_2025_Recordings_·_Tether_La.md
+  - knowledge-base/raw/tether-lab/5. Recordings/June 2025/4_Live_With_Sarah!_June_11,_2025_Recordings_·_Tether_La.html
 tags: [live-session, q-and-a, valence, intensity, emotional-zones, emotional-stagnation, ag1, supplements, competitor-research, chatgpt, three-selves, teep-model, campaign-structure, creative-testing, creative-diversity, statics, tiktok, print-on-demand, 3-2-2-method, differentiation]
 updated: 2026-10-20
 ---

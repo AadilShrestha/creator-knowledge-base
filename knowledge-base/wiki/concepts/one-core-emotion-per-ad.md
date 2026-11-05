@@ -4,11 +4,11 @@ type: concept
 course: tether-lab
 aliases: ["one emotion per ad", "one headline one CTA", "supporting characters"]
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/2. Roast my Ads #1.txt
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/5. Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/5. Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/3. Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/1. Roast My Ads #3 July 23, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/2. Roast my Ads #1.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/5. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/5. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/3. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/1. Roast My Ads #3 July 23, 2025 - Recordings.txt
 tags: [emotion, core-message, headline, statics, design, heuristics, badges, cognitive-load, rule]
 updated: 2026-10-20
 ---
@@ -95,3 +95,8 @@ The Prompt Library says the same at the lever level: [Emotional trigger](heurist
 
 ## Related
 [Core brand emotion](core-brand-emotion.md) · [Blended emotions](blended-emotions.md) · [Emotion specificity](emotion-specificity.md) · [Processing fluency](heuristics/processing-fluency.md) · [Cognitive load](heuristics/cognitive-load.md) · [Heuristic stacking](heuristic-stacking.md) · [Emotional trigger](heuristics/emotional-trigger.md) · [Hero image ↔ copy congruence](hero-image-copy-congruence.md)
+
+## In other courses
+- RMBC II: [Hook Generation System (RMBC II)](../courses/stefan-georgi/rmbc-ii/frameworks/hook-generation-system.md): stacked VSL openings, a test variant only (R5)
+
+Which page owns the topic: [topic map](../topic-map.md).

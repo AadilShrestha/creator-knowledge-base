@@ -5,9 +5,9 @@ course: tether-lab
 module: 06-ad-lab-toolkit
 order: 5
 sources:
-  - raw/tether-lab/6. The Ad Lab Toolkit/5_Sarah's_Secret_Book_Stash_The_Ad_Lab_Toolkit_·_Tether.html
-  - raw/tether-lab/_extracted/6. The Ad Lab Toolkit/5_Sarah's_Secret_Book_Stash_The_Ad_Lab_Toolkit_·_Tether.md
-  - raw/tether-lab/6. The Ad Lab Toolkit/5. Rare Behavioral Science Books.pdf
+  - knowledge-base/raw/tether-lab/6. The Ad Lab Toolkit/5_Sarah's_Secret_Book_Stash_The_Ad_Lab_Toolkit_·_Tether.html
+  - knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/5_Sarah's_Secret_Book_Stash_The_Ad_Lab_Toolkit_·_Tether.md
+  - knowledge-base/raw/tether-lab/6. The Ad Lab Toolkit/5. Rare Behavioral Science Books.pdf
 tags: [toolkit, books, reading-list, behavioral-science]
 updated: 2026-10-20
 ---

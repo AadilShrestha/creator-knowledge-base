@@ -7,10 +7,10 @@ order: 4
 session_date: 2025-07-02
 video_length: "58:31"
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/4. Live With Sarah! - July 02, 2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/4. Live With Sarah! - July 02, 2025 - Recordings.srt
-  - raw/tether-lab/_extracted/5. Recordings/July 2025/4_Live_With_Sarah!_July_02,_2025_Recordings_·_Tether_La.md
-  - raw/tether-lab/5. Recordings/July 2025/4_Live_With_Sarah!_July_02,_2025_Recordings_·_Tether_La.html
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/4. Live With Sarah! - July 02, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/4. Live With Sarah! - July 02, 2025 - Recordings.srt
+  - knowledge-base/raw/tether-lab/_extracted/5. Recordings/July 2025/4_Live_With_Sarah!_July_02,_2025_Recordings_·_Tether_La.md
+  - knowledge-base/raw/tether-lab/5. Recordings/July 2025/4_Live_With_Sarah!_July_02,_2025_Recordings_·_Tether_La.html
 tags: [session, live-qa, heuristics, the-decision-lab, bundling, aov, subscriptions, offer-framing, decoy-effect, bandwagon-effect, ikea-effect, reciprocity, observer-expectancy-effect, gamblers-fallacy, frame-of-reference]
 updated: 2026-10-20
 ---

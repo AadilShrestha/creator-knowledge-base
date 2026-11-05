@@ -151,5 +151,13 @@ All three are logged in the contradictions notes.
 ## Related
 [Beliefs](beliefs.md) · [Authority in ads](authority-in-ads.md) · [Market awareness](market-awareness.md) · [Bridges](bridges.md) · [Objection handling](objection-handling.md) · [Positioning](positioning.md) · [Comparisons](comparisons.md) · [Labels and customer language](labels-and-customer-language.md)
 
+## In other courses
+- Evolve Start Here: [Product overview and mechanism (physical vs functional, how it works, hidden mechanisms)](../../start-here/concepts/product-overview-and-mechanism.md): finding the mechanism in real components
+- Evolve Start Here: [Market sophistication and its three levers (new mechanism, new information, new identity)](../../start-here/concepts/market-sophistication-levers.md): sophistication levers
+- RMBC II: [Unique mechanism (UMP + UMS) in RMBC II](../../../stefan-georgi/rmbc-ii/concepts/unique-mechanism.md): problem / solution mechanism
+- RMBC II: [UMP/UMS ideation and evaluation (multi-LLM mechanism process)](../../../stefan-georgi/rmbc-ii/frameworks/ump-ideation-and-evaluation.md): LLM ideation and ranking (R2)
+
+Which page owns the topic: [topic map](../../../../topic-map.md).
+
 ## Sources and limitations
 Performance claims (CarePod "crushed", the $1M and 239% figures) are the instructor's. Brand facts in hypotheticals (pee-pad calming aid, Spencer's Wagyu Chicken) are invented by the instructor as illustrations.

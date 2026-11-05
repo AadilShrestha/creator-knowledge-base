@@ -5,10 +5,10 @@ niche: tech-accessories
 sub_niche: "plant-based / eco phone cases"
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/2. Heuristics 101/2. Using The Biases That Sell.txt
-  - raw/tether-lab/_transcripts/2. Heuristics 101/5. Stacking Psychology for growth.txt
-  - raw/tether-lab/_transcripts/3. The Valence & Intensity Model/4. Diagnosing Emotional Misfires.txt
-  - raw/tether-lab/_extracted/2. Heuristics 101/7. Heuristics 101 e-book.md
+  - knowledge-base/raw/tether-lab/_transcripts/2. Heuristics 101/2. Using The Biases That Sell.txt
+  - knowledge-base/raw/tether-lab/_transcripts/2. Heuristics 101/5. Stacking Psychology for growth.txt
+  - knowledge-base/raw/tether-lab/_transcripts/3. The Valence & Intensity Model/4. Diagnosing Emotional Misfires.txt
+  - knowledge-base/raw/tether-lab/_extracted/2. Heuristics 101/7. Heuristics 101 e-book.md
 tags: [brand, phone-cases, eco, sustainability, scarcity-heuristic, processing-fluency, affect-heuristic, authority-bias, heuristic-stacking, brand-enemy, statics, intensity]
 updated: 2026-10-20
 ---

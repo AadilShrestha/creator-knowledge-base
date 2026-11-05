@@ -4,12 +4,12 @@ type: framework
 course: tether-lab
 module: 05-live-recordings
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/4.Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/4.Live With Sarah!.srt
-  - raw/tether-lab/_extracted/5. Recordings/May 2025/4_Live_With_Sarah!_May_14,_2025_Recordings_·_Tether_Lab.md
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/3.Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/4.Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/4.Live With Sarah!.srt
+  - knowledge-base/raw/tether-lab/_extracted/5. Recordings/May 2025/4_Live_With_Sarah!_May_14,_2025_Recordings_·_Tether_Lab.md
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/3. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/
 tags: [framework, storytelling, story-frameworks, ugc-scripts, script-writing, chatgpt, prompts, pixar-story-framework, heros-journey, freytags-pyramid, monomyth, in-medias-res, scqa, aida, pas, storybrand, fichtean-curve, seven-basic-plots, story-spine, dramatic-arc, three-act-structure, founder-story, voiceover, video-testing, maelove]
 updated: 2026-10-20
 ---

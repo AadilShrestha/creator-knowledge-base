@@ -5,10 +5,10 @@ niche: skincare-beauty-and-haircare
 sub_niche: "DTC skincare serums"
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/2. Heuristics 101/2. Using The Biases That Sell.txt
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/5. Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/4.Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/5. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/2. Heuristics 101/2. Using The Biases That Sell.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/5. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/4.Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/5. Live With Sarah!.txt
 tags: [brand, skincare, serums, authority-bias, dermatologist, identity, sunk-cost, switching-behavior, blended-emotions, guarantee, story-frameworks, ugc-script, influencer-script, fake-podcast, statics]
 updated: 2026-10-20
 ---

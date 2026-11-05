@@ -5,8 +5,8 @@ course: tether-lab
 module: 06-ad-lab-toolkit
 order: 8
 sources:
-  - raw/tether-lab/6. The Ad Lab Toolkit/8_The_Tether_Signal_Newsletter_The_Ad_Lab_Toolkit_·_Tet.html
-  - raw/tether-lab/_extracted/6. The Ad Lab Toolkit/8_The_Tether_Signal_Newsletter_The_Ad_Lab_Toolkit_·_Tet.md
+  - knowledge-base/raw/tether-lab/6. The Ad Lab Toolkit/8_The_Tether_Signal_Newsletter_The_Ad_Lab_Toolkit_·_Tet.html
+  - knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/8_The_Tether_Signal_Newsletter_The_Ad_Lab_Toolkit_·_Tet.md
 tags: [toolkit, newsletter, resource, tether-insights]
 updated: 2026-10-20
 ---

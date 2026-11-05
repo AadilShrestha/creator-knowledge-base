@@ -3,8 +3,8 @@ title: "AI UGC tools (Creatify, Arcads, Icon)"
 type: tool
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/4.Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/1. Guest Session 02 Chase Monhseni - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/4.Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/1. Guest Session 02 Chase Monhseni - Recordings.txt
 tags: [tool, ai-ugc, ugc, ai-video, creatify, arcads, icon, trust, creative-testing]
 updated: 2026-10-20
 ---

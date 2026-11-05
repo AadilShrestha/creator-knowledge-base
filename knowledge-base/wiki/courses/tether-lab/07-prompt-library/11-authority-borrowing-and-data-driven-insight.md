@@ -5,10 +5,10 @@ course: tether-lab
 module: 07-prompt-library
 order: 11
 sources:
-  - raw/tether-lab/7. The Prompt Library/11_Authority_Borrowing_+_Data_Driven_Insight_The_Prompt.html
-  - raw/tether-lab/_extracted/7. The Prompt Library/11_Authority_Borrowing_+_Data_Driven_Insight_The_Prompt.md
-  - raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
-  - raw/tether-lab/_transcripts/6. The Ad Lab Toolkit/4. The Prompt Library.txt
+  - knowledge-base/raw/tether-lab/7. The Prompt Library/11_Authority_Borrowing_+_Data_Driven_Insight_The_Prompt.html
+  - knowledge-base/raw/tether-lab/_extracted/7. The Prompt Library/11_Authority_Borrowing_+_Data_Driven_Insight_The_Prompt.md
+  - knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
+  - knowledge-base/raw/tether-lab/_transcripts/6. The Ad Lab Toolkit/4. The Prompt Library.txt
 tags: [prompt, prompt-library, authority, halo-effect, data, statistics, proof, skeptical-audience, ad-concepts]
 updated: 2026-10-20
 ---

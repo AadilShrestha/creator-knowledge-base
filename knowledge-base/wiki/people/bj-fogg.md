@@ -3,7 +3,7 @@ title: "BJ Fogg"
 type: person
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.txt
 tags: [person, behavioral-science, behavior-design, fogg-behavior-model, ability, cro]
 updated: 2026-10-20
 ---

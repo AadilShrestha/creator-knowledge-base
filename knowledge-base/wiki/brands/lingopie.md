@@ -5,7 +5,7 @@ niche: subscription-apps
 sub_niche: "language learning through TV shows (subscription, free trial)"
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/1. Guest Session 01 Jonna Wallace!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/1. Guest Session 01 Jonna Wallace!.txt
 tags: [brand, subscription, app, language-learning, free-trial, barrier-buster, humor, objection-handling, email, checkout-copy]
 updated: 2026-10-20
 ---

@@ -3,10 +3,10 @@ title: "Brands hub: case files by niche"
 type: brand
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/2. Heuristics 101/
-  - raw/tether-lab/_transcripts/3. The Valence & Intensity Model/
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/
-  - raw/tether-lab/_transcripts/5. Recordings/
+  - knowledge-base/raw/tether-lab/_transcripts/2. Heuristics 101/
+  - knowledge-base/raw/tether-lab/_transcripts/3. The Valence & Intensity Model/
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/
 tags: [brand, hub, ad-teardowns, niches, competitor-research, examples]
 updated: 2026-10-20
 ---

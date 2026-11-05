@@ -4,30 +4,30 @@ type: library
 creator: sarah-levinger
 course: tether-lab
 sources:
-  - wiki/frameworks/tone-shifting.md
-  - wiki/frameworks/rewriting-ads-for-new-selves.md
-  - wiki/frameworks/offer-and-bundle-psychology.md
-  - wiki/frameworks/landing-page-psychology-audit.md
-  - wiki/concepts/active-cta-language.md
-  - wiki/concepts/perception-management.md
-  - wiki/concepts/heuristics/scarcity-heuristic.md
-  - wiki/resources/diagnose-why-your-ads-arent-working-ebook.md
-  - wiki/courses/tether-lab/03-valence-intensity-model/05-fixing-the-tone-without-rebuilding-the-ad.md
-  - wiki/courses/tether-lab/04-self-targeting-system/07-how-to-rewrite-winning-ads-for-new-selves.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-05-07-live-with-sarah.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-05-14-live-with-sarah.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-05-21-live-with-sarah.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-05-23-guest-session-01-joanna-wallace.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-05-28-roast-my-ads-1.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-06-04-live-with-sarah.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-06-11-live-with-sarah.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-06-18-live-with-sarah.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-06-25-roast-my-ads-2.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-06-guest-session-02-chase-mohseni.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-07-02-live-with-sarah.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-07-09-live-with-sarah.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-07-16-live-with-sarah.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-07-23-roast-my-ads-3.md
+  - knowledge-base/wiki/frameworks/tone-shifting.md
+  - knowledge-base/wiki/frameworks/rewriting-ads-for-new-selves.md
+  - knowledge-base/wiki/frameworks/offer-and-bundle-psychology.md
+  - knowledge-base/wiki/frameworks/landing-page-psychology-audit.md
+  - knowledge-base/wiki/concepts/active-cta-language.md
+  - knowledge-base/wiki/concepts/perception-management.md
+  - knowledge-base/wiki/concepts/heuristics/scarcity-heuristic.md
+  - knowledge-base/wiki/resources/diagnose-why-your-ads-arent-working-ebook.md
+  - knowledge-base/wiki/courses/tether-lab/03-valence-intensity-model/05-fixing-the-tone-without-rebuilding-the-ad.md
+  - knowledge-base/wiki/courses/tether-lab/04-self-targeting-system/07-how-to-rewrite-winning-ads-for-new-selves.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-05-07-live-with-sarah.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-05-14-live-with-sarah.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-05-21-live-with-sarah.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-05-23-guest-session-01-joanna-wallace.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-05-28-roast-my-ads-1.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-06-04-live-with-sarah.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-06-11-live-with-sarah.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-06-18-live-with-sarah.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-06-25-roast-my-ads-2.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-06-guest-session-02-chase-mohseni.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-07-02-live-with-sarah.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-07-09-live-with-sarah.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-07-16-live-with-sarah.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-07-23-roast-my-ads-3.md
 tags: [library, rewrites, before-after, copywriting, tone-shifting, cta, offers, iteration]
 updated: 2026-10-20
 ---
@@ -343,3 +343,10 @@ updated: 2026-10-20
 - [Active CTA language](../concepts/active-cta-language.md) · [Landing page psychology audit](../frameworks/landing-page-psychology-audit.md)
 - [Hooks library](hooks.md) · [Angles library](angles.md)
 - [Agent guide](../../AGENT-GUIDE.md): the agent front door.
+
+## In other courses
+- Evolve Copywriting: [Rewrites library: Evolve Copywriting (before → after, grouped by the lever changed)](../courses/evolve/copywriting/libraries/rewrites.md): Evolve rewrites
+- Evolve Start Here: [Rewrites library: Evolve Start Here (before → after, grouped by the lever changed)](../courses/evolve/start-here/libraries/rewrites.md): Start Here rewrites
+- RMBC II: [Rewrites library: RMBC II (before → after edits, tagged by change type and claim risk)](../courses/stefan-georgi/rmbc-ii/libraries/rewrites.md): RMBC rewrites
+
+Which page owns the topic: [topic map](../topic-map.md).

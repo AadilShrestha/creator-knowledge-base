@@ -5,9 +5,9 @@ course: tether-lab
 module: 07-prompt-library
 order: 15
 sources:
-  - raw/tether-lab/7. The Prompt Library/15_The_‘Why_Didn’t_I_See_This_’_Framework_The_Prompt_Li.html
-  - raw/tether-lab/_extracted/7. The Prompt Library/15_The_‘Why_Didn’t_I_See_This_’_Framework_The_Prompt_Li.md
-  - raw/tether-lab/_transcripts/6. The Ad Lab Toolkit/4. The Prompt Library.txt
+  - knowledge-base/raw/tether-lab/7. The Prompt Library/15_The_‘Why_Didn’t_I_See_This_’_Framework_The_Prompt_Li.html
+  - knowledge-base/raw/tether-lab/_extracted/7. The Prompt Library/15_The_‘Why_Didn’t_I_See_This_’_Framework_The_Prompt_Li.md
+  - knowledge-base/raw/tether-lab/_transcripts/6. The Ad Lab Toolkit/4. The Prompt Library.txt
 tags: [prompt, prompt-library, hindsight-bias, bounded-rationality, hooks, switching, competitor-conquest, validation]
 updated: 2026-10-20
 ---

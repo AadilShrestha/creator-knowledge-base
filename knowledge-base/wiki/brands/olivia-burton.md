@@ -5,7 +5,7 @@ niche: apparel-and-accessories
 sub_niche: "women's jewellery and watches"
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.txt
 tags: [brand, jewelry, watches, womens-accessories, pdp, fogg-behavior-model, ability, social-proof, reverse-social-proof, bnpl, readability]
 updated: 2026-10-20
 ---

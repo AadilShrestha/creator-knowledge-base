@@ -6,10 +6,10 @@ module: 03-valence-intensity-model
 order: 5
 video_length: "9:55"
 sources:
-  - raw/tether-lab/_transcripts/3. The Valence & Intensity Model/5. Fixing The Tone Without Rebuilding the ad.txt
-  - raw/tether-lab/_transcripts/3. The Valence & Intensity Model/5. Fixing The Tone Without Rebuilding the ad.srt
-  - raw/tether-lab/_extracted/3. The Valence & Intensity Model/5_5_Fixing_the_Tone_Without_Rebuilding_the_Ad_The_Valen.md
-  - raw/tether-lab/_extracted/3. The Valence & Intensity Model/9. Valence + Intensity - Prompts.md
+  - knowledge-base/raw/tether-lab/_transcripts/3. The Valence & Intensity Model/5. Fixing The Tone Without Rebuilding the ad.txt
+  - knowledge-base/raw/tether-lab/_transcripts/3. The Valence & Intensity Model/5. Fixing The Tone Without Rebuilding the ad.srt
+  - knowledge-base/raw/tether-lab/_extracted/3. The Valence & Intensity Model/5_5_Fixing_the_Tone_Without_Rebuilding_the_Ad_The_Valen.md
+  - knowledge-base/raw/tether-lab/_extracted/3. The Valence & Intensity Model/9. Valence + Intensity - Prompts.md
 tags: [emotion, tone-shifting, copywriting, visuals, emotional-promise, prompts, chatgpt]
 updated: 2026-10-20
 ---

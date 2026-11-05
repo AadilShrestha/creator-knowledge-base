@@ -7,10 +7,10 @@ order: 5
 session_date: 2025-06-04
 video_length: "1:00:00"
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/5. Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/5. Live With Sarah!.srt
-  - raw/tether-lab/_extracted/5. Recordings/June 2025/5_Live_With_Sarah!_June_4,_2025_Recordings_·_Tether_Lab.md
-  - raw/tether-lab/5. Recordings/June 2025/5_Live_With_Sarah!_June_4,_2025_Recordings_·_Tether_Lab.html
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/5. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/5. Live With Sarah!.srt
+  - knowledge-base/raw/tether-lab/_extracted/5. Recordings/June 2025/5_Live_With_Sarah!_June_4,_2025_Recordings_·_Tether_Lab.md
+  - knowledge-base/raw/tether-lab/5. Recordings/June 2025/5_Live_With_Sarah!_June_4,_2025_Recordings_·_Tether_Lab.html
 tags: [live-session, q-and-a, teep-model, marketing-to-mindstates, blended-emotions, emotion-specificity, campaign-structure, core-identity-map, research-stack, answerthepublic, surveys, nps, retention, jewelry, insurance, temporal-discounting, fluency-mechanism, mascots, humor, memes, hair-loss, info-products, maelove]
 updated: 2026-10-20
 ---

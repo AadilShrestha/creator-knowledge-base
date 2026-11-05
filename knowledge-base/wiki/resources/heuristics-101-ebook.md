@@ -4,9 +4,9 @@ type: resource
 course: tether-lab
 module: 02-heuristics-101
 sources:
-  - raw/tether-lab/2. Heuristics 101/7. Heuristics 101 e-book.pdf
-  - raw/tether-lab/_extracted/2. Heuristics 101/7. Heuristics 101 e-book.md
-  - raw/assets/tether-lab/pdf-pages/7-Heuristics-101-e-book/
+  - knowledge-base/raw/tether-lab/2. Heuristics 101/7. Heuristics 101 e-book.pdf
+  - knowledge-base/raw/tether-lab/_extracted/2. Heuristics 101/7. Heuristics 101 e-book.md
+  - knowledge-base/raw/assets/tether-lab/pdf-pages/7-Heuristics-101-e-book/
 tags: [heuristics, ebook, cheat-sheet, static-ads]
 updated: 2026-10-20
 ---

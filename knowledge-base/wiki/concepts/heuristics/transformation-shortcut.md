@@ -3,8 +3,8 @@ title: "Transformation Shortcut"
 type: concept
 course: tether-lab
 sources:
-  - raw/tether-lab/_extracted/7. The Prompt Library/4_Shock_Factor_+_Transformation_Shortcut_The_Prompt_Lib.md
-  - raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
+  - knowledge-base/raw/tether-lab/_extracted/7. The Prompt Library/4_Shock_Factor_+_Transformation_Shortcut_The_Prompt_Lib.md
+  - knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
 tags: [heuristics, transformation, effortless, shortcut, ideal-self, prompt-library]
 updated: 2026-10-20
 ---

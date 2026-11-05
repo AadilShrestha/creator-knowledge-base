@@ -6,10 +6,10 @@ module: 02-heuristics-101
 order: 2
 video_length: "6:23"
 sources:
-  - raw/tether-lab/_transcripts/2. Heuristics 101/2. Using The Biases That Sell.txt
-  - raw/tether-lab/_transcripts/2. Heuristics 101/2. Using The Biases That Sell.srt
-  - raw/tether-lab/_extracted/2. Heuristics 101/2. 2._Using_Biases_That_Sell_-_Heuristics_101_·_Tether_.md
-  - raw/tether-lab/_extracted/2. Heuristics 101/7. Heuristics 101 e-book.md
+  - knowledge-base/raw/tether-lab/_transcripts/2. Heuristics 101/2. Using The Biases That Sell.txt
+  - knowledge-base/raw/tether-lab/_transcripts/2. Heuristics 101/2. Using The Biases That Sell.srt
+  - knowledge-base/raw/tether-lab/_extracted/2. Heuristics 101/2. 2._Using_Biases_That_Sell_-_Heuristics_101_·_Tether_.md
+  - knowledge-base/raw/tether-lab/_extracted/2. Heuristics 101/7. Heuristics 101 e-book.md
 tags: [heuristics, scarcity, social-proof, authority-bias]
 updated: 2026-10-20
 ---

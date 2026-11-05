@@ -178,3 +178,10 @@ readout:
 
 ## Related
 [Playbooks hub](README.md) · [Creative testing system](../frameworks/creative-testing-system.md) · [3 Vs of creative](../frameworks/three-vs-of-creative.md) · [Psychology application ladder](../frameworks/psychology-application-ladder.md) · [Creative primitives](../concepts/creative-primitives.md) · [Emotional stagnation](../concepts/emotional-stagnation.md) · [Blended emotions](../concepts/blended-emotions.md) · [Algorithm as library](../concepts/algorithm-as-library.md) · [Golden-milk chai case](../brands/golden-milk-chai-aazar-shad.md) · [OmieBox](../brands/omiebox.md) · [Net Positive](../brands/net-positive.md)
+
+## In other courses
+- Evolve Start Here: [Playbook: weekly media buying routine (daily checks, day-3 and day-7 reads, labels, learnings, iteration, scaling cadence)](../courses/evolve/start-here/playbooks/weekly-media-buying-routine.md): weekly Meta buying routine
+- Evolve Start Here: [Winning-ad labels (Breakthrough / Spend Winner / KPI Winner / Loser) with tier thresholds](../courses/evolve/start-here/concepts/winning-ad-labels.md): test labels
+- RMBC II: [CRO Testing (inside-out prioritisation, earnings per session, run rules, incremental revenue)](../courses/stefan-georgi/rmbc-ii/frameworks/cro-testing.md): page tests
+
+Which page owns the topic: [topic map](../topic-map.md).

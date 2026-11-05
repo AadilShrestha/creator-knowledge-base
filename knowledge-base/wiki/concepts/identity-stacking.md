@@ -4,9 +4,9 @@ type: concept
 course: tether-lab
 aliases: ["Impulse buys don't exist", "Secondary identity", "Identity activation", "Humor as a second identity"]
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/3. Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/5. Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/5. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/3. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/5. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/5. Live With Sarah!.txt
 tags: [identity, impulse-buy, secondary-identity, humor, triggering-events, novelty-products, acquisition]
 updated: 2026-10-20
 ---

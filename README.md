@@ -1,18 +1,25 @@
 # Creator knowledge base
 
-A growing Markdown reference for e-commerce marketing, copywriting, customer research, and ad creative. Based on [Karpathy's LLM Wiki pattern](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f): preserve sources, compile linked knowledge, record changes.
+A Markdown knowledge base of e-commerce marketing courses (ad psychology, copywriting, UGC and video scripts, statics, competitor teardowns, testing), built for AI agents that make ad creative. It follows [Karpathy's LLM Wiki pattern](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f): raw sources are preserved, knowledge is compiled into linked pages, and every change is logged.
 
-- Read existing knowledge: [wiki index](knowledge-base/wiki/index.md) and [overview](knowledge-base/wiki/overview.md).
-- Agent instructions: [AGENTS.md](AGENTS.md); Claude Code loads [CLAUDE.md](CLAUDE.md).
+## Use it
+- **Agents:** start at [AGENTS.md](AGENTS.md). It routes each task to a skill or playbook.
+- **Write a UGC / video ad script:** [write-ugc-script skill](.claude/skills/write-ugc-script/SKILL.md) (works in Claude Code; other agents can read and follow the same file).
+- **Everything else:** [AGENT-GUIDE](knowledge-base/AGENT-GUIDE.md) task table, [wiki index](knowledge-base/wiki/index.md), [overview](knowledge-base/wiki/overview.md).
 
-## Current state
+## What's in it
+| Course | Creator | Status | Hub |
+|---|---|---|---|
+| Tether Lab | Sarah Levinger | Ingested | [course hub](knowledge-base/wiki/courses/tether-lab/README.md) |
+| Evolve Copywriting | Spencer Pawliw | Ingested and verified (144/144 sources) | [course hub](knowledge-base/wiki/courses/evolve/copywriting/README.md) |
+| Evolve Start Here | Spencer Pawliw, Shaun Eng | Ingested and verified (359/359 sources; 175 lessons) | [course hub](knowledge-base/wiki/courses/evolve/start-here/README.md) |
+| RMBC II | Stefan Georgi (+7 guests) | Ingested and verified (313/328 sources, 15 excluded duplicates/defects; 58 lessons) | [course hub](knowledge-base/wiki/courses/stefan-georgi/rmbc-ii/README.md) |
 
-The initial Tether Lab wiki contains 251 Markdown pages, 36 transcript text files, and 201 wiki images at the initial baseline. Its libraries, playbooks, rubrics, and some navigation links remain unfinished. Existing pages are useful reference, not proof of exhaustive source coverage.
+## Layout
+- `knowledge-base/wiki/`: compiled knowledge (lessons, concepts, frameworks, playbooks, rubrics, libraries).
+- `knowledge-base/raw/`: transcripts and extracted text (tracked); original videos and files stay local (ignored by Git).
+- `.claude/skills/`: task skills for agents.
+- `evals/`: fixed test briefs and before/after runs for checking output quality.
+- [INGESTION.md](INGESTION.md): how to add a course.
 
-Evolve Copywriting and Evolve Start Here have complete remote file inventories; the course content is **not ingested yet**. New creators get separate course folders, with source-backed shared synthesis added as the knowledge base grows.
-
-## Local storage
-
-Original downloads and extracted evidence live under `knowledge-base/raw/`; compiled notes live under `knowledge-base/wiki/`. Agent instructions explain the exact paths, processing workflow, citations, and progress checkpoints. An agent can set up tools and build the knowledge base directly in a local folder. Git is optional; the existing ignore rules keep original binaries, model downloads, credentials, and temporary files out of version control.
-
-Open `knowledge-base/` as an Obsidian vault if you want a visual browser. No database or hosted app is required.
+Open `knowledge-base/` as an Obsidian vault for a visual browser. No database or hosted app is required.

@@ -126,5 +126,10 @@ Chain used by the Growth Guide: **Feature (what it is) → Benefit ("so you can�
 ## Related
 [Beliefs](beliefs.md) · [Hooks](hooks.md) · [Labels and customer language](labels-and-customer-language.md) · [Market awareness](market-awareness.md) · [Unaware ads](unaware-ads.md) · [Positioning](positioning.md) · [Unique mechanism](unique-mechanism.md)
 
+## In other courses
+- Evolve Start Here: [Core avatars and sub-avatars (the Core 5 method)](../../start-here/concepts/core-and-sub-avatars.md): Core 5 avatar record (S2)
+
+Which page owns the topic: [topic map](../../../../topic-map.md).
+
 ## Sources and limitations
 The chef/Wagyu chicken examples are the instructor's hypotheticals. Spend thresholds ($100-200K/month; $3k vs $10k/day) are instructor heuristics without data.

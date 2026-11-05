@@ -6,9 +6,9 @@ module: 04-self-targeting-system
 order: 4
 video_length: "7:39"
 sources:
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/4. The 3 Selves That Drive Every Buying Decision.txt
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/4. The 3 Selves That Drive Every Buying Decision.srt
-  - raw/tether-lab/_extracted/4. The Self Targeting System/4_4_The_3_Selves_That_Drive_Every_Buying_Decision_The_S.md
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/4. The 3 Selves That Drive Every Buying Decision.txt
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/4. The 3 Selves That Drive Every Buying Decision.srt
+  - knowledge-base/raw/tether-lab/_extracted/4. The Self Targeting System/4_4_The_3_Selves_That_Drive_Every_Buying_Decision_The_S.md
 tags: [self-discrepancy-theory, ideal-self, actual-self, ought-self, higgins, messaging]
 updated: 2026-10-20
 ---

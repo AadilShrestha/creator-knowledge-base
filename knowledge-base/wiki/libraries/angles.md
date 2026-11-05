@@ -4,43 +4,43 @@ type: library
 creator: sarah-levinger
 course: tether-lab
 sources:
-  - wiki/concepts/luxury-positioning.md
-  - wiki/concepts/validation-over-authority.md
-  - wiki/courses/tether-lab/03-valence-intensity-model/02-understanding-valence-and-intensity.md
-  - wiki/courses/tether-lab/03-valence-intensity-model/03-the-4-emotional-zones.md
-  - wiki/courses/tether-lab/04-self-targeting-system/03-why-one-self-isnt-enough-to-scale.md
-  - wiki/courses/tether-lab/04-self-targeting-system/04-the-3-selves-that-drive-every-buying-decision.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-05-07-live-with-sarah.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-05-14-live-with-sarah.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-05-21-live-with-sarah.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-05-23-guest-session-01-joanna-wallace.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-05-28-roast-my-ads-1.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-06-04-live-with-sarah.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-06-11-live-with-sarah.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-06-18-live-with-sarah.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-06-25-roast-my-ads-2.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-06-guest-session-02-chase-mohseni.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-07-02-live-with-sarah.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-07-09-live-with-sarah.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-07-16-live-with-sarah.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-07-23-roast-my-ads-3.md
-  - wiki/courses/tether-lab/07-prompt-library/01-first-principles-thinking-and-loss-aversion.md
-  - wiki/courses/tether-lab/07-prompt-library/02-status-signaling-and-open-loop.md
-  - wiki/courses/tether-lab/07-prompt-library/03-curiosity-and-reverse-psychology.md
-  - wiki/courses/tether-lab/07-prompt-library/04-shock-factor-and-transformation-shortcut.md
-  - wiki/courses/tether-lab/07-prompt-library/05-tribal-belonging-and-vulnerability.md
-  - wiki/courses/tether-lab/07-prompt-library/06-pattern-disruption-and-hidden-truth.md
-  - wiki/courses/tether-lab/07-prompt-library/07-what-if-scenario-and-pain-point-amplification.md
-  - wiki/courses/tether-lab/07-prompt-library/08-contrast-and-aspirational-identity.md
-  - wiki/courses/tether-lab/07-prompt-library/09-gamification-and-time-sensitive-offer.md
-  - wiki/courses/tether-lab/07-prompt-library/10-anonymity-and-social-proof.md
-  - wiki/courses/tether-lab/07-prompt-library/11-authority-borrowing-and-data-driven-insight.md
-  - wiki/courses/tether-lab/07-prompt-library/12-micro-story-and-suspense.md
-  - wiki/courses/tether-lab/07-prompt-library/13-counterintuitive-insight-and-specificity.md
-  - wiki/courses/tether-lab/07-prompt-library/14-reframing-perception-and-emotional-trigger.md
-  - wiki/courses/tether-lab/07-prompt-library/15-hindsight-bias-and-bounded-rationality.md
-  - wiki/frameworks/rewriting-ads-for-new-selves.md
-  - wiki/frameworks/tone-shifting.md
+  - knowledge-base/wiki/concepts/luxury-positioning.md
+  - knowledge-base/wiki/concepts/validation-over-authority.md
+  - knowledge-base/wiki/courses/tether-lab/03-valence-intensity-model/02-understanding-valence-and-intensity.md
+  - knowledge-base/wiki/courses/tether-lab/03-valence-intensity-model/03-the-4-emotional-zones.md
+  - knowledge-base/wiki/courses/tether-lab/04-self-targeting-system/03-why-one-self-isnt-enough-to-scale.md
+  - knowledge-base/wiki/courses/tether-lab/04-self-targeting-system/04-the-3-selves-that-drive-every-buying-decision.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-05-07-live-with-sarah.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-05-14-live-with-sarah.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-05-21-live-with-sarah.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-05-23-guest-session-01-joanna-wallace.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-05-28-roast-my-ads-1.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-06-04-live-with-sarah.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-06-11-live-with-sarah.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-06-18-live-with-sarah.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-06-25-roast-my-ads-2.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-06-guest-session-02-chase-mohseni.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-07-02-live-with-sarah.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-07-09-live-with-sarah.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-07-16-live-with-sarah.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-07-23-roast-my-ads-3.md
+  - knowledge-base/wiki/courses/tether-lab/07-prompt-library/01-first-principles-thinking-and-loss-aversion.md
+  - knowledge-base/wiki/courses/tether-lab/07-prompt-library/02-status-signaling-and-open-loop.md
+  - knowledge-base/wiki/courses/tether-lab/07-prompt-library/03-curiosity-and-reverse-psychology.md
+  - knowledge-base/wiki/courses/tether-lab/07-prompt-library/04-shock-factor-and-transformation-shortcut.md
+  - knowledge-base/wiki/courses/tether-lab/07-prompt-library/05-tribal-belonging-and-vulnerability.md
+  - knowledge-base/wiki/courses/tether-lab/07-prompt-library/06-pattern-disruption-and-hidden-truth.md
+  - knowledge-base/wiki/courses/tether-lab/07-prompt-library/07-what-if-scenario-and-pain-point-amplification.md
+  - knowledge-base/wiki/courses/tether-lab/07-prompt-library/08-contrast-and-aspirational-identity.md
+  - knowledge-base/wiki/courses/tether-lab/07-prompt-library/09-gamification-and-time-sensitive-offer.md
+  - knowledge-base/wiki/courses/tether-lab/07-prompt-library/10-anonymity-and-social-proof.md
+  - knowledge-base/wiki/courses/tether-lab/07-prompt-library/11-authority-borrowing-and-data-driven-insight.md
+  - knowledge-base/wiki/courses/tether-lab/07-prompt-library/12-micro-story-and-suspense.md
+  - knowledge-base/wiki/courses/tether-lab/07-prompt-library/13-counterintuitive-insight-and-specificity.md
+  - knowledge-base/wiki/courses/tether-lab/07-prompt-library/14-reframing-perception-and-emotional-trigger.md
+  - knowledge-base/wiki/courses/tether-lab/07-prompt-library/15-hindsight-bias-and-bounded-rationality.md
+  - knowledge-base/wiki/frameworks/rewriting-ads-for-new-selves.md
+  - knowledge-base/wiki/frameworks/tone-shifting.md
 tags: [library, angles, ugc, creative-strategy, heuristics, emotional-zones, three-selves, iteration, teardown]
 updated: 2026-10-20
 ---
@@ -502,3 +502,10 @@ If two emotions each win on their own, merge them as headline + subhead rather t
 - [Hooks library](hooks.md) · [Rewrites library](rewrites.md)
 - [Rewriting ads for new selves](../frameworks/rewriting-ads-for-new-selves.md) · [Tone-shifting](../frameworks/tone-shifting.md) · [Testing ads by self type](../frameworks/testing-ads-by-self-type.md) · [Creative testing system](../frameworks/creative-testing-system.md)
 - [Angle rut](../concepts/angle-rut.md) · [Emotional stagnation](../concepts/emotional-stagnation.md) · [Core brand emotion](../concepts/core-brand-emotion.md) · [Brand enemy](../concepts/brand-enemy.md) · [Brands hub](../brands/README.md)
+
+## In other courses
+- Evolve Copywriting: [Angles library: Evolve Copywriting (reasons to buy, grouped by desire / pain)](../courses/evolve/copywriting/libraries/angles.md): Evolve angles
+- Evolve Start Here: [Angles library: Evolve Start Here (de-duplicated, grouped by desire family, niche-tagged)](../courses/evolve/start-here/libraries/angles.md): Start Here angles
+- RMBC II: [Angles library: RMBC II (by awareness stage, belief type and format, with claim risk)](../courses/stefan-georgi/rmbc-ii/libraries/angles.md): RMBC angles
+
+Which page owns the topic: [topic map](../topic-map.md).

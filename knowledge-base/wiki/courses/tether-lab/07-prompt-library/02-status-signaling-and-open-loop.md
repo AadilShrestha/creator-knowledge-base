@@ -5,10 +5,10 @@ course: tether-lab
 module: 07-prompt-library
 order: 2
 sources:
-  - raw/tether-lab/7. The Prompt Library/2_Status_Signaling_+_Open_Loop_The_Prompt_Library_·_Tet.html
-  - raw/tether-lab/_extracted/7. The Prompt Library/2_Status_Signaling_+_Open_Loop_The_Prompt_Library_·_Tet.md
-  - raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
-  - raw/tether-lab/_transcripts/6. The Ad Lab Toolkit/4. The Prompt Library.txt
+  - knowledge-base/raw/tether-lab/7. The Prompt Library/2_Status_Signaling_+_Open_Loop_The_Prompt_Library_·_Tet.html
+  - knowledge-base/raw/tether-lab/_extracted/7. The Prompt Library/2_Status_Signaling_+_Open_Loop_The_Prompt_Library_·_Tet.md
+  - knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
+  - knowledge-base/raw/tether-lab/_transcripts/6. The Ad Lab Toolkit/4. The Prompt Library.txt
 tags: [prompt, prompt-library, status-signaling, open-loop, exclusivity, insider, ideal-self, ad-concepts]
 updated: 2026-10-20
 ---

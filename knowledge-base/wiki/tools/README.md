@@ -3,9 +3,9 @@ title: "Tools hub"
 type: tool
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/
-  - raw/tether-lab/_transcripts/2. Heuristics 101/8. Bonus Get Creative OS(1 month Free)Heuristics 101.txt
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/6. How to Use The Prompts For Instant Insights.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/
+  - knowledge-base/raw/tether-lab/_transcripts/2. Heuristics 101/8. Bonus Get Creative OS(1 month Free)Heuristics 101.txt
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/6. How to Use The Prompts For Instant Insights.txt
 tags: [tool, hub, research, ideation, production, ai-ugc, analytics, ad-library]
 updated: 2026-10-20
 ---
@@ -109,3 +109,16 @@ updated: 2026-10-20
 
 ## Related
 [Sarah Levinger](../people/sarah-levinger.md) · [Chase Mohseni](../people/chase-mohseni.md) · [Customer research stack](../frameworks/customer-research-stack.md)
+
+## Tools in other courses
+| Tool | Course | Use there | Where |
+|---|---|---|---|
+| Claude Projects | RMBC II | One project per asset type (brief, VSL, advertorial, PDP, upsell, email) with instructions and knowledge files | [Claude Project recipe](../courses/stefan-georgi/rmbc-ii/concepts/claude-project-recipe.md) · [Claude](claude-ai.md) |
+| Poe | RMBC II | Running the same prompt on several models (e.g. Gemini 2.5 Pro) for mechanism ideation | [03-02](../courses/stefan-georgi/rmbc-ii/lessons/03-02-ump-ideation-with-llms.md) |
+| Magic Patterns | RMBC II | Building the advertorial page from the copy | [advertorial build](../courses/stefan-georgi/rmbc-ii/frameworks/advertorial-build.md) |
+| Vidalytics | RMBC II | VSL hosting; source of the 16-05 guest benchmark data | [16-05](../courses/stefan-georgi/rmbc-ii/lessons/16-05-vsl-benchmarks-data-and-best-practices-with-patrick-stiles.md) · [VSL length bands](../courses/stefan-georgi/rmbc-ii/concepts/vsl-length-bands.md) |
+| Kalodata | RMBC II | TikTok product and ad research | [paid traffic by platform](../courses/stefan-georgi/rmbc-ii/frameworks/paid-traffic-by-platform.md) |
+| Atria (and Foreplay) | Evolve Start Here | Swipe-file boards and creative analytics; Foreplay in older lessons | [research stack workflow](../courses/evolve/start-here/frameworks/research-stack-workflow.md) · [learnings review](../courses/evolve/start-here/frameworks/learnings-review.md) |
+| Insense | Evolve Start Here | Sourcing UGC creators | [Insense creator pipeline](../courses/evolve/start-here/frameworks/insense-creator-pipeline.md) |
+| Leadsie | Evolve Start Here | Getting creator account access for whitelisting | [whitelisting and partnership ads](../courses/evolve/start-here/concepts/whitelisting-and-partnership-ads.md) |
+| Triple Whale | Evolve Start Here | Attribution and reporting columns | [KPIs and columns](../courses/evolve/start-here/frameworks/kpis-and-columns.md) |

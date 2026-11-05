@@ -3,11 +3,11 @@ title: "Heuristics (Mental Shortcuts) in Ads"
 type: concept
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/2. Heuristics 101/1. Targeting the Decision-Making Brain.txt
-  - raw/tether-lab/_transcripts/2. Heuristics 101/5. Stacking Psychology for growth.txt
-  - raw/tether-lab/_extracted/2. Heuristics 101/7. Heuristics 101 e-book.md
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/4. Live With Sarah! - July 02, 2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/3. Live With Sarah! - July 09, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/2. Heuristics 101/1. Targeting the Decision-Making Brain.txt
+  - knowledge-base/raw/tether-lab/_transcripts/2. Heuristics 101/5. Stacking Psychology for growth.txt
+  - knowledge-base/raw/tether-lab/_extracted/2. Heuristics 101/7. Heuristics 101 e-book.md
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/4. Live With Sarah! - July 02, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/3. Live With Sarah! - July 09, 2025 - Recordings.txt
 tags: [heuristics, cognitive-biases, hub, behavioral-science, catalog]
 updated: 2026-10-20
 ---

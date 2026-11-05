@@ -3,9 +3,9 @@ title: "People hub"
 type: person
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/
-  - raw/tether-lab/_transcripts/2. Heuristics 101/8. Bonus Get Creative OS(1 month Free)Heuristics 101.txt
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/4. The 3 Selves That Drive Every Buying Decision.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/
+  - knowledge-base/raw/tether-lab/_transcripts/2. Heuristics 101/8. Bonus Get Creative OS(1 month Free)Heuristics 101.txt
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/4. The 3 Selves That Drive Every Buying Decision.txt
 tags: [person, hub, instructors, guests, authors, community]
 updated: 2026-10-20
 ---
@@ -56,3 +56,19 @@ updated: 2026-10-20
 
 ## Related
 [Tether Lab course hub](../courses/tether-lab/README.md)
+
+## Other courses' instructors and guests
+No separate pages yet; each name links to where they teach.
+
+| Person | Course and role | Where |
+|---|---|---|
+| Spencer Pawliw | Lead instructor, Evolve Copywriting and Evolve Start Here | [Copywriting hub](../courses/evolve/copywriting/README.md), [Start Here hub](../courses/evolve/start-here/README.md) |
+| Shaun Eng | Instructor on research and media-buying lessons, Evolve Start Here | [Start Here hub](../courses/evolve/start-here/README.md) |
+| Stefan Georgi | Author and instructor, RMBC II (modules 1–15, 16-03 "SPG") | [RMBC II hub](../courses/stefan-georgi/rmbc-ii/README.md) |
+| Dynh Nguyen | RMBC II guest: native ads | [12-02](../courses/stefan-georgi/rmbc-ii/lessons/12-02-native-ads.md) |
+| David O'Connell | RMBC II guest: Google ads | [12-03](../courses/stefan-georgi/rmbc-ii/lessons/12-03-google-ads.md) |
+| Max Finn | RMBC II guest: TikTok ads | [12-04](../courses/stefan-georgi/rmbc-ii/lessons/12-04-tiktok-ads.md) |
+| Ethan Bence | RMBC II guest: CRO (4080 Marketing) | [16-01](../courses/stefan-georgi/rmbc-ii/lessons/16-01-cro-with-4080-marketing.md) |
+| Eddie Maalouf | RMBC II guest: ecom and Amazon | [16-02](../courses/stefan-georgi/rmbc-ii/lessons/16-02-ecom-and-amazon-with-eddie-maalouf.md) |
+| Dylan Vanas | RMBC II guest: webinars | [16-04](../courses/stefan-georgi/rmbc-ii/lessons/16-04-webinars-live-talk.md) |
+| Patrick Stiles | RMBC II guest: VSL benchmarks (Vidalytics data) | [16-05](../courses/stefan-georgi/rmbc-ii/lessons/16-05-vsl-benchmarks-data-and-best-practices-with-patrick-stiles.md) |

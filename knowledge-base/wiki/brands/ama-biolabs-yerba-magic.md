@@ -5,7 +5,7 @@ niche: supplements-and-health
 sub_niche: "appetite-control tea (weight loss), Mexico / LatAm"
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.txt
 tags: [brand, supplements, weight-loss, tea, latam, pdp, mobile, listicle, social-proof, typed-social-proof, claim-congruence, message-order, fogg-behavior-model, zone-1]
 updated: 2026-10-20
 ---

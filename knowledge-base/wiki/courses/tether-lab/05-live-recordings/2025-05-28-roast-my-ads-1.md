@@ -7,10 +7,10 @@ order: 2
 session_date: 2025-05-28
 video_length: "1:01:09"
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/2. Roast my Ads #1.txt
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/2. Roast my Ads #1.srt
-  - raw/tether-lab/_extracted/5. Recordings/May 2025/2_Roast_My_Ads_#1_May_28,_2025_Recordings_·_Tether_Lab.md
-  - raw/tether-lab/5. Recordings/May 2025/2_Roast_My_Ads_#1_May_28,_2025_Recordings_·_Tether_Lab.html
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/2. Roast my Ads #1.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/2. Roast my Ads #1.srt
+  - knowledge-base/raw/tether-lab/_extracted/5. Recordings/May 2025/2_Roast_My_Ads_#1_May_28,_2025_Recordings_·_Tether_Lab.md
+  - knowledge-base/raw/tether-lab/5. Recordings/May 2025/2_Roast_My_Ads_#1_May_28,_2025_Recordings_·_Tether_Lab.html
 tags: [live-session, roast-my-ads, ad-teardown, statics, video, show-dont-tell, sight-smell, open-loops, contrarian-headlines, headline-length, visual-weight, design-hierarchy, cognitive-load, patterns, metaphor, ctas, rounded-shapes, value-stack, one-core-emotion, review-mining, premium-positioning, language-level, loss-aversion, gain-framing, food, gelato, supplements, events, gen-z, snacks]
 updated: 2026-10-20
 ---

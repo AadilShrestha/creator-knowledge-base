@@ -6,9 +6,9 @@ module: 04-self-targeting-system
 order: 1
 video_length: "4:00"
 sources:
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/1. Why your Ads Stop Working Over Time.txt
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/1. Why your Ads Stop Working Over Time.srt
-  - raw/tether-lab/_extracted/4. The Self Targeting System/1_1_Why_Your_Ads_Stop_Working_Over_Time_The_Self_Target.md
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/1. Why your Ads Stop Working Over Time.txt
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/1. Why your Ads Stop Working Over Time.srt
+  - knowledge-base/raw/tether-lab/_extracted/4. The Self Targeting System/1_1_Why_Your_Ads_Stop_Working_Over_Time_The_Self_Target.md
 tags: [angle-rut, ad-fatigue, creative-strategy, three-selves, self-targeting]
 updated: 2026-10-20
 ---

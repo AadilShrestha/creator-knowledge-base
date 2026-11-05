@@ -4,10 +4,10 @@ type: concept
 course: tether-lab
 module: 04-self-targeting-system
 sources:
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/1. Why your Ads Stop Working Over Time.txt
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/3. Why One Self Isn't Enough to Scale.txt
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/7. How to Rewrite Winning Ads For New Selves .txt
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/8. How to Test Your Ads By Self Type.txt
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/1. Why your Ads Stop Working Over Time.txt
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/3. Why One Self Isn't Enough to Scale.txt
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/7. How to Rewrite Winning Ads For New Selves .txt
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/8. How to Test Your Ads By Self Type.txt
 tags: [self-targeting, three-selves, targeting, identity, creative-strategy, scaling]
 updated: 2026-10-20
 ---
@@ -61,3 +61,9 @@ The **3-Self Targeting System** ("The '3-Self' Targeting System: Break the 'Angl
 
 ## Related concepts
 [3 selves](three-selves.md) · [Actual Self](actual-self.md) · [Ideal Self](ideal-self.md) · [Ought Self](ought-self.md) · [Angle rut](angle-rut.md) · [Valence](valence.md) · [Intensity](intensity.md)
+
+## In other courses
+- Evolve Start Here: [Core avatars and sub-avatars (the Core 5 method)](../courses/evolve/start-here/concepts/core-and-sub-avatars.md): Core 5 avatar record (contradictions X27, S2)
+- Evolve Copywriting: [Avatars and angles (who it's for, and the reason to buy)](../courses/evolve/copywriting/concepts/avatars-and-angles.md): avatar → angle → mechanism → authority
+
+Which page owns the topic: [topic map](../topic-map.md).

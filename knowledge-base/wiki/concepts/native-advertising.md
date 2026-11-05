@@ -126,6 +126,12 @@ Metrics interpretation here is practical synthesis, not a documented publisher-n
 - Treating a high click rate as a sales result.
 - Replacing a working format because the team is bored. See [format variation ladder](../frameworks/format-variation-ladder.md).
 
+## In other courses
+- RMBC II: [Advertorial Build (RMBC II)](../courses/stefan-georgi/rmbc-ii/frameworks/advertorial-build.md): building an advertorial
+- RMBC II: [Paid Traffic by Platform (Meta, native, Google, TikTok)](../courses/stefan-georgi/rmbc-ii/frameworks/paid-traffic-by-platform.md): native networks (12-02 guest)
+
+Which page owns the topic: [topic map](../topic-map.md).
+
 ## Sources and limitations
 
 The timestamped lessons above support the psychology, examples, story-to-advertorial extension, and testing principles. General terminology and the fictional campaign designs are labeled background/derived applications. There is no native-network account setup, bidding strategy, traffic-quality analysis, tracking implementation, or Test Cream performance claim in this page. Read source-specific caveats before treating an instructor's opinion or anecdote as established fact.

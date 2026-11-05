@@ -6,9 +6,9 @@ module: 03-valence-intensity-model
 order: 3
 video_length: "5:04"
 sources:
-  - raw/tether-lab/_transcripts/3. The Valence & Intensity Model/3.The 4 Emotional Zones (a.k.a Your Target Map).txt
-  - raw/tether-lab/_transcripts/3. The Valence & Intensity Model/3.The 4 Emotional Zones (a.k.a Your Target Map).srt
-  - raw/tether-lab/_extracted/3. The Valence & Intensity Model/3_3_The_4_Emotional_Zones_a_k_a_Your_Target_Map_The_Val.md
+  - knowledge-base/raw/tether-lab/_transcripts/3. The Valence & Intensity Model/3.The 4 Emotional Zones (a.k.a Your Target Map).txt
+  - knowledge-base/raw/tether-lab/_transcripts/3. The Valence & Intensity Model/3.The 4 Emotional Zones (a.k.a Your Target Map).srt
+  - knowledge-base/raw/tether-lab/_extracted/3. The Valence & Intensity Model/3_3_The_4_Emotional_Zones_a_k_a_Your_Target_Map_The_Val.md
 tags: [emotion, valence, intensity, emotional-zones, targeting, ethics]
 updated: 2026-10-20
 ---

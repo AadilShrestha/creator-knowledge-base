@@ -4,11 +4,11 @@ type: library
 creator: sarah-levinger
 course: tether-lab
 sources:
-  - wiki/courses/tether-lab/  # lesson and session "Rules of thumb" sections (timestamps cited per rule)
-  - wiki/concepts/  # concept and heuristic pages' rule bullets
-  - wiki/frameworks/  # framework rule bullets
-  - wiki/resources/diagnose-why-your-ads-arent-working-ebook.md
-  - wiki/tools/chatgpt.md
+  - knowledge-base/wiki/courses/tether-lab/
+  - knowledge-base/wiki/concepts/
+  - knowledge-base/wiki/frameworks/
+  - knowledge-base/wiki/resources/diagnose-why-your-ads-arent-working-ebook.md
+  - knowledge-base/wiki/tools/chatgpt.md
 tags: [library, rules, rulebook, checklist, hooks, copy, emotion, selves, heuristics, visuals, ugc, offers, cta, landing-pages, testing, research, ai, ethics]
 updated: 2026-10-20
 ---
@@ -527,3 +527,10 @@ updated: 2026-10-20
 [c-ingroup]: ../concepts/heuristics/in-group-bias.md
 [c-research]: ../frameworks/customer-research-stack.md
 [c-chatgpt]: ../tools/chatgpt.md
+
+## In other courses
+- Evolve Copywriting: [Rulebook: Evolve Copywriting (canonical DO / DON'T / IF…THEN rules, grouped by job)](../courses/evolve/copywriting/libraries/rules.md): Evolve rules
+- Evolve Start Here: [Rules library: Evolve Start Here (canonical DO / DON'T / IF…THEN rules, every source cited)](../courses/evolve/start-here/libraries/rules.md): Start Here rules
+- RMBC II: [Rules library: RMBC II (canonical DO / DON'T / IF…THEN rules by job, every source cited)](../courses/stefan-georgi/rmbc-ii/libraries/rules.md): RMBC rules, incl. compliance hard stops
+
+Which page owns the topic: [topic map](../topic-map.md).

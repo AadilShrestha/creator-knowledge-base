@@ -5,8 +5,8 @@ niche: skincare-beauty-and-haircare
 sub_niche: "men's natural soap and grooming"
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/5. Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/1. Guest Session 02 Chase Monhseni - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/5. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/1. Guest Session 02 Chase Monhseni - Recordings.txt
 tags: [brand, mens-grooming, soap, humor, brand-voice, core-message, vibe, landing-page-congruence]
 updated: 2026-10-20
 ---

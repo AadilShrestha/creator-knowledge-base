@@ -2,10 +2,12 @@
 title: "Overview"
 type: overview
 sources:
-  - raw/tether-lab/
+  - knowledge-base/raw/tether-lab/
   - knowledge-base/wiki/courses/evolve/copywriting/README.md
+  - knowledge-base/wiki/courses/evolve/start-here/README.md
+  - knowledge-base/wiki/courses/stefan-georgi/rmbc-ii/README.md
 tags: [overview, synthesis]
-updated: 2026-10-21
+updated: 2026-11-05
 ---
 
 # Overview
@@ -26,9 +28,10 @@ updated: 2026-10-21
 |---|---|---|---|
 | [Tether Lab](courses/tether-lab/README.md) | [Sarah Levinger](people/sarah-levinger.md) | ✅ fully ingested: 7 modules, 21 lesson videos, 16 live recordings (≈19 h of video), 9 PDFs, 1 DOCX, ~75 Skool pages | The *psychology* layer: why ads work |
 | [Evolve Copywriting](courses/evolve/copywriting/README.md) | Spencer Pawliw | ✅ fully ingested: 72 lessons (59 videos, ≈14.7 h), 11 DOCX, 1 XLSX, 1 PDF, 72 Skool pages, 104 page images, 9 linked Google Docs | The *copy-craft and iteration* layer: how to write hooks, bridges, scripts and statics, and what to change after a test |
+| [Evolve Start Here](courses/evolve/start-here/README.md) | Spencer Pawliw, Shaun Eng | ✅ fully ingested: 175 lessons, 359/359 sources verified | The *research, media-buying and scaling* layer: research doc, 3:2:2 account structure, KPI thresholds, test labels, scaling, creator programs |
+| [RMBC II](courses/stefan-georgi/rmbc-ii/README.md) | Stefan Georgi (+7 guests) | ✅ fully ingested: 58 lessons, 313/328 sources verified (15 excluded duplicates/defects) | The *long-form direct-response and funnel* layer: research → mechanism → brief → copy with Claude Projects; VSLs, advertorials, PDPs, checkouts, upsells, email, funnel economics, CRO |
 | Zakaria Marketing Masterclass 2026 | Zakaria | ⏳ not yet ingested | Product and market research, avatar research, advertorials, Meta campaigns, UGC engine, copywriting |
-| Stefan Georgi: RMBC II | Stefan Georgi | ⏳ not yet ingested | Research → mechanism → brief → copy; VSLs, advertorials, PDPs, upsells, email |
-| Ecomtalent (Karlo) | Karlo | ⏳ not yet ingested | Making ads and scaling e-commerce brands |
+| Ecomtalent (Karlo) | Karlo | ⏸ paused | Making ads and scaling e-commerce brands |
 
 ## The Tether Lab worldview in 8 lines
 1. People buy with the **fast subconscious** (≈11M bits/s) and justify with the slow conscious mind (≈40 bits/s), so ads must work in about 3 seconds through shortcuts. ([two minds](concepts/subconscious-vs-conscious-mind.md))
@@ -50,7 +53,7 @@ updated: 2026-10-21
 7. Position to be **different, not better**. ([positioning](courses/evolve/copywriting/concepts/positioning.md))
 8. Name the test outcome (loser / KPI winner / spend winner / breakthrough) before iterating, then fix the component that failed. ([iteration outcomes](courses/evolve/copywriting/concepts/iteration-outcomes.md), [iteration playbook](courses/evolve/copywriting/frameworks/iteration-playbook.md))
 
-How the two courses fit together: Tether Lab explains **why** an ad works (psychology lenses); Evolve explains **how to write and iterate** it (copy craft). Use both. Where they disagree, see [contradictions](contradictions.md#cross-creator-tether-lab-vs-evolve-copywriting-29).
+How the four courses fit together: Tether Lab explains **why** an ad works (psychology lenses); Evolve Copywriting explains **how to write and iterate** it (copy craft); Evolve Start Here covers **research, buying, testing and scaling** on Meta; RMBC II covers **what happens after the click** (VSLs, pre-sell pages, PDPs, checkout, upsells, email) and how to produce long copy with Claude. When more than one teaches a topic, the [topic map](topic-map.md) names the owner page; where they disagree, see [contradictions](contradictions.md) (rows X1–X29, S1–S5, R1–R16).
 
 ## How the knowledge base maps onto the UGC pipeline
 
@@ -71,6 +74,8 @@ flowchart LR
 
 Each step also has an Evolve equivalent: [ad idea → brief](courses/evolve/copywriting/playbooks/ad-idea-to-brief.md), [video ad script](courses/evolve/copywriting/playbooks/write-a-video-ad-script.md), [static image ads](courses/evolve/copywriting/playbooks/write-static-image-ads.md), [iterate on test results](courses/evolve/copywriting/playbooks/iterate-on-test-results.md), quality gate [copy checklist scorecard](courses/evolve/copywriting/rubrics/copy-checklist-scorecard.md), and the [Evolve libraries](courses/evolve/copywriting/libraries/README.md).
 
+Two more courses extend the pipeline at both ends. Before it: [Start Here research to first concepts](courses/evolve/start-here/playbooks/research-to-first-concepts.md). After the ad: [RMBC offer to funnel](courses/stefan-georgi/rmbc-ii/playbooks/offer-to-funnel-end-to-end.md) (pages, checkout, upsells, email) and [RMBC write a VSL](courses/stefan-georgi/rmbc-ii/playbooks/write-a-vsl-with-claude.md). Around testing: [Start Here weekly media buying routine](courses/evolve/start-here/playbooks/weekly-media-buying-routine.md) and [RMBC CRO testing](courses/stefan-georgi/rmbc-ii/frameworks/cro-testing.md).
+
 | Pipeline step | Playbook | Frameworks used | Libraries used |
 |---|---|---|---|
 | Tear down competitors | [competitor-ad-teardown](playbooks/competitor-ad-teardown.md), [landscape audit](playbooks/competitor-landscape-audit.md) | V&I diagnostic, three-selves diagnostic, TEEP, Leach mindstates | [ad teardowns](libraries/ad-teardowns.md), [brands](brands/README.md) |
@@ -81,6 +86,7 @@ Each step also has an Evolve equivalent: [ad idea → brief](courses/evolve/copy
 | Test & iterate | [test-and-iterate](playbooks/test-and-iterate.md) | creative testing system, format ladder, 3 Vs | — |
 
 ## Coverage notes and gaps
-- **Format bias:** Tether Lab mostly teaches **static ads** and landing pages. Evolve Copywriting adds a full video-script process ([L70–72](courses/evolve/copywriting/frameworks/video-ad-script-workflow.md)), but it is built for **AI-voiceover + B-roll** ads; on-camera UGC adaptations are marked **(derived)**. Still to ingest: Zakaria's UGC Engine, Karlo, RMBC VSLs.
+- **Format bias:** Tether Lab mostly teaches **static ads** and landing pages. Evolve Copywriting adds a full video-script process ([L70–72](courses/evolve/copywriting/frameworks/video-ad-script-workflow.md)), but it is built for **AI-voiceover + B-roll** ads; on-camera UGC adaptations are marked **(derived)**. RMBC II adds long-form VSLs, advertorials, PDPs and funnels. Still to ingest: Zakaria's UGC Engine and Karlo.
 - **Uncited stats:** Sarah often quotes studies from memory. The pages flag them; never use them as claims in ads.
+- **Invented proof in RMBC examples:** most RMBC II example briefs, VSLs and advertorials contain invented doctors, testimonials, studies and scarcity. Every page marks them structure-only; run the [LLM output claim audit](courses/stefan-georgi/rmbc-ii/rubrics/llm-output-claim-audit.md) on any model draft. RMBC benchmarks are instructor or guest claims, not studies.
 - **Source quality:** transcripts are machine-generated (Whisper large-v3-turbo) with names corrected by hand. The video frames carry a reseller watermark. Quizzes and some promised resources are missing. See [contradictions & open questions](contradictions.md).

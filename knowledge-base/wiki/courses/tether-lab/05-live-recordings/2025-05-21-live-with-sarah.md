@@ -7,10 +7,10 @@ order: 3
 session_date: 2025-05-21
 video_length: "55:12"
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/3. Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/3. Live With Sarah!.srt
-  - raw/tether-lab/_extracted/5. Recordings/May 2025/3_Live_With_Sarah!_May_21,_2025_Recordings_·_Tether_Lab.md
-  - raw/tether-lab/5. Recordings/May 2025/3_Live_With_Sarah!_May_21,_2025_Recordings_·_Tether_Lab.html
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/3. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/3. Live With Sarah!.srt
+  - knowledge-base/raw/tether-lab/_extracted/5. Recordings/May 2025/3_Live_With_Sarah!_May_21,_2025_Recordings_·_Tether_Lab.md
+  - knowledge-base/raw/tether-lab/5. Recordings/May 2025/3_Live_With_Sarah!_May_21,_2025_Recordings_·_Tether_Lab.html
 tags: [live-session, q-and-a, teep-model, account-structure, campaign-structure, creative-testing, statics, generational-targeting, trigger-events, exploration-ads, evaluation-ads, purchase-ads, pixel, algorithm-library, andromeda, b2b, lead-gen, goal-gradient-effect, you-messaging, multi-market, australia, enemy, brand-enemy, introverts, loneliness, nostalgia, high-ticket, perception-management, mattresses, multi-brand-store, category-perception, motivators, triggering-events, validation, impulse-buy, identity-stacking, humor, memes, mirror-effect, parody, ethics, tether-100-challenge]
 updated: 2026-10-20
 ---

@@ -3,8 +3,8 @@ title: "Pain Point Amplification"
 type: concept
 course: tether-lab
 sources:
-  - raw/tether-lab/_extracted/7. The Prompt Library/7_What_If_Scenario_+_Pain_Point_Amplification_The_Promp.md
-  - raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
+  - knowledge-base/raw/tether-lab/_extracted/7. The Prompt Library/7_What_If_Scenario_+_Pain_Point_Amplification_The_Promp.md
+  - knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
 tags: [heuristics, pain-point, agitation, urgency, zone-3, zone-4, prompt-library]
 updated: 2026-10-20
 ---

@@ -6,9 +6,9 @@ module: 02-heuristics-101
 order: 8
 video_length: "5:33"
 sources:
-  - raw/tether-lab/_transcripts/2. Heuristics 101/8. Bonus Get Creative OS(1 month Free)Heuristics 101.txt
-  - raw/tether-lab/_transcripts/2. Heuristics 101/8. Bonus Get Creative OS(1 month Free)Heuristics 101.srt
-  - raw/tether-lab/_extracted/2. Heuristics 101/8_Bonus_Get_CreativeOS_1_Month_Free_Heuristics_101_·_Te.md
+  - knowledge-base/raw/tether-lab/_transcripts/2. Heuristics 101/8. Bonus Get Creative OS(1 month Free)Heuristics 101.txt
+  - knowledge-base/raw/tether-lab/_transcripts/2. Heuristics 101/8. Bonus Get Creative OS(1 month Free)Heuristics 101.srt
+  - knowledge-base/raw/tether-lab/_extracted/2. Heuristics 101/8_Bonus_Get_CreativeOS_1_Month_Free_Heuristics_101_·_Te.md
 tags: [creativeos, tools, static-ads, templates, partner-offer]
 updated: 2026-10-20
 ---

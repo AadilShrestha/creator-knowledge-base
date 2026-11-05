@@ -3,8 +3,8 @@ title: "Pattern Disruption"
 type: concept
 course: tether-lab
 sources:
-  - raw/tether-lab/_extracted/7. The Prompt Library/6_Pattern_Disruption_+_Hidden_Truth_The_Prompt_Library_.md
-  - raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
+  - knowledge-base/raw/tether-lab/_extracted/7. The Prompt Library/6_Pattern_Disruption_+_Hidden_Truth_The_Prompt_Library_.md
+  - knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
 tags: [heuristics, pattern-interrupt, scroll-stop, attention, hooks, prompt-library]
 updated: 2026-10-20
 ---

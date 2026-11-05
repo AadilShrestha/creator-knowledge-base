@@ -8,10 +8,10 @@ session_date: 2025-05-23      # from the Skool recordings post dated May 23 ("th
 video_length: "46:52"
 guest: joanna-wallace
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/1. Guest Session 01 Jonna Wallace!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/1. Guest Session 01 Jonna Wallace!.srt
-  - raw/tether-lab/_extracted/5. Recordings/May 2025/1_Guest_Session_01_Joanna_Wallace!_Recordings_·_Tether_.md
-  - raw/tether-lab/5. Recordings/May 2025/1_Guest_Session_01_Joanna_Wallace!_Recordings_·_Tether_.html
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/1. Guest Session 01 Jonna Wallace!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/1. Guest Session 01 Jonna Wallace!.srt
+  - knowledge-base/raw/tether-lab/_extracted/5. Recordings/May 2025/1_Guest_Session_01_Joanna_Wallace!_Recordings_·_Tether_.md
+  - knowledge-base/raw/tether-lab/5. Recordings/May 2025/1_Guest_Session_01_Joanna_Wallace!_Recordings_·_Tether_.html
 tags: [live-session, guest, humor, comedy, brand-voice, hexclad, gordon-ramsay, review-mining, self-deprecation, sarcasm, absurdism, satire, parody, slapstick, character-driven, mascots, fluency-mechanism, messenger-effect, skeptic-format, acquisition-vs-retention, puns, cursing, objection-handling, hiring, editing]
 updated: 2026-10-20
 ---

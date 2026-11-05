@@ -8,9 +8,9 @@ session_date: 2025-06        # exact day not given in the page text or the recor
 video_length: "1:00:23"
 guest: chase-mohseni
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/1. Guest Session 02 Chase Monhseni - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/1. Guest Session 02 Chase Monhseni - Recordings.srt
-  - raw/tether-lab/_extracted/5. Recordings/June 2025/1_Guest_Session_02_Chase_Mohseni_Recordings_·_Tether_La.md
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/1. Guest Session 02 Chase Monhseni - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/1. Guest Session 02 Chase Monhseni - Recordings.srt
+  - knowledge-base/raw/tether-lab/_extracted/5. Recordings/June 2025/1_Guest_Session_02_Chase_Mohseni_Recordings_·_Tether_La.md
 tags: [live-session, guest, static-ads, creative-testing, iteration, variation, templates, creative-velocity, vibe, ad-to-landing-page-congruence, cac, agency-client-management, ai-tools, creativeos]
 updated: 2026-10-20
 ---

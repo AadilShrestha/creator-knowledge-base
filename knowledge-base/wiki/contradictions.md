@@ -3,13 +3,13 @@ title: "Contradictions & open questions"
 type: overview
 course: tether-lab
 sources:
-  - wiki/courses/tether-lab/05-live-recordings/
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/
 tags: [lint, contradictions, defaults]
-updated: 2026-10-21
+updated: 2026-11-05
 ---
 
 # Contradictions & open questions
-> Places where sources disagree (inside Tether Lab, and between Tether Lab and Evolve Copywriting), with the **default an agent should follow** and the reason. Check here whenever two pages give different advice.
+> Places where sources disagree (inside Tether Lab, and across Tether Lab, Evolve Copywriting, Evolve Start Here and RMBC II), with the **default an agent should follow** and the reason. Check here whenever two pages give different advice.
 
 ## 🤖 Agent use
 - **Use when:** two pages disagree, or before you put any number (batch size, scaling %, stats) into a plan or an ad.
@@ -18,7 +18,7 @@ updated: 2026-10-21
   - **DO** follow the "Agent default" column unless the user or brand context says otherwise.
   - **DO** treat Sarah's uncited statistics (e.g. "+13.6% likability", "5.43× handwritten fonts", "KFC +56%") as anecdotes. Never put them in ad copy.
   - **DON'T** fabricate proof, scarcity or badge numbers, even where a session seems to tolerate it (row 10).
-- **See also:** [rules library](libraries/rules.md), [creative testing system](frameworks/creative-testing-system.md), [TEEP journey](frameworks/teep-journey.md).
+- **See also:** [topic map](topic-map.md) (which course owns each topic), [rules library](libraries/rules.md), [creative testing system](frameworks/creative-testing-system.md), [TEEP journey](frameworks/teep-journey.md).
 
 S = session page links: [May 7](courses/tether-lab/05-live-recordings/2025-05-07-live-with-sarah.md) · [May 14](courses/tether-lab/05-live-recordings/2025-05-14-live-with-sarah.md) · [May 21](courses/tether-lab/05-live-recordings/2025-05-21-live-with-sarah.md) · [Roast #1](courses/tether-lab/05-live-recordings/2025-05-28-roast-my-ads-1.md) · [Jun 4](courses/tether-lab/05-live-recordings/2025-06-04-live-with-sarah.md) · [Jun 11](courses/tether-lab/05-live-recordings/2025-06-11-live-with-sarah.md) · [Jun 18](courses/tether-lab/05-live-recordings/2025-06-18-live-with-sarah.md) · [Chase](courses/tether-lab/05-live-recordings/2025-06-guest-session-02-chase-mohseni.md) · [Roast #2](courses/tether-lab/05-live-recordings/2025-06-25-roast-my-ads-2.md) · [Jul 2](courses/tether-lab/05-live-recordings/2025-07-02-live-with-sarah.md) · [Jul 9](courses/tether-lab/05-live-recordings/2025-07-09-live-with-sarah.md) · [Jul 16](courses/tether-lab/05-live-recordings/2025-07-16-live-with-sarah.md) · [Roast #3](courses/tether-lab/05-live-recordings/2025-07-23-roast-my-ads-3.md)
 
@@ -87,6 +87,39 @@ Added 2026-10-21 with the [Evolve Copywriting](courses/evolve/copywriting/README
 | X27 | Avatars vs selves as the unit of targeting | use Evolve's avatar → angle as the brief's spine; tag each variant with a Tether self and rotate selves within a proven angle; keep cold ads on Actual/Ideal. |
 | X28 | Core message in frame 1 vs withholding in the hook | frame 1 must make the problem or payoff clear enough for the right viewer to self-select; the product/mechanism may be withheld until the bridge; use a promise hook (core message up front) when the context is itself interesting. |
 | X29 | How many open loops in a short ad | one main loop from hook to payoff; line-to-line micro-curiosity ("But that's not the real problem…") is fine if each closes within a line or two and never competes with the main question. |
+
+## Cross-creator: Evolve Start Here vs Tether Lab and Evolve Copywriting (5)
+Added 2026-11-05 from the [Evolve Start Here](courses/evolve/start-here/README.md) ingest. Evidence for both sides: [Start Here contradictions, cross-course rows 1–5](courses/evolve/start-here/contradictions.md#cross-course-evolve-copywriting-and-tether-lab-5), same numbering. Start Here's internal conflicts (budgets, labels, creators, scaling) are listed there too.
+
+| # | Topic | Agent default |
+|---|---|---|
+| S1 | Single-variable testing (Tether) vs bigger swings (Start Here) | bigger swings for new angles; one-variable tweaks only inside a Sniper round on a proven winner ([Marksman / Sniper](courses/evolve/start-here/concepts/marksman-sniper-testing.md)). |
+| S2 | Avatar card: belief field (Copywriting) vs Core 5 (Start Here) | use the Core 5 record; put the belief into the hook brief ([core and sub-avatars](courses/evolve/start-here/concepts/core-and-sub-avatars.md)). |
+| S3 | What counts as a hit | report both rates; manage the team on the breakthrough hit rate ([winning-ad labels](courses/evolve/start-here/concepts/winning-ad-labels.md)). |
+| S4 | Creator briefs: framework or script? | Start Here framework brief for sourcing and ambassadors; the Tether [creator brief](playbooks/creator-brief.md) to re-shoot one tested script; both lock the claims. |
+| S5 | Scale-up step: +20%/24 h (Start Here) vs +10–15%/day (Tether) | +20% on an evergreen CBO with ≥60% click-based purchases; Tether's smaller steps when the click-based share or CPA stability is in doubt (derived) ([scaling rules](courses/evolve/start-here/frameworks/scaling-rules.md)). |
+
+## Cross-creator: RMBC II vs Evolve and Tether Lab (16)
+Added 2026-11-05 from the [RMBC II](courses/stefan-georgi/rmbc-ii/README.md) ingest. R1–R6 evidence: [RMBC contradictions, "RMBC vs Evolve"](courses/stefan-georgi/rmbc-ii/contradictions.md#rmbc-vs-evolve-6), same numbering. R7–R15 evidence: [RMBC shared integration notes](courses/stefan-georgi/rmbc-ii/MERGE-NOTES.md#conflicts-with-evolve). R16 lists course tactics an agent must not execute.
+
+| # | Topic | Agent default |
+|---|---|---|
+| R1 | Which awareness stage to aim at; unaware ads | run the RMBC awareness prompt on the real market; launch cold direct response at problem/solution aware; run unaware ads as a deliberate scale test with the education built in. |
+| R2 | Who invents the unique mechanism | Evolve component inventory first, then LLM ideation fed the real ingredient/feature list; keep a candidate only if the mechanism maps to a real ingredient, feature or process and the cause has a source. |
+| R3 | Customer language: LLM deep-research quotes vs real reviews (Evolve, Tether) | LLM quotes are leads; only sourced, real language (platform, date) goes into copy. |
+| R4 | How finished an AI draft is ("98%" vs "70, 80%") | plan editing as if the draft is 70–80% done; run the [LLM output claim audit](courses/stefan-georgi/rmbc-ii/rubrics/llm-output-claim-audit.md) every time. |
+| R5 | Hook density: stacked, fast-moving opening vs one sticky hook + bridge (Evolve) and one core emotion (Tether) | single hook + bridge and one emotional promise for UGC/product ads; for sell-the-click ads to a VSL, test a stacked opening as a variant against a single-hook control. |
+| R6 | Hook iteration volume | swap hooks at volume on new bodies; on a fading winner, diagnose components, bridge and page before adding hooks. |
+| R7 | Page choice: by what the ad revealed (RMBC) vs by awareness level (Start Here) | RMBC decides whether a pre-sell is needed and how long; Start Here decides what to split-test; never change ad and page in one test. |
+| R8 | Page-test method: on-site split (RMBC guest) vs 3:2:2:2 duplicated ads (Start Here) | on-site URL split for page decisions; 3:2:2:2 as a page-fit signal only. |
+| R9 | LTV in bidding | judge on day-0 gross profit and blended CPA/ROAS; LTV only with our own cohort data and cash runway. |
+| R10 | Meta account structure: test every campaign type (RMBC guest) vs one broad CBO (Start Here) | Start Here 3:2:2; the RMBC 16-02 view is one guest's opinion. |
+| R11 | TikTok test structure | 3:2:2 on Meta; the RMBC 12-04 guest's weekly-batch structure on TikTok. |
+| R12 | Soft metrics (VSL engagement, native CTR) vs decide on ROAS/CPA | decide on CPA, ROAS or earnings per session; use engagement metrics only to find the leak. |
+| R13 | Brief: Brief 2.0 (25-field long-form) vs short creative brief | single UGC ad → Evolve/Tether brief; VSL or multi-asset funnel → [Brief 2.0](courses/stefan-georgi/rmbc-ii/concepts/brief-2-0.md) first, then fill the creator brief from its verified fields. |
+| R14 | Authority: named experts and doctors (RMBC) vs validation over authority (Tether) | real peer validation first; an expert only if real, named with consent and verifiable. |
+| R15 | Competitor assets: 05-05 close swipe vs composite and remix | composite by default; Tether's [angle remix](playbooks/angle-remix.md) fidelity check replaces any swipe (see X22). |
+| R16 | ⛔ Course tactics that break the never-invent-proof rule ("it's an editorial", invented doctors and testimonials, fake scarcity, hidden subscriptions, manipulated list prices, deepfakes) | never execute; use the compliant alternative in [RMBC compliance hard stops 1–10](courses/stefan-georgi/rmbc-ii/contradictions.md#compliance-hard-stops-10). |
 
 ## Terminology slips (Sarah's wording vs the research term)
 - "Differentiation effect" / "distinction bias" → **Von Restorff effect** ([page](concepts/heuristics/von-restorff-effect.md)).

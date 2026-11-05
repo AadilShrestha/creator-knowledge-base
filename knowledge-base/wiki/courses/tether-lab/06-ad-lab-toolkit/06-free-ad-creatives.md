@@ -5,9 +5,9 @@ course: tether-lab
 module: 06-ad-lab-toolkit
 order: 6
 sources:
-  - raw/tether-lab/6. The Ad Lab Toolkit/6_FREE_Ad_Creatives_🤩_The_Ad_Lab_Toolkit_·_Tether_Lab.html
-  - raw/tether-lab/_extracted/6. The Ad Lab Toolkit/6_FREE_Ad_Creatives_🤩_The_Ad_Lab_Toolkit_·_Tether_Lab.md
-  - raw/tether-lab/_extracted/6. The Ad Lab Toolkit/7_Creative_OS_1_Month_FREE_🤩_The_Ad_Lab_Toolkit_·_Tethe.md
+  - knowledge-base/raw/tether-lab/6. The Ad Lab Toolkit/6_FREE_Ad_Creatives_🤩_The_Ad_Lab_Toolkit_·_Tether_Lab.html
+  - knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/6_FREE_Ad_Creatives_🤩_The_Ad_Lab_Toolkit_·_Tether_Lab.md
+  - knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/7_Creative_OS_1_Month_FREE_🤩_The_Ad_Lab_Toolkit_·_Tethe.md
 tags: [toolkit, creativeos, templates, static-ads, partner-offer]
 updated: 2026-10-20
 ---

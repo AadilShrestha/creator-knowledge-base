@@ -3,7 +3,7 @@ title: "ElevenLabs"
 type: tool
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/4.Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/4.Live With Sarah!.txt
 tags: [tool, ai-voice, voiceover, production, low-budget, ugc]
 updated: 2026-10-20
 ---

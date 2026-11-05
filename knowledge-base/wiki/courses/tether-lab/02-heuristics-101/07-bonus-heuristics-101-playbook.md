@@ -5,9 +5,9 @@ course: tether-lab
 module: 02-heuristics-101
 order: 7
 sources:
-  - raw/tether-lab/_extracted/2. Heuristics 101/7_Bonus_Heuristics_101_Playbook_Heuristics_101_·_Tether.md
-  - raw/tether-lab/2. Heuristics 101/7. Heuristics 101 e-book.pdf
-  - raw/tether-lab/_extracted/2. Heuristics 101/7. Heuristics 101 e-book.md
+  - knowledge-base/raw/tether-lab/_extracted/2. Heuristics 101/7_Bonus_Heuristics_101_Playbook_Heuristics_101_·_Tether.md
+  - knowledge-base/raw/tether-lab/2. Heuristics 101/7. Heuristics 101 e-book.pdf
+  - knowledge-base/raw/tether-lab/_extracted/2. Heuristics 101/7. Heuristics 101 e-book.md
 tags: [heuristics, ebook, playbook, cheat-sheet]
 updated: 2026-10-20
 ---

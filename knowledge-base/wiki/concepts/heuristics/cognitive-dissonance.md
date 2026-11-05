@@ -4,11 +4,11 @@ type: concept
 course: tether-lab
 aliases: ["Belief conflict", "Message congruence"]
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/4. Live With Sarah! - July 02, 2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/2. Roast my Ads #1.txt
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/2. Roast My Ads #2 - June 25,2025 - Recordings.txt
-  - raw/tether-lab/_extracted/7. The Prompt Library/13_Counterintuitive_Insight_+_Specificity_The_Prompt_Li.md
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/4. Live With Sarah! - July 02, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/2. Roast my Ads #1.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/2. Roast My Ads #2 - June 25,2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_extracted/7. The Prompt Library/13_Counterintuitive_Insight_+_Specificity_The_Prompt_Li.md
 tags: [heuristics, cognitive-dissonance, core-beliefs, congruence, claims, message-order, use-case]
 updated: 2026-10-20
 ---

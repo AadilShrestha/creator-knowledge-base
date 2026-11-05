@@ -180,3 +180,10 @@ Short verbatim prompt (Visual Words, [L59](../lessons/59-visual-words.md)): "Rea
 
 ## Related
 [Labels and customer language](labels-and-customer-language.md) · [Facts over opinions](facts-over-opinions.md) · [Compression and plain language](compression-and-plain-language.md) · [Show, don't tell](show-dont-tell.md) · [Positioning](positioning.md) · [Iteration outcomes](iteration-outcomes.md) · [Value words / Big 4](value-words-big-4.md) · [Iteration playbook](../frameworks/iteration-playbook.md) · [Write a video ad script](../playbooks/write-a-video-ad-script.md) · [Write static image ads](../playbooks/write-static-image-ads.md) · [Iterate on test results](../playbooks/iterate-on-test-results.md)
+
+## In other courses
+- RMBC II: [The Claude Project recipe](../../../stefan-georgi/rmbc-ii/concepts/claude-project-recipe.md): Claude Project setup
+- RMBC II: [LLM copy-chief editing](../../../stefan-georgi/rmbc-ii/concepts/llm-copy-chief-editing.md): editing loop for model drafts (R4)
+- RMBC II: [LLM output claim audit (mandatory gate before any RMBC draft is used)](../../../stefan-georgi/rmbc-ii/rubrics/llm-output-claim-audit.md): claim audit
+
+Which page owns the topic: [topic map](../../../../topic-map.md).

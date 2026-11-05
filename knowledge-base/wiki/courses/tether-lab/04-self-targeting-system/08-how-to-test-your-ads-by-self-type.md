@@ -6,9 +6,9 @@ module: 04-self-targeting-system
 order: 8
 video_length: "6:28"
 sources:
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/8. How to Test Your Ads By Self Type.txt
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/8. How to Test Your Ads By Self Type.srt
-  - raw/tether-lab/_extracted/4. The Self Targeting System/8_8_How_to_Test_Your_Ads_by_Self_Type_The_Self_Targetin.md
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/8. How to Test Your Ads By Self Type.txt
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/8. How to Test Your Ads By Self Type.srt
+  - knowledge-base/raw/tether-lab/_extracted/4. The Self Targeting System/8_8_How_to_Test_Your_Ads_by_Self_Type_The_Self_Targetin.md
 tags: [testing, media-buying, ctr, aov, ltv, three-selves, scaling]
 updated: 2026-10-20
 ---

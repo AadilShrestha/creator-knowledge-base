@@ -5,10 +5,10 @@ course: tether-lab
 module: 07-prompt-library
 order: 13
 sources:
-  - raw/tether-lab/7. The Prompt Library/13_Counterintuitive_Insight_+_Specificity_The_Prompt_Li.html
-  - raw/tether-lab/_extracted/7. The Prompt Library/13_Counterintuitive_Insight_+_Specificity_The_Prompt_Li.md
-  - raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
-  - raw/tether-lab/_transcripts/6. The Ad Lab Toolkit/4. The Prompt Library.txt
+  - knowledge-base/raw/tether-lab/7. The Prompt Library/13_Counterintuitive_Insight_+_Specificity_The_Prompt_Li.html
+  - knowledge-base/raw/tether-lab/_extracted/7. The Prompt Library/13_Counterintuitive_Insight_+_Specificity_The_Prompt_Li.md
+  - knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
+  - knowledge-base/raw/tether-lab/_transcripts/6. The Ad Lab Toolkit/4. The Prompt Library.txt
 tags: [prompt, prompt-library, counterintuitive, myth-vs-truth, specificity, cognitive-dissonance, education, ad-concepts]
 updated: 2026-10-20
 ---

@@ -7,10 +7,10 @@ order: 4
 session_date: 2025-05-14
 video_length: "1:07:56"
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/4.Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/4.Live With Sarah!.srt
-  - raw/tether-lab/_extracted/5. Recordings/May 2025/4_Live_With_Sarah!_May_14,_2025_Recordings_·_Tether_Lab.md
-  - raw/tether-lab/5. Recordings/May 2025/4_Live_With_Sarah!_May_14,_2025_Recordings_·_Tether_Lab.html
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/4.Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/4.Live With Sarah!.srt
+  - knowledge-base/raw/tether-lab/_extracted/5. Recordings/May 2025/4_Live_With_Sarah!_May_14,_2025_Recordings_·_Tether_Lab.md
+  - knowledge-base/raw/tether-lab/5. Recordings/May 2025/4_Live_With_Sarah!_May_14,_2025_Recordings_·_Tether_Lab.html
 tags: [live-session, mini-training, storytelling, story-frameworks, ugc-scripts, script-writing, chatgpt, prompts, pixar-story-framework, heros-journey, freytags-pyramid, monomyth, in-medias-res, scqa, aida, pas, storybrand, fichtean-curve, seven-basic-plots, story-spine, dramatic-arc, three-act-structure, founder-story, voiceover, elevenlabs, ai-ugc, creatify, pacing, video-length, advertorials, fluency-mechanism, realism, maelove, pet-brand, dental-chews, diabetic-ice-cream]
 updated: 2026-10-20
 ---

@@ -5,11 +5,11 @@ course: tether-lab
 module: 04-self-targeting-system
 order: 4
 sources:
-  - "raw/tether-lab/_extracted/4. The Self Targeting System/9. 9._Quiz!_-_The_Self_Targeting_System_·_Tether_Lab.md"
-  - "raw/tether-lab/_extracted/4. The Self Targeting System/12_Bonus_Get_CreativeOS_1_Month_Free_The_Self_Targeting.md"
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/
-  - raw/tether-lab/_extracted/4. The Self Targeting System/
-  - raw/tether-lab/4. The Self Targeting System/
+  - "knowledge-base/raw/tether-lab/_extracted/4. The Self Targeting System/9. 9._Quiz!_-_The_Self_Targeting_System_·_Tether_Lab.md"
+  - "knowledge-base/raw/tether-lab/_extracted/4. The Self Targeting System/12_Bonus_Get_CreativeOS_1_Month_Free_The_Self_Targeting.md"
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/
+  - knowledge-base/raw/tether-lab/_extracted/4. The Self Targeting System/
+  - knowledge-base/raw/tether-lab/4. The Self Targeting System/
 tags: [three-selves, self-discrepancy-theory, angle-rut, ad-fatigue, self-targeting, testing, prompts]
 updated: 2026-10-20
 ---

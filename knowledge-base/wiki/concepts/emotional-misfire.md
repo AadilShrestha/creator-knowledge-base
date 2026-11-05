@@ -4,10 +4,10 @@ type: concept
 course: tether-lab
 module: 03-valence-intensity-model
 sources:
-  - raw/tether-lab/_transcripts/3. The Valence & Intensity Model/1. The Real Reason Your Ad Isn't Working.txt
-  - raw/tether-lab/_transcripts/3. The Valence & Intensity Model/4. Diagnosing Emotional Misfires.txt
-  - raw/tether-lab/_transcripts/3. The Valence & Intensity Model/6. Map + Move Your Messaging.txt
-  - raw/tether-lab/_extracted/3. The Valence & Intensity Model/8. Diagnose Why Your Ads Aren't Working.md
+  - knowledge-base/raw/tether-lab/_transcripts/3. The Valence & Intensity Model/1. The Real Reason Your Ad Isn't Working.txt
+  - knowledge-base/raw/tether-lab/_transcripts/3. The Valence & Intensity Model/4. Diagnosing Emotional Misfires.txt
+  - knowledge-base/raw/tether-lab/_transcripts/3. The Valence & Intensity Model/6. Map + Move Your Messaging.txt
+  - knowledge-base/raw/tether-lab/_extracted/3. The Valence & Intensity Model/8. Diagnose Why Your Ads Aren't Working.md
 tags: [emotion, emotional-misfire, diagnosis, ad-performance]
 updated: 2026-10-20
 ---

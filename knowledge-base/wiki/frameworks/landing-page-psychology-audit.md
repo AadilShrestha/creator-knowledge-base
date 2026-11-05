@@ -4,12 +4,12 @@ type: framework
 course: tether-lab
 module: 05-live-recordings
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/2. Roast My Ads #2 - June 25,2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/3. Live With Sarah! - July 09, 2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/1. Roast My Ads #3 July 23, 2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/2. Roast my Ads #1.txt
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/1. Guest Session 02 Chase Monhseni - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/2. Roast My Ads #2 - June 25,2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/3. Live With Sarah! - July 09, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/1. Roast My Ads #3 July 23, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/2. Roast my Ads #1.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/1. Guest Session 02 Chase Monhseni - Recordings.txt
 tags: [framework, landing-page, pdp, cro, cognitive-load, choice-overload, messaging, cta, buy-box, pricing-psychology, ad-landing-page-congruence, fogg-behavior-model]
 updated: 2026-10-20
 ---
@@ -256,3 +256,10 @@ Badges, bundles, time framing and subscription wording for the buy box: [Offer &
 
 ## Related
 [Fogg Behavior Model](fogg-behavior-model.md) · [Offer & bundle psychology](offer-and-bundle-psychology.md) · [Visual weight hierarchy](visual-weight-hierarchy.md) · [Three Vs of creative](three-vs-of-creative.md) · [Creative testing system](creative-testing-system.md) · [Valence-intensity diagnostic](valence-intensity-diagnostic.md) · [Three selves diagnostic](three-selves-diagnostic.md) · [Cognitive load](../concepts/heuristics/cognitive-load.md) · [Choice overload](../concepts/heuristics/choice-overload.md) · [Processing fluency](../concepts/heuristics/processing-fluency.md) · [Salience bias](../concepts/heuristics/salience-bias.md) · [Social proof](../concepts/heuristics/social-proof.md) · [Authority bias](../concepts/heuristics/authority-bias.md) · [Anchoring effect](../concepts/heuristics/anchoring-effect.md) · [Active CTA language](../concepts/active-cta-language.md) · [CreativeOS](../tools/creativeos.md) · [Sarah Levinger](../people/sarah-levinger.md)
+
+## In other courses
+- RMBC II: [PDP Build (outline-extract → swipe → copy-chief → test)](../courses/stefan-georgi/rmbc-ii/frameworks/pdp-build.md): building the PDP this audit scores
+- RMBC II: [Congruence (topic and experience match across ad, page, checkout and upsell)](../courses/stefan-georgi/rmbc-ii/concepts/congruence.md): ad-to-page congruence
+- Evolve Start Here: [Market awareness levels (Start Here specifics: per-level jobs, comparison rule, awareness × page type)](../courses/evolve/start-here/concepts/market-awareness-levels.md): awareness × page-type matrix
+
+Which page owns the topic: [topic map](../topic-map.md).

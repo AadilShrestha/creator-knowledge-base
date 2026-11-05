@@ -5,7 +5,7 @@ niche: supplements-and-health
 sub_niche: "greens powder"
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/4.Live With Sarah! - June 11, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/4.Live With Sarah! - June 11, 2025 - Recordings.txt
 tags: [brand, supplements, greens-powder, emotional-stagnation, zone-1, authority-bias, comparison, before-after, offer, bundle, ugc-style-static, competitor-research]
 updated: 2026-10-20
 ---

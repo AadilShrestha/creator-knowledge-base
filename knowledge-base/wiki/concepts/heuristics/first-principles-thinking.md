@@ -3,8 +3,8 @@ title: "First Principles Thinking"
 type: concept
 course: tether-lab
 sources:
-  - raw/tether-lab/_extracted/7. The Prompt Library/1_First_Principles_Thinking_+_Loss_Aversion_The_Prompt_.md
-  - raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
+  - knowledge-base/raw/tether-lab/_extracted/7. The Prompt Library/1_First_Principles_Thinking_+_Loss_Aversion_The_Prompt_.md
+  - knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
 tags: [heuristics, persuasion-lever, first-principles, belief-change, contrarian, prompt-library]
 updated: 2026-10-20
 ---

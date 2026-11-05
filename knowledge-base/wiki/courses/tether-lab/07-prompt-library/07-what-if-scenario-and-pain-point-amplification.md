@@ -5,10 +5,10 @@ course: tether-lab
 module: 07-prompt-library
 order: 7
 sources:
-  - raw/tether-lab/7. The Prompt Library/7_What_If_Scenario_+_Pain_Point_Amplification_The_Promp.html
-  - raw/tether-lab/_extracted/7. The Prompt Library/7_What_If_Scenario_+_Pain_Point_Amplification_The_Promp.md
-  - raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
-  - raw/tether-lab/_transcripts/6. The Ad Lab Toolkit/4. The Prompt Library.txt
+  - knowledge-base/raw/tether-lab/7. The Prompt Library/7_What_If_Scenario_+_Pain_Point_Amplification_The_Promp.html
+  - knowledge-base/raw/tether-lab/_extracted/7. The Prompt Library/7_What_If_Scenario_+_Pain_Point_Amplification_The_Promp.md
+  - knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
+  - knowledge-base/raw/tether-lab/_transcripts/6. The Ad Lab Toolkit/4. The Prompt Library.txt
 tags: [prompt, prompt-library, what-if, pain-point, agitation, cost-of-inaction, high-ticket, ad-concepts]
 updated: 2026-10-20
 ---

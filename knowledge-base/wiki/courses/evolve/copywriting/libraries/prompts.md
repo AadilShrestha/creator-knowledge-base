@@ -120,3 +120,9 @@ Lesson 37's Angles, Static Ads and Video Ads prompts **are** available, as P10, 
 - **Indexed:** 26 prompt rows (P01–P26): 8 written prompts, 2 skills / tools, 16 live instructions; plus 9 named-but-unavailable prompts.
 - **Deliberately not duplicated:** the long prompts (P02, P04, P06, P09, P10, P19) stay on their lesson pages; only P05 and P08 are short enough to quote.
 - **Lesson 36** explains why the program first shipped without prompts; later lessons supply them. Treat that as context, not a conflict: the rule is still "AI is not the strategy". [L36 00:00-00:44](../lessons/36-what-about-ai.md)
+
+## In other courses
+- Evolve Start Here: [Prompts library: every AI prompt in Evolve Start Here (verbatim, grouped by pipeline step)](../../start-here/libraries/prompts.md): Start Here prompts
+- RMBC II: [RMBC II prompt library: every prompt and Claude Project instruction, by pipeline stage](../../../stefan-georgi/rmbc-ii/libraries/prompts.md): RMBC prompts
+
+Which page owns the topic: [topic map](../../../../topic-map.md).

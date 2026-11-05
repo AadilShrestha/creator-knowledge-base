@@ -5,7 +5,7 @@ course: tether-lab
 module: 01-start-here
 order: 3
 sources:
-  - raw/tether-lab/_extracted/1. Start Here/3. 3️⃣_Start_learning!_-_Start_Here_·_Tether_Lab.md
+  - knowledge-base/raw/tether-lab/_extracted/1. Start Here/3. 3️⃣_Start_learning!_-_Start_Here_·_Tether_Lab.md
 tags: [onboarding, learning-path, gamification]
 updated: 2026-10-20
 ---

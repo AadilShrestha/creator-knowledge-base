@@ -172,3 +172,8 @@ Real before/after pairs from the course deck (labels are the instructor's, on li
 
 ## Related
 [Ten-step iteration learnings](../frameworks/ten-step-iteration-learnings.md) · [Iteration issue codes](../frameworks/iteration-issue-codes.md) · [Iteration playbook](../frameworks/iteration-playbook.md) · [Nine-component audit](../frameworks/nine-component-audit.md) · [Iterate on test results](../playbooks/iterate-on-test-results.md) · [Raising the stakes](raising-the-stakes.md) · [Bridges](bridges.md) · [Hooks](hooks.md) · [Beliefs](beliefs.md) · [Positioning](positioning.md) · [Market awareness](market-awareness.md) · [Ad teardowns library](../libraries/ad-teardowns.md) · [Rewrites library](../libraries/rewrites.md) · [Native advertising (shared)](../../../../concepts/native-advertising.md) · [Format variation ladder (Tether Lab)](../../../../frameworks/format-variation-ladder.md)
+
+## In other courses
+- Evolve Start Here: [Winning-ad labels (Breakthrough / Spend Winner / KPI Winner / Loser) with tier thresholds](../../start-here/concepts/winning-ad-labels.md): label thresholds by spend share (S3)
+
+Which page owns the topic: [topic map](../../../../topic-map.md).

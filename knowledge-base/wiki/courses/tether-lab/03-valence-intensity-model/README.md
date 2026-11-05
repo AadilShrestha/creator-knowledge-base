@@ -5,16 +5,16 @@ course: tether-lab
 module: 03-valence-intensity-model
 order: 3
 sources:
-  - raw/tether-lab/_transcripts/3. The Valence & Intensity Model/1. The Real Reason Your Ad Isn't Working.txt
-  - raw/tether-lab/_transcripts/3. The Valence & Intensity Model/2.Understanding Valence & Intensity.txt
-  - raw/tether-lab/_transcripts/3. The Valence & Intensity Model/3.The 4 Emotional Zones (a.k.a Your Target Map).txt
-  - raw/tether-lab/_transcripts/3. The Valence & Intensity Model/4. Diagnosing Emotional Misfires.txt
-  - raw/tether-lab/_transcripts/3. The Valence & Intensity Model/5. Fixing The Tone Without Rebuilding the ad.txt
-  - raw/tether-lab/_transcripts/3. The Valence & Intensity Model/6. Map + Move Your Messaging.txt
-  - raw/tether-lab/_extracted/3. The Valence & Intensity Model/7_7_Quiz!_The_Valence_&_Intensity_Model_·_Tether_Lab.md
-  - raw/tether-lab/_extracted/3. The Valence & Intensity Model/8. Diagnose Why Your Ads Aren't Working.md
-  - raw/tether-lab/_extracted/3. The Valence & Intensity Model/9. Valence + Intensity - Prompts.md
-  - raw/tether-lab/_extracted/3. The Valence & Intensity Model/10_Bonus_Get_CreativeOS_1_Month_Free_The_Valence_&_Inte.md
+  - knowledge-base/raw/tether-lab/_transcripts/3. The Valence & Intensity Model/1. The Real Reason Your Ad Isn't Working.txt
+  - knowledge-base/raw/tether-lab/_transcripts/3. The Valence & Intensity Model/2.Understanding Valence & Intensity.txt
+  - knowledge-base/raw/tether-lab/_transcripts/3. The Valence & Intensity Model/3.The 4 Emotional Zones (a.k.a Your Target Map).txt
+  - knowledge-base/raw/tether-lab/_transcripts/3. The Valence & Intensity Model/4. Diagnosing Emotional Misfires.txt
+  - knowledge-base/raw/tether-lab/_transcripts/3. The Valence & Intensity Model/5. Fixing The Tone Without Rebuilding the ad.txt
+  - knowledge-base/raw/tether-lab/_transcripts/3. The Valence & Intensity Model/6. Map + Move Your Messaging.txt
+  - knowledge-base/raw/tether-lab/_extracted/3. The Valence & Intensity Model/7_7_Quiz!_The_Valence_&_Intensity_Model_·_Tether_Lab.md
+  - knowledge-base/raw/tether-lab/_extracted/3. The Valence & Intensity Model/8. Diagnose Why Your Ads Aren't Working.md
+  - knowledge-base/raw/tether-lab/_extracted/3. The Valence & Intensity Model/9. Valence + Intensity - Prompts.md
+  - knowledge-base/raw/tether-lab/_extracted/3. The Valence & Intensity Model/10_Bonus_Get_CreativeOS_1_Month_Free_The_Valence_&_Inte.md
 tags: [emotion, valence, intensity, diagnosis, ad-creative, copywriting, prompts]
 updated: 2026-10-20
 ---

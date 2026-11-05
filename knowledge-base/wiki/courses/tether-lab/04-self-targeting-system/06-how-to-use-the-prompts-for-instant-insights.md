@@ -6,10 +6,10 @@ module: 04-self-targeting-system
 order: 6
 video_length: "8:44"
 sources:
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/6. How to Use The Prompts For Instant Insights.txt
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/6. How to Use The Prompts For Instant Insights.srt
-  - raw/tether-lab/_extracted/4. The Self Targeting System/6_6_How_to_Use_the_Prompts_for_Instant_Insights_The_Sel.md
-  - raw/tether-lab/_extracted/4. The Self Targeting System/11. 3-Selves Course - Prompts.md
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/6. How to Use The Prompts For Instant Insights.txt
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/6. How to Use The Prompts For Instant Insights.srt
+  - knowledge-base/raw/tether-lab/_extracted/4. The Self Targeting System/6_6_How_to_Use_the_Prompts_for_Instant_Insights_The_Sel.md
+  - knowledge-base/raw/tether-lab/_extracted/4. The Self Targeting System/11. 3-Selves Course - Prompts.md
 tags: [prompts, chatgpt, tutorial, three-selves-diagnostic, high-camp-flasks, valence, intensity]
 updated: 2026-10-20
 ---

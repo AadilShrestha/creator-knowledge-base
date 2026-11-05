@@ -5,10 +5,10 @@ course: tether-lab
 module: 07-prompt-library
 order: 14
 sources:
-  - raw/tether-lab/7. The Prompt Library/14_Reframing_Perception_+_Emotional_Trigger_The_Prompt_.html
-  - raw/tether-lab/_extracted/7. The Prompt Library/14_Reframing_Perception_+_Emotional_Trigger_The_Prompt_.md
-  - raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
-  - raw/tether-lab/_transcripts/6. The Ad Lab Toolkit/4. The Prompt Library.txt
+  - knowledge-base/raw/tether-lab/7. The Prompt Library/14_Reframing_Perception_+_Emotional_Trigger_The_Prompt_.html
+  - knowledge-base/raw/tether-lab/_extracted/7. The Prompt Library/14_Reframing_Perception_+_Emotional_Trigger_The_Prompt_.md
+  - knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
+  - knowledge-base/raw/tether-lab/_transcripts/6. The Ad Lab Toolkit/4. The Prompt Library.txt
 tags: [prompt, prompt-library, reframing, emotional-trigger, belief-change, validation, ad-concepts]
 updated: 2026-10-20
 ---

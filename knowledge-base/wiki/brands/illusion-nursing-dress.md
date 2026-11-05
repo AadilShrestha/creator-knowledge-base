@@ -5,7 +5,7 @@ niche: apparel-and-accessories
 sub_niche: "nursing / postpartum dresses ($118)"
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/2. Roast My Ads #2 - June 25,2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/2. Roast My Ads #2 - June 25,2025 - Recordings.txt
 tags: [brand, nursing-dress, maternity, postpartum, moms, landing-page, salience-bias, context-priming, processing-fluency, framing-effect, social-proof, scarcity-heuristic, cta-placement, section-order]
 updated: 2026-10-20
 ---

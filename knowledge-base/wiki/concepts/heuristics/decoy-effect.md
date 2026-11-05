@@ -4,8 +4,8 @@ type: concept
 course: tether-lab
 aliases: ["Asymmetric dominance", "Three-option pricing"]
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/4. Live With Sarah! - July 02, 2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/3. Live With Sarah! - July 09, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/4. Live With Sarah! - July 02, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/3. Live With Sarah! - July 09, 2025 - Recordings.txt
 tags: [heuristics, decoy-effect, bundles, choice-architecture, pricing-psychology, aov]
 updated: 2026-10-20
 ---

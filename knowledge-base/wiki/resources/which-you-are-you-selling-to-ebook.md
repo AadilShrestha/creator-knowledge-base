@@ -4,10 +4,10 @@ type: resource
 course: tether-lab
 module: 04-self-targeting-system
 sources:
-  - raw/tether-lab/4. The Self Targeting System/10. eBook Which ‘You’ Are You Selling To (2).pdf
-  - raw/tether-lab/_extracted/4. The Self Targeting System/10. eBook Which ‘You’ Are You Selling To (2).md
-  - raw/tether-lab/_extracted/4. The Self Targeting System/10_Bonus_Which_'You'_Are_You_Selling_To_Playbook_The_Se.md
-  - raw/assets/tether-lab/pdf-pages/10-eBook-Which-You-Are-You-Selling-To-2/
+  - knowledge-base/raw/tether-lab/4. The Self Targeting System/10. eBook Which ‘You’ Are You Selling To (2).pdf
+  - knowledge-base/raw/tether-lab/_extracted/4. The Self Targeting System/10. eBook Which ‘You’ Are You Selling To (2).md
+  - knowledge-base/raw/tether-lab/_extracted/4. The Self Targeting System/10_Bonus_Which_'You'_Are_You_Selling_To_Playbook_The_Se.md
+  - knowledge-base/raw/assets/tether-lab/pdf-pages/10-eBook-Which-You-Are-You-Selling-To-2/
 tags: [ebook, three-selves, self-discrepancy-theory, worksheet, rewriting, funnel, prompts]
 updated: 2026-10-20
 ---

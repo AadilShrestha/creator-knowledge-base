@@ -3,7 +3,7 @@ title: "Claude"
 type: tool
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/4. Live With Sarah! - July 02, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/4. Live With Sarah! - July 02, 2025 - Recordings.txt
 tags: [tool, llm, claude, copywriting, research]
 updated: 2026-10-20
 ---
@@ -31,3 +31,10 @@ updated: 2026-10-20
 
 ## Related
 [ChatGPT](chatgpt.md) · [Sarah Levinger](../people/sarah-levinger.md) · [Community members: Juan Ecom](../people/community-members.md#juan-ecom)
+
+## In other courses
+- RMBC II: [The Claude Project recipe](../courses/stefan-georgi/rmbc-ii/concepts/claude-project-recipe.md): Claude Projects for briefs, VSLs, advertorials, PDPs, upsells, email
+- RMBC II: [LLM copy-chief editing](../courses/stefan-georgi/rmbc-ii/concepts/llm-copy-chief-editing.md): editing a model draft as copy chief
+- Evolve Copywriting: [AI in copywriting (the operator model)](../courses/evolve/copywriting/concepts/ai-in-copywriting.md): how much of the draft AI should do (R4)
+
+Which page owns the topic: [topic map](../topic-map.md).

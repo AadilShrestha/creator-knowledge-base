@@ -4,12 +4,12 @@ type: framework
 course: tether-lab
 module: 05-live-recordings
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/5. Live With Sarah!.txt
-  - wiki/courses/tether-lab/05-live-recordings/2025-06-04-live-with-sarah.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-05-07-live-with-sarah.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-05-28-roast-my-ads-1.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-06-11-live-with-sarah.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-07-09-live-with-sarah.md
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/5. Live With Sarah!.txt
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-06-04-live-with-sarah.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-05-07-live-with-sarah.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-05-28-roast-my-ads-1.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-06-11-live-with-sarah.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-07-09-live-with-sarah.md
 tags: [framework, marketing-to-mindstates, will-leach, emotions, nlp, review-mining, emotion-specificity, blended-emotions, campaign-structure, chatgpt, maelove]
 updated: 2026-10-20
 ---

@@ -5,7 +5,7 @@ niche: supplements-and-health
 sub_niche: "hair-growth supplement (Women's Balance)"
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.txt
 tags: [brand, supplements, hair-loss, women-45-plus, pdp, buy-box, fogg-behavior-model, ability, urgency, loss-aversion, anchoring, pricing-psychology, mental-math, qualifier]
 updated: 2026-10-20
 ---

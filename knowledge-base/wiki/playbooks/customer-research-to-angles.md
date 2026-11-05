@@ -132,3 +132,9 @@ angle_seeds:
 
 ## Related
 [Playbooks hub](README.md) · [Angle remix](angle-remix.md) · [Landscape audit](competitor-landscape-audit.md) · [Blended emotions](../concepts/blended-emotions.md) · [Core brand emotion](../concepts/core-brand-emotion.md) · [Perception management](../concepts/perception-management.md) · [Identity stacking](../concepts/identity-stacking.md) · [Will Leach](../people/will-leach.md) · [Humor in ads](../concepts/humor-in-ads.md)
+
+## In other courses
+- Evolve Start Here: [Playbook: research to first concepts (intake → research doc → product overview → desires → belief lever → avatars → angles → 5-10 concept cards in the Growth Guide)](../courses/evolve/start-here/playbooks/research-to-first-concepts.md): research to first concepts
+- Evolve Start Here: [Angle generation prompt (sub-avatar → desire + behavior + gap → ranked angles and direct hooks)](../courses/evolve/start-here/frameworks/angle-generation-prompt.md): angle generation prompt
+
+Which page owns the topic: [topic map](../topic-map.md).

@@ -146,3 +146,10 @@ If AI is used: never make a synthetic person deliver a testimonial or claim pers
 
 ## Related
 [Playbooks hub](README.md) · [UGC script writing](ugc-script-writing.md) · [Test and iterate](test-and-iterate.md) · [Model image psychology](../concepts/model-image-psychology.md) · [Messenger effect](../concepts/heuristics/messenger-effect.md) · [Vulnerability](../concepts/heuristics/vulnerability.md) · [Barrier buster](../concepts/barrier-buster.md) · [AI UGC tools](../tools/ai-ugc-tools.md) · [Joanna Wallace](../people/joanna-wallace.md) · [Chase Mohseni](../people/chase-mohseni.md)
+
+## In other courses
+- Evolve Start Here: [Creator frameworks vs scripts](../courses/evolve/start-here/concepts/creator-frameworks-vs-scripts.md): framework briefs for sourcing and ambassadors (S4)
+- Evolve Start Here: [Playbook: Creator program setup (from zero creators to a paid ambassador roster)](../courses/evolve/start-here/playbooks/creator-program-setup.md): creator program and whitelisting
+- RMBC II: [Brief 2.0 (the New Brief)](../courses/stefan-georgi/rmbc-ii/concepts/brief-2-0.md): long-form copy brief upstream of the creator brief (R13)
+
+Which page owns the topic: [topic map](../topic-map.md).

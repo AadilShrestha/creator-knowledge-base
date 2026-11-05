@@ -5,8 +5,8 @@ niche: pets
 sub_niche: "aesthetic silicone slow-feeder dog bowls"
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/1. Roast My Ads #3 July 23, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/1. Roast My Ads #3 July 23, 2025 - Recordings.txt
 tags: [brand, pets, dog-bowls, slow-feeder, pdp, fogg-behavior-model, ability, comparison-static, us-vs-them, evaluate-stage, teep, situational-specificity, ai-generated-images, roast-my-ads]
 updated: 2026-10-20
 ---

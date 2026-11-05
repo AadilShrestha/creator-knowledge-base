@@ -6,10 +6,10 @@ module: 02-heuristics-101
 order: 3
 video_length: "6:18"
 sources:
-  - raw/tether-lab/_transcripts/2. Heuristics 101/3.Emotion,Clarity,Urgency.txt
-  - raw/tether-lab/_transcripts/2. Heuristics 101/3.Emotion,Clarity,Urgency.srt
-  - raw/tether-lab/_extracted/2. Heuristics 101/3_3_Emotion,_Clarity,_Urgency_Heuristics_101_·_Tether_L.md
-  - raw/tether-lab/_extracted/2. Heuristics 101/7. Heuristics 101 e-book.md
+  - knowledge-base/raw/tether-lab/_transcripts/2. Heuristics 101/3.Emotion,Clarity,Urgency.txt
+  - knowledge-base/raw/tether-lab/_transcripts/2. Heuristics 101/3.Emotion,Clarity,Urgency.srt
+  - knowledge-base/raw/tether-lab/_extracted/2. Heuristics 101/3_3_Emotion,_Clarity,_Urgency_Heuristics_101_·_Tether_L.md
+  - knowledge-base/raw/tether-lab/_extracted/2. Heuristics 101/7. Heuristics 101 e-book.md
 tags: [heuristics, affect-heuristic, processing-fluency, temporal-discounting, copywriting]
 updated: 2026-10-20
 ---

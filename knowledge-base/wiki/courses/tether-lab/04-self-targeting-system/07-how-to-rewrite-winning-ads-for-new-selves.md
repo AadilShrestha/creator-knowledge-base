@@ -6,10 +6,10 @@ module: 04-self-targeting-system
 order: 7
 video_length: "4:37"
 sources:
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/7. How to Rewrite Winning Ads For New Selves .txt
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/7. How to Rewrite Winning Ads For New Selves .srt
-  - raw/tether-lab/_extracted/4. The Self Targeting System/7_7_How_to_Rewrite_Winning_Ads_for_New_Selves_The_Self_.md
-  - raw/tether-lab/_extracted/4. The Self Targeting System/11. 3-Selves Course - Prompts.md
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/7. How to Rewrite Winning Ads For New Selves .txt
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/7. How to Rewrite Winning Ads For New Selves .srt
+  - knowledge-base/raw/tether-lab/_extracted/4. The Self Targeting System/7_7_How_to_Rewrite_Winning_Ads_for_New_Selves_The_Self_.md
+  - knowledge-base/raw/tether-lab/_extracted/4. The Self Targeting System/11. 3-Selves Course - Prompts.md
 tags: [rewriting, prompt-3, iteration, core-message, high-camp-flasks, offer]
 updated: 2026-10-20
 ---

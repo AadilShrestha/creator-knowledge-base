@@ -5,9 +5,9 @@ course: tether-lab
 module: 03-valence-intensity-model
 order: 8
 sources:
-  - raw/tether-lab/_extracted/3. The Valence & Intensity Model/8_Bonus_Diagnose_Why_Your_Ads_Aren't_Working_e_Book_The.md
-  - raw/tether-lab/_extracted/3. The Valence & Intensity Model/8. Diagnose Why Your Ads Aren't Working.md
-  - raw/tether-lab/3. The Valence & Intensity Model/8. Diagnose Why Your Ads Aren't Working.pdf
+  - knowledge-base/raw/tether-lab/_extracted/3. The Valence & Intensity Model/8_Bonus_Diagnose_Why_Your_Ads_Aren't_Working_e_Book_The.md
+  - knowledge-base/raw/tether-lab/_extracted/3. The Valence & Intensity Model/8. Diagnose Why Your Ads Aren't Working.md
+  - knowledge-base/raw/tether-lab/3. The Valence & Intensity Model/8. Diagnose Why Your Ads Aren't Working.pdf
 tags: [bonus, ebook, emotion, valence, intensity]
 updated: 2026-10-20
 ---

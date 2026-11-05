@@ -6,10 +6,10 @@ module: 04-self-targeting-system
 order: 5
 video_length: "6:55"
 sources:
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/5. Run The 3 Selves Diagnostic on Your Ads.txt
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/5. Run The 3 Selves Diagnostic on Your Ads.srt
-  - raw/tether-lab/_extracted/4. The Self Targeting System/5_5_Run_the_3_Selves_Diagnostic_on_Your_Ads_The_Self_Ta.md
-  - raw/tether-lab/_extracted/4. The Self Targeting System/11. 3-Selves Course - Prompts.md
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/5. Run The 3 Selves Diagnostic on Your Ads.txt
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/5. Run The 3 Selves Diagnostic on Your Ads.srt
+  - knowledge-base/raw/tether-lab/_extracted/4. The Self Targeting System/5_5_Run_the_3_Selves_Diagnostic_on_Your_Ads_The_Self_Ta.md
+  - knowledge-base/raw/tether-lab/_extracted/4. The Self Targeting System/11. 3-Selves Course - Prompts.md
 tags: [three-selves-diagnostic, chatgpt, prompts, ad-audit, high-camp-flasks]
 updated: 2026-10-20
 ---

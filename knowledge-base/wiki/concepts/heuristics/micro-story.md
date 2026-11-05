@@ -3,8 +3,8 @@ title: "Micro-Story (Micro-Storytelling)"
 type: concept
 course: tether-lab
 sources:
-  - raw/tether-lab/_extracted/7. The Prompt Library/12_Micro_Story_+_Suspense_The_Prompt_Library_·_Tether_L.md
-  - raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
+  - knowledge-base/raw/tether-lab/_extracted/7. The Prompt Library/12_Micro_Story_+_Suspense_The_Prompt_Library_·_Tether_L.md
+  - knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
 tags: [lever, storytelling, micro-story, ugc, narrative, hooks, prompt-library]
 updated: 2026-10-20
 ---

@@ -4,10 +4,10 @@ type: concept
 course: tether-lab
 aliases: ["model selection", "body language in ads", "confident vs seductive face"]
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/1. Roast My Ads #3 July 23, 2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/2. Roast My Ads #2 - June 25,2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/2. Heuristics 101/3.Emotion,Clarity,Urgency.txt
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/4.Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/1. Roast My Ads #3 July 23, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/2. Roast My Ads #2 - June 25,2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/2. Heuristics 101/3.Emotion,Clarity,Urgency.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/4.Live With Sarah!.txt
 tags: [model-selection, faces, body-language, eyebrows, hair-colour, body-type, posture, casting, creator-brief, statics, ugc]
 updated: 2026-10-20
 ---

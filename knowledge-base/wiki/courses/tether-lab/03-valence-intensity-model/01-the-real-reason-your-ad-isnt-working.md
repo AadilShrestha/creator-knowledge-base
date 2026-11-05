@@ -6,9 +6,9 @@ module: 03-valence-intensity-model
 order: 1
 video_length: "2:27"
 sources:
-  - raw/tether-lab/_transcripts/3. The Valence & Intensity Model/1. The Real Reason Your Ad Isn't Working.txt
-  - raw/tether-lab/_transcripts/3. The Valence & Intensity Model/1. The Real Reason Your Ad Isn't Working.srt
-  - raw/tether-lab/_extracted/3. The Valence & Intensity Model/1_1_The_Real_Reason_Your_Ad_Isn’t_Working_The_Valence_&.md
+  - knowledge-base/raw/tether-lab/_transcripts/3. The Valence & Intensity Model/1. The Real Reason Your Ad Isn't Working.txt
+  - knowledge-base/raw/tether-lab/_transcripts/3. The Valence & Intensity Model/1. The Real Reason Your Ad Isn't Working.srt
+  - knowledge-base/raw/tether-lab/_extracted/3. The Valence & Intensity Model/1_1_The_Real_Reason_Your_Ad_Isn’t_Working_The_Valence_&.md
 tags: [emotion, emotional-misfire, diagnosis, ad-creative]
 updated: 2026-10-20
 ---

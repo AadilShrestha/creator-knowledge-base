@@ -4,16 +4,16 @@ type: framework
 course: tether-lab
 module: 05-live-recordings
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/5. Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/4.Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/2. Roast my Ads #1.txt
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/5. Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/4.Live With Sarah! - June 11, 2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/3. Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/1. Guest Session 02 Chase Monhseni - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/3. Live With Sarah! - July 09, 2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/1. Roast My Ads #3 July 23, 2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/8. How to Test Your Ads By Self Type.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/5. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/4.Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/2. Roast my Ads #1.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/5. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/4.Live With Sarah! - June 11, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/3. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/1. Guest Session 02 Chase Monhseni - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/3. Live With Sarah! - July 09, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/1. Roast My Ads #3 July 23, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/8. How to Test Your Ads By Self Type.txt
 tags: [framework, creative-testing, iteration, variation, precision-testing, small-batch, combination-testing, customer-genomes, format-ladder, creative-diversity, scaling, fatigue, frequency, video-diagnosis, statics, ugc, meta]
 updated: 2026-10-20
 ---
@@ -219,3 +219,14 @@ It sits on top of the targeting frameworks: [valence/intensity zones](valence-in
 
 ## Related
 [Format variation ladder](format-variation-ladder.md) · [3 Vs of Creative](three-vs-of-creative.md) · [Testing ads by self type](testing-ads-by-self-type.md) · [Rewriting ads for new selves](rewriting-ads-for-new-selves.md) · [Valence-intensity diagnostic](valence-intensity-diagnostic.md) · [TEEP journey](teep-journey.md) · [Story frameworks for ads](story-frameworks-for-ads.md) · [Psychology application ladder](psychology-application-ladder.md) · [Creative primitives](../concepts/creative-primitives.md) · [Iteration vs variation](../concepts/iteration-vs-variation.md) · [Emotional zones](../concepts/emotional-zones.md) · [Angle rut](../concepts/angle-rut.md) · [Heuristic stacking](../concepts/heuristic-stacking.md) · [Scarcity](../concepts/heuristics/scarcity-heuristic.md) · [Chase Mohseni](../people/chase-mohseni.md) · [ChatGPT](../tools/chatgpt.md)
+
+## In other courses
+- Evolve Start Here: [Marksman, Sniper and Shotgun testing](../courses/evolve/start-here/concepts/marksman-sniper-testing.md): bigger swings for new angles (S1)
+- Evolve Start Here: [Winning-ad labels (Breakthrough / Spend Winner / KPI Winner / Loser) with tier thresholds](../courses/evolve/start-here/concepts/winning-ad-labels.md): test labels and spend thresholds
+- Evolve Start Here: [Scaling rules (Evolve daily scale-up/scale-down flowchart, increments, minimum daily spend, surf and promo scaling, turn-off rules, roller-coaster handling, one kill/keep/scale table)](../courses/evolve/start-here/frameworks/scaling-rules.md): +20% per 24 h scaling (S5)
+- Evolve Start Here: [Campaign structure 3:2:2 (Evolve 2026 Meta account map: acquisition CBO, 3:2:2:2 and Page # tests, zombie, ABO scaling, raw content, promo, champions/duplication, naming)](../courses/evolve/start-here/frameworks/campaign-structure-322.md): 3:2:2 Meta account structure
+- Evolve Copywriting: [Iteration outcomes (loser / KPI winner / spend winner / breakthrough)](../courses/evolve/copywriting/concepts/iteration-outcomes.md): the four test outcomes
+- RMBC II: [CRO Testing (inside-out prioritisation, earnings per session, run rules, incremental revenue)](../courses/stefan-georgi/rmbc-ii/frameworks/cro-testing.md): on-site page split tests (R8)
+- RMBC II: [Modular creative and hook swaps (locked body, swapped hooks, IDs, one-variable tests)](../courses/stefan-georgi/rmbc-ii/concepts/modular-creative-and-hook-swaps.md): hook IDs on a locked body
+
+Which page owns the topic: [topic map](../topic-map.md).

@@ -57,11 +57,12 @@ knowledge-base/
 │   └── assets/tether-lab/pdf-pages/  ← every PDF page rendered as PNG
 └── wiki/
     ├── index.md                   ← catalog of EVERY wiki page (read this first)
+    ├── topic-map.md               ← which course owns each topic shared by several courses
     ├── contradictions.md          ← where sources disagree + the default to follow
     ├── log.md                     ← append-only chronological log
     ├── overview.md                ← big-picture synthesis across all courses
     ├── courses/<course>/          ← README.md (course hub) + one folder per module, one page per lesson/session
-    ├── courses/<creator>/<course>/ ← newer courses (e.g. evolve/copywriting): course-local lessons/, concepts/, frameworks/, playbooks/, rubrics/, libraries/, contradictions.md + PROGRESS.md/manifest.json (see repo-root AGENTS.md)
+    ├── courses/<creator>/<course>/ ← newer courses (e.g. evolve/copywriting): course-local lessons/, concepts/, frameworks/, playbooks/, rubrics/, libraries/, contradictions.md + PROGRESS.md/manifest.json (see repo-root INGESTION.md)
     ├── concepts/                  ← one idea per page (e.g. valence, loss aversion). concepts/heuristics/ = one page per heuristic/bias
     ├── frameworks/                ← step-by-step procedures / diagnostics / checklists you can run
     ├── people/                    ← instructors, guests
@@ -90,8 +91,8 @@ course: tether-lab
 module: 03-valence-intensity-model
 order: 3
 video_length: "16:42"   # lessons/sessions only
-sources:                # raw files this page is built from (paths relative to knowledge-base/)
-  - raw/tether-lab/_transcripts/3. The Valence & Intensity Model/3.The 4 Emotional Zones (a.k.a Your Target Map).txt
+sources:                # raw files this page is built from (repo-relative paths)
+  - knowledge-base/raw/tether-lab/_transcripts/3. The Valence & Intensity Model/3.The 4 Emotional Zones (a.k.a Your Target Map).txt
 tags: [emotion, targeting]
 updated: 2026-10-20
 ---

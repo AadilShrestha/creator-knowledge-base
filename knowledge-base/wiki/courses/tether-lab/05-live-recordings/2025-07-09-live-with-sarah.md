@@ -7,10 +7,10 @@ order: 3
 session_date: 2025-07-09
 video_length: "57:40"
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/3. Live With Sarah! - July 09, 2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/3. Live With Sarah! - July 09, 2025 - Recordings.srt
-  - raw/tether-lab/_extracted/5. Recordings/July 2025/3_Live_With_Sarah!_July_09,_2025_Recordings_·_Tether_La.md
-  - raw/tether-lab/5. Recordings/July 2025/3_Live_With_Sarah!_July_09,_2025_Recordings_·_Tether_La.html
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/3. Live With Sarah! - July 09, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/3. Live With Sarah! - July 09, 2025 - Recordings.srt
+  - knowledge-base/raw/tether-lab/_extracted/5. Recordings/July 2025/3_Live_With_Sarah!_July_09,_2025_Recordings_·_Tether_La.md
+  - knowledge-base/raw/tether-lab/5. Recordings/July 2025/3_Live_With_Sarah!_July_09,_2025_Recordings_·_Tether_La.html
 tags: [live-session, q-and-a, heuristics, scarcity, social-proof, authority, processing-fluency, choice-architecture, fonts, founder-video, situational-specificity, b2b, free-trial, commitment-bias, sunk-cost, ostrich-effect, in-group-bias, subconscious, books, cro]
 updated: 2026-10-20
 ---

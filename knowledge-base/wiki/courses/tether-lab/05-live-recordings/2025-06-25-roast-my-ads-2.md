@@ -7,9 +7,9 @@ order: 2
 session_date: 2025-06-25
 video_length: "1:01:04"
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/2. Roast My Ads #2 - June 25,2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/2. Roast My Ads #2 - June 25,2025 - Recordings.srt
-  - raw/tether-lab/_extracted/5. Recordings/June 2025/2_Roast_My_Ads_#2_June_25,_2025_Recordings_·_Tether_Lab.md
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/2. Roast My Ads #2 - June 25,2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/2. Roast My Ads #2 - June 25,2025 - Recordings.srt
+  - knowledge-base/raw/tether-lab/_extracted/5. Recordings/June 2025/2_Roast_My_Ads_#2_June_25,_2025_Recordings_·_Tether_Lab.md
 tags: [live-session, roast-my-ads, landing-page, cro, cognitive-load, choice-overload, messaging, cta, fashion, maternity, nursing, agency, lead-gen, info-products, social-proof, authority, processing-fluency, salience]
 updated: 2026-10-20
 ---

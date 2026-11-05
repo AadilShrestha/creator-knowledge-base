@@ -4,8 +4,8 @@ type: concept
 course: tether-lab
 aliases: ["Co-creation", "Build-your-own"]
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/4. Live With Sarah! - July 02, 2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/2. Heuristics 101/5. Stacking Psychology for growth.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/4. Live With Sarah! - July 02, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/2. Heuristics 101/5. Stacking Psychology for growth.txt
 tags: [heuristics, ikea-effect, co-creation, carousels, bundles, personalization, participation]
 updated: 2026-10-20
 ---

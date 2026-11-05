@@ -4,9 +4,9 @@ type: resource
 course: tether-lab
 module: 03-valence-intensity-model
 sources:
-  - raw/tether-lab/3. The Valence & Intensity Model/8. Diagnose Why Your Ads Aren't Working.pdf
-  - raw/tether-lab/_extracted/3. The Valence & Intensity Model/8. Diagnose Why Your Ads Aren't Working.md
-  - raw/tether-lab/_extracted/3. The Valence & Intensity Model/8_Bonus_Diagnose_Why_Your_Ads_Aren't_Working_e_Book_The.md
+  - knowledge-base/raw/tether-lab/3. The Valence & Intensity Model/8. Diagnose Why Your Ads Aren't Working.pdf
+  - knowledge-base/raw/tether-lab/_extracted/3. The Valence & Intensity Model/8. Diagnose Why Your Ads Aren't Working.md
+  - knowledge-base/raw/tether-lab/_extracted/3. The Valence & Intensity Model/8_Bonus_Diagnose_Why_Your_Ads_Aren't_Working_e_Book_The.md
 tags: [ebook, valence, intensity, emotional-zones, diagnosis, tone-shifting]
 updated: 2026-10-20
 ---

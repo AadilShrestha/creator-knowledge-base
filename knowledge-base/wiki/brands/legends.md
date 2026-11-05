@@ -5,7 +5,7 @@ niche: apparel-and-accessories
 sub_niche: "men's premium hoodies / athleisure"
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/2. Heuristics 101/3.Emotion,Clarity,Urgency.txt
+  - knowledge-base/raw/tether-lab/_transcripts/2. Heuristics 101/3.Emotion,Clarity,Urgency.txt
 tags: [brand, menswear, apparel, hoodie, processing-fluency, model-image, statics, minimal-copy]
 updated: 2026-10-20
 ---

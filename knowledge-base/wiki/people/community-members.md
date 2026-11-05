@@ -3,8 +3,8 @@ title: "Tether Lab community members"
 type: person
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/
-  - raw/tether-lab/_extracted/5. Recordings/
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/
+  - knowledge-base/raw/tether-lab/_extracted/5. Recordings/
 tags: [person, community, members, roast-my-ads, case-context, brands]
 updated: 2026-10-20
 ---

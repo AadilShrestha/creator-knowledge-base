@@ -5,10 +5,10 @@ course: tether-lab
 module: 07-prompt-library
 order: 10
 sources:
-  - raw/tether-lab/7. The Prompt Library/10_Anonymity_+_Social_Proof_The_Prompt_Library_·_Tether.html
-  - raw/tether-lab/_extracted/7. The Prompt Library/10_Anonymity_+_Social_Proof_The_Prompt_Library_·_Tether.md
-  - raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
-  - raw/tether-lab/_transcripts/6. The Ad Lab Toolkit/4. The Prompt Library.txt
+  - knowledge-base/raw/tether-lab/7. The Prompt Library/10_Anonymity_+_Social_Proof_The_Prompt_Library_·_Tether.html
+  - knowledge-base/raw/tether-lab/_extracted/7. The Prompt Library/10_Anonymity_+_Social_Proof_The_Prompt_Library_·_Tether.md
+  - knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
+  - knowledge-base/raw/tether-lab/_transcripts/6. The Ad Lab Toolkit/4. The Prompt Library.txt
 tags: [prompt, prompt-library, anonymity, social-proof, testimonials, confessions, reviews, ugc, ad-concepts]
 updated: 2026-10-20
 ---

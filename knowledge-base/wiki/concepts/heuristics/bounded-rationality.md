@@ -3,7 +3,7 @@ title: "Bounded Rationality"
 type: concept
 course: tether-lab
 sources:
-  - raw/tether-lab/_extracted/7. The Prompt Library/15_The_‘Why_Didn’t_I_See_This_’_Framework_The_Prompt_Li.md
+  - knowledge-base/raw/tether-lab/_extracted/7. The Prompt Library/15_The_‘Why_Didn’t_I_See_This_’_Framework_The_Prompt_Li.md
 tags: [lever, bounded-rationality, decision-making, validation, hooks, prompt-library]
 updated: 2026-10-20
 ---

@@ -5,8 +5,8 @@ niche: luxury-and-automotive
 sub_niche: "luxury cars"
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/3. The Valence & Intensity Model/4. Diagnosing Emotional Misfires.txt
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/3. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/3. The Valence & Intensity Model/4. Diagnosing Emotional Misfires.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/3. Live With Sarah!.txt
 tags: [brand, luxury, automotive, rebrand, intensity, emotional-misfire, perception-management]
 updated: 2026-10-20
 ---

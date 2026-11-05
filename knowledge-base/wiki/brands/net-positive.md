@@ -5,7 +5,7 @@ niche: apparel-and-accessories
 sub_niche: "natural-fibre women's underwear (polyester-free)"
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/1. Roast My Ads #3 July 23, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/1. Roast My Ads #3 July 23, 2025 - Recordings.txt
 tags: [brand, underwear, womens-apparel, natural-fibres, model-image, scarcity-heuristic, social-proof, framing-effect, salience-bias, trend-colours, static-to-video, teep, statics]
 updated: 2026-10-20
 ---

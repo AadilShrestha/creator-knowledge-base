@@ -5,10 +5,10 @@ course: tether-lab
 module: 07-prompt-library
 order: 1
 sources:
-  - raw/tether-lab/7. The Prompt Library/1_First_Principles_Thinking_+_Loss_Aversion_The_Prompt_.html
-  - raw/tether-lab/_extracted/7. The Prompt Library/1_First_Principles_Thinking_+_Loss_Aversion_The_Prompt_.md
-  - raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
-  - raw/tether-lab/_transcripts/6. The Ad Lab Toolkit/4. The Prompt Library.txt
+  - knowledge-base/raw/tether-lab/7. The Prompt Library/1_First_Principles_Thinking_+_Loss_Aversion_The_Prompt_.html
+  - knowledge-base/raw/tether-lab/_extracted/7. The Prompt Library/1_First_Principles_Thinking_+_Loss_Aversion_The_Prompt_.md
+  - knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
+  - knowledge-base/raw/tether-lab/_transcripts/6. The Ad Lab Toolkit/4. The Prompt Library.txt
 tags: [prompt, prompt-library, first-principles, loss-aversion, category-reframe, mofu, ad-concepts]
 updated: 2026-10-20
 ---

@@ -5,7 +5,7 @@ niche: supplements-and-health
 sub_niche: "mushroom gummies"
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/2. Heuristics 101/3.Emotion,Clarity,Urgency.txt
+  - knowledge-base/raw/tether-lab/_transcripts/2. Heuristics 101/3.Emotion,Clarity,Urgency.txt
 tags: [brand, supplements, mushroom-gummies, temporal-discounting, statics, heuristics-101]
 updated: 2026-10-20
 ---

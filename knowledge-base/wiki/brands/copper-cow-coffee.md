@@ -5,13 +5,13 @@ niche: food-and-beverage
 sub_niche: "DTC Vietnamese pour-over coffee & creamers"
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/2. Heuristics 101/1. Targeting the Decision-Making Brain.txt
-  - raw/tether-lab/_transcripts/3. The Valence & Intensity Model/1. The Real Reason Your Ad Isn't Working.txt
-  - raw/tether-lab/_transcripts/3. The Valence & Intensity Model/4. Diagnosing Emotional Misfires.txt
-  - raw/tether-lab/_transcripts/3. The Valence & Intensity Model/5. Fixing The Tone Without Rebuilding the ad.txt
-  - raw/tether-lab/_transcripts/3. The Valence & Intensity Model/6. Map + Move Your Messaging.txt
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/1. Why your Ads Stop Working Over Time.txt
-  - raw/tether-lab/_transcripts/4. The Self Targeting System/3. Why One Self Isn't Enough to Scale.txt
+  - knowledge-base/raw/tether-lab/_transcripts/2. Heuristics 101/1. Targeting the Decision-Making Brain.txt
+  - knowledge-base/raw/tether-lab/_transcripts/3. The Valence & Intensity Model/1. The Real Reason Your Ad Isn't Working.txt
+  - knowledge-base/raw/tether-lab/_transcripts/3. The Valence & Intensity Model/4. Diagnosing Emotional Misfires.txt
+  - knowledge-base/raw/tether-lab/_transcripts/3. The Valence & Intensity Model/5. Fixing The Tone Without Rebuilding the ad.txt
+  - knowledge-base/raw/tether-lab/_transcripts/3. The Valence & Intensity Model/6. Map + Move Your Messaging.txt
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/1. Why your Ads Stop Working Over Time.txt
+  - knowledge-base/raw/tether-lab/_transcripts/4. The Self Targeting System/3. Why One Self Isn't Enough to Scale.txt
 tags: [brand, coffee, beverage, dtc, testimonial-static, valence, intensity, emotional-zones, tone-shifting, social-proof, meta-static]
 updated: 2026-10-20
 ---

@@ -3,8 +3,8 @@ title: "Contrast (Before vs After, Now vs Next)"
 type: concept
 course: tether-lab
 sources:
-  - raw/tether-lab/_extracted/7. The Prompt Library/8_Contrast_+_Aspirational_Identity_The_Prompt_Library_·.md
-  - raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
+  - knowledge-base/raw/tether-lab/_extracted/7. The Prompt Library/8_Contrast_+_Aspirational_Identity_The_Prompt_Library_·.md
+  - knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
 tags: [lever, contrast, before-after, transformation, identity, prompt-library]
 updated: 2026-10-20
 ---

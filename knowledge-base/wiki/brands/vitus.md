@@ -5,7 +5,7 @@ niche: supplements-and-health
 sub_niche: "whole-food plant multivitamin powder"
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/2. Roast my Ads #1.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/2. Roast my Ads #1.txt
 tags: [brand, supplements, multivitamin, vegan, roast-my-ads, statics, social-proof, loss-aversion, metaphor, visual-weight, cognitive-load, pattern-background, cta]
 updated: 2026-10-20
 ---

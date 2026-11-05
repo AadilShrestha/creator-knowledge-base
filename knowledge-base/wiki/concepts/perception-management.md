@@ -4,11 +4,11 @@ type: concept
 course: tether-lab
 aliases: ["Perceived value", "Frame of reference"]
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/3. Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/3. Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/4. Live With Sarah! - July 02, 2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/3. Live With Sarah! - July 09, 2025 - Recordings.txt
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/3. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/3. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/4. Live With Sarah! - July 02, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/3. Live With Sarah! - July 09, 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.txt
 tags: [positioning, perception, perceived-value, high-ticket, frame-of-reference, usage-behavior, pricing, offers, framing]
 updated: 2026-10-20
 ---
@@ -106,3 +106,9 @@ The strategic layer above the [framing effect](heuristics/framing-effect.md). Fr
 
 ## Related
 [Framing effect](heuristics/framing-effect.md) · [Luxury positioning](luxury-positioning.md) · [Category perception](category-perception.md) · [Anchoring effect](heuristics/anchoring-effect.md) · [Decoy effect](heuristics/decoy-effect.md) · [Bandwagon effect](heuristics/bandwagon-effect.md) · [Cognitive dissonance](heuristics/cognitive-dissonance.md) · [Specificity](heuristics/specificity.md) · [Risk-reduction hooks](risk-reduction-hooks.md)
+
+## In other courses
+- Evolve Copywriting: [Unique mechanism (new, unspoken, renamed)](../courses/evolve/copywriting/concepts/unique-mechanism.md): unique mechanism
+- RMBC II: [Unique mechanism (UMP + UMS) in RMBC II](../courses/stefan-georgi/rmbc-ii/concepts/unique-mechanism.md): problem and solution mechanism (R2)
+
+Which page owns the topic: [topic map](../topic-map.md).

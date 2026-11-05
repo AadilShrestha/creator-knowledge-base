@@ -3,9 +3,9 @@ title: "Joanna Wallace"
 type: person
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/1. Guest Session 01 Jonna Wallace!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/5. Live With Sarah!.txt
-  - raw/tether-lab/5. Recordings/May 2025/1_Guest_Session_01_Joanna_Wallace!_Recordings_·_Tether_.html
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/1. Guest Session 01 Jonna Wallace!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/5. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/5. Recordings/May 2025/1_Guest_Session_01_Joanna_Wallace!_Recordings_·_Tether_.html
 tags: [guest, humor, comedy, creative-strategy, hexclad, gordon-ramsay, ugc, brand-voice, team-building]
 updated: 2026-10-20
 ---

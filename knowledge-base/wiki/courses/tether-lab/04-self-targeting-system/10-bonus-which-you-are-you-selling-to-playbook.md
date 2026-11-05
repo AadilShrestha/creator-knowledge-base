@@ -5,9 +5,9 @@ course: tether-lab
 module: 04-self-targeting-system
 order: 10
 sources:
-  - raw/tether-lab/_extracted/4. The Self Targeting System/10_Bonus_Which_'You'_Are_You_Selling_To_Playbook_The_Se.md
-  - raw/tether-lab/_extracted/4. The Self Targeting System/10. eBook Which ‘You’ Are You Selling To (2).md
-  - raw/tether-lab/4. The Self Targeting System/10. eBook Which ‘You’ Are You Selling To (2).pdf
+  - knowledge-base/raw/tether-lab/_extracted/4. The Self Targeting System/10_Bonus_Which_'You'_Are_You_Selling_To_Playbook_The_Se.md
+  - knowledge-base/raw/tether-lab/_extracted/4. The Self Targeting System/10. eBook Which ‘You’ Are You Selling To (2).md
+  - knowledge-base/raw/tether-lab/4. The Self Targeting System/10. eBook Which ‘You’ Are You Selling To (2).pdf
 tags: [bonus, ebook, three-selves, self-discrepancy-theory, worksheet]
 updated: 2026-10-20
 ---

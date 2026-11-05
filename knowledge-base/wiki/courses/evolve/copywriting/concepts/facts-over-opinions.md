@@ -127,5 +127,11 @@ Research facts are one of the ten authority types: "DID YOU KNOW? we lose 150 st
 ## Related
 [Three copy checks](three-copy-checks.md) · [Objection handling](objection-handling.md) · [Authority in ads](authority-in-ads.md) · [Show, don't tell](show-dont-tell.md) · [Bridges](bridges.md) · [Value words (Big 4)](value-words-big-4.md)
 
+## In other courses
+- RMBC II: [Compliance red flags in RMBC II examples (claim types, why they fail, compliant pattern)](../../../stefan-georgi/rmbc-ii/concepts/compliance-red-flags.md): claim types that need proof
+- RMBC II: [LLM output claim audit (mandatory gate before any RMBC draft is used)](../../../stefan-georgi/rmbc-ii/rubrics/llm-output-claim-audit.md): claim audit
+
+Which page owns the topic: [topic map](../../../../topic-map.md).
+
 ## Sources and limitations
 Statistics in example ads (96% of dog owners, 240,000 particles, 43 sell-outs, the Grüns script figures) are page or slide examples, not verified data. Performance claims ("murdered", "crushed") are the instructor's.

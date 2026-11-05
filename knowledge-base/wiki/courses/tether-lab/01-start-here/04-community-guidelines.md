@@ -5,7 +5,7 @@ course: tether-lab
 module: 01-start-here
 order: 4
 sources:
-  - raw/tether-lab/_extracted/1. Start Here/4. 📕_Community_Guidelines_-_Start_Here_·_Tether_Lab.md
+  - knowledge-base/raw/tether-lab/_extracted/1. Start Here/4. 📕_Community_Guidelines_-_Start_Here_·_Tether_Lab.md
 tags: [community, rules]
 updated: 2026-10-20
 ---

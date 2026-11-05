@@ -4,10 +4,10 @@ type: concept
 course: tether-lab
 module: 03-valence-intensity-model
 sources:
-  - raw/tether-lab/_transcripts/3. The Valence & Intensity Model/2.Understanding Valence & Intensity.txt
-  - raw/tether-lab/_transcripts/3. The Valence & Intensity Model/3.The 4 Emotional Zones (a.k.a Your Target Map).txt
-  - raw/tether-lab/_transcripts/3. The Valence & Intensity Model/5. Fixing The Tone Without Rebuilding the ad.txt
-  - raw/tether-lab/_extracted/3. The Valence & Intensity Model/8. Diagnose Why Your Ads Aren't Working.md
+  - knowledge-base/raw/tether-lab/_transcripts/3. The Valence & Intensity Model/2.Understanding Valence & Intensity.txt
+  - knowledge-base/raw/tether-lab/_transcripts/3. The Valence & Intensity Model/3.The 4 Emotional Zones (a.k.a Your Target Map).txt
+  - knowledge-base/raw/tether-lab/_transcripts/3. The Valence & Intensity Model/5. Fixing The Tone Without Rebuilding the ad.txt
+  - knowledge-base/raw/tether-lab/_extracted/3. The Valence & Intensity Model/8. Diagnose Why Your Ads Aren't Working.md
 tags: [emotion, intensity, arousal, valence-intensity-model]
 updated: 2026-10-20
 ---

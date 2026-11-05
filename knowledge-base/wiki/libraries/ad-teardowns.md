@@ -4,10 +4,10 @@ type: library
 creator: sarah-levinger
 course: tether-lab
 sources:
-  - wiki/courses/tether-lab/  # session and lesson teardown tables (timestamps in each row)
-  - wiki/brands/  # brand case files
-  - wiki/concepts/  # concept-page teardown tables
-  - wiki/frameworks/  # framework-page teardown tables
+  - knowledge-base/wiki/courses/tether-lab/
+  - knowledge-base/wiki/brands/
+  - knowledge-base/wiki/concepts/
+  - knowledge-base/wiki/frameworks/
 tags: [library, ad-teardowns, competitor-research, failure-patterns, precedents, ugc, statics, landing-pages, offers]
 updated: 2026-10-20
 ---
@@ -451,3 +451,10 @@ Recurring "what fails" themes across all rows, most frequent first. **Occurrence
 [v1]: ../courses/tether-lab/03-valence-intensity-model/01-the-real-reason-your-ad-isnt-working.md
 [v4]: ../courses/tether-lab/03-valence-intensity-model/04-diagnosing-emotional-misfires.md
 [v5]: ../courses/tether-lab/03-valence-intensity-model/05-fixing-the-tone-without-rebuilding-the-ad.md
+
+## In other courses
+- Evolve Copywriting: [Ad teardowns library: Evolve Copywriting (every ad shown or critiqued, by niche then format)](../courses/evolve/copywriting/libraries/ad-teardowns.md): Evolve teardowns
+- Evolve Start Here: [Ad teardowns library: Evolve Start Here (every real ad critiqued, grouped by niche)](../courses/evolve/start-here/libraries/ad-teardowns.md): Start Here teardowns
+- RMBC II: [Ad and page teardowns library: RMBC II (every ad, VSL, page, checkout and upsell critiqued)](../courses/stefan-georgi/rmbc-ii/libraries/ad-teardowns.md): RMBC teardowns (VSLs, advertorials, PDPs)
+
+Which page owns the topic: [topic map](../topic-map.md).

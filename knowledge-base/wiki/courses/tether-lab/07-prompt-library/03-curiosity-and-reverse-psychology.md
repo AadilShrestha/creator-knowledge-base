@@ -5,10 +5,10 @@ course: tether-lab
 module: 07-prompt-library
 order: 3
 sources:
-  - raw/tether-lab/7. The Prompt Library/3_Curiosity_+_Reverse_Psychology_The_Prompt_Library_·_T.html
-  - raw/tether-lab/_extracted/7. The Prompt Library/3_Curiosity_+_Reverse_Psychology_The_Prompt_Library_·_T.md
-  - raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
-  - raw/tether-lab/_transcripts/6. The Ad Lab Toolkit/4. The Prompt Library.txt
+  - knowledge-base/raw/tether-lab/7. The Prompt Library/3_Curiosity_+_Reverse_Psychology_The_Prompt_Library_·_T.html
+  - knowledge-base/raw/tether-lab/_extracted/7. The Prompt Library/3_Curiosity_+_Reverse_Psychology_The_Prompt_Library_·_T.md
+  - knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
+  - knowledge-base/raw/tether-lab/_transcripts/6. The Ad Lab Toolkit/4. The Prompt Library.txt
 tags: [prompt, prompt-library, curiosity, reverse-psychology, hooks, tofu, sarcasm, ad-concepts]
 updated: 2026-10-20
 ---

@@ -3,8 +3,8 @@ title: "Emotional Trigger"
 type: concept
 course: tether-lab
 sources:
-  - raw/tether-lab/_extracted/7. The Prompt Library/14_Reframing_Perception_+_Emotional_Trigger_The_Prompt_.md
-  - raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
+  - knowledge-base/raw/tether-lab/_extracted/7. The Prompt Library/14_Reframing_Perception_+_Emotional_Trigger_The_Prompt_.md
+  - knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
 tags: [lever, emotion, emotional-trigger, valence, intensity, prompt-library]
 updated: 2026-10-20
 ---

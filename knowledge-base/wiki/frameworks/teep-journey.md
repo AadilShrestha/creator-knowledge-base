@@ -4,12 +4,12 @@ type: framework
 course: tether-lab
 module: 05-live-recordings
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/May 2025/3. Live With Sarah!.txt
-  - raw/tether-lab/_transcripts/5. Recordings/June 2025/5. Live With Sarah!.txt
-  - wiki/courses/tether-lab/05-live-recordings/2025-05-21-live-with-sarah.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-06-04-live-with-sarah.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-06-11-live-with-sarah.md
-  - wiki/courses/tether-lab/05-live-recordings/2025-07-23-roast-my-ads-3.md
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/May 2025/3. Live With Sarah!.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/June 2025/5. Live With Sarah!.txt
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-05-21-live-with-sarah.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-06-04-live-with-sarah.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-06-11-live-with-sarah.md
+  - knowledge-base/wiki/courses/tether-lab/05-live-recordings/2025-07-23-roast-my-ads-3.md
 tags: [framework, teep-model, consumer-journey, campaign-structure, account-structure, creative-testing, budget, trigger-events, exploration-ads, evaluation-ads, purchase-ads, teardown-tagging, messy-middle]
 updated: 2026-10-20
 ---
@@ -184,3 +184,11 @@ Sarah never names the study. It is almost certainly Google / The Behavioural Arc
 
 ## Related
 [Mindstate emotion mapping](mindstate-emotion-mapping.md) · [Creative testing system](creative-testing-system.md) · [Format variation ladder](format-variation-ladder.md) · [Psychology application ladder](psychology-application-ladder.md) · [Valence-intensity diagnostic](valence-intensity-diagnostic.md) · [Testing ads by self type](testing-ads-by-self-type.md) · [Offer and bundle psychology](offer-and-bundle-psychology.md) · [Skeptic format](skeptic-format.md) · [Emotional zones](../concepts/emotional-zones.md) · [Emotional stagnation](../concepts/emotional-stagnation.md) · [Triggering events vs motivators](../concepts/triggering-events.md) · [Brand enemy](../concepts/brand-enemy.md) · [Liquid Death](../brands/liquid-death.md)
+
+## In other courses
+- Evolve Copywriting: [Market awareness (Schwartz's five levels, redefined for today)](../courses/evolve/copywriting/concepts/market-awareness.md): what the viewer knows, a different question from journey stage
+- Evolve Start Here: [Market awareness levels (Start Here specifics: per-level jobs, comparison rule, awareness × page type)](../courses/evolve/start-here/concepts/market-awareness-levels.md): awareness × page-type matrix
+- RMBC II: [Product-market awareness (RMBC II model)](../courses/stefan-georgi/rmbc-ii/concepts/product-market-awareness.md): category-level awareness (R1)
+- RMBC II: [Funnel Selection Matrix (the 15 hidden factors)](../courses/stefan-georgi/rmbc-ii/concepts/funnel-selection-matrix.md): which page or funnel follows the ad
+
+Which page owns the topic: [topic map](../topic-map.md).

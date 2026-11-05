@@ -5,12 +5,12 @@ course: tether-lab
 module: 06-ad-lab-toolkit
 order: 6
 sources:
-  - "raw/tether-lab/_extracted/6. The Ad Lab Toolkit/1_Heuristics_101_Playbook_The_Ad_Lab_Toolkit_·_Tether_L.md"
-  - "raw/tether-lab/_extracted/6. The Ad Lab Toolkit/2_Diagnose_Why_Your_Ads_Aren't_Working_e_Book_The_Ad_La.md"
-  - "raw/tether-lab/_extracted/6. The Ad Lab Toolkit/3_Valence_+_Intensity_Prompts_The_Ad_Lab_Toolkit_·_Teth.md"
-  - raw/tether-lab/6. The Ad Lab Toolkit/
-  - raw/tether-lab/_extracted/6. The Ad Lab Toolkit/
-  - raw/tether-lab/_transcripts/6. The Ad Lab Toolkit/4. The Prompt Library.txt
+  - "knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/1_Heuristics_101_Playbook_The_Ad_Lab_Toolkit_·_Tether_L.md"
+  - "knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/2_Diagnose_Why_Your_Ads_Aren't_Working_e_Book_The_Ad_La.md"
+  - "knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/3_Valence_+_Intensity_Prompts_The_Ad_Lab_Toolkit_·_Teth.md"
+  - knowledge-base/raw/tether-lab/6. The Ad Lab Toolkit/
+  - knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/
+  - knowledge-base/raw/tether-lab/_transcripts/6. The Ad Lab Toolkit/4. The Prompt Library.txt
 tags: [toolkit, resources, ebooks, prompts, books, creativeos, newsletter, downloads]
 updated: 2026-10-20
 ---

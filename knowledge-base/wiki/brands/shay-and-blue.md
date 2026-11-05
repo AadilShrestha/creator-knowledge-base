@@ -5,7 +5,7 @@ niche: skincare-beauty-and-haircare
 sub_niche: "fragrance / perfume"
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/2. Heuristics 101/4. Hook Attention, Guide Behaviour.txt
+  - knowledge-base/raw/tether-lab/_transcripts/2. Heuristics 101/4. Hook Attention, Guide Behaviour.txt
 tags: [brand, fragrance, perfume, salience-bias, contrast, statics, heuristics-101]
 updated: 2026-10-20
 ---

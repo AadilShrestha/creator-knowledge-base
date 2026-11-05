@@ -5,10 +5,10 @@ course: tether-lab
 module: 07-prompt-library
 order: 8
 sources:
-  - raw/tether-lab/7. The Prompt Library/8_Contrast_+_Aspirational_Identity_The_Prompt_Library_·.html
-  - raw/tether-lab/_extracted/7. The Prompt Library/8_Contrast_+_Aspirational_Identity_The_Prompt_Library_·.md
-  - raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
-  - raw/tether-lab/_transcripts/6. The Ad Lab Toolkit/4. The Prompt Library.txt
+  - knowledge-base/raw/tether-lab/7. The Prompt Library/8_Contrast_+_Aspirational_Identity_The_Prompt_Library_·.html
+  - knowledge-base/raw/tether-lab/_extracted/7. The Prompt Library/8_Contrast_+_Aspirational_Identity_The_Prompt_Library_·.md
+  - knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
+  - knowledge-base/raw/tether-lab/_transcripts/6. The Ad Lab Toolkit/4. The Prompt Library.txt
 tags: [prompt, prompt-library, contrast, before-after, aspirational-identity, ideal-self, transformation, ad-concepts]
 updated: 2026-10-20
 ---

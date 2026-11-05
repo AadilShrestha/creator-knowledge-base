@@ -6,10 +6,10 @@ module: 01-start-here
 order: 1
 video_length: "4:58"
 sources:
-  - raw/tether-lab/_transcripts/1. Start Here/1. Welcome to Tether lab.txt
-  - raw/tether-lab/_transcripts/1. Start Here/1. Welcome to Tether lab.srt
-  - raw/tether-lab/_extracted/1. Start Here/1_1️⃣_Welcome_to_Tether_Lab_👋_Start_Here_·_Tether_Lab.md
-  - raw/tether-lab/1. Start Here/1_1️⃣_Welcome_to_Tether_Lab_👋_Start_Here_·_Tether_Lab.html
+  - knowledge-base/raw/tether-lab/_transcripts/1. Start Here/1. Welcome to Tether lab.txt
+  - knowledge-base/raw/tether-lab/_transcripts/1. Start Here/1. Welcome to Tether lab.srt
+  - knowledge-base/raw/tether-lab/_extracted/1. Start Here/1_1️⃣_Welcome_to_Tether_Lab_👋_Start_Here_·_Tether_Lab.md
+  - knowledge-base/raw/tether-lab/1. Start Here/1_1️⃣_Welcome_to_Tether_Lab_👋_Start_Here_·_Tether_Lab.html
 tags: [onboarding, community, skool, course-map]
 updated: 2026-10-20
 ---

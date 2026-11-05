@@ -3,8 +3,8 @@ title: "Subconscious vs Conscious Mind (Two-Systems Model)"
 type: concept
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/2. Heuristics 101/1. Targeting the Decision-Making Brain.txt
-  - raw/tether-lab/_extracted/2. Heuristics 101/7. Heuristics 101 e-book.md
+  - knowledge-base/raw/tether-lab/_transcripts/2. Heuristics 101/1. Targeting the Decision-Making Brain.txt
+  - knowledge-base/raw/tether-lab/_extracted/2. Heuristics 101/7. Heuristics 101 e-book.md
 tags: [subconscious, conscious, decision-making, brain, foundations]
 updated: 2026-10-20
 ---

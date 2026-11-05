@@ -4,10 +4,10 @@ type: resource
 course: tether-lab
 module: 06-ad-lab-toolkit
 sources:
-  - raw/tether-lab/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.pdf
-  - raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
-  - raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. The_Prompt_Library_-_The_Ad_Lab_Toolkit_·_Tether_Lab.md
-  - raw/assets/tether-lab/pdf-pages/4-Prompt-Library---Tether-Lab/
+  - knowledge-base/raw/tether-lab/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.pdf
+  - knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. Prompt Library - Tether Lab.md
+  - knowledge-base/raw/tether-lab/_extracted/6. The Ad Lab Toolkit/4. The_Prompt_Library_-_The_Ad_Lab_Toolkit_·_Tether_Lab.md
+  - knowledge-base/raw/assets/tether-lab/pdf-pages/4-Prompt-Library---Tether-Lab/
 tags: [resource, pdf, prompts, prompt-library, chatgpt]
 updated: 2026-10-20
 ---

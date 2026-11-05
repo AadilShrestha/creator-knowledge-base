@@ -1,0 +1,77 @@
+---
+title: "Topic map: which course owns each topic"
+type: overview
+creator: synthesis
+course: cross-course
+sources:
+  - knowledge-base/wiki/courses/evolve/copywriting/MERGE-NOTES.md
+  - knowledge-base/wiki/courses/evolve/start-here/MERGE-NOTES.md
+  - knowledge-base/wiki/courses/stefan-georgi/rmbc-ii/MERGE-NOTES.md
+  - knowledge-base/wiki/contradictions.md
+tags: [navigation, cross-course, ownership, routing]
+updated: 2026-11-05
+---
+
+# Topic map: which course owns each topic
+> Four courses cover overlapping ground. For each topic, open the **owner** page first: it holds the definition and the default procedure. The other courses' pages add numbers, settings and examples. Where they disagree, the conflict row in [contradictions](contradictions.md) gives the default.
+
+## 🤖 Agent use
+- **Use when:** a task touches a topic more than one course teaches, or you found two pages that seem to say different things.
+- **Inputs → outputs:** a topic → the owner page to follow, the pages to add detail from, and the conflict rows to apply.
+- **Rules:**
+  - DO follow the owner page's procedure; pull only numbers, settings and examples from the "adds" pages.
+  - DO apply the listed conflict row's default and say so in your output.
+  - DO run the [LLM output claim audit](courses/stefan-georgi/rmbc-ii/rubrics/llm-output-claim-audit.md) on any model-written copy, whichever course the procedure came from.
+  - DON'T treat RMBC II example briefs, VSLs or advertorials as models for proof: their doctors, testimonials, studies and scarcity are invented ([compliance red flags](courses/stefan-georgi/rmbc-ii/concepts/compliance-red-flags.md)).
+- **See also:** [AGENT-GUIDE](../AGENT-GUIDE.md) task table · [contradictions](contradictions.md) · [index](index.md)
+
+**Courses:** Tether Lab = Sarah Levinger, ad psychology ([hub](courses/tether-lab/README.md)) · CW = Evolve Copywriting, copy craft and iteration ([hub](courses/evolve/copywriting/README.md)) · SH = Evolve Start Here, research, media buying, testing, scaling, creators ([hub](courses/evolve/start-here/README.md)) · RMBC = Stefan Georgi's RMBC II, long-form direct response, funnels and LLM production ([hub](courses/stefan-georgi/rmbc-ii/README.md)).
+
+**Conflict row IDs:** X1–X29 = Tether vs CW · S1–S5 = SH vs Tether/CW · R1–R16 = RMBC vs Evolve/Tether. All in [contradictions](contradictions.md).
+
+## Research and strategy
+| Topic | Read first (owner) | Adds | Conflicts |
+|---|---|---|---|
+| Why an ad works (heuristics, zones, selves, journey, behaviour) | Tether: [heuristics](concepts/heuristics.md), [valence-intensity diagnostic](frameworks/valence-intensity-diagnostic.md), [three selves](concepts/three-selves.md) | CW: awareness, belief, mechanism, authority ([avatars and angles](courses/evolve/copywriting/concepts/avatars-and-angles.md)) | X9 |
+| Market desire and trigger moments | SH: [market desire](courses/evolve/start-here/concepts/market-desire.md), [desire calendar](courses/evolve/start-here/concepts/desire-calendar.md) | Tether: [triggering events](concepts/triggering-events.md), [core brand emotion](concepts/core-brand-emotion.md) | — |
+| Customer research | SH: [research stack workflow](courses/evolve/start-here/frameworks/research-stack-workflow.md), [research doc](courses/evolve/start-here/concepts/research-doc.md) | Tether: [customer research stack](frameworks/customer-research-stack.md) · RMBC: LLM first pass ([deep research workflow](courses/stefan-georgi/rmbc-ii/frameworks/deep-research-workflow.md), [unified research document](courses/stefan-georgi/rmbc-ii/concepts/unified-research-document.md)); its quotes are leads only | R3 |
+| Targeting unit (avatars vs selves) | SH for research: [core and sub-avatars](courses/evolve/start-here/concepts/core-and-sub-avatars.md) · CW while writing: [avatars and angles](courses/evolve/copywriting/concepts/avatars-and-angles.md) | Tether: [self-targeting](concepts/self-targeting.md), [angle rut](concepts/angle-rut.md) | X27, S2 |
+| Market awareness | CW: [market awareness](courses/evolve/copywriting/concepts/market-awareness.md) | SH: awareness × page-type matrix ([awareness levels](courses/evolve/start-here/concepts/market-awareness-levels.md)) · RMBC: category-level awareness and the market-split prompt ([product-market awareness](courses/stefan-georgi/rmbc-ii/concepts/product-market-awareness.md)) · Tether: buying-journey stage, a different question ([TEEP](frameworks/teep-journey.md)) | X17, R1 |
+| Unique mechanism | CW: [unique mechanism](courses/evolve/copywriting/concepts/unique-mechanism.md) | SH: [product overview and mechanism](courses/evolve/start-here/concepts/product-overview-and-mechanism.md), [sophistication levers](courses/evolve/start-here/concepts/market-sophistication-levers.md) · RMBC: problem/solution split and LLM ideation ([unique mechanism](courses/stefan-georgi/rmbc-ii/concepts/unique-mechanism.md), [UMP/UMS ideation](courses/stefan-georgi/rmbc-ii/frameworks/ump-ideation-and-evaluation.md)) · Tether: [perception management](concepts/perception-management.md) | R2 |
+| Positioning | CW: [positioning](courses/evolve/copywriting/concepts/positioning.md) | Tether: category create vs fit | X6 |
+| Angles from research | SH: [angle generation prompt](courses/evolve/start-here/frameworks/angle-generation-prompt.md), [research to first concepts](courses/evolve/start-here/playbooks/research-to-first-concepts.md) | Tether: [customer research to angles](playbooks/customer-research-to-angles.md), [angle remix](playbooks/angle-remix.md) · CW: [ad idea to brief](courses/evolve/copywriting/playbooks/ad-idea-to-brief.md) | — |
+| Competitor ads → our ads | Tether: [competitor ad teardown](playbooks/competitor-ad-teardown.md), then [angle remix](playbooks/angle-remix.md) (fidelity check) | Teardown libraries: [Tether](libraries/ad-teardowns.md), [CW](courses/evolve/copywriting/libraries/ad-teardowns.md), [SH](courses/evolve/start-here/libraries/ad-teardowns.md), [RMBC](courses/stefan-georgi/rmbc-ii/libraries/ad-teardowns.md) · RMBC: [composite vs swipe](courses/stefan-georgi/rmbc-ii/concepts/composite-vs-swipe.md) | X22, R15 |
+
+## Writing ads
+| Topic | Read first (owner) | Adds | Conflicts |
+|---|---|---|---|
+| UGC and short video scripts | [write-ugc-script skill](../../.claude/skills/write-ugc-script/SKILL.md) (merged Tether + CW) | CW: [write a video ad script](courses/evolve/copywriting/playbooks/write-a-video-ad-script.md) · Tether: [UGC script writing](playbooks/ugc-script-writing.md) · RMBC: short VSL band ([VSL length bands](courses/stefan-georgi/rmbc-ii/concepts/vsl-length-bands.md)) | X18–X21, X28, X29 |
+| Hooks | CW: [hooks](courses/evolve/copywriting/concepts/hooks.md), [bridges](courses/evolve/copywriting/concepts/bridges.md) | Hook libraries: [Tether](libraries/hooks.md) (heuristic-tagged), [CW](courses/evolve/copywriting/libraries/hooks.md), [SH](courses/evolve/start-here/libraries/hooks.md), [RMBC](courses/stefan-georgi/rmbc-ii/libraries/hooks.md) · RMBC: [hook generation system](courses/stefan-georgi/rmbc-ii/frameworks/hook-generation-system.md), hook IDs and locked-body swaps ([modular creative](courses/stefan-georgi/rmbc-ii/concepts/modular-creative-and-hook-swaps.md)) | X21, R5, R6 |
+| Statics | Tether: [static ad creation](playbooks/static-ad-creation.md) · CW: [write static image ads](courses/evolve/copywriting/playbooks/write-static-image-ads.md) | SH: [execution checklist](courses/evolve/start-here/rubrics/execution-checklist.md) | X23, X25 |
+| Story | Tether: [story frameworks](frameworks/story-frameworks-for-ads.md) · CW: [story building blocks](courses/evolve/copywriting/concepts/story-building-blocks.md) | — | X7, X8, X12 |
+| Briefs | One ad: CW [ad idea to brief](courses/evolve/copywriting/playbooks/ad-idea-to-brief.md) · production: Tether [creator brief](playbooks/creator-brief.md) · VSL or funnel copy: RMBC [Brief 2.0](courses/stefan-georgi/rmbc-ii/concepts/brief-2-0.md) | SH: framework briefs for sourcing creators ([creator frameworks vs scripts](courses/evolve/start-here/concepts/creator-frameworks-vs-scripts.md)) · RMBC: [brief generator](courses/stefan-georgi/rmbc-ii/frameworks/brief-generator.md) | S4, R13 |
+| Long-form VSLs | RMBC: [write a VSL with Claude](courses/stefan-georgi/rmbc-ii/playbooks/write-a-vsl-with-claude.md), [classic VSL structure](courses/stefan-georgi/rmbc-ii/concepts/classic-vsl-structure.md) | RMBC: [VSL review](courses/stefan-georgi/rmbc-ii/rubrics/vsl-review.md), [sell the click](courses/stefan-georgi/rmbc-ii/concepts/sell-the-click.md) | R14 |
+| Claims, proof and compliance | RMBC: [LLM output claim audit](courses/stefan-georgi/rmbc-ii/rubrics/llm-output-claim-audit.md), [compliance red flags](courses/stefan-georgi/rmbc-ii/concepts/compliance-red-flags.md) | Skill: [proof and claims](../../.claude/skills/write-ugc-script/references/proof-and-claims.md) · CW: [facts over opinions](courses/evolve/copywriting/concepts/facts-over-opinions.md) · SH: ⛔ rows in [rules](courses/evolve/start-here/libraries/rules.md) · Tether: [validation over authority](concepts/validation-over-authority.md) | X20, X26, R14, R16 |
+| LLM production (Claude Projects, prompts, editing drafts) | RMBC: [Claude Project recipe](courses/stefan-georgi/rmbc-ii/concepts/claude-project-recipe.md), [LLM copy-chief editing](courses/stefan-georgi/rmbc-ii/concepts/llm-copy-chief-editing.md) | CW: [AI in copywriting](courses/evolve/copywriting/concepts/ai-in-copywriting.md) · prompt libraries: [Tether](libraries/prompts.md), [CW](courses/evolve/copywriting/libraries/prompts.md), [SH](courses/evolve/start-here/libraries/prompts.md), [RMBC](courses/stefan-georgi/rmbc-ii/libraries/prompts.md) · [Claude tool page](tools/claude-ai.md) | R4 |
+
+## Pages and funnels
+| Topic | Read first (owner) | Adds | Conflicts |
+|---|---|---|---|
+| Advertorials and pre-sell pages | RMBC: [advertorial build](courses/stefan-georgi/rmbc-ii/frameworks/advertorial-build.md) | Tether: definition and disclosure ([native advertising](concepts/native-advertising.md)) | X16, R16 |
+| PDPs and landing pages | Build: RMBC [PDP build](courses/stefan-georgi/rmbc-ii/frameworks/pdp-build.md) · audit: Tether [LP psychology audit](frameworks/landing-page-psychology-audit.md), [LP scorecard](rubrics/landing-page-scorecard.md) | SH: awareness × page-type matrix ([awareness levels](courses/evolve/start-here/concepts/market-awareness-levels.md)) · Tether: [hero image and copy congruence](concepts/hero-image-copy-congruence.md) | — |
+| Ad-to-page journey and funnel choice | RMBC: [ad-to-page journey](courses/stefan-georgi/rmbc-ii/concepts/ad-to-page-journey.md), [funnel selection matrix](courses/stefan-georgi/rmbc-ii/concepts/funnel-selection-matrix.md), [congruence](courses/stefan-georgi/rmbc-ii/concepts/congruence.md) | SH: [awareness levels](courses/evolve/start-here/concepts/market-awareness-levels.md) · Tether: [TEEP](frameworks/teep-journey.md) | R7 |
+| Checkout, upsells, email, webinars | RMBC: [checkout optimization](courses/stefan-georgi/rmbc-ii/frameworks/checkout-optimization.md), [upsell formula](courses/stefan-georgi/rmbc-ii/concepts/upsell-formula.md), [upsell flow build](courses/stefan-georgi/rmbc-ii/frameworks/upsell-flow-build.md), [email sequences](courses/stefan-georgi/rmbc-ii/frameworks/email-sequences.md), [webinar funnel](courses/stefan-georgi/rmbc-ii/frameworks/webinar-funnel.md), [post-purchase and retention](courses/stefan-georgi/rmbc-ii/playbooks/post-purchase-and-retention.md) | Tether: [offer and bundle psychology](frameworks/offer-and-bundle-psychology.md) | R16 |
+| Offers, bundles, anchoring | Tether: [offer and bundle psychology](frameworks/offer-and-bundle-psychology.md) | RMBC: [upsell formula](courses/stefan-georgi/rmbc-ii/concepts/upsell-formula.md) | X5 |
+| Unit economics and benchmarks | RMBC: [funnel economics](courses/stefan-georgi/rmbc-ii/concepts/funnel-economics.md), [benchmarks](courses/stefan-georgi/rmbc-ii/libraries/benchmarks.md) | SH: breakeven and target ROAS ([KPIs and columns](courses/evolve/start-here/frameworks/kpis-and-columns.md), [KPI thresholds](courses/evolve/start-here/libraries/kpi-thresholds.md)), [product research screen](courses/evolve/start-here/frameworks/product-research-screen.md) | R9 |
+| A whole new product or funnel, end to end | SH: [launch a new product](courses/evolve/start-here/playbooks/launch-a-new-product-end-to-end.md) (ads-led) · RMBC: [offer to funnel](courses/stefan-georgi/rmbc-ii/playbooks/offer-to-funnel-end-to-end.md), [launch a cold-traffic funnel](courses/stefan-georgi/rmbc-ii/playbooks/launch-a-cold-traffic-funnel.md) (page-led) | RMBC: [funnel audit](courses/stefan-georgi/rmbc-ii/rubrics/funnel-audit.md) | R7, R12 |
+
+## Testing, media buying and creators
+| Topic | Read first (owner) | Adds | Conflicts |
+|---|---|---|---|
+| Meta account structure, scaling, attribution | SH: [campaign structure 3:2:2](courses/evolve/start-here/frameworks/campaign-structure-322.md), [scaling rules](courses/evolve/start-here/frameworks/scaling-rules.md), [click-based attribution](courses/evolve/start-here/concepts/click-based-attribution.md), [weekly media buying routine](courses/evolve/start-here/playbooks/weekly-media-buying-routine.md) | Tether: [creative testing system](frameworks/creative-testing-system.md) · SH: [ad account audit](courses/evolve/start-here/rubrics/ad-account-audit.md) | S5, R10 |
+| Native, Google and TikTok mechanics | RMBC: [paid traffic by platform](courses/stefan-georgi/rmbc-ii/frameworks/paid-traffic-by-platform.md) (guest lessons) | Tether: [native advertising](concepts/native-advertising.md) | R11 |
+| Test labels (loser / KPI winner / spend winner / breakthrough) | SH: [winning-ad labels](courses/evolve/start-here/concepts/winning-ad-labels.md) | CW: [iteration outcomes](courses/evolve/copywriting/concepts/iteration-outcomes.md) | S3 |
+| Testing method | New angles: SH [Marksman / Sniper testing](courses/evolve/start-here/concepts/marksman-sniper-testing.md) · tweaks on a proven winner: Tether [creative testing system](frameworks/creative-testing-system.md) | RMBC: hook IDs on a locked body ([modular creative](courses/stefan-georgi/rmbc-ii/concepts/modular-creative-and-hook-swaps.md)) | X3, X18, S1, R12 |
+| What to change after a test | CW: [iterate on test results](courses/evolve/copywriting/playbooks/iterate-on-test-results.md), [iteration playbook](courses/evolve/copywriting/frameworks/iteration-playbook.md) | SH: [learnings review](courses/evolve/start-here/frameworks/learnings-review.md), [rewrite losers](courses/evolve/start-here/frameworks/rewrite-losers-and-iterate.md) · Tether: [iteration vs variation](concepts/iteration-vs-variation.md) | X3, X4, R6 |
+| Page and CRO tests | RMBC: [CRO testing](courses/stefan-georgi/rmbc-ii/frameworks/cro-testing.md) | SH: 3:2:2:2 page-fit signal ([campaign structure](courses/evolve/start-here/frameworks/campaign-structure-322.md)) | R8 |
+| Creator program, ambassadors, whitelisting | SH: [creator program setup](courses/evolve/start-here/playbooks/creator-program-setup.md), [brand ambassador program](courses/evolve/start-here/frameworks/brand-ambassador-program.md), [Insense creator pipeline](courses/evolve/start-here/frameworks/insense-creator-pipeline.md) | Tether: [creator brief](playbooks/creator-brief.md) | S4 |

@@ -5,7 +5,7 @@ niche: skincare-beauty-and-haircare
 sub_niche: "personalized (custom) haircare"
 course: tether-lab
 sources:
-  - raw/tether-lab/_transcripts/5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.txt
+  - knowledge-base/raw/tether-lab/_transcripts/5. Recordings/July 2025/2. Live With Sarah - July 16 2025 - Recordings.txt
 tags: [brand, haircare, personalization, pdp, fogg-behavior-model, ability, risk-reversal, guarantee, zone-1, prompts]
 updated: 2026-10-20
 ---

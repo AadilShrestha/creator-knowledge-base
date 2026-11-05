@@ -39,3 +39,6 @@
 *.npz
 *.partial
 *.tmp
+
+# Obsidian per-user window state
+/.obsidian/workspace*.json

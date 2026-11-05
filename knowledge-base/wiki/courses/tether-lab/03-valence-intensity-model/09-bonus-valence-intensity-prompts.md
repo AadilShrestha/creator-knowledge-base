@@ -5,9 +5,9 @@ course: tether-lab
 module: 03-valence-intensity-model
 order: 9
 sources:
-  - raw/tether-lab/_extracted/3. The Valence & Intensity Model/9_Bonus_Valence_+_Intensity_Prompts_The_Valence_&_Inten.md
-  - raw/tether-lab/_extracted/3. The Valence & Intensity Model/9. Valence + Intensity - Prompts.md
-  - raw/tether-lab/3. The Valence & Intensity Model/9. Valence + Intensity - Prompts.pdf
+  - knowledge-base/raw/tether-lab/_extracted/3. The Valence & Intensity Model/9_Bonus_Valence_+_Intensity_Prompts_The_Valence_&_Inten.md
+  - knowledge-base/raw/tether-lab/_extracted/3. The Valence & Intensity Model/9. Valence + Intensity - Prompts.md
+  - knowledge-base/raw/tether-lab/3. The Valence & Intensity Model/9. Valence + Intensity - Prompts.pdf
 tags: [bonus, prompts, chatgpt, tone-shifting]
 updated: 2026-10-20
 ---
