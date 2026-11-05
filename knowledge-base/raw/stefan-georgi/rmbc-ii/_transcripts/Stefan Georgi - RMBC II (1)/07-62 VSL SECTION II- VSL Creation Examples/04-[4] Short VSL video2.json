@@ -1,0 +1,89 @@
+{
+  "source_file": "Stefan Georgi - RMBC II (1)/07-62 VSL SECTION II- VSL Creation Examples/04-[4] Short VSL video2.mp4",
+  "source_id": "mega:GwRSGa5C",
+  "audio_sha256": "9b683d2a98f0d5c7a0af3a364165595586aefc80810229815dda203a7e7b3678",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 668.65,
+  "last_segment_end": 668.65,
+  "segments": [
+    {
+      "start": 1.58,
+      "end": 31.78,
+      "text": "All right, so let's just look at short VSLs real quick, and we'll do the Airbnb example again. I mean, at this point here, you've got a lot of different options, right? It's kind of like, what are you trying to do with your short VSL? Is it just to get someone to watch longer presentation, or is it to get them to go right to a book a call? To get them to go right to book a call, you could always just take one of the VSL options you did already. For example, we've got the long one and the short one. Hey, make a two-minute version of this that, you know,"
+    },
+    {
+      "start": 31.78,
+      "end": 76.53,
+      "text": "call to action to go apply to book a call so let's like do that real quick right let's say yeah please i mean honestly you don't need to use this in a cloud project but you could please make a two minute version of this um with the cta to call hopefully it just does a good job let's find out okay it should be fascinating i'm about to show you explains why every side hustle you've tried has failed and has anything to do with your work ethic or intelligence you don't have an income problem you have an asset gap problem"
+    },
+    {
+      "start": 76.53,
+      "end": 108.19,
+      "text": "You've been trying to solve an asset gap problem with income gap solutions. That's why everything has failed. Yeah, it's a little bit like what, but it's kind of interesting. Marcus went through this. You're probably like I was. You're working harder. Here's the truth. Wealthy don't get rich from bigger paychecks. They get rich by community assets, but the system makes it impossible for regular people to access these wealth-buying assets. Want real estate? That's for the asset control method. Instead of buying properties with huge down payments, you gain control. Cash-buying assets through strategic partnerships with property owners. Find landlords."
+    },
+    {
+      "start": 108.19,
+      "end": 144.53,
+      "text": "you know do this 18 months i did i built this uh here i built portfolio it's another side hustle you're building a portfolio of assets that generate cash flow whether you're working or sleeping create free training or break it down you'll get this pin gem market analysis i do these trains a few times a year limited spots but right cool frankly it's good you could run that and then going back to the hooks um back to here like"
+    },
+    {
+      "start": 145.65,
+      "end": 192.11,
+      "text": "Nice, thanks. Now, let's do a version that opens with this hook. Hopefully it does it correctly and editing something weird. Cool, right? Good hook. Bam, boom, thank you, ma'am. There we go. Did it actually stay this time? Great. Okay, so easy peasy. If you didn't have an existing VSL already, even though now you know how to write one really quickly, but you did have your brief, you could also..."
+    },
+    {
+      "start": 193.36,
+      "end": 252.5,
+      "text": "Upload the brief. Let's see. Did I do it? Sorry, one second. Brief for an Airbnb. There's a new Spacer coaching program. Let's do five short BSLs that are two minutes each. The CTA call. Here are the hooks. I want to use that one."
+    },
+    {
+      "start": 261.78,
+      "end": 347.15,
+      "text": "Most people think real estate investing requires six figures. This couple started with $3,000. I think that's a good one. Book number two. I select the birthday. I had to ask my boss for my birthday. All right. Sorry, man. The doorbell rings. They're all going crazy. I forgot this hook, this hook, this hook. So that's three. I can't stop chasing shiny objects and start building real assets. I mean, why? Because a lot of people know they have shiny object syndrome. So it's kind of home. And what if your rent income could be generating income for you?"
+    },
+    {
+      "start": 347.15,
+      "end": 397.33,
+      "text": "The rent payment could be doing it for you. It's kind of interesting as well. All right, so I gave it five hooks. It's got the brief. I didn't put the market awareness thing here. I'm going to put it. You know what? These five-minute VSLs will be going mostly to problem aware people. Let's focus most on... Okay. All right."
+    },
+    {
+      "start": 397.49,
+      "end": 429.18,
+      "text": "Most people work 40 years to afford retirement, but this tragedy works for 40 weeks. Here's what I mean by that. Traditional path says save 10% of your paycheck, invest in the next funds, and maybe if you're lucky, you'll have enough to retire at 65. But here's the problem with that plan. As soon as your income will keep up with inflation, the market won't crash when you need it, and you'll actually live long enough to enjoy it. Meanwhile, there's a completely different approach that wealthy people have been using for decades. Instead of saving money from your paycheck, you can show cash flowing assets."
+    },
+    {
+      "start": 429.18,
+      "end": 462.85,
+      "text": "I'm going to show you what I mean. My student Sarah was a teacher making $42,000 a year. She followed the traditional advice, saved every penny, lived on ramen. Oh my gosh, this is so annoying. Maybe she'll wait until we're done, I guess. Sorry, I'll pause and I'll come back so you don't have to continue to interrupt. Alright, so I think it's done for all these now. So let me go back to one again. Okay, so Sarah, after eight years, she had made $35,000 saved up. At that rate, she needs to work another 30 years to have her retire."
+    },
+    {
+      "start": 462.85,
+      "end": 492.11,
+      "text": "Then she discovered what I call the asset control method. Instead of buying properties, which required $80,000 down payment she didn't have, Sarah learned how to gain operational control of cash flow and rental properties without owning them. Here's how it works. Let's explain how it works. She secured her first property for just $4,500. Within 30 days, it was earning $3,200 a month in passive income. That's more than she was saving in an entire year following the traditional path. Within 40 weeks, Sarah built a portfolio generating $8,500 monthly in passive income enough to completely replace her teaching salary."
+    },
+    {
+      "start": 492.11,
+      "end": 529.2,
+      "text": "The difference is instead of trading time for money and hoping it compounds over 40 years, she was controlling assets and made money while she slept. She still teaches because she wants to, no, because she has to. I'm not saying it's easy. Anyway, looks good, right? Hopefully it's a free strategy session, blah, blah, blah. Yeah, so let's just look at the hook, kind of. Most people think real estate investing requires six figures. This couple started with $3,000. Meet Jake and Lisa. Two years ago, they were drowning in student loan debt, living paycheck to paycheck, watching everyone around them buy houses they can never afford. Try all this stuff."
+    },
+    {
+      "start": 531.76,
+      "end": 589.57,
+      "text": "Basically, it's like, yeah, I'll show you so you can go through them. But the point is, I don't think I need to read out the copy for everything. For long form, it's important because you got to see how I edit and change it. But like, even that's pretty brief on the long form. Probably combine them into one thing. That one's good. I like the hook, right? The idea is like, what if your rent payment could be generating income for you? I'd say instead of going to someone else's pocket, probably that is one thing I would edit. Hook, book, let's do it like."
+    },
+    {
+      "start": 589.57,
+      "end": 639.82,
+      "text": "this wait ah but at the end let's add sharing for you instead of lining someone else's pocket that's something i would change with that one that's it anything is better right it's more emotionally charged okay so i'll show these with you as well i didn't do three to seven because honestly i feel like you know you know what to do at this point if you watch the uni ice term one the cloud project setup i mean it's really just dealer's choice and we'll talk about it"
+    },
+    {
+      "start": 640.43,
+      "end": 668.65,
+      "text": "They have a training about how to pick the right funnel flow. And there's a whole little matrix that's going to help you a lot. But yeah, I think it's good. I'm going to do the long and medium form one with blood sugar probably. Maybe short as well. I don't know yet. But at this point, you should have a pretty good grasp of everything on VSLs and beyond. All right. Thanks."
+    }
+  ]
+}

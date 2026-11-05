@@ -1,0 +1,127 @@
+1
+00:00:00,660 --> 00:00:18,820
+All right, so in this video, we talked about the importance of understanding click-based attribution or just the different types of attribution that are inside of Meta. So the first thing that I want you to understand is that Meta uses attribution settings in two ways. One is to help it learn.
+
+2
+00:00:18,820 --> 00:00:44,030
+who to go after so for example it's going to actually optimize around all of the different things that you tell it to do so if you're running lowest cost highest volume and on you're on a seven-day clicker one-day view ratio what meta is going to do is it's going to use this attribution to learn from those basically those parameters okay and so for you
+
+3
+00:00:44,030 --> 00:01:11,380
+right now that might be a little bit over your head if it isn't then great but the second thing that you need to understand is this is actually how meta will report data back to you so the purchases that it actually puts inside of the ads manager are also based off of these parameters so if somebody clicks an ad and purchases within seven days then you will be credited a purchase okay and loom is not showing me my little
+
+4
+00:01:11,380 --> 00:01:35,380
+pen thing, but I can't draw anymore. But anyhow, you will be credited to purchase if someone clicks your ad. Say, for example, it's Monday today. Someone clicks your ad and then on Sunday they purchase. Meta will count that as a purchase. But if they were to click the ad on Monday and they don't purchase until next Wednesday, so like 10 days go by, Meta will not take credit for that.
+
+5
+00:01:35,380 --> 00:02:03,020
+OK, unless they click an ad again. So say, for example, they click an ad on Monday and then they click an ad the next Tuesday and then purchase on Wednesday. Of course, Meta will take credit for that. But hopefully you get my point here. Now, what some people don't understand is that one day view is also an attribution model inside of Meta. Now, why does Meta do this? Well, there is some place for view through attribution. If you ask me, for example, if you're a brand that doesn't have a lot of data.
+
+6
+00:02:03,020 --> 00:02:32,460
+And you're just trying to, you know, get people in front and say, for example, somebody clicks your ad on Monday and then two weeks go by and they keep seeing your ads, keep seeing your ads. And then they see your ad, you know, at lunch while they're on their phone and then decide to go and purchase later that night on their laptop. And Meta has, you know, the data to match them up. It will credit that ad with view through attribution purchases. Now, the reason why I'm explaining all this to you is because it's important for you to understand about how it can actually scale your ad account.
+
+7
+00:02:32,460 --> 00:03:01,780
+OK, and so for you to actually be able to see how much view through and how much click through attribution you have, you need to scroll down and you need to go to compare attribution settings. Now, what you'll do here is you'll be able to click seven day click. You can also click one day click as well. And I will click that for the sake of it. There's choose conversion count down here, which says see every conversion that happened after an ad view or click. And then this one is see only the first conversion that happened after an ad view and click. And so this actually is pretty interesting because this kind of tells you like.
+
+8
+00:03:01,780 --> 00:03:17,120
+how many people purchase. It doesn't tell you new customers specifically, but it does tell you, you know, specifically just the first conversion out of people bought multiple times. But the point of this is, is if I go into our main campaign here and actually let me just check to make sure that's all good to share.
+
+9
+00:03:17,120 --> 00:03:45,980
+And we're all good. Now, if we jump into here, you can see that a lot of the purchases that were coming in. So if I filter by spend here, you'll be able to see all the ads that got spent from September 1st to September 30th. We had $5,000 in spend and we had 120 total purchases. And now this is what most people think is just total purchases, right? But if you actually take a look at this, you can see that 77 of those 120 purchases were.
+
+10
+00:03:45,980 --> 00:04:14,850
+a one-day view purchase, meaning that only 43 of them actually came from people clicking the ad. So the reason why this is important is because if we actually go into something called scaling protocol, now that all the sirens are gone, inside of here, you'll notice that in this actual chart, we ask if more than 60% of the purchases are from click-based attribution data, or is click-based attribution data actually meeting KPI?
+
+11
+00:04:14,850 --> 00:04:42,100
+And so, for example, if we go over here and we scroll to the right, you could see our return on ad spend goes from a 5.32 all the way down to a 2.24 on seven day click conversion only. Now, how does that happen? What is the most common reason why there's like so much view through data? It's mainly because of these few things that we've noticed. First is email. So if you send an email.
+
+12
+00:04:42,100 --> 00:04:52,670
+for example, and you do a drop or whatever, you do something that sends an email and you get a lot of people who come and purchase from that, Facebook will have a spike in attribution that day because obviously it gets a lot of people to come and buy.
+
+13
+00:04:52,670 --> 00:05:22,540
+OK, that's the most common thing that applies to everyone. The second most common thing is returning customers. So if you have a high returning customer rate, a lot of your returning customers are just purchasing anyways. But Facebook is taking that attribution on a view through level because, again, Facebook's job is to get you the highest volume of purchases at the lowest cost. And who is going to buy at a very low cost? Probably somebody that already knows you and has already bought from you.
+
+14
+00:05:22,540 --> 00:05:31,840
+Basically, you give attribution and optimize based off of one day view data and you have a lot of returning customers, you're going to see a very high view through data.
+
+15
+00:05:31,840 --> 00:05:58,350
+OK, that's just what happens. Now, the third thing that is not as common for a lot of you, but if you're actually building a brand and kudos to you, you have organic presence. And this is what exactly happened to this brand specifically, where they have a lot of influencers and they have a lot of other things that are going on. And so Facebook right now is just collecting attribution from all these other platforms, hard work. And what ends up happening is you start inflating your Facebook data and you might start overspending.
+
+16
+00:05:58,350 --> 00:06:27,660
+dramatically. And what happens is in this instance, you might be wondering, well, you spent seven K at a five, why didn't you spend more? It's because our actual seven day click KPI was not meeting the target KPI that we have. We were trying to be like a 2.5, three X on seven day click basis. Okay. And so now we're seeing way more one day view data, which is not good. Now the other metric in here is one day click. This is good. This is just good for you to see how many people actually buying the in within 24 hours of clicking your ad that kind of shows you the overall.
+
+17
+00:06:27,660 --> 00:06:35,500
+effectiveness of your ad. It also helps you better understand a little bit more of your customer journey. You know, for example, if you test a new creative and say the first day it doesn't get.
+
+18
+00:06:35,570 --> 00:07:02,500
+the best return on ad spend, well, it might just take a little bit longer for people to actually purchase, where sometimes seven-day click and one-day click are very close. Now, for most of you, you might not be dealing with this severe amount of one-day view attribution, but the thing that I want you to understand is that this is something that is very, very, very important as you start to scale and as you start to become a bigger brand, okay? And so now, what we decided to do for this brand specifically, let me go ahead and slide over.
+
+19
+00:07:02,500 --> 00:07:21,570
+In this next month here, you'll see that we actually launched a seven day click only campaign. And this is also a reminder to test your LPs because our LP campaign was actually the top performing one also on seven day click attribution if I pull this out. And what you'll notice inside of here is that our all acquisition campaign.
+
+20
+00:07:21,570 --> 00:07:41,230
+actually only spent $8,000 at a, of course, 7.79x reported return on ad spend. But again, if we go into the compare attributions, we go to seven day click, and we scroll over, we can see that our actual return on ad spend on a click basis was 2.83. However,
+
+21
+00:07:41,230 --> 00:08:10,540
+for our seven-day click specific campaign, which I'm gonna get into in a second and show you guys, was at a 3.13 and was also at far more scale. We spent, I believe it was $24,000, so three times as much at a higher return ad spend simply by changing the attribution setting and letting Facebook start to optimize more for click-based customers rather than view-through customers, right? Like, look at this. You're looking at a 7.79x return ad spend. Most people would lose their mind. Like, oh my God, it's insane.
+
+22
+00:08:10,540 --> 00:08:39,760
+you know, deep on a deeper level that this data is not incremental. Okay. And that is the whole goal of Facebook is if you want Facebook to drive sales on the store that you can actually see. Okay. And so that's why we track seven day click basis. And that's why it's so important for you to actually look into that. Now, if you have a tool like triple whale, I'm actually going to explain the difference of that as well in this video, or probably in another video, but that's the difference between TA and TA plus view. Okay. Because we want
+
+23
+00:08:39,760 --> 00:09:02,740
+to eliminate the view through data not saying that view through data doesn't play a part it definitely can but it's not incremental okay and so that's why when we're looking at our overall sales and our ads and how well they're performing we're constantly looking at seven day click attribution let me actually go ahead and jump into these ad sets to show you the ads as well or not the ads as well but to show you it was the same ads running
+
+24
+00:09:02,990 --> 00:09:32,590
+All right. So here we are. This is the seven day click one day view campaign. All right. And as I click in here, you can see we have our champions ad running. We have our DCTs, AI DCT there, DCT 114. You can see all the DCTs that we're running. And if we go into the seven day click campaign again over here, there's obviously not as many in there because we started this. I think it actually started it later in the month. I want this to load without. There we go. So seven day click campaign. If we click inside of here, you can see there's all the same ones, AI DCT, all that kind of stuff. And this was the.
+
+25
+00:09:32,590 --> 00:09:58,590
+campaign that absolutely crushed it. Now, the reason why I said multiple attribution is because our team accidentally sent this up as a seven day click one day view. And I got really mad at them. And I said no. And so they switched it. But the point of this is, is that is why attribution matters. And that's why you need to understand it. Okay, so just to be clear, this does not mean that you should go and set seven day click, just because of this, just because of these results. Okay, this client had a very specific view through problem.
+
+26
+00:09:58,590 --> 00:10:28,050
+How do you know what is the specific view through problem? Well, I would say if more than 60% of your purchases, or sorry, if more than half of your purchases are coming from view through, which in this instance, it was for this client, right? We had, I believe it was, let me just take a look, compare attribution setting, seven day click. They had 234 total purchases and 77 of them were seven day clicks. So that means 77 of the 234 was 32%. So only 32% of their purchases were actually from people clicking the app.
+
+27
+00:10:28,050 --> 00:10:50,640
+So that means the other 100 and however many, almost 200 purchases came from view through retribution, which means that they had basically 70% of their purchases were just people viewing the ad and not even clicking it, right? And this also sometimes gives you insights of like, you might see an ad like this, right? It had nine purchases and you might be like, why isn't Facebook scaling this harder? Blah, blah, blah, blah, blah.
+
+28
+00:10:50,640 --> 00:11:19,950
+This had zero click-through purchases, right? So Facebook was literally just showing this to people and collecting attribution, and that was it, okay? And this is one of the biggest things we see with brands that are struggling to scale. But long story short is that this does not mean you have to run seven to eight click. Does this mean that you should test it? I 100% would say it's worth a test for you. Is this going to scale your ad account from $1,000 to $10,000 per day? Absolutely not. But is this going to help drive more incrementality, especially if you're a bigger brand? 100%, okay? Because you need to make sure that you're not overspending on meta.
+
+29
+00:11:19,950 --> 00:11:44,880
+you feel like you're having roller coaster days go and check your view through attribution because you might have some bad view through attribution even with our brands where say it's the inverse say 77 so i don't know what this is let's just say like 160 is rough math around that so 170 of our purchases are coming from click-based data so say it's the inverse say now 70 of our purchases are click-based
+
+30
+00:11:44,880 --> 00:12:11,280
+Even in that instance, sometimes we still test a seven-day click campaign just to see if Facebook optimizes differently. But it's important for you to understand the attribution settings inside of here. Now, unless you're a brand spending like over $100,000 per day, you probably don't need to worry about one-day click attribution or anything like that. Just know that we at the agency only really use two attribution settings. One is seven-day click and one-day view or one-day view.
+
+31
+00:12:11,280 --> 00:12:40,700
+And that's for brands that are usually at lower spends that need more data. And when I say lower spends, like less than $1,000 per day, or even if you're spending less than $1,000 per day, but you have like in that instance that I showed with this brand here, we were spending less than $1,000 per day, but the view through was just terrible. It's still worth a switch. But for most of you guys that don't have really big brand presence, it's not really needed. And I would say if you're spending above $1,000 per day, or again, you have bad view through attribution, you should be using seven day click.
+
+32
+00:12:40,700 --> 00:13:03,980
+OK, so hopefully that makes sense. If you guys have any questions about this, as always, ask me in the chat. But hope this helps clarify things. And if you're a bigger brand struggling with view through attribution or like you can't figure out maybe why you're scaling is a little bit rocky or you want to see if this can help improve your overall performance, because it does help the machine learn off of data that is from people clicking and not just viewing. This is definitely recommended as a test. OK.

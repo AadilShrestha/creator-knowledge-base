@@ -1,0 +1,129 @@
+{
+  "source_file": "👣 Evolve (Start Here)/96. 🆕 How To Set Up Zombie Graveyard Campaign 👣 Evolve (Start Here) Evolve.mp4",
+  "source_id": "mega:jhQDiSSY",
+  "audio_sha256": "13fb768ec02206086b709d3e7e7e64ba96bab6a8fafdef19a3604c835270cfcd",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 522.71,
+  "last_segment_end": 522.71,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 24.05,
+      "text": "All right, guys, so in this video, we're going to be talking about the zombie slash graveyard campaign that I have discussed briefly on Discord, but I'm actually going to show you guys how to set this up just so I can show kind of where I originally saw this from and some things that we have just discussed. Opal is actually not allowing me to show you guys the tweets, but I'll link the tweets below. Basically, Nick Shackleford, shout out to Nick, and J for Jacob, two guys in the space that are obviously, you know..."
+    },
+    {
+      "start": 24.05,
+      "end": 50.0,
+      "text": "savage dudes um i've talked about this before but basically what the graveyard or zombie campaign is it's a cbo cost gap campaign for ads that have in quotations failed okay and i want to make it very clear right away and i'm probably going to have to go full screen for this but this is not a coping mechanism for you to be like oh this is going to scale me like i knew my ads were good like no like guys trust me like this is not going at least from what we've seen this is not going to like"
+    },
+    {
+      "start": 50.0,
+      "end": 79.28,
+      "text": "scale the account 200k days. But what this can do is this can help you get some extra spend. Now, how incremental is it? We're still kind of doing tests to figure that out. And we're testing this a lot more right now as you watch this video to see like how incremental it actually is. But for the most part, like this is just an extra campaign that can essentially help you get more from each creative test. Because in case you guys forgot, there is a cost per creative, you know, however much your creative team costs versus how many creatives they make. If you divide how many creatives they make by your team's cost, or even if you value your own time by how much it's how much time you spend and whatever."
+    },
+    {
+      "start": 79.28,
+      "end": 103.57,
+      "text": "your hourly rate is, you have a certain cost per creative. And the goal is to try to be ROI positive from each creative test. Now, you won't always be that way. But back to the point here, as you can see, again, we want to try to acquire purchases at the best CPA we can, and not in the account, but just the best CPA we can and try to milk these creatives or wait until Meta sees an opportunity to push them. Okay, so the way to set this up is it's very simple. You just have a CBO campaign."
+    },
+    {
+      "start": 103.63,
+      "end": 109.98,
+      "text": "for the cost per result goal. And I'll show you guys how to do this too. And then we have an ad set level where we set the cost gap."
+    },
+    {
+      "start": 109.98,
+      "end": 139.28,
+      "text": "just like tightly. So usually below whatever your target CPA is, about 20% below. And you can play with this if you want. But again, don't spend a whole day playing with cost caps. Like if you notice it's not spending anything, maybe try to adjust it. But again, this is a graveyard zombie campaign. This is just supposed to be something that gets a little bit of extra spend. Okay. And I've got some data that I'll show you guys as well. And then we have the ad level where we just put all the ads inside of one ad set. I believe Meta still has a rule. We didn't max it up for this client specifically, but you can only put a max of"
+    },
+    {
+      "start": 139.28,
+      "end": 168.5,
+      "text": "like 50 ads per ad set. So if that's the case, then just start a new ad set and keep uploading ads in there. And again, the steps are very simple. So once the ad tests for seven days, if it is a loser, again, it's not hitting KPI and it's not getting spent, you can turn the ad set off in the main testing campaign and duplicate just the ad. So whatever ad got the most amount of spend in the instance when our media buyers were actually doing this, they were just duplicating whatever ad in the ad set, like got the most amount of spend because most of our ads will always get spend now."
+    },
+    {
+      "start": 168.5,
+      "end": 190.0,
+      "text": "But essentially it's just like, it's not scaling. But if you want to duplicate all three of your variations from the two, two, you can, but we're just kind of duplicating over one. Again, that's up to you. That's just how our media buyers are doing it. Again, we're testing whether or not it makes sense to duplicate all three versus just one, but it doesn't matter if you want to be like super safe. Like I want to make sure every single creative gets, you know."
+    },
+    {
+      "start": 190.0,
+      "end": 205.04,
+      "text": "you know, this inside the zombie or graveyard campaign that just duplicate all three from the ad level into this, uh, into this ad set that is in the graveyard campaign. And again, I'll show you guys how to do that. And then again, you're going to, um, basically just let it rip and let it do its thing."
+    },
+    {
+      "start": 205.04,
+      "end": 234.32,
+      "text": "So here's actually some data. So this is from August and I'm just zoomed in. So I don't like show this client's data, but this is from like August 1st to August 31st. And you can see here, this account in total spent around, it was $67,000. And you can see our losers campaign here spent 9,000. So it added a little bit of extra spend. And if we actually like zoom over just a little bit here, you can see that the ROAS was 1.22 and the main campaign was at 1.9. Overall account, this was actually below. I think we..."
+    },
+    {
+      "start": 234.32,
+      "end": 257.01,
+      "text": "actually hijacked this so this might have been uh not the entire month of it being a loser campaign it might have been something else uh but essentially here you can see the frequency is quite high which is again what we usually expect with this just because the fact that again like these are ads that are not really doing much okay i'm going to try to update this without breaking things here uh these are ads that like aren't aren't scalable really"
+    },
+    {
+      "start": 257.01,
+      "end": 286.29,
+      "text": "Right. And so the thing is here, and now I've, I've messed it up even more, but you can see losers campaign is still here. Um, you can see this month we spent 66,000 and then it had 6.3 K in spend. So again, about 10% of the account spend, which is not terrible. Uh, and the CPA was much better here. So I believe we tightened it up, uh, because we were playing with different bids. And as you can see, this had a 1.62, uh, versus a 1.44. And you can see that the conversion rate here is very, very high. Uh, this campaign here, by the way, is a promo campaign, which is why the conversion rate and ROAS is really good. Uh,"
+    },
+    {
+      "start": 286.29,
+      "end": 315.5,
+      "text": "And then if we go into October, you can see this month again, losers campaign spent about, where is the spend here? If I go back, about 2K out of 40K in total spend. So now we're down to like 5%. And you can see the budget here is not that high. And by the way, these campaigns are now turned off. You can see the campaigns that are actually running here. And this client now actually has a different team managing things, but basically they're running a ROAS goal campaign and they're also running a cost per result campaign. So you can play with how much budget you want to put on it. We weren't."
+    },
+    {
+      "start": 315.5,
+      "end": 327.34,
+      "text": "putting an insane amount of budget because our cost cap wasn't set extremely high or our CPA wasn't set extremely low. So basically here."
+    },
+    {
+      "start": 327.38,
+      "end": 356.98,
+      "text": "what we're doing is we're just telling meta like a max you can spend is like 200 bucks a day and letting it do its thing. And again, you can see the overall ROAS was higher, but again, the frequency here is at a six, right? So you could tell this is very much a retargeting campaign. I mean, overall, the frequency was quite high here in October, to be fair, but it's going to be a little bit higher than the average. But again, the CPA is relatively good, okay? And so this is one account that we have data in. The other account that we did this in that had a little bit more spend, maybe it got up to one month where it had like,"
+    },
+    {
+      "start": 356.98,
+      "end": 375.98,
+      "text": "13 or 14% of spend. Um, we, we don't have access to data accounting more, so I can't show it to you guys. Uh, we parted ways with them. And so anyways, my, my point is, is like, we have been testing this, you know, I always try to show data, uh, but to show you guys how to set this up, all you're going to do is click create, you're going to go sales campaign. Uh, and again, we set this as a CBO, uh, we're going to turn advantage, uh,"
+    },
+    {
+      "start": 375.98,
+      "end": 405.39,
+      "text": "catalog off uh it's going to be campaign budget and then down here we're going to change the bid strategy to just uh cost per result goal uh so down here once you set that up you're basically good to go uh and then where you do all the actual setting is on the ad set level so again maximize number of conversions again i've just got random pixels here so this is my my data set uh again we're going to go for purchases as always hopefully you guys know that by now and then again the cost per result goal is going to be based off of where you're at so for example if you're a target cpa"
+    },
+    {
+      "start": 405.39,
+      "end": 413.74,
+      "text": "is $100. We just would recommend a minimum of setting it 20% below. So if our cost per result was $100, well, then here we would set it at"
+    },
+    {
+      "start": 413.74,
+      "end": 437.89,
+      "text": "80. And that would be the CPA goal that we set. We personally, again, like we have played around if we go to the campaign level, we have played around with the different types of bid strategies where you could do a ROAS goal. There's obviously bid caps that we haven't really gotten into and bid caps can have some issues. But as long as you're using cost per result or ROAS, I mean, for the most part, I've noticed that cost per result is usually a little bit better than ROAS goal."
+    },
+    {
+      "start": 437.89,
+      "end": 467.65,
+      "text": "For the most part, that's how we set it. Again, we just have the one ad set and then we just dupe a bunch of ads in here. So for example, I'm just gonna go ahead and close this. If whatever, you know, if this ad set specifically wasn't getting spanned, wasn't hitting our KPI, well, very simply, we would turn this off. Once we turn that off, we would then just come in here and we would duplicate, say these were the three ads that were in there. We would just duplicate these into the cost result or the zombie campaign, right? So this would again be called the EAM zombie,"
+    },
+    {
+      "start": 467.65,
+      "end": 470.83,
+      "text": "you know, whatever, if it's a worldwide CBO campaign."
+    },
+    {
+      "start": 470.83,
+      "end": 500.21,
+      "text": "Right. You call it graveyard, whatever you want, but essentially that's what that is. Okay. And again, you can set this budget to, you know, whatever budget you're comfortable with in that instance of that brand specifically, I think we're spending like $2,000 a day on the account. So we set our zombie campaign to like 200 bucks. Okay. So we just did like a 10% rule there. Obviously the more budget that you're at, you can go up or down with whatever you're comfortable with. And if you are noticing good performance, then again, scale it up. Same as everything else with our scaling protocol, nothing really changes. It's like, okay, if you have two good days."
+    },
+    {
+      "start": 500.21,
+      "end": 522.71,
+      "text": "performance in your zombie campaign. Just start scaling it up. And again, it's just to help get a little bit more spend. Now, again, we're not 100% sure on how incremental it is because it is kind of more retargeting, but it is a way for you guys to get a little bit more scale, a little bit more of each creative without blowing a budget on it. So that's how we set up the zombie campaign. It's pretty simple. It's pretty straightforward. So if you have any other questions about the zombie campaign, let us know, but that is how you set it up."
+    }
+  ]
+}

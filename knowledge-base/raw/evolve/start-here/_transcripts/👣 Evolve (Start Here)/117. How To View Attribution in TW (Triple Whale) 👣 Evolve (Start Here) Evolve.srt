@@ -1,0 +1,111 @@
+1
+00:00:00,340 --> 00:00:27,120
+In this video, we're covering how to use triplewill. A lot of you guys have it, you don't know how to use it. You guys wonder why is the robots, triplewill, and Facebook ads different? So how do you actually use it? How do you make decisions? What do you trust? In this video, we're going to cover how to take a look at the attribution models and what attribution model to use for each platform. Alright, first off, metal ads. So, what attribution platforms do we have?
+
+2
+00:00:27,120 --> 00:00:55,490
+First one being triple attribution and triple attribution plus views. These are the default ones. Triple attribution just means that it's click-through only. Triple attribution plus views means it's click-through plus view-through. By default, Facebook ads is seven-day click, one-day view. Meaning, if you look at triple attribution plus views, usually it's more accurate to the Facebook ads for us, but that doesn't matter. We want to see what's the most accurate, right? What's the most incremental? So we only take a look at...
+
+3
+00:00:55,490 --> 00:01:24,500
+the click-through ROAS. So, 7-day click on Facebook or triple attribution inside Triplewell. So, when we look at Facebook ads, we usually look at it from CA, because this is what we want to see for incrementality. I don't care if you have a lot of view-through ROAS, that doesn't matter. I want to see what is converting people from click-through. Okay. Now that we get that out of the way, what else do we have? That's total impact as well. Total impact is, they say some...
+
+4
+00:01:24,500 --> 00:01:53,490
+like AI model. I'm not sure about that, but you need to enable the surveys in people to get this feature. It's super easy. Just like on the left where my mouse is, you can see it. It's like a settings button to set up surveys through there. And then this view is set up. Take some time, then you'll be more accurate over time. Okay. Total impact. We don't take a look at it on a channel perspective. You want to take a look at it from
+
+5
+00:01:53,840 --> 00:02:23,700
+Take a more holistic view of the whole business once it loads. So the point of total impact is to see which platforms are the most incremental. So if I look at triple attribution, for example, it's going to report that if you hover over this icon, that this purchases over here and this revenue doesn't actually match my Shopify revenue. And even if you go to individual Facebook ads or Google ads in platform, the revenue reported in total is always going to be higher because
+
+6
+00:02:23,700 --> 00:02:53,890
+Ad platforms want to take credit and make you spend more there. So how do you know which one is actually generating the most revenue incrementality? Supposedly, Total Impact is used for that. So let it load. Okay. Now, instead of previously, it was like 500k plus revenue, it's 390, which is more accurate to what we're seeing for ads only. Okay, great. And then which platforms actually generated the revenue for that?
+
+7
+00:02:53,890 --> 00:03:22,110
+We see that the ones that drove Top of Funnel, obviously it's meta with the most revenue. Roads looks good as well. Other platforms like AppLevin, for example, didn't actually drive any incrementality. And the caveat with this is Total Impact is not the end-all be-all. It's the most accurate also. Because in a lot of cases, Google Ads, like in Platform 66X, Total Impact says 2.4.
+
+8
+00:03:22,110 --> 00:03:50,960
+for all of you guys if you're not running display or youtube on google ads your google ads total impact is always going to be very very low and that's normal because google ads if you don't run youtube and display it's not meant to do you know prospecting it's just meant to you know capture the demand right retargeting butter or funnel or whatever you want to call it so it's fine if the incrementality is not there but it's just something that you need to take note of but it's always good to compare
+
+9
+00:03:50,960 --> 00:04:21,890
+top of final channels like Meta, TikTok, App11 with total impact as well to see which one is the most incremental. But besides that, going back into Facebook ads, we take a look at it from triple attribution. All right. And we don't use triple well to decide, you know, ad level or ad set level base decisions. Why? If you look at it, total triple attribution, Facebook reverse is 2.4.
+
+10
+00:04:21,890 --> 00:04:52,080
+triple will row us is 2.38 okay great sort of similar but the issue is this there is a big difference between in platform compared to the row us shows over here on this row why if you scroll down there's a thing called triple survey and triple survey basically means people fill up the survey they see they come from facebook ads triple will can attribute which ad specifically it came from it's not gonna give you random data so
+
+11
+00:04:52,080 --> 00:05:19,680
+It just bunches it up under Triple Survey. In total, it looks correct. Individually, as the campaign ad set ad, it doesn't look that correct. So I wouldn't base my decisions off Triplewell in terms of more individual campaigns, ad sets, ads. I want to use Triplewell to look at it from a whole channel perspective. Is MetaAds in general doing well? And besides that, the benefit of Triplewell is looking at the new customer ROAS.
+
+12
+00:05:19,680 --> 00:05:49,490
+And you can check LTV as well. LTV is a separate topic. I want to see like incrementality, right? It's the main word for this video. Am I actually getting new customers from this? For a lot of you guys, you know, you guys have a dropship turned brand. It doesn't matter too much. But for a lot of you guys who have subscriptions or more well-established brands, NC ROAS is very, very important because you can have a 2x ROAS on Facebook ads in platform.
+
+13
+00:05:49,490 --> 00:06:20,580
+But then you're actually at a 0.8 new customer ROAS. And if you don't generate new customers, obviously if your LTV is bad, in the long run, it's hard to make it work. And why is that? It's because that means that each purchase you get won't be as incremental. You're just targeting the same customers that have bought before. It's the problem. They might have already bought even if you didn't push it to them, for example. So this is why we check new customer ROAS.
+
+14
+00:06:20,580 --> 00:06:50,300
+facebook ads is pretty damn straightforward important thing i forgot to mention earlier is making sure you click on this over here this is attribution window and subscription filter attribution model window basically means right now on facebook ads it's a seven day click right back in a day it used to be 28 days attribution so if someone purchased 28 days from clicking your ad or viewing your ad it still counts the attribution right now facebook ads change it to seven
+
+15
+00:06:50,300 --> 00:07:18,610
+In the triple world, you can set it to different ones. I recommend setting it to 14 days. Sometimes, I think by default, you might set it to lifetime, which is very inaccurate. So in case you're seeing some ridiculous numbers, double check your attribution window. Subscription filter is a really good one as well. For all of you guys who run subscription brands, how do you actually take a look at the ROAs from people who aren't already subscribed?
+
+16
+00:07:18,610 --> 00:07:46,350
+Like, what's my new customer ROAS, etc. You can toggle this on and off wherever you see fit to make your decisions. But like I said, it's not a good idea to take a look at it from the ad set or ad perspective. Campaign level is still okay. You know, but like I said, honest accurate did the triple survey. I like to look at it from a whole channel. Next up, popular one, Google Ads.
+
+17
+00:07:47,060 --> 00:08:16,020
+Google Ads is much, much more complicated to take a look at due to the fact it's hard to check incrementality for Google Ads, right? So I wouldn't take a look at total impact too much overall unless you have, like you said, YouTube display. So what do we actually do then? TA for Google Ads tends to, in most cases, it actually bumps up the Google Ads straw. This isn't accurate also.
+
+18
+00:08:16,080 --> 00:08:45,360
+Why? Because it also means for branded search, you will attribute it the same ROAS. 28 and 24, 20 and 21 for branded search. But branded search isn't incremental. People search for you, they already know you. It helps, but 20x ROAS isn't 20x ROAS actually. So what do we actually do then for Google Ads? Obviously for non-brand search, pretty straightforward.
+
+19
+00:08:45,360 --> 00:09:14,400
+3x, okay, it's pretty accurate, not bad. So, I like to compare multiple different attribution models for Google Ads. Besides looking at TA, TA Plus U doesn't apply for non-YouTube. Look at it from first click and last click to compare as well. First click, straightforward like it says, credit given to the first channel click. Last click, credit given to the last channel click. So, last click in...
+
+20
+00:09:14,400 --> 00:09:45,660
+If they actually went on Facebook ads and then they searched up your Google ads, last click was what's going to be attributing towards it. First click just means that they actually clicked on your search first, let's say your search ad, and then you purchase through it. It gets attributed to that. So let's say I look at first click. All right. So we're on first click now. So let's look at the shopping campaign. Shopping. All right.
+
+21
+00:09:45,660 --> 00:10:12,110
+It's at a 3x ROAS according to first click, which means that it's not too different from Google in platform. They likely search up the term of the brand and not as in like the brand name, but the product name, the product category, for example, and the shopping optimized SEO for that. People are actually coming in from our SEO optimized titles, not from the brand name itself.
+
+22
+00:10:12,180 --> 00:10:46,670
+Compare that to Last Click, you know, this is a 3x ROAS on Shopping. Okay, let's see. Standard Shopping is now 2x. Meaning, it's actually doing some prospecting because it's not retargeting. The retargeting ROAS is only a 2x. But people are seeing us on, you know, this shopping campaign first. They click into it. They convert through other platforms later on. Maybe it could be different campaigns. It could be Performance Max or it could be Facebook. You don't know. That's the point of First Click and Last Click.
+
+23
+00:10:46,930 --> 00:11:17,970
+Let's now compare it to triple attribution. Okay, now shopping campaign, triple attribution, 3.7, 4, 3.4. Overall, I'm feeling good about this campaign. I'll break even, let's say our target is 3x. I know that triple attribution, on target. First click, on target as well. My hypothesis is that this campaign then, it will be quite incremental.
+
+24
+00:11:17,970 --> 00:11:48,180
+And of course, we double-checked new customer ROAS. Looking good as well. First click was my new customer ROAS. 3x on target as well. Therefore, my assumption is that this standard shopping is actually doing prospecting for us. Just to recap in case you guys got confused with this. I checked first click. People clicked on the shopping campaign first. And then they converted through other campaigns.
+
+25
+00:11:48,180 --> 00:12:17,660
+or through other platforms. We verified that through last click, which had a 2x ROAS. And then you also double checked it with TA. New customer ROAS on both look good. ROAS on both looks good. Therefore, shopping campaign, I can assume it's incremental growth. So in that case, I'll keep scaling this one if it's on target. All right. More of a technical video. But now you've learned how to use triple wheel. What
+
+26
+00:12:17,660 --> 00:12:47,440
+attribution models to look at for meta and google ads tiktok pretty much same like meta look at it from ta look at from total impact same thing the rest of the other um platforms i think a lot of you guys aren't already on anyway so it doesn't matter too much um applebin for example i look at it same way i look at facebook ta total impact um that should cover most of the big ones snapchat also same thing
+
+27
+00:12:47,470 --> 00:13:17,100
+TA, total impact. What about Pinterest? TA, total impact. Those are the most common models to take a look at. Besides that, you make sure that the subscription filter and attribution is where you want it to be. And for Google Ads, more complicated. You want to compare TA, first click, last click. If you do actually have YouTube display, then total impact to see how incremental is your YouTube campaign.
+
+28
+00:13:17,100 --> 00:13:30,800
+I don't have a good example to show you guys, but YouTube usually runs at like breakeven or below one in platform, but in total impact, it actually has a much higher ROAS. That should be it for this video.

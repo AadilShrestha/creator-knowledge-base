@@ -1,0 +1,299 @@
+1
+00:00:00,000 --> 00:00:22,260
+All right, so now in this video, we're going to talk about how to manually fill this out. If you haven't done any research and you really are just trying to understand your product, okay? Now, obviously the module below this is going to talk about how to do it with AI, but that's really for people who have already done some kind of research and have been through the process and are trying to come back and really understand their avatars. This is going to be for the people that...
+
+2
+00:00:22,260 --> 00:00:48,590
+don't really have any information at all and are filling this out for the first time. So let's go ahead and jump in. So how do we manually fill this out? Now, this is going to be painful for me, but we're going to go through and do it live together. Okay, so let's go ahead. Let's fill out this document. I don't have any research. I don't have anything but a product. You might even have a bare bones product page here. So I kind of have a bit of advantage on you. But here, let's just go ahead and fill this out for this brand called Doc Friendly Co. So let's go ahead. Product name.
+
+3
+00:00:48,590 --> 00:01:18,160
+dog harness what is the price point well if we take a look at this the price point is 42 and might even throw in the little slash action here as well so 52 slashed out uh actually it looks like it's not going to be fun but let's go ahead and do that so 42 is the actual price point uh and then over here we have our product in action so how does your product work describe the process and method of what it does and the outcome it provides then provide a sixth grade reading level version
+
+4
+00:01:18,160 --> 00:01:45,260
+Now, if you don't know why we say sixth grade reading level, it's because the Heming or basically most people actually only can read at a sixth grade level. So basically, whatever you type, you want to put it inside of here just to make sure that it actually works. So this is Hemingwayapp.com. So over here, what we're going to say is like, how does your product work? Well, let's go ahead. And again, these are all assumptions, right? So how does the product work? Well, the product.
+
+5
+00:01:45,260 --> 00:02:16,660
+is a harness that goes on top of the dog and is used for walking it more or walking it better than a traditional collar. The dog-friendly harness specifically, let's take a look, is the most comfortable. Look at this. This is great. So here's all the benefits, right? So this is going to suck. Is the most comfortable.
+
+6
+00:02:16,780 --> 00:02:43,380
+we're gonna have to type all of this out um an easy to use dog harness backed by 60 day perfect fit guarantee uh is very comfortable shape resistant so it can be put on in two seconds so that's great so dark friendly harness uh is one of the fastest harnesses to put on and can be put on in only two to three seconds okay
+
+7
+00:02:43,380 --> 00:03:12,590
+It's chafe resistant and has lightweight straps. So it is chafe resistant, which makes it more comfortable for your dog and is lightweight. And let's see, we have personalized with custom name patch and choke-free design for comfortable walks. And so here we have personalized with custom name patches. So it can also be personalized with custom name patches and has a choke-free design.
+
+8
+00:03:13,490 --> 00:03:43,730
+for more comfortable walks okay and so again this is just me kind of throwing in using the product page like hey what does this do how does your product work so describe the process method of what it does and the outcome it provides so that's just me kind of explaining the product so now if i try to like just say hey what does this actually do uh it helps owners or dog owners uh put their dog's harness on easier and cute for the dog
+
+9
+00:03:43,980 --> 00:04:14,510
+So there we go. I would say this is probably like my sixth grade level. Let's see if we pop this into Hemingway. Ah, grade eight. This is tough. Custom name patches. So this says zero four sentences are very hard to read. One of four sentences are hard to read. So it can be personalized with custom name. So it can be customized. You can actually do if you use Claude, because we're going to be smart here. We're going to go to our good old friend Claude, Claude AI. We say, hey, Claude, rewrite this at a sixth grade level.
+
+10
+00:04:14,990 --> 00:04:49,040
+For context, here is the original question I am answering. And so here, we can now still use Claude. So question, here is what I wrote. And now we can just let Claude cook. And now ideally, we have a project, but this is the sixth grade version. So we can see if Claude actually cooked with this. So let's see. Let's go to Hemingway. Let's paste this in. Grade four, Claude, unreal.
+
+11
+00:04:49,040 --> 00:05:14,590
+Look at that, actually doing some work. So now we can actually paste this back in. So if we go back over here, we can add a little sixth grade level. And again, this is important for marketing, right? We want to make sure that we're communicating in a way that is easy to understand because sometimes as business owners and as people who run our own product, we like to like sound cool, sound fancy, like even for me, like choke free.
+
+12
+00:05:14,590 --> 00:05:44,560
+That makes sense to me, but it might not make sense to a lot of people. So it's important to run it through. So for example, the harness wraps around your dog's chest and back. This spreads out the pull when your dog walks so it doesn't hurt their neck like a collar does. You can put it on super fast, just two or three seconds. The soft material won't rub your dog's skin the wrong way. It's also really lightweight so your dog won't feel heavy. You can add your dog's name to make it special and your dog will be more comfortable and happy on walks because the harness doesn't squeeze their throat. Fantastic. Now, let's talk about the actual features.
+
+13
+00:05:44,560 --> 00:06:14,400
+what are the product's main features? So again, we can use AI to support with this, but I'm trying to be like anti AI on this stuff to actually just be like clear on the features. So here we have like product details. So for example, now we're going to get into some of the actual materials and stuff like that too. And depending on whether or not you know the materials here, we need to try to find so this is a ITW unbreakable secure bundle. So that's one of the features and I'm gonna pop in there right away.
+
+14
+00:06:14,400 --> 00:06:40,660
+okay and then from here they have premium shape resistant webbing that's kind of like a a benefit kind of call out i would say uh one click on and off that's kind of a feature that's kind of a benefit um let's see what else we got here for actual features so adjustable straps so again you can see this brand does a good job of saying feature and then benefit so why do adjustable straps matter well it gives you the perfect fit
+
+15
+00:06:40,850 --> 00:07:10,580
+And then here we have easy one click button. We have sturdy grab handle for added control. So again, so we have sturdy grab handle. So let's just add that in. Sturdy grab handle. What else do we have? Heavy duty D-ring. Again, this brand has learned a lot from RCRO about tying mechanisms or tying features into benefits and available in exclusive custom design colors. So customizable.
+
+16
+00:07:10,610 --> 00:07:41,010
+Right, that's a feature. Customizable, if I could spell it. I think that's, I'm terrible at spelling, so bear with me. I've probably already made 13 spelling mistakes. What else do we have here? Two seconds on and off. What material is this made with? Don't actually know. So that's one thing as well. We're just like, okay, well, what is this made with? Because I don't know. We probably should know. Perfect fix, 60-day guarantee, size guide. Cool. It doesn't say like we have any other material. I guess it's premium shape-resistant webbing.
+
+17
+00:07:41,010 --> 00:08:10,240
+So we could just say like premium webbing might be the feature, but overall, that's good. We got five here, okay? And so let's take a look at the benefits. So feature one, we have, and sometimes what I like doing here is I actually like putting it here. So ITW unbreakable secure buckle, okay? And let's see if we can paste this in without breaking it. So why does this matter? Why would an ITW unbreakable secure buckle matter? And honestly,
+
+18
+00:08:10,240 --> 00:08:33,200
+I don't even know what an ITW buckle is. And so sometimes if you are like reading this stuff and you're an idiot like me, you could also just go into Claude again and you could say, OK, hey, Claude, what is this? And again, you should always double check this, but it's going to go ahead and search elsewhere. So look at that. It even corrected me because like.
+
+19
+00:08:33,200 --> 00:08:53,260
+pasted it wrong so based on research the itw unbreakable skewer buckle appears to refer to a heavy duty buckles made by itw nexus illinois tool works itw is a major manufacturer of high quality plastic buckles and fastening hardware so itw nexus makes various types of side release buckles that are designed for durability and reliability including super strong versions that are built for extreme
+
+20
+00:08:53,260 --> 00:09:22,640
+impact resistance, and high tensile loads. These buckles are commonly used in military and tactical gear, outdoor equipment and backpacks, pet harnesses, medical equipment, marine applications, life-saving equipment. The buckles are made in the USA, good to know, and designed to withstand extreme loads, making them ideal for application where durability is required. They feature blah, blah, blah, blah, without seeing the exact blah, blah, blah. Okay, cool. So now we know what this is, okay? So what is the benefit of the ITW secure buckle? Well, number one,
+
+21
+00:09:22,670 --> 00:09:49,140
+the dog uh you know won't get out of the harness right because the buckles are so secure and sometimes when things are also like benefits uh or have multiple benefits you just copy it over like this so uh this is something that claude won't do if you just do ai only by the way um but itw unbreakable secure buckle will benefit here let's just say another one is uh it's made in the usa
+
+22
+00:09:49,870 --> 00:10:19,870
+Right? That's actually a benefit. And we'll explain why that matters as well. And then what we can also do is we can also ask Claude too. Again, use AI to your advantage, guys. What would be the benefits of a dog harness that has the feature ITW secure buckle? Let's just see what it says. No breaking during emergencies. If your dog suddenly bolts after school, the buckle won't break. Okay? So your dog won't run away. So there we go.
+
+23
+00:10:19,870 --> 00:10:39,180
+me and claud are on the same page uh right here we have reliable commitment so you can trust it won't fail if your dog pulls hard well that's the same thing peace of mind strong pullers so we're finding a commonality here right durability so long lasting is a benefit right so it's it's kind of long lasting weather resistant maintain strength
+
+24
+00:10:39,180 --> 00:11:08,780
+um quick one-handed release secure hold on retention professional grade um for dog owners means confidence and so here we go now we're starting to get to desires which we're going to see in a second but there we go so we've got you know at least two benefits for this one the next one we have here is adjustable straps okay now again why do adjustable straps matter well it helps make sure that it is the perfect fit for the dog okay
+
+25
+00:11:08,780 --> 00:11:35,140
+And we're just going to kind of go through the rest of these. You guys can kind of get the point, but allow yourself to go down rabbit holes, right? Because again, these are all ad ideas right here, guys. Like these are all things that when you're just understanding your product, you're going to get new ideas. So like no breaking, no breakage during emergencies. So if your dog bolts after a squirrel, it's not going to, it's not going to snap because we have this mechanism, right? You can trust your dog. If it pulls hard to get in a scuffle with another dog, it's not going to go, you know, like rip another dog's face off. That's kind of crazy, but you get the point.
+
+26
+00:11:35,140 --> 00:12:01,100
+okay um over here we have sturdy grab handle i don't actually really like this feature i don't really know why i put that down as a feature it's kind of a weird feature let's go heavy duty d-ring feature okay uh what does a heavy duty d-ring do well it actually allows you to attach the leash to the front for um less pulling
+
+27
+00:12:01,260 --> 00:12:29,500
+And again, we can actually ask Claude this as well. If you guys are struggling, what would be the benefit of a heavy-duty D-ring on a dog harness? Let's see if Claude actually cooks. Won't break under pressure, long-lasting, handles high force, can withstand the full pulling power, secure leash attachment, emergency reliability. It's really going off here. Practical advantage, better control, multiple leash options, versatility.
+
+28
+00:12:29,500 --> 00:12:52,590
+active ready suitable for hikers again so the benefit is over here is like it allows you to attach your leash from the front for last pulling down and that's just kind of the main benefit if you wanted to pull some from these as well like you know maybe you can support dog backpacks a reliable anchor point for trainers um won't break under pressure handles high force so this this is the main thing
+
+29
+00:12:52,980 --> 00:13:24,590
+It's just, it handles strong pullers. The benefit is, can handle strong pullers or stop your dog from pulling. The other feature that we have here is customizable. Now, why would customizable matter? Well, let's go ahead and pop this in. It allows people to show their personality. It's kind of the benefit. But we can also ask Claude again, why would customizable feature be a benefit for a dog harness?
+
+30
+00:13:24,780 --> 00:13:53,920
+Name tag, quick identification. It's kind of funny. Faster reunions, always visible. Emergency situations, no jingling, won't get caught. Professionals, cool. Training and social benefits helps others interact, right? So that's a good one. Training reinforcement reduces anxiety when strangers use their name. Peace of mind or your dog is always identified, right? So it allows people to show their personality. That's kind of where I went, but I'll just say it also.
+
+31
+00:13:53,920 --> 00:14:24,340
+makes it easy. So here, one less thing to remember to replace, professional appearance for photos, better chance of quick recovery, peace of mind knowing your dog is always properly identified. Okay? It's kind of like the benefit. All right? And now, once we have these benefits with the help of Claude, and again, as I've mentioned before, I'm very over-leveled on Claude. I love using Claude to help me brainstorm things because a lot of times I know what it is. I just kind of like my brain can't really put it together. But over here, and a lot of you guys may be in the same boat, but
+
+32
+00:14:24,340 --> 00:14:45,410
+Let's take a look at the assumed desires, okay? So for each of the benefits that we just went through, what are the deeper desires that you're assuming it attends to? So simply ask yourself, why does someone want that? And in short, it's like, why? Okay, and now again, these are going to be assumptions. These are not things that we've actually validated and gone out and done research and found. We're just kind of...
+
+33
+00:14:45,410 --> 00:15:15,760
+going, we're just winging it right now, right? Like we're just assuming that, hey, we think this is why people would care, right? And again, Claude kind of helps with that as well. So for this first desire here of like the dog won't get out of the harness, we can kind of copy this over and we can kind of paste this in here. And let's see if it likes us. There we go. The dog won't get out of the harness. Well, why? Like, why is that important? Why does that matter? Because then they know their dog is safe, right?
+
+34
+00:15:17,520 --> 00:15:46,990
+So again, better put, you can go down actually a long ways on this. And I just, I just thought for a second of like, if we should go down this rabbit hole, but I don't think we will. But what you really need to be thinking is like, why does someone want that? It's like, well, they want their dog to be safe. Big, biggest desire that we could talk about here is like their dog actually being safe. Okay. Let's talk about this. Let's talk about another benefit. So it's made in the USA. Miracle, baby. And for all my Americans, we'd love to see it. So now benefit.
+
+35
+00:15:46,990 --> 00:16:17,380
+It's made in the USA. Why does that matter? Why does it matter? Why would someone want it to be made in the USA? They want American-made products. Very simple. They want something that is American-made or they want to support their country. These are more patriotic desires that we can start to tap into. And that's why when you see people say made in America, it's because they want to tap into that desire of...
+
+36
+00:16:17,380 --> 00:16:44,850
+patriotism and people wanting to, you know, support their country, support local essentially. And, you know, they want, they know that Americans, sometimes people associate American made with good, right? And so America has this brand, depending on who you ask, it could be good or bad, but they want American made products. That would be the desire. Okay. We're actually going to run this through Claude as well. Another benefit here is it helps make sure it's the perfect fit.
+
+37
+00:16:44,850 --> 00:17:10,050
+Okay, so why does that desire matter? Well, they want their dog to feel comfortable, right? Or maybe they want their dog to, if I don't lose my headphone, they might want their dog to overall not get hurt, right? They might not want, they want their dog to stay safe again, but they want their dog to ultimately not be in any sort of pain.
+
+38
+00:17:10,050 --> 00:17:38,350
+right um so overall they want their dog to be comfortable and so you can think of positive or negative emotions on this but they want their dog uh to feel comfortable in the harness okay uh now we have a benefit over here from the heavy duty d-ring right and so now if we get over here it allows you to attach the leash to the front for less pulling now why why does someone want their dog to pull less well they want to um you know feel in more control on walks
+
+39
+00:17:38,350 --> 00:18:09,040
+right or maybe if you have another desire for this as well um you know again you can do the same thing as we did last time you know maybe they want to be less embarrassed when they go on walks in front of others potential social thing there right like oh there's that girl who you know takes her her dog takes her for a walk right um so let's jump over here to the final one which is like the benefit of like uh again
+
+40
+00:18:09,040 --> 00:18:32,400
+peace of mind of knowing your dog is always properly identified. Let's go ahead and pop this in here. And why, why would someone want that? Why would someone want their dog to be identified? Well, they want to make sure their dog is safe. Very, very similar to this one up here is what I would say. Now you could go different one where it's like, they want to make sure their dog never gets lost, or they want to make sure
+
+41
+00:18:32,400 --> 00:18:52,380
+People know their dog in that instance, right? And you can keep asking why. That was a rabbit hole again that was going to go down. I was like, you can keep asking like, why does this matter? And you might get down to what they actually want. But at the end of the day, we're trying to identify some of these desires here. Okay. So what I would also do is I would copy the same thing here. And I, again, I would go into Claude and I would say, Hey, Claude.
+
+42
+00:18:52,380 --> 00:19:04,660
+Can you then turn these benefits into desires? And I know a lot of you guys don't even know what desires are yet. So you might have to watch the desires video as well as we go through this, but just.
+
+43
+00:19:04,660 --> 00:19:25,170
+I want you, you don't even really need to understand desires to go through this because this is what desires are. It's what people want. Okay. Very simply put. And we're going to go a lot deeper to how you guys can actually identify the desires because that's what matters most. But at the end of the day, we want to go through and we just want to assume. And so we're just going to follow this exercise and you'll understand why desires are important in a little bit.
+
+44
+00:19:25,170 --> 00:19:54,780
+But hey, Claude, can you turn these benefits into desires? Let's see what it does. So benefit, the dog won't get out of the harness. Desire, I want to feel confident my dog will stay safe and secure no matter how excited or strong they get. Pretty solid one there, right? Benefits, man, you say, I want smart American jobs and buy quality products I can trust. There you go. Adjustable straps. It helps make sure that it is the perfect fit of the dog. I want my dog to be comfortable and happy on every walk, right? Have you do a D-ring? I want enjoyable, stress-free walks where I'm in control. Kind of what I said, right? I think I said that.
+
+45
+00:19:54,780 --> 00:20:06,940
+I want to feel in control. Aha, look at me cooking, guys. Come on now. Told you. I'm decent at this stuff. I've worn my dog's gear. This is crazy. Customable. It's just, and I love this stuff, by the way, guys, because.
+
+46
+00:20:06,940 --> 00:20:34,860
+Going back through and doing this stuff is just really good. Even every now and then, if this is just like basic stuff for you, maybe you're rewatching this and you're not, you know, someone that's in Origins or if you are in Origins, I hope you're liking this stuff, but it's good to come back and do this stuff and go back and really sit in the fundamentals because this is where a lot of growth has happened. And sometimes you just need to be reminded more than you need to be taught. You know, big Alex, mostly sane. Customizable, it allows people to show their personality. So desire, I want my dog's gear to reflect how special and unique they are to me, right?
+
+47
+00:20:34,860 --> 00:20:40,510
+And then customizable piece of mind knowing your dog is properly identified. I want to know that if something happens, my dog will find their way back to me.
+
+48
+00:20:40,510 --> 00:21:10,210
+Okay. So there you go. Really good one. Right. So now we could create this angle. My mind's already running with a bunch of angles just from doing this stuff where it's like, okay, we've got this name tag here. Uh, what if we, you know, create a story about like how this name tag saved a dog. Right. And we could actually go out and ask customers and find out if you have enough customers. Like, Hey, has that ever happened? Has anybody ever like returned your dog home after seeing the name? You know, potentially people have their address on the other side or whatever it is. Um, you know, it would be, would be pretty awesome, but obviously people aren't breaking out of this, but you know, if they're off the leash, running around, get the idea.
+
+49
+00:21:10,210 --> 00:21:37,660
+Okay. So there we go. Now the final part down here that I love most is new mechanisms. Okay. So these are going to be USPs. So USPs are unique selling propositions, AKA what makes your product unique. And again, this is assumed. I need to add another assumed here, assumed new mechanisms. What do you, or what are you assuming is unique mechanism? Because a lot of you guys think you have a unique mechanism. That's actually not that unique.
+
+50
+00:21:37,660 --> 00:22:05,460
+A lot of people that have it. But does your product have any new mechanisms that separate it from the market? I would say one thing that stands out to me is the customizable name tag. I haven't really seen that a lot of harnesses before. Another thing that I would say as well, just from like outside looking in of like potential new mechanisms is the D ring as well. So like this front, not the back one, but there's this D ring here. I don't know if it's even on here.
+
+51
+00:22:05,900 --> 00:22:18,690
+I think it actually shows it heavy duty D ring. Yeah. It's actually not even included. So that should be in there, but I would say like that D ring is definitely a new mechanism. So the front D ring, um,
+
+52
+00:22:18,690 --> 00:22:43,950
+It's not something that I've really seen on harnesses before. I didn't really know those things. So that could also be a new mechanism. Okay. And again, you can add as many as you want, but just understand that these new mechanisms, a lot of the time are going to be hard if you just have a basic product that is the same as everyone else's. Okay. And so we're going to get into other ways about how you can differentiate yourself if you don't have new mechanisms, but new mechanisms are literally the most powerful things. So you really want to think deep. And so what you could also do is now that we've done this.
+
+53
+00:22:44,270 --> 00:23:07,980
+we can customize this and or we can just copy this and you could even in your same chat if you've been doing this based on what you know about the dog harness what how would you answer this and now what we're going to do is see if Claude can come up with any other mechanisms for us
+
+54
+00:23:10,350 --> 00:23:37,020
+based on what i know about the dark honest the one two three quick clip system so new mechanism ultra fast application um itw military grade unbreakable buckle uses the same buckle system trusted by military and life-saving equipment uh front clip anti-pull heavy duty so new mechanism strategic d-ring placement that redirects pulling force to naturally discourage behavior uh integrated customizable id system built-in id patch um and chafe resistant
+
+55
+00:23:37,020 --> 00:24:06,580
+comfort engineering. So new mechanism, lightweight materials, uh, still designed to prevent rubbing and skin iteration. So those could all be potential new mechanisms. I actually really like this chafe resistant one as well. Um, but I also do like the, uh, military grade. I think this is awesome. This is really great for us to also put in here. So we could just say the, um, military grade unbreakable technology is a pretty solid, uh, new mechanism for us to leverage a hundred percent. Um, so there we go.
+
+56
+00:24:06,580 --> 00:24:33,140
+So there is the new mechanisms. And then the final one down here is hidden mechanism analysis. And so you can use AI for this if you've been going through this. And this is step five, so say step seven. But here is just answer these to help the AI identify mechanisms that you might be blind to. And so the most important thing here to understand, sorry, I had to take a quick drink out of my stainless steel Stanley cup there. But basically here with the...
+
+57
+00:24:33,140 --> 00:24:59,860
+AI analysis, this will be something that we actually give to the AI. So the AI can actually do some research for us. But at the end of the day, what does your product do that you don't advertise? Okay, so this really helps you think through. And now you should know your advertising. If you have not really advertised yet, which maybe a lot of you haven't, then you can just kind of leave this blank. But for people who have really been pushing this, this is about trying to figure out like, okay, what are some angles that I haven't been advertising?
+
+58
+00:24:59,860 --> 00:25:22,160
+Right. And now just to show you that Claude and for a lot of you guys that like rely too much on AI, Claude might answer this question. And it's going to say, like, based on what I know, right, here's things that you likely don't advertise. It doesn't know what we're advertising. It has no idea. I haven't like literally shown him what we're saying. OK, but here's something.
+
+59
+00:25:22,160 --> 00:25:51,070
+That's kind of cool is it just like gave us a bunch of ad ideas anyways. And so Claude is kind of good for that. But again, like Claude is giving you answers to like, it should not like in reality, Claude should say, honestly, Spencer, I don't know what you're advertising. So what are you advertising? And then I can tell you. And so he just says here, like in benefits that you're not promoting, which is reduces vet bills, saves your back and shoulders, improves the dog's confidence, protects your investment, makes training easier, increases daily exercise, reduces escape.
+
+60
+00:25:51,070 --> 00:26:03,040
+related liability and build stronger human dog bond, right? And so these indirect benefits that are harder to prove focus on problems. They might seem like over promising, but they're long-term benefits rather than instant gratification.
+
+61
+00:26:03,040 --> 00:26:31,940
+Okay. And so those are some things that we want to jot them down. Again, you have to really look at your marketing. Now for this brand specifically, I'm not going to go into that. But essentially just like think about like, what does your product do that you don't advertise? Okay. I'd say one thing that we actually, I actually know for a fact that we're not advertising is this ITDW military grade. This is something that we're not advertising. I know that as a fact. So I'm actually going to put that there. It's actually a good thing for me to chat with the team about as we are going through.
+
+62
+00:26:31,940 --> 00:27:01,730
+and managing this brand. So here, what ingredients and components do you include that competitors don't? So again, here, we're getting into some of these unique things that we do, name tags, it's basically these new mechanisms right here, right? Again, the front D ring, some competitors do this, but not as much. Maybe we get into the same thing here, D-I-T-D-W buckle, right? So what are, again, ingredients, components, what do you include that competitors don't? And then here, we get to if your product worked
+
+63
+00:27:01,730 --> 00:27:31,570
+too well what would be the problem that customers would complain about so it's like dog walks are so boring the dog never pulls anymore what else would uh people complain this is just a fun way to think about things guys because like this helps get your creative juices flowing for new ad ideas and trying to think of you know new mechanisms um so what else um the dog um doesn't the dog is confused on how i put the harness on
+
+64
+00:27:33,650 --> 00:28:06,430
+so fast. The dog is, you know, the dog, uh, never has to use, uh, or never chafes anymore. If it worked too well, it's like, uh, the dog, what else go to, or it's like your, you don't get a, you know, a shoulder workout. You are, you actually have to go and work out shoulders again, something ridiculous, but you kind of get the point. Um, I'm actually going to take this cause cause Claude's pretty creative as well. And, uh, again, we're going to give this a Claude and let's just, uh, see what he can come up with.
+
+65
+00:28:06,430 --> 00:28:40,990
+and see if he gives us anything fun. It's too easy to put on. Like I just said, it's too secure, right? It stops pulling too well. It's too durable. The ID feature, I don't like this, so I'm going to probably stop call out. I'm not a fan of the two. I just want you to think more creatively around what customers would complain about in general. So let's see. My dog is addicted to walks now.
+
+66
+00:28:40,990 --> 00:29:16,100
+My dog loves walks even more. That's a good one, right? My dog somehow likes, or for example, this would be a funny one. It's like, now even I look forward to walks now, right? And this is what I love about AI. It can also just spark ideation as well. Now I even get excited for walks or now I get as excited as my dog, right? Pretty funny concept there. What else do we have here?
+
+67
+00:29:16,100 --> 00:29:40,780
+It makes other owners feel bad. Everyone stops and asks me about it, right? I can't have a quick walk anymore. Every dog owner wants to know where I get it. Really good one there as well, right? Kind of like that third party validation. My dog becomes a show off. I can't use walking as an exercise anymore. There we go. That's the one I kind of talked about. The name tag creates too much social interaction. It spoiled my dog. I have nothing to complain about.
+
+68
+00:29:40,850 --> 00:30:09,180
+My go-to conversation starter is now gone. So kind of some stuff, but some good stuff as well. And then here, if someone was explaining this product to their friend, what would they say? And this is one that I love to use with AI as well. Or even if you want, what you guys can do as well is like text a friend and ask the friend and be like, hey, can you explain this product to me? And they'd be like, it's a dog harness that looks like it does XYZ or have like a family member do it as well. It's kind of a fun way to go through and do it. You can also use AI as well. So here's a decent one as well.
+
+69
+00:30:09,180 --> 00:30:38,560
+that we can just pop in here. And it's really important that we read this, obviously. So, oh my God, you need to get this harness. So, you know, I was complaining about Max blowing me down the street. Well, I found this harness and it's like a miracle, first of all. And I might even ask Claude to make this less salesy. Can we make this less salesy and cheesy and more just focus like you're telling a friend about it? And again, this is where it takes some experience.
+
+70
+00:30:38,560 --> 00:31:08,180
+communicate or communicate with AI and understanding when it's like being dumb and when it's being good. Um, so I got it because Jake's old one broke, the plastic buckle just snapped. So here we go. This is casual, right? So now we can paste this in. Uh, I got it because Jake's old one broke and the plastic buckle just snapped one day when he lunged after something. Uh, this one has some heavy duty buckle that's supposed to be unbreakable or whatever. You know, the thing I actually like about it is how fast it goes on. You know how Jake used to hate getting his arms on and we try to back away. Uh, this one clip.
+
+71
+00:31:08,530 --> 00:31:10,880
+Clip's not super quick, so there's less drama.
+
+72
+00:31:10,880 --> 00:31:40,240
+And it has his name on it, which is kind of nice. Again, I love this. It's kind of nice. Like, name's cool. I was always worried about losing those little ID tags that jingle around. But honestly, the biggest difference is he doesn't pull much anymore. The leash clips to the front instead of the back. So when he tries before, it just kind of redirects him. Love that. I don't know if it's the harness or if he's just getting older, but our walks are way less stressful now. I love this as well because it's like, yeah, it could be the harness, but maybe not. It's held up pretty well, too. I think I've had it for like eight months. No issues so far. Why is...
+
+73
+00:31:40,240 --> 00:31:54,050
+Is somebody giving you trouble on walks? Yeah, you might want to try something like this. I think I got it online. Let me see if I can find the link. Love it, right? Super casual, super fun. Like this is so telling a friend about it, right? And this is like language that you guys can use as well. So there you go.
+
+74
+00:31:54,050 --> 00:32:14,300
+That is the product overview. We fill this out live in action for you guys. And it's been a while since I've done manual stuff. And even then, I still cheated with Claude. But it's very, very good to go through and fill this out and take the time to actually this. Because again, like your work works more than you. And I've explained this to you guys lots of times. But this is the first most important part. Step one, basics. What the heck are we selling?
+
+75
+00:32:14,300 --> 00:32:44,140
+Step two, what does the product do? Step three, and then obviously dumbing it down to sixth grade version. Step three, what are the features? Step four, what are those assumed benefits? What those features do? Step five, assume desires. Again, I know you guys haven't learned fully about desires yet, but for each benefit, what are those deeper desires? And then from there, step six, assumed new mechanisms, so USPs. And then step seven is the hidden mechanisms. And this is where we can start thinking really creatively. So there you go. That is how to fill out the product overview document. And I will see you guys in the next one that talks about desires.

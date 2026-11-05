@@ -1,0 +1,44 @@
+{
+  "source_file": "Stefan Georgi - RMBC II (1)/12-ADS/04-[4] TikTok Ads video9.mp4",
+  "source_id": "mega:GwRSGa5C",
+  "audio_sha256": "43349ab29c2169becabdb04313303e3de3797b5c988b822fbdd0a7ee2470245c",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 177.6,
+  "last_segment_end": 177.6,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 28.3,
+      "text": "All right, let's take a look at a reaction style video. This is a really easy format to do because essentially what you're doing is you're taking a popular video, a viral video, a video that really gets the point across that you're trying to sell in your video and you're reacting to it. Meaning you watch a few seconds of it and then you do your video responding to that video. So let's just take a look. We're not gonna watch the whole thing, but watch the first part of it."
+    },
+    {
+      "start": 30.93,
+      "end": 64.16,
+      "text": "So these are really, really popular. They're really versatile. And again, all you're doing here is you're taking three to maybe eight seconds of that other video. You're putting at the front of your video. There's a few ways you can do it."
+    },
+    {
+      "start": 64.16,
+      "end": 91.47,
+      "text": "One is this way where it's kind of a floating video and you're just kind of pointing to it. The other is doing something called a stitch where it's a full screen of that video. And then it cuts to a full screen of you and you can put a text overlay during the first few seconds saying, you know, reaction incoming or something like that. People know it's a reaction style video. So the ways you can do this as well as one is the easiest, just like, Hey, this is a viral video."
+    },
+    {
+      "start": 91.47,
+      "end": 119.9,
+      "text": "that you want to kind of piggyback on and do a reaction to it, right? Something like this. The other thing you can do is, let's say you want to set yourself up for the right reaction. Well, you can have somebody on the team or some creator basically shoot the source video that you're reacting to, and then you do the reaction video. So you kind of control both parts to it. We've done this with a lot of success over the last few years, and it just gives you a lot more control, a lot more versatility."
+    },
+    {
+      "start": 119.9,
+      "end": 148.85,
+      "text": "Obviously you want to make sure that it comes across as really authentic. You don't want people to know like, Hey, they made the reaction, the video, the reacting to end the reaction video. It just doesn't have the same impact if it's pretty obvious. So you just want to make sure you, you keep that in mind if you're doing that. Um, the other thing too, is like going back to that modular testing approach, you can take the, you know, the avatar. And if you know that this initial video you're reacting, reacting, you did really well, like do a, you know, a female versus a male."
+    },
+    {
+      "start": 148.85,
+      "end": 177.6,
+      "text": "Do a, you know, a different time of day, do a different setting. There's different things you could do to, again, get more longevity out of this winning ad. But again, like the rest of this video, I'm not gonna spend too much time on because it follows a lot of best practices, but really it's this, the first few seconds. So reaction style videos, duets, stitches, do really, really well. They're also very easy to make because you just, it's natural. You're just reacting, kind of responding to it and perform incredibly well on the platform."
+    }
+  ]
+}

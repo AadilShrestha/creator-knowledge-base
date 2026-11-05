@@ -1,0 +1,315 @@
+# 112-document-1ZStpr7F1B.docx
+
+_Source: `112-document-1ZStpr7F1B.docx` (pandoc DOCX conversion)_
+
+## The Goal/Mission:
+
+I am building a **data-driven framework** to categorize ad performance:
+
+1.  **Breakthrough** → Ads that hit “high spend %” AND “scale” daily spend.
+
+2.  **Spend Winner** → Ads that hit “high spend %” but do not “scale” the account
+
+3.  **KPI Winner** → Ads that hit KPIs but do NOT hit “high spend %”
+
+4.  **Loser** → Ads that don’t hit either spend or KPI targets
+
+**<u>Why Did We Go Through This Process?</u>**
+
+**The problem worth solving:**
+
+Nobody has a CLEAR answer on “What makes a winning ad?”
+
+Example:
+
+[**<u>https://x.com/philkiel/status/2016540798083567643?s=46</u>**](https://x.com/philkiel/status/2016540798083567643?s=46)
+
+“A good win rate is 10-20%”
+
+But winner is defined as:
+
+Hitting a spend threshold in KPI, and the threshold is based on AOV and CPA and whatever we choose:
+
+<img src="_work/ecomtalent/evolve-start/media/linked\112-document-1zstpr7f1b-docx/media/image1.png" style="width:4.77604in;height:2.48752in" />
+
+Others have different definitions for it.
+
+[<u>https://x.com/spencepawliw/status/2048572362849956133</u>](https://x.com/spencepawliw/status/2048572362849956133)
+
+**<u>Other Definitions:</u>**
+
+*“An ad that is accomplishing your objective “*
+
+*“It beats your KPI at scale.”*
+
+*“Scalability, without sacrificing KPI’s”*
+
+And although some of these are very valid answers and ones that I would agree with
+
+**The problem with all these answers is they're not concrete.**
+
+There is no specific target.
+
+We are using terms that lack any form of numerical value (outside of “KPI” which of course changes based on brand goals.)
+
+**And after seeing this, it made me realize there is no such thing as just a “winning ad”**
+
+Winning ads actually exist on a spectrum from:
+
+**“no winning” —\> “lots of winning”**
+
+And there are 4 variables determine how “winning” an ad is (in no particular order)
+
+**Variable \#1 - KPI**
+
+KPI (CAC/ROAS) Is the first variable to determine how winning an ad is
+
+The higher the KPI, the more winning the ad is.
+
+**Variable \#2 - Spend**
+
+Ad Spend is the next variable to determine how winning an ad is
+
+The more spend the ad gets, the more winning the ad is.
+
+**Variable \#3 - Time**
+
+Time is another variable to determine how winning an ad is
+
+The longer the ad runs, the more winning the ad is.
+
+**Variable \#4 - Scale**
+
+Scale is the final variable to determine how much the ad helps the account “win”
+
+The more the ad helps the accounts scale, the more winning the ad is.
+
+**Losing ad** **Winning ad**
+
+\|-----------------------------------------------------------------------------------------------------------------------------\|
+
+Low/no kpi Super high KPI
+
+Low/no spend All of the spend
+
+Runs for 1 day Runs 30+ days
+
+Increase spend 0% Increases spend 100%+
+
+Now that we've clearly defined the spectrum and we know that we're obviously trying to make an ad that has an extremely high KPI, gets a lot of spend, runs for a long time, and allows us to scale into oblivion
+
+**On top are a 2 crucial components of a winning ad that need to exist (if you ask us):**
+
+1.  **Click-Based Data**  
+    We are only going to review either 7-day or 1-day click-based data.  
+    View data is not incremental from what we have seen. We know it has a place. But we want ads that customers are clicking and buying from.
+
+2.  **Net New Customers**  
+    The second thing is we need to also be optimizing for ads that get us new customers. We would consider a great “winning ad” an ad that gets us new customers. As ads targeting existing customers will be capped by TAM.  
+      
+    And for 98% of businesses, they need to focus on getting more NEW customers to grow instead of getting more from existing.  
+    ***(although the latter strategy is a sign of a much better business)***  
+      
+    So for now, we are focused on ads that help us grow via new customers.
+
+Finally, it’s important to note for the data ahead, we are using a very specific testing process across all of these accounts.
+
+**The EVOLVE Testing Process:**
+
+Another thing that I want to clarify is that we are testing ads in CBO.
+
+We test in CBO to see if Meta will favor ads for one simple reason:
+
+We have seen that when you test in ABO or you apply a minimum budget to a creative, you are **<u>FORCING</u>** Meta to go get you purchases.
+
+Even though those ads might show a decent ROAS or may be able to spend a decent amount, a lot of the time they are **not incremental**.
+
+And if you look at a tool like northbeam or TW, you will notice a smaller amount of **new visitor %.**
+
+Which is a fancy term for saying they are not **<u>generating</u>** the purchases, they are **<u>collecting</u>** them.
+
+AKA, they are doing more “retargeting”.  
+  
+So, by testing in CBO, you're essentially telling the machine:
+
+*“Hey, please only spend on these ads if you think they're good enough to scale.”*
+
+However, I'm not saying that you have to test in CBO, but for the sake of the data to follow, it is crucial for you to know these ads ***“%’s of spend”*** are based on CBO campaign structures up to \$500k+/month in spend.
+
+CBO testing also reinforces why the time component is so important, because some people will say they've ***“found a winning ad”*** after 2 days of a \$100 day budget in ABO, and say things like:
+
+*“ See ABO is way better than CBO for testing."*
+
+But within a week, the ads in ABO are usually turned off because it's sucking.
+
+With that said, we have seen ABO do well, but it is very rare that ABO will actually beat out a CBO.  
+  
+And I’m not just saying that, you can see the data here inside of our mass ABO vs CBO Testing campaign:  
+[**<u>CBO No Spend VS ABO Spend</u>**](https://docs.google.com/spreadsheets/d/1X4p0ODETEPoNizTifvGPk27A_TjrIK_NJzB8J92cSgg/edit?gid=1493875066#gid=1493875066)
+
+**<u>My Ideal Action Items For People From This  
+</u>**
+
+1.  **LABELING - For people to be able to agree on what a 🏆 Breakthrough, 💸Spend Winner, 🎯KPI Winner, and ❌ Loser are.**  
+      
+    If we ALL have the same definition, we can speak the same language and actually understand if our results are “good” or “not so good”***  
+      **
+    "This is 100% a 🏆 Breakthrough ad because in my spend category of \$0-\$100k/mo, after Week 1 the spent 50% of my campaigns budget and increased my total daily spend by 70%”**  
+      ***
+    or  
+      
+    *“This is 100% a 🎯KPI Winner because in my spend category of \$100k-\$250k/mo, the ad failed to spend 22% or more in the first week, but it was above the initial campaign ROAS”*
+
+2.  **AD SCALING - Answer how much the ad should be able to scale the account.**  
+      
+    This is huge for helping people prepare their backend but also to know if they’ve created a true breakthrough.  
+      
+    *“On average 🏆 Breakthrough at \$500k-\$1M+/mo will increase your ad spend by 34%”  
+    **  ***
+
+3.  **AD KILLING - This will help with people trying to figure out whether or not they should kill an ad set.**  
+      
+    With our data on breakthroughs, we will be able to provide guidance on whether the ad should stay running or if they should be killed based on signals from other previous breakthroughs as well as the reports that people will be able to generate themselves.  
+      
+    *“This Ad is showing as a clear 💸Spend Winner. However, the KPI is much further below what it should be based on breakthrough data. So, I am confident in turning this ad off to save the campaign performance.*
+
+4.  **ITERATION RECOMMENDATIONS - To be able to give people guidance on what to do based on the outcome of their ad.  **
+
+    1.  **BREAKTHROUGH *(Winner)* -** If the ad is crushing it, we will have a playbook you can follow to dissect the ad and its core components and then be able to start an aggressive iteration and variation process. Find playbook here: **[<u>https://www.skool.com/evolve-8484/classroom/67ce5630?md=0a50b76d4d5d45dba6e3cf195b0a0bbd</u>](https://www.skool.com/evolve-8484/classroom/67ce5630?md=0a50b76d4d5d45dba6e3cf195b0a0bbd)  
+          **
+
+    2.  **KPI WINNER *(Spend Issue)* -** If the ad didn't get enough spend.  
+          
+        **<u>Solutions:</u>**  
+        - You need to make the hook more engaging, and the hook needs to be more optimized to help people actually stop their scroll so Meta can push it out to more people.  
+          
+        - It can also mean you didn't use proper visuals & messaging that tell Meta’s systems which audience to serve your ad to.  
+          
+        *KP - The bridge is bad or awkward, does not connect seamlessly between the hook to hold (characterized by high hook, low hold rates)  
+          
+        KP - Your angle or messaging/labels are too niche/specific. The ad resonates with some - but it’s too narrow group (eg. big dog owners in Australia vs big dog owners)  *
+
+    3.  **SPEND WINNER *(KPI Issue)* -** If the ad doesn't have a high KPI or isn’t scaling the account, the ad is having the following issues:
+
+        1.  ***Hook is misleading people\*** (There is a disconnect from what people expect from the ad VS what's on the page)*
+
+        2.  It’s going after a broader/colder audience but is lacking conversion factor (can be a funnel or an ad hold issue)
+
+        3.  ***Non clear CTAs throughout the ads\****
+
+        4.  People like your claims, but do not believe them to buy *(how can we make them feel like they NEED it now, urgency, stakes, etc.)*
+
+        5.  Do not see the value in your offer *(price to value is off for the audience) → study price objections use techniques there to overcome / prevent*
+
+        6.  Your offer has logistical issues *(more so for early on brands without winning ads)  
+              
+            KP note - You did not fully close all the loops opened earlier - viewers were intrigued but some felt unsatisfied / not fully sold after watching through (strong soft metrics but low KPI)  
+              *
+
+    4.  **TIME ISSUE -** If your winning ads are dying fast, they might need to:
+
+        1.  Expand the avatar (Self identity + valence+ intensity) - increase TAM
+
+        2.  Have gone too bottom of funnel (just picked up the scraps)
+
+        3.  Try a higher awareness level (problem aware/unaware)
+
+        4.  You're not resonating with the audience on an emotional level. *(To actually scale an ad, you need to talk to people's emotions)*
+
+        5.  People overtime realize it’s bullshit (fake AI native story ads)
+
+        6.  Competitor launches a better offer/creative that outscales you
+
+        7.  Seasonal demand issues (example: humidifier in July)
+
+        8.  Seasonal messaging/visuals fatigue (example: winter background in UGC feels outdated in spring/summer)
+
+5.  **AD OPTIMIZATION -** Provide clarity to people on HOW MUCH they can expect their ROAS to go down if they increase spend, and vis versa, provide clarity on HOW MUCH they can expect their ROAS to increase if they decrease spend.  
+      
+    *“Based on our data, we could assume that you can safely scale spend 100% while still staying above KPI, GIVEN that your ad is currently at X spend and Y KPI and your target KPI is Z”. **  
+      **
+    Or**  
+      **
+    “If you scale down by X% the data shows your ROAS should increase by Y%”*
+
+**<span class="mark">IMPORTANT NOTE TO UNDERSTAND BEFORE READING</span>**
+
+*Defining 💸Spend Winner & 🏆Breakthrough’s are why we ran this to be able to give you the percentages that you should be looking at in order to determine whether or not this ad is a 💸Spend Winner based off the category that you're at.*
+
+An ad will always be labeled a **“💸Spend Winner”** or a **“🎯KPI Winner”** or **“❌ Loser”** after the initial 7 days of testing UNLESS the **💸Spend Winner** has increased the total campaigns daily spend and there are no other outside events that are causing the budget increase, then you have identified a **“🏆Breakthrough Ad”**.
+
+Breakthroughs can be labeled in week 1 if it does scale the budget in its first week. However, as you get to the larger spend brackets, the scale usually doesn't happen until week 2 or week 3.
+
+Obviously, there are times during these weeks where other ads do participate and you have multiple winners entering and basically helping increase the overall scale. That is a point that we need to clarify as well.
+
+**This MEANS it’s important to understand that ads WILL likely change in regards to how they are labeled. For example, an ad in week one might be a KPI winner, but after week two it might become a spend winner or a breakthrough as the algorithm picks it up.**
+
+In some <u>rare</u> cases, there may be ads that get labelled as a **“❌ Loser”** *(Ad \#4 in the 500k+ bracket)* where you can clearly see not only was it below KPI, it also wasn't hitting high spending. However in week 2 it **pulled over 55% of spend** and actually helped scale the ad account.
+
+**\#4 - Ask the Ad AI.** We have created a project that is trained on all of the data and the stories that come from it for this data set. You will be able to ask it what it thinks it should do when it comes to making ad decisions. *(Coming as a Claude Skill)*
+
+**<u>Last Updated May 13th, 2026</u>**
+
+**Winning Ads Definitions:** [<u>Master Winning Ads Analysis</u>](https://docs.google.com/spreadsheets/d/1_gBLt9G0nEfFJ1RkHLIJtgUhiBwp1XmOTOPasDRcqgE/edit?gid=1756177178#gid=1756177178)
+
+**<u>The “IDGAF” definitions:</u>**
+
+**💸 Spend Winner (Week 1):**
+
+Capturing **10-30% or more** of total campaign spend  
+*(higher spend, lower %, lower spend, higher %)*
+
+**Campaign budget has NOT increased week over week as a result of launching the ad**
+
+**🎯KPI Winner (Week 1):**
+
+Ad is not capturing at least **10-30%** **of spend  **
+*(higher spend, lower %, lower spend, higher %)*
+
+Ad ROAS is the **same** as the initial campaign ROAS **or higher**
+
+**❌ Loser (Week 1):**
+
+Capturing less than **10-30% of total** campaign spend
+
+Ad ROAS is **below** the initial campaign ROAS
+
+**🏆 Breakthrough Ad (Week 1):**
+
+Ad is capturing **10-30% or more** of total campaign spend  
+*(higher spend, lower %, lower spend, higher %)*
+
+**Campaign budget HAS increased week over week as a result of launching the ad  **
+*(10% → 100%+ increase in budget)*
+
+<u>**REMEMBER**:</u>  
+An ad can be a labelled a **💸 Spend Winner** or a **🎯KPI Winner** in week 1, and become a breakthrough in week 2 or 3  
+*(as long as it pulls the set % of spend listed above and increases daily budget)*
+
+Step1 : Download VS Code:
+
+[<u>https://code.visualstudio.com/</u>](https://code.visualstudio.com/)
+
+Step 2: Create “Claude Code” Folder
+
+Step 3: Download this folder + follow steps
+
+Repo: <https://github.com/zjamesblake/analyze-breakthrough>
+
+1.  Download ZIP from the repo
+
+2.  Unzip and place analyze-breakthrough/ in his Claude Code workspace
+
+3.  Open Claude Code and say: "Go into analyze-breakthrough and install the requirements"
+
+4.  Drop a CSV into account-csvs/
+
+5.  Run: /analyze-breakthrough @File.csv "AD NAME" --brand "Brand"
+
+6.  Report lands in breakthrough-reports/
+
+Step 4: Upload CSV into google sheet + open for all to view
+
+Step 5: Submit via Clickup Form:
+
+[<u>https://forms.clickup.com/10505015/f/a0jtq-196694/56KSP3MSJJ3W6KDVEI</u>](https://forms.clickup.com/10505015/f/a0jtq-196694/56KSP3MSJJ3W6KDVEI)

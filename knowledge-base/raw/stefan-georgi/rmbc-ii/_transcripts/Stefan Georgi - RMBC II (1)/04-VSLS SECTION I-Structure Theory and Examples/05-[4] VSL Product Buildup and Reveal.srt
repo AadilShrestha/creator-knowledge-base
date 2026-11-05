@@ -1,0 +1,507 @@
+1
+00:00:00,000 --> 00:00:27,460
+let's get into today and the kind of content, which is about the product build and reveal. I don't think this will be a super, super long call. I think it's really, but I think this, and I made this a couple of the points I'm going to make on a previous call, but if you weren't on that call or just as a reminder, I think it's pretty important. So we go back to our outline that we've been looking at here. And as always, I will share, you know, a link to this with the replay.
+
+2
+00:00:27,460 --> 00:00:55,840
+You know, the product build up and reveal part is generally, like, after the unique mechanism, right? So they know, like, the real problem. They know the solution. And they're kind of, like, typically, like, now I have to, like, you know, bring that solution, like, package it up, right? And typically, it's, like, they'll look for, like, an quote-unquote, like, out-of-the-box version, right? But because, of course, that's, like, the consumer's question often as well, right? Like, okay, well, there's, like, a, you know.
+
+3
+00:00:55,840 --> 00:01:24,740
+perfect if this is the the problem then you know i just can go buy xyz package but it's like oh actually it's flawed you can't do that right and so typically um the spokesperson he or she has to i said himself but right has to uh you know do it themselves and create or find like a better solution and then the really important part and i this is the part i emphasize i think on the first of these vsl calls is that having a bit of like trial and and tribulation
+
+4
+00:01:24,740 --> 00:01:50,750
+before like essentially finally discovering the product is actually really an important part that i sort of overlooked and i've realized that's a lot of like the sort of best copy there especially anything physical i think it also does work for info and i'll talk about that um too but um having at least like a little some kind of section there uh tends to like increase conversions and so you know we'll look at examples but what that means is kind of like you know
+
+5
+00:01:50,750 --> 00:02:09,840
+I'll give you an info product example, right? So sort of like, all right, now I have this system. I just need to share with people. So I started writing everything down and, you know, I gave it to like a small handful of my friends and they said it was pretty good, but they were parts they were confused about or this part, you know, the system seemed like it wouldn't work. I had to make it even easier. And so I went back to like the...
+
+6
+00:02:09,840 --> 00:02:38,140
+you know, my office, I spent like, you know, countless nights, like how can I make this the most simple plug and play system possible? You know, like ultimately I went through 10 different versions of this, like, you know, method and how to explain it and how to refine it. And, you know, until I had something that was like really the hit, like, right. Everyone who used it said it was the easiest thing that they could be, you know, they can give it to their, their 10 year old son or daughter and they would have success too. And now I'm so excited to share it with you.
+
+7
+00:02:38,140 --> 00:03:08,850
+And that's product, right? So that's what I kind of mean by this, the step backs and trials and tribulations. So let's look at a couple of examples. We'll do physical here. And then I have, I was trying to find a good example from an info product before the call. And I had this one. I'm not sure if it's perfect or not. We'll do Beverly Hills first because we've looked at this pinch test one a lot, right? So we've got the transcript and I had Claude actually clean up the part that's the kind of product open reveal. So basically just gone through like the ingredients and all of that. And they're like, you know,
+
+8
+00:03:08,850 --> 00:03:53,520
+I found these things where I found a solution that's going to address the biggest issues and make people appear older with sagging skin wrinkles and loss of radiance, right? But before you run out and buy these same supplements for yourself, I must warn you. So let me actually go back to the outline again, the overview. I'll do side by side so we can kind of look at both things. Here's this, pull this out, right? So, you know, the solution is right out of the box. We're literally right here, like, oh, like, you know.
+
+9
+00:03:53,520 --> 00:04:23,100
+go buy these supplements i've told you about the supplements you can't just go buy the out of the box version right um but they're flawed right well the ingredients themselves are all backed by science i strongly discourage you from using any of the collagen salt palmetto or hyaluronic acid supplements currently sold in the u.s stores you see back in 2015 the new york state attorney general's office ran dna tests on 24 popular supplements sold in major retailers including some of the most popular brands of salt palmetto and found that 19 of them didn't contain the advertising green at all i'll say that again the vast majority of supplements didn't contain the very thing they were claiming to
+
+10
+00:04:23,100 --> 00:04:47,780
+uh claiming to supplement but here's what's even more inferiority several of them were actually found to contain contaminants or not with some label now it's absolutely appalling and sadly it doesn't look like things have gone much better since this crackdown because after studying dozens of popular collagen salt palmetto and hd supplements recently myself i discovered that they were also diluted with filters there was barely a trace of the active ingredients in them not to mention that extremely low permeability meaning your body can't even fully absorb what little amount there is
+
+11
+00:04:47,780 --> 00:05:12,530
+So if you're wondering why Joanne's formulas are so effective, it turns out she'd been ordering them directly from laboratories in Europe at a whopping cost of over $150 per bottle. And that's not even including international shipping fees, mind you. Spending $500 every month to maintain this regimen might sound like a steal to my celebrity clients, but it was putting a serious strain on Joanne's finances. So I can't in good conscience recommend this option to you because the truth is you can actually get even more dramatic results for less than the price of a cup of coffee. That's right, I'm talking visibly firmer, more lifted-looking skin.
+
+12
+00:05:12,530 --> 00:05:40,900
+fewer lines and wrinkles, and a beautiful radiant complexion all in one simple step. Best of all, this is something every woman can afford to do daily, and it works at any age. So rest assured that no matter how old you are or how far your signs of aging have progressed, a younger version of yourself is possible to achieve. How you ask? Well, in an effort to make Joanne's age-fighting regimen more accessible, my partner, Dr. Daniel Kaur, and I decided to take matters into our own hands, right? So now it's like we have to do it ourselves, right? We talked about it like right here, right? After all, we had access to the world's best laboratories, so finding the purest and most powerful form of each ingredient.
+
+13
+00:05:40,900 --> 00:06:06,140
+wouldn't be a problem. Because we'd established good working relationships with their lead scientists, we could easily source them for a fraction of their standard costs. However, right, there's more setbacks, right? After doing more research, we discovered that the skin-transforming effects of salt, palmetto, collagen, halic acid could actually be amplified even further if I'm into A and B. So I guess it's not a setback, but it's still like there's more things happen, like there's more tinkering. So quickly as like we added B vitamins, we added A vitamins.
+
+14
+00:06:06,140 --> 00:06:33,020
+But here's the problem, right? The only problem, well, according to our calculations, these results can only be achieved if all five ingredients were consumed together every day. And let's face it, that's a lot of pills to swallow. So to make it easier to stick with the plan, we decided to try combining them into one multi-active formula instead. Now, let me be clear. Fusing this many high-potency ingredients is very difficult, and at least to my knowledge, has never been done with these particular ingredients before. Nevertheless, we stepped into the challenge, and after several months of trial and error, so literally problems and setbacks, right?
+
+15
+00:06:33,020 --> 00:07:01,790
+something extraordinary happened. Not only were we able to successfully combine all five nutrients without altering their potency, but our process proved to be so precise to essentially fuse them into an entirely new and more powerful complex. Because in test after test, its youth restoration properties vastly exceeded any supplement blend we'd seen before. In fact, we didn't even know what to call it at first. So we gave it the name Beverly Hills MD Dermal Repair Complex because it quite literally worked to repair the appearance of aging skin with every dose. And that kind of goes into like this close here, right? But...
+
+16
+00:07:01,790 --> 00:07:30,420
+if you look at it's funny right beverly hills golden hippo some of the best you know copywriters and and you know most out in vsls on the planet and it's like literally they follow pretty much every step of like this outline um right they look for out of the box solution but it's flawed they contain contaminants so they don't have the real ingredients in there him and his partner have to do it themselves uh you know they start testing on working on it they add in vitamins a and b there's problems and setbacks but eventually
+
+17
+00:07:30,420 --> 00:08:08,370
+There's this breakthrough proof that it works here. I think there's maybe visual proof in the VSL. They don't have that. Others are asking for it. But besides that, the product is born, right? So now let's look at the same thing with Neuro, which is another one we've been, you know, going through over in the past several weeks. So I'll pull that one out. Bring that one over here. I notated. Anyway, this is a short one. This is like a 15-minute VSL.
+
+18
+00:08:08,940 --> 00:08:43,090
+So he's found like, you know, the real reason for edema, he found this part of UMS is this thing called EMS or something like that, I think it's called, or NMES, right? He just started talking about the flaws a little bit before this part. So it got me thinking, what if I could take the same groundbreaking technology that top doctors use to temporarily reduce the excessive swelling and put it into a simpler, much more affordable device that can be used by everyday people at home?
+
+19
+00:08:44,820 --> 00:09:17,860
+This was a Herculean task. I knew I couldn't do it alone. After all, I'm just a doctor. I need some engineers to build the device. So I partnered up with a U.S. biotech company called Neuro. Sorry, guys. One second. My period just went down the wrong pipe. Say a second. Most bougie problem ever. Okay. Neuro. These guys are known for making some of the best pain relief devices that have helped more than 300,000 men and women across America. If my idea to make this technology available to everyone was even remotely possible, I knew that these guys were the ones to do it.
+
+20
+00:09:17,860 --> 00:09:44,140
+So I went ahead and got to work. We meticulously analyzed the customer and market data and confirmed there's a wide gap between the needs of the patients of Edema and currently available solutions. We've taken that specific information and built the first three prototypes. We shared the prototypes with small cohorts of Neuro's existing customers to see which prototype worked the best, if any. They all worked, but not as well as I wanted them to. So we went ahead and created three more. Those are much better, but they turned out incredibly expensive.
+
+21
+00:09:44,340 --> 00:10:12,780
+We kept repeating the same process. Months passed by, and we had nothing to show for our work. The process was much more expensive than we initially thought. It was a manufacturing nightmare. I'm not going to lie. There were times when I thought maybe the current technology was not yet ready for this type of device. But then there was this little voice in my head that just didn't allow me to stop. I knew that if we pulled this off, it would help thousands of people. So we kept trying, working around the clock, and after another three months of 12 to 14-hour workdays, we did it. We created a compact, easy to use, and most importantly, an affordable device that leverages the same.
+
+22
+00:10:12,940 --> 00:10:40,000
+I think I should say that NMES technology. Finally, I felt confident that we had built the best ally for battling edema, an ally that doesn't judge or complain when it's available 24-7 at home, at work, or when you're out and about, giving you the confidence that the next time a sudden flare-up of edema tries to hijack your day, you know it can be shut down within minutes. And you're just seeing my brainchild, the neuro-NMES foot massager. So if you go back to this sort of section here, okay, like...
+
+23
+00:10:40,000 --> 00:11:17,980
+He kind of did dismiss it right before the section, sort of out-of-the-box stuff, but he's sort of like, all right, well, like, if this is flawed, what can I do, right? The reason they do kind of blend it with the UMS, so that's why I didn't really, like you see here, right, here's the problem with these devices. I guess I could have notated that it starts here. Maybe I'll update the comment. In fact, you know, I'm going to do that because really I think that could have been, sorry, you know, let's put it here, I think. So if I read just that one section before.
+
+24
+00:11:17,980 --> 00:11:45,940
+It got down to here. The problem with both these devices is they're not user-friendly. They include wires and lock user manual, making this up a nightmare. Human skin is a poor conductor of electricity. The pad must be made from material that conducts electricity efficiently enough to compensate for this limitation. So if you want to experience the benefits of this technology, you normally have to go to a rehabilitation center. That's not always optimal. You have to pick one that offers it. Then you have to go through the process to book a session. Then you have to get yourself there driving there and back.
+
+25
+00:11:45,940 --> 00:12:15,680
+So I got my thinking. So I guess really I could have put it there from the get-go. But if you do that, out-of-the-box solution doesn't work. Or it does not work, but it's flawed, right? He looks around, box solution is flawed. He's like, what do I do it myself? There's a ton of this testing and setbacks, but eventually success. Similarly here, there's not a ton of proof. That might be a Facebook thing with testimonials before and after, I don't know. But product is born. So if you look at at least these parts and then this part are just super...
+
+26
+00:12:15,680 --> 00:12:45,420
+common right in the structure and I think it's worth noting that on this specific latest VSL there's only 3,785 words right the whole thing and they're running this a ton on Facebook and they're doing different little leads like we've talked about in front of it so it's worth noting that even though they're very economical with their words here you know they're still actually spending a pretty worthwhile amount of time here to like
+
+27
+00:12:45,420 --> 00:13:14,900
+do this sort of reveal how many word count 555 words right that's if you think about it like that's basically what like one sixth of the uh entire letter is like that part that's pretty significant but that's because i do think that's a really uh big and important part okay so this last one i didn't have time to i was kind of going through it before the call but um let me make sure i'm sorry one second was it here i had it or oh yeah no i'll be back in uh here
+
+28
+00:13:18,060 --> 00:13:50,370
+This one's thing that Luke and I had written for Rachel Rofez, another Amazon type of thing we did in a podcast format. But let's just see. I was kind of going through. It's a long-ass script. I know what the word count is. It feels longer than that. But do you have anything to help shortcut the process? Of course, right. Pretty much all my best students, they all had help getting where they were. That's because once I showed the system, I noticed that people really wanted something that was more step-by-step.
+
+29
+00:13:50,370 --> 00:14:21,600
+So I basically put everything I know down to a video series. It's basically a paint-by-numbers business. You just follow the process. I walk you through each step. A couple hours later, you have a full Amazon business. It takes time and effort to get your store cranking. But it all starts with this first step. And she's like, all right, cool. Did you, you know, listeners can get access to this because it's a podcast. Yep. That's the first part. I realized that a lot of people want community, right? And so essentially, like, the way this one is, it goes into selling kind of faster. So I don't know. This one's not a perfect example.
+
+30
+00:14:21,600 --> 00:14:50,510
+uh but even here it's sort of like she she put it into like a system right and then it's sort of like then i realized that you know people want this to put everything down uh then i was like wait they actually want this as well and so it's kind of like the idea of like the same idea i think frankly this could have been written to have even more like a little bit more of that build up in it um more explicitly in this section uh because it sort of gets like range like the product side here um
+
+31
+00:14:50,700 --> 00:15:19,420
+And it goes in a book a call from here, but I can find more examples, but really, I don't think this is a really complex part. I think really it's just like having it is valuable and worthwhile. And I do see people trying to skip this section a lot. And I think that adding the section in, whether it's physical or info on a front end kind of VSL can, is definitely a worthwhile test at the very least. And we'll often, like I said, increase your conversions. So I'll pause there. I don't want to like over.
+
+32
+00:15:19,420 --> 00:15:47,540
+fire hose we're gonna do closes next week because i want to go along on closes i don't make this call two hours long do you guys have questions on what i just shared you guys or gals um does this really is it really straightforward is there anything that uh you know anyone have any any questions i don't want to i'm here to answer them um i noticed uh like there's see it doesn't it seems like it doesn't have to be an exact
+
+33
+00:15:47,950 --> 00:16:15,940
+following of this of this format like it could be it could deviate slightly as long as it kind of has it contains the mood of the of the section you know what i mean it's not like yeah it's not yeah yeah that's uh i think it's a good kind of question or observation um because it's yeah not every it's not like if you don't have every single element on the outline then uh
+
+34
+00:16:15,940 --> 00:16:44,460
+you know it like won't convert necessarily but it's like having sort of the general section like having those sections is is worthwhile and valuable and i would say if anything like you know subtraction sort of makes sense what i don't encourage necessarily is a lot of like addition in those sections um because like what i've kind of talked about before is where it's like uh
+
+35
+00:16:44,560 --> 00:17:12,370
+Yeah, VSL should kind of follow like these beats in these sections and go like this way, right? It's like directionally downward. And where things I think go off the rails a lot of time for VSL is when it's like gets to this section, let's say like the product build reveal, but then it goes like, in fact, like here's five myths about this thing. And then suddenly it's like a whole section about five myths about Dima, right? And like, you're like, that's not the time for that. You sort of like, now we're over here.
+
+36
+00:17:12,370 --> 00:17:40,450
+And now you're trying to bring them back to the product buildup. Right. And it sort of like, doesn't make sense. So it's like what I would call like a zigzag sales letter structure is really problematic because again, you want to feel very like kind of congruent and continuous versus like a very discontinued thing. So yeah, the big idea there would be omitting or omitting is fine, but you don't want to necessarily add a bunch of stuff to like a section because typically, and also typically that happens because you have interesting shit that you're like, man, I really want to share this.
+
+37
+00:17:40,450 --> 00:18:11,660
+But you end up trying to fit too much stuff into the VSL. And again, it sort of doesn't matter how interesting it is. If somebody has been with you for like, you know, depending on the format, like 30 minutes or an hour or whatever, it's like they're kind of like their brains tapped out, right? And now you're giving them too many ideas. And it's like you sort of don't want to have too many ideas either. So, yeah. Makes sense. Okay. Thanks. Yeah, of course. And Fotis, that kind of answers the question that you just asked as well. You put in the chat.
+
+38
+00:18:11,660 --> 00:18:40,590
+you know, where do you see people messing up those parts of the VSL? So like I said, you know, yeah, it's sort of, oh no, it's what I literally just said right now, kind of, it's like the zigzagging. It's really like the, I mean, it's going out of the order as well. And it's also, you know, adding, like I said, adding, yeah, trying to add too much in. Or like, for example, I looked at one of our members had a VSL for like a, like an info product.
+
+39
+00:18:40,590 --> 00:19:08,960
+uh around like sort of boosting your testosterone and your manliness I looked at this morning and they had like a punch in the gut section right and um in that section it was like uh like 1600 words long and so I went and looked at like other sort of VSLs that have like a punch in the gut type of section that I know are successful and it was like I shared one that I had written that was like I think 750 words and then I looked at uh two from
+
+40
+00:19:08,960 --> 00:19:39,500
+the Alliance Publishing guys I didn't write or anything, but like Prodentum and Prosodyne because they're two really big offers for them. I looked at their pig sections and both of them are almost exactly 550 words, right? And so it kind of goes back to, I think there's like a power of succinctness, like not writing like a novel. Like in the case of the one I looked at today, it was kind of like, you know, the guy, you know, was with his wife and,
+
+41
+00:19:39,500 --> 00:20:08,700
+it's her honeymoon or anniversary and uh you know he sort of can't perform because it's testosterone but that's a big pain point for you know the testosterone space but it was kind of written like you know kate looked at me like i could see the sadness in her eyes as the sunlight filtered through like the you know half open blinds like damn another morning if she sipped on coffee and i could see this theme coming up but it's like like a few details is cool but it's like we're not writing like a novel or an essay like we're recounting like a story it's like somebody speaking and recounting a story
+
+42
+00:20:08,700 --> 00:20:37,460
+that happened right and so just like in general like being precise with the language like you don't want to write short stuff just write short stuff but like you know not again you need to move basically moving the narrative along for each section is so important and not getting in the weeds like no one section should generally be like but the longest section of your vsl by far should be your clothes your clothes if you're talking about a full length vsl
+
+43
+00:20:37,460 --> 00:21:06,860
+But even on, like, mini-VSL, it's typically the same thing. Like, the close is probably about 25% of your VSL, let's say. I mean, like, let's play with this for a second. I'm going to go back and share my screen because maybe it's worthwhile. I'm going to do this, like, mental math, but, like, I think this will make sense, right? So, like, you know, your lead is probably, like, 3% to 5% maybe of the VSL. I might revise these numbers, okay? Background story is maybe...
+
+44
+00:21:08,720 --> 00:21:39,330
+10%, and that's encompassing, like, you know, I'm so-and-so, I was doing these pain points and problems, maybe you've dealt with them as well, right? So maybe it actually leaves more like 10%, let's say. Let's say 5% or 10%. Okay, background story. I'm trying to make sure this is all going to add up to like 100, but we'll see. The, you know, kind of UMP, let's do it section by section. So the UMP is probably...
+
+45
+00:21:39,330 --> 00:22:12,700
+um 15 let's say the ums this is going to vary but let's say we're talking about especially with a um where you're talking about ingredients or something or it's a supplement or even the neuro thing it was sort of explaining uh the nmes stuff is probably another 15 let's say uh probably build up and reveal it's maybe like 10 and so that would actually probably could close too but let's say we did the outer range of this so 10
+
+46
+00:22:12,700 --> 00:22:41,620
+25, 40, 55, 65, close at let's say 35% on the outer range. That's not, again, this isn't perfect, but that's probably decent, you know, like ratios here. You know, again, this is like, it might be more like the background stories, 10% and the UMPs 20%. 20% seems like a lot. If we're talking about, it depends on my words. So if I'm talking about like a 8,000 word VSL, let's say.
+
+47
+00:22:41,620 --> 00:23:10,420
+20%, 1,600 words. That's probably okay. It's probably around 20%. UMS, again, really going to vary on if we're talking about ingredients or stuff like that in studies and research, if it's faster. So this can range a lot. But the point is like no one section really should be like insanely dominant. And also, again, the close is typically going to be the longest section for a couple of reasons, right? One important distinction about the close of a VSL is like we'll talk about this next week, but really.
+
+48
+00:23:10,610 --> 00:23:40,690
+like once you reveal the product, you sell it, and then you have like the call to action, right? The first call to action. My philosophy is that at that point, it doesn't really matter how long you keep going afterwards. And by that, I don't mean that you should stop. By that, I mean, now like you, you're naked, right? You're like, here I am. Like, take me or leave me. But if they're like sitting there kind of like, well, I don't know. It's like, might as well keep going. Be like, well, I'm pretty great. You know, I'm like, look, I got a six pack.
+
+49
+00:23:40,690 --> 00:24:07,380
+You know, look, I'm very flexible, right? I'm making a bedroom analogy here. But the point is like, you know, like you've already revealed, you've already been like, hey, this is the product, here's the price, buy it. So after that, like, they're either going to buy it or if they don't buy it, but they're still sitting there, you should just keep taking chances to like try to sell them, right? And so like, there's no reason to really rush. Like the point is not, you don't want somebody to finish your VSL.
+
+50
+00:24:07,380 --> 00:24:36,820
+right? You don't actually want somebody, this is actually a cool point. I think people talk about this very often, but it's true, right? The goal is not to get somebody to finish your BSL, right? The goal is to get them to click the button as soon as you tell them to click the button. And so if that's true, which it is, then after you're told to click the button, just keep trying. If they're still there, keep trying to get them to click the button as much as you can. So that's where, you know, the clothes could even be like longer or why like the clothes is so long. Why it doesn't, because again, you move them along all to this point.
+
+51
+00:24:36,820 --> 00:25:04,850
+to get to this like, you know, coveted call to action. If you really think about like objectively, like what the VSL is doing, it's like, you know, advertising the VSL, get them hooked in, build rapport. I mean, we've talked about the outline for what these things are. Build a lot of rapport. Be like, I understand your pain point. You know, I understand your pain. I've experienced it. Like we're the same or somebody like, you know, was the same. Then it's like, okay, like, well, here's the real reason why you're suffering and here's what to do about it, which is like.
+
+52
+00:25:04,850 --> 00:25:31,380
+You know, if I understand your pain point and I understand why you really have the pain point, because I used to have a two and understand how to solve it. You know, that's all very interesting to the person. Then it's like this part becomes like, OK, well, the consumer, the customer is mine. The conversation is like, great. Well, can I just go Google this or Amazon or go whatever? It's like, no, here's why. Right. I had to like toil and struggle. This is not so you can just go buy somewhere else. And it's like the product. And then once you're in the product.
+
+53
+00:25:31,380 --> 00:25:58,510
+You know, yes, you want to kind of like, now they're like, if you've done a good job, you would think everyone knows they're being sold throughout a whole BSL, but they don't always. So now you've introduced this product. So now you do want to kind of ease them into the fact that you're about to sell them. But then really, ultimately, everything we're doing, like downward arrows, is eventually trying to bring them to this moment, right? This call to action. And again, after that, it's like, hey, that didn't work. Let me take another angle. Let me take another. Oh, there's a guarantee. Oh, there's bonuses.
+
+54
+00:25:58,510 --> 00:26:24,980
+oh, how is your life going to look in three months from now if you do or don't take action, right? Call it action. Hey, you're still here at FAQs. Hey, you don't believe it? Social proof, right? You're just sort of like hammering in shit, which we'll talk about with closes in depth. But I think it's a kind of, so the big takeaways there again, one is like, you're really driving everything to that first call to action. And then you don't actually want the street. You don't actually want somebody to finish your VSL, which is a paradigm shift for some people, I think.
+
+55
+00:26:24,980 --> 00:26:58,670
+And then three is, given that, it doesn't really matter how long the close is. So I don't know if that's a worthwhile tangent or not, but I thought that was interesting. Let me answer Craig's question first, and then Leonidas' next. Craig said, which part of the product build-up and reveal in the outline would you find to be most important, if any? I think generally, Craig, the out-of-the-box solutions don't work, especially if that seems like not.
+
+56
+00:26:58,670 --> 00:27:28,160
+obvious so you know i'll use first and foremost like a supplement thing right it's like okay like you know there's these ingredients and what's what's the consumer ask oh i'll go on amazon and order a couple of these wow you showed me studies that each of these ingredients is so great so like why don't i just go buy like three of them on amazon or walmart.com or next time i go to gnc or whatever it is like it's like whoa whoa you can't do that right um similar thing for you know if we talk about like you know guns you're selling a gun it's like
+
+57
+00:27:28,160 --> 00:27:50,990
+this is like a, you know, an AR-15. So I was like, oh, cool. Well, I'll go to my, you know, gun shop and get an AR-15. It's like, whoa, no, no, because most AR-15s aren't tested for accuracy and all these special things, which means you could buy, you know, in the most crucial moment of your life, this gun could misfire or the accuracy, you know, it could be calibrated poorly and good luck trying to get like a refund on your, you know, the gun. Like, it's like, you know, there's actually a better way to do this, right?
+
+58
+00:27:52,110 --> 00:28:19,340
+info product as well like now look dude there's a ton of coaching there's people putting content on instagram there's people putting things on tiktok and youtube like you can watch videos until you're blue in the face the problem is most people don't know that you know either don't give you this whole system or they only give you parts of it or they've never actually really done it at a high scale and so they don't realize all the complexities that come along with that um and so i think that's like for the product open reveal but you know the most important part probably and then i do think after that sort of like
+
+59
+00:28:19,340 --> 00:28:48,560
+when it comes to doing it yourself or find a solution, there's like this, the struggle and toil just seems to really land with people. So I'd say those are the two parts that are generally the most important. And then Leonidas said, in which point does the prospect or should the prospect be rated by without seeing the whole VSL? Yeah, we'll get through that. I mean, if we're talking about mentally, we'll talk about the close next week. I mean, it should be like when you get to the first call to action. So you've kind of given everything, you build up the value, all these things and you're like, okay, like now,
+
+60
+00:28:48,560 --> 00:29:24,180
+you know, click the button and buy. So we'll go through that next week in the close. But yeah, generally, you know, by the time you get to the first call to action is when. So like, yeah, if we go back to the outline, we'll go more in depth, but we'll look at the close tomorrow. But basically first call to action here, which I got, I'm not sure why these are, it should be labeled as eight and nine. I'm not sure why it is, but I mean, honestly, you could almost do with subsections. It's fine. Right.
+
+61
+00:29:24,180 --> 00:29:59,630
+And really, frankly, there's like a fourth call in action after the FAQs, which I'm going to put down here too. So again, we'll go through that next week. But basically, I mean, in theory, like, I guess if you're really thinking about it, like they should feel like pretty ready to buy here. And then this whole part is making them go, say they're like 75% ready here, 50 to 75% ready here. This is basically making them, the whole goal of this is make them like 100% ready, right? So that by the time you get to here, they just buy.
+
+62
+00:29:59,860 --> 00:30:28,690
+That's probably the way I'd look at it. Sorry, Stefan, you're not sharing your screen. Oh, shit. Sorry. Thanks for letting me do that. My bad. Sorry. So what I was saying is basically by the time they're here at the practice born, they should be like, you know, 50 to 75% ready. And then basically this part here, which we're going to go over this in detail next week, but, you know, details, you're dismissing alternatives, you're building value, social proof, how do you use a product, you know.
+
+63
+00:30:28,690 --> 00:30:58,100
+All this stuff like this is sort of like taking them from, let's say, 75% to 100%. So by the time they get the first call to action, they're fully ready to buy. And then, of course, second call to action, third call to action, FAQs, fourth call to action. I'm not sure why it says C here, but I'll reformat this. But yeah, thanks for letting me know. Sorry about that for not sharing my screen here. I'll go to Stefan's other question too real quick here.
+
+64
+00:30:58,480 --> 00:31:27,490
+Kind of unrelated, but can you comment on the impact the lead has on conversion rates, good clicks, or running a VSL and just getting good clicks but not converting well? I was thinking the lead is just there to fascinate and bring in people to keep watching, but I guess it's important to get the prospect ready and qualify them. It seems to make a big difference on if they buy or not. Yeah, I mean, the lead is generally the biggest part. I mean, the way I've kind of explained this, and I'm not saying this in the battle. I'm happy to explain it again, but I'll kind of explain it conceptually. Give me a second. I know I'm not sure my screen. I will in a moment here.
+
+65
+00:31:27,490 --> 00:32:03,980
+um because i wanted to sort of draw some opening up little drawing things so i can show you guys uh you know it's sort of like a if you look like a funnel in general by this tool draw io is actually pretty cool um but so i'm trying to show you this kind of by easiest way it's just gonna be not not the real best uh you know artwork but let's make these lines a lot bigger
+
+66
+00:32:04,370 --> 00:32:55,860
+Okay, right? So really, oh, I need to save them to copy. You know, let's say, like, this is, like, the user journey, so to speak. And I'm going to manipulate this in a way, which you'll see here. So, okay, right? And we can kind of do lead, background story, you know, blah, blah, blah, blah, blah, right? So with a good lead that captures people, I mean, there's headline above this, too, right? We're going to do a section on headlines. With a good lead.
+
+67
+00:32:55,860 --> 00:33:25,140
+you know, that keeps people sticking around, it basically means more people are coming through here. And essentially, if you look at data, and this is over years of observation and looking at, you know, Vitalytics or other sort of Wistia, whatever, like, once people go through the lead and get through, like, the first couple of minutes, like, there's a power law effect, right? So the first five seconds, they'll go 30 seconds, 30 seconds, they'll go, like, usually, you know, two minutes, two minutes, they'll go, like,
+
+68
+00:33:25,550 --> 00:33:59,390
+four to six minutes four to six minutes they'll go 12 to 15 minutes 12 to 15 minutes they'll go like 30 minutes right so the longer you kind of keep them going there's almost like that uh sunk cost back here they tend to actually like stick around right but the lead is so important because this is where most eyeballs are right so um you go down a lot of people come down to tweak this stuff down here and it's like not bad but the difference is right if um if the lead is like crappier if it's not a good lead right
+
+69
+00:33:59,390 --> 00:34:36,050
+And so basically, say this is like your first call to action or your end of the VSL, whatever it is, right? You can call it a call to action. In fact, let's just do that. So it's like, right, if the lead is losing a lot of people, this whole thing is narrower, which means fewer people are making a call to action and fewer people are buying, right? But if the lead is significantly better, right, there's way more people are going to make it down here and more people are going to buy. And so conversely, it's like,
+
+70
+00:34:36,300 --> 00:35:09,440
+if your leads crappy or sorry if your leads yeah if your leads crappy um then like it doesn't matter sorry this is being weird like it doesn't matter what you do down here right or what you do down here like yeah it matters but you're still the pool of people that you're that you can you know increase conversions with the amount of people you can you can you'll get to buy when you're doing stuff down here
+
+71
+00:35:09,440 --> 00:35:38,930
+You still have a way smaller pool of people for these optimizations versus up here, the lead really hits, right? Then it's like, you know, a home run lead. And then once that's home run lead, then that's why I would always start off the lead versus start off stuff down here. Because again, you just have the most people and the power of law thing I just mentioned where more people are coming this way. So yeah, I don't know. That's why generally leads. I mean, you know, like Dario talked about it, right? With their...
+
+72
+00:35:38,930 --> 00:36:13,420
+their device that sort of unclogs pores that he said they went through 150 different micro leads, kind of many leads before they found one that enabled them to scale to a couple million dollars a month. So I'm not saying you always have to do a hundred. I mean, it's a lot, but it's like typically testing like five leads or even 10 leads might not be enough. Right. So I think that's a super important part. Tasta said a good question here. Yeah, cool. So.
+
+73
+00:36:13,550 --> 00:36:41,920
+to ask us should the lead qualify as many people as possible or disqualify some for example non-buyers i mean i think it just depends like if you're doing like a physical product the vast majority of people are probably buyers right like i mean if we're talking about like for example you guys are doing like a hair loss for black women right i think you're talking about like hey this is for like you know my fellow sisters or whatever like that's cool that kind of makes sense like you know
+
+74
+00:36:41,920 --> 00:37:11,630
+I don't think you have to try and like be like, this is for everybody. Cause your entire marketing thing is that it's not for everybody, but I think the lead will inherently qualify people. Right. And by that, I mean like, if you've been losing hair, you're seeing like patchy, you know, patches in your scalp or your balding or whatever it is like, you're going to kind of qualify them anyway. So I think all that's, that's fine. I don't think you have to go out of the way to be like, you know, this isn't for you. If you only have some patchy.
+
+75
+00:37:11,630 --> 00:37:41,650
+patchy scalp or some baldy you know i mean like i think like you sort of do it with like the sort of like calling out the pain point of the problem that kind of naturally qualifies them anyway um you know it depends if it was a really high ticket thing right if i was selling like a thirty thousand dollar if i was trying to sell copy starter pro membership as a vsl you know i mean i might like a little bit depending if i was going to book a call and i was getting too many people booking who were tired but frankly again even then you can do you could you could
+
+76
+00:37:41,650 --> 00:38:13,100
+do that later on as well like you don't have to do it in the lead necessarily to me the lead is primarily like you know get attention and and bring them in right um so stephan said so people might be clicking but the lead isn't that great and they aren't watching enough and getting sold properly yeah exactly i mean it depends on what the you know like ad click-through rates are and things like that but if they're not kind of sticking you know long enough and of course it depends if you look at like a you know like a heat map or whatever and
+
+77
+00:38:13,330 --> 00:38:53,060
+Is there like a squiggly line option or like a draw option? I don't know if there is or not. So I'm trying to see if there's like one where I can... It's a connector. Is that going to work? I don't know. Give me a second. Let me see if this might be... Because like generally, no, it's going to be... This isn't going to work. What I'm trying to like kind of connotate is like essentially, you know, if you look at... If you have this data and you look and like the drop-off is really steep right away and like sort of levels off... It wouldn't be like this level. This is why this thing I just pulled isn't like a good...
+
+78
+00:38:53,060 --> 00:39:22,640
+tool, but I don't know which tool is the one to use, but like basically, um, maybe like this a little bit. Nope. Okay. That one's really linear. Essentially it's kind of like a draw option here or something, but basically like, you know, watch my mouse. Right. So it should kind of go like, kind of like gradually down like this. Right. But if you see it where it's sort of like goes down like this, right. And then kind of goes gradual. That's a big sign. If it sort of, you know, where the lead might not be a problem is if you sort of have like a gradual.
+
+79
+00:39:22,640 --> 00:39:52,240
+and then you look at, if you look at this data, right, and suddenly you see like a drop like this and like one section in the middle of the VSL, then you're like, oh shit, okay, for whatever reason, this section's really not landing, right? And you do see that if you look at data, like I've seen that before, where it's like, you know, the stats are pretty good, but then you get to some random section. And for some reason, people just really don't like that section. And in a case like that, then, you know, that's where you might work on that section versus the lead. But in general,
+
+80
+00:39:52,430 --> 00:40:21,710
+yeah, that's why the lead is usually the biggest thing. And I mean, yeah, that's a good point. I mean, did the math, I just kind of make that really clear, right? And so if your hook rate is 60%, it's 600 of a thousand people, you know, kind of like make it through the lead as an example, you know, you have a 60% chance of kind of, well, whatever, it's just 60% versus if like the hook isn't good and only 20, you know, two people make it, then you have like a 20% population to work with for the rest of the VSL. So it's kind of like,
+
+81
+00:40:21,810 --> 00:40:50,420
+really clear math there those are fun questions hopefully is is helpful and maybe it's paradigm shifting or stuff you know but you you thinking about differently I don't know um but to me this is like all like the stuff that yeah a lot of stuff that people don't always talk about but it's it's I think uh just cool yeah I'm definitely down to do a series on CRO um in the near future because there's so much cool shit there for sure I would love to I'm super down to do that um
+
+82
+00:40:52,210 --> 00:41:23,490
+Let me admit Mark here. Who else? How do you notice lead fatigue? That's a good question. I don't have a great answer for that. I'll be honest with you. I think, you know, ultimately after, it really would come down to like the scale, right? Or the VSL. I mean, how long has it been running for? Are you seeing conversions? Like if you had good data, like the VSL has been running for six months or a year and, you know, it was always converting at whatever, 2%.
+
+83
+00:41:23,490 --> 00:41:52,320
+And nothing else has really changed. Like it's not the ads, right? So much of it's on the ad level. And you're just like, nowadays it's converting at, you know, 1% or whatever it is. And it kind of happened gradually. Or you just notice the conversion rate going down. You know, that's not scientific, but that's typically where I would kind of say lead fatigue. But generally, for the actual VSL, generally the lead takes a while before it really fatigues.
+
+84
+00:41:52,320 --> 00:42:22,800
+Facebook, again, if you're running infeed, it's a little bit different. But not really. The core lead is still the same. It's just the hooks in front of it. And I know I remember Nick Daniel, who's the CEO, founder of vShred, and they're part of this mastermind. It doesn't really come on the call as much. Saba comes sometimes, and she'll be at the event for the mastermind, the business or mastermind at the end of August too. She's like their VP of marketing. But I remember Nick saying he kind of laughs at people when they think their VSL is fatigued because he's like,
+
+85
+00:42:22,800 --> 00:42:50,380
+it almost never has or even that an offer is fatigued in general he's like his whole thing is it's usually just like ads or like little refreshes and i mean if you look at like like so i mentioned before like java burn right for the clickbank world that thing's been around for like three or four years but then they basically redid it new lead all that kind of stuff and then it's been like number one on clickbank for the last couple months and yeah i'm probably not supposed to say what they're doing but they're doing eight figures a month on it right um and
+
+86
+00:42:50,450 --> 00:43:21,380
+I don't think the entire thing was rewritten. I think it was primarily like the lead and stuff like that. So it is true that if a new lead, you can really, you know, you can get a lot of life out. That's why sometimes too, like I think of people like business owners in our mastermind will ask me like, oh, I'm doing half a million a month or a million a month. Like, so should I go start like five new products or offers or a couple of new ones or whatever? And it's typically like the reason I'm typically like, no, or that you should be wary about that is because, you know, usually,
+
+87
+00:43:21,380 --> 00:43:45,310
+you can get a lot more out of that offer than you think, like a lot more scale, whether that's because of different traffic sources or different formats and things. There's so much to be done there and it's already working. Whereas getting another offer or funnel to half a million, a million a month is not necessarily as easy and it splits your focus and you do it again.
+
+88
+00:43:45,310 --> 00:44:15,340
+And so many people kind of go into the same thing with like, should I write a new VSL? And it's like, sometimes you should. If VSL is not converting, I would do leads first for sure. But like people will sort of, like there's a, I was with AJ Roberts. He's really, he's like the co-founder of Kartra. You know, he helped them grow to like, they're at 30 million plus in MRR, or an MRR, but like AAR, and annual reoccurring revenue basically. And, you know, he's like, he's an OG in the space, super smart. But we were kind of laughing about that.
+
+89
+00:44:15,790 --> 00:44:44,100
+Again, not in a condescending way, but just people do tend to go like, this VSL is working pretty good. I've got all these other problems in my funnel. Like, do you think I should write a new VSL? And it's like, no, right? The VSL is usually, is not always the problem. A lot of times it's CRO stuff or the economics or a traffic source or whatever it might be, right? So, I mean, you said once in a while, I forget which part was the reference to, but as far as the...
+
+90
+00:44:44,100 --> 00:45:14,480
+a lead or a VSL like fatiguing. I mean, it just depends, but you know, I think maybe like six months to a year typically is what you look at. I think it depends on how much scale, but I think like at least for a lead, a good lead, it should be good for like at least six months. Right. And then you're saying the, I have a couple of questions, but you're saying like the full VSL could last even like several years. You just have to kind of massage the top of it, like the front of it, like the lead. Yeah. Yeah. 100%.
+
+91
+00:45:14,740 --> 00:45:44,480
+And when you have like a, you know, we could use TASA, as you mentioned, they're doing black hair supplements. And I think it's a good example because like African-American market in the United States is 30 million people. Whereas like for a skincare offer, the TAM is anybody who's over 30, basically. So when you think about like fatigue for smaller markets, like do you suggest?
+
+92
+00:45:44,480 --> 00:46:16,270
+Like what's the, what's the, um, like how much lift are you going to get, for example, opening up to like the UK or like into Canada or like South America, for example, um, versus like the pain in the ass of like setting up three PLs out there and following compliance measures out there and like, you know, figuring out all the details of that. Or at that point, would you be like, yeah, just spin up a new offer and sell it to the States again? Yeah, that's a great question. Um, well, I think like, so if I, the first part of that would be like for,
+
+93
+00:46:16,270 --> 00:46:46,400
+black hair loss and if the the tam the total dressable market let's say 30 million and you know let's say i don't know their numbers i'm just i'm just completely making this up let's say they're doing like you know 3 000 sales a month right it's like clearly they can you know they can do a lot more before they sort of cap out that out right they could probably do you know 15 20 000 sales a month right um for at least a decent period of time um so there's like a lot of room to
+
+94
+00:46:46,400 --> 00:47:16,590
+grow the business right at that point um as far as like what but but it's a good question it's a very worthwhile thing because you know in theory uh it'll cap out more but then i also think about for example like nail fungus right toenail fungus you see a lot of like sort of offers for that and i wrote one you know back in the day for when i was more aggressive like you know stuff uh since by 2017 and i mean we were basically doing that basically
+
+95
+00:47:18,380 --> 00:47:47,420
+like on that offer alone 350 000 to 500 000 a day um you know pretty consistently and uh like the big thing that the reason we stopped it for the time was uh virtual processing issues related to cbd but then that same partner who i still talk to um and we're basically we're his call center so it was revenue essentially did like 100 million plus per year for the next like i mean even now i don't know this year because i sold the call center but
+
+96
+00:47:47,420 --> 00:48:12,430
+basically between 70 and 120 million a year for the next five years, pretty much all off that nail fungus offer, right? And you think, well, how many people in the US have such awful toenail fungus that like, I don't know the size of the market, but it's clearly not 300 million, right? It's like, so I don't know. The market's, I feel like the market ends up being, there's generally more buyers than we think, right? Is I guess my point. Cause I don't know. Is it like,
+
+97
+00:48:12,620 --> 00:48:40,720
+do 100 people million people you're telling me a third of people in the u.s have like such awful tonal fungus that they're gonna buy like fungus beyond i don't i don't think so it's gotta be like you know is it 30 million that seems likely 50 million maybe it probably is that much bigger than the black hair loss market right um so yeah but then that's for the part about kind of going into other so again i think that's like a limiting belief almost we have sometimes where we sort of think like
+
+98
+00:48:40,880 --> 00:49:08,720
+oh, but like this market's not that big. Again, it depends. If you're doing like, I'm only selling to like indigenous women of like the Colorado Plains who, you know, like, like then your market's not that big, right? But like a lot of times I think we kind of feel like our audiences are getting tapped out faster than they are. For the 3PL side of it and going to like England and Canada and like, I mean, those are definitely, you know.
+
+99
+00:49:08,720 --> 00:49:41,230
+Good size markets. South America, obviously a huge market too. But I think that's definitely a later on thing. Things are really chuggy and then you want to expand. I just would do it at that point. I wouldn't feel like an urgency to do it, I suppose. I think we did Canada and the UK. That was my first big supplement company. I don't know. We got maybe like 5%, 10% of our orders came there. So it was good. It was like a boost. But even that company, if I had known what I was doing, I would have made...
+
+100
+00:49:41,330 --> 00:50:11,280
+you know 5x more profit and you know definitely would have been like a yeah i mean it did 23 million a year which at the time was like oh my god right but like uh but i know what i was doing i definitely would have done like 50 or 100 million in a year but uh yeah yeah and it would have been because of overseas it would have been because of like maximizing the aov and like sort of other traffic channel understanding traffic like there's so many things i could have done you know differently and and better and all that yeah i appreciate that
+
+101
+00:50:11,280 --> 00:50:46,560
+Another question that I have. Oh, sorry, Armie. Oh, good. Have you noticed if aggressive stuff, as you mentioned, tend to work less during this period? Like during, like right now in general? Or what do you mean by this period? Yeah, yeah, yeah. Like heavy pain, agitation, sticking the knife and twisting it, those kinds of things. Yeah, I think, I don't know, is my real answer. Because I think that, like if you look at the ClickBank world,
+
+102
+00:50:46,560 --> 00:51:17,200
+Most of those people are really struggling, right? I don't know that they're struggling because they're agitating the pain point and things like that. It's possible that the market is getting fatigued on really outrageous claims, right? Like lose 40 pounds in 30 days with like a miracle pill type of thing, you know? And so I think that from that level of aggression on claims, maybe a little bit. I think it's also the presentation and like the format, right?
+
+103
+00:51:17,200 --> 00:51:48,190
+um same reason i think that long form vsls uh specifically for like kind of aggressive bullshit type of offers like which i'm not saying bullshit in a mean way but just like sort of you know i i think there's fatigue and people aren't that like they're not responding to that as well um but i still would agitate the pain points and like still promise solution like all the classic stuff i wouldn't stop doing any of that so i think it's about the pain points but um but there might be some fatigue on the really aggressive claims of like you know miracle powder
+
+104
+00:51:48,190 --> 00:52:18,800
+does xyz type of thing yeah because what i've been noticing is that like more humble stuff in terms of promising tends to work better but this is just me yeah i mean well i mean i think there's a lot you know there's going to be said for authenticity and i think people are and again go back to the format of it right and like where are people consuming this information like even on like but i mean the market's changed like going back to like in feed and like video ads are sort of like
+
+105
+00:52:19,090 --> 00:52:43,600
+educational um like maybe there's a little bit more education sometimes like our hooks or curiosity it's less about like the pig stories right pig stories kind of fatigued like doing like a lead where it's like you know john wake up john oh my god john you know it's like that like typically isn't doing as well um and i think people are going towards authenticity and i think younger people
+
+106
+00:52:43,730 --> 00:53:15,840
+Baby Boomers is still a huge market. I think people sleeping on Baby Boomers is a terrible idea, right? Because Baby Boomers still have the most purchasing power in human history. So I certainly wouldn't neglect them. But yeah, maybe there's some fatigue on that. I don't know. That's a good question. But it might also be their attention spans is the other part, I guess. It's like, you know, I don't know, like in a world of TikTok and, you know, other sort of things like that. Like, again, I think the amount of people who want to watch like a 50 minute long BSL is really...
+
+107
+00:53:15,840 --> 00:53:48,940
+decreased overall yeah okay thanks yeah i mean what's up um i was thinking about the call that we had with jason and um also what you know uh there's russ posting about like the hook of the ad changing the row as by like from like 1.0 or 1.1 to like 1.8 just change the start of the ad can you
+
+108
+00:53:48,940 --> 00:54:19,470
+I know we're talking about VSLs right now, but can you talk a little bit about the importance of positioning the ad so that it's talking to the right person, how to do that, and also to add agitating pain, how much pain to agitate, tease the solution, how much to tease the solution. I talked to a couple of media biters, and they're like, you need to stick a photo of the supplement as the image.
+
+109
+00:54:19,600 --> 00:54:50,620
+And, you know, you need to talk about the more of the benefits and the copy of the product. But mostly the, I think these type of media buyer are like coming from a, like a heavily branded approach. Right. You know, they're like, you know, they, and I'm not an expert media buyer by any means, but it seems to me like they have like dozens and dozens of ads and ads in like multiple different ad sets, trying to target different segments of the market and their landing pages are typically short. But like in terms of getting,
+
+110
+00:54:50,620 --> 00:55:23,810
+traffic to vsl you've talked about this before um on some feedback you gave like all you're just trying to do is get people curious about what's on the other side of that on the other side of that uh learn more button but i think there's like a sweet spot you know and i'm kind of curious what that is yeah i mean i think that like you know perhaps it's like a whole you know call on ads versus like it's hard to answer that like super succinctly here but i think um trying to think how to say this
+
+111
+00:55:23,810 --> 00:55:51,630
+I think it just depends, man. I look at this working on Facebook in general. I think that it also depends on the product, right? Like, for example, if we're talking about, like, a device, right, on e-com, like, sometimes, like, demonstration videos is showing the product working. Like, so you're showing the product right away. It's working and going to, but again, that's really not for, like, a VSL. For, like, a VSL, it, you know, go to Golden Hippo, right? GundryMD.
+
+112
+00:55:51,760 --> 00:56:21,260
+it's like they have some ads that are like specifically, if you go look at the ads library, right, that are specifically like showing, oh, limit time only, you know, save 20%, whatever it is. But then the vast majority of their ads are like, is gluten good for you or bad for you, right? It's like Dr. Gundry talking and hooks and like, it's a whole fucking VSL before they go. I mean, generally that's still the move, you know, for ads that are going to like a VSL. Because again, the VSL is going to do so much of that education and, you know, kind of...
+
+113
+00:56:21,260 --> 00:56:52,770
+reveal the product at the right time, so to speak. And so, yeah, in general, like it would not, it doesn't make sense to like show, to give up the game and the ad by showing like a product image, right? You could test those, but I'd probably be focused on like, you know, surprising, you know, like sort of like the surprising reason to like why most skincare products don't work or like this whole curiosity hooks, right? Things like that, but then go to like, you know, a new solution or discovery or a breakthrough or whatever it is. I mean, that's sort of like,
+
+114
+00:56:52,770 --> 00:57:17,680
+I think, you know, you kind of know, I guess I'm not sure if that's answering the question or not, but I mean, to me, it's like, yeah, again, I wouldn't reveal the product very often in ads to go to a VSL. Yeah. I mean, I think that my question was kind of loaded and got off, like off the back of talking about VSLs, but when we do an ad call, I think it will help to clear stuff up. Cause really I'm like, you know, what I'm looking for is, is.
+
+115
+00:57:18,580 --> 00:57:46,930
+And it might just be too specific also to discuss right now, but what's the structure of the top performing ads out there and how do we emulate those ads so that I can convert and get an AOV of $220 so I can actually break even or be profitable in a highly competitive market? That's the question. But it's not a simple, like you say, it's not a simple answer. Yeah, we can definitely do.
+
+116
+00:57:46,930 --> 00:58:16,300
+calls on that and i'm actually working on i'm going to do some more obviously for my own stuff but also for uh even for free ad copy i'm gonna be like analyzing structure more on ads in the coming weeks so yeah but i'll i'm happy to share what i find and then we can also do a call on it for sure yeah totally and like even say in saying that like my questions load i'm like how do i get a 220 aov like i know it's not only about the ad obviously i mean it's mostly not about the ad you know it's like the only thing the ad like again if you
+
+117
+00:58:16,660 --> 00:58:47,500
+reveal like the product and you're like, go buy the product. And then you have like a VSL that talks about the product right away and they can buy it right away. Your AOE is going to be lower than if you're like, you know, doing like a hook and curiosity and get them over there and they watch the VSL and then they sort of like, you know, are informed and educated. Right. And that's the same reason like an e-com page, especially if there's no VSL, it's a Facebook ad or like a little, you know, a little UGC video or like demo video to an e-com page that's what I dialed in.
+
+118
+00:58:47,500 --> 00:59:14,980
+the conversion rate will almost always be higher than like a Facebook ad to a VSL, right? 99% of the time. I mean, if we're doing apples to apples, like really good VSL, dialed an econ page, right? But the econ page is going to win basically 100% of the time. Because like, you know, oh, wow, this product does this. It's cool. Here's a bunch of social proof and reviews. Like page is good. Like neat, right? So conversion rate might be double, but the AOV will probably be like half.
+
+119
+00:59:14,980 --> 00:59:44,850
+Right. And so that's just sort of like, there are those trade-offs you just sort of have to figure out as you're going through it. Because like, you know, do you want a four or 5% conversion rate, but your AOB is a hundred dollars. So you are limited in scaling or, you know, do you want a 2% conversion rate, but your AOB is $220 and you're able to scale way more and, you know, potentially you're more profitable. Like the same thing, e-com margins suck, right? I know tons of friends, not, not always, but like when you're pure e-com, like, you know, I would still have a huge e-com mastermind and just,
+
+120
+00:59:44,850 --> 01:00:15,500
+Everyone I know who is sort of like pure e-com, whether the business owner or they run like kind of a CA pro for pure e-com type of thing. Like they actually, they're like, everyone's pissed off. Nobody has money. Even the guys who are doing like eight figures because like the margins are so shitty. You know, they sell for like crappy low multiples or no multiples. And so of course there's exceptions to that, right? But in general, like e-com, like that pure e-com thing, it was like, you know, there's a trade-off to everything. I don't know if that makes sense, but yeah.
+
+121
+01:00:16,080 --> 01:00:46,530
+Yeah, thanks for entertaining that question. Of course. Tasos, you had another question. Yeah, I want to ask you, how important do you believe are the hooks and the hook rate? Because from my experience, I've noticed that, let's say, for example, we have a hook that has a 50% hook rate and the cost per three second views are like seven cents. And you make another hook that has, let's say,
+
+122
+01:00:46,530 --> 01:01:16,380
+70% hook rate, but the cost per three second views doesn't drop. And I've seen this with other brands where they have like 35% hook rate and they have the same cost per three second views. So what's your opinion? In my opinion, like they feel kind of rigged by Facebook, you know, like even if you make a hook that has a 100% hook rate, basically the CPMs are going to rise up. Right.
+
+123
+01:01:16,380 --> 01:01:47,250
+Yeah, I mean, I think there's validity to that. I mean, I think Facebook is, you know, they're not really optimized for you to make the most money possible. They're optimized for you to make like enough money to keep coming back while they make as much money as possible. Right. And so you're sort of fighting against them in a way, which is kind of the fucked up reality, I think, of things. But that being said, depending on the economics of it, I still would rather have.
+
+124
+01:01:48,110 --> 01:02:21,360
+Yeah, so if it's the same cost, I'd still rather have a 70% than a 30% hook, right? Yeah, definitely. But yeah, I think you're right. I don't know. I agree with you. That's kind of rigged. But the problem is where you're going to go, right? YouTube, Native, Newsbreak, TikTok. It's tough. But at the same time, Facebook's still good, though. I don't know. Facebook, it sucks, but at the end of the day, it's still probably the best platform, especially for...
+
+125
+01:02:21,650 --> 01:02:55,790
+kind of being ROAS positive, you know, in a short period of time, like, you know, you don't have to spend tons of money to sort of figure it out versus other platforms you typically do. But yeah. Any other questions from anybody before we wrap up here? It's fun. I don't know. I enjoy it. Hopefully you guys enjoyed it. Like both, you know, the content part, but I'm happy to, you know, it's fun answering questions. And again, talking about some of the kind of conceptual stuff, like we talked about like closes and funnels and I don't know. There's a lot of interesting stuff. So.
+
+126
+01:02:56,370 --> 01:03:25,040
+All right, cool. If no other questions, then we'll continue next week with closes. And then we're gonna go to like, we're gonna do headlines. We'll go deeper on like hooks and definitely we'll do ads soon. I've got CRO stuff on my radar. Probably gonna look at some even shorter structure, like four to five minute videos. Do some stuff around like maybe one that's like a pure, like kind of high ticket, more info driven type of thing. So we've got a lot of things to cover in the weeks ahead. But for now, thanks everybody. Hope you all have a great week.
+
+127
+01:03:25,040 --> 01:03:31,020
+be around on whatsapp and talk to you all soon so bye guys thanks stefan thank you bye

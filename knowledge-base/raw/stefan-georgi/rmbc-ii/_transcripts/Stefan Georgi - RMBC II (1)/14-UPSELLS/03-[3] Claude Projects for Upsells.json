@@ -1,0 +1,109 @@
+{
+  "source_file": "Stefan Georgi - RMBC II (1)/14-UPSELLS/03-[3] Claude Projects for Upsells.mp4",
+  "source_id": "mega:GwRSGa5C",
+  "audio_sha256": "3ff75262a78f777739545c5329d1779e36bc3bbd0a9ad442dc54c2954d0bb371",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 683.75,
+  "last_segment_end": 683.76,
+  "segments": [
+    {
+      "start": 0.11,
+      "end": 29.55,
+      "text": "All right, so I was recording this and I paused it and didn't unpause it. I didn't realize that. So what we're going to do is we're going to create a quad project, right? Same thing we did for VSLs. This one's going to be for upsells. So your job is to generate upsell video scripts. They'll typically be between six and 16 minutes in length. The documents in your knowledge base include transcripts for several upsell videos, which we can model off of already new upsells. What you want to do is analyze the structure of the various upsell examples and then synthesize that knowledge and use that same knowledge along with your judgment to produce new upsells, right?"
+    },
+    {
+      "start": 29.68,
+      "end": 59.94,
+      "text": "I'll give you details, write it. Then I included five swipes. I included Emma upsell we looked at, sign upsell. This is based off an upsell that I wrote for a client that's really good. I basically told Gemini, hey, create for a new product in a different niche, so it's like a gut thing. The Sabre Subi upsell, since that was good. That was an info product. It's a really good upsell, great format. And then stem cell restore, just because what the hell, even though it's a cross sell, so worth including that, even though..."
+    },
+    {
+      "start": 59.94,
+      "end": 91.06,
+      "text": "You know, copies, kind of aggressive, forgive me, wrote it a long time ago before I had my more ethical come to Jesus and stuff. I mean, it's not terrible, it's a good product, but whatever. Okay, so then create the Cloud Project, which I'll show you here, right? Literally just put the instructions in here, copy and paste them here and here, all those five PDFs. So the first thing I did, I said, hey, do a 10-minute upsell script for someone who just bought Unity Eye Serum, selling them more of the same. And I just linked to Unity Eye Serum,"
+    },
+    {
+      "start": 91.63,
+      "end": 121.94,
+      "text": "the landing page and they wrote like a script. It's pretty solid. So great. Okay. Obviously you can give a little feedback. You could, you could tweak it, you know, all that, like we talked about sending the VSLs, right? Um, cause I'm really focused here on video scripts since you have short ones. If you could take like the upsell copy from happy mammoth or from the Dr. Clean or whatever the guy, the Dr. Clean thing is, and, uh, do short ones and have a project that does that too. You need to be empowered at this point in RBC2 to create your new projects based on what you're looking for. Right."
+    },
+    {
+      "start": 121.94,
+      "end": 158.37,
+      "text": "I'm like, cool, we'll now create an AMET cross-sell script for Lumessa as upsell to you. Here's the link to this. All right, cool, let's see. Wait, before you go, I have one more breakthrough that could multiply your Unity ISRM results by 300%. It's name again, I'm obviously thrilled that you just secured your Unity ISRM six-month age reversal system. We shouldn't be assuming that they did that, right? Like, you made two, like, yeah, I'm gonna tell it real quick here. We shouldn't assume they bought."
+    },
+    {
+      "start": 158.37,
+      "end": 189.74,
+      "text": "the first upsell. We'll see this second upsell regardless of if they took number one or not. Something about feedback real quick. So you can see great feedback. You're right. Oh, that was a big oversight. Hey, it's him again. I'm thrilled you decided to invest in UDIs today. You made an incredibly smart decision. It's going to transform how you look and feel. But before we process your complete order,"
+    },
+    {
+      "start": 189.74,
+      "end": 219.98,
+      "text": "There's more breakthrough I need to tell you about. Something that could take your UDI serum results from impressive to absolutely mind-blowing. You see why UDI serum is specifically designed to target the delicate eye area. What most people don't realize is that your eyes are just one part of your face. I mean, I think most people realize that. And if you want to look truly youthful and radiant, you need to address aging on your entire face with the same level of precision and power. Here's what I mean. Okay, so I would edit some of this copy. Also, what you could do is be like, here's like the unified..."
+    },
+    {
+      "start": 221.87,
+      "end": 250.45,
+      "text": "research doc. About the demo? Does this change anything, right? Six months from now, your eye area looks absolutely stunning. Thanks to the United Serum, your grocery have virtually disappeared, your dark circles are gone, your eyes look bright, beautiful and vibrant. What about the rest of your face? What about those fine lines on your mouth? What about the rough, uneven texture on your cheeks? What about the dullness and lack of firmness in your jaw and your forehead? Having beautiful eyes with age-looking skin everywhere else can actually make you look older, not younger. It's like having a perfectly restored vintage car with brand new headlights with a rest of the dented body."
+    },
+    {
+      "start": 251.38,
+      "end": 310.51,
+      "text": "So again, there's things I would tweak about this. I don't know if I'd be so negative. For direct response, it kind of makes sense, but I don't know if I would maybe modify that, right? But overall, it's good. You should have some judgment by this point of RBC2 to be able to modify it. So I want to show you another example of this, right? Let's do... Okay, we have our Airbnb arbitrage brief. Okay, cool."
+    },
+    {
+      "start": 312.18,
+      "end": 356.64,
+      "text": "Let's do an upsell. Alright. Here's information for a product. We sell as a front end. Right now we're going to sell it as the first upsell. People who just took a $27 info product called permission. Wait, I can't spell permissionless, but that's okay. What am I doing wrong? There you go."
+    },
+    {
+      "start": 356.64,
+      "end": 391.49,
+      "text": "income that teaches people 27 ways to generate extra income from Mac as well. Now we're going to upsell them to book a call to sell them on this concept and to book the call. Let's make the VSL script 10 to 15 minutes long. What the hell am I getting wrong permissionless?"
+    },
+    {
+      "start": 391.49,
+      "end": 433.74,
+      "text": "Is that really how you spell permissionless? Am I just an idiot? Permissionless. See, okay, I think it's just messing with me. I think I spelled it right the first time. Okay. So we did our brief. Now we're doing this. I just want to show you what that looks like too, right? Let's see. And what I should do is I should have to do an outline somewhere to the VSL first. Put the video smack here. I want to congratulate you. Could be making what could be the most important decision of your entire financial life."
+    },
+    {
+      "start": 433.74,
+      "end": 462.67,
+      "text": "By investing in Permissionless Income today, you've taken the first step towards breaking free from the financial cage that's been holding you back. Before we celebrate, you end this page and watch this entire video because I'm about to share with you could be the difference between making a few extra $100 a month and completely replacing your job income within the next 18 months. You see, while Permissionless Income gives you 27 different ways to generate extra cash, it's something critically important I didn't include in that guide. It's not because I wanted to hold back. It's because I'm about to show you it's so powerful, so game-changing that deserves its own dedicated training. It didn't show you why 95% of side hustles fail."
+    },
+    {
+      "start": 462.67,
+      "end": 497.2,
+      "text": "right then goes into the income gap the asset gap is right against you what if there's another way you know my story we have to see depending on what the front end was if they already shared the story you know you might not do too much of that there why this works here's the thing i wasn't planning on teaching this you know happy for my portfolio all these overpriced courses i got mad so i'm introducing the asset accelerator it's not another course it's not pdfs it's an eight-week coaching program here's what we cover blah blah"
+    },
+    {
+      "start": 497.2,
+      "end": 546.93,
+      "text": "If we train time for money, it'll be income dependent, it'll be stuck. You can take this opportunity to bridge the gap from income dependent to asset rich. And we open the asset, sorry, four times a year, I went to 50 students, right? So I'm not sure why I was telling the prices, I'm gonna say. But when I said call, what I mean is that instead of talking about the price, you should really be selling them on booking a call."
+    },
+    {
+      "start": 547.09,
+      "end": 589.22,
+      "text": "with Mac and see if it's Mac and his team to get a personalized action plan that's theirs regardless of whether they're a good fit or not. So now it's going to rewrite it. So again, just a little bit of feedback, you know, little things to modify. But foundationally, the copy is going to be really good enough that if you use your brain and common sense"
+    },
+    {
+      "start": 589.22,
+      "end": 643.41,
+      "text": "you know you should be in pretty good shape right and we'll wait for this to end just so you can see you know maybe a personalized asset control blueprint for free get coffee personally or one of my training specialists create a customized plan here's what we'll do during this call okay now looks good right so just again i'm sure i've said throughout this course already but the one thing that's like frustrating is when people"
+    },
+    {
+      "start": 644.78,
+      "end": 677.49,
+      "text": "I see a copy that has used AI and then didn't read it over and use common sense, right? Because then you're just being lazy. It's like, it's doing 99% of the work for you. So just use your brain. In fact, it's amazing. When people say AI doesn't make you dumb, it should make you smarter because it frees you to actually think, right? So there you go. I'll show this copy of this script so you can see it as well. But really, I just want to show this at the Cloud Project. You can play around with it. You can do some other downsells, crosssells, whatever you want there."
+    },
+    {
+      "start": 677.49,
+      "end": 683.76,
+      "text": "And I think if you do that, you should be in pretty good shape. So, gracias. Goodbye."
+    }
+  ]
+}

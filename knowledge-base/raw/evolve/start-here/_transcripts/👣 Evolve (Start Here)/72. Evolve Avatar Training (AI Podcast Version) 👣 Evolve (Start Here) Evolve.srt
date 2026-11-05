@@ -1,0 +1,175 @@
+1
+00:00:00,000 --> 00:00:27,840
+Welcome back to the Deep Dive. So today we are tackling a mission that is, well, I think it's absolutely crucial for modern e-commerce, for marketing success. We're talking about how to build customer avatars that actually convert. We're trying to move past those, you know, those generalized profiles. The ones that just sit on a wall. Exactly. The ones you make once, you stick it on a wall for maybe a month and then you just, you ignore it. Precisely. And, you know, if you look at the source material on this.
+
+2
+00:00:27,840 --> 00:00:56,370
+The core problem is so clear. Most of those traditional personas, whether you call them ICPs, target audiences, whatever, they're just too broad. Ghost profiles. They're ghost profiles, exactly. They aren't actionable in a way that really drives ad performance. I think we've all been there. You define your target market as, what, women 25 to 45 interested in fitness, and then you just wonder why your ad costs are completely through the roof. That is the definition of a ghost profile.
+
+3
+00:00:56,370 --> 00:01:24,050
+So our mission today is to turn those vague ideas into something concrete, something you can actually use. We're going to break down the core five categories that when you combine them the right way, they create this instant, powerful relatability. That moment. That's the moment. When the customer sees your ad and they think, wait, how do they know that about me? That connection right there, that's what drives trust. And, you know, at the end of the day, purchase intent.
+
+4
+00:01:24,050 --> 00:01:45,890
+So we're swapping out the broad strokes for like high definition targeting. And you said it yourself. This specificity isn't just a nice to have. It's directly tied to lowering your costs and seriously increasing conversions. Let's start with that foundational definition that a customer avatar. It's just a highly specific group of people. They're unified by similar things and they are the most likely to buy your product.
+
+5
+00:01:45,890 --> 00:02:05,980
+And that's the core. It is the absolute core of your creative strategy. If you get the avatar wrong, your messaging, your ads, they're going to miss the mark completely. It doesn't matter how great your product is. So what's so interesting now, especially in competitive e-commerce, is that those broad avatars, the really obvious ones, they're actually the riskiest to target.
+
+6
+00:02:05,980 --> 00:02:29,600
+Why are they failing now when maybe they worked 10 years ago? It's all about density and competition. I mean, everyone is targeting the same obvious groups. They're using the same tools, the same information. So if you try to target, say, young mothers looking for comfortable shoes, you're now competing against a thousand other brands doing the exact same thing. So how do you win then? Well, the sources say to win with a broad avatar like that.
+
+7
+00:02:29,600 --> 00:02:54,690
+You need one of three things. A genuinely new mechanism, completely new information that nobody else knows, or you just have to have the absolute best offer on the market. That sounds like an exhausting uphill battle. It is. It's a recipe for just burning capital. And this all leads directly to this critical shift we're seeing in platform targeting, especially on Meta, on TikTok. The sources are really clear on this. Targeting success is now like...
+
+8
+00:02:54,690 --> 00:03:07,140
+99% dependent on the actual created itself. Not the buttons you click in the ad manager. Not the audience selection buttons, no. The creative has to do all the heavy lifting of finding the right people. It has to resonate.
+
+9
+00:03:07,140 --> 00:03:26,370
+If I'm hearing you correctly, the whole game isn't about finding the audience with ad settings anymore. It's about defining the audience with the message itself. Exactly. The creative has to speak so clearly, so specifically to a certain type of person that the platform's algorithm is just forced to show it to more people just like them.
+
+10
+00:03:26,370 --> 00:03:56,100
+The audience selection buttons are almost irrelevant compared to, you know, the first three seconds of your video. That's why that analogy of a relatable video or a meme just works so perfectly here. If you're scrolling and something stops you in your tracks, makes you laugh and you text it to your friend saying, oh, my God, this is me. This is so me. Yeah. The creator has successfully called out a super specific avatar. They didn't use your age or your job title. They just captured a specific internal experience. And that feeling of recognition.
+
+11
+00:03:56,100 --> 00:04:25,790
+That's relevance. And relevance is what the platforms crave. The sources are so clear. The more your creative resonates with a specific, well-defined avatar, the lower your costs will be and the higher your conversions will climb. That's how you scale today. Okay, so specificity is key. Right. So let's talk about the scale. Avatars exist on a spectrum. You can be extremely specific, so niche that you might alienate everyone but one single person. We call that one Pepe.
+
+12
+00:04:25,790 --> 00:04:51,060
+Which is probably too small to build a business on. Right. And then you have the other end, extremely broad. That's all Pepe's, and you're trying to talk to everyone. The sweet spot is, you know, always somewhere in the middle. Specific enough to resonate deeply, but broad enough that you have a real audience. What's really fascinating, though, is the nonlinear complexity. When you start combining traits, it's not just a line from 1 to 10. You're talking about almost infinite combinations. And that complexity.
+
+13
+00:04:51,060 --> 00:05:14,580
+That's the marketer's biggest advantage right now. Because there are infinite ways to combine these traits, there will always be untapped avatar combinations that your competitors haven't even thought of. They don't even know they exist. Exactly. These are your blue ocean. That makes a ton of sense. So if everyone's fighting over the obvious combinations, the stuff you get from census data, the real wins are in the what the psychological and behavioral overlaps. Yes.
+
+14
+00:05:14,580 --> 00:05:40,940
+And to structure that, we use the core five categories. The whole method is about pulling from each of these five categories to build a resonant combination. And the order, the order we do this in is absolutely key to making it all work. All right, let's get into it. So let's start with what is probably the most revolutionary mindset shift here. Effective avatars do not start with demographics. You must, must use demographics LST.
+
+15
+00:05:40,940 --> 00:06:06,540
+Okay, that goes against pretty much every marketing textbook I've ever read, which always puts age and gender right at the top. So why is starting there so counterproductive? Because starting with logistics alienates people. It's based on these external characteristics that, honestly, they just don't drive that internal need to buy something. A demographic like age 35, female, lives in Texas, that tells us nothing about why she would buy a $200 kitchen gadget.
+
+16
+00:06:06,610 --> 00:06:36,190
+It forces you to ignore people whose pain point is identical just because they fall outside some arbitrary age range you picked. That is a fundamental shift. So, before we get into the categories themselves, let's go over the rules of thumb for combining them. Okay. First, a really strong piece of advice from the sources. Avoid combining more than one primary desire in a single avatar. Keep that core drive singular. Second, the more categories you layer on top, the more specific, and usually the more effective the avatar becomes.
+
+17
+00:06:36,190 --> 00:07:04,780
+And the third rule is maybe the most critical one for anyone trying to scale. Right. The more broad your avatar, so the fewer categories you use, the better your product, your offer, your brand. And frankly, your marketing skill has to be to even compete. So the flip side of that coin is... Conversely, and this is where the power really hits home, the more specific your sub-avatar is, the less innovative or groundbreaking your product or your offer needs to be to build that immediate trust and get conversions. Wow. Yeah.
+
+18
+00:07:04,780 --> 00:07:28,030
+Specific messaging really earns you the right to be a little less polished in other areas. Okay, so let's start with category one. Category one must always be desires. This has to be the starting point because desires hold that emotional pull, that fundamental want or need that actually compels someone to make a purchase. If you don't know what they want, you can't sell to them. We hear about those big core desires, right?
+
+19
+00:07:28,030 --> 00:07:52,020
+Health, wealth, status. Are those too broad to start with? Way too broad. Those are the underlying human drivers for sure. But for initial avatar creation, we need surface level desires. We need the specific immediate outcome they're actually looking for. Can you give us an example of the difference? Sure. So if the core desire is health, the surface desire is I need to lose this specific 10 pounds of baby fat. If the core desire is.
+
+20
+00:07:52,020 --> 00:08:19,550
+Control. The surface desire is, I want my dog to stop pulling on the leash during our evening walks so I don't look bad. Ah, okay. The specificity makes it instantly actionable. And you've got that simple test for listeners, the desire checker. Right. Can you use the sentence, I want X or I need Y? So if someone is complaining their dental routine takes forever, the desire isn't health, it's I want to brush my teeth faster.
+
+21
+00:08:19,550 --> 00:08:39,870
+If you can say it like that, you've found your starting point. Exactly. So the next layer after desire is experiences. These are situations people have gone through either in the past or right now. And experiences are so unifying because they bring people together who have been through the same thing. The sources break these down into two types. The first one is pretty straightforward. Situational experiences. Right.
+
+22
+00:08:39,870 --> 00:09:09,550
+Situational experiences are just life events, current circumstances, like my bedroom faces east and gets blasted with sunlight at 530 in the morning. Or I just had a baby and I am severely sleep deprived. External, shareable situation. And the second type, product-based experiences, that connects directly back to what the market is already doing. Right, what they've tried. Exactly. Product-based experiences speak to what solutions the customer has already tried and, importantly, failed with. For example,
+
+23
+00:09:09,550 --> 00:09:38,670
+I tried two different brands of blackout curtains and I still woke up tired. Or I spent $80 on a dog harness and my dog still pulls. Yes. That is so powerful because it instantly separates your message from all the beginners. It establishes you as the expert who understands their past failures. It acknowledges their journey. I mean, a generic ad for a new curtain might get ignored. But if you say, tired of wasting money on blackout curtains that still let light bleed through the sides, you've built instant credibility.
+
+24
+00:09:38,670 --> 00:09:55,790
+and this is where we have to stress one key point for building this core avatar you must isolate the experience just focus on what happened don't assume the emotion or the behavior that came from it not yet let's use that cat example if our core desire is broad like
+
+25
+00:09:55,790 --> 00:10:18,690
+wants cat to be healthy. And we layer in the experience cat is excessively licking its paws, leading to bald spots. That combination instantly creates a sub-avatar who knows exactly what you're talking about. Now you're getting it. So category three is emotions. This is how people feel about the desire or the experience. And emotions are arguably the most potent trigger because they often just bypass logical thinking completely.
+
+26
+00:10:18,690 --> 00:10:41,630
+And you mentioned the classic split, six universal primary emotions, fear, joy, sadness, versus the secondary emotions, which are more complex, like anxious, frustrated, or confident. Yeah, and when you find a secondary emotion, it's a signal to dig a little deeper. If someone feels anxious about their credit card debt, that anxiety is probably rooted in a primary emotion, most likely the fear of financial ruin.
+
+27
+00:10:41,630 --> 00:11:10,610
+So you can use the secondary one in the ad copy, but knowing the primary one helps you craft the core appeal. Exactly. And this is where the real nuance in messaging comes from. Let's take two people with the same desire. One wants a six pack and feels motivated and confident. The messaging to them is all about optimization, speed, getting there faster. Okay. But the other person who wants a six pack but feels totally defeated or ashamed because they've failed so many times.
+
+28
+00:11:10,610 --> 00:11:35,890
+that person requires a completely different tone. You have to be more supportive, acknowledge the failure without blaming them. You got it. Same with experience. If their dog is pulling and they feel embarrassed because people are watching them struggle, that's one avatar. But if the same dog is pulling and they feel scared that the dog will run into the street, that's a survival-based emotion. Two totally distinct avatars, defined by the feeling, not just the situation. Next up is behaviors and habits.
+
+29
+00:11:35,890 --> 00:11:56,780
+These are the predictable patterns the actions people develop in response to their desires, experiences, and emotions. They really reveal how someone approaches their life. This category seems to connect most strongly with a person's ego or their self-identity. Absolutely. When you successfully target a behavior, you are targeting who that person believes they are, their identity.
+
+30
+00:11:56,780 --> 00:12:25,180
+If they see themselves as a meal prepper, they will respond to messaging that confirms that identity. So if you understand the behavior, you can almost predict their next move. You can basically tell them the future in your ads, which creates this almost uncanny sense of, wow, they get me. Let's run through some combinations. Take the experience of having kids who threw tantrums in public. The resulting behavior. This parent always brings a huge bag of snacks, water, toys.
+
+31
+00:12:25,180 --> 00:12:51,890
+everything, even for a short trip to the store. So the marketing angle is, if you're the parent who can't leave the house without enough supplies for a three-day trek, then this product is for you. Yeah. You've instantly identified their preparation habit. Or a desire, wants to lose 20 pounds. The behavior is they already meal prep every single Sunday. Right. So the ad targets them by saying, if you still meal prep every Sunday, but haven't seen the results you want, then X.
+
+32
+00:12:51,890 --> 00:13:21,380
+You're speaking directly to their established habit. And you said mental behaviors count too. For sure. If someone feels insecure about their skin, that's the emotion there. The behavior might be that they constantly order new skincare products, always searching. The ad could say, tired of filling your bathroom cabinet with products you only use twice. So the behavior checker is simple. Does this describe what the person does, physically or mentally? Overthinking every financial decision counts just as much as wakes up at 5 a.m. to meditate.
+
+33
+00:13:21,380 --> 00:13:50,020
+Exactly. Which brings us finally to demographics. Static, factual things. Age, gender, employment, location. They're the least important for driving the motivation to buy. But they feel necessary sometimes, right? I mean, some products only apply to certain people. They are absolutely necessary for logistical reasons, and a lot of the time, they're implied by the other categories anyway. If your avatar's experience is caring for aging parents, you can safely assume an older average age.
+
+34
+00:13:50,020 --> 00:14:17,150
+The crucial error is starting there. So when are they genuinely useful then? They're useful for adding one extra layer of relatability, or like you said, logistical accuracy, especially if the product has a physical limitation. A brand selling running gear might find their winning avatar, wants to run a marathon but fears knee injury, needs to be filtered by age 40 plus because the physical risk is just higher there. Let's go back to that great example of the two very different people.
+
+35
+00:14:17,150 --> 00:14:46,560
+The 22-year-old woman and the 54-year-old man. Yes. They might share the same desire, finding a partner. Same experience, using dating sites and getting ghosted. Same daisian. Emotion, feeling defeated. Same behavior, constantly checking their phone. The only thing separating them is demographics, age, and gender. And if you start your targeting with female, 20s, you needlessly cut out a huge pool of potential buyers whose underlying psychological pain, the real driver, is identical.
+
+36
+00:14:46,560 --> 00:15:16,820
+Starting with the core four, make sure you maximize your market for the pain you solve. Okay, that makes perfect sense. But what about beliefs? That seems like a big one. That's a question that always comes up. Our sources concern that beliefs aren't a separate category because they're actually the result of combining the core five. So if you find a belief, you use it as a starting point to kind of reverse engineer the actionable avatar. Exactly. Let's take the belief. I believe I can't lose weight because my genetics are against me. That sounds powerful.
+
+37
+00:15:16,940 --> 00:15:42,020
+But how do you target it? Right. You translate it. You ask what happened to make them believe this. That's the experience trying and failing diets. How does this belief make them feel? That's the emotion, hopelessness, anger. What do they do because of it? The behavior crash dieting every January. So that translation process gives you four distinct angles for your ads instead of just one general statement about genetics. That's the key to making it actionable.
+
+38
+00:15:42,020 --> 00:16:00,700
+Now let's talk about scaling this because the number of avatars you should create really depends on where your business is at. Okay, so if a listener is just starting out, say, zero to 100K a month, what's the strategy? You have to be more specific to start. You focus intensely on one core avatar, preferably based on a really strong desire.
+
+39
+00:16:00,700 --> 00:16:24,960
+And then you build out tons of sub-avatars around it by layering on experiences, emotions, behaviors. You earn the right to go broader later. You have to. Your goal is maximum resonance in a small, deep pool. So if my core is wants to lose 10 pounds, my sub-avatars could be wants to lose 10 pounds but feels defeated, or wants to lose 10 pounds in meal preps every Sunday, you go deep.
+
+40
+00:16:24,960 --> 00:16:48,900
+Not wide. Precisely. Now, once you hit that million plus a month level, the whole scope changes. You need to start expanding to maybe three, five, ten solid core avatars. But this requires world-class execution and just tremendous volume. And that's where that example of comfort comes in, generating that staggering amount of content. Yes. They scaled by generating over 10,000 pieces of content a week. Why? Because of that level of ad spend.
+
+41
+00:16:48,900 --> 00:17:15,570
+You need content that resonates with every single one of those microscopic sub-avatars you've defined. You're trying to maximize relatability at a massive scale. You're making sure that no matter the specific combination of desire, experience, emotion, and behavior, there's a piece of creative out there designed to read that specific customer's mind. It's a combination of deepening your psychological understanding and just massively increasing your personalized output. That really feels like the roadmap. It is. Wow.
+
+42
+00:17:15,570 --> 00:17:45,470
+This has fundamentally redefined how I think we should all approach buyer profiles. So to quickly recap the core five, start with desires, layer on the unifying context of experiences, identify that driving force of emotions, look for the resulting predictable behaviors, and then finally use demographics to add logistical accuracy. The secret really is in the combinations. By creating these sub-avatars that are so specific they feel like they are literally reading the customer's mind, you get that powerful relevance.
+
+43
+00:17:45,470 --> 00:18:09,650
+And that leads directly to lower costs and conversion rates that your competitors can only dream about. And as we learned, the more specific and insightful your avatar is, the less pressure there is on your product to be truly innovative right out of the gate. So consider this. If you could identify the single most unique ego-based behavior avatar in your market, a group that feels completely misunderstood by every other brand.
+
+44
+00:18:09,650 --> 00:18:20,370
+How much worse or less innovative could your product actually be and still dominate that segment simply because your messaging was spot on? That's the true disruptive power of actionable avatars.

@@ -1,0 +1,484 @@
+{
+  "source_file": "👣 Evolve (Start Here)/112. 🆕 Winning Ad Definitions ($0 mo-$1M mo) 👣 Evolve (Start Here) Evolve.mp4",
+  "source_id": "mega:jhQDiSSY",
+  "audio_sha256": "477723b7a3d2ab5f150dc3a86291cfbdc881d4c13ffd669657f6750d9454b30b",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 2149.61,
+  "last_segment_end": 2149.61,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 29.3,
+      "text": "All right, guys, so welcome to the winning ad definitions. Now, if you don't care about everything that I'm gonna get into and you just want the percentages, then I will share them with you right now at the front. But I'm also going to go through this report so you understand what's actually happening. So for those of you that are curious about all the data, where are we getting this from, all that kind of stuff, you can stick around and watch the rest of this video. But if you're like, hey, Spencer, just show me my spend category. I don't really care. Let's go ahead and jump straight in. So what I'm actually going to do is I'm gonna pull this down."
+    },
+    {
+      "start": 29.3,
+      "end": 58.51,
+      "text": "so you guys can see my tabs here. If you guys wanna know what the spend threshold or what your target is when you're zero to 100K per month, your target is gonna be around 60 to 70% of total campaign spend, okay? So when you launch an ad, you ideally want to see, if you're in zero to 100K, you wanna see this ad pull 60% of budget in your initial campaign. You'll notice that the range here is 28.5% to 92. So even if you wanna go on the lower end and say like, hey, I just need to make sure an ad gets 30%."
+    },
+    {
+      "start": 58.51,
+      "end": 87.5,
+      "text": "then that's fine. And then from there, you guys should also see a very aggressive scale. So your breakthrough ads should basically double your account spend. So if you're spending a thousand dollars a day, a true breakthrough ad should double your account to $2,000 a day in spent. Okay. So that is zero to a hundred K per month. And again, I'm going to fly through this guys, but we'll go back and run through every single thing that's going on. I'm just trying to give you guys the definitions as quickly as possible. A hundred to 250 K per month. This has a red dot on it."
+    },
+    {
+      "start": 87.5,
+      "end": 101.74,
+      "text": "Same with 250 to 500. And the reason why is because this data is not complete. I will show you guys, if you are in this category, how you can help us complete this data. It'll be in the module to follow and probably a little bit more towards the end. But if you want a rough..."
+    },
+    {
+      "start": 101.74,
+      "end": 131.02,
+      "text": "you know, idea of what kind of spend threshold you should be looking at. So again, if you're 100 to 250K per month in spend, guys, this is spend, not revenue. I just want to be very clear that this is a spend category, not a revenue category, okay? You should be looking for ads to get around 20% of spend. So again, if you're spending about 5K per day, you would want to see your ad get around 20% of spend for it to be considered a spend winner. And then at this level, you're not good."
+    },
+    {
+      "start": 131.02,
+      "end": 155.84,
+      "text": "to see as much explosive growth. Although keep in mind, we only have three breakthrough routes, which is why this has a red dot. I have at least six in this one, which gives me a little bit more data. But at the end of the day, you guys are going to see as explosive growth. However, again, if you want to set a kind of threshold, hey, at my category, if an ad gets 20% of spend, I will call it a spend winner. And then again, if it grows my account by, you know, 13% or more, you can call it a breakthrough."
+    },
+    {
+      "start": 155.84,
+      "end": 185.17,
+      "text": "Okay, now 250, 500k is completely irrelevant. There's only one ad here. So I'm sorry, guys, you, those of you who are in the 250 to 500k column are going to have to provide some data to us. And we actually have some new ads that are going to be added to this. We were just kind of letting them spend out because most of our brands are in the 500k plus per month category. And then we had a few small ones at zero to 100k. But if we jump into the 500k plus per month category, you guys are going to be focused on seeing 7.6% of total."
+    },
+    {
+      "start": 185.17,
+      "end": 214.38,
+      "text": "account spent okay so this is not campaign spend this is account spend and i have definitions and reasons for that if you guys go back over here from zero to 100k and 100 to 250 this is initial campaign what initial campaign stands for is the campaign that you launch it in and so for some of you guys that are spending 500k plus a month you likely have maybe four or five or six campaigns or something like that maybe you're still chatting it up with one that's fine but at the end of the day you probably have multiple campaigns and so what we're looking for is 7.6 percent"
+    },
+    {
+      "start": 214.38,
+      "end": 243.6,
+      "text": "of the total account, not just the initial campaign. If you are running or you're looking at a spend threshold in a specific campaign, you can basically reference these data points. So for example, if you have an initial campaign spending zero to three K per month, you can use this as a reference for that campaign specifically. But for the most part, if you're a bigger boy, you're going to expect to see lower percentages of spend. You can even see the min and max here as well. And all of the data is in the sheet. So again, we'll get to that."
+    },
+    {
+      "start": 243.6,
+      "end": 272.82,
+      "text": "And then again, you guys should hopefully see greater than 0% growth on the total account. But again, when you're a much bigger account, you have other initiatives, other products and other things going on. And so just be aware of that. But again, 7.6% of somebody spending 20,000 or 30,000 a day is a decent amount of spend for ad testing. But I just want to make it very clear that again, 7.6% is your benchmark for spend winners in the 500."
+    },
+    {
+      "start": 272.82,
+      "end": 302.03,
+      "text": "plus per month range. Now, again, that is at the account level, not the campaign level, but hopefully this gives you those of you that are like, Hey, what are the definitions given to me? Let's go. Um, there they are. And for those of you that are like, Hey, you know what? I don't really care about these specifics. You know, I just want like the chat or the, like I said here, the, I don't give a fuck definitions. Uh, basically a spend winner, as you guys can see is like anywhere from like 10 to 30% or more of your total initial campaign spend. And just to be clear, like initial campaign is say, for example,"
+    },
+    {
+      "start": 302.03,
+      "end": 313.82,
+      "text": "in your ad account you have campaign one and then you have like abo campaign two and then you have you know campaign number three just be clear that these percentages are for cbo not for abo so"
+    },
+    {
+      "start": 313.82,
+      "end": 333.7,
+      "text": "If you're testing an ABO, I can't really help you. By the end of the day here, if you have an ad that you launch in here, so ad launches here, and let's say this is spending 5k per day in spend, this is spending, I don't know, 2k per day in spend, and this is spending 1k per day in spend, that means that you are 1 plus 2 plus 5 would be 8k per day, right?"
+    },
+    {
+      "start": 333.7,
+      "end": 361.49,
+      "text": "Now, when I say initial campaign, I'm saying this campaign that you launched it in, whereas account would be all of these together, okay? So account level for 500K plus a month, guys, would be 7.6% of all spend, where initial campaign, which is what most of these are in here, from zero to 100K, 100K, to 250, 250 to 500, are initial campaign data or percentages. That is where I am talking about here, where it's just this campaign, so just the 5K."
+    },
+    {
+      "start": 361.49,
+      "end": 370.59,
+      "text": "All right. So hopefully that makes sense. But again, if you guys are the, I don't give a fuck definition, 10 to 30% or more of your total campaign spend is going to be considered a spend winner."
+    },
+    {
+      "start": 370.59,
+      "end": 399.89,
+      "text": "Okay. Now, again, if you are at higher levels of spend, so 500k plus a month, you're going to be on the lower end. If you're a hundred K a month in spend, you're going to be on the higher end. Like I showed you the 50 to 60 to 70% range for your spend winners. Okay. And the main thing here is that your campaign budget has not increased week over week as a result of launching the ad. Okay. So if you've launched an ad, it's sucked up 30 or 40% of spend, and you have not been able to increase your budget seven days after launch."
+    },
+    {
+      "start": 399.89,
+      "end": 425.71,
+      "text": "launching it, that is a spend winner. It is not a breakthrough. Okay. A breakthrough is when something captures 10 to 30% of spend. Again, use the scale. If you're at more scale, your percentage is lower. If you're at less scale, your percentage should be higher. But in this instance, your campaign budget has increased week over week as a result of launching the ad. Okay. Now again, KPI winners are very simple. KPI winners are ads that failed to pull this."
+    },
+    {
+      "start": 425.71,
+      "end": 450.02,
+      "text": "percentage of spend. Okay. Again, anywhere from 10 to 30% or more. And then from there, the ad ROAS is the same as the initial campaign or higher. Okay. So for example, if your initial campaign is at a 2X ROAS and you launch an ad that pulls 5% of the, of spend, but it's at a 3X ROAS after seven days, that would be a KPI winner."
+    },
+    {
+      "start": 450.02,
+      "end": 466.19,
+      "text": "Okay. So very, very simple stuff. And then loser is it's below the initial campaign. So say you launch an ad, it gets 3% of spend after seven days. And it has only, you know, say your, your campaigns at a two and this is at a 1.5. Well, that is a loser."
+    },
+    {
+      "start": 466.19,
+      "end": 484.94,
+      "text": "Okay. So I just want to be very clear on these three definitions. And again, these are the, I don't give a fuck. Like I don't want to get super nerdy spend winner. Hey, 10 to 30% or more of spend KPI winner. Hey, it's not getting that 10 to 30%, but it is hitting our ROAS. And then loser is it's not hitting either of those and breakthrough is holy fuck this."
+    },
+    {
+      "start": 484.94,
+      "end": 514.22,
+      "text": "got the spend and allowed us to scale the account. Now you guys will see how to generate your own reports below. So you guys can even run your own reports to figure out what your percentages are for previous breakthroughs. And that is something where if you want to fully custom, like unique to your ad account, you could do that. And that is something that I would definitely recommend that you guys do. However, for everybody else that just needs the guidance. Again, I am doing this. I'm collecting and pooling all of this data. Sorry, Whisperer was really pissing me off there. So I just deleted it."
+    },
+    {
+      "start": 514.22,
+      "end": 543.44,
+      "text": "you guys can see here, we have, you know, around 24 specific breakthroughs. And like, these are breakthroughs where, as you can see, like, look at the cumulative growth here week over week. Like the average is like 297%. And that's what, as you see here, the initial campaign, like we have some ads that took an initial campaign, as you can see here in week zero from $7,000 a week in spend to by week three, spending $127,000 a week in spend. So like some of these ads are,"
+    },
+    {
+      "start": 543.44,
+      "end": 571.57,
+      "text": "are absolutely ripping and i want to give you guys this context so you guys can see what is actually happening again i'm going to get into this but for the most part hopefully for those of you they're like hey just give me the information that i need and let me get the hell out of here and i don't need to watch a 40 minute video you you hopefully have your information however for those of you that want to stick around we're going to go a little bit deeper into like what is going on to the sheet uh what are all these stats so again you can see all of the stats here and then we're also going to get into if whisperer will allow me uh the raw data"
+    },
+    {
+      "start": 571.57,
+      "end": 597.46,
+      "text": "And inside of here, as you can see, we actually have all of the raw data. And you guys will see in the module below that when you submit a report to us, we will actually be able to upload this into our raw data to actually improve these percentages as these are all dynamic week over week or as we get more individual ads. Okay. And so with that said, for those of you that are going to nerd out with me a little bit longer, what is going on in this sheet?"
+    },
+    {
+      "start": 597.46,
+      "end": 619.89,
+      "text": "As you guys will see, we have these tabs down below, right? Zero to 100K, 100 to 250, 250 to 500, 500 plus. Now, why did we do this? Well, we did this because we noticed that not every single breakthrough ad functions the same at different spend levels. And so we created these categories based off of where the ad actually starts at."
+    },
+    {
+      "start": 619.89,
+      "end": 635.74,
+      "text": "okay and so if you take a look again we did this at the account level and so this is something that we actually segmented for the 500k plus because this is when we really started to look at the account level but for the rest of these ads we were just looking at the initial campaign however"
+    },
+    {
+      "start": 635.74,
+      "end": 661.81,
+      "text": "the account as a whole was actually within this threshold when the ad was launched. So for example here, this week zero baseline of spend for this ad that was in the 250 to 500k range in this initial campaign was 15,000. So if you take 15,000 and you times it by 4.4, you're going to get 67,000. So that's this campaign itself was actually in the zero to a hundred K per month range, but the account as a whole, and I'm probably going to redo this sheet in a way to like."
+    },
+    {
+      "start": 661.81,
+      "end": 684.38,
+      "text": "add the account spend just for everything. So that way it's all there and everyone can see it. But this account as a whole, and I know this because I ran the reports, I think probably at this point, a hundred times. But my point is, is this ad or this account was in the 250 to 500K per month range. All right. Now, what we did here is we categorized each one."
+    },
+    {
+      "start": 684.38,
+      "end": 703.25,
+      "text": "based off of the account. So that's what I was trying to explain. So for an ad to qualify in the zero to a hundred K per month spend range, the account must be spending zero to a hundred K per month, not the initial campaign, the account. And so you'll notice for all of these ads here, all of them were spending at least"
+    },
+    {
+      "start": 703.25,
+      "end": 721.66,
+      "text": "500k per month so if we times this by 4.4 and if you're wondering why am i times it by 4.4 is because there are 4.4 weeks or something like that uh in a month okay and so as you can see here 510 000 puts this in the 500k plus range and then for example we have a brand here spending 760"
+    },
+    {
+      "start": 721.66,
+      "end": 747.84,
+      "text": "$3,000 a week. And again, this brand is well over the mil plus a month range. It's like three mil or three and a half mil or something crazy like that. Okay. So my point is, is that is how we initially categorize all of this. So it's like where, when the ad was launched, what was the account spending? And that is what created the category. And again, this is account level, not initial campaign level, account level."
+    },
+    {
+      "start": 747.84,
+      "end": 767.89,
+      "text": "Okay. And so for the zero to a hundred K per month range, the way that we have set this up is we tell you the data set here, which is how many breakthrough ads. And as you guys can see, this is dynamic. You guys are not going to have edit access to this, obviously, but if you guys want to make a copy and play with it, feel free. But this data set has six breakthrough ads. The testing is always CBL."
+    },
+    {
+      "start": 767.89,
+      "end": 796.38,
+      "text": "And the data, so where we're pulling this data from is from the initial campaign level. And like I said, I know it's not in here, but I'll probably just add the account data. Not like this. I'll probably just add it as a secondary column here. So that way we just have it. But my point is, is that we are pulling this from real data. This is real ad account data. And I even have the numbers. So you guys can see the numbers as well. You can see the ROAS and all that kind of stuff too. But these percentages are essentially percentages of spend. Okay."
+    },
+    {
+      "start": 796.38,
+      "end": 813.7,
+      "text": "percentage of week over week growth. So how much the total campaign spend increased. And then from there, we also have what, how high or how, or how much higher or how much lower the ads ROAS was versus the campaign."
+    },
+    {
+      "start": 813.7,
+      "end": 840.88,
+      "text": "Okay. And so for example, here, this week one ROAS benchmark for this ad in the zero to a hundred K range was eight and a half percent above the campaign. And so if you take a look at this as actual ROAS in week one, it was 3.87. So that means that this 3.87 was actually eight and a half percent above the campaign. And so basically if you take 8.5% times 3.87, it's going to give you, I don't know, like."
+    },
+    {
+      "start": 840.88,
+      "end": 860.94,
+      "text": "3.5 or something like that. And so that means the campaign was at 3.5x ROAS and this ad was actually above the rest of the campaign. Okay, and the reason why we're tracking percentage above or below is because everybody has a different KPI. And at the end of the day, if you're running your ad account, say your target's a 2x, but some of you guys are running your accounts at like a 1.8."
+    },
+    {
+      "start": 860.94,
+      "end": 877.58,
+      "text": "Why? Because like you're fine with running that. So we need to hold all ads in the same KPI range. So it's like, hey, if we have other ads, they're spending a 1.8. Obviously we want to create ads that spend at a 2X or higher, right? Because that's your ideal target. But at the end of the day, we're comparing this."
+    },
+    {
+      "start": 877.58,
+      "end": 904.35,
+      "text": "to the campaign so this percentage whether it's positive or negative is not in you know accordance to any kind of like set kpi it's just whatever the campaign was spending at or in this instance whatever the account uh kpi was spending at all right so hopefully that makes sense and then over here we have again just week two all of the same metrics then week three all of the same metrics and at the end here what we have is cumulative growth which is basically hey if we add up"
+    },
+    {
+      "start": 904.35,
+      "end": 917.12,
+      "text": "the growth week over week from week one to week two to week three, we should get this percentage. Now, if you're manually adding this percentage, you will not get this percentage. What you actually need to do is you need to take a look at"
+    },
+    {
+      "start": 917.12,
+      "end": 939.82,
+      "text": "whatever the baseline was for the campaign versus where it is at now. And so I want you guys to understand that this is from the campaign and where it says account, the account level, because that is what really matters because you're not creating ads just so an ad gets a lot of spend. You're creating ads so that you could spend more on the account or on the campaign total."
+    },
+    {
+      "start": 939.82,
+      "end": 969.14,
+      "text": "Okay, that is the goal. And so if we go into this, again, you guys don't really need to nerd out into this raw data stuff. It's just for you guys to check it if you wanna take a look at it. We actually had a much more complex sheet that had even more data, but I've kind of just kept the minimal stuff here that's actually needed for us to have the report that we need to build out and have it be dynamic. So the stats here, as you can see, what this will do is this will create the average. And so the average for the zero to a hundred K per month of week one percentage of spend, week one,"
+    },
+    {
+      "start": 969.14,
+      "end": 993.31,
+      "text": "week over week growth. It's basically just pooling all of these ads together. So if we take a look at this and we do the average of this, it's 64.3% for week one percentage of spend. So if we go into stats, you will see 64.3% because this is just essentially calculating all of these averages in a neat way. So that way we can then show them inside of a prettier sheet. Okay. And so here,"
+    },
+    {
+      "start": 993.31,
+      "end": 1011.79,
+      "text": "As you can see, the definition up here is clear of what it is. So breakthrough spend threshold, ad reaches at least 67% of spend. Now, am I expecting you guys to hold your team? If you're zero to a hundred K per month, you might not even have a team, but I'm expecting you guys to have this exact metric. Like, no, you guys can loosen it up a little bit where it's like, Hey, if our ad."
+    },
+    {
+      "start": 1011.79,
+      "end": 1029.92,
+      "text": "hits 60% of spend, we will consider that a spend winner. Now, again, this is a median, whereas you can see here, we still had breakthrough ads that were lower in the 28.5% side. And so that is why I've also included the mins and max. But as you can see here, we also had ads that pulled 92% of spend."
+    },
+    {
+      "start": 1029.92,
+      "end": 1059.17,
+      "text": "Right. And you have to understand that the lower you are, like how I mentioned in the, I don't give a fuck definitions. If you're closer to $0 in spend, you're probably going to be closer to max. If you're closer to a hundred K per month in spend, you're probably going to be closer to the min. And again, the cool part about this is if you guys want to go into the data, you could see, okay, here's this ad that was 28 and a half percent week one of spend. Okay. Well, what was the actual week zero baseline? Oh shit. They were spending $0."
+    },
+    {
+      "start": 1059.17,
+      "end": 1065.81,
+      "text": "That's interesting. Okay, well, let me take a look at how much spend did it get in week two. Holy shit, it got..."
+    },
+    {
+      "start": 1065.81,
+      "end": 1095.09,
+      "text": "89%. So this thing absolutely mooned right in, in week two. And so you guys can start to see how these breakthroughs are behaving. So that way you guys can, you know, make the judgments that you want to make and have the definitions that you want to have. My goal is for us to essentially all have the same definitions, but I know that each team is going to function a little bit differently. And then again, your definitions are going to change as you get to more scale. Okay. So if you are zero to a hundred K per month, and then you create a breakthrough ad that sucks up 60%."
+    },
+    {
+      "start": 1095.09,
+      "end": 1111.26,
+      "text": "percent of spend and that allows you to get into the 100k to 250k per month range well now you need to notify your team like hey our goal obviously if we can create an ad that sucks up 60 percent of spend amazing and as you can see here that still is possible but now we're probably going to be closer to around ads getting 30 to"
+    },
+    {
+      "start": 1111.26,
+      "end": 1131.92,
+      "text": "you know, 40% of spend, right? I want you guys to understand that this is a dynamic process. It's much more complex. By the end of the day, this is going to help your team at every single stage, recorrect their lens on what good is. Because again, what got you from zero to a hundred K per month is not going to be the same that gets you from 250 to 500 K per month, right? In regards to the type of ads that you need."
+    },
+    {
+      "start": 1131.92,
+      "end": 1141.65,
+      "text": "Right. And so what we have here is the category for each one. So if we actually don't mess up the screen here and we go back to the sheet, you can see we have spend winner. So again, this is the ad capturing."
+    },
+    {
+      "start": 1141.65,
+      "end": 1164.4,
+      "text": "around 60% or more of campaign spend without scaling the budget week over week. Now, again, you guys can see the mins, the maxes, the medians and the average. If you guys are not stats majors, median is basically just like it helps remove specific outliers. So medians are calculated by like looking at an array of numbers and picking the numbers that are in the middle. And then min is what is the minimum."
+    },
+    {
+      "start": 1164.4,
+      "end": 1193.95,
+      "text": "uh percentage of spend that a breakthrough ad had and then max is what is the max amount of spend that a breakthrough had in week one okay so again w1 means week one so after week one if you have an ad that gets 60 of spend you can basically call that like that is the definition that i would use i've just given the exact ones here but i would say hey if it is 60 of spend i would call that a spend winner uh now if we scroll down into the kpi winner you'll notice here that kpi winner is very simple hey it didn't get 60 of spend"
+    },
+    {
+      "start": 1193.95,
+      "end": 1219.73,
+      "text": "But it did actually hit the same ROAS as my campaign. So say, for example, again, I know you guys, I'm going to try to draw this for you, but campaign ROAS inside of Meta reads at a 1.89. If this new ad that you launch has a ROAS of 1.92, well, guess what? After one week, this is the same slightly above your actual, you know, whatever your campaign is at."
+    },
+    {
+      "start": 1219.73,
+      "end": 1248.53,
+      "text": "So this is above it. So this is a KPI winner. So after one week, it would be a KPI winner. Now again, if say in week two, and you guys will see how breakthrough ads kind of develop, but if in week two, the ad then pulls, you know, like a higher percentage of spend and it allows you to start scaling, well then guess what? As I mentioned in the previous video, you can change it from a KPI winner to a breakthrough because as it starts to suck up the spend winner threshold, well now you have, and it allows you to scale, well now you have a breakthrough."
+    },
+    {
+      "start": 1248.53,
+      "end": 1259.5,
+      "text": "Okay. And so KPI winner is very, very simple. And then a loser is it doesn't hit KPI. So again, if your campaign, if we even just go back here is at a 1.89 and this new ads row as."
+    },
+    {
+      "start": 1259.5,
+      "end": 1280.14,
+      "text": "Is that a 1.4? Well, guess what? It didn't hit your KPI and it did not hit the spend winner threshold. Say it got like 10% of spend. Well, guess what? That is a loser. So you can mark it as a loser. The rule of thumb is that if you have a spend winner and you have a KPI winner, you should just leave those on. Now, if you have a loser, you're more than likely good to turn it off."
+    },
+    {
+      "start": 1280.14,
+      "end": 1304.62,
+      "text": "Okay. Now breakthrough ads, again, breakthrough ads are ads that hit this spend threshold. Because again, guys, the reason why we have this spend threshold is because it tells us that it's actually having an impact. If an ad is not pulling a lot of spend, but you say you scale your account because another ad just as performance is getting better and it has a higher percentage of spend. We can't say like, like a KPI winner is not going to be responsible for allowing you to scale."
+    },
+    {
+      "start": 1304.62,
+      "end": 1328.99,
+      "text": "right? Like an ad that gets a lot of spend. And again, a lot of spend in this category is 60 to 70% on a lower end, 28 and a half. Well, then that is an ad that is likely having a much bigger impact because it's pulling much more spent. Okay. And so in that instance, that is where we have a breakthrough because it's an ad that is sucking up a bunch of spend. It's having a big"
+    },
+    {
+      "start": 1328.99,
+      "end": 1355.62,
+      "text": "factor on account performance and account performance is good enough that you're able to increase budget. And that is what breakthrough ads do. Okay. Now, again, I said labels can change. I've already talked about this, but if you want to see how these breakthrough ads behave week over week, you can see that in week one, on average, 64% of spend, the campaign grew by 114%, which is insane. Even the mid was 90%, which is nuts. The ROAS versus the campaign ROAS is"
+    },
+    {
+      "start": 1355.62,
+      "end": 1381.62,
+      "text": "2.8%. So usually at this benchmark or at this spend level, not only will the ad be sucking up a bunch of spend, it's actually going to be above ROAS or like right at ROAS. And then from there, it's going to allow you to basically double your budget seven days from launching it. Okay. Week two, you can see how it behaves here. Again, campaign week over week grows another 107%. So the ad goes from 64% on average to 78%. And then"
+    },
+    {
+      "start": 1381.62,
+      "end": 1391.3,
+      "text": "Week three, as you can see here, it drops a little bit of spend and the campaign doesn't scale as hard. But at the end of the day, the ads might dip a little bit negative, but still you've scaled."
+    },
+    {
+      "start": 1391.3,
+      "end": 1418.51,
+      "text": "51%. And so if you look at this category down here, what this is tying us back to what I was saying over here before in the cumulative growth, if you go from week zero campaign spend to week three campaign spend, you will see a massive increase in growth at this level. So on average, it was 200%. So that means you literally tripled your budget. So if you were spending $100 a day, you should be at $300 a day."
+    },
+    {
+      "start": 1418.51,
+      "end": 1440.21,
+      "text": "OK, now, obviously, if you're closer to the 100K per month threshold, you might not see as aggressive growth. But again, we're still usually seeing pretty aggressive growth. And you can see all of the categories that these ads were at based off of, you know, week zero baseline of spent. OK, so hopefully that'll make sense. And that is the zero to 100K."
+    },
+    {
+      "start": 1440.21,
+      "end": 1456.64,
+      "text": "per month range. As we get into the 100k to 250k per month range, it is set up the exact same way. I've already kind of explained why this is not really a metric sheet that I would trust yet because we only have three breakthrough ads in this range. So use this with a grain of salt again."
+    },
+    {
+      "start": 1456.64,
+      "end": 1485.94,
+      "text": "I'm not going to go through this because I already went through it. However, what I'm going to do here is I'm going to explain some of the notes and you probably saw some of the notes down here as well. And so if you actually take a look at these notes, it will kind of explain some of the outliers. So for example, here, you can see week one percentage of campaign min spend. So this 1% right here is ad number two, but it was 122% above the campaign ROAS and scaled to 37.3%."
+    },
+    {
+      "start": 1485.94,
+      "end": 1505.17,
+      "text": "by week two and 63.8% by week three. Low week one spend alone does not disqualify an ad. Some breakthroughs at this tier are slow starters. Now, again, this is one out of three, which is why we need much more data. But again, you can see here, boom, there is the max because this is week one ROAS and this is week one campaign. And so in this instance, this."
+    },
+    {
+      "start": 1505.17,
+      "end": 1530.88,
+      "text": "ad, so the week one ROAS really skewed the average, which is why we need more. But again, the median was, it was basically saying that it was at the campaign level. But as you can see here, this ad was 122% above the campaign. So if the campaign was at a 2X ROAS, so campaign 2X ROAS, right? This ad was 122% above. So new ad or this ad here was at a four, like"
+    },
+    {
+      "start": 1530.88,
+      "end": 1553.95,
+      "text": "0.3x ROAS or something like that. So this ad was ripping. Now it only had 1% of spend, but it was a KPI winner. And what Meta did is it saw that it had such a high KPI that as you can see here by week two, it gave it more spend and then it kept cooking. And so it gave it even more and then it became a breakthrough. Okay. And so keep in mind, again, KPI winners can likely turn into breakthroughs if you just let them cook."
+    },
+    {
+      "start": 1553.95,
+      "end": 1562.75,
+      "text": "Okay. Uh, again, losers, the same breakthrough is the same. And then as you can see here, the cumulative growth on average is a hundred percent. So again, if you're spending."
+    },
+    {
+      "start": 1562.75,
+      "end": 1584.66,
+      "text": "4K a day, you on average with a breakthrough by the end of week three. So after three weeks of the ad running should be closer to 8K per day in spend. Again, you have the mins and maxes here. And just like in the previous category, if you're spending closer to 250K per month, so maybe you're spending like 8K a day or 7K a day. I think 7K falls just short. It's like 21."
+    },
+    {
+      "start": 1584.66,
+      "end": 1597.25,
+      "text": "or 210,000, then obviously you might be closer to the 250 to 500K percentages. But again, just keep in mind and you can always go into the raw data and see where these accounts were at or where these campaigns were at in general."
+    },
+    {
+      "start": 1597.25,
+      "end": 1626.61,
+      "text": "okay now 250 to 500k per month again you guys will see below how you guys can contribute to actually make this uh actual thing right now there is not enough data for this and i know a lot of you guys are in this category so we're going to use your data to make this better uh but at the end of the day this is the 250k to 500k per month range there's nothing really here again if you guys want just some kind of baseline as you can see here the 100 to 250k was 21 as a median right and that was really skewed by this ad that"
+    },
+    {
+      "start": 1626.61,
+      "end": 1649.71,
+      "text": "It only had 1%. That was a slow burner. So I would say this is probably closer to like 30 to 40% is what we should be looking at. And then from here, 20 to 30% is probably realistic. And the reason why I'm just throwing those numbers out there is because again, the more scale that you get to, the lower percentage that you'll see. So zero to 100K was like 50 to 70%, right? So that would mean potentially 100 to 250K."
+    },
+    {
+      "start": 1649.71,
+      "end": 1666.51,
+      "text": "if we are to use that range, should be anywhere from like 30 to 50%. And then 250 should be anywhere from like 15 to 30%, right? And then because we don't have enough data here, we're going to jump straight into the 500K plus range. You can see now we're at seven."
+    },
+    {
+      "start": 1666.51,
+      "end": 1692.1,
+      "text": "percent to you know like 15 percent of spend now keep in mind this is the account level so we are considering the entire account spend not just the initial campaign spend and you guys can see how this differs right so for example this ad here ad number three pulled 59.8 percent of the account spent in its initial campaign so in the campaign that it was actually launched it was 66."
+    },
+    {
+      "start": 1692.1,
+      "end": 1720.83,
+      "text": "or 76.5%. Now you'll notice again, in some instances, it changes a lot, especially as you get to more scale. So this ad rate here, ad number six, 7.4%, but in its initial campaign had 93%, okay? And it grew the campaign 500% in that first week, which is absolutely obnoxious. Well, what happened? Well, in week zero, the ad or the campaign specifically was only spending 7,400."
+    },
+    {
+      "start": 1720.83,
+      "end": 1750.16,
+      "text": "Okay. And so it increased it massively as a result of launching this ad. And so you can see how this changes. Now you can see here, this account right here, specifically that had 9.9% and then 11.6% in the initial campaign. You can see clearly this initial campaign is spending very close to what the total account is. So this account is much more consolidated, but I wanted to share this with you guys. So that way you guys can go and check. And I've just, I just want to be clear on this as well."
+    },
+    {
+      "start": 1750.16,
+      "end": 1774.82,
+      "text": "week zero baseline is actually the campaign. This week one ad, week two ad, week three ad is the actual individual ad spend. So I will make sure that I also get the campaign ad spend for you guys. So that way you guys can see how much the campaign increased. So stand by for that. It'll be updated in the sheet by the time you watch this. But I just wanted to make sure that you guys understand the difference between that. Okay. So as you can see, the initial campaign definitely has a higher"
+    },
+    {
+      "start": 1774.82,
+      "end": 1787.58,
+      "text": "overall percentage because this these campaigns are spending less than the total account but at the end of the day we are looking at this from an account level just because it is much more stable and much easier for us to kind of draw some kind of learning so"
+    },
+    {
+      "start": 1787.58,
+      "end": 1816.03,
+      "text": "In general, 7.6% of total account spend is what we're looking at there. And again, you guys can see that ideally it is not increasing the total account spend in week one for it to be considered a spend winner. Again, if it does increase spend, it is a breakthrough ad. All right, KPI winners, it's the exact same for all of them, guys. The only thing that changes for KPI winners is the percentage of spend. If you launch an ad that does not hit your specific spend threshold for your level, then"
+    },
+    {
+      "start": 1816.03,
+      "end": 1829.3,
+      "text": "you would mark it as either a KPI winner or a loser. And what determines whether or not it's a KPI winner is if it is at the same ROAS as your account or in these instances down here as your campaign."
+    },
+    {
+      "start": 1829.3,
+      "end": 1858.67,
+      "text": "Okay. Now the loser here is exactly what I just mentioned. And then breakthrough is again, it sucks up that 7.6% of account spend and it does increase the overall account. And so as you can see here, week warrant percentage of spend, these are my little, my little notes to explain the data. The account average of 15.2% and week over week growth of 46.4% are each skewed by a single outlier. Ad number three had 59.8% of spend and it had 200."
+    },
+    {
+      "start": 1858.67,
+      "end": 1884.19,
+      "text": "365% week over week growth in week one, which is absolutely obnoxious. So this ad here was just absolutely pumping. And so that is just to show you that it is still possible to create an ad that can absolutely rip for you. So there you go. You could see how the trend continues in week two. As you'll notice, the week over week growth actually starts to increase. So the median here was like"
+    },
+    {
+      "start": 1884.19,
+      "end": 1900.11,
+      "text": "7.6% in regards to spend and only 2.4% in regards to week over week growth. But as the ad starts to suck up more spend, as you can see here, the median is now 23%. The account is now seeing a much bigger lift of around"
+    },
+    {
+      "start": 1900.11,
+      "end": 1929.42,
+      "text": "20%. And then as you can see here, this is where we start to get into like, hey, what the heck? How is the account not growing week over week by week three? Well, when you're in much bigger accounts, there's a lot more going on. There's a lot more variables, right? But as we can see here, week three, week over week growth has this negative medium, like I just mentioned. But if you actually dive deeper into the actual ads themselves, you'll notice, especially in initial campaign, that these ads are increasing their initial campaigns and are crushing."
+    },
+    {
+      "start": 1929.42,
+      "end": 1958.64,
+      "text": "in it however the account overall might have some other areas that are potentially scaling down etc etc and again a lot of these brands at this range are also testing a lot more they're testing different landing pages different offers all different kinds of things that will impact this and so at this level it's not usually just one single ad that's going to have an impact on the entire account but we've done our best to try to you know organize this and see which ads actually did have a big impact on the account because again that's what we want"
+    },
+    {
+      "start": 1958.64,
+      "end": 1962.91,
+      "text": "your teams striving for that is what this data is telling us here"
+    },
+    {
+      "start": 1962.91,
+      "end": 1992.21,
+      "text": "Okay. And again, cumulative growth median is 78.3%. You'll notice that the min here is negative 14.6, where it's like, that makes no sense. But again, this was an account that was spending $760,000 a week, right? And at the end of the day, in its initial campaign, it actually still increased its campaign by 35.7%. And so it was still a breakthrough in its campaign, not essentially at the account level, but overall, it was a breakthrough in the campaign. And then long-term, because this is only three."
+    },
+    {
+      "start": 1992.21,
+      "end": 2021.42,
+      "text": "weeks, we looked at ads across eight weeks. It actually did become one of the top spending ads after an entire year of running. Okay. And so that is what we're looking at more than anything. It's just like ads that were winners long-term. I know we're only looking at three weeks here, but we're talking about in regards to labels. Okay. And that's the most important thing that I want you guys to know is again, not all breakthroughs are the same, right? So this ad here that sucked up 59.8% of spend and increased week over week, like, you know, more than triple."
+    },
+    {
+      "start": 2021.42,
+      "end": 2047.81,
+      "text": "almost quadrupled this account's daily spend with one ad is absolutely obnoxious at this level, okay? So this breakthrough is obviously a way crazier breakthrough than, for example, an ad like this that had 7.4% but increased only 15% week over week, right? And so at the end of the day, this is just to give you guys a benchmark, right? You guys will be able to run this so you guys can analyze ads on your own. Those of you that are 500K plus, you..."
+    },
+    {
+      "start": 2047.81,
+      "end": 2077.1,
+      "text": "you are probably gonna get the most use out of this because you have the most amount of winning ads. But for everybody else, that's zero to 250K per month. Hopefully these definitions help. And again, if you're 250 to 500 range, you should be closer to the 500K plus accounts where you have enough winning ads to actually be able to get some of your own data and get some of your own percentages. But again, our goal is that you guys share that with us as well. So that way we can all speak the same language and everybody has some kind of Northstar KPI that we're working towards, okay? So that is everything."
+    },
+    {
+      "start": 2077.1,
+      "end": 2095.02,
+      "text": "regards to the winning ads analysis now the final thing is please please do not skip over this video here this is some super soft shit and you guys are going to want to get this stuff set up if you're not already using Claude code on your actual desktop inside of Visual Studio because this will change the way not only how you guys use Claude but also with"
+    },
+    {
+      "start": 2095.02,
+      "end": 2124.3,
+      "text": "all of the other skills that we have coming for you guys, because we are really doubling down on this stuff. Big shout out to Zach. We are really, really optimizing and not Zacharia, although we love Zacharia. Zach, who's our head of AI, head of tech, head of everything when it comes to this shit that is extremely dialed. And so he is going to be working with us to create a lot of skills, help you guys generate a lot of these reports and really just take your data and everything else that is inside of Evolve to another level. But at the end of the day, I wanted to share this with you guys."
+    },
+    {
+      "start": 2124.3,
+      "end": 2149.61,
+      "text": "guys to help you guys understand what is actually going on here. And that way you actually have some clear definitions for you. So again, I'll leave it there. If you guys stuck with me all the way to the end, you guys are absolute legends. And I hope this is helpful for you to have some kind of definition that you can follow. And then again, in the video down below, if you want to submit your reports to us so we can actually make this entire sheet better, you would be awesome. And I love you for it. With that said, I'll see you in that video."
+    }
+  ]
+}

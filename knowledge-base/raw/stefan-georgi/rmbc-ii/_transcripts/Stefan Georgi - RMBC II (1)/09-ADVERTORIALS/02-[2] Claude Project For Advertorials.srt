@@ -1,0 +1,415 @@
+1
+00:00:00,430 --> 00:00:29,840
+Hello, everybody. So right now in this video, we are going to be going through the Claude project strategy, or really not a strategy, but just using Claude projects to produce pretty much unlimited advertorials. Right now, I'm in my Claude project setup. You can see that advertorial generation is what I called it. You could call it the advertorial generator or whatever.
+
+2
+00:00:29,840 --> 00:01:00,030
+other cool thing you wanted. You can see I use this pretty often, Lewis and Spurts, when I'm needing advertorials, but it's a really helpful, valuable project, and you'll see some of the assets here. And you probably will see a lot of health things, but don't worry, as I will show you, and you can see here with this, and I'm not going to show you this one, but there are, this works for any niche or category, and I'll prove that to you.
+
+3
+00:01:00,030 --> 00:01:33,090
+in this video. So I'm not going to go super deep in this video into like what is an advertorial because I will have done that in other trainings within RMBC too, in fact very much in depth. Today I want to focus primarily on this quad project and give you what you need to set one up and then show you it in real time as well as some previous examples too, okay?
+
+4
+00:01:33,090 --> 00:02:02,160
+So as with all Cloud projects, you're literally just going to projects. Once you're in Cloud, you're hitting new project. You're going to name it, and you're going to see what you're trying to achieve. So I'm going to give you this prompt. In this case, I basically just did the same what am I trying to achieve and the instructions. So I will be giving you different sales pages, landing pages, product details, or relevant data points.
+
+5
+00:02:02,160 --> 00:02:29,600
+and you will then be writing new advertorials based off the numerous examples that are in your knowledge base what you'll want to do is analyze the structure of the various advertorial examples and then synthesize that knowledge and use that same knowledge along with your judgment to produce new advertorials okay so we enter that in i'm going to go back to my project since i have uh that here okay and it's exactly what i just said
+
+6
+00:02:29,600 --> 00:03:00,080
+And if you go to the project knowledge, you can do instructions, right? And in this case, the set of project instructions are just the exact same thing as what the description is. That's not always the case, but it's the case in this one, okay? So then with Cloud Projects, as usual, and I'm going to shoot all of these videos on RBC2 of Cloud Projects, assuming somebody didn't watch really the other ones. Hopefully you have.
+
+7
+00:03:00,080 --> 00:03:32,210
+But if it becomes repetitive as you go through all of RMBC2, I apologize. But at the same time, I just want to make sure that anyone goes to any specific module. They're not like, what, this is too advanced or over my head or not detailed enough, whatever it is. So as of all cloud projects, the key is really the knowledge base that you can have. So what I've done here is I've uploaded a bunch of advertorial examples. And I did them of sort of different lengths, right?
+
+8
+00:03:32,210 --> 00:04:04,620
+as we'll be covering in other modules of the advertorial section of rbc2 there are short medium and long advertorials right so what i did is i just went through the internets and found a bunch of advertorials and then for each one i created a google doc originally i linked to the advertorial so if it's still you know live i have it
+
+9
+00:04:04,620 --> 00:04:35,600
+But I also recognized, you know, there's a chance that the advertorial will get taken down. So let me make sure I save like a screenshot or copy of it too, right? So, you know, this one, cardiologist reveals lazy way to lose weight. All right, that's a cool hook. Let's see, is it still active? Hold up a second. Let's see, is this a load? Maybe. Not still active, right? Well, no problem. That's why I saved it.
+
+10
+00:04:35,600 --> 00:05:08,370
+Do the same thing with this hearing aid thing, which is more of like a device versus a fitness product. I do have a few examples in here of advertorials as well that are like sort of more straightforward. There's a home shower upgrade, right? No more long shower renovations. Try this instead. And it's about shower remodeling. I added one in here as well. Let me get to it.
+
+11
+00:05:17,460 --> 00:05:52,770
+Neck Pain Pillow, which is also sort of, you know, not a consumable. I thought I had one here as well about like sort of a more of like a listicle one, but maybe that's not in here for now. Let me just make sure all of them uploaded though. I'll double check that. Give me a second. Okay, I guess not, but let me make sure that in here. Okay, I guess I didn't have, I thought I had another one in here that was more like a lead gen advertorial. But again, I don't think, it shouldn't matter based on the experience.
+
+12
+00:05:52,770 --> 00:06:22,770
+Really, and here's an important point to understand right out of the gate, which is, this has been true, and I think I've really intuitively grasped this from the very beginning with large language models and AI, is the content is not as important as the structure or like the syntax, right? When I say syntax, definition, right? The arrangement of words and phrases to create well-formed sentences in a language.
+
+13
+00:06:23,090 --> 00:07:01,680
+And so what I really am trying to explain with that is when you look at anything, like let's go look at like a sort of clickbaity thing, like, you know, I mean that, you know, doctor one that I opened earlier, what was that here? This is like an ED one, right? One trick that can eliminate ED in less than half an hour to do this before bed, right? Researchers in the U.S. have finally developed a simple at-home treatment to help eliminate ED.
+
+14
+00:07:01,710 --> 00:07:30,830
+Right, some aggressive, quick banky, ED offer, whatever. Does not matter. You could use this same structure, the same sort of like style where there's like, okay, a big curiosity hook, right? Some statistic about people suffering from a pain point. A line of dimensionalization about the pain point. A line saying that experts have found a simple at home solution for the pain point.
+
+15
+00:07:30,830 --> 00:08:01,790
+call to action to watch a video and explain why you may not have heard of this solution before, right? Click here to watch. So like that's all that's happening in this advertorial, right? And so you might be like, well, this is too aggressive. I sell like floral arrangements and bouquets, you know, through like, you know, that could deliver to people, right? Like, so this would never work for me. It's like, it totally would. Actually, it'd be great, you know?
+
+16
+00:08:01,790 --> 00:08:44,320
+It'd be like one, you know, I think I'm going to do something off the, I'm going to riff here, right? But, you know, the one, this one game-changing, one game-changing app or like website that delivers, you know, custom bouquets and floor arrangements to your house in less than, within 24 hours, right? Like, try it today.
+
+17
+00:08:44,320 --> 00:09:14,380
+Okay, that's not the perfect headline, but that's sort of a similar structure, right? Like, you know, if you're one of the 30 million guys with actual status, right, we get the real data, who plans to order flowers for their wife this month, you probably found how frustrating it is or how overwhelming the entire process can be from picking an arrangement.
+
+18
+00:09:14,380 --> 00:09:48,110
+to the crazy prices, right? This can leave you delaying, getting your wife or special someone, a gift that would be so meaningful to her, and ultimately even lead to more stress and tension in your relationship, right? After experiencing these issues firsthand for years and seeing how frustrated guys are, one florist,
+
+19
+00:09:48,110 --> 00:10:16,740
+finally developed a revolutionary on-demand floral arrangement service that fixes this problem and gets flowers to your front door in less than, you know, 24 hours, right? You know, instead of watching a video, like, you know, check out, see how it works here, and why big companies like 1-800-Flowers hate that this service exists.
+
+20
+00:10:16,740 --> 00:10:47,310
+Okay? Again, not the world's best copy ever, but from the top of my head, not bad either. But did you see, that's what you see, right? So that's what I'm talking about when I say the structure and the syntax. Because it's like, you see this and you think, oh my goodness, like, well, that, you know, I'm not doing any of the, what are the biggest things that you can do to improve as a marketer, copywriter, really effective person in the world of business?
+
+21
+00:10:47,660 --> 00:11:15,090
+is being able to abstract out. And so to take something like this and then not immediately go, like think about from a meet, like, no, that's not what I do. It's like, yeah, it doesn't matter. What's the structure, what's the syntax? And that's, I think why I love AI and LLM so much is because that's what they do. Like the structure and syntax doesn't matter. Now, this is just one example of an advertorial, but I bring it up because I have a bunch of these advertorials in the cloud project.
+
+22
+00:11:15,090 --> 00:11:45,180
+Some of them are more aggressive like that one. Some of them are more non-aggressive. I mean, ED is an aggressive category. And it says eliminate ED. So it's like a little aggressive unless it was going to like Viagra or Cialis. And it's probably not. It's probably going to some supplement, right? But like, you know, like no more long shower renovations. Try this instead, right? For this one. It's like, okay, that's not aggressive. But like, it doesn't matter. It's the syntax. And the other important thing with quad projects, especially this sort of methodology for quad projects, we'll look at some other
+
+23
+00:11:45,180 --> 00:12:12,500
+methodologies where you're swiping more explicitly for a single individual structure like for bsls for example whatever it is but with advertorials in general um we just want to give it several samples or examples let it sort of pull from those for references and then use its judgment okay so we've uploaded all these here i will give you all these advertorial pdfs you can 100 uh
+
+24
+00:12:14,670 --> 00:12:46,700
+and I would encourage you to do that with everything in this course. Try what I do first and then try your own version. If you want to try other advertorials, you can. I do think variety is good. For example, if you were selling a diet program, I would really strongly recommend not doing a bunch of diet weight loss advertorials because I don't want Claude or the LMS to just only try to pull from those things.
+
+25
+00:12:46,700 --> 00:13:18,590
+I want it to actually have to work harder by having to pull from a variety of different subjects, categories, as it's going. And again, in another module, I'll be sharing in-depth how to go find advertorials, et cetera. But just as a quick note, and again, this will also be another video, but I do an example of, let's see, like, Wichita, Kansas News, right? Let's just do that, okay?
+
+26
+00:13:18,590 --> 00:13:52,450
+Like, really, if you just type in, pick random cities, pick news sites, let's do this one first, okay? I like the sites that are all videos, really, but hopefully this isn't going to be a video, everyone. Let's see here. Kind of makes me sad how all the news sites are videos. Ugh, I'm trying to pause that, not click on the ad. All right, let's see, does this website have it? Yep, here you go, right? You always have, like, from around the web, right? So here's a bunch of skincare ones, 50.
+
+27
+00:13:52,450 --> 00:14:24,270
+Plus, women swear by this age-defying vitamin C serum, which is, by the way, totally a ship-offer's vitamin C serum. She toss five products and trusted one. Here's what happened. C-Rubbing beautiful skin. MD, litions won't tighten crepe skin. So let's see, right? If I click this, click this, click this. Harvard, you know, advertorial. Advertorial. Advertorial. What's funny is I think somebody sent me this advertorial yesterday, actually. And so...
+
+28
+00:14:24,270 --> 00:14:51,520
+I probably will swipe it sort of for my beauty brand later, right? But okay, cool. If I want those, I could just use a screen capture of them, or I can just copy and paste it even easier, right? Control A, Control C, and do Google Doc, do that, add to my advertorial swipe file. So it's really easy to have like an endless advertorial swipe file, just go different local news sites, maybe go incognito, because you will sort of get...
+
+29
+00:14:51,520 --> 00:15:21,620
+If you're clicking on a bunch of, like I did this as an example, I clicked on a bunch of hearing aid advertorials and then everything I was seeing was hearing aid. Right now I'm doing a lot of beauty for my beauty brand, so it might be why I'm seeing all of these. So you can go incognito, use a different browser, whatever, to see if you can get served different advertorials based on what browser you have. But this is how you can get a whole massive swipe file. So again, we'll do that more in a different video. Right now I want to stay fairly focused here. I kind of want to save these, but I am going to save them. Give me just a moment here.
+
+30
+00:15:22,480 --> 00:15:51,950
+Okay, cool. I saved those for myself. Now again, the habit of doing that too, by the way, right? If you see interesting stuff, just save them. I use Evernote sometimes. You can just use a Google Doc, Notepad, whatever it is, but just saving links. But I would also recommend typically copying, pasting, or doing a screenshot. I've been using this tool here, Markup Hero. You can kind of select a segment. You can scroll and do an entire page. You can do the visible tab. I think that's the least useful.
+
+31
+00:15:51,950 --> 00:16:23,220
+You can, you know, but I just think it's helpful, especially because these days with LMs, they have like machine, you know, the vision, right? So they can analyze pictures. So, I mean, I do like, I don't know, dozens of screenshots a day, at least dozens, right? But anyway, we've got, you know, our avatotos, which you're going to get in this training. You've got your quad project. So it's like now it's time to communicate with it, right? So,
+
+32
+00:16:23,470 --> 00:16:54,620
+It's pretty simple prompts, right? Here's a blank for a blank. Please analyze it, and then I want you to give me 10 potential hooks for advertorials we could write. There's also going to be separate trainings on hooks, but for now, let's let Claude do the magic. This is how I actually use it normally. Here's a landing page, or here's the landing page copy for a skincare product. Please analyze it. Give me 10 potential hooks for advertorials we could write. Here's a PDF.
+
+33
+00:16:54,620 --> 00:17:28,110
+with details for a new consumer device. Please analyze it. Give me 10 potential advertorials we could write. Here's a video sales letter script for a Airbnb arbitrage coaching program. Please analyze it. They'll give me 10 potential hooks for advertorials we could write. Okay. So basically prompt one is like you give it the document for analysis. You ask it to give you hooks.
+
+34
+00:17:28,180 --> 00:17:54,320
+We'll do this live in a minute. Two is like, okay, great. Once you pick a hook you like, can you write an outline for that? Give it a length you want, right? A blank length advertorial. I usually will add this in just to be safe because I don't want to reveal the price. Unless you do want to reveal the price. That's one of the reasons this is highlighted. Sometimes you might reveal the price in an advertorial, but often you won't. Cool, let's write the advertorial.
+
+35
+00:17:54,380 --> 00:18:25,840
+This is, to be honest with you, not needed. Claude finally does it when it runs out of space. You just push the button and say to keep going. But you can still use it. So I'll just show you what it looks like in action. But first, we need something to look at, right? So let's do that. So I saw an ad earlier today for this company, Norse Organics. Honestly, as you can see, it's got like 1,100 results. We had a really good static ad that hit me that that was interesting.
+
+36
+00:18:26,000 --> 00:18:57,420
+We talk about acne scars, get rid of acne, all these things, right? So these guys are just testing tons of creatives, they're testing statics, they're testing visuals. Our videos, they actually do more statics. It seems like only lately they've started trying to test more videos. So it's like, okay, it's pretty cool. So I don't know, this is probably gonna go to an advertorial, I would guess. But let's see, let's go ahead and click on it. No, I actually hate this font.
+
+37
+00:18:58,640 --> 00:19:37,900
+This one's for teens. Okay. I want to pay full price. That's not bad. I just want to see if there's other landing pages that aren't for teens. That'll be interesting to see too. Let's go to... No, they focus on acting for teens. Okay. No problem. Life-changing. I was very skeptical. Your little boy. I'm curious about this. What I'm curious about, you have to bear with me here, is that one where she was talking about her son, right? What about...
+
+38
+00:19:40,300 --> 00:20:11,860
+This clearly was a really winning piece of ad. We're not doing meta ads here, but I'll probably come back to this one for when I do the meta ads trainings. Do you see how often they're using this copy here? Clearly, this is a big winner for them. Oh my god. So much. It must have been a huge winner for them, right? By the fact, the amount of stuff they're doing here. Jeez Louise. That must have just really crushed for them, which is interesting, right? I would totally be swiping this. Oh my god.
+
+39
+00:20:13,940 --> 00:20:53,420
+It's crazy when you think about how it's like the same copy for so many ads. I try to do the meta ad module now to talk about this one. I have so many thoughts, but I don't want to go down a rabbit hole. I want to keep this kind of concise. It's weird saying your little boy deserves skin because it's only, I guess, it's just really targeted towards men. Okay, so it is what it is, but fine. Okay, now in the case of this, let's try copying the whole thing, control A.
+
+40
+00:20:54,740 --> 00:21:50,290
+Now I'm going to create a new Google Doc. Let's see. The formatting is like not great seeming, right? It's very visually heavy. I'm going to save it as a PDF. I'm going to find out, I mean, if the file is too massive for quad, then okay, we'll do something else. But let's try it as a PDF. So it's like a Norse Acne PDF. Okay. I'm going to download it. PDF document. Okay, it's downloaded. Let's go here and let's copy and paste this.
+
+41
+00:21:50,290 --> 00:22:27,520
+copy this prompt. Let's paste it into here. So here is a landing page copy for a acne product. I don't need to get more details than that. Please analyze. It can be 10 hooks. It'd be great for an aperture, right? Okay, cool. Now I'm gonna upload the PDF. One second. Okay, it's uploading. Hopefully this isn't like a massive file megabyte wise. If not, I might try to change it to be a less big file because there are a lot of images. Seems like it's okay.
+
+42
+00:22:27,520 --> 00:22:58,480
+It uploaded. Cool. First thing we want is 10 hooks. Now, one really important distinguish... Oh my God, I can't talk. One important distinction I would probably make is if I knew that angle about, I don't usually talk about this, blah, blah, blah, clearly it's a big banger for them. So I would probably consider one of the advertorials I do being really congruent with this.
+
+43
+00:22:58,480 --> 00:23:38,100
+right could probably do well for them frankly because like they tell this whole story and it goes to the page the page is kind of congruent but like could be better right so let's say you remark this we might come back to this okay but right now we gave it the advertorial give me 10 hooks that we could write okay i'm using claude for sound right now so claude's gonna do some magical thinking we're gonna hang out while it does it but claude ponder here's potential hooks
+
+44
+00:23:42,640 --> 00:24:35,660
+40 Years of Failure hook. The Hidden Acme Truth hook. The Viking Secret hook. This one's kind of interesting. This one clearly is very congruent with what they actually do. The Arctic Discovery hook. Scientists discovered these rare Arctic plants to start acne bacteria three times faster than prescriptions. The Ingredient Exposure hook. This one about this hormone-disrupting chemical. The Perforous Band hook. Axonal Discovery. Clinical Trial hook.
+
+45
+00:24:35,660 --> 00:25:50,060
+So I want to make sure anything that is going to be as congruent, so Norwegian researcher. So if I go look at this, is that part of the story? Let's see. So our foster was used by the Vikings. Okay, cool, right? Pores get clogged. Something's interesting. I'll dissect these guys a lot more later, right? All right, so super cool, super interesting. Does not have a Norwegian researcher thing directed as me. You can still use it as an advertorial. But because...
+
+46
+00:25:51,440 --> 00:26:24,940
+we know this is already winner anyway, or from an ad perspective, I'd probably start with that. I'd be like, look. So let's go ahead and take this one, right? Let's go ahead and do number blank. Let's assume we want a medium length advertorial. Okay, get my head up here a little bit. Number five first, can you write an outline for a medium length advertorial with that angle?
+
+47
+00:26:24,940 --> 00:26:59,920
+Now, usually this would be more than enough, and I almost don't want to show you, one hand I want to show you that this would be enough, but like one thing to bring up is that this type of story has worked really well in the brand's ads. I will copy and paste the ad caption here that you can.
+
+48
+00:27:01,900 --> 00:27:45,490
+Make the advertorial ruin with this story. Now let's go copy and paste that, right? Boop. Copy. Boop. Paste. Okay. All right. And we're having an outline first. Why do I like doing the outline? I like doing the outline because I want to see that... I want to make sure that I like the structure, frankly. That's not doing something really weird. It's not like... It's almost always fine. But just in case it's trying to...
+
+49
+00:27:45,490 --> 00:28:25,660
+It zigs and zags instead of being a point-by-point advertorial. So that is why, okay? So let's go ahead and do that. LaClaude do its magic again. Mom's shocked. She's face 90% clear in just one week after using this simple trick. It's a pretty good advertorial headline, right? Hook, 150 to 200 words. Opening scene, the bathroom discovery. Start with the mother hearing, quiet crying. I don't want to talk about it. For months, she's hearing my son crying. Emotional tension.
+
+50
+00:28:25,660 --> 00:28:54,180
+shower running to mask the tears, connecting with other parents, if you're a parent, you know that sound breaks your heart, agitation, the devastating impact, detail, the social isolation, no photos of parties avoiding mirrors, the most helplessness watching your child suffer, the failed medical journey, we tried it all, dermatologists, prescriptions, expensive routines, some treatments making it worse, financial costs, an emotional toll, the feeling of desperation every parent can relate to, transition I was running out of hope when I stumbled across something unexpected.
+
+51
+00:28:54,180 --> 00:29:27,890
+Dexmo found. I found Norse Organics by accident browsing online late at night. I don't know that we need to name the brand here. I'm probably going to let it go for now, but I'll come back to that potentially. Initial skepticism, internal debate, research in the company, Norwegian wild harvested approach versus chemical treatments. She decided to try it despite skepticism, the order processing, and anxious awaiting. The science behind it brief. Why most acne treatments fail.
+
+52
+00:29:27,950 --> 00:29:58,190
+Treat symptoms that cause, how clogged pores and bacteria create the cycle, why arctic plants work differently than chemicals, clinicals that show 95% success rate. I don't know if this was mentioned in, this is where you need to still use your brain. I want to make sure they had something about that on their landing page. No side effects, the miraculous transformation, day one to day two, day three, day seven. This is very common in landing pages, PDPs, and
+
+53
+00:29:58,190 --> 00:30:24,910
+Advertorials, like here's what happened right during this time structure. So it gives them a timeline that they can envision the prospect of like, wow, okay, this is what happened for me, right? It feels realistic, but it's still fast. That's why it's kind of valuable. The emotional moment of breakthrough, return to normal teenage life, mother's relief and gratitude, testimonies from other parents, focus on speed of results, emotional transformation, skeptic to believer stories, urgency and scarcity, why this might not last.
+
+54
+00:30:24,910 --> 00:30:53,010
+growing demand, big beauty industry pushback, limiting harvest windows for Arctic ingredients, recent media attention increasing orders, special pricing for readers won't last long, 60-day money-back guarantee, over 50,000 customers, clinical testing safety, blah, blah, blah, call to action, closing. It might end up being a little bit longer than I want, but I think overall it sounds good. Let me check on that 95% real quick here. Is there 95 anywhere on this?
+
+55
+00:30:55,790 --> 00:31:43,040
+Yeah, it was. Okay, cool. So it's taking it from their claims on their page. So now, I can, I honestly, you don't even really need this part. This used to be a really valuable prompt component for like LLMs. It still is for some LLMs, but again, Claude generally just kind of keeps going. So I'm just gonna put simply, perfect, let's go ahead and write this advertorial now. Hopefully you're kind of like, wow, this is super cool. I mean, a lot of you probably are using Claude and things like that, but for anyone who's not, like, you know.
+
+56
+00:31:43,040 --> 00:32:28,780
+It is pretty cool. Alright, so I was going to write this. I don't talk about this much, but for months I used to hear my son cry quietly in the bathroom at night. He thought I couldn't hear him. He waited until the shower was raining so I wouldn't know, but I knew every night broke my heart. If you're a parent, you know that sound. The muffled sobs of your child doesn't hope. The quiet desperation they think they're hiding from you is the worst sound on the road. My 16-year-old son, Jacob, had been battling severe acne for over two years. It started as a few pimples that turned into something that was stealing his childhood right before my eyes. It's a great copy. So good.
+
+57
+00:32:28,780 --> 00:32:59,250
+The heartbreak no parent should endure. He wouldn't let me take photos of him anymore. Family gatherings became torture sessions where he'd hide in his room. Birthday parties, forget it. He stopped getting invited because he always said no. The worst part was watching him avoid mirrors. This confident, funny kid who used to make faces at himself getting ready for school, now he'd brush his teeth looking down at the sink. His grades started slipping. He quit the soccer team. His friends stopped coming around. As his mother, I felt completely helpless. Every night, I'd lie awake wondering what was I doing wrong. Was it his diet, his pillowcase, or were we not clean enough too much?
+
+58
+00:32:59,250 --> 00:33:26,210
+when medicine fails you. Don't, you know, okay, so better, but we tried everything the doctors recommended. First, it was the drugstore cleansers. When those didn't work, we graduated to the prescription topical creams and the oral antibiotics. Each dermatologist's visit cost us $200 and we were going monthly. Some treatments made it worse. The benzoyl peroxide burned his skin so badly he looked like he had a chemical burn. The antibiotics gave him stomach problems and mood swings. This did absolutely nothing except drain our bank account.
+
+59
+00:33:26,210 --> 00:33:51,420
+After 18 months and over $3,000 spent, we were exactly where we started, except now Jake was more hopeless than ever and I was running out of answers. Maybe this is just how I'll always look, he told me one evening, and I had to excuse myself to cry in the laundry room. The discovery that changed everything. I found Norse Organics completely by accident. It was 2 a.m. and I was doing what desperate mothers do, frantically googling severe teen acne natural treatment for the hundredth time. I'd already bookmarked dozens of articles and forum posts, but nothing had led anywhere.
+
+60
+00:33:51,420 --> 00:34:18,290
+That's when I stumbled across a review that stopped me cold. A mother from Texas was describing her 15-year-old daughter's transformation in just two weeks. The photos were incredible. Angry inflamed skin that had cleared to a healthy glow. But here's what caught my attention. She said the same thing I was thinking. I thought these reviews were fake. They had to be. Results as fast seemed impossible. I spent the next three hours reading everything I could find. Story after story of teenagers getting their confidence back. Parents crying tears of joy instead of heartbreak. But I was skeptical. After so many disappointments.
+
+61
+00:34:18,290 --> 00:34:42,880
+How could some balms from Norway be the answer when prescription medicine had failed? Why most acne treatments actually make things worse? What I learned next shocked me. Most acne treatments, including the ones we've spent thousands on, only attack the surface symptoms. They dry out your skin, kill both good and bad bacteria, and create a cycle where your skin overproduces oil to compensate. It's like putting a band-aid on a broken pipe. You might hide the problem temporarily, but you're not fixing anything. The real issue is deeper.
+
+62
+00:34:42,880 --> 00:35:12,610
+When your pores get clogged with excess oil and dead skin cells, it creates a perfect environment for acne bacteria to multiply. Most treatments either skip your skin so harshly that it rebounds worse than before, or they're too gentle to actually clear the blockages. But Norse Organics works differently. Their products are made from wild harvested plants that survive in the harsh Arctic conditions of Norway. These plants have developed incredibly powerful natural compounds to protect themselves, compounds that can break through clogged pores and eliminate acne bacteria without destroying your skin's natural balance. In clinical studies,
+
+63
+00:35:12,610 --> 00:35:42,480
+95% of users saw their acne clear within 60 days. But what really convinced me were the stories and results in just the first week. No harsh chemicals, no prescription side effects, just pure natural healing that works with your skin instead of against it. The moment that changed everything. I was desperate, so I ordered the complete acne killer system. When I arrived two days later, I'll admit I was nervous. Jake had been disappointed so many times before. What if this was just another false hope? By the way, if you're thinking this is pretty long, it is, but the copy's very good. But also, after we finish going through this one,
+
+64
+00:35:42,480 --> 00:36:10,300
+I'm going to say, hey, let's do a 50%, a version that's 50% as long, or like half the length, basically, right? So let's keep going through this one first. The routine was surprisingly simple. Just three steps twice a day, a gentle cleanser, the acne-fighting balm, and a light moisturizer, all made from those powerful arctic plants. Jake was skeptical too, but he agreed to try it. What's the worst that could happen, mom? It doesn't work like everything else. Day one, we started the routine. Jake's skin looked the same, which I expected.
+
+65
+00:36:10,300 --> 00:36:37,950
+Day two, still the same, I started to worry we'd been fooled again. Day three, I was making breakfast when Jake came downstairs. Something was different. The angry redness that had been constant for months, it was calmer, noticeably calmer. Mom, he said quietly, my face doesn't hurt when I touch it. Day seven, the swelling had faded. Those painful deep cysts that had been dominating his jawline were flattening out. His skin looked smoother than it had in two years, but the real moment, the one that still makes me cry thinking about it, happened on day 10. I walked past the bathroom and saw Jake smile at himself in the mirror. He smiled.
+
+66
+00:36:37,950 --> 00:37:07,660
+After two years of avoiding his own reflection, my son was looking at himself and smiling. The transformation continues. Three weeks later, Jake's skin was 90% clear. The few remaining spots were tiny and fading fast. But the real transformation was his spirit. He joined a new club at school, started hanging out with friends again, even asked the girl at a homecoming, something I never thought I'd see. Last week, he asked if we could take a new family photo for Christmas cards. I don't care what the science says or what other brands promise. This is what worked for us. No side effects, no chemicals that burned his skin. Just gentle, natural healing that gave me my son back. What a solution almost didn't exist.
+
+67
+00:37:07,660 --> 00:37:37,100
+Here's something that really opened my eyes. Norse Organics almost didn't make it to market. These arctic plants can only be harvested during specific seasons and only in small quantities to protect the environment. The traditional skincare industry doesn't want solutions like this because they can't mass produce them in factories or add cheap filler ingredients. Big beauty companies have spent millions convincing us that we need harsh chemicals and complicated routines. They profit when treatments sort of work but don't actually cure the problem because that keeps you buying forever. But Norse Organics is different. It's a family-owned company that wild harvests their ingredients from the same Norwegian mounds that their ancestors did.
+
+68
+00:37:37,100 --> 00:38:01,680
+They're not trying to compete with commercial skincare. They're trying to preserve ancient knowledge that actually works. The problem is they can only make limited quantities each year, and with more parents discovering how well this works, they're constantly selling out. What other parents are saying, I'm not the only mother who experienced this miracle. This says written testimonials. Frankly, I'd probably just do visual pictures and something like this, because I kind of like what they have on their website, because I wouldn't want the copy to go so long.
+
+69
+00:38:01,680 --> 00:38:30,960
+But, you know, they're good little testimonials. My daughter's cystic acne was so severe, she was becoming depressed, three weeks with Norse Organics, and she's a different kid. The confidence is back, social anxiety is gone, I can't thank them enough. Right? So, it writes good placeholder testimonials, but like, you know, to be compliant, you would obviously want to put real testimonials, pictures of people, testimonials, whatever it is. Why do you need to act now? I'm sharing this story because I know there are other parents out there hearing their children cry in bathrooms, watching their kids with confidence, feeling helpless like I did.
+
+70
+00:38:31,090 --> 00:39:00,770
+But here's what you need to know. North Organics is facing the same supply chain challenges that almost kept me from finding this solution. They can only harvest, it's a little repetitive here, they can only harvest these arctic plants during specific seasons. The wild nature of these ingredients means they can't just order more from a factory when they run low. And with word spreading about how well this works, they've been selling out faster than ever. Just last month, they had a two-week waiting list because demand exceeded their supply. Plus, the major skincare companies are taking notice. When a small Norwegian company starts threatening their billion-dollar industry with actual results, you can bet they're not happy about it.
+
+71
+00:39:00,770 --> 00:39:30,240
+Risk-free for desperate parents. Here's what convinced me to try North Organics when I was skeptical about everything. They offered a complete 60-day money-back guarantee, not 30 days with most companies, a full 60 days. Use the entire system. If your child doesn't see dramatic improvements in their skin and their confidence, send it back for a complete refund, no questions asked. They can make this guarantee because they know it works. Over 50,000 families have used their system and 96% report their teenagers regaining their confidence within 30 days. As one mother put it, finally, a company that cares more about results and profit. Special opportunity for parents.
+
+72
+00:39:30,240 --> 00:39:53,020
+Because Norris Organics knows how desperate parents can feel, and because they want to help as many families as possible, they're offering a special discount for readers of this article. Instead of paying the full retail price, parents can save up to 40% on the complete acne killer system, but only through this special link and only while supplies last. This isn't available in stores, and it's not the price you'll find on the regular website. It's specifically for parents who've read the story and recognize their own family's struggle.
+
+73
+00:39:53,020 --> 00:40:22,100
+This system includes everything you need, the gentle cleanser, the powerful acne fighting balm, and the healing moisturizer, all made from those same wild arctic plants that transformed Jake's skin. Don't let your child suffer another day. If you're a mother or father watching your child struggle like I watched Jake struggle, please don't wait. Don't let them spend another night crying in the bathroom thinking you can't hear them. Don't watch them miss another birthday party, avoid another photo, or lose more confidence while you wait for the perfect solution. This is what worked for us. This is what worked for thousands of other families, and it could work for yours too. Your child deserves to smile at their reflection again.
+
+74
+00:40:22,100 --> 00:40:48,560
+They deserve to feel confident in their own skin. They deserve to be a teenager without the burden of severe acne stealing their joy. Norse Organics, give me my son back. Let them give you your child back too. The worst that can happen is that it doesn't work and you get your money back. But the best that can happen, the best that can happen is everything. Again, maybe we're going to do copy-cheaping in other modules. You know, little things that might change like this. It's okay. Just a little bit overdramatic. Click here to claim your family's 40% discount, limited time, succeed.
+
+75
+00:40:48,560 --> 00:41:19,730
+day money-back guarantee, free shipping, secure checkout, okay? So overall, I don't know what you think, I think it's pretty great. I think it's really good overall. You can tell Cloud that, right? So I'm gonna say this is, sorry, this is great, really nice job. Can you now do another version of this advertorial that retains the main structure and elements, but that's...
+
+76
+00:41:19,860 --> 00:41:54,260
+50% shorter. I'm going to say about 50% shorter. So I can have a less lengthy version to also test. Okay, so that's good because it's long, it's good, but like we'd like to test stuff or we want to compare, right? And it might be, I personally think that could work, but I still think, you know, sometimes perhaps
+
+77
+00:41:54,260 --> 00:42:37,570
+For sure, one's going to be better. We just want to go to test options, right? Super fascinating, right? So same headline. It's got the same copy elements, it's just much punchier, right? I don't talk about this much, but for months I used to hear my son cry quietly in the bathroom at night. He thought I couldn't hear him. He'd wait until the shower was running so I wouldn't know. But I knew, and every night it broke my heart. My 16-year-old Jake wouldn't let me take photos of him, wouldn't go to birthday parties, wouldn't even look in the mirror. His severe acne had stolen his confidence completely when everything else failed. We tried it all. Dermatologists, prescriptions, expensive routines.
+
+78
+00:42:37,570 --> 00:43:01,460
+Some things made it worse. Others did nothing at all except drain our bank account. After 18 months and over $3,000 spent, we were exactly where we started. Except now, Jake was more hopeless than ever. Maybe this is just how I always look, he told me one evening. That's when I knew I had to find another way. The accidental discovery. I found Norse Organics by accident while desperately Googling at 2 a.m. I read their views and thought they were fake. They had to be. Results as fast seemed impossible after so many failures. But I was desperate, so I ordered.
+
+79
+00:43:01,460 --> 00:43:31,500
+Here's what I learned. Most acne treatments only attack surface symptoms. They strip your skin so harshly that rebounds worsen before creating an endless cycle. Norse Organics was different. Their wild harvested arctic plants break through clogged pores and eliminate acne bacteria without destroying your skin's natural balance. In clinical studies, 95% of users saw their acne clear within 60 days. The transformation. The routine was simple. Three steps twice a day. Got, you know, day three, day seven, day 10, right? So we have these things. Whoopsie. Oh, fuck. I don't know what I just pressed.
+
+80
+00:43:32,270 --> 00:44:02,690
+Smile himself, he smiled. After two years, smile, I kept this emotional part, which I like. Three weeks later, his skin was 90% clear, but the real transformation was his spirit. He joined new clubs, started hanging out with friends again, even asked to grow at a homecoming. Why it didn't exist? Same idea here, right? What their parents are saying. Could probably still do some, it's got two testimonials, you could still do screenshots. Risk-free solution. Still got the kind of guarantee, 50,000 families, all that kind of stuff. Special opportunity, you can get 40% off. Only available while supplies last. Don't wait.
+
+81
+00:44:02,690 --> 00:44:37,300
+Don't let your kid cry. It might change everything like it did for us. Here's a discount. So perfect, right? Which is really cool. And that's something to keep in mind too, right? I've been saying this for years now, but with AI, it's like, you know, you're still the boss for now. So when you see something long, you're like, well, it's good, but it's too long. It's like, I told you to do a shorter version. You know what I'm saying? Okay, sweet. Now remember, this was just one angle, right? They gave us these different ones here.
+
+82
+00:44:37,300 --> 00:45:16,860
+So like for example, let's do the arctic discovery just to see one more example real quick. Great job. Now let's do hook number six, the arctic discovery. For this let's make, let's keep shorter, the short version of the advertorial you just did.
+
+83
+00:45:16,860 --> 00:45:53,300
+Still have the target audience be parents of kids. I'm going to say frustrated parents. Frustrated parents of kids with acne, but incorporate this discovery. Actually, I'm just going to keep it with kids with acne. All right. So let's see how this one comes out. And then I'll show examples from probably like a biz op niche since this was sort of like a consumable topical.
+
+84
+00:45:53,490 --> 00:46:24,960
+And, you know, it'll be good. I may include more examples. Actually, I might show you one other thing beyond that. Okay, scientists discovered these rare arctic plants destroy acne bacteria three times faster than prescriptions. New research from Norway reveals why Big Pharma doesn't want you to know about this natural breakthrough. I might do, like I said, Big Pharma, like, you know, big skincare companies. Because, you know, you better. Dr. Erica Johansson was studying plant survival in the Norwegian Arctic when she made a discovery that would change acne treatment forever.
+
+85
+00:46:24,960 --> 00:46:53,070
+While researching how certain plants survived temperatures of minus 40 degrees and months without sunlight, he noticed something remarkable. These plants produced incredibly powerful antimicrobial compounds, far stronger than anything he'd seen in traditional medicine. What we found defied everything we thought we knew about natural skincare. Dr. Johansson told our research team, these other plants weren't just surviving. They were thriving conditions that would kill any other organism. The breakthrough that shocked researchers. When Dr. Johansson's team tested these plant extracts against acne bacteria in the lab,
+
+86
+00:46:53,070 --> 00:47:22,270
+The results were so dramatic they had to repeat the experiment multiple times. The arctic plant compounds eliminated acne bacteria three times faster than benzoyl peroxide, the gold standard of prescription acne treatment. But unlike harsh chemicals, these natural compounds did it without damaging healthy skins. But you can't believe the data, said Dr. Johansson. These plants were outperforming pharmaceutical drugs that took decades and millions of dollars to develop. The secret that these arctic plants have spent thousands of years developing the most powerful natural defense systems on earth they had to, it was adapt or die in one of the plant's harshest environments.
+
+87
+00:47:22,270 --> 00:47:47,180
+why your teen's acne keeps coming back here's what most parents don't know prescription acne treatments work by essentially carpet bombing your teen's skin with chemicals yes they kill acne bacteria but they also destroy the good bacteria that keeps skin healthy this creates a cycle where your teen skin becomes dependent on the other treat on the treatment and acne returns worse than ever when they stop it's like burning down a forest to kill the weeds you might solve the immediate problem but you're just you've destroyed the entire ecosystem these arctic plants work differently they've selectively
+
+88
+00:47:47,180 --> 00:48:11,520
+They selectively target only the harmful bacteria while actually strengthening your skin's natural defenses. That's why TNT lasting results set the endless cycle of dependency. Real results from desperate parents. When word got out about Dr. Johansson's discovery, desperate parents started seeking out these arctic plant extracts. Some testimonials again. The supply problem. Here's the challenge. These specific arctic plants can only be harvested during a narrow window each year and only in certain regions of northern Norway.
+
+89
+00:48:11,520 --> 00:48:36,850
+The pharmaceutical industry has taken notice of Dr. Johansson's research, but they can't replicate these compounds in the lab. Nature's complexity can't be mass-produced in a factory. That's why only one company, Norse Organics, has secured the rights to harvest these plants sustainably. They work directly with Dr. Johansson's research team and local Norwegian harvesters who have been gathering these plants for generations. Big Pharma's worst nightmare. A treatment that actually works long-term is the pharmaceutical industry's biggest fear. They profit from treatments that kind of work but keep customers dependent forever.
+
+90
+00:48:36,850 --> 00:49:05,310
+Dr. Johansson's arctic discovery threatens billions in revenue from prescription acne treatments. These natural compounds don't just clear acne. They break the cycle of dependency that keeps teens struggling for years. We've received pressure to limit our research. Dr. Johansson admits certain companies would prefer these findings stay buried. Clinical proof. The research speaks for itself. 95% of users saw significant improvement. Data heroine. Compared to prescription treatments, 40% of users relapse within 60 months. And side effects include depression, birth defects, and liver damage.
+
+91
+00:49:05,310 --> 00:49:36,140
+Limited access for families. They made it available to families. Here's the cash. They're going to produce limited quantities. Right now they're offering their system for 45% off the regular price. Each system contains enough for a full 60-day treatment. I don't know if that's true. I would double check that. Risk-free for skeptical parents. Don't let the pharmacy school companies win. Blah, blah, blah. Okay. I think here we're talking about a 90-day guarantee. I think previously I thought we said there was a 60-day. Let's go look at the guarantee.
+
+92
+00:49:51,600 --> 00:50:27,020
+there's a 60-day guarantee yeah okay so again this is really attention to detail right um so for this one great job a few things instead of speaking specifically about big pharma let's talk about big skin care companies instead we can still also reference prescriptions don't want the whole bean
+
+93
+00:50:27,500 --> 00:51:22,930
+focused on anti big pharma um next let's make this 25 about why do i say about because i don't want to like it has to be 25 and it could be better if it was 24 or 26 i'm gonna say about let's go about 20 shorter shorter um third is a 60 day guarantee fourth okay here's another thing go back to attention to detail uh i want a little
+
+94
+00:51:22,930 --> 00:52:10,220
+more congruency between discovering these plants and the decision to test them against acne bacteria. So basically we have this section here. I think what's missing is something like Dr. Johansson. When Dr. Johansson saw the incredible
+
+95
+00:52:10,220 --> 00:52:41,040
+antimicrobial power of these plants, he immediately thought about acne. Let's go ahead and perhaps even say that's because his own teenage sons both suffered from severe acne and nothing they tried worked. Right, so I mean how do I do that if I'm trying to teach copywriting and it's sort of like common sense?
+
+96
+00:52:41,170 --> 00:53:09,140
+Like I'm gonna have another module on sort of the best habits of really good copywriters and one was sort of attention to detail. And it's also like third, like entering a dissociative state, meaning you're sort of disconnecting like from the copyright. If you were like a third party reading it, would you ask, would you be like, hmm, like, well, why would he, like, what objection would you have? Right? Like, why would he find these plants and immediately go test on acne bacteria? It's like, well, here's the answer. Okay.
+
+97
+00:53:09,140 --> 00:53:46,420
+Now, obviously, this one's sort of like a made-up story. You can figure out ways when you're doing these to ensure anything that you have is congruent, truthful, whatever it may be. Or, you know, it's an editorial, so you can kind of not, but you'd have to say, you know, hey, this is like a sort of made-up story or composite story, whatever you want to do, right? But for now, let's just show you how this stuff works, right? So there's that feedback, okay? So let's see. Yeah, let's keep it there. Because I think it was a little bit longer.
+
+98
+00:53:46,420 --> 00:54:55,980
+Again, it's not bad that it's long, I just think it would be better if it was like, maybe it was a little bit longer than it needed to be. And by the way, it'll still have this old version when you scroll up that was longer, but now it's going to be the short version, so it's going to edit for us, right? Okay, Dr. Eric Johansson was studying plant survival and then, oh, okay, we'll finish editing. Okay, so my headline, Dr. Eric Johansson was studying plant survival in the Norwegian Arctic when he made a discovery that would change the acne treatment forever.
+
+99
+00:54:55,980 --> 00:55:26,660
+While researching how certain plants survive temperatures of negative 40 degrees Fahrenheit in months without sunlight, he noticed something remarkable. These plants produce incredibly powerful antimicrobial compounds, far stronger than anything he'd seen in traditional medicine. Here's what made, you know, I think we can make this a better transition, but for now. Here's what made Dr. Johansson immediately think about acne. Both of his teenage sons were suffering from severe breakouts, and nothing they tried was working. Expensive dermatologist visits, prescription treatments, every product this concur industry promised would help. All failures.
+
+100
+00:55:26,660 --> 00:56:13,330
+When I started antimicrobial compounds, I thought about my boys struggling with their confidence every day. Dr. Johansson told our research team, well if nature had already solved this problem thousands of years ago. What I would do is add it here, I'll just go ahead and share. I would probably take this quote and put it up here. And then I would take this part, put it underneath the quote, and be like, you know, I'd just be like, I thought about my boys struggling, you know.
+
+101
+00:56:13,330 --> 00:56:47,200
+about my teenage sons who both struggled with severe acne and how these issues were ruining their confidence, you know, had really completely destroyed their confidence, he told our team. What if, literally, we solved this problem thousands of years ago? Then I'd be like, you know, this problem felt extra urgent for Dr. Johansson because despite spending thousands of dollars on both prescription and over-the-counter treatments, his son's severe breakouts,
+
+102
+00:56:47,200 --> 00:57:16,300
+continued uh kept getting worse and worse um and you can still have this line right so that's how i would edit this part i'll you know i'll include an edited version here maybe with the breakthrough where exactly keeps coming back real results from desperate parents it's planning to be pushed back so i made the rest of it just shorter and punchier right so again we're talking to other trainings about why to select different lengths but that's how i do this let's go ahead and i'll show you how i would edit this because i just said it so
+
+103
+00:57:23,630 --> 01:00:03,220
+I don't, I mean, I would add the headline to you. I'm not going to do that one in this call, or in this call, in this training. So I'm going to do 150 for you. My boys, acne, potential use case for thousands of dollars on and solutions, yet breakouts kept getting worse.
+
+104
+01:00:03,220 --> 01:00:27,500
+Okay, so that's how I would edit this part. It's probably the only part that really needs to be edited. But to me, now it feels congruent and it just reads better. And again, we'll do other modules on full CopyJP. Okay, but that's how I would edit this so you can just see it in real time. All right, I'm going to be pausing and I'll come back and show a couple other examples in the video and I'll show you, well yeah, do that next. All right.

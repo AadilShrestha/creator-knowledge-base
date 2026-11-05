@@ -1,0 +1,535 @@
+1
+00:00:00,430 --> 00:00:30,060
+Hello again. Alright, so in this video we're going to be looking at that same mechanism generation process we did previously, but for the peptide space. So the kind of UMP idea generation, and then we will save unique mechanisms that we like, have different LLMs evaluate them, and kind of decide which one to go for. So the same thing we did with
+
+2
+00:00:30,320 --> 00:00:59,900
+the Airbnb example, okay? So, same kind of prompt, right? Today I want your help coming up with this many unique mechanism ideas for a product in the skincare space. Let me just say, you know, as possible for a product. A specific product is a peptide eye serum. I have attached a research brief, right? That's your universal research document, whatever we call it. Expression of the mechanism.
+
+3
+00:00:59,900 --> 00:01:29,760
+For this exercise, let's specifically focus on people in the market who are solution-aware. So if you go back to the product-market-oriented thing that I just keep talking about, we kind of had agreed that for this market, pretty much the way I viewed it, especially everyone who is problem-aware, is also solution-aware.
+
+4
+00:01:29,760 --> 00:02:00,750
+Kind of like the way Gemini did this here is like where they fall into like the mix. But essentially, if you're solution aware, then you're also problem aware, obviously, right? And a lot of them are also product aware and most aware. But, you know, in our case, solution aware was looking for rye creams, all that kind of stuff, not specifically looking for peptide stuff. It's probably where the biggest segment is. Makes the most sense to go for them. That's why we are going for that demo, right? I don't know what the hell I have going on there.
+
+5
+00:02:01,620 --> 00:02:35,150
+So the other thing I did though, if I'm doing this for a supplement or in this case, a skincare eye cream, additionally, I've included a list of product ingredients for your consideration. Here is the list, right? Go ahead and get started now. So I did this in a few different places. I did it with, sorry, that's the whole thing there. First, I did it with Gemini Deep Research.
+
+6
+00:02:35,980 --> 00:03:06,930
+And, spoiler, it again was definitely my favorite, but I'll show you in several LMs. I am not, for this one, going to read through all of its sort of preamble, like I did in Airbnb Arbitrage. Watch that one if you want to kind of see that entire journey with me. Well, this is a summary of things that we've found out through research, through psychographic research, comparative research, problem market.
+
+7
+00:03:06,930 --> 00:03:39,980
+market, you know, product awareness research, all of that. Okay, so I'm kind of skipping through all this to where it starts giving me specific mechanism concepts, okay? So let's get to those. Section two, unique mechanism concept one, the dermal disarray realignment. Now, you may say, cool, or you may say dermal disarray realignment, that sounds kind of made up. I don't know about that. That's how I feel. When I personally look at it, I'm like,
+
+8
+00:03:39,980 --> 00:04:04,340
+Durham will disarray realignment. However, we're not idiots. So because we're not idiots, we have the power to abstract out and go, maybe the mechanism is still good and the name they gave it is just bad, right? And because we're all smart people here, we're not going to just sort of dismiss this because of the name. Because guess what? We could always change the name.
+
+9
+00:04:04,430 --> 00:04:20,850
+I don't mean that to be like, it came out more cynical sounding than I meant for it to. It just is a pet peeve of mine, I think, where someone, oh, I don't like that name. Now I'm dismissive about it, right? It's like, well, let's see what they have to say. Okay, the problem. Dermot disarray the hidden structural chaos.
+
+10
+00:04:20,850 --> 00:04:48,880
+For years, the prevailing narrative sold to this consumer has been one of simple collagen loss. She has been told that her skin is wrinkling and losing firmness because this crucial protein is depleting with age. This explanation, however, is incomplete and fails to account for why the numerous collagen-boosting products she has tried have proven inadequate. The real, more insidious problem is not just loss but disorganization. The underlying issue is a state of dermal disarray where her existing collagen fibers have become tangled, weakened, and chaotic.
+
+11
+00:04:48,880 --> 00:04:55,630
+Instead of a strong tightly woven mesh providing firm support, her dermal structure has devolved into a disorganized tangle.
+
+12
+00:04:55,760 --> 00:05:19,100
+the structural chaos is what allows the skin to fold into permanent wrinkles and loses youthful tautness this can be visualized using the analogy of a tent her previous solutions were like trying to patch small holes in the tent's fabric addressing collagen loss but the real problem is that the tent poles have collapsed and become jumbled and jumbled disarray no matter how perfectly the fabric is patched the tent has no structure and cannot stand firm the feeling of
+
+13
+00:05:19,100 --> 00:05:48,160
+Skin losing its snap and lines becoming permanently etched is far better described by this kind of catastrophic structural failure than by simple depletion. But if finding the problem as dermal disarray, we create a new knowledge gap and position our solution as uniquely equipped to address this previously undiagnosed issue. The solution to dermal disarray is not to crudely attempt to pump more material into a collapsed structure, but to restore its architectural integrity.
+
+14
+00:05:48,160 --> 00:06:14,540
+This is achieved through a two-part system that reestablishes order and provides the precise materials for reconstruction. The biotensegrity signal, dipalmitol hydroxyproline. The primary hero ingredient, dipalmitol hydroxyproline, is introduced not as a generic peptide but as a biotensegrity signaling molecule. Its specific function is to command the skin's own machinery to correct the chaos.
+
+15
+00:06:14,540 --> 00:06:40,370
+It works by stimulating the contraction of existing collagen fibers, effectively pulling the tingle network taut and restoring its organized, strong, and resilient structure. This process actively firms the tissues and helps optimize the arrangement of collagen fibers. To ensure this critical signal reaches its target, DPHP is chemically modified with palmic acid, a fatty acid that increases its lupheolic lipo.
+
+16
+00:06:40,370 --> 00:07:09,170
+allowing it to penetrate the skin's lipid layers and work deep within the dermis where the disarray exists. The smart materials, amino acids. Once the command to rebuild has been issued, the skin needs the right building blocks on site. We've got these amino acids. There's a protective shield with DHPH, which also acts as a guardian. Okay. So what do I think of this mechanism? Eh. It's okay. It's not bad. I'm going to save it. It's good enough that...
+
+17
+00:07:09,300 --> 00:07:38,190
+You could use different names. You could put it into Claude or somewhere and say, hey, yo, here's the mechanism for this eye serum. I think it's a little confusing. How could we simplify it? What are three different ways we could explain this using different metaphors and analogies? Three different ways we could explain this to somebody, right? Essentially, maybe said in a different way. This makes sense. As it sounds, it feels a little bit technical. So while I'm going to save it.
+
+18
+00:07:38,190 --> 00:08:08,660
+it is not my it's just a lot of the biotensegrity all these sorts of things it's a lot right doesn't mean it couldn't be something that makes sense so we're going to put it into our little document where we take the example just like the last thing we take mechanism uh outputs we like we're gonna put it here okay the chronic dehydration debt and the hydro magnetic lock so again i'm just gonna say as a universal i wouldn't worry about nicknames always sometimes they're great like i really like some of them for airbnb
+
+19
+00:08:08,660 --> 00:08:24,350
+Sometimes it may not be great, but we can change the names, right? That's not the end of the world. Okay, the problem. Chronic dehydration debt, a crisis of retention. A tight, papery, and creepy texture that plagues the delicate under-eye skin is not simply dryness. It is a symptom of a much deeper, more persistent issue.
+
+20
+00:08:24,350 --> 00:08:53,180
+Chronic dehydration debt. Over years, hormonal shifts, particularly during perimenopause and menopause, and cumulative environmental damage have systematically destroyed the skin's natural moisture anchors. The carbohydrate complexes within the stratum corneum that are part of the natural moisturizing factor, NMF. I do like moisture anchors. I think that's an interesting concept. So note that right now. I like moisture anchors. This explains why standard hydrators, including the widely touted hyaluronic acid, have provided only fleeting relief.
+
+21
+00:08:53,180 --> 00:09:19,460
+These ingredients act like a temporary cash infusion for a business with no bank account. They draw moisture to the skin's surface, creating a temporary plumping effect. However, because the skin's moisture anchors are broken, this water cannot be held. It quickly evaporates into the atmosphere through a process called transepidermal water loss, leaving the skin just as dehydrated or even more so. A few hours later, a few hours later. In low humidity environments, standard hyaluronic acid can even accelerate this step by pulling moisture from the deeper levels of the skin up to the surface.
+
+22
+00:09:19,460 --> 00:09:48,940
+where it is then lost. The cycle of temporary hydration followed by rapid evaporation perfectly explains the trial and error of exhaustion with moisturizers that promise much but deliver little lasting effect. The solution, the hydromagnetic lock system. To truly solve the chronic dehydration debt, the skin needs more than just a temporary infusion of water. It needs its fundamental ability to retain water restored. This is accomplished with a sophisticated two-level hydration system that both locks in moisture at the surface and replenishes it from deep within. The lock, saccharide isomerate.
+
+23
+00:09:48,940 --> 00:10:00,990
+isomerate the revolutionary ingredient saccharide isomerate is positioned as the hydromagnetic lock this plant-derived carbohydrate complex has a unique molecular structure that makes the skin's own mnmf
+
+24
+00:10:00,990 --> 00:10:23,780
+but with a crucial difference. It forms a powerful covalent bond with the keratin in the skin's outermost layer. This bond is so strong that it acts like a magnet for water, and critically, it cannot be washed away. By attaching itself to the skin, saccharide isomate creates a long-lasting moisturized wire that delivers continuous hydration for up to 72 hours. It doesn't just add water, it fundamentally restores the skin's ability to hold onto it, effectively reinstalling the moisture anchors that were lost.
+
+25
+00:10:23,780 --> 00:10:53,070
+Poot 2. Painting the deep debt. Sodium hyaluronate. Working in perfect synergy with the surface lock is sodium hyaluronate. While often marketed interchangeably with hyaluronic acid, it possesses a key structural advantage. A much smaller molecular size. The smaller size allows it to penetrate through the skin barrier and reach the deep layers of the dermis, something standard high molecular weight hyaluronic acid cannot do. While saccharide isomerate is locking down the surface, sodium hyaluronate is traveling...
+
+26
+00:10:53,070 --> 00:11:22,610
+deep to replenish the depleted hydration reserves from within, effectively paying off the debt at its source. This two-pronged approach creates a complete hydration solution that is logically superior to anything she has tried before. It addresses both the symptom, surface dryness, and the root cause, inability to retain water, ensuring both immediate visual clumping and deep long-term restoration of the skin's hydration system. All right, so what about this one? I like it. Again, I don't necessarily love the names. I like the idea of moisture anchors a lot.
+
+27
+00:11:23,410 --> 00:11:55,550
+I wonder about the sort of specific issues of fine lines, wrinkles, those sorts of things. Like, I think this is good for hydration and glowing skin. I don't know that it really addresses some of those deeper problems or pain points. So I like it. Those are my objections. I'm going to add this one to our list. And we're going to keep going. All right, next up, the Elastase Cascade Neutralizer. Again, these names are not...
+
+28
+00:11:55,550 --> 00:12:22,210
+Good for actual copy. Imagine, why are they not going to think about it? If you're talking to your mom or your woman in that age range, by that age range, really anything, like 30 to 80, someone's like, oh yeah, it's an elastase cascade neutralizer. You'd be like, what the fuck are you talking about, right? So the names aren't good, but that's okay. For us internally, fine. The problem, the elastase cascade, the invisible thief of firmness.
+
+29
+00:12:22,210 --> 00:12:36,450
+The appearance of crow's feet and the loss of firmness around the eyes are often presented as a passive consequence of aging and repetitive facial expressions. The truth is far more aggressive. These signs are the result of an active, ongoing attack orchestrated by a hidden villain, a destructive enzyme called elastase.
+
+30
+00:12:36,450 --> 00:13:04,940
+The elastase cascade is a relentless, invisible process where this enzyme systematically seeks out and severs the skin's elastin fibers. The protein network is responsible for the skin's elasticity and snapback quality. Every time elastin is broken, the skin's ability to rebound from expression is diminished, allowing fine lines to become permanently etched into the skin. Most firming creams fail because they focus exclusively on building collagen while completely ignoring the active demolition of the elastin network. This is akin to hiring a construction crew to build a house while a demolition team is still actively working on the site.
+
+31
+00:13:04,940 --> 00:13:33,230
+Any new structures are compromised before they are even completed. This explains why results from many firming products are minimal, temporary, or non-existent, and why her skin continues to lose its resilience despite her best efforts. By naming this specific enzymatic enemy, we create a new knowledge gap and introduce a problem that her previous products were not designed to fight. The solution, the elastin-guardian complex. So we need to basically guard against elastin loss, okay?
+
+32
+00:13:33,490 --> 00:14:04,180
+I think, again, frankly, okay. Not mind-blowing, but okay. Alright, next one. The oxidative depletion loop. When defenses fail. The consumer is familiar with the concept of free radical damage. However, the generic term fails to capture the systemic crisis occurring in our skin. The real problem is a self-perpetuating downward spiral called the oxidative depletion loop.
+
+33
+00:14:04,180 --> 00:14:33,740
+This would be the name I like the most so far because it sounds like the most believable. The loop begins when the skin's natural antioxidant defenses become overwhelmed by the constant onslaught of environmental aggressors like UV radiation and pollution. Each time an antioxidant molecule, such as vitamin E, neutralizes a damaging free radical, the antioxidant molecule becomes spent or oxidized, rendering it useless. In youthful, healthy skin, these spent antioxidants are quickly regenerated. However, in skin over 40, the regeneration system slows down and the defense becomes progressively depleted. This creates a vicious cycle.
+
+34
+00:14:33,740 --> 00:15:03,780
+Fewer active antioxidants lead to more unrepaired damage, which in turn creates more free radicals, further depleting the already weakened defenses. This is the oxidative depletion loop, and it manifests virtually as stubborn dark circles, a dull, lifeless complexion, and potentially tired look that doesn't match how she feels inside. This explains why simply applying a single antioxidant, like basic vitamin C or vitamin E cream, has not been enough. This product's temporary, fried a temporary supply of soldiers, but do nothing to fix the broken supply chain, ultimately failing to break the cycle.
+
+35
+00:15:03,780 --> 00:15:33,390
+Solution, the antioxidant regeneration engine. I don't like that name. The only way to break the oxidative depletion loop is to install a system that doesn't just supply antioxidants, but actively regenerates them. Solution is a powerful, synergistic combination of vitamin C and vitamin E, which function together as an antioxidant regeneration engine. I'm just going to actually skip this one. The reason I'm not going to do it is because I don't think vitamin E and vitamin C are exciting enough for a skincare product, right? I think we need more exotic or unique ingredients.
+
+36
+00:15:33,390 --> 00:16:00,610
+like then vitamin D, vitamin C, which while popular, are pretty well known. And I don't think that they're the heroes or stars of our formulation. All right, what about the lipid barrier breach and inflammation? Okay, this mechanism focuses on the skin's most fundamental point of failure, its first line of defense. The problem is the lipid barrier breach. The skin's protective outer layer, the stratum corneum, can be visualized as a brick and mortar wall.
+
+37
+00:16:00,610 --> 00:16:27,710
+The skin cells are the bricks. The lipids surrounding them are the mortar. With age, hormonal changes, and environmental stress, the lipid mortar begins to degrade. There will be microscopic cracks and gaps. This breach also has two devastating consequences directly mapped to consumers' frustrations. Uncontrolled moisture loss. The cracks in the barrier act like an open window, allowing the skin's precious moisture to escape unchecked. This leads to the chronic dryness, tightness, and flakiness she experiences to get away to inflammation. More insidiously,
+
+38
+00:16:27,710 --> 00:16:59,840
+The breach creates an open door for external irritants, pollutants, and allergens to penetrate deep into the skin. This constant influx of foreign invaders triggers the immune system, creating a state of persistent low-grade inflammation. Scientists have given this phenomenon a new name, inflammation. But I'm like, whatever, to be honest with you. The solution is a biomimetic seal. Basically, patch cracks restore the barrier of integrity. I mean, I like the idea of a biomimetic barrier seal. I don't really like the first part of it.
+
+39
+00:16:59,840 --> 00:17:48,300
+But because I like the idea of a seal, I'm going to go ahead and save this one. You know what else I'm going to do? Just go here. Okay, it has this little stuff right here. Okay, so one thing, this is a case where I'm going to just test, I have a bunch of other mechanisms too, but I'm going to test the perplexity's deep research. I'm going to upload my PDF. It shouldn't be asking me questions, but let's just see here.
+
+40
+00:17:49,390 --> 00:18:17,410
+I'm going to let it run in the background while we go to the next one. Okay, so I ran the perplexity one. You want to see that one now? Why not? Let's look at perplexity now, okay? I want to see if they're any good or not. Okay, number one, the preorbital collagen depletion mechanism. Most eye creams fail because they only address surface symptoms while ignoring the periorbital area loss.
+
+41
+00:18:17,410 --> 00:18:44,750
+that the periorbital area loses collagen at 3x rate of other facial zones due to its uniquely thin skin structure and constant moving, creating a collagen desert that standard moisturizers can't penetrate. Our dipalmitol hydroxyproline works as a collagen preservation shield that not only stimulates new collagen synthesis, but uniquely preserves existing collagen by inhibiting the special elastase enzymes that break down collagen in the eye area, creating a dual action approach that both builds and protects.
+
+42
+00:18:44,980 --> 00:19:19,580
+So while it's not as eloquently written as Gemini's deep research, I actually like that. And part of it is because, you know, I think elastase is a worthwhile thing to talk about in addition to collagen, but it's much more simplified. I think this is like things that are like my one concern with the way Gemini framed some of those ICER mechanisms we looked at is that
+
+43
+00:19:19,580 --> 00:19:49,040
+perhaps it's a little bit overcomplicated, right? And it's funny because I feel like the overcomplicating worked well for Airbnb arbitrage, but I don't know that I like the overcomplicating for saying like skincare where women just kind of want to know what's going on because they're already product aware, right? Or they're like solution aware and a lot of them, sorry, they're already solution aware at a high level.
+
+44
+00:19:49,550 --> 00:20:19,600
+So they just sort of want more of the facts. We saw that in our psychographic research and things too, right? They researched, but they kind of don't want complicated things and all this, right? The Airbnb arbitrage, one we looked at, it's like people who are just sort of problem aware and could even be kind of unaware. We're talking to more about broader level about income and essentially just like, hey, stop sharing time for money.
+
+45
+00:20:19,600 --> 00:20:49,970
+right bizop mechanisms are usually pretty simple but people make them the part of the trick is making them seem more complex and sophisticated and all that right now for better or worse don't shoot the messenger right um and so actually you know like simpler things for health and wellness and in general you should too i see this very often where i think people just really over complicate the mechanisms and i used to do that and i really i think i've gotten to a place now for health beauty things of that nature where
+
+46
+00:20:50,190 --> 00:21:10,580
+you typically see simpler mechanisms win more often. So I actually like that one. Even though it's really simple, probably my favorite so far. We'll just be curious to see what the other LLMs say when we evaluate.
+
+47
+00:21:11,180 --> 00:21:37,300
+Okay, cellular communication breakdown. The real reason eye wrinkles persist is that aging skin cells around the eyes lose their ability to communicate with each other after 40, create a cellular signaling breakdown where even healthy cells can't coordinate repair processes, making standard anti-aging ingredients effective. Our peptide complex functions as cellular signal restorers that reestablish the critical communication pathways between skin cells, align them and synchronize to repair activities and work together again, similar to how a conductor coordinates an orchestra.
+
+48
+00:21:37,740 --> 00:22:07,550
+This seems like, to be honest with you, a mediocre mechanism that I would see in CA Pro from one of the copywriters of a business owner in it and be like, I have no idea if it's going to work or not. My gut on why I don't like this, I'm not going to add to my sheet, would be I don't think it's a great mechanism. The reason I don't think it's a great mechanism is I think this idea of cellular communication inherently becomes more complicated. Inherently, you're making more of a leap, right?
+
+49
+00:22:07,550 --> 00:22:37,340
+you've got these cells the cells are communicating the communications are scrambled the scrambling it's like there's a lot of shit in there that i need to sort of like conceptualize believe is true that i can't really conceptualize sometimes my cells communicating the communication being jammed whatever it is right versus the area around your eyes loses collagen three times faster than other areas of your face due to its unique structure in fact it creates what's called a collagen desert and
+
+50
+00:22:37,340 --> 00:23:08,670
+It can't be penetrated by standard moisturizers, right? This peptide works as a basically collagen. I don't know if I would use Preservation Shield, but for now, right? It normally simulates new collagen synthesis, so you're rebuilding collagen or creating new collagen, but preserves existing collagen by inhibiting or stopping these enzymes that would normally break down collagen in the eye area. So it's basically this dual action approach that both builds and protects around your skin, right? And obviously, we'd make this much more in-depth, which we know of the cloud project and ability to do.
+
+51
+00:23:08,670 --> 00:23:37,310
+That to me is easy to understand. This one is less easy to understand. The dermal-epidermal junction collapse mechanism. Funnily enough, I mean, this is basically what our mechanism is for opal. I wonder if it's citing us. That's funny, right? That is our current one, but it'll be fun as a test. We'll add this one in, okay? Traditional eye creams fail because they don't address the critical structural collapse of the dermal-epidermal junction, the architectural foundation between skin layers that flattens the beige.
+
+52
+00:23:37,310 --> 00:24:07,890
+causing the eye area to lose its structural integrity and create a permanent state of skin laxity. Pepitide formation contains junction rebuilders that target and reinforce this crucial skin foundation, rebuilding the wave-like structure of the DAG to restore the orchestral support systems that keep eye skin firm and resilient. So I'm biased, but I obviously like this one. I did it before. I guess I'll do the header so it's more consistent. Yeah, this is basically...
+
+53
+00:24:07,890 --> 00:24:46,260
+obviously much more depth but like what our actual mechanism is currently right um all right let's keep going here circadian rhythm disruption method the periorbital skin serves from a circadian rhythm dysfunction where the natural 24-hour repair cycle of skin cells becomes desynchronized after 40 preventing proper nighttime regeneration causing x-ray aging around the eyes our peptide serum contains chronobiology regulators that resynchronize the skin's natural repair clock
+
+54
+00:24:46,380 --> 00:25:15,340
+This one I actually don't hate as far as if you were doing a nighttime eye serum. But it also is kind of bullshit. We don't have a chronobiology regulator. You know, fine. And you still have to make a mental leap to the idea of this circadian rhythm. The skin has a special 24-hour rhythm that gets thrown off. More of a cognitive leap has to happen. So, I'm out. Glycation damage.
+
+55
+00:25:15,730 --> 00:25:44,900
+Glycation damage, where the hidden cause of stubborn eye wrinkles is glycation damage, where sugar molecules in the bloodstream attached to collagen proteins around the eyes, creating harmful advanced glycation end products that stiffen and distort collagen, making it impossible for conventional moisturizers to restore elasticity. Our formula contains anti-glycation peptide technology with dipolymetal hydroxyproline that specifically targets and breaks the damaging sugar protein bonds while protecting new collagen from glycation, effectively de-aging the collagen matrix around the eyes.
+
+56
+00:25:44,900 --> 00:26:16,460
+People use AGEs a lot. My knowledge about it is like it's sort of 50-50 about if there's a big winner there. But I actually think it's a decent mechanism. It goes on the list. Why is it a decent mechanism? This idea of sugar is attaching to proteins that sort of like destroy collagen. Like sugar in your blood is sort of known to be a bad thing. The idea of sugar in your blood is like destroying collagen and elasticity. People think about sugar and inflammation. This thing basically...
+
+57
+00:26:16,460 --> 00:26:57,550
+stops the sugar protein bonds, right? Is there actually some science to back that up? Possibly. The idea of like a periorbital microbiome here is a protective ecosystem of beneficial bacteria that maintains skin health around the eyes that becomes imbalanced of age and harsh products. That's interesting. I think this is what I would call a big swing, right? Basically talking about like a, people know about the microbiome, like the ecosystem of bacteria in your gut.
+
+58
+00:26:57,680 --> 00:27:33,300
+We know it's been proven to work in your gut because, you know, what is going on in your gut. It's also worked in dental offers for like the ClickBank world of like there's sort of bad bacteria, good bacteria, bad bacteria is taken over in your mouth, right? We do know that sort of probiotics for skincare is a category. Well, I know that works. We don't have a probiotic heavy formula, so I don't think this is my winner.
+
+59
+00:27:33,550 --> 00:28:08,060
+But it's not a bad idea. We're saving, right? So we'll pop it here. And I want to note, as annoying as it is to do, how many more are there? Oh my gosh, a lot more, right? This is sort of why you really need to be LLM agnostic, and ideally you're running these prompts on multiple LLMs. I see it all the time on Twitter or other places where people will go, which one is better? Claude is better now. I'm canceling ChatGPT. And it literally does not.
+
+60
+00:28:08,060 --> 00:28:40,370
+compute for me like I get it if you are just super broke and you're like man I you know like this is a huge thing for me I would cancel Netflix before I'd cancel like one of my LM subscriptions I would because Netflix isn't gonna make me money this is I would cancel you know Hulu I would cancel a lot of things um I just don't get it to be honest with you um you're just thinking of it in like a really linear way if you think that way you really need to try to rewire your brain
+
+61
+00:28:40,370 --> 00:29:11,490
+to think that you can just use one LM. You need to use several, okay? Okay, the stress hormone accumulation mechanism. The real reason eye bags and dark circles persist is cortisol accumulation becomes chronically elevated in the delicate eye area after 40, causing fluid retention, capillary fragility, and collagen breakdown that standard eye creams can't address. I don't think this is true. This is actually very interesting.
+
+62
+00:29:11,490 --> 00:29:43,040
+It's actually very interesting. I, again, might shy away from it. I kind of like my mechanisms more on the nose. If you go back to the DEJ one, it's very physiological. There's this connection point between layers of your skin. As it separates, the cavern
+
+63
+00:29:43,040 --> 00:30:11,820
+ensues when a cavern in a hole like a vacuum gets filled right in this case skin sinks in wrinkles appear puffiness like our bags right like all that kind of stuff like the other parts coming up it's like erupting the fault lines like an earthquake plates coming up like this is very i still think we could honestly explain it better on our pvp our product page but i really like that mechanism of the way we have it now right um and in fact what i might do for fairness is i might take the version of it from
+
+64
+00:30:12,080 --> 00:30:44,560
+our website and put that version in instead of the version that came up with perplexity to see right i like all of that and then the other one about just sort of collagen loss happens to react faster whatever the other stuff was was like number one right and there's a collagen desert it's very simple but i like that so i like cortisol because women are all very aware of cortisol hormonal stuff is popular it's very interesting i don't rank it as like
+
+65
+00:30:44,560 --> 00:31:12,340
+the strongest one though um because it's less physiological and it's more with this other hormone and i think hormone stuff works really well but i don't know that works really well for like skincare okay i mean it can i don't know just i i think it's it's more again i want as few cognitive leaps as possible i want stuff they kind of know is true and here's the one thing you were missing okay
+
+66
+00:31:12,660 --> 00:31:41,490
+The cellular water channel dysfunction mechanism. Traditional ice creams fail because they don't address aquaporin dysfunction where the microscopic water channels and skin cells aquaporins become damaged with age preventing proper hydration from reaching the deeper layers of the eye area and creating dehydration from within. Our saccharate isomerate functions as aquaporin channel restores that repair and optimize these critical cellular water pathways allowing moisture to properly flow between skin cells again and creating deep lasting hydration that surface moisturizers can achieve. This one kind of has the same thing with those.
+
+67
+00:31:41,490 --> 00:32:11,340
+hydration anchors or moisture anchors or whatever. I actually like it a lot. I like this idea of like these microscopic water sounds and your skin are damaged and basically hydration can't reach the deeper layers. We would need to tie it into wrinkles and dark circles and things of that nature. But this is actually one of my ones I like a lot, one of my preferred ones of what we've gone over so far. Okay, I know we've got a lot, but by the way, people talk about having trouble finding ideas for unique mechanisms. I don't think you can credibly talk about that anymore.
+
+68
+00:32:11,410 --> 00:32:42,260
+Okay, mitochondrial energy crisis. This is going to basically be mitochondria, the power cells in your eyes produce less energy after 40, means your eye cells aren't fueled. Mitochondrials are having a moment that I did like mitochondrial things. I don't like this one the most. I've never loved mitochondria mechanisms, but they do work sometimes. So we're going to add it to our list as well. I know I'm glancing over this one, but there's like a billion, you know what I mean?
+
+69
+00:32:50,420 --> 00:33:21,390
+The lymphatic congestion mechanism. Most eye treatments fail because they don't address periorbital lymphatic congestion where the microscopic drainage channels around the eyes become sluggish with age-trapping toxins and fluid that creates puffiness in dark circles that topical caffeine can only temporarily mask. Our peptide formulation contains lymphatic flow enhancers. Do we have this ingredient? I don't think we actually have this ingredient. So I'm going to skip this one since we don't actually have that ingredient. So I'm making that up.
+
+70
+00:33:30,540 --> 00:33:55,920
+This one is interesting. I will credit it. The reason most peptide iserms fail is the penetration paradox, where the skin's protective barrier becomes increasingly impermeable after 40. Impermeable means hard to penetrate, right? Preventing even high-quality peptides from reaching their cellular targets and rendering them ineffective regardless of their concentration. Our formula utilizes biomimetic delivery technology with amino acids.
+
+71
+00:33:55,920 --> 00:34:28,940
+proline, glycine, and alanine that mimic the skin's natural structure, allowing our peptides to bypass the barrier through cellular recognition and CH3X greater penetration to their target sites. There's some questions there around the validity of that, but I don't hate that. It's an easy, why do I actually, I mean, I kind of like it. Why do I kind of like it? Because the reason these things don't work now like they do when you're younger is because their skin's actually
+
+72
+00:34:29,490 --> 00:34:55,520
+It's almost like a paradox. You have to go deeper. There's a weird paradox, right? Your skin is thinner, but it's actually harder to penetrate. And so all that stuff, even though it didn't use this on the top, it does now. And the problem is most moisturizers, other things aren't going to do it, right? Ours is different. Why is ours just different? Well, we basically have these special amino acids that can mimic the skin's natural structure and allow our peptide to bypass the barrier through cellular recognition and T3 excretor. What I would change with this...
+
+73
+00:34:55,520 --> 00:35:30,340
+There's a good reason most eye serums instead of peptides, and this is a tiny thing, high quality formulas, high quality ingredients like that, because I want to talk to problem aware and solution aware people, but not necessarily product aware people, right? Okay, last one, the collagen fiber disorganization mechanism, sort of tangled collagen fibers.
+
+74
+00:35:30,340 --> 00:35:55,980
+We had that from Gemini as well. So cool. I'm going to skip it because we already sort of have it once. Now I'm not going to go through, I'm going to, you know, require ourselves to sleep through all this. I did chat GBT-03 Pro without deep research. It gave mechanisms, but to be honest with you, it was sort of like whatever. I didn't think it was great.
+
+75
+00:35:57,010 --> 00:36:34,740
+not just the nicknames but it's sort of like whatever like it just there's ideas it'd be worth reading if i was you know gonna write this right now i would still read through it and save ideas um but i think i need it i did chat gbt deep research here they had um kind of the same issue i mentioned with the airbnb arbitrage it's sort of like trying to do nicknames to explain really basic physiological processes it's not like actually
+
+76
+00:36:36,880 --> 00:37:20,140
+going deep into like the real reasons, right? There's a few interesting ideas. So again, if I was, you know, it's not bad, but I'm just not so in love with these, I need to do it. This was Gemini 2.5 Pro, not deep research, hormonal cliff and scaffolding damage, zombie cells, glycation stiffening. We kind of talked about that one from perplexity. This idea of like a barrier breach.
+
+77
+00:37:21,620 --> 00:37:58,220
+The skin on your eyes, the thinness on your body is weech and deficient moisture barrier. You have cracks, moisture evaporates. So we kind of saw things like that already. And I asked Claude. Claude did okay, but honestly, just had to trust me that they weren't that good either, right? So in this case, what I found, what I like the most from Gemini and probably more than anything, perplexity, okay? So we have all these here.
+
+78
+00:38:02,000 --> 00:38:37,100
+I mean, take out collagen is not a bad idea if this one got rephrased, but it's not my favorite. It's okay though. I like this sort of dehydration debt, but I think like my issue with this was like, I actually liked this a lot, but it was just moisture focused. So I think I got all the pain points. The elastase one, I didn't love the fact that it was, I don't know that elastase is like enough. Lipid barrier breach and inflammation. This one here.
+
+79
+00:38:37,100 --> 00:39:36,660
+That was okay. Which one had the anchors in it? Was that? Yeah, so I like the moisture anchors concept a lot. From Perplexity, I like the sort of periorbital collagen depletion mechanism. It's sort of simple, but I like it. The DEJ one I like, but I would probably rather take it from the copy format we have from Marlander, which is going to be... I'm going to do that right now. So I'm just going to take...
+
+80
+00:39:36,660 --> 00:41:20,500
+Copy. Wait a second. I'm just copying pieces from my website. This is kind of an incomplete version of it because there's some images on our website. By the way, our ice serum, the website, things are working for us. We can keep the UMX as they have it now. So I want to give that a fair shake with that explanation. So let's evaluate them. So I'm going to go ahead and download this as a PDF. We've got our evaluation prompt. But let me do it like this here. You know what?
+
+81
+00:41:20,720 --> 00:42:35,140
+Give me one second, guys. What I want to do here, have my prompt ready. Here we're doing solution aware. Okay, so let's go ahead and run this. We're going to run it in quad. I'm going to do the same thing. I'm going to run it in. I'm going to save this. Perplexity. I'm not going to save chat. I'm not going to save quad, but I'll start with quad. So, wait a moment. Okay, I was just trying to make sure I did it. Remember that I did it in the Unique Mechanism project, which I did.
+
+82
+00:42:35,140 --> 00:43:18,100
+So we've got this here. I'm going to upload the document we just did with all the mechanism ideas and the unified research brief. So one moment. Okay, those are uploading. Let's go ahead and run them. Meanwhile, we have our good friends at Gemini. Which one was this here? That was like an old one before I did the ingredients, I think. Yeah, so let's just go to a new Gemini shot. Not deep research. A couple of these.
+
+83
+00:43:18,100 --> 00:43:52,050
+Okay, get that one going, and we'll do it for friends at ChatGPT as well. All right, here we go. Okay, let's look at the results here. All right, paused, honestly, answered some business stuff for my different companies, whatnot, but let's find out. I have not looked at these yet, so I'm kind of nervous because both they say totally different, dramatically different things.
+
+84
+00:43:52,140 --> 00:44:23,490
+And of course, the short answer is if that is what happens, we'll have to use our judgment probably. And again, the stuff I mentioned in the Airbnb video, example one, two, where it's like, canvas and friends, talk to people in the market, see what they think. Let's see. I don't know, I'm so nervous about him. Okay, most likely. Lipid barrier breach and inflammation. Perfectly explains your core frustration, product sensitivity and reactions, burning irritation from potent ingredients. Your target market has tried multiple products.
+
+85
+00:44:23,490 --> 00:44:55,790
+causes irritation and this mechanism gives them a scientific reason why while positioning your product is a gentle yet effective solution they've been seeking. Like it does solve that frustration but that is not, I don't think, the market's number one frustration. I think the pain points are the eye wrinkles. It might come back to the unified research brief to be honest with you. Chronic dehydration debt, dermal disarray, elastics cascade, the dermal epidermal conjunction collapse as number five.
+
+86
+00:44:56,140 --> 00:45:35,250
+Stress hormone accumulation mechanism, glycation. Here's where I put the one that I liked. I wonder how it has to do with the prompt. I wonder if I removed the UMP reminder because it feels like a formulation explanation more than a unique. I mean, that one actually does make sense, sorry. Okay, the periorbital collagen depletion mechanism, too similar to existing collagen messaging they've already heard, doesn't create sufficient differentiation from fellow products they've tried. Here's an interesting question I'm going to ask.
+
+87
+00:45:35,820 --> 00:46:12,500
+I'm going to take these different mechanism options and combine them to a new mechanism that you thought was the strongest that speaks to their pain points, which are primarily appearance-driven, but they don't like about products. What would you do? And I'm also going to put
+
+88
+00:46:25,170 --> 00:47:21,900
+For context, here are the main ingredients. While it's doing that, let's see what Gemini says. Very interesting that Gemini also likes the lipid barrier breach and inflammation. It makes me want to look at my unified research document, so I'm going to do that. Okay. I mean, it's a good document. It's interesting, right? Because it's not like this document is just focusing on the pain point of...
+
+89
+00:47:22,220 --> 00:48:14,540
+product sensitivity. So it's weird to me that the LLMs are focused so much on product sensitivity. Like, am I missing something? It's almost weird. Dermal Disarray has as number two. Claude had Dermal Disarray as number three. Chronic Dehydration Debt. Directly Confronted Seconic Solution. I really like Moisture Anchors, which I mentioned here. Tier 2, Strong Contenders, Elastase Cascade, DEJ.
+
+90
+00:48:15,060 --> 00:48:59,060
+Peptide delivery barrier. Less likely to succeed. This is one I like the most. I like the least, right? This is not unique, right? So I think it's not unique and doesn't create a new knowledge gap. Okay. I still feel like I can make this one work, but it's very interesting. I mean, honestly, I might let this influence me to some level. I am going to ask it. Why did you decide that product sensitivity is one of the...
+
+91
+00:49:00,430 --> 00:50:00,610
+biggest and most important fears, frustrations for the market. Certainly, it's one of them. Surprise, you're giving that more credence than things like, I know I just had an open month to open it again. So they say, while we're waiting to see what they say, let's see what O3 says, except for I never hit go, so we're gonna have a go now. While we're waiting for that, let's come back to Claude.
+
+92
+00:50:00,610 --> 00:50:30,300
+and see what they would do. I create a combined mechanism that addresses the biggest frustration while creating a logical, cohesive story. The triple collapse cascade plus synchronized repair system. The problem, the triple collapse cascade, the real reason your expensive eye creams have failed isn't what you think. You've been told it's simple collagen loss, but that's only one third of the story. The truth is three interconnected systems around your eyes are collapsing simultaneously. Structural collapse, your collagen fibers have become tangled and chaotic like tent poles collapsing, so no amount of collagen boosting can create firmness when the foundation is jumbled. Barrier collapse,
+
+93
+00:50:30,300 --> 00:50:54,700
+Microscopic cracks in your skin's protective wall allow moistures to escape while letting irritants flood in, triggering chronic inflammation that exploits aging and explains why even genital products now cause burning insensitivity. When tension collapse, your skin's moisture anchors are broken, so hydrating ingredients to the chronic acid provide only temporary relief before evaporating. That's why you can spend $200 on a cream that works for days and stops when your skin reacts to products that you use to tolerate.
+
+94
+00:50:54,700 --> 00:51:22,540
+while your skin reacts to products used to tolerate while you look tired even after a full night's sleep each collapse feeds the others in a vicious cycle the ums synchronized repair system to reverse the triple collapse you need a synchronized repair system that addresses all three failures simultaneously not sequentially our formula works like a coordinated construction crew i hate these construction crew analogies by the way it's like i just was reading another piece of copy that was written for female market for like a beauty uh collagen like consumable product
+
+95
+00:51:22,540 --> 00:51:51,790
+And the whole thing was like the foreman does this and the construction. It's like, is that what women are like? Oh yeah. So I spent my time thinking about is like the, you know, or chart of a construction crew. It's like, I think they're so dumb. Okay. Structural engineers send the biosegurty signal to pool tingle collagen fibers, ton, organize, deliver pre-sorted building materials, create the strong foundation needed for lasting firmness, the barrier team, hydration team, why it works. Okay. Maybe.
+
+96
+00:52:00,620 --> 00:52:27,810
+Let's see what Gemini said, okay? It's an excellent and insightful question. You're correct that the visual and emotional pains are the fundamental motivators driving the consumer to seek a solution in the first place. The desire to reduce wrinkles and regain confidence is the why behind their entire search. My decision to give product sensitivity such high importance in the ranking is not because it's a greater pain than the wrinkles themselves, but because it represents a critical barrier to belief for this specific solution or customer. Here is the strategic thinking behind that ranking. She has a history of failure.
+
+97
+00:52:27,810 --> 00:52:56,980
+Sensitivity is a major buying objection. The lipid barrier breach mechanism perfectly addresses that objection. It's not your fault. Solving the meta problem first. The desire to look better is the primary problem. The fear of irritation is a meta problem. It's a problem that prevents the solution from working. By addressing the barrier breach first, the biometric barrier scale solution promises to create a protected stable environment. This makes the promise a powerful wrinkle reducing peptides more believable because it establishes how they can work without causing irritation. Okay, interesting.
+
+98
+00:53:02,670 --> 00:53:27,090
+And chat GPT, dermal disarray, speaks directly to skin losing a snap, the number one structural pain that brief flags, reframes past collagen loss failures, gives a vivid tentpole analogy, and positions peptides as precision architects rather than generic boosters, balances science of accessibility, and lets us lean on strong clinical proof to answer, I've tried everything. Lipid barrier, breach, and inflammation.
+
+99
+00:53:27,220 --> 00:53:55,470
+Preparing your skin's mortar syncs with the barrier skin care trend consumers already researched. Explains both sensitivity and dryness in one stroke. Promises a powerful yet gentle fix. Exactly the objection is set in the brief. Chronic dehydration debt. Hydromagnetic lock system. Hydration is intuitive with the moisture anchors of broken story. Upgrades it from commodity H.A. claims and logically explains why prior experience felt good only for hours. The 72-hour lock gives a concrete testable promise. Still likes the last case cascade.
+
+100
+00:53:57,200 --> 00:54:41,780
+It's funny how it has everything at DAJ number five. So it's interesting. If I'm sitting here, by the way, I don't actually really like what Claude did. I don't mind it. I just think it becomes confusing. It's like, I don't know that I need all of these steps. If we go back to like our original sort of what the market likes, doesn't like, they kind of don't like these multi-step systems and all these things. So I just feel like simplicity is better. But if we go back to like the rankings, okay, it had
+
+101
+00:54:42,450 --> 00:55:50,740
+Lipid barrier breach and inflammation 1. Dehydrogen debt 2. Dermal disarray 3. Then we had lipid barrier breach 1. Dermal disarray 2. I think, sorry, chronic dehydration debt. Yeah, 3, okay. CHAT-CBT. Dermal disarray 1. Lipid barrier breach 2. Chronic dehydration debt 3. At least this one had my little periorbital collagen thing number 6. So I think what I would do now.
+
+102
+00:55:50,740 --> 00:56:30,960
+We've got this lipid barrier breach as number one for Gemini and quad. So I think what I would do is I would go ahead and do expanded mechanisms and see how I feel about it when it's written out in more depth, which I'm now going to do. All right, so here we are in our quad expansion prompt. Number three, I copy and paste it, and this is from Airbnb, right? So let's do our lipid barrier and inflammation thing here.
+
+103
+00:56:32,910 --> 00:57:43,500
+Oh wait, I gotta do the whole thing. So we'll copy and paste this in. Highlight it. I'm gonna cheat and go problem. Or I guess it would say, would it say solution or product aware? I guess solution aware. I'm curious because it even mentions the product sensitivity. That's what I'm curious about. So let's find out. Let's go to our friends at Claude. We're in the project.
+
+104
+00:57:43,500 --> 00:58:27,220
+Copy and pasting this prompt in. We're going to upload the brief. All right, turn my prompt into this little chat file. Let's see what we get here. So the audience already knows so tied servers exist. Do they? Our solution aware didn't have that. So I might change this prompt because we didn't define the unaware problem or solution aware. So what I might do here.
+
+105
+00:58:30,100 --> 00:59:37,010
+So if you hear weird squeaking, that's my elbow on my desk. Ready? Kind of did it. There you go. What I'm going to do, you can see here. Let's see what I wrote, okay? Researching, see, yeah, I don't like the story because I don't want it to be so worthless. So we're going to rerun the prompt, but here's what we're going to be testing as experimenters to continue on, right?
+
+106
+00:59:39,730 --> 01:00:32,660
+So I'm going to copy and paste it in from my other prompt. To this we can look at the classical levels of product and market awareness. There's alternative sorts, characters that fall as well. Let's not consider product aware, most certainly for our specific product and brand. Actually, you know what I'm going to do? I was thinking about how I want to do this. I'm actually going to do it differently. I know you are just watching me stare at the screen. What I want to find, I'll bring it over here. What I'm trying to do right now, I'm going through our, this was our product market awareness level.
+
+107
+01:00:58,540 --> 01:02:02,260
+This is what I'm going to do. And I would probably say to add this to the process, I'm going to do this instead. Here's how you can understand solution aware in this context. So now I want to go ahead and try this again. I'm going to upload my unified research brief again, and let's run it again and see.
+
+108
+01:02:08,940 --> 01:02:34,400
+Because we saw the other one started immediately going like, oh, you know all about peptides. And I'm like, I don't know that I want you to take that level of assumption, right? So I think this one should be better. See, this is better, okay? The hidden reason your eye cream isn't working and what it actually does. You may be thinking, I've tried eye creams before, some expensive ones, some highly rated ones, but I'm still seeing those fine lines getting deeper in my under eyes. So tired no matter how much I sleep again. If that sounds familiar, you do this.
+
+109
+01:02:34,400 --> 01:03:02,980
+Because what I'm about to share with you explains why 9 out of 10 eye creams on the market today, even the $200 ones from department stores, are essentially expensive moisturizers that can never address the real problem. The real problem, your skin's security system has been breached. See, most women don't realize that the delicate skin around your eyes has what dermatologists call a lipid barrier. Think of it like the security system for your skin. I don't love these metaphors, but that's okay. I just want to see how I like this in action. This barrier can be visualized as a protective wall made of bricks and mortar. The skin cells are the bricks and the natural fats and oils surrounding them are the mortar that holds everything together.
+
+110
+01:03:02,980 --> 01:03:30,860
+But here's what happens as we age, especially after 40. This protective mortar begins to break down. Hormonal changes, environmental stress, even the simple act of blinking thousands of times a day creates microscopic cracks and gaps in the barrier. When this happens, two devastating things occur that directly explain why you're struggling. First, uncontrolled moisture loss. These tiny cracks act like an open window, allowing your skin's precious moisture to escape throughout the day. This is why your eye area feels chronically dry and tight, and why even the richest eye cream seem to disappear within hours. Second, the gateway to inflammation.
+
+111
+01:03:30,860 --> 01:04:00,240
+But the moisture loss is actually the least of your problems because these same cracks create an open door for irritants, pollutants, and allergens to penetrate deep into your skin. This constant invasion triggers your immune system, creating what scientists have recently discovered and named Inflamaging, a state of persistent low-grade inflammation that's silently destroying your collagen and elastin from the inside out. This is why your skin has become so sensitive, why ingredients used to work fine now cause burning or irritation. Your skin's protective wall is compromised, so even well-formulated products feel harsh because they're penetrating too quickly into an already inflamed environment. Why traditional eye creams can't fix this?
+
+112
+01:04:00,240 --> 01:04:24,610
+Now you understand why your expensive eye creams haven't worked. They're trying to treat the symptoms, the dryness, the lines, muffiness. They're completely ignoring the breach barrier that's causing all these problems in the first place. So trying to heat a house with broken windows, you can't blast the heat. You can blast the heat all you want, but until you fix the windows, you're finally losing battle. The solution, the biometric barrier seal. The way to address the consequences of a breach barrier is to repair the wall itself. This requires what I call a biometric.
+
+113
+01:04:24,610 --> 01:05:10,190
+our biomimetic barrier seal a complex of intelligent ingredients that don't just sit on top of your skin but actually integrate with your natural barrier to patch those cracks and restore its protective function science behind the seal it kind of goes through some of the ingredients how it works well it does okay cool definitely better things we're still not in love with but at least i can see how it looks in person what about the next one well let's do that next one okay so over this one copying that so it's got the solution or breakdown
+
+114
+01:05:10,260 --> 01:06:29,550
+And let's give it whatever was our number two, which was the dermal disarray. I don't know if I love that tent analogy, to be honest with you, but let's just see. Okay, let's go and try that with that one. Some prompt. Let's run it. Question via text. Here's what would surprise you. If you're like most women, you've probably tried countless eye creams.
+
+115
+01:06:29,550 --> 01:07:06,110
+You know that peptides are supposed to help with wrinkles and firmness. You've read reviews for original department store eye cream. Here's what no one in the skincare industry wants you to know. The reason your peptide eye creams haven't worked. I don't know why it's not your peptide eye creams. Well, come back to that. You'll see, for decades, the beauty industry has told you a simple story. Your skin is aging because you're losing collagen, so they create products that boost collagen production or replenish collagen. It sounds logical, right? For recent breakthrough research, it's revealed that collagen loss is only half the story. It's not even the most important half. The real culprit.
+
+116
+01:07:06,110 --> 01:07:35,540
+Find the stubborn crow's feet, the crepey eye skin, and the way your eyes suddenly look tired, even when you're not, is something scientists are not calling dermal disarray. Let me explain. Think of healthy, young skin like a perfectly pitched tent. Collagen fibers are like the tent's framework, tightly woven, organized, and strong. Everything in its proper place creates a smooth taut surface. But as we age, something more damaging than a simple collagen loss occurs, those collagen fibers don't just disappear. They become tangled, weakened, and chaotic. Instead of that strong, organized mesh, your dermal structure becomes like a collapsed tent. This is dermal disarray.
+
+117
+01:07:35,820 --> 01:08:25,540
+doesn't crudely pump more materials, restore the entirety of the structure. So I'm going to ask a couple things here. A couple of things. First, I talked about the peptide. First, you said I had specified that solution where people we are talking to aren't necessarily aware of peptide igremes, right?
+
+118
+01:08:25,540 --> 01:09:10,500
+So I don't think that makes sense. Second, don't love the names Dermal Disarray. Really love the tent analogy either. I think it's okay. What other more believable legit sounding names can we use instead of Dermal Disarray? And what are some other
+
+119
+01:09:10,500 --> 01:10:05,070
+Analogies or metaphors. Could use instead of a tent. Keeping in mind our target market. All-time names. Collagen fragmentation syndrome. Structural collagen breakdown. Collagen network collapse. Structural protein disintegration. Dermal framework deterioration. Collagen architecture breakdown. I like simplicity. I might go with collagen architecture breakdown. I don't know what Garden Charles is. I kind of know.
+
+120
+01:10:11,020 --> 01:10:45,390
+I think I like fabric because it's sort of like a knitting, not that women like knitting, but it's sort of more sentimental, thinking about grandma, all that kind of stuff. So I'm going to say, let's address number one, I can't see, but it's on the news. Address number one, now that you agree, let's use collagen architecture breakdown, and it's felt right, it doesn't really matter. Let's use the...
+
+121
+01:10:45,390 --> 01:11:32,000
+Fabric weave analogy. Alright, let's see here. Okay, you should kind of like to try this stuff. The reason your eye creams haven't worked isn't because good products don't exist, it's because they've been targeting the wrong problem entirely. For decades, the industry has sold you a simple story. Your skin is aging because you're losing collagen. So they create products that boost collagen production or replenish lost collagen. It sounds logical, right?
+
+122
+01:11:32,000 --> 01:11:50,560
+But recent breakthrough research has revealed that collagen loss is only half the story, and it's not even the most important half. See, I like this because, again, there's this thing about, like, hey, you had it half right. Here's the part you were missing. So it actually makes some sense, right? The real culprit behind those stubborn crow's feet, that creepy under-eye skin, and the way your eyes suddenly look tired even when you're not is something scientists are not calling collagen architecture breakdown.
+
+123
+01:11:50,560 --> 01:12:04,660
+Let me explain what this means. Think of collagen. Think of healthy young skin like a piece of high-quality fabric with a perfectly tight, organized weave. Every thread in its proper place, working together to create a smooth, strong, beautiful surface that drapes perfectly. But as we age, something far more damaging than simple thread loss occurs.
+
+124
+01:12:04,660 --> 01:12:33,440
+Those collagen threads don't just disappear, they become loose, tangled, and lose their organized structure. Instead of that tight-perfected weave, your skin's foundation becomes like fabric that's been stretched and twisted until the threads are all jumbled together. This is a collagen architectural breakdown. That's why simply trying to add more collagen to your skin is like trying to add more threads to fabric that's already lost its weave. No matter how much collagen-boosting cream you apply, if the underlying structure has broken down, your skin can't maintain its firmness, the wrinkles keep forming, the skin keeps sagging, and your skin keeps feeling frustrated. This explains why you might notice that your skin...
+
+125
+01:12:33,440 --> 01:13:18,750
+Feels different now. It's lost that snap it used to have. When you smile, those lines don't bounce back like they want to say. The skin around your eyes feels looser somehow. That's collagen architecture breakdown in action. But here's the breakthrough. Let's continue with the biotensegrity solution as before. So I didn't look at that part too much here. Let's see. Call biotensegrity system. So, okay, great. Much better. Four. Hopefully this is still going.
+
+126
+01:13:18,750 --> 01:14:14,420
+Makes me nervous. I'm going to do this video in two parts. I'm assuming it's still going. For the UMS, don't like biotensegrity system as a name. Easy to understand. Remember, since either a protective shield is okay, but kind of generic. What are alternative names for each of these?
+
+127
+01:14:21,810 --> 01:14:53,300
+Bio-tensitivity systems. So structural reset protocol, the architecture restoration method, the weave repair system, foundational rebuild technology, collagen reorganization complex, the structural renewal system. I like a lot of these. I'm thinking about an architecture. And so we talked about this architecture thing above. And so while I like the architecture restoration method, I also feel like that's a little bit maybe not as understandable.
+
+128
+01:14:53,620 --> 01:16:17,300
+So I'm going to go with like, I think the structural renewal system makes sense. I like the idea of our structural renewal system. Okay, so smart materials. These ones I like, but let's call it a targeted repair complex. I like complex. And then third, let's go with, I'm thinking.
+
+129
+01:17:04,050 --> 01:17:46,480
+We have integrity locking compounds and greens. Essentially, I don't know. Again, this isn't our final version, but I might as well play around with this, right? I'm going to let it shoot with some nutrients. Weave repair system I didn't hate, but I just feel like it's too... You don't have to tie it all to the metaphor, so that's why I don't like that one. So let's go ahead and do that. Okay. Call it structural renewal system. System works in 3% steps. Structural renewal signal. Okay, it does this.
+
+130
+01:17:47,920 --> 01:18:19,410
+When machinery pool does loose tingle collagen threads, it's taught to reorganize them back in a proper tight weave. Tighten up. Okay, fine. Two, targeted repair complex. Targeted repair complex comes in, included precise amino acids, proline, glycine, and alanine. Integrity locking compounds. Finally, here's what makes it really unique. Some active compounds also function as integrity locking compounds. Again, I might not use compounds twice. For your newly restored skin structure, they actively inhibit the enzymes called...
+
+131
+01:18:19,410 --> 01:18:48,030
+matrix mellow protein aces that break down collagen and destroy the lead in the first place. Okay, so if I have this to be honest with you, I think it's pretty good. Obviously, I would play with things more and we'll keep doing it. We're going to write the ICERM VSL as part of RMBC too. So, you know, we'll see. I might change my mind. I might do the same exercise with other UMPs as well.
+
+132
+01:18:48,030 --> 01:19:14,740
+I think this was valuable for you to watch, for those of you who have actually continued to watch through to the end, because you can sort of see how you can take an idea that's pretty good, but again, maybe the name isn't great, or some of the naming conventions aren't awesome, or you don't like the metaphor, and you can change and work with AI to get things that you like more, right? And so I want you to see that. I'll save all this, and we'll continue on.
+
+133
+01:19:14,740 --> 01:19:52,180
+with more videos and modules. I think, you know, I'm going to do the cloud project thing. Like I mentioned, like a separate quick training, how to set one up because you've seen it in action now. Like I'm using that here. Keep in mind, right? I'm going to do other videos. I'm not sure for the mechanism stuff, but I didn't mention golf, but honestly, I feel like these are such long videos. You get the point and you can just do it for any, you saw one that's non-physical, one that's physical. Should be clear enough. So I'll probably move on to other sections after this video besides the cloud project thing.
+
+134
+01:19:52,180 --> 01:19:56,010
+Um, but maybe a lot of stuff in the future. I don't know. Anyway, thank you.

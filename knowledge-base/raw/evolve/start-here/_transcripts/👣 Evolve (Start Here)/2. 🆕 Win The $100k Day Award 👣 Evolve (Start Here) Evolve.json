@@ -1,0 +1,29 @@
+{
+  "source_file": "👣 Evolve (Start Here)/2. 🆕 Win The $100k Day Award 👣 Evolve (Start Here) Evolve.mp4",
+  "source_id": "mega:jhQDiSSY",
+  "audio_sha256": "4fa52d1cf20afb4035ab6c8c42a2655c793980465baa50d8a09ecdb9c214ffd6",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 59.61,
+  "last_segment_end": 59.6,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 27.38,
+      "text": "in this super super quick module i'm just going to let you guys know and make you aware that if you do hit a 100k day inside of evolve and you post it in the wins channel on discord we will send you the 100k per day plaque now these things as you can see we put a lot of time into trying to make them as high quality as possible and i actually have one right beside me so let me go and grab it as you can see here this thing is a is a little shiny but it will say"
+    },
+    {
+      "start": 27.38,
+      "end": 55.07,
+      "text": "your name for scaling to 100k per day we've got the evolve we've got the no sign which a lot of you guys already know and as you can see this plaque is you know it's awesome and uh we're very excited to reward people finally for accomplishing the one thing that i think everybody in evolve is you know trying to accomplish so this video is just to let you know that if you do hit 100k a day and you post it in the wins channel you can contact either me or sean directly and we will get you your very own custom made"
+    },
+    {
+      "start": 55.07,
+      "end": 59.6,
+      "text": "100k per day plaque so with that said let's get to work so we can actually make that happen"
+    }
+  ]
+}

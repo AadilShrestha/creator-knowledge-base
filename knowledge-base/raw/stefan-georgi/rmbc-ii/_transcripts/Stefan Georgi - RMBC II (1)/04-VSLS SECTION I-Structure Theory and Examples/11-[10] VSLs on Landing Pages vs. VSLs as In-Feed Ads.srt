@@ -1,0 +1,71 @@
+1
+00:00:00,690 --> 00:00:29,490
+All right, so we're going to get into actually producing endless VSLs pretty soon here. But before we do that, there is one last really important thing I want to talk about. And that is the difference or some differences between in-feed VSLs and on-page VSLs. You know, in-feed is obviously...
+
+2
+00:00:29,900 --> 00:02:04,260
+VSLs are being run as Facebook ads. So I'm sure I've talked about this in other places in this course by now, but like, oh my god, let's go to this bike people for some reason. Let's go to like Emma Relief, right? And let's click one of the ads here. Let's see. Their ads are kind of gross, but like, let's see here. All right, let's try, let's watch this one for a minute, okay? Okay, look, I know it's gross, we're talking about poop. But here's my point.
+
+3
+00:02:04,260 --> 00:02:42,700
+If you watch that and what's going on with that, right, what you're seeing is education. So that whole, I don't have that actually, I need to swipe that one. Let me swipe real quick. And that's really true for almost all of these, most of their ads. I'm just kind of looking, okay. Now, those look four minutes long. They're like, okay, well, what about a way longer in feed VSL? Where's the other .com I was looking at here?
+
+4
+00:02:48,910 --> 00:04:02,420
+Let's see. What I'm trying to do here, give me a second. They have tons of stuff, tons of ads. We'll get good old Dr. Gundry. These are their active ads right now. What I'm going to do, I'm going to show you in Swipe Builder, okay? So this is like a Facebook ad they were running for a while, okay? So longer, but still in feed, still a Facebook ad. Okay, so I have to keep going. The point I'm trying to make that's really important is again, in feed,
+
+5
+00:04:02,420 --> 00:04:34,930
+You typically are seeing a hook or a bunch of hooks, if you watch the kind of ADHD hook ads and, you know, the using AI to generate endless good hooks training that comes right before this one in RBC2. So it's like hooks or tons of hooks, education, you know, there's still curiosity. We'll do this hook or multiple hooks.
+
+6
+00:04:38,700 --> 00:05:01,260
+It's curiosity heavy, right? Education is really important. Or entertainment, sometimes both. Kind of calling out pain points and promising a solution, yes. Like do this to get rid of belly fat or bloating overnight. Do this for stuck poop, right? And then there may be a quick background story, but it often goes right into the UMP, UMS.
+
+7
+00:05:01,360 --> 00:05:27,090
+product build-up and reveal close. When I say product build-up and reveal, we kind of went through some infeed ones and some medium and short ones. So product build-up and reveal might be as simple as quickly introducing the product and getting into a kind of fairly quick close, right? Background story may or may not have a ton of stuff. It might just be like, hey, I'm a doctor. I know what I'm talking about, right? You saw a bunch of examples of all of this for short, medium, and even long ones, right?
+
+8
+00:05:28,400 --> 00:05:58,860
+The thing is, if we go back to one of the overarching themes for RMB-C2 and the idea of context and the journey of where somebody's going, the context-specific journeys. We talk about how people will be on different journeys. Somebody, like I mentioned before, they're on social media, even on Meta, and they're there to talk with friends, watch influencers, consume content.
+
+9
+00:05:58,900 --> 00:06:30,860
+or to learn same thing for youtube obviously right um and so or to be entertained find dumb stuff like dumb memes and things and reels to send to their significant others whatever it is uh and so if that's the case like kind of going into like a you know full-on classic vsl doesn't make as much sense and so by classic like you know this is so we said that gundry one but if we go back to like emma right we're watching
+
+10
+00:06:31,570 --> 00:07:10,420
+That Emma Relief one? Okay, right? This thing? Okay, cool. Well, if I could say cool 10 times, whatever. Now, here's like an actual VSL from Emma Relief that's on a landing page. I want you to watch the difference here, okay? Sorry, one second. I wanted to make that bigger, but because I'm recording to this screen, I gotta figure out if I can make it.
+
+11
+00:07:11,090 --> 00:08:01,630
+I mean, it's fine. Maybe a little bit cut off, but it's not a huge deal. So right now already, they're doing curiosity. Hey, today I'm going to talk about this. I'm going to talk about this. This is curiosity, fascinations, right? And here they're like teasing the UMP. Like they do go into it a little bit more, but this is not the full UMP. It's sort of like the start of it. They're talking about a clogged hole and this backed up with poop basically, right? It goes on for like an hour. So what they actually are talking about will be different.
+
+12
+00:08:01,630 --> 00:08:53,520
+so to speak like i mean like the actual mechanism is different but okay so here right oh my gosh an amplification of the pain points all these pain points when you watch the infeed stuff the four minute long ads for emma you didn't see much of that at all right because it's a different mentality they've been they get educated and get like bought in to wanting to learn more
+
+13
+00:08:53,520 --> 00:09:23,570
+into like being curious about this solution and all this stuff, right? A seven-second bow releasing ritual. They click on the ad. Now they come to the VSL, if they're going to VSL. Same thing, by the way, for statics, advertorials, VSLs, whatever. Now, you can do an hour-long VSL, which by the way, crushes. So you saw it crushes. Or at least did, as very recently, probably still does. So it's like...
+
+14
+00:09:24,720 --> 00:09:59,570
+Now it's a classic VSL, which still works, but the mentality is different. That's what people miss. And you also miss, going back to the context-specific stuff, it's like if I were to do, if you just do a quick, I mean, it still works. If you do a quick ad, like, hey, see this seven-second bow releasing ritual, click here, and it goes to this. It depends on the demo, but they're kind of less warmed up. The educational video ads, infeed ads, whatever it is, it's almost like a mental warmup.
+
+15
+00:09:59,570 --> 00:10:31,010
+It's native to the content they're trying to see. And then you can come here and then you can do a full classic VSL. Okay. This is actually really important though. Like for example, we have a CA Pro member who kind of became the same conclusion on because they basically took an infeed VSL that had done pretty well, put it onto a landing page. The landing page was doing okay. And then sort of the lead, like the engagement for the infeed VSL was like pretty good. But on a landing page, the engagement was like this.
+
+16
+00:10:31,010 --> 00:10:59,440
+And the reason why is because it was sort of that same education component, but it wasn't hooking them in enough. There was like, there actually basically was no strong lead on the, there was no classic lead, right? Like how we were seeing, like, oh, these pain points, we're teasing the mechanism, all the stuff in the classic sales letter outline I shared, right? Like they were missing all that for the on page, like, you know, on page like in their funnel, right? Like steffansfunnel.com, like VSL is here. And so.
+
+17
+00:11:01,780 --> 00:11:29,900
+that's like the point like you can't always take what would be a good infeed and throw it on to a uh let you know until like this take that same vsl that same infeed vsl and put it onto the landing pages of vsl and get the same results like you maybe go to use a lot of the same vsl actually but like especially the lead really needs to be different and so this is a pretty subtle point but it's actually extremely important i don't nobody else talks about it so i feel like this is low-key
+
+18
+00:11:29,900 --> 00:11:43,700
+An extremely important video for you to understand. And I'll keep it short. I'll keep it to this. But I just wanted you to be able to understand that. So hopefully it helps. And perfect. Thank you.

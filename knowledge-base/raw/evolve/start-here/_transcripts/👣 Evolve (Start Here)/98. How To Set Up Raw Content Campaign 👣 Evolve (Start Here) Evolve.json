@@ -1,0 +1,59 @@
+{
+  "source_file": "👣 Evolve (Start Here)/98. How To Set Up Raw Content Campaign 👣 Evolve (Start Here) Evolve.mp4",
+  "source_id": "mega:jhQDiSSY",
+  "audio_sha256": "7c06effc8a50c06ca318015064e5ec8d6588014096af97b0ba53a03386d12674",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 240.41,
+  "last_segment_end": 240.18,
+  "segments": [
+    {
+      "start": 0.21,
+      "end": 26.94,
+      "text": "All right, so in the previous video, you learned how to create a 322 campaign. So for the next campaign type we'll be going through, it's going to be the raw content campaign. The raw content campaign, very, very similar to the previous campaign I showed you. It's pretty much identical as well, just with a few slight differences. So in which cases will we launch a raw content campaign and what is it actually used for? So if you've watched through the module on how we get UGC, doing product seeding through Instance,"
+    },
+    {
+      "start": 26.94,
+      "end": 50.4,
+      "text": "you should know that the whole goal of it is to get a bunch of raw content. We test that raw content as is, no edits, no captions, and the goal is to find a winning creator to hire SE Brand Ambassador. So in this raw content campaign, you can see most of it is just for us launched through incense ads. We're going to force more spend towards them since we want to see if the creators will do well or not. And in this campaign, last 14 days."
+    },
+    {
+      "start": 50.4,
+      "end": 79.39,
+      "text": "The spend is quite similar and returns double very well. So having this extra campaign helped me push additional budget over there. And of course, any content creators that do well here, I will hire them as a brand ambassador to create even more winning ads. So one is to push more volume. Two is to really just force spend towards creator ads. And third one as well. I don't want my raw ads really to be competing against my high standardized ads. So the main campaign..."
+    },
+    {
+      "start": 79.39,
+      "end": 106.74,
+      "text": "The 3-2-2-1 is for high intent ads. Raw content is ads that you don't really give much thought towards. When you do learnings for it, it's much easier when you keep your high intent ads together instead of keeping it all together. If not, it might be a bit harder to do learnings on them. There's some raw content. You're not the one who really made it yourself, right? It's the creators you give guidelines to. They just did their own thing. In a lot of cases,"
+    },
+    {
+      "start": 106.74,
+      "end": 136.37,
+      "text": "They create ads that you think might not work. It might be some wacky social media stuff, but suddenly it works. It's hard for you to do learnings on those. And when you get more spend than your main ones, it's a bit confusing as well. That's one of the reasons. But the main one is just to give it more additional spend so you can get additional scale with it. Some people who rip ads as well, if you do so, I recommend just launching it inside the raw content campaign. So besides that, how do you actually set it up? So just like the..."
+    },
+    {
+      "start": 136.37,
+      "end": 164.22,
+      "text": "322 campaign is exactly the same. It's one CBO, multiple different creative test ad sets. Of course, we have a lot of ad sets inside, but that's also because we're spending a good amount. We're spending not a few hundred a day, but we're spending over a thousand. Besides that, same exact way, we determine winning ads by spend, doing well, great, this is your winning ad set. We don't really create champions ad sets for raw content campaign, if you remember."
+    },
+    {
+      "start": 164.22,
+      "end": 189.1,
+      "text": "In the main campaign, we create the champions. In the raw content one, we don't, but you definitely can if you want. It doesn't really matter too much to have champions or not really, but you can create one here as well if you want. The difference is just sometimes instead of, you know, in the main campaign, we have one concept, it's one ad set, and three variations."
+    },
+    {
+      "start": 189.1,
+      "end": 216.59,
+      "text": "If you have a lot of content for the raw content campaign, instead of creating one video and three different hooks, sometimes it is just one ad set and then three different videos. Sometimes we do that if we have too much content. If we have not enough content, we will usually just run it the same way. We will just have the raw content and then we cut it three ways. Cut it three ways meaning just three different start points."
+    },
+    {
+      "start": 216.59,
+      "end": 240.18,
+      "text": "text to it we don't add new music to it we will just really take the creative and then start at three different points so that's three different hooks this way besides that it's pretty much exactly the same you know one campaign three different ads inside there but that's really it budget setup utm setup ad set targeting exactly the same so not much difference there"
+    }
+  ]
+}

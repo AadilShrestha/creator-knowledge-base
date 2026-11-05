@@ -1,0 +1,54 @@
+{
+  "source_file": "Stefan Georgi - RMBC II (1)/16-BONUSES/04-WEBINARS - LIVE TALK.mp4",
+  "source_id": "mega:GwRSGa5C",
+  "audio_sha256": "0acb6e32e406b8954f30f0500c9a317e9275ebf9f3afe9dcd906d982ef77a5bd",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 1424.59,
+  "last_segment_end": 1000.11,
+  "segments": [
+    {
+      "start": 80.69,
+      "end": 107.22,
+      "text": "Just checking out my office space. About to move in here on Monday or Tuesday next week. They're going to put glass doors here. It's the conference room. Building out a podcast studio. Just checking out my office space. About to move in here on Monday or Tuesday next week. They're going to put glass doors here. It's the conference room."
+    },
+    {
+      "start": 107.22,
+      "end": 128.93,
+      "text": "in this offer. Building out a podcast studio. Just checking out my new office space. About to move in here on Monday or Tuesday next week. We're going to put glass doors here. It's the conference room. Building out a podcast studio. Just checking out my new office space."
+    },
+    {
+      "start": 128.93,
+      "end": 158.93,
+      "text": "About to move in here on Monday or Tuesday next week. We'll put glass doors here. It's the conference room. Building out a podcast studio in there. Just checking out my new office space. About to move in here on Monday or Tuesday next week. We're going to put glass doors here. It's the conference room. Building out a podcast studio in there. Just checking out my new office space."
+    },
+    {
+      "start": 158.93,
+      "end": 174.05,
+      "text": "You're going to have AI tools. You're going to have the resources to scale. Monday or Tuesday next week. They're going to put glass doors through. It's the conference room. Now the fact that you already have a podcast studio in there. We're going to go ahead and give you a check on the office space."
+    },
+    {
+      "start": 174.05,
+      "end": 203.86,
+      "text": "About to move in here on Monday or Tuesday next week. They're going to put glass doors here. So this is your only chance to take advantage of it at this significant scale. Just checking out my new office space. About to move in here on Monday or Tuesday next week. Below this video, you'll be able to see everything that's included in this offer. And I look forward to seeing you guys inside the members area. Just checking out my new office space."
+    },
+    {
+      "start": 944.78,
+      "end": 967.28,
+      "text": "So I'm driving to Chipotle for a celebratory meal right there. Um, just closed 60 grand on my first true webinar. Uh, just want to shout out to Nate and Dylan who was Nate running the ads. We paid about $2,800 in ad spend. They did it all. I was like, dude, I'm not good at ads. I was like, just don't do my ads. $2,800 in ad spend. We had"
+    },
+    {
+      "start": 967.28,
+      "end": 992.11,
+      "text": "500 like five or 600 off just ad spend alone and then we had some organic joints we saw through the ads but joined different ways um and then closed 60k so show up rate i don't know the numbers if they can put all the numbers on the screen but this is just a testimony of like dude i just just helped me make 60 grand in an hour that's uh i don't come from that kind of money that is insane that blows my mind i'm gonna go eat chipotle to celebrate"
+    },
+    {
+      "start": 992.11,
+      "end": 1000.11,
+      "text": "But thank you guys so much. It's been a pleasure to work with you. We're just getting started. This is our first month in. Thank you, boys. Thank you."
+    }
+  ]
+}

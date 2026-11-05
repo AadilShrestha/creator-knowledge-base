@@ -1,0 +1,159 @@
+{
+  "source_file": "Stefan Georgi - RMBC II (1)/07-62 VSL SECTION II- VSL Creation Examples/01-[1] Long Form VSL video3.mp4",
+  "source_id": "mega:GwRSGa5C",
+  "audio_sha256": "d649108b8a0a81753bedec1ce46d55e2a0b6aafb94b4a9b3f58fcbe6df6bb318",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 2082.65,
+  "last_segment_end": 2081.94,
+  "segments": [
+    {
+      "start": 0.82,
+      "end": 31.57,
+      "text": "Okay, so what do we do now? We've gotten two VSLs written under the course of about two hours of me talking and recording. If I was doing this myself, keep in mind, how long would this have actually taken me? Maybe, you know, like 20, 30 minutes, like something like that to have two VSLs. I could have run ChatGPT and actual Gemini and have four versions of it. I could have done like,"
+    },
+    {
+      "start": 31.57,
+      "end": 72.37,
+      "text": "One version of ChatGPT and Poe. It's like almost a commodity. Copy is kind of a commodity. Good copy is not. It's still hard. It takes thinking, processes, all these other things, right? But yeah, it's just interesting, right? So what would I do with this now? What I would do is I'm going to take this whole sales letter. I'm going to copy and paste it into here. I wonder how long it actually is."
+    },
+    {
+      "start": 73.2,
+      "end": 111.09,
+      "text": "5,707, which is good. I'm curious, because Claude said approximately 8,500 words, 27 minutes. It's actually good that it's not that many words, right? What I want to see is how long is this VSL actually most likely. So let me go to script timer. It's kind of good that Claude was wrong here. I like this Edge Studio one. I want to paste my script in. I want to see what this says, how long I think it'll be. This says it'll be about 31 minutes long."
+    },
+    {
+      "start": 111.09,
+      "end": 164.19,
+      "text": "Okay. Not the end of the row. Now if I add in some leads in front of this, whatever it is, it might end up being a bit longer than that. But there's some subheaders and other notes that aren't there. Either way, I've got this. Cool. I'm going to take it, move it over here. Then I'm going to go back to Poe. What is my objective here? My objective here is to add in an edit."
+    },
+    {
+      "start": 164.19,
+      "end": 200.59,
+      "text": "the parts I like from the other version of it, right? So, if you're a woman over 35 who's been shocked by the set appearance of crow's feet, under eye wrinkles, or dark circles that make you look exhausted even when you're well rested, you tried expensive eye creams, department store miracles, even professional treatments, but nothing seemed to work, then what I'm about to reveal will be the most important breakthrough you'll ever discover for transferring your eye area and getting back the full confident look you deserve. My name is Laura, and I'll share a saying that's going to change everything you think you know about why eye creams have failed you. Go back to this one."
+    },
+    {
+      "start": 224.88,
+      "end": 269.87,
+      "text": "So I think I'm going to introduce Laura again down here. I like that version more. So what I'm probably going to do is take this and replace it with this. Watch the short presentation. It's going to be worth your while. I like that more. It feels more earnest and authentic. That's why I'm changing it. Now remember what I said about you know that devastating moment when you look at the mirror, you see Kratos' feet. I know how that is. I lived it. You're probably living it right now too."
+    },
+    {
+      "start": 276.56,
+      "end": 321.07,
+      "text": "You may remember how I like this version more. I'll talk about that devastating moment. This happens to so many of us, right? We know this part's going to get to that future pacing. So I'm going to go ahead and do this, this. Okay, which future pacing do you like more? Let's see. Picture waking up tomorrow morning, looking in the mirror to see bright, rested eyes, that actually match how bad when you feel inside. Imagine waking up, looking at the mirror, and seeing eyes that are bright, rested, alert, and true reflection on how you feel inside."
+    },
+    {
+      "start": 321.07,
+      "end": 373.94,
+      "text": "Imagine feeling so confident that you can go out with a little no makeup on. Imagine getting compliments from friends and family. Not asking if you're tired, but telling you how refreshed and youthful you look. So take a picture. Imagine you feel like you're old yourself again when you look in photos instead of cringing and wondering when you started looking so old. You know, it depends on the direct response angle. I think both of these work fine. This is questionable. This is too harsh. I'm going to keep it for now."
+    },
+    {
+      "start": 375.25,
+      "end": 422.64,
+      "text": "What I'm about to share with you is a heartbreaking story of how a busy Florida mom, me, discovered the real reason why every single eye cream had failed her and how a chance meeting with leading anti-aging physician revealed the shocking scientific truth. I do like this here. This transformation is possible. It has nothing to do with expensive creams you've been using. I'm going to add that line in. Because it's kind of like a sliver of hope, right? Why they're probably failing you too. Okay. I'm about to share the heartbreaking story. I feel like this just feels a little bit faker."
+    },
+    {
+      "start": 423.15,
+      "end": 464.72,
+      "text": "So I'm going to go with this. In this presentation, I'm going to share the heartbreaking story of how I, a busy mom of two right here in Florida, discovered the real reason why every single iPhone would fail me, why they're probably failing you too, and how a chance encounter meeting with a lean anti-age physician revealed the shocking scientific truth that the cosmetic industry doesn't want you to know. Okay. Discover having a similar level. They've been told about collagen loss has been seen in the most critical piece of the puzzle. Sad."
+    },
+    {
+      "start": 470.48,
+      "end": 523.81,
+      "text": "It's basically the same copy verbatim. I'm going to reveal why this, the hidden breakdown. I just share it with you. This breakdown works specifically for women over 35 who are tired of wasting money on products promised to build but deliver no disappointment. You know, I might take this because we know that from our unified research thing that they like science-backed solutions. So why did I do that change? Because we know they like science-backed solutions. I was the biggest skeptic too."
+    },
+    {
+      "start": 523.81,
+      "end": 598.38,
+      "text": "Carol, 51-year-old from Texas, tells me that this breakthrough is the Holy Grail. She shows me her eyes can be happier. She shows us forward to using this breakthrough every night. It was a false hope like this. This wasn't just another false hope. This was a revolutionary shift."
+    },
+    {
+      "start": 605.46,
+      "end": 666.16,
+      "text": "Now, I did say watch every word before, but that's okay. It's just dramatic. Is it really needed? We'll change everything. Probably not. Okay. Okay. My name is Laura, and just like you, I'm a busy mom trying to joke everything life throws at me. I live in Florida with my husband or two kids, and for most of my 30s, I thought I was aging pretty gracefully. The story here, I kind of like this one more, so I might here switch this out, right? But then around my 30s, 7th birthday, something shifted. It felt like it happened overnight."
+    },
+    {
+      "start": 667.47,
+      "end": 715.89,
+      "text": "I thought this was good. I, you know, was looking in the mirror. I thought the dimensionalization here was better. That's why I'm picking this one. So it's like, caught my reflection in the bathroom mirror, scared. Basically looking back, I look exhausted. There were fine lines, right? I think this is better. It's a big and expensive, frustrating journey, right? Let's see, I'm going to put this part in first. Basically looking back, I look exhausted. There were fine lines fanning out from my eyes that weren't just smile lines anymore. There were deep, there were, there were deep set crow's feet under my eyes."
+    },
+    {
+      "start": 715.89,
+      "end": 776.82,
+      "text": "It's gonna look thin, almost translucent, look purplish, dark circles, it may look permanently worn out, but it wasn't just the lines. The skin under my eyes looked different, loose, crepey, like it has lost some essential quality that made it look youthful, right? I like that. So I'm gonna keep that one there. I kinda like this stuff, I like the sales when we're so convincing. I kinda like the specificity here, Botox, retinoids, you know, it's probably $3,000. I was watching myself disappear."
+    },
+    {
+      "start": 797.62,
+      "end": 891.66,
+      "text": "If I think about searching online forums, fine, but I might do... It's probably fine. I might do YouTube videos or reels, but it's probably fine. My friend Sarah mentioned Dr. Schilling. I'd probably do his first name here, Dr. Blaine Schilling. If I can give you real answers, it's him. I'm gonna try everything so I made the call. So I overall liked the way John and I did this whole section. So there it starts getting a lot more dialogue. Wrong problem, what did he mean? So this is where I might..."
+    },
+    {
+      "start": 913.94,
+      "end": 1048.34,
+      "text": "Okay, let's see. Now I could do with the VO thing, but I wouldn't rather do it this way. I mean, this is tough because I've got to really think about it here. Like the way he explained it, I'm going to keep this here. This is interesting. So realistically, I'm going to do it all the way up from here, right? Like this. I'm going to remove the formatting for now. I don't need their suggestions. It's fine that they have them. What I like about here is like, okay."
+    },
+    {
+      "start": 1048.75,
+      "end": 1184.86,
+      "text": "When it collapses, it creates this reaction. It's because the network creates wrinkles. We probably don't need it. This is probably more succinct. We probably don't need the clod one here, actually. So we know we're going to get to the UMS, so I'm going to delete it here. I'm going to probably just go with Gemini on this part. What I'm thinking about here is, like, understand why all this stuff, porno collagen. What I kind of want to keep is, like, let me do it like this. Because if..."
+    },
+    {
+      "start": 1184.86,
+      "end": 1242.32,
+      "text": "problem, collagen architecture breakdown. The solution isn't to add more collagen to broken fabric. The solution is to restore the organized structure of the weave itself. Okay, so let me go here. And yet, as simple though I felt thrilled to finally understand why the skin around my eyes seemed to be aging so much faster than the rest of my face."
+    },
+    {
+      "start": 1263.34,
+      "end": 1322.61,
+      "text": "I also worried that maybe this problem worried because what Dr. Schilling had described sounded like something that would be impossible to fix. He developed a... That's fine, we'll keep that for now. Okay, he called it this. So let's go with most of this. I actually like most of this here, okay? So if I come to this part..."
+    },
+    {
+      "start": 1329.55,
+      "end": 1441.36,
+      "text": "Command the skin to reorganize and rebuild the architecture. It's already lost. Take the single messy threads and move them back to that tight, useful structure. He broke it down for me in three logical steps. Step one. So I'm going back to structural renewal signal. Let's see what I had here. Let's see. I actually like this more. My bad. I thought I liked the Gemini version more of this, but I actually like this version more. I'm not going to over worry about the quotes here. It's going to be cleaned up later. So let's see."
+    },
+    {
+      "start": 1455.5,
+      "end": 1607.09,
+      "text": "Who can I start up here for the UMS, okay? So, all right, so big brands are trying to invest in their own. Can you give me the map? I don't mind this. That conversation changed my life. I walked out who I'm knowing to look for. I'm on a mission. I researched every eye cream. Guess where I found nothing. Propped to propped. Cleaned with collagen. Addressed architectural breakdown. This is where I'm going to go to Claude. I'm going to say, right, one thing that was missing. I think, let me know."
+    },
+    {
+      "start": 1613.58,
+      "end": 1698.48,
+      "text": "Research two. Okay, yeah, so I uploaded that again. When we get to, I'm thinking these to be referenced in this section as part three step solution. Let's see. There we go. So that's better, right? Great, thanks. And then we'll want to mention them again in the ingredient section of the close."
+    },
+    {
+      "start": 1702.45,
+      "end": 1795.09,
+      "text": "So, if we go back to step three, what I'm wondering now is, I feel like I have to go back to the actual UMP, so hold up a second. Okay, what I'm thinking about here, okay, first, let me say, thanks, so here's product buildup section again. One thing that's not clear is which of these are related to step three."
+    },
+    {
+      "start": 1795.09,
+      "end": 1859.23,
+      "text": "After all, we said it's a three-step system. How can we make this work? We'll add in other ingredients in the formula to as optional. So like, again, what am I doing here? Well, it looks pretty good, but we sort of had like a three-step system, and we sort of talked about step one, step two. Okay, so this, step two. Okay, so now I like it, okay?"
+    },
+    {
+      "start": 1859.23,
+      "end": 1921.23,
+      "text": "So basically, it did step three. Finally, we needed step three, the integrity blocking system. Okay, so now it's longer, but it's good. Finally, my ingredients was only beginning. All these setbacks. Finally, I got a breakthrough. Okay, this part here, the formatation team called me. That's not bad. I wonder about the breakthrough part here. I think it's fine for now. As that stands, I'm going to get into the close. Now, you've been through closes. I'm going to copy and paste it, but I think, you know,"
+    },
+    {
+      "start": 1921.23,
+      "end": 1975.34,
+      "text": "Ultimately, it should be pretty good here. Sorry, guys. Price justification reveal. The recipe I think is pretty good, honestly. I mean, I'm not worried about the close so much, okay? So I think it's a solid structure. What if I wanted to test a different... Well, you might remember the ADHD hook things we talked about before, right? So I'm going to do now. I think I saved this in a certain place yet. I did not."
+    },
+    {
+      "start": 1983.5,
+      "end": 2019.25,
+      "text": "Move this to here. I am going to download this as a PDF. Give me another minute here. Actually, I'll do the leads as a separate video, so we keep this going. Okay, so once you, I mean, if we pause back, what we've kind of done here, you know, all we're doing here is we sort of took the VSL claw did, which was pretty good, and then we looked at Gemini to compare it, added in parts we liked from Gemini. We had a critical eye to think through, hey, wait a minute, there's..."
+    },
+    {
+      "start": 2019.66,
+      "end": 2081.94,
+      "text": "Only two steps here. What about the third step? Hey, we left out these ingredients. Oh, by the way, yeah, that's the thing I actually have to do on this real quick. So first there's whatever it was. First there's. Oh, let's try that. Another showing up here, right? Okay, now it has that too. All right, yeah, so let's go look at some leads here in the fourth and final video."
+    }
+  ]
+}

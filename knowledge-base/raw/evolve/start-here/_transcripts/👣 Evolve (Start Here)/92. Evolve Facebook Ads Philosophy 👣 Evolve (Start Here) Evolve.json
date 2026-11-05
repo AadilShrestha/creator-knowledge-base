@@ -1,0 +1,99 @@
+{
+  "source_file": "👣 Evolve (Start Here)/92. Evolve Facebook Ads Philosophy 👣 Evolve (Start Here) Evolve.mp4",
+  "source_id": "mega:jhQDiSSY",
+  "audio_sha256": "0d472a0b35e3c41b0a3af9114705ba2eb316a57a8f6597cf5378a748b60aa41f",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 420.78,
+  "last_segment_end": 419.54,
+  "segments": [
+    {
+      "start": 0.72,
+      "end": 25.92,
+      "text": "All right, in this video, we are going to be covering our strategy from a high level so you can actually better understand the philosophy behind this before you think, what is this, okay? I have tried every single, why, that's a lie. I have tried almost every single ad structure and media buying strategy that's out there, okay? And I can confidently say that this is"
+    },
+    {
+      "start": 25.92,
+      "end": 51.78,
+      "text": "probably the best and it is the easiest structure to run. Okay. So the campaign level, we will talk more about this as we get deeper into it, but I just want to give you a high level overview here. We run one campaign. It is called the acquisition campaign and it is fully broad. Okay. It does retargeting for you. It does prospecting for you. It does middle of funnel for you. It does everything for you. Okay."
+    },
+    {
+      "start": 51.78,
+      "end": 79.41,
+      "text": "You do not have to have separate campaigns and you do not have to have a testing campaign or a scaling campaign or audience this or audience that. Audiences don't matter, okay? This is broad. We're going broad. And again, I'll explain this further as we get deeper into it. And all you're doing at the campaign level is you're controlling the budget, okay? You are gonna say, this is my budget, Facebook. Here it is and I want you to spend it because you're my friend and I trust you, okay?"
+    },
+    {
+      "start": 79.44,
+      "end": 108.88,
+      "text": "Very rich friend, but you trust him. The next thing is that by having it in one campaign, we have a scalable environment. And a scalable environment means that when we test ads, we are testing ads in the arena, okay? We are not starting these ads on the playground, okay? We're throwing them right in the Coliseum. They are getting after it, okay? They're gonna face the best of the best. There is no warmup. There's no, oh, let me just test a little bit of spend here. No."
+    },
+    {
+      "start": 108.88,
+      "end": 137.33,
+      "text": "we put them in the one scalable environment that we have to see if they are worthy of getting spent, okay? So the reason, this was the big breakthrough for me and this is what makes this strategy so powerful is we do not have to waste spent, okay? If an ad gets spent in this campaign, in this structure, that means that you nine times out of 10 have found a new winning ad and that also means that it is a good ad."
+    },
+    {
+      "start": 137.33,
+      "end": 149.92,
+      "text": "it is going to perform better than all the other ads that you have inside of here, okay? If a spend, or if a spend, if an ad does not get spend, it is a bad ad."
+    },
+    {
+      "start": 149.92,
+      "end": 170.77,
+      "text": "And this is probably the hardest thing for people to understand. And I'm telling you, we hire new media buyers probably every couple of months. And when they see the strategy, it kills them. And I'm not going to lie, it killed me too for the longest time. And I seriously, for six months, would take any ads that didn't get spent and I would..."
+    },
+    {
+      "start": 170.77,
+      "end": 195.68,
+      "text": "take them out of there and I would put them in an ABO campaign. If you don't know an ABO campaign, basically it's where you can force spend on ads rather than letting Facebook choose where to spend. But I would take any of these ads in this campaign that didn't get spent and say, you know what, Facebook, I'm smarter than you. And I would put it in an ABO campaign and I would force $25, $50, $100 a day on it. And I would let it spend. And what would you know? It would not work."
+    },
+    {
+      "start": 195.68,
+      "end": 216.42,
+      "text": "it would get, you know, a 0.5X return on ad spend. Meanwhile, this campaign was absolutely ripping and getting, you know, a 3, 4X. And then, you know, I do it again. I do it again the next week. I'm like, okay, well, no, this ad, this ad, obviously Facebook didn't read it properly. I know this ad, same thing. I would spend on it, spend $300, $400. It would not convert. Turn it off."
+    },
+    {
+      "start": 216.42,
+      "end": 245.68,
+      "text": "Same thing again. A month later, I was like, God, okay, you know what? No, I know Facebook is not smarter than me. I'm gonna take this ad, these new images that we did, there's no way that these are not good enough to scale. So I'm gonna take them out and I'm gonna force spend on them. And would you guess that same thing happened? The performance was terrible. I have not seen an ad in one of these DCT campaigns that didn't get spend. I have not seen us take it out, spend on it, which we've probably tested about"
+    },
+    {
+      "start": 245.68,
+      "end": 272.69,
+      "text": "60, 70 ads at this point, I have not seen a single one of these ads that did not get spent in this campaign outperform in a separate campaign. It has not happened. And if it does, if it does perform, it performs for maybe three or four days and then it falls off the face of the earth and it absolutely crumbles, okay? So this campaign is saving you money and actually optimizing your performance."
+    },
+    {
+      "start": 272.69,
+      "end": 300.34,
+      "text": "As you can tell, I'm very passionate about this because I've been slapped in the face by Facebook so many times, okay? So I understand you're probably going to have your perceptions on this of like, this doesn't seem right. This doesn't, you know, I just want to retarget. I want to do this. Okay, listen, if you want to, go ahead. But I'm telling you, this is the best strategy that you can use. And I'm saying that confidently because I have seen us spend $40,000 on a single campaign and I've seen it absolutely crush."
+    },
+    {
+      "start": 300.34,
+      "end": 325.71,
+      "text": "$40,000 in a day. This is showing $50,000 in a month. We were spending $40,000 a day in a single campaign. This strategy works. The other thing that you need to know is our 3-2 testing method. And the reason why we do this is because rather than us actually putting three different ads in there, what we actually do is we give Facebook the ability, again, to choose them for us."
+    },
+    {
+      "start": 325.71,
+      "end": 353.66,
+      "text": "all right, Facebook, here's three images around this one concept, which is kids' images, okay? That was our idea. And we got three different images of kids and we tested them with two pieces of copy and two pieces of headlines, all right? So headline copy. And we let Facebook choose. And Facebook took our spend and navigated around and was able to essentially tell us which ads were gonna be the best, okay? And again, what I want you to learn here is that"
+    },
+    {
+      "start": 353.66,
+      "end": 369.04,
+      "text": "you are giving the machine the tools to actually succeed, all right? And a lot of times, what you won't realize is that even in this instance, for example, where image number two here got $206 compared to image, in the first image, they got $313."
+    },
+    {
+      "start": 369.04,
+      "end": 397.39,
+      "text": "Facebook at this point was obviously still trying to figure it out, but at the end of the day, if you actually dig deeper into the analytics, which I will show you how to do later, a lot of the times these ads that are getting lower spends are just hogging view through attribution or are just getting like the last click compared to the ads that are really driving the performance, which is what Facebook is trying to do for you. Facebook is trying to make you money, okay? Because if Facebook makes you money, then they will make more money. So why would Facebook spend your budget on ads that aren't going to work, okay?"
+    },
+    {
+      "start": 397.39,
+      "end": 419.54,
+      "text": "That is my rant about this campaign structure. I am very, very, very excited for you to go through and learn a little bit more about it, but I just want you to know that this structure is amazing because you don't have to have massive budgets to test a lot of creatives, okay? It allows you to test and do the things that matter without massive budgets. So I'm very excited for you to learn more about this, and I can't wait for you to go through these upcoming modules."
+    }
+  ]
+}

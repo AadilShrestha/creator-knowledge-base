@@ -1,0 +1,54 @@
+{
+  "source_file": "Stefan Georgi - RMBC II (1)/07-62 VSL SECTION II- VSL Creation Examples/04-[4] Short VSL video3.mp4",
+  "source_id": "mega:GwRSGa5C",
+  "audio_sha256": "02821b007a1fb60b9584eff5fea010c8e04fdc5359012fd5b08b12e914575e34",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 407.36,
+  "last_segment_end": 407.36,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 33.33,
+      "text": "All right, so all we're going to do here is do really quick short VSL examples for blood sugar. It's honestly going to be basically identical to the three to seven minute ones. In fact, frankly, it's going to be a minute. Like, we're literally able to do the same thing. Here's a brief for, let's say, you know, one minute. 30 second video, go to VSL. CT video, go to watch the full presentation. Use the following, go to the hook. Literally the same thing. We're just going to upload the brief again."
+    },
+    {
+      "start": 41.55,
+      "end": 79.47,
+      "text": "I'll probably just write it. Okay, stop drinking coffee until you see what it's really doing to your blood sugar. If you're a diabetic or if you're a diabetic, that morning cup of coffee isn't just giving you energy, it's probably sabotaging your glucose levels all day long. Most people have no idea that coffee sugar is a stress hormone called cortisol, which signals your liver to dump stored glucose, starts making your bloodstream. I'm a doctor, a board-certified endocrinologist to treat over 10,000 diabetic patients in my 18-year career. Here's what shocked me. Even decaf coffee can spike blood sugar because it's not that."
+    },
+    {
+      "start": 79.47,
+      "end": 109.1,
+      "text": "Caffeine is a problem. It's how coffee disrupts something called your cellular glucose doors. You see yourself some tiny protein channels called GLUT4 transporters that act like microscopic doors, allowing glucose to enter where it belongs, but coffee creates inflammation that makes these doors rustling and stuck. That's why I spent months researching an ancient Himalayan race preparation ritual. I have to say, you know, I'd probably just call it like an ancient Himalayan race ritual. It actually repairs these cellular glucose doors in just 30 seconds a day. People in this region have been using a specific..."
+    },
+    {
+      "start": 109.17,
+      "end": 142.27,
+      "text": "Golden Spice with their rights for centuries. They have virtually no diabetes despite eating high carb diets. When you fix these broken cellular doors, your blood sugar can finally normalize. Naturally, without 14, your system with four medications. Just as a free presentation of doing the 30 second blood sugar reset ritual, the exact Golden Spice is helping thousands of my patients. Click below to watch this free presentation before it's taken down. Like I said, outline, but basically just wrote it. It's good. Here are the edits."
+    },
+    {
+      "start": 142.27,
+      "end": 246.93,
+      "text": "I want to make, say, that's why I spent months researching ancient Himalayan. I know it's supposed to hack in a VSL. I do that, and then I'd probably do, let's say, something. Let me say, as a big natural health guy, this goal is supposed to say I never would have expected. So it should be right here. So give me the outline, but realistically, this is just basically the VSL, right? Let's see what happens here. Cool, go ahead."
+    },
+    {
+      "start": 246.93,
+      "end": 330.61,
+      "text": "Write the ad, please. So it should basically be the same as what we saw. And if I don't like it, I can always just use this. It made me think about it because I already did write the ad. I mean, yeah, seriously the same thing, but it's cool. All right, great, good job. Hit this big again. Well, your sleep apnea is making diabetes impossible control. That's kind of interesting. Okay, great. Let's... Another version of this ad with new hook will be..."
+    },
+    {
+      "start": 343.41,
+      "end": 377.73,
+      "text": "The rest of the ad from this point on can basically stay the same. While your sleep apnea is making diabetes a possible control. Period diabetic also struggles with sleep apnea. You're funny about it. You can't win because overnight a disruptive sleep is sabotaging your blood sugar control. Most people don't realize that sleep apnea creates a vicious cycle. The inner active breathing spikes stress hormones in the cortisol which floods your system with glucose all night long. Then you wake up with elevated blood sugar that stays high all day. Hey, I'm a doctor. Here's what shocked me."
+    },
+    {
+      "start": 377.73,
+      "end": 407.36,
+      "text": "If you get your sleep apnea treated for CPAP machine, your blood sugar can still remain stubborn because the real problem isn't just sleep disruption. It's how chronic sleep apnea damages and called your cellular glucose stores. Then it explains them and everything else, right? So same thing as in the three to seven minute video. You can kind of see how you can just say something to do. And of course, all right, cool. Now we do more structures. I mean, you can just do endless, endless, endless ads. So hopefully you were able to see that and understand. You can also see how I get feedback to get better outputs. So I think we're good. I don't think this has to be a super long one. Let's just stop here. Thank you."
+    }
+  ]
+}

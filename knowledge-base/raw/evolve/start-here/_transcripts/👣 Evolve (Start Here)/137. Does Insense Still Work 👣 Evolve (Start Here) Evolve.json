@@ -1,0 +1,119 @@
+{
+  "source_file": "👣 Evolve (Start Here)/137. Does Insense Still Work 👣 Evolve (Start Here) Evolve.mp4",
+  "source_id": "mega:jhQDiSSY",
+  "audio_sha256": "e300f93391e1d66832bb814b07fe90540b9aac92286af4e6fac5ad0d978566c3",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 464.26,
+  "last_segment_end": 464.08,
+  "segments": [
+    {
+      "start": 0.43,
+      "end": 29.04,
+      "text": "All right, so the question is, does incense still work, and is it still worth it? And so I wanted to film this video, and I wanted to pop this in here kind of right in the front because a lot of you guys have probably watched the why content is so important, part one. Maybe you watched some of the how we source content for videos, and then now you're into part two. And as you can tell, this is a pretty dense section with how we do everything on incense. I want you guys to know that right away, honestly, one of the things that matters a lot"
+    },
+    {
+      "start": 29.04,
+      "end": 58.35,
+      "text": "when it comes to Incense is two things, actually, not just one. One is the quality of your framework, okay? And so this module here that talks about, I've got to save this module super quick. This module here that talks about the sending frameworks to creators, it is very, very important that you guys understand this framework, okay? And on top of that, for this framework specifically, you need to make sure that you're not just like Chad,"
+    },
+    {
+      "start": 58.35,
+      "end": 70.77,
+      "text": "sending the framework to every single creator. Because what we found is there's essentially something called a first pick bias, if that's a thing. And I'm gonna go ahead and play this video."
+    },
+    {
+      "start": 72.18,
+      "end": 96.03,
+      "text": "And so inside of here, what you'll notice is that the very first topic that you put, especially if you've done this before, I don't know why it's not going to allow me to show you guys. We have the do's and don'ts here and I'm trying to get down to the actual first concept that we have. But here, right? So concept number one, lost on the roof. This is something that you'll see depending on the concept and how easy it is. Creators will just kind of..."
+    },
+    {
+      "start": 96.03,
+      "end": 124.27,
+      "text": "pick the one that is like the easiest to do or they usually pick one of the first two, okay? And so what I want you guys to understand is that when you are reaching out to creators and I don't, and I need to be clear, like I don't mention this in here and the videos here that are filmed, it's like I don't really need to film it. I'm just kind of filming this as an update for you guys because all these videos still apply. But it's very, very important that you actually, based on the creator, send them the framework and basically like curate it for them. And so what we've actually started doing"
+    },
+    {
+      "start": 124.27,
+      "end": 130.42,
+      "text": "is if we have this framework here, and I know my screen's cut off, what we would do is we would actually make a copy"
+    },
+    {
+      "start": 130.42,
+      "end": 159.7,
+      "text": "of this framework. And again, I know you guys can't see it, but I would make a copy. It's gonna say make a copy over there. And I would basically have multiple copies of this. And when I make a copy of it, I will actually remove some of the concepts that are here. And I'll essentially pick the one that I think is going to be best. Now in this section, there's only three. Usually we tell you guys to do like anywhere from four to six, but I would recommend based on the creator. So literally look at the creator and think, okay, like what would be a good video for this creator specifically?"
+    },
+    {
+      "start": 159.7,
+      "end": 176.51,
+      "text": "look at their existing content, and then from there decide kind of which framework is going to work well for them. On top of that, the second thing, or I guess now we've got three things. The second thing out of the three, and the third one is honestly the most important, so don't click off yet, is that if you want to script"
+    },
+    {
+      "start": 176.51,
+      "end": 203.54,
+      "text": "for this creator, okay? If a creator sends a message like, hey, what do I do? And they just need direction, you can provide a script for them. Now, the reason why we don't recommend like doing full scripts is because a lot of times like you guys like write scripts that just don't make any sense for the creator. And so it's very important to like understand the creator style and understand that they're actually the type of creator that you can write a script for. And then if you do want to write a script, you can write a script."
+    },
+    {
+      "start": 203.54,
+      "end": 214.08,
+      "text": "If you want the script document, you guys can actually go into the car recordings. Alex Cooper did one, and he gave you guys his sheet for that. It's very similar to one that we use, to be honest. We actually don't do a lot of scripting right now. We still..."
+    },
+    {
+      "start": 214.08,
+      "end": 242.16,
+      "text": "mainly use the framework, but if you guys do want to script, you can, but just be careful. And if you have been scripting a lot of videos before and it's not working for you, then I would recommend that you stop doing that, okay? I would recommend let the creators do some of their own ideas, okay? There's kind of a range if we, you know, draw our little pen here. On this scale, we have basically freestyle up here, which is like do whatever you want, and then we have fully scripted, give me my scale back, on this side."
+    },
+    {
+      "start": 242.16,
+      "end": 258.54,
+      "text": "Right. And so here you kind of want to be in the middle. If, if I'm honest with you, where you're this, that's where like the frameworks land. So again, on our, on our scale, we have freestyle, we have fully scripted and then we have frameworks and that's why we kind of found the middle ground, but it's very rare that you should ever let people."
+    },
+    {
+      "start": 258.54,
+      "end": 281.57,
+      "text": "fully, fully freestyle unless they're just a sensational creator. And again, same thing on this side. It's honestly from scripting itself. We haven't seen it work as much. So just understand that if you want to script, you can, if you're a very good script writer, you can. And if you have a really specific idea that you want to bring to life and you think it's going to crush and you find the right creator to do it, then go ahead and do it. Okay. But with that said, those two things aside. So number one,"
+    },
+    {
+      "start": 281.57,
+      "end": 310.53,
+      "text": "is making sure that you optimize the framework and basically make copies of the framework and send that based off of the creator's profile. And then number two is that if you want a script, because a lot of you guys ask that, you can do some scripting. But number three, we have noticed that product-aware products specifically work really well, okay? So incense will absolutely crush if you have a very broad product-aware product, and it will crush even more if you have some kind of a unique mechanism."
+    },
+    {
+      "start": 310.53,
+      "end": 339.18,
+      "text": "Okay. Just to give you context, I'm kind of like hiding the thumbnail. So you guys can't see the brand just for the sake of this brand's numbers. Cause I'm showing them to you guys in the last seven days, we have spent $74,000 on UGC. Okay. This is literally August 27th, 2025. Everybody's coping like crazy. Can't scale, can't do anything. We're absolutely printing with UGC right now. Okay. If I go to yesterday, you can see we spent 12 K yesterday. Okay."
+    },
+    {
+      "start": 339.18,
+      "end": 342.1,
+      "text": "just on UGC at a 1.7x."
+    },
+    {
+      "start": 342.1,
+      "end": 371.41,
+      "text": "Absolutely printing. And this is just like, this is one piece of the account. I think this thing, and this is actually, this is just one of the accounts. So I think we actually, we're spending over a hundred K on UGC right now per week. Okay. So we're spending over $400,000 a month just on UGC. And so once you guys understand like this still works, okay. These creators are from incense and more specifically, we actually found a winning creator. So we found a creator that made us solid content. And just to be clear, this creator didn't actually make like a super winner for us. We just saw that they had potential and they made a good video."
+    },
+    {
+      "start": 371.41,
+      "end": 400.62,
+      "text": "And then guess what? We hired them just like how we show you guys how to do this here, how to contact many creators, how to onboard brand ambassadors, how to communicate with them, how to complete feedback loops. And on the second video, they made a super winner that has been absolutely ripping for us. Okay. And just so you guys don't freak out about why there's so many ads in here. We actually don't do the media buying for this client. We just do the UGC only while we have our one campaign, but then they copy it and they do some stuff with it. It doesn't matter. No, like the UGC is, is what's ripping. So my point here is, is that incense."
+    },
+    {
+      "start": 400.62,
+      "end": 407.9,
+      "text": "Very much so, still works, okay? There's three key things. Number one, make sure you divvy up the framework and kind of give..."
+    },
+    {
+      "start": 407.9,
+      "end": 435.34,
+      "text": "optimal frameworks to each creator based on their profile. Number two, if you want a script, you can, but we still recommend kind of doing frameworks. Do not freestyle it. At least have some kind of a framework, have conversations with these creators. But if you are a really good script writer, you have a specific idea, you can script it. And then the third thing is that if you have a large product aware market and you have some kind of mechanism that can help you stand out, or just a lot of people know about your product in general, not all product."
+    },
+    {
+      "start": 435.34,
+      "end": 464.08,
+      "text": "markets are built the same. Uh, and also just understand that depending on your product, like if there's nothing really unique about it, it's going to be a little bit harder, but just know that for this brand specifically, they have a very large product where I market and they do also have a somewhat unique mechanism. It's not crazy unique, but there's other brands that have it, but we have just found a way to market it really well with UGC. Okay. So I wanted to share that with you guys just so we're on the same page and you can know that incense does still work and it's still the platform that we use."
+    }
+  ]
+}

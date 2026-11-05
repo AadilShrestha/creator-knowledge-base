@@ -1,0 +1,664 @@
+{
+  "source_file": "Stefan Georgi - RMBC II (1)/04-VSLS SECTION I-Structure Theory and Examples/10-[9] Using AI to Generate Endless Good Hooks.mp4",
+  "source_id": "mega:GwRSGa5C",
+  "audio_sha256": "0b0c62f8090d3c43e4ce38dc7beb9e2a60aa69484dae3f22baa16ab1d0cda717",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 3827.78,
+  "last_segment_end": 3823.18,
+  "segments": [
+    {
+      "start": 4.91,
+      "end": 42.74,
+      "text": "Hello. How are you doing? Good, good. So I'm approving note takers. But yeah, we'll get started in just another minute or so. I don't have to repeat myself more than I think. Hopefully we're just having a pretty good week. Had a good weekend, all that kind of stuff. So 18th century France. Yeah, I don't know, man. I made this with generative AI back in like..."
+    },
+    {
+      "start": 42.74,
+      "end": 71.66,
+      "text": "maybe a year ago and the original idea was like this concept around how um you could tell somebody to to like build a bike but if you didn't give them good instructions they'd leave the handlebar off so i spent a bunch of time trying to create like like a classical painting of like a bunch of like nobles around uh like a bike without handlebars and i couldn't really figure out how to do it maybe it's better now but at the time it was sort of struggling but then i'm like oh well you know it's kind of a dramatic background i haven't used it in like"
+    },
+    {
+      "start": 71.66,
+      "end": 101.23,
+      "text": "a year but uh i was like just blurring my background and i said hey what the hell let me try i think i have another another variant of it which is more of a classical theme you know or it's supposed to be more like a little bit more like painted and like a renaissance style of everyone's trying to figure out how to build the bike um but you know for the vibe i'm feeling i decided to go with uh with that other one so you know but it's basically just general ai so it's pretty crazy yeah it is cool"
+    },
+    {
+      "start": 101.36,
+      "end": 130.1,
+      "text": "All right. Well, I'm sure more people may hop on, but they're not here. Oh, here's somebody hopping on. Okay. So let's go and get started. Today, we are going to be doing the kind of like, we're talking about hoax and generating hoax and ads. I'm going to be breaking down like a video ad from vShred. It's going to be related to like what I've talked about a bit in recent weeks where it's like a lot of hook heavy ads. We're going to talk about..."
+    },
+    {
+      "start": 130.1,
+      "end": 165.34,
+      "text": "processes that I am using to generate a lot of hooks and then also to write those hook-heavy ads. So it should be valuable. We'll see if we can get through all of it in a single call. If we have to make it two calls, we will, but I'm hoping we can. So let's go ahead and get started. I'm going to share my screen. What the hell this is? There you go, share. All right. So hopefully everyone can see the screen here."
+    },
+    {
+      "start": 165.34,
+      "end": 192.1,
+      "text": "So I'll show you an example of sort of like the endpoint that we're going for. And then we'll kind of go back in time and figure out how we got to this endpoint. And this is still a work in progress to some degree. So, you know, I'll continue to refine it. OK, so this is like a quad project I created half an hour ago. I'm going to go through later in the call, like what the instructions were, what it's trained on, all that kind of stuff."
+    },
+    {
+      "start": 192.1,
+      "end": 221.2,
+      "text": "But you see, you know, we're going to write some new ads for our skincare brand, Opal Beauty. I'm going to upload the first half of the VSL so you get a little bit more context. Your goal is to write ads that are hook heavy, have tons of curiosity, leverage the hook database. You'll see what the hook database is shortly. And ultimately sell the click to the VSL. We're also going to make all the ads between one and three minutes long for now. To start, can you give me 10 ad concepts where you include the different hooks to be mentioned in the first 30 seconds? I'll then choose and have you write ads from there. Okay. So I'll show you some of the examples it had."
+    },
+    {
+      "start": 221.55,
+      "end": 252.14,
+      "text": "ad concept number one the velcro effect stop using hyaluronic acid until you watch this did you know celebrities are secretly using this instead of botox the truth about collagen supplements is that they might help your body produce more collagen but they can't fix this specific problem with your skin what happens when your skin loses this velcro effect most women don't realize the separation is happening beneath their skin okay so this will all make more sense as we go through the training but as you can see it's like i didn't ask you to come up with the hook i said basically like um"
+    },
+    {
+      "start": 252.14,
+      "end": 282.51,
+      "text": "You also come up with 10 concepts. First concept, you can see it's got a lot of hooks in here, right? Next concept, this is for our skincare brand, but this will work for anything. You'll see. The hidden layer. I can go through all that. I'll go to a couple that I particularly liked. I think this one was okay, but the microscopic truth. You need to see this microscopic view of what's happening to your skin cells right now. I had no idea my skin layers were supposed to look like this. The wavy connection between your skin layers is flattening out. These two peptides."
+    },
+    {
+      "start": 282.51,
+      "end": 309.18,
+      "text": "Reconnect your skin's microscopic hooks. Peptides can actually reconnect the inner layer of skin around your eyes. Okay. A couple other ones. I like this one here. And again, I'm going to, for people who just joined, I'll keep repeating myself at the beginning of what people joined. I'm going to go through the whole process, how we got to this endpoint during this call. Okay. Stop washing your face in the shower until you hear this. Stop microwaving food and plastic if you care about your skin's elasticity. Here's what hard water does to your skin. These three ultra common household items could be silently damaging your skin barrier every day."
+    },
+    {
+      "start": 309.18,
+      "end": 337.36,
+      "text": "Do you know about the surprising link between your laundry detergent and eye bags? Okay. So if you watch some of my previous trainings on hooks, you know that what I've talked about is like, I like a bunch of hooks and ads. That's what I've seen working. And we're about to look at that with a V-Shred example, but I've seen it across numerous brands. It's what we're now using for our Opal Beauty ads as well. So again, basic prompt of the project, which I'll show you how to create. Those are the concepts, right? And did a pretty good job. Like, all right, let's start with ad concept number one. Go ahead and write that now. Okay."
+    },
+    {
+      "start": 337.36,
+      "end": 364.67,
+      "text": "Stop using hyaluronic acid until you watch this. Camera zooms in on eye area showing fine lines. Did you know that celebrities are secretly using this instead of Botox? The truth about collagen supplements is that they might help your body produce more collagen, but they can't fix this specific problem with your skin. What happens when your skin loses its Velcro effect? Most women don't realize this separation is happening beneath their skin. I was shocked when I discovered what was really happening underneath my skin. For years, I spent hundreds on creams promising to fix my crow's feet and eye bags. Nothing worked long term. Then I learned something that changed everything."
+    },
+    {
+      "start": 364.67,
+      "end": 392.27,
+      "text": "It wasn't about adding more moisture or even boosting collagen. These solutions weren't addressing the real problem. See, when you're younger, your skin layers are connected like Velcro. These tiny microscopic hooks keep everything tight and smooth. But after 40, these connections start breaking down. When that happens, nutrients can't reach your top layer of skin. Blood vessels become more visible, causing dark circles. And without proper structure, your skin collapses, forming wrinkles and bags. No wonder expensive creams weren't working. They weren't fixing the broken connections. When I started using this technique that actually restores those connections, everything changed."
+    },
+    {
+      "start": 392.27,
+      "end": 421.68,
+      "text": "I'm never going back to Botox. This is so much easier, more affordable, and it actually addresses the root cause. Dr. Schilling explains how in this video, you need to watch it. Click here, okay? Now, I'm not going to go through all these yet because I want to go to how we got to that point. I'm like, all right, cool. You know, do number four. I didn't mention you can have multiple speakers where you can jump around. So I was like, you know, you need to see this microscopic view of what's happening to your skin cells right now. I had no idea my skin layers were supposed to look like this. The way of the connection between your skin layers is flattening out. What you're seeing is saying that 99% of skincare companies aren't telling you about."
+    },
+    {
+      "start": 421.68,
+      "end": 451.1,
+      "text": "Okay? And then, like, cool, do number eight, right? Stop washing your face in the shower until you hear this. Stop microwaving food and plastic. We'll go back to it. Cool, do number nine, right? This is how doctors in Switzerland are treating ironicles about Botox. Okay, cool. Then I'm like, hey, do number 10. All right, here's number 10. I did all this, like, you know, in like about 15 minutes prior to the call, but it's because of what I'm going to teach you on this call. All right, cool. Do more hooks, right? Okay. And what's important, I wouldn't pay attention to the titles. It's like,"
+    },
+    {
+      "start": 451.1,
+      "end": 474.48,
+      "text": "all the hooks that are in here. And I'm going to show you why I think this is so important as we go here. But honestly, even as I was going through these, like I didn't have time, well, yet to just have them do more. I figured I could even do some on this call, depending when you get to it. But even I'm looking at some of these hooks, I'm like, well, how's it going to pay it off? Like, what's it going to talk about? Like, you know, does eating lots of sugar make wrinkles worse? Is that what you think? These three foods are triggering your skin's aging time bomb. Your skin's aging started maybe in your kitchen right now."
+    },
+    {
+      "start": 474.48,
+      "end": 504.61,
+      "text": "uh the microscopic aging bomb in your skin that activates after 40 stop the ticking time bomb that's causing your eye wrinkles right these are all kind of hooks in the first 30 seconds like oh that's super interesting okay um using hot water to wash your face if they hold on okay so you see enough of that but like hopefully you're like intrigued and you're like all right yeah that seems pretty cool if i can just go to cloud project basically say hey here's a vsl for whatever it is i'm gonna upload it we're gonna do like curiosity ads that are heavy hook heavy tons of curiosity leveraging the hook database which you'll see what that is during this training and sell the click"
+    },
+    {
+      "start": 504.61,
+      "end": 534.5,
+      "text": "write them one to three minutes long, give me ad concepts and write them. Okay. Once the project's set up, that's all you really have to do. So that's pretty cool. I'll give you the prompt. Okay. So what motivated this? It starts with a V shred ad. I don't think I broke this down in detail. Maybe I've showed parts of it before. It's a five minute long ad and we were going to watch all of it on this call, but then we're going to go through a breakdown of it and incredibly minute detail frame by frame. Yeah. Let's fucking go."
+    },
+    {
+      "start": 534.5,
+      "end": 564.19,
+      "text": "And I want you to see what's going on, why it matters, all that. So even though this is five minutes long, we're watching it. Let me make sure you got the audio. Because it's honestly the craziest I've ever seen was to actually really pay attention. So we're going to watch it one time straight through. And then we'll go through the breakdown. Make sure you get the audio, share computer sound, stereo. And hit play. Let me know if for any reason you can't hear it. This is how to get in shape fast. You guys can hear that, right? Yeah? Thumbs up? Okay. All right. Let's watch it."
+    },
+    {
+      "start": 564.19,
+      "end": 590.86,
+      "text": "I think I'm going to start cutting carbs. I need to drop my belly fat. If you want to drop this, start eating more of these. Have you seen this guy? You know, the one that keeps telling us to stop running on the treadmill. Well, you might want to listen to this. You may think this will take years to learn, but we're going to teach it to you in 60 seconds. Watch this. People wanting to lose belly fat should stop starving themselves and cutting out carbs. I was on carnivore for about four years. No carbs. I gained..."
+    },
+    {
+      "start": 590.86,
+      "end": 605.26,
+      "text": "Bunch of weights. I was like, oh my God, I didn't know. Maybe you should forget everything you think you know about weight loss and listen to what I'm about to share with you. This is a metabolism killer. This is a metabolism killer. This is a metabolism killer."
+    },
+    {
+      "start": 605.87,
+      "end": 624.35,
+      "text": "If you're over 40 and running on the treadmill endlessly and eating salads all day just to lose a few pounds, let's just stop and listen to what I'm about to tell you. I want to talk to you about something that's been making waves on social media lately. You've probably seen this guy all over your feed claiming that cutting carbs isn't necessary for weight loss. No need for long hours on the treadmill either."
+    },
+    {
+      "start": 624.35,
+      "end": 653.65,
+      "text": "Now, I know it sounds too good to be true, but let me tell you, there's more to this than meets the eye. The science of weight loss was cracked a long time ago. It's not a trend, it's facts. Following all those like trendy fad diets, all those trending workouts that you see online is literally a waste of time. There's already a proven research-backed way to lose weight and keep it off. I decided to delve into this topic and do some research. Turns out this guy is a celebrity trainer who's gained a massive following for challenging mainstream advice. He claims that what we..."
+    },
+    {
+      "start": 653.65,
+      "end": 682.35,
+      "text": "been told about weight loss is wrong, completely wrong. And you know what makes a lot of sense when you listen to what he has to say. This is what 10 pounds of fat looks like. If you want to drop this or more, you got to take your metabolism from this to this. Is your body trying to tell you something? The darkness of your outer eye ring, the pinkness of your fingernails, spider veins, your posture, your weight, your face shape, the list goes on and on."
+    },
+    {
+      "start": 682.35,
+      "end": 708.91,
+      "text": "And what impacts these biological markers the most comes down to two words. Visceral fat. What is visceral fat? Visceral fat can cause inflammation. And this can accumulate in the heart, in the liver, in the muscles. Visceral fat is like a direct line to metabolic and cardiovascular disease. And this type of abdominal fat is linked with a higher risk of death. So how do we get rid of dangerous visceral fat? Well, it's a lot easier than you might think."
+    },
+    {
+      "start": 708.91,
+      "end": 738.19,
+      "text": "Stop running on the treadmill every single day if you're trying to lose weight or I'm gonna jump in this pool. Cardio burns fat, right? Wrong. Cardio actually burns calories, usually in the form of carbs in the bloodstream that are then replaced with the very next meal that you eat and usually stored as more fat. This is why when you eat even low calorie foods or you run for an hour a day, it seems like you get softer, but you don't actually lose any weight. And this is one of the biggest reasons why most weight loss attempts fail within the first three weeks."
+    },
+    {
+      "start": 738.19,
+      "end": 767.18,
+      "text": "I didn't know that. What am I supposed to do then? I've been in the fitness industry for a long time and I'm still hearing from people about how they want to get in shape or they want to feel young again, but they don't know what to do. Have you ever wondered what actors and actresses do when they have to get in shape really fast for a movie? Because I can promise you it's not the same diet that you're following or the same training plan that you try. It starts with getting rid of visceral fat and the number one way to do that is through what you eat and how you move."
+    },
+    {
+      "start": 767.18,
+      "end": 796.5,
+      "text": "And everyone knows that food choice can help you lose weight, but it can also radically change how you look and feel and perform. The food that you eat directly impacts what kind of fat your body stores and where it stores it. A little bit of that comes down to genetics, but it's also what you eat. Do you know what can happen if you optimize your diet? Two days ago, I was the lightest I'd been since I was about 23. Wow. I've never really experienced that with other diets. I've really not. I thought I was getting there with a carnivore diet because I was like, oh, I can do this. I eat whatever I want."
+    },
+    {
+      "start": 796.5,
+      "end": 811.52,
+      "text": "I just don't eat carbohydrates. I gained 12 pounds. How do you know what to eat? Well, there's a million different diets out there that are all sending you mixed signals. I want to show you a way of eating that will help you optimize your results without having to follow some super strict, unbearable diet."
+    },
+    {
+      "start": 811.52,
+      "end": 836.13,
+      "text": "And so if you're ready to stop guessing and start knowing, take our quick and easy quiz and discover our science-backed approach to just destroying your visceral fat. And millions of people have already taken this quiz and are seeing incredible results. You can eat regular food. And now I'm 40 years old with abs. I've never had abs before. I lost 53 pounds, 10 dress sizes. I had abs for the first time in my life. I lost..."
+    },
+    {
+      "start": 836.13,
+      "end": 848.59,
+      "text": "70 pounds. I lost 15 pant sizes. I haven't been this weight since high school. I've gone from a 6XL to an extra large. I've lost over 200 pounds with B-Shred. It's changed my life."
+    },
+    {
+      "start": 848.59,
+      "end": 875.76,
+      "text": "And I tell everyone that the best place to start is this quiz. It's a free quiz. It's six questions. It's super easy. It takes literally 20 seconds to fill out. You can do it right now. And then at the end of it, it tells you what your body type is, but it also tells you the three most important things to do based on what your body type is. And it's completely free. We don't ask for your email or anything like that. So if you guys want to check that out, click the link below, take my free body type quiz and get your personalized plan right now. Do it. Just get started."
+    },
+    {
+      "start": 875.76,
+      "end": 907.49,
+      "text": "now don't wait not tomorrow now all right so thank you for your patience as we watch that video so if someone have any observations feel free to put them in the chat do you have any thoughts after watching that ad be curious to see if anyone has anything they want to say or you can say them out loud that's fine too like five minutes of of hooks yeah um yeah actually i i was doing uh vshred ads for the past four years in kentago"
+    },
+    {
+      "start": 907.49,
+      "end": 934.9,
+      "text": "I was the creative director. It's really, really interesting. They took an ad, like a really successful ad that we do, that we did. And they made it like they put steroids on it with the visuals and everything. So really nice. Yeah, Tamir, that's cool. I didn't realize that. And that's, that'd make it extra fun. I mean, you know, because obviously most VShred and Svelte, right, have worked with Condago a ton."
+    },
+    {
+      "start": 934.9,
+      "end": 965.1,
+      "text": "And there's a lot of commonalities in those ads. So I feel like the two brands, whether it's them doing internally or because of Kandago or Kandago doing them, like they're really two brands that are really doing this. Emma Relief is starting to do it a bit more. A couple other brands like, you know, we can talk about that. But yeah, good observation. I appreciate you sharing that. And yeah, Michael and Amy's both said hooks. Crazy how many hooks, right? And that is really what I want to look at for everybody. Okay. So what I did."
+    },
+    {
+      "start": 965.1,
+      "end": 992.27,
+      "text": "And what I'm doing, actually, it's pretty cool. Basically, this guy Bashir, who's done different projects for a couple of years. I think he's in Nigeria or somewhere in Africa, but he's super smart, nice dude, whatever. So I basically have him. I create a folder, right, Bashir, where I'm taking swipes of ads using Swipe Builder, putting them into here. My team, if they want him to do one, they can put something here."
+    },
+    {
+      "start": 992.62,
+      "end": 1023.07,
+      "text": "And then basically, if I agree, we'll put it into the Bashir folder. And his job is to go through. So I did basically the first several of these on my own. And I'm like, I can't keep doing these on my own, right? So his job is to basically go through and take the transcript, which is generated by Swipe Builder, and then go through line by line and who's speaking the text of what you're seeing on the screen. And then he actually decided to add a screenshot. So I have two versions of it, one without screenshots, right?"
+    },
+    {
+      "start": 1023.07,
+      "end": 1052.67,
+      "text": "and then but it still has like what you're seeing on screen and then one that has with screenshots which right now isn't that useful for llms but it'll be useful for today and also it's useful uh when lms get bigger and they can just sort of have unlimited memory and stuff and i can upload with images that becomes even better so i figured why not have them do that now but yeah let's just go through i'm gonna start reading through this line by line and i mean yeah the the spoiler you know is that the amount of hooks that are just stacked throughout this thing is is insane right"
+    },
+    {
+      "start": 1052.67,
+      "end": 1082.38,
+      "text": "um and the second spoiler is to the point that uh whoever someone else is logged in as copying starter might be nick or somebody's story is told through editing clips even the clothes there's nothing stacked in the ad probably 100 clips i'm not sure who that is uh someone from the c18 but yeah the other huge part is like the visuals right yeah nick was somebody um so like let's kind of go through this right make this a little bigger this is how you get in shape fast right i'm and again i'm not gonna i'm not gonna read every single thing but like"
+    },
+    {
+      "start": 1082.38,
+      "end": 1112.37,
+      "text": "immediately like a weird what the fuck image right brown protein bars or brownie sticks being dipped in bright red sauce syrup this is how you get in shape fast i think i'm gonna start cutting carbs i need to drop my belly fat right um if you want to drop this points to the belly area of an overweight guy start eating more of these right so immediately curiosity right i want to drop this start eating more of these and there's a picture of image of a girl stuffing her face with some kind of carb heavy treat but we can't tell what the treat is right switches to the girl from american gladiators"
+    },
+    {
+      "start": 1112.37,
+      "end": 1139.46,
+      "text": "I wanted to make it more broad for AI, so I just wouldn't put stuff like female suffering endorser, right? Have you seen this guy? You know the one who keeps telling us to? And then, you know, stop right on the treadmill. One really cool thing here, I don't know if you guys caught that. I'm going to go back for one second. This is actually a crazy, like, little video edit. Let me get to this part real quick here. Here, sorry, she's right here. This was for, sorry, Dr. Drew, right? But, like, watch this real quick here."
+    },
+    {
+      "start": 1139.46,
+      "end": 1168.5,
+      "text": "you've seen this guy you know the one that keeps telling us to stop running on the treadmill i think that little note is like such a crazy edit when you think about it because it's like she's talking it looks like that's b-roll of him just running on the treadmill and suddenly he just turns and like breaks like the fourth wall and like talks to the camera it's wild it's dope it's really telling us to stop running on the treadmill okay so like that's immediately gonna grab your attention right um well you might want to listen to this"
+    },
+    {
+      "start": 1168.5,
+      "end": 1197.01,
+      "text": "You may think this will take years to learn, but we're going to teach it to you in 60 seconds, right? And then you've got a little timer up there that goes up to 60. And while we're doing that, Dr. Review is holding this weird, colorful, like squishy thing in the jar, right? Watch this. Okay, so think about the commands. I don't like NLP and copy a lot of the time. Like, I think people get way overdue if NLP and it's overrated. But like, if you think about it, there's a lot of commands in here, right? I mean, obviously, here's like, you might want to listen to this."
+    },
+    {
+      "start": 1197.01,
+      "end": 1226.64,
+      "text": "you know stop around the treadmill is like a command uh wait one more second here like to see like i thought there's another one you know drop this more of these i just want to make clear about how much curiosity there is it's like very broad and commands right like you might want to listen to this okay watch this um okay we have dr drew right like um people want to lose belly fat should stop starving themselves and cutting out carbs and there's like an ai voiceover"
+    },
+    {
+      "start": 1226.83,
+      "end": 1253.97,
+      "text": "I don't know if it's in here, but it says like no carbs or something like that. Like there's an AI voiceover that comes in to be like a pattern interrupt. I was on Carver Diet. I was on Carver for about four years. I heard it's no carbs, right? I gained a bunch of weight, but I was like, oh my God, I didn't know, right? Okay, didn't know what? I have more curiosity. Maybe you should forget everything you think you know about weight loss and listen to what I'm about to share with you. More curiosity. And then we go to this kitchen thing, right? This is a metabolism killer."
+    },
+    {
+      "start": 1253.97,
+      "end": 1283.25,
+      "text": "This is a metabolism killer. This is a metabolism killer. This is a metabolism killer, okay? Repetitive curiosity. Each time there's something that looks like a jar of peanut butter, looks like a jar of mayonnaise or salad dressing, looks like it's some kind of cooking oil, whatever it is. If you're over 40 and running on the treadmill endlessly and eating salads all day just to lose a few pounds, just stop and listen to what I'm about to tell you. I mean, how many times now in the first 30 seconds of the ad have we seen them say, just stop and listen, watch this, listen to what I'm about to tell you. Maybe you should listen to me. It's like..."
+    },
+    {
+      "start": 1283.31,
+      "end": 1310.8,
+      "text": "fucking curiosity and just like telling them repetitively to listen, listen, watch, listen, right? Super interesting. I want to talk to you about something that's been making waves on social media lately. Okay, even here, weird image, curiosity hook. You've probably seen this guy all over your feed claiming that cutting carbs isn't necessary for weight loss. No need for long hours on the treadmill either. I know it sounds too good to be true, but let me tell you, there's more to this than meets the eye."
+    },
+    {
+      "start": 1311.02,
+      "end": 1341.42,
+      "text": "Okay, and then we have Vince for the first time. He's in the podcast setting. The science of weight loss was cracked a long time ago. It's not a trend, it's facts. Following all those trendy, all those like trendy fad diets, all those trendy workouts that you see online is literally a waste of time. Why is it a waste of time? I'm curious, okay? There's already a proven research back way to lose weight and keep it off. Okay, so you've got like a bit of a promise. Back to Dr. Drew, I decided to delve into this topic to do some research. Turns out this guy's a celebrity trainer, so there's a bit of credibility here."
+    },
+    {
+      "start": 1341.42,
+      "end": 1370.42,
+      "text": "i'm not gonna go through every line of the ad because i want to kind of focus on the curiosity and stuff like that right but right here he claims what we've been told about weight loss is wrong completely wrong and you know what makes a lot of sense when you listen to what he has to say so honestly saying i'm picking up on more as i do this breakdown is like even the amount of ads i have here is adding in more watch this listen to what he has to say watch this i'm going to do more of those commands and the ads that i'm generating and nick make a note of that too for opal um and then it goes to vince right this is what 10 pounds of fat looks like and he's holding those large pieces of wax"
+    },
+    {
+      "start": 1370.42,
+      "end": 1400.29,
+      "text": "I mean, I made this description, right? Each one the size of a violin, one each hand. They look red, but as he's talking, the cover of the wax switches from red to yellow flashing on screen, right? Like even that like curiosity pattern interrupt. Like, so I was calling these like the ADHD mega hook ads because they're like just dopamine machines. It's like constant dopamine supply of like curiosity, different visuals. Your brain is being stimulated, okay? If you want to drop this or more, you've got to make your metabolism go from the, take your metabolism from this to this. Again, more curiosity."
+    },
+    {
+      "start": 1400.29,
+      "end": 1429.92,
+      "text": "And he basically is like a letter to a blowtorch. You know, is your body trying to tell you something? The darkness of your outer eye ring, the pinkness of your fingernails, spider veins, your posture, your weight, your face, your face shape, the list goes on and on. And what impacts these biological markers? The most comes down to two words, visceral fat. So even here, it's like more curiosity. What is visceral fat? Curiosity. Okay. He explains a bit of what it is here. How do we get rid of visceral fat? Okay. That's a lot easier than you might think."
+    },
+    {
+      "start": 1429.92,
+      "end": 1460.43,
+      "text": "stopped running on the treadmill every single day if you're trying to lose weight, or I'm going to jump in this pole, right? There's that crazy pattern interrupt. And by the way, this is, it's like the pole of my old house in Vegas because Vince was in my old house. So the whole Adam's seeing my old house in it, so sad. But yeah, I agree. I'll see that for sure. I mean, I think part of the reason this works is the people jumping around. So I'll show you guys like, you know, I'll come back to that in a minute. But yeah, I agree. But with AI, it's pretty easy to do that. That's the thing. We have our editor guy."
+    },
+    {
+      "start": 1460.43,
+      "end": 1489.57,
+      "text": "and he's basically, I'm writing ad scripts that are like essentially jumping around from different people and he's just using AI and our guy's like, I don't know, like two grand a month or something like that for like a hundred ads a month or something crazy. And so if you find the right person, it's like not very expensive or hard to have somebody just like pumping out ads like this with different people on screen, lots of different images, all that kind of stuff. Cardio burns fat, right? Wrong, you know? So again, I don't know if I, it's not worth."
+    },
+    {
+      "start": 1489.57,
+      "end": 1518.42,
+      "text": "They're not worth that. I don't know. To be succinct, I'm not going to go through the entire ad. I will share this with you guys so you have it. And you'll have... I mean, he's doing like... I'm sure he's doing like three to five a day. I think this goes down to like maybe... I think there's maybe seven without screenshots, maybe five with screenshots. There's a couple of spelt ones, v-shared ones. I'm going to keep adding to it. So I'll share a few guys as they add to it. But the big, big takeaways are like, again, the visual... Obviously, the visual hooks constantly."
+    },
+    {
+      "start": 1518.58,
+      "end": 1554.1,
+      "text": "the just endless hooks and curiosity. And then you can also add in the commands of like, watch this, you need to watch this, you need to listen to this. Maybe you want to hear what I have to say, right? So I just keep seeing, there's a lot of ads that like start that way and then don't, then kind of give up. Like I know we had, if I go to some of our swipes and swipe builder, of course, I'll see if I can find one that I think isn't as strong. Where was it? I had one I saw. I think this healthy back Institute one might be an example. I'm going to play this for a second."
+    },
+    {
+      "start": 1554.1,
+      "end": 1578.42,
+      "text": "uh let me see if this is like a good example of not oh no no i'm right that one was good if i put in there for him i got the potential like this is a weird black hat looking one for like hpv awards that nick or somebody put into our maybe for best year one um i decided not to go to best year but like if you start the images it's not bad but if you look at the hooks on this like i'll just play for a second this is the fastest way to eliminate hpv and genital warts"
+    },
+    {
+      "start": 1578.42,
+      "end": 1608.37,
+      "text": "There is a simple and natural solution that anyone can use to eliminate HPV at home. Did you know you can treat HPV without resorting to cauterization or expensive medications? Most people don't realize this, but the real cause of genital warts and HPV lesions isn't just on the surface of the skin. It's in the deeper layers where the virus truly resides. Researchers at Harvard University discovered that HPV hides in the innermost layers of the skin. So you see the difference? I mean, it's like a weird AI, probably some black hat,"
+    },
+    {
+      "start": 1608.37,
+      "end": 1636.54,
+      "text": "ad or whatever offer but like it has like a little bit of curiosity at the beginning in the video editing stuff ad but it doesn't just sort of keep going with hook after hook after hook after hook right um and meanwhile if you kind of look at like some of these uh like like spelled again does the same thing so if we do the first like we'll just do the first minute or two of this ad okay don't i may have done this before but we're gonna do it again if you think because it's important to see the difference right"
+    },
+    {
+      "start": 1636.54,
+      "end": 1661.36,
+      "text": "Drink fruit smoothies first thing in the morning before watching this. Did you know that grapes are loaded with sugar? Hold on. Bananas are sugar bombs. Stop. So don't concern yourself with fruit sugars and learn what foods to add for faster weight loss results. And the bromelain is a really great digestive enzyme. Really, really, really good for healing. We're going to drink it like a tea. How about we add the same banana and the cinnamon to a smoothie? It helps."
+    },
+    {
+      "start": 1661.36,
+      "end": 1690.51,
+      "text": "Burn even more fat? Yes. Combos are what matters the most. I started with that and I lost like seven pounds that first week and I thought, oh my gosh, I haven't lost seven pounds in a week ever. I said, well, what do I have to lose? And my stomach went down. Lost over 40 pounds and kept it off. I am down 75 pounds now. Do you want to know what happens when you drink one tablespoon of turmeric before you poop? Do you know what happens when you mix turmeric with ginger? Have you ever seen this lady? And then there's a good old Adam, right? I'm pretty sure it's Adam."
+    },
+    {
+      "start": 1690.51,
+      "end": 1713.06,
+      "text": "um so but again so you see the difference between the spot ads vshirt ad and then the black cat like general award um you know it's like there's a hook and then it just sort of stops right um and so that's what i'm most curious about is like how do i just layer in these hooks and so if you go back to what i showed at the start that's where like when i have it sharing like okay"
+    },
+    {
+      "start": 1713.06,
+      "end": 1742.48,
+      "text": "here's a bunch of different hooks we can layer into the ads right away. Like, okay, that's a good start. And I think I can continue to refine this process, improve it, make it have, you know, like different speakers, whatever it is, but it's a pretty solid start here for sure. Okay. Okay, cool. So how do we start generating a lot of hooks? What I was thinking about was like, okay, if I go to write ads, and I was torn between showing you guys like the cloud project at the end and showing you how to do the hooks first or vice versa, but I'll kind of like go to the cloud project for a minute."
+    },
+    {
+      "start": 1742.48,
+      "end": 1770.99,
+      "text": "So all that's in here, I'll go through the instructions and stuff shortly. It's the ad breakdowns I shared with you, not the visual ones, but just like the non-visual ones. I think there's like seven in this one. And then there's this sort of hook database, right? Where basically I created a bunch of hooks for skincare, for Opal Beauty, and I just put them in here. And that's all I've got so far. And I would update this file."
+    },
+    {
+      "start": 1771.82,
+      "end": 1801.97,
+      "text": "Yeah. So I'll say I will basically share this document with you guys. So you'll have it. It's going to keep being added to. So I might, you know, ours will end up being longer, but maybe I'll share periodically. But basically, you know, this, you guys will have shared with all of you. Yeah. Because that's what you needed to create this cloud project, which I want you to be able to create anyway. And then the hooks. Okay. So once you have that, you have instructions, which are fairly, you know, they're not crazy long, but a little long. And I'll show you, we'll go back to that in a little bit. All right. How do we generate hooks? Okay. So."
+    },
+    {
+      "start": 1802.83,
+      "end": 1830.43,
+      "text": "You all know I love deep research. So what I did here, and I'm going to share all of these things with you. I'm going to share these documents too, right? Is I basically went for deep research. I said, I'm going to share transcripts for several direct response video ads that run on meta. They're annotated to share what's happening on a screen during different segments of the ad. What I want you to really pay attention to, however, is how much curiosity there is. Specifically, there are a ton of hooks throughout the VSL. It's constantly keeping the viewer interested and intrigued. In fact, I refer to this."
+    },
+    {
+      "start": 1830.43,
+      "end": 1857.97,
+      "text": "style of ad is an adhd super hook ad okay that is put like in this case i put like five because best you're finished a couple more today um so i'm going to show you i'm going to show you matthew this is this is just the prompt first of all and i actually ran it in four different places um so i'll show you the different outputs so you can see what i got from perplexity rock uh open ai and gemini as well um okay so let's do"
+    },
+    {
+      "start": 1857.97,
+      "end": 1886.64,
+      "text": "Let's get to your research assignment. I want you to do as leverage social media signals, beauty blogs, health and wellness blogs, and other websites to come up with as many different hope-driven statements and questions as you can for a skincare brand that targets women 35 plus. This can be based on training skincare routines and rituals, beliefs the market has, et cetera. The product, the skincare brand doesn't, the products, I didn't even write this in coherent English. I should say the product, the skincare brand sell, or the products, the skincare brand."
+    },
+    {
+      "start": 1886.64,
+      "end": 1912.42,
+      "text": "sells doesn't matter because your only focus is coming up with tons of different hooks that create curiosity and keep people glued to the video ad script. They said, though, here's some general pain points. In this case, I did like, you know, once for skincare. How come as many relevant hook driven questions and statements that can be used in video ads as possible? Note that it's funny. I was I was I didn't get the best sleep last night. You can see now I'm looking at all these typos I had."
+    },
+    {
+      "start": 1912.42,
+      "end": 1941.71,
+      "text": "Note that for these statements, they can come from a UGC person, a spokesperson of the brand, et cetera. You don't need to come up with who the speaker is, though. For all the statements, I'm mostly interested in pure hooks and curiosity, okay? So, and then you'll see that in a minute, but basically for perplexity, and you'll see why, because I'm going to show you the example outputs, or the outputs I got in a minute. I basically had a similar one. I couldn't do, it didn't read the PDF I had, so I tried turning that prompt into a PDF."
+    },
+    {
+      "start": 1941.71,
+      "end": 1977.42,
+      "text": "And it was too long when I had all the ad examples. So I basically just took, like, a few hooks that I got from other LLMs and put them here for examples. And so you'll see that shortly as well. But let me show you guys the output. So basically, I'm going to show you guys the different LLMs. Then we can kind of go through the hooks that we got. But, like, we'll start with Grok, okay? I tried using Grok. You can see the prompt here. Make the screen bigger. Right? Obviously, it's a long-ass prompt."
+    },
+    {
+      "start": 1979.5,
+      "end": 2010.93,
+      "text": "And what I found is, like, I, by the way, what I would do when you start doing this, right, is create a Google Doc and have it be, like, make it hook database, right? And then basically every time you see a hook from any of these that you like, copy and paste it into what you would call, like, your hook database, right, where you have, like, hooks here, okay? So I feel like Grok had, you know, a few interesting ones. I'll give you a spoiler. Perplexity was by far the best, actually, for the initial hooks. So Grok had, like, yo, do you know that sleeping in your stomach can cause wrinkles? We had to find out how to sleep for better skin."
+    },
+    {
+      "start": 2011.28,
+      "end": 2044.58,
+      "text": "So I didn't, you know, I don't need to close the loop on this. And I actually ended up making a prompt that modifies this. You'll see this in a second. We're like, okay, that's kind of interesting. You know, kind of did a lot of like research. What's the number one ingredient to look for in anti-aging cream? So you think, okay, that's all right. Are you using the wrong type of sunscreen? Okay, that could be good. Right, that's the question. The big thing with the AIs is what I noticed out the gate for a lot of them is like it's trying to like..."
+    },
+    {
+      "start": 2044.58,
+      "end": 2074.45,
+      "text": "close the loop every time. It was basically, they're all trying to write them as like fascinations or curiosity bullets where I'm like, I almost don't need it. I don't need that, right? And so Grok was sort of like, whatever, had a couple of okay ones, like 55,000 of these things open. Gemini, you have to export to a document. I find a Gemini thing too. But I did this whole analysis because that's what Gemini does."
+    },
+    {
+      "start": 2077.36,
+      "end": 2114.7,
+      "text": "does this stuff about pain points. Okay, great. Talks about some ingredients. I'm trying to remember which ones are even here because it kind of went on. It's easier to do it when I'm in Gemini. It did have, I mean, there's parts of these you can take, right? Like the simple trick will burn deep up in minutes. Let's see. You can take like, yo, the secret ingredient for youthful skin might already be in your kitchen. So again, part of your job is to like take what AI gives you and kind of be like, okay, how can I like..."
+    },
+    {
+      "start": 2114.86,
+      "end": 2144.42,
+      "text": "uh you know do it better let me get to perplexity because i never i suffer perplexity today i never was like a big perplexity user and i thought it actually did the best job overall so same prompt and perplexity four hours ago right um and then right away perplexity i use deep research i was like all right here's 120 curiosity uh driving hooks so like oh shit this is way better than what account gemini or grok right um"
+    },
+    {
+      "start": 2144.42,
+      "end": 2174.42,
+      "text": "Do you know the direction you sleep could be adding years to your face? The number one mistake women make when applying anti-wrinkle cream isn't the amount, it's the timing. Like, okay, that's kind of interesting. You know, some of them wording-wise aren't great, but the ideas are okay. Stop massaging your face like this, it's creating more wrinkles than it's solving. Okay, that's not bad. I don't think the blue-white one, for me personally. Japanese women have been using the street art kitchen ingredient to fight wrinkles for centuries. Okay."
+    },
+    {
+      "start": 2175.31,
+      "end": 2206.03,
+      "text": "this is why your mother has fewer wrinkles than you do it's probably a little bit too aggressive kind of funny uh the collagen destroying habit 87 women do every morning without realizing it uh and it really i mean just kept going so for what it's worth perplexity definitely had um the best ones right stop microwaving food in plastic if you care about your skin's elasticity uh the shocking connection between hard water and persistent facial redness i don't know if that persistent facial redness but like you know uh"
+    },
+    {
+      "start": 2206.03,
+      "end": 2235.39,
+      "text": "hard water and your wrinkles is kind of interesting right or whatever the pain point is uh the link between your laundry detergent and accelerated skin aging all right that's interesting right they have surprising cause hooks which are really interesting the three household items slightly damaging your skin's barrier every day um perplexity like nailed it honestly i was really uh pleased with how perplexity did here um and then what it is the next step just so you know is so basically i took all these put them into like uh my little like hook database right like so i sort of like took"
+    },
+    {
+      "start": 2235.39,
+      "end": 2269.36,
+      "text": "One's from Perplexity, one's from Ugrok. OpenAI actually kind of sucked too. I can show you guys the output, but it really struggled to have. It had a few. Each of them had like a few good ones. But I sort of like took ones I liked and started putting them into my little hook database document, right? What I did next is I'm like, all right, cool. Like I went ahead and compiled a list I like. Review these can come up even more. And it did. Sorry, where's the answer here?"
+    },
+    {
+      "start": 2275.79,
+      "end": 2306.06,
+      "text": "They had some more like, you know, why your expensive night cream might be working against you while you sleep. The surprising connection between your gut health and these stubborn forward wrinkles. Is your pillowcase equally sabotaging your skincare routine? So it gave me a lot, a lot to work with here. So it was okay. But anyway, now let me show you how I decided how I got even more hooks, right? So I had this initial list of hooks. I'm like, cool. I tried to ask you for more hooks here. Some of them were okay. They weren't amazing. Again, you're going to get the replay. You're going to get all the documents and all that kind of stuff. You're going to get this basically the whole Google Drive here. So hooray. Okay."
+    },
+    {
+      "start": 2306.06,
+      "end": 2333.1,
+      "text": "So how do we get even more hooks? Okay. So basically what I did is I took my hook database I had. Below are several hooks and curiosity-driven statements that can be used in video ads for a skincare brand. I copied and pasted a bunch of hooks I already had. I think I added more after I ran this prompt, to be honest with you. So I don't think it was quite this many at the start. I said, please notice that a lot of... This is the part, go back to the fascinations."
+    },
+    {
+      "start": 2333.1,
+      "end": 2362.48,
+      "text": "I put this here. I think it's actually important for the prompt. I said, please notice that a lot of the hooks or curiosity statements are just like snippets. They are not fascination curiosity bullets. This is what I'm looking for right now because in a video ad with a bunch of speakers, a lot of the hooks will be really fragmented. Speaker one might say, this is how often you should really be watching your face. And then a different speaker right after might say, what about sunscreen? And a few lines later in the ad, another person might say, is your pillowcase exciting or wrinkles? So imagine that you're just writing phrases, hooks, and curiosity statements."
+    },
+    {
+      "start": 2362.48,
+      "end": 2392.21,
+      "text": "that can be injected throughout different ads. They don't need to be closed loop. Many can be more open-ended like the first half of a puzzle, but not the completed puzzle. Please generate as many new hooks and curiosity-driven statements as you can, okay? And then the two that actually are the best for this, interestingly enough, were Gemini and GPT-401 Pro. So I'll show you the outputs. And by the way, I know if any of you are in here like, oh, you have to switch around to models. It's like, dude, I switch between models constantly. I'm completely agnostic. I will run the same deep research prompts"
+    },
+    {
+      "start": 2392.21,
+      "end": 2421.78,
+      "text": "and three different four different deep research things i'll switch models i really feel like you have to right now because they're just different and every single time you can run the same prompt in four different lms and you'll get different outputs and the one that's the best outputs is consistently not the same one um you know for copy quad is still pretty good uh like probably still better than all the other ones on average but as far as like generation idea generation things like that um i just like to run a couple so uh gemini's advanced"
+    },
+    {
+      "start": 2422.42,
+      "end": 2447.63,
+      "text": "2.5 Pro Experimental. Let me update that because I think I put a 2.5 Pro Experimental. It was like one of the most advanced models. So it's literally just copy and paste what I shared here. They did, I thought, a pretty good job. They had a lot of hooks. You know, what if I told you your shower routine is aging you faster? I think there's, you know, obviously you can mess with that, aging your face faster, something like that, right?"
+    },
+    {
+      "start": 2448.14,
+      "end": 2475.49,
+      "text": "those one but i did a good job of understanding like fragments and things like that which is actually important because like a lot of one is just like different curiosity based language we're trying to break it down almost right um you know i think you know how to exfoliate think again exfoliating too much can actually uh the real reason your skin feels tight after cleansing tight skin isn't a good sign it means your moisturizer might be working against you if um the surprising truth about oil-free products uh is your skin actually oily or is it just dehydrated"
+    },
+    {
+      "start": 2475.49,
+      "end": 2507.02,
+      "text": "dehydrated skin looks like the one thing your skin creates more than moisture uh forget 10-step routines this is the core i mean i don't like this part really um some of them aren't good but a lot of them are so i started copying pasting some of them in right um the surprising foods that trigger skin inflammation what about sugar and skin aging right that was actually pretty good i think i added one that was like what about sugar and wrinkles all right does any sugar cause wrinkles um and so you can see it basically gave"
+    },
+    {
+      "start": 2507.02,
+      "end": 2543.22,
+      "text": "a lot of hooks right some of them got like a little whatever to me but like a lot of them were good and then chat gpt 401 pro same thing same exact prompt same thing here it gave me about 70 right off the bat took a little bit longer um you know stop washing your face in the shower until you hear this that's a good hook right if i go back to like what b shred is doing and like some experts on there you know stop washing your face in the shower until you hear this right"
+    },
+    {
+      "start": 2543.22,
+      "end": 2576.75,
+      "text": "Not all of them are good, but some of them are, right? You guys are kind of picking shoes using your judgment. I like, is that natural face scrub creating micro tears you can't see yet? I put it into my document as like, is that natural face scrub creating micro tears? I just feel like that period, question mark. This one nutrient deficiency shows up on your face first. Have you noticed the signs? It's kind of interesting. Are you learning your skincare in the wrong order?"
+    },
+    {
+      "start": 2584.08,
+      "end": 2612.34,
+      "text": "Some of them, I don't like a lot of questions, but basically, if you go through them, eye creams, face taping, and Botox all miss this one invisible layer under your skin. That's good for us. You can go through and just take the ones... Wait, does your skin have a bedtime? It's actually good. I don't think I added some of these to my health list. I actually like that. You can go through, and you can be like, all right, cool, do another 100. If you start doing this..."
+    },
+    {
+      "start": 2612.46,
+      "end": 2642.61,
+      "text": "You have your initial hooks from using deep research. Probably I would go with perplexity. Then you take the prompt that I shared with you. And now you basically take the hooks that you created with deep research. You have those. Now you run this prompt. Now you have a ton more. You can add it to here if you want to run the prompt in the future. But you've also got your little hooks database, so to speak, right? And now we're just going to set up our cloud project. I feel like I'm going fast. I'm actually getting through this a lot faster than I thought I would."
+    },
+    {
+      "start": 2642.61,
+      "end": 2676.08,
+      "text": "um the cloud project is what i started with uh obviously i hope you can see by the way that you can do the same thing for any anything again there's people on here who do bizop who do other things right you clearly don't it doesn't have to be just for a skincare thing just go back to number one real quick for one second um actually sorry you're at number two right deep research i mean literally just be like you know when you get down to like the uh instruction part after all the ad examples how long ways for"
+    },
+    {
+      "start": 2677.23,
+      "end": 2707.33,
+      "text": "You know, leverage blah, blah, blah, blah, blah. You know, we change many beauty blogs, health and wellness blogs, whatever. So this question is for, you know, whatever it is like for, you know, people looking to generate additional income who are 35 plus women to stay at home moms, right? Or people looking to get rid of unwanted facial hair or women who want to get rid of unwanted facial hair, right? Whatever it is. Yeah, you modify this part a little bit."
+    },
+    {
+      "start": 2707.33,
+      "end": 2741.3,
+      "text": "product the blank brand sells doesn't matter right you change that part you change many different pain points here um and that's it right and then you can run that you get the hooks run the next one the same thing okay so on to the quad project when i set it up they ask you what are you trying to achieve the goal is to write hook heavy meta ads so i want these ads to follow what i call an adhd super hook"
+    },
+    {
+      "start": 2741.3,
+      "end": 2773.65,
+      "text": "framework what this means is that the ads will have numerous hooks throughout including several in the beginning in fact the first 30 seconds of the ad especially should jump around a good amount as we go to write these ads i want to incorporate numerous hooks into them as mentioned i also want to incorporate what i would call curiosity driven statements curiosity driven statements would be statements uh that are like hooks second like hooks but could be anywhere in the video ad and typically wouldn't be in question format okay so that's what i did for the"
+    },
+    {
+      "start": 2774.0,
+      "end": 2802.11,
+      "text": "thing here, right? Project knowledge. And again, you're going to get a student's copy and paste this in. So you can just do the same thing for your own projects, right? The goal is to write hook heavy meta ads for a blank brand, right? Same thing about the ADHD super hook framework. I want to incorporate numerous hooks. I kind of mentioned the curiosity statement things were above. You'll see that document number one is CA pro copy of ad breakdowns in depth. You'll get that. So you can upload it to CROD."
+    },
+    {
+      "start": 2802.11,
+      "end": 2830.98,
+      "text": "This has in-depth breakdowns of successful ads from other brands. You'll notice how heavy, how hook heavy they are, especially the openings and how they also incorporate visual elements that are used to continuously hook people in to, I don't think we're two there, but whatever. Then you'll see that I've already included a book of hooks. Man, I'm tired. There's a lot of typos. A, what do we call it? A list of hooks, encouraging different statements as a second document. That document is titled for CA Pro version hook database. You'll be..."
+    },
+    {
+      "start": 2830.98,
+      "end": 2858.62,
+      "text": "tasks at various times now again you would not do this one you would do your own hook database right having done the previous processes to generate all the hooks you can call whatever you want bob's hook database right um you'll be tasked at various times we're coming up with new hooks and curiosity statements coming up with new ad concepts and writing new ads um this is actually a really good important thing for the instructions that i was really happy i added because otherwise i was having to do it manually when it was doing outputs"
+    },
+    {
+      "start": 2858.62,
+      "end": 2887.57,
+      "text": "Here's something very important, unless I specifically ask you for it, when writing ads, do not talk about the product and the ad. Instead, I want to tease a breakthrough solution ritual and call, and the call to action is you need to watch this or check out this video, et cetera. We're basically selling the click, meaning we want to sell them on clicking the link, which will take them to the VSL and sell the product on that page. Also, when writing ads, your goal is to incorporate numerous hopes into the opening and also throughout. We will also include what I call curiosity-driven statements, where it's not a question, but a statement from the speaker."
+    },
+    {
+      "start": 2887.57,
+      "end": 2915.31,
+      "text": "It could be a UGC person, a doctor, an AI voiceover, et cetera, that is curiosity-heavy and caches someone's attention. So that was the setup. And then you saw the initial prompt and outputs here. By the way, if you want to experiment with it, one thing I might do for this is go back to what we said about. You'll also notice that they're saying, you need to see this. You need to watch this. We incorporate this language throughout. I might experiment with adding that to my instructions for this and start a new."
+    },
+    {
+      "start": 2915.31,
+      "end": 2937.17,
+      "text": "uh, conversation within the project and see, you know, if it adds up more, if I like that. So what's nice about projects is like, I can just be minimal with my, my, my prompts. I don't have to explain all this context and shit because I already did it on the project level, which is really helpful. Right. So as you can see the prompt here, we're going to do ads for our skincare brand, Opal Beauty. I'm going to upload the first half of the VSL."
+    },
+    {
+      "start": 2937.2,
+      "end": 2964.62,
+      "text": "I'll talk about why I did that in a second. So you get a little bit more context. Your goal is to write ads that are hook heavy, have tons of curiosity, leverage the hook database and ultimately sell the click to the BSL. We're also going to make all the ads between one, three minutes long for now. To start, you can give me 10 ad concepts where you include the different hooks to be mentioned in the first 30 seconds. Can you do that? I'll then choose and have your right ads from here. One little note, I can't remember if I said this at the beginning of the call or not, is like I decided to just do the first half because"
+    },
+    {
+      "start": 2964.62,
+      "end": 2992.18,
+      "text": "One thing I've noticed with quad and LLMs is like, if you give it the whole VSL and like includes, or, you know, a sales page or whatever it is, if you're basically, anytime, if you're trying to write ads and you're not trying to talk about the product in the ad, but the VSL spends like half the VSL is selling the product and saying the name and talking about the ingredients and all of that, it's like really hard for the LLM to not also want to like, to, to, to grab onto that. So I basically just took the first half that goes to the unique mechanism."
+    },
+    {
+      "start": 2992.18,
+      "end": 3020.9,
+      "text": "It has like the promises and the spokesperson and all that. And then I just turned out to PDF and uploaded that rather than give me the whole VSL. And I think that was like a good move. And I would probably do that as a best practice if I was ever using the VSL or a long form sales page or whatever it is. Obviously, if you were writing ads where you want to talk about the product in the ad, you would change the instructions a little bit, right? And then you would also, you wouldn't, you wouldn't say, don't mention the product, right? Because we'll mention the product. Okay, cool. No problem, right?"
+    },
+    {
+      "start": 3020.9,
+      "end": 3050.03,
+      "text": "uh and you know maybe you give it a full sales page or if it's like a pdf of like an econ page or whatever it is cool no worries right um and then for i don't know if you came in late sorry i already went through all these right but you can kind of see how again it was sort of giving me the different options has a bunch of hooks in them right so it's really getting that we need to be hook heavy and you say okay great go start writing ads you know so we looked at a couple of these before um like the lifestyle corporate one"
+    },
+    {
+      "start": 3050.03,
+      "end": 3079.82,
+      "text": "This one I like. I don't think I read this full one at the beginning of the call. Stop washing your face in the shower until you hear this. Stop microwaving food in plastic if you care about your skin's elasticity. Here's how water does your skin. This one was good. I think it was number 10 maybe. Was it number 10? Maybe not. I was wondering if this one was too ADD almost where it seems like it jumps around a bit. Honestly, I'd probably still test it. I'd probably just go really hard on the hooks. This was a Switzerland I had. Again, what's nice is"
+    },
+    {
+      "start": 3081.52,
+      "end": 3111.5,
+      "text": "the massaging your face one, right? And I guess for one who came in late, I'm like, all right, cool. Give me 10 more concepts, right? Invisible junction, morning mirror shock, Botox alternative, the skin layer separation, the aging time bomb, the overnight transformation. I'm going to just do a couple and we'll end the call. I'll answer questions on the call, right? Like, great. Please do concept number 15 now, right? So do 15 and like maybe 16."
+    },
+    {
+      "start": 3112.82,
+      "end": 3150.48,
+      "text": "hopefully claude continues to cooperate i know it's being a little bit intermittent today okay so does eating lots of sugar make your wrinkles make wrinkles worse the answer isn't what you think these three foods now one thing i might give instructions on right is okay like do how many different women ugc one two three whatever but for now it's fine these three foods are triggering your skin's aging time bomb your skin's aging accelerator might be in your kitchen right now i probably would be like uh this like uh this"
+    },
+    {
+      "start": 3150.48,
+      "end": 3180.21,
+      "text": "aging this aging starter for your skin might be in your kitchen right now um doctor the microscopic aging bomb in your skin that activates after 40 might be like doctor you know there's actually this microscopic aging bomb on your skin that activates after 40 right i might i'd modify this a little bit so that there's a little bit more flow versus the feeling just like so add but um you know overall like you get a lot of hooks again you might i might edit this out um for years i blamed my diet for my aging skin i cut out sugar dairy even gluten"
+    },
+    {
+      "start": 3180.21,
+      "end": 3210.22,
+      "text": "uh my article stark circles and puffy bags and it got worse what the real aging time bomb i know i just don't like the idea of an aging time bomb so i probably get a little bit of feedback on this one um how do i do with your diet as a physician i've seen countless patients eliminate entire food groups in hopes of looking younger the truth is while nutrition matters there's a hidden time bomb in your skin that no diet can diffuse but you're around 40 okay it starts to explain stuff but uh when i discovered what was really going on with my skin everything changed but it's kind of good it's still trying to do more hooks throughout here right um"
+    },
+    {
+      "start": 3210.86,
+      "end": 3242.03,
+      "text": "Sorry, I would probably do some edits for this one, but it's okay. Let's do number 16. Do number 16. And then I'll stop after this one and answer questions. I mean, continuously for like the last several years, the biggest mistake I see with people who like, when they're using AI is like when they don't edit anything. Like the way I look at it is like, sometimes it'll just be a perfect output. You don't have to edit anything. But a lot of time it's like, really is like 98% of the way there. But there's a common sense tweaks you would make that."
+    },
+    {
+      "start": 3242.03,
+      "end": 3271.63,
+      "text": "If you're reading out loud, that would make sense. So the biggest thing is just like actually making those little tweaks, right? All right. Using hot water to wash your face at night. Hold on. What you do in the 30 minutes before bed determines how your eyes will look tomorrow. I'm going to have the doctor say that instead of the woman, right? The night routine that transformed my eyes in just 14 days. The evening mistake that cancels out your expensive eye group. So again, I might give us some instructions here. Like, hey, like we need slightly better transitions."
+    },
+    {
+      "start": 3271.82,
+      "end": 3311.6,
+      "text": "Like, you know, I don't know. Maybe not. You can test where it's just, like, hook after hook after hook. But I might have them be a little bit more better for transitions here. But I'd rather have, like, something to work with that's giving me just, like, all of these hooks and stuff like that versus, like, something that isn't giving me any of that, and then I can edit on it. So I feel like the first couple were going to have. I know what's funny is it's gotten longer. Some of these seem like they're a little bit more. I mean, I'll do it. Let's see. Like, how was it? You did."
+    },
+    {
+      "start": 3312.59,
+      "end": 3344.18,
+      "text": "Good job with loading up the opening with hooks, whatever. I do think we need some better transitions between some of the books. So let's focus on better transitions between book two."
+    },
+    {
+      "start": 3344.18,
+      "end": 3392.91,
+      "text": "and three and between three and four in the opening, right? So I said, I think the best system to make this work effectively is create a library of pre-edit hooks and then have editors or a creative director shuffle hooks to create winning combos. Yeah, as far as implementation goes, I think so. I think once you have, I mean, a bunch of like hooks and stuff, like we're doing, I'll show you this after I, let's see how it improved it. Like, see, this is kind of annoying."
+    },
+    {
+      "start": 3392.91,
+      "end": 3422.35,
+      "text": "Yeah, that's not bad. Again, I'd rather just actually rewrote it instead of like doing this part. But anyway, I don't want to get in the weeds on it. This is where you can play a bit more. But I think like, again, at the very least, hopefully this has the wheels turning as far as like, obviously the dissection of the V shred ad. And then also like going through how to generate a ton of different hooks. And then this is where I'm at with this cloud project process, which again, some of the ads actually thought were quite good. And just see a little bit of editing. And obviously from there, you can edit more."
+    },
+    {
+      "start": 3422.35,
+      "end": 3458.32,
+      "text": "and then i'll share give me one second let's show you how we're doing this with opal so i get to that page i'll find it here where's the ads um give me a second i know i'm not sharing because i'm trying to pull up the little page we have the doc we use by tosses um so i'll kind of show you guys what we're doing here so we sort of have to that point like a database where we're working on these so like we're generating"
+    },
+    {
+      "start": 3458.51,
+      "end": 3487.89,
+      "text": "like the ads so that you can see what lead it is, like the hook, like what hook ID it is, right? The creative name, which ones are winners, which ones aren't so far, stuff like that. And we've got our sort of like script database for like the different scripts. Lead database, I think this hasn't gotten updated. And then some like the hook database. So we're trying to track all that. And then the idea there is that as we're going, obviously we can like, you know, modularly combine stuff. This was the winner, take these hooks, take these leads."
+    },
+    {
+      "start": 3487.89,
+      "end": 3519.25,
+      "text": "Yeah, I think you do need to be organized as you start to scale and you're running a lot of, you know, testing of ads and all that kind of stuff. But yeah. Okay. I know that was a lot. Like I said, I'll give everyone access to the Google Drive with the different, you know, documents and prompts and everything. You'll have the replay as well. I guess I have questions based on what I shared here. And I'm going to keep doing it because I want to get like, I want to write even better ads so we can just keep pumping them out for skincare because we have this good video editor to do now. But I want to like..."
+    },
+    {
+      "start": 3519.31,
+      "end": 3551.86,
+      "text": "Just pump shit out. Anyone? Are you all just like, Jesus, you talk fast today, bro. Chill out. I'm curious about that last document. Yeah. You're using that to document how you're testing those hooks. But how are you doing that if you're stacking 15, 20 hooks together in an ad? And how do you show that which one is good, which one is winning and which one is not?"
+    },
+    {
+      "start": 3552.08,
+      "end": 3580.8,
+      "text": "Yeah, that's a good question. I mean, I don't know that we have it down to like the hooks specifically. It's more like I think right now like where, okay, this ad had a bunch of hooks. It's a winner. And so then we might test like the variant for like, okay, like this new one stacks these hooks in this order or puts more on top of it. Because if I'm understanding your question properly, right, I think it would, and what you're kind of inferring with the question, it'd be really hard."
+    },
+    {
+      "start": 3580.8,
+      "end": 3608.24,
+      "text": "if you're trying to track like there's 10 hooks in like the beginning of an ad to like know which one was like the right one and which one was not the right one i mean we could get that level of granularity but um right now it's more like testing a bunch of hooks that are working and we just did this for one of our winners where we basically took that winner and then we just stacked like three more hooks on top of it and now we're like gonna see like does it do better or worse right and so we're kind of tracking that way but"
+    },
+    {
+      "start": 3608.24,
+      "end": 3637.9,
+      "text": "That might evolve too over time as we are getting more data back, I guess. Yeah. When I saw that, my first thought was having these hooks as a primary text in a meta ad. I mean, it wouldn't do all of them, but like five of them is what I think you can put in there. And then if it's dynamic, maybe the regular ones do that as well, but you'd be able to see which hooks."
+    },
+    {
+      "start": 3638.03,
+      "end": 3667.09,
+      "text": "the ones that are written out as primary text, which ones do best. Yeah. Yeah, I think that's a good idea. Do everything, but five at a time. Yeah. Tamir, I saw you unmuted. I know you have a lot of experience with this. Go ahead. I think ideally you want to do it gradually. So you want to do a big hook test and then mix the winners. So you want to stack. So this Vistrad ad that we saw, it's..."
+    },
+    {
+      "start": 3667.09,
+      "end": 3694.48,
+      "text": "Each of these hooks, even in a minute 40, it used to be a winning hook on a video. So almost each of these parts used to be a winner at certain points. So you want to test hooks and then take the winners and start mixing them. So the way we thought about it is just we went by data, not by the..."
+    },
+    {
+      "start": 3694.51,
+      "end": 3725.01,
+      "text": "the copywriting right so we went by just taking the winners mixing them you put two winners together and it's probably gonna be better yeah yeah that makes perfect sense thanks yeah way better said than me and i mean that's kind of what we're doing like we most of the ads here haven't been hook heavy yet but now i'm writing some i am probably being a little bit greedy because i'm trying to just like put a bunch of fucking hooks in some of these ads and i feel cocky like i can make it work but even if that works to your point we'd probably"
+    },
+    {
+      "start": 3725.36,
+      "end": 3755.71,
+      "text": "Yeah, rather than we would add 10 more on top. If we had like five really good hooks in the first, whatever, how many seconds of an ad, like 60 seconds of an ad, we wouldn't go take like 10 more hooks and put them on top of it. We'd add one more at a time or two. We kind of do it more gradually. And then we see those are winning another ad, right? For sure. It may make a ton of sense and I appreciate you sharing that. Nick, you said, you basically find winning ads in the testing of hooks on top of winning ads and create variation to test regardless if the winning ad has multiple hooks already. Yeah."
+    },
+    {
+      "start": 3755.71,
+      "end": 3784.59,
+      "text": "I think that makes sense. Cool. I mean, it's good as I'll have real life data soon here for, like I wrote a bunch of additional hook heavy ads that do have several I'm stacking to see if my arrogance is well-founded or not. So I'll share the results of those with you guys, some of those ads, because they're like this ADD style. So we'll see. If they crush, great. If not, I'll let you know too."
+    },
+    {
+      "start": 3786.0,
+      "end": 3817.98,
+      "text": "Anybody have anything else before we wrap here? Say going once, going twice, going three times. All right, well, we will wrap, but I will make sure that everything I shared gets into the Google Drive so you can play around with it. And then, like I said, I'm going to keep messing with the quad processes a bit. So if I get a better version of that project that I think is even better, I will, which I'm sure I can. I think there's a little fine tuning of the instructions. I'll share that as an update for everybody too. Besides that, everyone have a great rest of your day."
+    },
+    {
+      "start": 3817.98,
+      "end": 3823.18,
+      "text": "And we'll talk soon. Thanks guys and gals. Thank you. Thank you."
+    }
+  ]
+}

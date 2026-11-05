@@ -1,0 +1,289 @@
+{
+  "source_file": "Stefan Georgi - RMBC II (1)/02-DEEP RESEARCH/01-Product-Market Awareness video2.mp4",
+  "source_id": "mega:GwRSGa5C",
+  "audio_sha256": "0c9cdfffb51c5c42b4cd177d91392078a594ed292dde7482825004373a3f3bcb",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 1726.25,
+  "last_segment_end": 1726.25,
+  "segments": [
+    {
+      "start": 0.08,
+      "end": 31.63,
+      "text": "Alright, hello again and welcome back. We're going to be looking at deep research prompts for figuring out product market awareness. And by the way, if you see the glow on my face, that is the whipped tallow that I talked about earlier. I had a tennis lesson and then did my shower and put it on, right? Crazy difference. Sacred whipped tallow, Opal Beauty. Plug for it right here. Okay, so you're probably watching this one after another."
+    },
+    {
+      "start": 31.76,
+      "end": 63.12,
+      "text": "I'm not going to review everything we just went through. Right now I want to go through a deep research prompt we can run to assess those levels of product market awareness. And in case you're not familiar with deep research, I want you to see, you'll see the prompt in a minute. I'm showing you on Gemini, but it's a similar process. It's essentially doing all these different steps for me as I do this. Going through different websites, pulling..."
+    },
+    {
+      "start": 63.12,
+      "end": 94.83,
+      "text": "It says here for total addressable market, gaps, awareness. Deep research is really just amazing, right? So as we speak, this is going on in the background. And I basically gave it this prompt. I said, here's what I'm going to do. I said, start research. Now it's doing it. Okay, so what is the prompt? The prompt is, I want your help evaluating the level of market awareness for a product in your niche."
+    },
+    {
+      "start": 94.83,
+      "end": 121.33,
+      "text": "blank space essentially so like the skincare space the make money online space the real estate space the coaching space whatever it is right the specific product is a blank could be you'll see examples below like a mastermind a whipped tallow product injectable nad a coaching program or you know a mastermind for personal branding right whatever it is"
+    },
+    {
+      "start": 121.33,
+      "end": 149.2,
+      "text": "i would like for you to deep dive to help me understand the current level of market awareness for this product and geography right so in the us globally right might as well it's usually going to ask you especially chat gpt um where you want to focus you might as well just clear uh you know get that out of the way here optional here are more details about the market so it's where you'd be like you know it's typically 18 plus women 35 plus women professional"
+    },
+    {
+      "start": 149.2,
+      "end": 177.42,
+      "text": "nine-to-five workers, whatever it is, right? You don't have to always have more details, but that is optional. To do this, we can look at the classic levels of product and market awareness that is often attributed to Eugene Schwartz, which can be categorized as follows. This is just a breakdown of what we talked about in the last module or the last section, whatever. This is important. For the intent of this exercise, let's not consider product aware or market aware. I put market aware, I should really say."
+    },
+    {
+      "start": 179.76,
+      "end": 201.97,
+      "text": "most aware to be our specific product and brand, instead it's considered to be an awareness about similar, nearly identical products and brands that offer those products. So essentially what we're saying here is, especially product aware, what I said before, we're saying what I've already said, which is, you know, it's not that they're aware of our product, it's just that they're aware that this category of product exists and they're close to buying."
+    },
+    {
+      "start": 202.61,
+      "end": 231.79,
+      "text": "In order to make this assessment, please utilize a variety of signals, including social media chatter, articles and blog posts, influencer content, search trends, any available sales data on the product category and its growth, and so on. Additionally, please provide an overview of the estimated TAM, total addressable market, for this product. Please provide a rough estimate of what percentage of the TAM falls into each category of product-market awareness. At the end of your review, please give me a final selection for which stage of product-market awareness the majority of individuals within the market fall. Thanks."
+    },
+    {
+      "start": 232.02,
+      "end": 261.58,
+      "text": "So then I have, this is the prompt. For example, we talked about injectable NID. So I'm like, okay, the specific product is injectable NID. I'd like for you to deep dive, help me understand the current level of market awareness for the product in the US, hear more details, focus on men and women who are 18 up as we would not be offering this to anyone under that age. Rest of the prompt, go ahead, right? I ran it the first time in ChatGBT and in Gemini."
+    },
+    {
+      "start": 261.94,
+      "end": 294.77,
+      "text": "We'll start with ChatGPT here, and then I'll show you Gemini. And I'll be honest with you, I personally like Gemini more for this prompt. And frankly, Gemini, the thing is, if you don't have a Gemini Pro or I have the premium ultra $200 a month subscription, you don't need that, right? You're generally going to get close to the same outputs with ChatGPT or with Gemini."
+    },
+    {
+      "start": 294.77,
+      "end": 322.96,
+      "text": "Grok's a little bit worse, but you can get some good stuff with Grok if you have that. Perplexity is fine. I won't say it doesn't matter, but it's not that crucial, because I don't let that be some excuse for not doing this. Like, oh no, he used Gemini more than I don't have Gemini, and I don't want to pay for it. It's like, all right, don't do it. Use ChatGPT. And actually, same thing here. I used O3 Pro, but I've done this with just O3, and obviously got very good inputs."
+    },
+    {
+      "start": 323.31,
+      "end": 357.3,
+      "text": "04 mini is fine. I actually tend to like 03. Actually, well, or 04, but 03 is good. Okay, so market awareness. It's going to give you a lot of information. More so, it actually isn't that much compared to Gemini. But one thing that really helps with AI and with deep research in general is zooming out and being like, what am I really trying to find here? Like, it's all really interesting, right? You can read all of it."
+    },
+    {
+      "start": 357.46,
+      "end": 387.73,
+      "text": "Like, you know, the global NAD, and I don't know why it always has trouble with plus, you know, the global NAD anti-aging market was about $252 million in 2024, projected to grow to $884 million by 2034. North America led. Here's the overall anti-aging markets were very big. You know, NAD supplements are still a fraction of the space. So, okay, cool. We can do all that. But really, I'm just going to find out what I really want to know. What are the estimated levels? Because remember what I said? I said how..."
+    },
+    {
+      "start": 388.02,
+      "end": 416.75,
+      "text": "We were kind of marking NAD plus from the context of like people were aware of it, similar to the tallow. And I'm like, I realized they probably aren't aware. And if you look at the estimate, and I'll show you Gemini's as well, unaware, 25 to 30% of TAM, right? A significant minority of adults are entirely unaware of any problem or need that NAD addresses. They're not actively concerned for longevity or energy enhancement."
+    },
+    {
+      "start": 416.75,
+      "end": 446.13,
+      "text": "They have no knowledge of NAD. They may not even realize that interventions beyond general wellness can improve long-term health. And you might go, no, no way. But it's like, Murray, you're not the target market. Think about the average person. Think about the person you see at the grocery store, Walmart, wherever it is, you know, at the gas station on a road trip. People are not as sophisticated as the average direct response marketer, copywriter, or whatever. It's really important to remember that. Okay, so..."
+    },
+    {
+      "start": 446.13,
+      "end": 488.53,
+      "text": "They've got 25% to 30% of the TAM unaware. Problem aware, likely the largest segment, 50% to 60%. The majority, they recognize problem or desire, like energy, vitality, appearance, but they're not aware of NAD. Solution aware, it's growing, but it's 10% to 15%. And then product aware, give me a second here. But note this, even solution aware, they're not saying that it's even specifically"
+    },
+    {
+      "start": 488.53,
+      "end": 520.4,
+      "text": "NAD, injectables are a brand, but they're kind of aware of novel approaches, things like that. Some of them may have heard of NAD, whatever it was. Product aware, people who are really aware of NAD or injectable NAD solutions, like 5%. So these are people who are really aware of actual NAD, injectable NAD. It's very small and then most aware, less than 1%. And so this is what I was saying before. If you come back here,"
+    },
+    {
+      "start": 521.14,
+      "end": 547.55,
+      "text": "when we look at the examples, right? Like for the, where we're at and like the different places, I talked about the eye serum one here, but it's pretty similar like with NAD, right? It's like NAD, realistically, vast majority of people are here. And so what this really means and why it's important, well, two things, this can be, again, the messaging. You talk to somebody who's over here differently than you talk to somebody who's over here. Also, just so you know, say from a copy perspective and what's needed,"
+    },
+    {
+      "start": 547.55,
+      "end": 580.05,
+      "text": "again, you probably need a lot more copy because you're going to need to educate them. Most of the vast majority of people are here. Some are here and barely anybody is here or here. Then you got to do more work, educate them more, take them along the journey more to get them to buy. That doesn't mean you have to do this over weeks or months or whatever. It could all be done in one sales funnel, right? That's what's so cool about direct response. But we need to be thinking about who we are speaking to, right? When we're over here. So again, blah, blah, blah. I'm like, I don't even read this stuff."
+    },
+    {
+      "start": 580.05,
+      "end": 616.18,
+      "text": "estimate awareness breakdown they did before conclusion prominent awareness stage where we asked for that the majority of people are problem aware that's all i really need again i'm saving you know you get a link to this whatever like it's fine but like you don't need to read all this you can or you can't right um let's go look at what gemini did here i export it to a doc well you can just see it oh gemini i like gemini more again i'm really impressed with gemini right now to be honest with you at the time of recording this and i'll share updates"
+    },
+    {
+      "start": 616.18,
+      "end": 645.2,
+      "text": "I just think it's more in-depth, but the formatting is really nice. I like that it gives you little tables and charts and things. So look at that. I'll do it over here, though, so that I export it to a Docker. Yeah, that's fine. Okay. Gemini will give you more random, what is NAD+, right? Here's the reported benefits. But it's the same thing. I'm skimming. Because it's not because I know what to do and you don't know what to do."
+    },
+    {
+      "start": 645.2,
+      "end": 676.16,
+      "text": "It's because I know what we're trying to do. We're trying to look at the total addressable market and what percentage for now, right? I'm going to be an expert with the help of AI on whatever it is I'm selling later. And this might help me. Again, you can totally read it. But what I really care about is not any of this. I care about the TAM, okay? So it's about the overall anti-aging market. What I really like with Gemini is when you get down here to these charts, okay? Conceptual TAM estimation, right? Use adult population 18 plus."
+    },
+    {
+      "start": 676.16,
+      "end": 708.45,
+      "text": "Actively interested in anti-aging longevity enhancement, maybe 30%. That means 78 million. Percent interested within segment of high disposal income for elective stuff, 15.6 million. Percent within affluent interest aware of NAD boosting concepts, 3.9 million. Willing to consider injectable therapies. So here it's saying basically 585,000 people. Annual market size, potential adopters, ranges a lot, okay? So what does that mean for us?"
+    },
+    {
+      "start": 708.45,
+      "end": 742.0,
+      "text": "A bunch of definitions. So it's estimating the unaware at 40 to 50%. What did ChatGPT have it at? 30%. So it's actually putting it a bit higher. Problem aware, defines it for you, 30 to 35%. Okay. Solution aware, existing for solutions fatigue, blah, blah, blah. 15 to 20%. Product aware. And the cool thing about Gemini is that they know they have search data, right? YouTube, all this other stuff too, right? But they have it at 5 to 10%."
+    },
+    {
+      "start": 742.0,
+      "end": 772.77,
+      "text": "And the most aware, 1% to 2%. Okay? They're kind of saying, while product awareness can't be built through marketing media, the progression of becoming a most aware individual or an active user is significantly filtered by the cost and invasiveness of injectable entity therapies. So basically, they're like, hey, it's going to be hard to sell this, right? Then they take it and put it in a really nice little chat for you. 40%, 50%, 30%, 35%. Solution aware, product aware, most aware. So they sort of feel like..."
+    },
+    {
+      "start": 772.77,
+      "end": 802.7,
+      "text": "People are most unaware. ChatGPT said problem aware. I think there's probably truth in both of these. I don't know which one it is, but it still helps you. Like, okay, I've got an uphill battle, right? Both agree. Very few people are over here. Problem aware, right? The dominant stage for the targetable and realistically convertible market for injectable ID lies between late problem aware or early solution aware. Okay, so like somewhere in this range. It's what we talked about before, right? It's sort of generally your sweet spot."
+    },
+    {
+      "start": 802.7,
+      "end": 835.23,
+      "text": "And I like that Gemini sort of, it's ended up saying this kind of a similar thing to what ChatGPT would say, which is like, this is what you target. And then blah, blah, blah, blah, blah. Strategic implications are not bad, right? Funny, funny what they say. Educate, right? Sorry about it. Transition them, right? Build trust. Segment. So I save all of this, but really all I'm trying to do is get a gauge for who I'm speaking to, right? So if I was doing this, I'm..."
+    },
+    {
+      "start": 835.23,
+      "end": 863.89,
+      "text": "And if I was thinking this way, when we started NAD+, we probably saved, I don't know, $100,000 plus, $150,000 plus. And it's so funny, even today, we're actually going to stop advertising it for our telemedicine platform for the most part. But our Google media buying partner is like, hey, well, we do have this one segment with search where our CPA is like $300, which is a totally fine CPA for what we do. And we go, okay, we'll keep that one on, right? And that can be a ton of sales because there's not that much awareness. But if people are aware..."
+    },
+    {
+      "start": 863.89,
+      "end": 893.65,
+      "text": "Turns out it's actually very easy to make sales. The problem is we can't scale it to some crazy level right now because there's just not enough demand, right? So you have to manufacture demand. But the only way you're really going to do that is through like a, you know, probably like a VSL, a lot of educational content, like a, you know, we'll talk about that more in other modules, but hopefully that makes sense, right? Okay, cool. So I've got these examples here for you. You can read through them as much as you want."
+    },
+    {
+      "start": 894.06,
+      "end": 926.0,
+      "text": "I did another one with Airbnb arbitrage. I used Gemini for that one. I think that is going to be over here. Yeah. So same thing. Gemini's going to be a lot of stuff. This idea is like a coaching high-ticket program that teaches people how to do... Basically, they do a long-term lease on a rental property, and then they do short-term rentals through Airbnb with the permission of the person who owns the property."
+    },
+    {
+      "start": 926.0,
+      "end": 956.8,
+      "text": "And they sort of make money on the difference, right? So for example, I lease a property for $2,000 a month. I rent out on Airbnb and make $4,000 or $5,000 a month, right? Because of like you charge more for short-term rentals. The net profit is $2,000 or $3,000. Proven business model, as of everything, sounds easier than it is, but plenty of people make money doing it. So cool, all right? What's the level of awareness for that? So..."
+    },
+    {
+      "start": 956.8,
+      "end": 989.41,
+      "text": "Same thing, Gemini is going to give me a lot of really interesting stuff here, a little bit less in depth than NAD, but I'm really just interested in those charts, which I'll just do over here too. I'll make this bigger. Active side hustle participants, 90 million. Individuals doing new businesses. Individuals interested in passive income. Online learners, okay, a lot. Individuals interested in real estate, broadly significant. Estimate potential niche."
+    },
+    {
+      "start": 989.41,
+      "end": 1022.8,
+      "text": "Market for niche coaching, 1 to 3 million. It's an estimated subset of the above representing those who might specifically consider it rental arbitrage thing. Okay. Does this analysis. Here's all the stuff I did. Again, I'm skipping because you can skip. So it would have unaware at 30 to 40%. You know, the desire to improve financial standing, greater income, these sorts of things. They're not actively seeking solutions. This is what I said when I was talking about this with you in the last segment or last video too."
+    },
+    {
+      "start": 1022.8,
+      "end": 1051.54,
+      "text": "Here, though, it's like they do want what you're selling. So it's kind of a different level of unawareness, right? It's one thing to be like, I'm unaware of a problem with wrinkles. Like, I don't think I have a problem. You can't sell them. This person's like, if you're like, you know, you'd have to be like, oh, hey, you do have a problem. You look like shit. And it's hard to insult somebody and sell to them. It's hard to do, right? Whereas here, it's like, man, it wouldn't be nice if you had some additional income, if you're making a little more money, if you had more freedom, you didn't have to."
+    },
+    {
+      "start": 1051.54,
+      "end": 1082.99,
+      "text": "wake up to an alarm clock, say, yeah, that would be nice, right? It's just a different way to, it's a different starting point, right? Problem aware, 25 to 35%, you know, they're filling constraints with their money, they want something like income, they're exploring ways to make extra money perhaps, all that, right? Solution aware. They're aware of like maybe things like real estate ventures, operating Airbnbs,"
+    },
+    {
+      "start": 1083.54,
+      "end": 1118.93,
+      "text": "I think this is valid because a lot of people know about Airbnbs and people making money with that. Product aware, people who know that arbitrage is a distinct strategy. So that's actually interesting, right? There's a decent amount of people who probably do know about these. They've probably seen ads and things of that nature, right? And the most aware, they have it at 5% to 10%, which is actually bigger than I would have guessed, but cool. And they break it down for you here, right? And this is obviously here. It's got primary information and channels, key characteristics, SMATAM, et cetera, right?"
+    },
+    {
+      "start": 1122.64,
+      "end": 1151.42,
+      "text": "And where they're hanging out, according to Google, which is really helpful, right? Most aware. Look, I mentioned a school. I mean, Gemini is so good. Honestly, it's really wild. A significant observation is the chasm between problem aware stage and the solution aware stage. While a large portion of the population seeks financial betterment of site income, rental arbitrage remains a relatively niche term. Many individuals in the problem aware stage may explore various avenues, freelancing, e-commerce, traditional investments without ever organically encountering a rental arbitrage as a defined strategy."
+    },
+    {
+      "start": 1151.42,
+      "end": 1181.04,
+      "text": "This suggests that considerable educational marketing is required to guide problem-aware individuals towards recognizing mental arbitrage and subsequently coaching for it as a relevant solution to their needs, right? Dominant marketing awareness, unaware, and problem-aware stages, right? Which is probably true. I think that's probably the dominant era. Now, you still have to decide that that doesn't mean that's who you have to talk to. Often is. Problem-aware is usually, like I said, where most cold biz ops coming to, and you can even go down here."
+    },
+    {
+      "start": 1181.04,
+      "end": 1210.94,
+      "text": "But if you really believe that social-aware people are this big, you can start talking to them. Or even people who are product-aware are really aware. You can do good money. The thing that is so interesting with BizOps, for example, what tends to happen, a lot of people will start here or here, and they'll get to $1 to $3 million a year in revenue. And then they're kind of like, I'm stuck. And it's like, you're stuck because you've got to go all the way over here to get to $10 million, $30 million, $50 million, $100 million a year in revenue, right?"
+    },
+    {
+      "start": 1210.94,
+      "end": 1243.82,
+      "text": "It really does come down to these levels of awareness a lot. So, you know, it's important to understand that. And again, then I'm going to kind of like, you can read what you want. It doesn't, like, don't get overwhelmed by the amount of information. This is kind of a way to know. You want to know, like, what are the estimates? Who am I targeting? Why am I targeting those people, right? And again, if you're working for a brand, if you're a freelancer or something like that, they should be able to kind of answer that question too, or you can give them recommendations based on what you know, okay?"
+    },
+    {
+      "start": 1244.24,
+      "end": 1278.54,
+      "text": "Okay, so I paused it to eat some food. I had my lunch delivered. But let's go on to a couple more examples. I mean, I think you're getting the idea here. And obviously you'll see where this is relevant or helpful as we continue on. Did I do this one for the Airbnb arbitrage too? I did. You know, it is interesting how ChatGPT and Gemini have different estimates. They look at, you know, PromoWare as a larger..."
+    },
+    {
+      "start": 1278.54,
+      "end": 1310.64,
+      "text": "segment. They want extra income, have a pain point, don't know that arbitrage is the solution. They do look at solutionware as 20-30%. I'm not convinced this is accurate, though, to be honest with you. I don't know if 23% of people really know about rental arbitrage, and then productware 5-10%, and most were 1-5%. That is different from what Gemini had. You can kind of pick. I don't know, but I think you'll generally still get a gauge even when they're different. You'll still have a"
+    },
+    {
+      "start": 1311.41,
+      "end": 1348.38,
+      "text": "a general gauge of who you're speaking to and you'll understand. And frankly, you know, you should kind of know who you're trying to talk to. And most of the time, like I said before, like for the thing being the arbitrage, like you're really hitting all of these people. So if we sum that up, so to up, you know, about 70% of people in your TAM are here, right? If we go to what ChatTPT is saying, 10 plus 40 is 50 plus 20 is 70. Okay, it's really important."
+    },
+    {
+      "start": 1348.38,
+      "end": 1379.6,
+      "text": "Okay? Underwear, 10%. Problem wear, 40%. 10 plus 40 is 50. Plus solution wear, 20% is 70. 70%, right? These are the segments. Even though it seems like they're saying a different thing. Go back to Gemini, right? Underwear, 30. Problem wear, 25. 30 plus 25 is 55. Solution wear, 15. 55 plus 15 is 70. So it's like you're still basically getting the same percentage of people. They're distributing it differently, but that's who you're speaking to, right?"
+    },
+    {
+      "start": 1379.98,
+      "end": 1410.22,
+      "text": "Okay, a couple last ones real quick here. I don't know if I have to go on forever on here to belabor the point. I did it for whipped tallow just because I used that example, or for beef tallow. I have the prompt correctly here. I did this one before. I actually added in the whole tam thing. I hadn't done that before. The video I did previously, and I'm like, oh, this is definitely cool. I want to do that. So I'll just show you that output real quick. This one also comes from Gemini."
+    },
+    {
+      "start": 1412.08,
+      "end": 1445.04,
+      "text": "Same idea. But what I want to get to here is why I don't think this one has the percentage breakdown. It's actually cool to do competitive landscape, things like that, right? Again, lots of neat stuff. All I really care about, this one I went freaking epic on for some reason. I don't know why. But I don't really care about any of it. This wasn't doing percentages, which is why I improved the prompt. Honestly, for this one, if I just go all the way down,"
+    },
+    {
+      "start": 1445.49,
+      "end": 1473.17,
+      "text": "The majority of U.S. women age 35 and older most likely fall into the problem-aware or solution-aware stages. So all you need to know would be fun to redo this as like the percentages, but product-aware, most-aware, small. And what did I say? I talked about that experience I had where I'm like, oh shit, I'm trying to talk to product-aware people, super small. I should be talking to them up here. I'm not. That's where I messed up, right?"
+    },
+    {
+      "start": 1473.36,
+      "end": 1508.88,
+      "text": "Okay, and then very last one, I haven't even exported this as a doc yet, which I'll do, is the Personal Branding Mastermind. I decided what the heck, might as well include that one as well. Lots of interesting stuff, how it got to these estimates for your TAM. It's really powerful, it's great. Kind of good to know. All I really care about is this. Unaware, problem aware, solution aware, product aware, most aware."
+    },
+    {
+      "start": 1511.31,
+      "end": 1545.97,
+      "text": "Might be a little bit generous again, but you see that kind of like what I said in that video, right? You can still speak a biz op to the unaware people too, I think in this market. But probably your bread and butter is going to be that problem aware, solution aware demo. And even within that, okay, here's a good question, right? Actually, this is really important. And I should have brought this up probably earlier. Because earlier I said the messaging for problem aware is different than solution aware, right?"
+    },
+    {
+      "start": 1546.19,
+      "end": 1578.16,
+      "text": "And that's true, for sure, right? If I'm doing an ad, for example, or even a VSL or whatever it is, if I'm talking to a problem-aware person, what I call out is their pain points, problems, struggles, is to be different than a solution-aware person who knows about these personal brand things and all that. But that doesn't mean I only want to get problem-aware people, right? Like, we'll talk about this as we get to copy more, but like, you can still"
+    },
+    {
+      "start": 1578.16,
+      "end": 1608.21,
+      "text": "call out the problem seeking promotion, blah, blah, blah, blah, blah, blah, blah. Right. Um, and then later on the copy, you're like, you know, so if you're telling a story with me, like I started looking for solutions. I found out that there was a bunch of personal branding, career coaching people, like all this stuff. Like I didn't, you know, it was overwhelming. Um, everything like that. Then I heard about mastermind groups. Right. So here's a crazy way to look at this as well. And I, hopefully I'm not fire hosing y'all too much, but."
+    },
+    {
+      "start": 1610.32,
+      "end": 1640.21,
+      "text": "In a good VSL, especially it can be an infy VSL or an on-page VSL, a lot of what you're doing is you're almost taking them through this journey in a VSL. I'm going to come back to that concept when I get to teaching VSLs. I just want to put a little open loop, put a little plant of seed in your head. If I'm telling you my journey, I'm like, I noticed this problem. It was bothering me."
+    },
+    {
+      "start": 1640.24,
+      "end": 1669.3,
+      "text": "I started looking for solutions, right? You probably have heard this before if you did RBC Wanderers, other copy, like other solutions, but they weren't really good. They weren't great. You know, eventually I came upon this specific solution, right? Which could be like a mastermind or it could be a supplement, whatever it is. That was almost the answer, but it wasn't. Then I figured out or found or created the specific one that's the best, right? If you just think about that broadly."
+    },
+    {
+      "start": 1669.3,
+      "end": 1700.74,
+      "text": "That's sort of what you're doing. So it's okay. If you go to problem aware, which is where a lot of copy is going to fall, right? And again, in some cases like skincare, problem aware is also solution aware. But in general, you're kind of going problem aware because this stuff's going to be encompassed within problem aware, right? This is typically where a direct response for cold traffic, for people who aren't familiar, that's where you're going to be, right? If you're warm traffic, people who are previous buyers who are really familiar with you,"
+    },
+    {
+      "start": 1700.74,
+      "end": 1726.25,
+      "text": "or you run retargeting ads, things like that, you're going to be here. Okay. So I'll pause this training. Well, I'll pause. I'm going to end this one here. We'll come back to these concepts a lot. I hope this is all making sense. I hope it's got your wheels turning, has you thinking of copy differently. And we're going to move on to psychographic research and other things like that and additional modules. All right. Thank you so much. Bye."
+    }
+  ]
+}

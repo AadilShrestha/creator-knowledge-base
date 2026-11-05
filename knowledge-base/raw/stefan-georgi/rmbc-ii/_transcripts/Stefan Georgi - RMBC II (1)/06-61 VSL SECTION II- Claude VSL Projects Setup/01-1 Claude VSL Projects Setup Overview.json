@@ -1,0 +1,139 @@
+{
+  "source_file": "Stefan Georgi - RMBC II (1)/06-61 VSL SECTION II- Claude VSL Projects Setup/01-1 Claude VSL Projects Setup Overview.mp4",
+  "source_id": "mega:GwRSGa5C",
+  "audio_sha256": "57aca3339525222915d5a28d658e8a2d71e27999b9caad77c6156ab45e843f03",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 676.63,
+  "last_segment_end": 675.86,
+  "segments": [
+    {
+      "start": 0.46,
+      "end": 30.61,
+      "text": "All right, so in this module, we're going to be talking about setting up Claude projects for different VSLs and go on to this module in this video. This actually will be a very fast video because it is pretty simple. If you're at this point here, hopefully you watched the brief section. It's really important that you did if you're doing VSLs especially. So really all we're doing in here is we're setting up projects."
+    },
+    {
+      "start": 30.61,
+      "end": 58.8,
+      "text": "projects for long form medium form three to seven minute length ones and then short ones now for three to seven minute and short like those are almost always going to be honestly the same thing as like video ads um the difference between short and three to seven minutes is really like short are almost all like one to two minutes long and by almost all what do i mean i mean basically put in a bunch of"
+    },
+    {
+      "start": 58.8,
+      "end": 89.95,
+      "text": "short ad transcripts that we're going to give to cloud projects. You could always add more if you wanted to, whatever, right? Whereas the three to seven minute ones are, I've eight of them in here. Sorry, that's the teaser. And they actually range in time from, you know, a little over three minutes up to about seven minutes, hence three to seven minutes. The neural one in here is seven minutes long."
+    },
+    {
+      "start": 89.95,
+      "end": 119.6,
+      "text": "One interesting thing I did, and I only did it on this one, is I put the length of each ad here. I know this is small, but it's like three minutes and 30 seconds. Like where I say like the Neuro one is six minutes and 54 seconds. The reason I did that is because I'm wondering, you know, if Claude telling it how long these transcripts are gives it a frame of reference when I tell Claude to write new"
+    },
+    {
+      "start": 119.6,
+      "end": 144.35,
+      "text": "And when I talk about it, I wonder, it's because I, to be honest with you, I've used Cloud Projects, I use all these processes I'm teaching, but as I've made RMB-C2, I've also been improving my processes a lot, and frankly, making them way better, which is super cool. So even the brief thing, to be honest with you, I did it differently up until RMB-C2, and then I'm like, oh shit, this is the way to do it. I've been doing it."
+    },
+    {
+      "start": 144.35,
+      "end": 175.3,
+      "text": "and also a really good way, but it's not as good as this brief. And it's super cool. So I'm like, I'm grateful that I've made this course because it's like, helped me make my processes even better. And then you're getting them cutting edge, hot off the press, all of that. Same thing with like this. I had projects for some different length VSLs and, you know, ads and things, but this is, I didn't have one specifically for three to seven minutes. Now I do. And I gave it the time. So really it's like the same setup for all of these things."
+    },
+    {
+      "start": 175.3,
+      "end": 204.9,
+      "text": "In each of the folders, sorry, just to make one more important point, I could have actually stuck with that one, you'll get the instructions for the cloud project. I like this much bigger. So this one's actually a little bit longer. But your job is to generate many video sales letters that are typically three to seven minutes long. This document, or the documents in your knowledge base, includes transcripts from several of these VSLs, which we can model off of while writing new VSLs."
+    },
+    {
+      "start": 204.9,
+      "end": 218.05,
+      "text": "What you'll want to do is analyze the structure of the various VSL examples and then synthesize that knowledge and use that same knowledge along with your judgment to produce new VSLs. Please note that most of the time VSLs of this length are run as infeed ads, a meta,"
+    },
+    {
+      "start": 218.05,
+      "end": 236.4,
+      "text": "also they often do not reveal the product they are selling and instead tease a new solution or breakthrough with the call to action being to go watch a video or read a report to get information that being said at other times they may mention the product and mention how people can get a discount i'll typically specify the goal when asking you to write vsl scripts in general when you go to write"
+    },
+    {
+      "start": 236.4,
+      "end": 264.32,
+      "text": "I'll give you various inputs or even an outline in the game plan. You'll be able to model off the examples based on the information about whatever the current short VSL project is. One important note, please don't try to rush or condense anything. Instead, whenever you run out of space, just prompt me and I'll tell you to continue. This one is not that relevant for anything below like a 20-minute long script because Claude just has really long outputs now in general, but I still like having it in here. It's no big deal. Okay, so that's an example and you've got"
+    },
+    {
+      "start": 264.32,
+      "end": 291.07,
+      "text": "your transcripts in this case of like eight ads you can always experiment i always know when i do this there's going to be people who go what if i put 20 in there what if i put 15 what if i put 30 what if i it's like yeah like i think i've said this a bunch of times at this point in rbc2 feel free to experiment you're an experimenter and a scientist and you should have that mentality uh also though most of the experiments you want to do are probably going to give you"
+    },
+    {
+      "start": 291.07,
+      "end": 315.22,
+      "text": "incremental gains there probably aren't going to be really big gains if any or it's going to just be different but not better so that doesn't mean you can't find one that is like totally better than what i'm sharing uh but keep that in mind there's some there's certain people who i know you're going to try to get like hyper focused and fixated on tweaking these processes"
+    },
+    {
+      "start": 316.46,
+      "end": 346.32,
+      "text": "as a distraction from actually doing the work that's going to actually move the needle for you. So I'm not calling out everybody. I'm sure plenty of you aren't that way, but there are people that way I may just know from experience. And what I would say is I would urge you to, you know, if there's not a really good reason to do it, use the processes rather than try to like tweak them because, you know, just to tweak them, you know, unless you're just bored and have time and then go nuts. So the same thing I just put here."
+    },
+    {
+      "start": 346.9,
+      "end": 378.34,
+      "text": "It's literally like what the project's about when you create a project. And then it's again here in the description. And then it's again here. And I've shown a bunch of times, but one more time in case somebody skips this module, you would just go create new project, you name it, right? So name it like quad three to seven minute BSL generator, boop. What are you trying to achieve? Copy this, paste it in, boop. Now you have this, here's the knowledge base. You would hit plus tab content or you can just drag and drop PDFs."
+    },
+    {
+      "start": 378.34,
+      "end": 409.22,
+      "text": "into here, and that's it, right? And what I have in here is, like I said, quad projects for different lengths. So long form, got an Agora financial one. If you watched that brief example for the financial one, like you saw how crazy that got. It was pretty amazing. A Beverly Hills MD pinch test, one that I taught during the VSL training that you should have."
+    },
+    {
+      "start": 409.22,
+      "end": 438.61,
+      "text": "I already watched the DSL trainings on theory, structure, going through them. Backyard Liberty, I was like, yeah, what the hell? This is a classic survival letter from way back in the day. I thought, yeah, it'd be fun to put that one in. This one from Emma Relief is really good and pretty white hat. Genius Wave is a manifestation offer that was really successful on ClickBank. I figured, hey, it'd be cool to put a manifestation offer in the mix. Mitoline's a really aggressive weight loss offer on ClickBank."
+    },
+    {
+      "start": 438.61,
+      "end": 468.78,
+      "text": "I thought that'd be cool. So I honestly don't even know a ton about these guys, but their copy's pretty good. And it was a swipe folder. And I said, yeah, what the hell? Let's put this one in. It seemed pretty white hat when I read through it, to be honest with you. And then like a biz op one, right? And what's cool with the way this process goes, a couple of things. I mean, first of all, oh my gosh. Back in the day, I would teach a lot about stuff on ClickBank. And I wrote stuff for ClickBank a lot. And then I sort of got called out for that. Like kind of rightfully, there's, I'm not, I still don't pass judgment."
+    },
+    {
+      "start": 468.78,
+      "end": 498.45,
+      "text": "um it's not my place but you know there's really aggressive stuff on clickbank and people make claims and you know you can get a lot of ethical quandaries there and i totally get it but that doesn't mean the copy is not good right it might just mean that some of it's inaccurate or whatever it is or you know there's some questionable things with clickbank copy um but copy could still be good and what you'll find is like you already saw this i shared sort of examples with the unity eye serum and the financial other i mean financial model off this but the point is"
+    },
+    {
+      "start": 498.45,
+      "end": 529.76,
+      "text": "Even if you had this as really aggressive, if you had something, you could give it to an LLM and it would just make less aggressive claims, especially if you told it to, and then the structure might still be really good. But also what's really important is if you look at these prompts, one of the really key phrases, analyze the various structures, synthesize that knowledge, and use that same knowledge along with your judgment to produce new long-form VSLs."
+    },
+    {
+      "start": 529.76,
+      "end": 555.82,
+      "text": "this is what's cool so my original claude or yeah claude and just llm like copywriting process was much more so swipe specific sales letters and there's still value to doing that like like you again kind of like what you saw financial it's like hey here's like a winning sales letter here's all the inputs right aka the brief right that you need to write a new one so basically just"
+    },
+    {
+      "start": 555.82,
+      "end": 585.49,
+      "text": "rewrite this winning sales letter with these briefs but basically model and swipe the structure really closely and then in editing i would go through and change it enough to make it different that still works i'll still show i'll do a module kind of showing some examples of that but it also becomes problematic i mean your swipes are really close to other people's there's times we might want that right like i really wanna it's my vsl and i want to swipe my vsl for another category and i want to be exactly the same but if you're like a copywriter and you're sort of"
+    },
+    {
+      "start": 585.58,
+      "end": 612.69,
+      "text": "swipe told to swipe a winning thing like it becomes you know it can be maybe too close for comfort and whether that's how you feel about it or you're the business owner feels that way when they get the copy um or they don't feel that way but then they get sort of into a big dispute with somebody else right like it's sort of there's there's landmines that you need to dodge um but when we do it this way and we're like you know basically synthesize the information and essentially create a composite"
+    },
+    {
+      "start": 613.33,
+      "end": 637.95,
+      "text": "We avoid a lot of those problems because it's going to take the best, or at least good elements from all of these sales letters, whatever length they are, and then create new stuff. So that's the kind of setup. And then you can go through and make a project for each one of these in Claude. Number five will not be, you probably won't see this. This has got some old stuff that I originally put into this drive folder while making, you know, organizing content."
+    },
+    {
+      "start": 637.95,
+      "end": 666.77,
+      "text": "Ignore that one, because again, most of that probably will not make it into the final RMBC2, which is why I'm not going through it. But you just have these different projects, and then we can use them to generate different links to copy. Now, you already saw that with the Unity Eye Serum, for example. You saw Financial, the Blood Sugar example I did, too. Lots of examples. So that's it. Short-ish section here. But then the next section, we'll start actually writing copy."
+    },
+    {
+      "start": 666.83,
+      "end": 675.86,
+      "text": "using those cloud projects, right? Or producing, creating, whatever you want to call it, copy using cloud projects. So that'll be the next step. All right. Thank you."
+    }
+  ]
+}

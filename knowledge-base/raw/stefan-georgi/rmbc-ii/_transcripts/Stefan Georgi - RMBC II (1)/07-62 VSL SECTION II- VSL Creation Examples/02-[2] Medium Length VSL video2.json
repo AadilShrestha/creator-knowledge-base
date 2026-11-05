@@ -1,0 +1,154 @@
+{
+  "source_file": "Stefan Georgi - RMBC II (1)/07-62 VSL SECTION II- VSL Creation Examples/02-[2] Medium Length VSL video2.mp4",
+  "source_id": "mega:GwRSGa5C",
+  "audio_sha256": "dfeb92f642acef2448fd8bcc3ecf1ade86304009fca58ed2d41bae9205e69bbf",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 1080.7,
+  "last_segment_end": 1080.14,
+  "segments": [
+    {
+      "start": 0.21,
+      "end": 28.74,
+      "text": "All right, so let's look at medium-length VSLs now for Airbnb Arbitrage. I mean, honestly, you saw the long-form one. We created the script. We did some additional leads for it, which I have here as a PDF. I don't want to have to copy the document every time. I mean, the Google Docs are in the long-form one. If you want those versions, these are the PDFs."
+    },
+    {
+      "start": 28.74,
+      "end": 61.26,
+      "text": "So what can I do here? Well, hopefully, assuming Claude's working normally now, because as you may recall, at the end of that long form Airbnb one, it wasn't. One of the most obvious things I could do is I could just, and I could do this honestly in that same Claude project, or I can do it here. I went to the medium length one. Let me go, okay, like, here's a PSL I wrote for an Airbnb arbitrage coaching."
+    },
+    {
+      "start": 61.52,
+      "end": 113.39,
+      "text": "Can you take this and do a version that is 18 minutes long. Keep the three options for the openings since each video would only have one of those options. So that should be taken into account. Okay. Oh hell, let's do 16 minutes."
+    },
+    {
+      "start": 113.39,
+      "end": 171.94,
+      "text": "Claude just skews a little bit, thinks it's a little bit longer than it is. So, okay, this is one obvious way I can do this. It should be basically the same VSL, just more succinct. I don't know why it's giving me these weird other hooks, but that's actually not a huge deal because I can just use the hooks from the long VSL. If I needed to cut them down a little bit, I would. So, again, guys, it feels weird. Like today, Claude makes updates. Sometimes things get a little wonky."
+    },
+    {
+      "start": 171.94,
+      "end": 219.66,
+      "text": "But overall, this shouldn't be like, you know, most of the time. Nah, this kind of would be weird, actually. So I start with this guy, Rick. Rick, he was brilliant. I'm going to stop it. Okay. I feel like not. I'm going to try this again. Let's see. I don't know, man. Honestly, I might have to try this in 3.7. Honestly, let's put it in Gemini. Again, this is why you need to have multiple models, and you're screwed if you don't."
+    },
+    {
+      "start": 220.5,
+      "end": 277.94,
+      "text": "Let's just do the same prompt here in Gemini. Let's see if Gemini is less screwy right now. This should be the same VSL, just doing a version that strategically down things to make it fit the 18-minute. Let me try this one more time. Let me try this prompt here again. Okay, so while I was doing this, I'm going to try this prompt again. I'm just going to do the same thing I told Gemini."
+    },
+    {
+      "start": 277.94,
+      "end": 309.87,
+      "text": "Okay, so we're just doing that. So let's see if it does it better this time or not. I mean, honestly, I could do it. I have to do it in a quad project, right? I mean, I wonder what happens if I just do it in a normal quad. It should do the same thing in the medium-length project, but I mean, honestly, I could just also upload it into quad. Let's see. Now, if it gets wonky again, let me notice things I have a quad Sonic 4 right now, and I could also go do 3.7 or something like that, right? I mean, honestly, 3.7 should do fine. I think 4 just does longer outputs, so that's one of the things I like about it. Let's see, okay?"
+    },
+    {
+      "start": 313.78,
+      "end": 354.22,
+      "text": "So I kept these as is because I said. And so really, I'm honestly not going to spend a ton of time going through this. I'm just going to like share it with you because again, it should basically be the same BSL, which is shorter, except for not really because it really shortened this down a lot. Let's see, three to four minutes, four to five minutes. So say three, four, seven, 10, 12. Nah, I guess not. Just a little shorter."
+    },
+    {
+      "start": 354.86,
+      "end": 422.94,
+      "text": "I guess it's the right amount of time. All right, never mind. So I guess it's probably a good length. It just feels so much shorter when it's like, so sort of keeping the leads as is, which is fine. All right, cool. So it's doing a good job now. So the cloud project is just being wonky, but I don't think it'll be wonky for if you want a different media length VSL. So that's where we'll use it real quick as an example here. Once this is done, which it should be done in just a moment. All right, cool. So I'm going to copy this and go. Why is everything being wonky right now?"
+    },
+    {
+      "start": 422.94,
+      "end": 469.78,
+      "text": "medium, why is this going in white? It's still weird. Medium length, DSL example, pair B, let's see, hopefully, yeah, there you go, okay, it's better. It's weird, man, the whole internet's being wonky today. So I'm gonna do that. Must be bot version. Okay, so this is one way to do it. Cut down existing endpoint too, okay? Cool, let's save that. Let's quickly look at what we would do for"
+    },
+    {
+      "start": 483.57,
+      "end": 543.5,
+      "text": "let's look at the clod project now so so now if i wasn't gonna do that i might just do something like the brief i mean if i like the long vsl this is probably just how i would do it to be honest with you but you know for like simplicity's sake let's just go like oopsie here's the brief for an arbitrage pushing program this is for their people so we don't want"
+    },
+    {
+      "start": 543.5,
+      "end": 576.86,
+      "text": "to lead out with the arbitrage. Can you please give me the outline for a medium. Let's actually make this one shorter. I mean, honestly, I would do the same thing even if I wanted a seven or eight minute one, but let's say that's nine minutes total. The call to action will be to book a call and get a roadmap not to sell."
+    },
+    {
+      "start": 576.86,
+      "end": 627.79,
+      "text": "Let's just see what it does for that line of this one. Again, this is going to be short because it's going to be nine minutes long. It's honestly just writing it because nine minutes is pretty short, so let's just look through it. What I'm about to show you explains why every side hustle you tried has failed and has nothing to do with your work ethic, your intelligence, or even how much money you started with. In fact, once you understand this hidden truth, you'll realize you've been trying to solve the completely wrong problem this entire time, and the solution is actually much simpler than you think, but almost nobody talks about it."
+    },
+    {
+      "start": 627.79,
+      "end": 654.69,
+      "text": "My name is Marcus Hayes, and over the past 18 months, I've gone from a burnout logistics manager working 60-hour weeks to control over $2.3 million in cash-flowing real estate assets without owning a single property or having perfect credit. Look, if you're watching this, you're probably like I was two years ago. You're working harder than ever, but somebody's getting further behind. Maybe you've tried affiliate marketing, dropshipping, freelancing, and they either didn't work or burned you out completely. You know the system is rigged. Your parents could buy a house and support a family on one income. Meanwhile, you're college-educated, working longer hours, and still living paycheck to paycheck."
+    },
+    {
+      "start": 654.69,
+      "end": 662.83,
+      "text": "But here's what I discovered that changed everything. You don't have an income problem, you have an asset gap problem. And you've been trying to solve an asset gap problem with income solutions. That's why everything you've tried is failed."
+    },
+    {
+      "start": 662.83,
+      "end": 690.61,
+      "text": "See, there's no such thing as being income rich long term, because income requires trading in your time, and you only have 24 hours in a day. But being asset rich, that's where real wealth comes from, because assets make money while you sleep. The wealthy don't get rich from bigger paychecks, they get rich by chameleon assets. But here's the problem. The system makes it almost impossible for regular people like us to access these wealth building assets. Want to invest in real estate? You need $80,000 for a down payment, perfect credit, massive income qualification. Want to start a real business? You need huge startup capital and years to build it. So we get stuck trying."
+    },
+    {
+      "start": 690.61,
+      "end": 718.69,
+      "text": "Income solutions, side hustles that require us to work more hours for uncertain pay. It's still trading time for money. It's still the hamster wheel. I was trapped in this exact cycle. I tried every side hustle you can imagine and failed at all of them. Lost thousands, feel like an idiot. Then I stumbled across something that changed everything. It's called the asset control method. It lets you regain operational control of cash flow and real estate assets without the massive barriers of traditional ownership. Instead of buying properties, which require those huge down payments and perfect credit, you gain control of cash flow and assets through strategic partnerships with property owners."
+    },
+    {
+      "start": 718.69,
+      "end": 742.62,
+      "text": "You find property owners who want a stable, reliable income without management headaches. You lease their properties on a long-term basis, then operate them as short-term rentals, capturing the cash flow difference. You get all the benefit of asset ownership, passive income, scalability, wealth building without the traditional barriers. This isn't just another way to make extra income. You're controlling assets that generate cash flow whether you're actively working or not. This is your bridge from being income-dependent to becoming asset rich. In 18 months, I built a 15-week portfolio."
+    },
+    {
+      "start": 742.62,
+      "end": 767.04,
+      "text": "15-unit portfolio generate over $12,000 in monthly passive income. These properties cash flowed from day one. The landlord is a lovely arrangement, and I'm finally building real wealth. But here's the best part. I spend about five hours a week managing the entire portfolio because I've systematized everything. Sarah, a teacher from Phoenix, secured her first property in six weeks. It's turning 3200. There's Mike. There's Jessica. Landlord testimonial. Most stock hustles fail because there's still income solutions disguised as businesses."
+    },
+    {
+      "start": 767.04,
+      "end": 785.06,
+      "text": "You stop working, the money stops coming. With the asset control method, you're building a portfolio of cash-flowing assets. Each property becomes a mini-business that operates whether you're working, sleeping, or on vacation. The key is finding what I call hidden gem markets, areas where there's strong rental demand but limited short-term rental supply. Where everyone else fights over saturated markets, you're building in areas where you have little to no competition."
+    },
+    {
+      "start": 785.06,
+      "end": 827.28,
+      "text": "This isn't about tricking landlords or finding loopholes. This is about creating genuine win-win partnerships. Property owners get guaranteed rent, professional management, and higher quality tenants. You get control of a cash flowing asset without massive capital requirements. I've systematized everything, from finding properties to landlord negotiations to guest management. My students use the exact same templates, scripts, and processes that took me months to develop and refine. Look, yes, more people are learning about this, but most are doing it wrong. That's kind of weird how it just kind of goes into the objection handling. That's not what they do."
+    },
+    {
+      "start": 858.48,
+      "end": 901.42,
+      "text": "We go from systems and automation to just blurting hot objections. Are good to address, but we need a better transition. Thinking about it right now, sounds too good to be true. And honestly, if someone had told me this three years ago when I was filling in my first side hustle, I probably would have been skeptical too. So let me address the questions that are probably going through your head right now. Everyone's doing this now."
+    },
+    {
+      "start": 902.03,
+      "end": 925.74,
+      "text": "You're probably thinking, if this works so well, isn't everyone doing it now? Look, yes, more people are learning about this, but most are doing it wrong. Competing in over-saturated markets are creating bad partnerships with landlords. The right approach and the right markets with the right systems thus will separate success from failure. What about regulations? You may be wondering about the legal side of things. This is exactly why we focus on responsible arbitrage and proper legal structures. Everything we do is above board, benefits all parties, and actually improves communities by maintaining properties at higher standards."
+    },
+    {
+      "start": 925.74,
+      "end": 954.59,
+      "text": "I don't have time. And I bet you're thinking, Marcus, I'm already overwhelmed. Where am I going to find time for all this? I get it. You're already stretched thin. But here's the thing. You're going to spend your time somehow. You can keep spending it making other people rich in your 9 to 5, or you can invest some time building assets that will pay you for years to come. What if I fail again? Maybe you're thinking, what if this is just another thing I fail at? Trust me. I failed at everything to you before I figured this out. The difference is this time you won't be going into the loan. You'll have equipment systems I'm going to support and a community of people doing exactly what you're."
+    },
+    {
+      "start": 954.59,
+      "end": 1010.38,
+      "text": "trying to do that's much better okay so let's actually take this put v1 into here and we just need to take unique mechanism and modify fail again okay and we can kind of read from here to continue on look i only share this with serious people who are ready to stop making excuses and start building real wealth you're tired being stuck in the income trap and you're ready to start committing assets i want to help you create a free training where i break down exactly how the asset control method works"
+    },
+    {
+      "start": 1010.38,
+      "end": 1039.7,
+      "text": "show you the specific markets I'm targeting right now and walk you through the exact process I used to secure these partnerships, what you get. On this training, you'll get the complete hidden gem market analysis I used to find profitable opportunities, my exact landlord partnership script that has an 85% success rate, a breakdown of realistic costs and timelines so you know exactly what to expect, and I'll show you how to identify your first potential property. I will do these trainings a few times a year. It's possibly limited because I personally review every application and make sure we're working with serious people. Click the button below to register. You'll answer a few questions about your situation, and if you look like a good fit, you get access to schedule your session."
+    },
+    {
+      "start": 1039.7,
+      "end": 1078.02,
+      "text": "Two years ago, I was exactly where you are. Frustrated, stuck, and tired of trading time for money. Today, I wake up to money deposited from guests who stayed while I slept. The difference, I stopped trying to solve an asset gap problem with an income gap solution. If you're ready to make the same shift, click below and let's talk. All right, that's pretty solid, actually, right? So say that, B2, nine minutes. And of course, we could add in, right, like, cool, this is great. Let's do this hook. Let's do that hook. Blah, blah, blah, blah, blah, blah. But hopefully, it's pretty solid. Pretty solid, right?"
+    },
+    {
+      "start": 1078.02,
+      "end": 1080.14,
+      "text": "Sweet. Thank you. Thank you."
+    }
+  ]
+}

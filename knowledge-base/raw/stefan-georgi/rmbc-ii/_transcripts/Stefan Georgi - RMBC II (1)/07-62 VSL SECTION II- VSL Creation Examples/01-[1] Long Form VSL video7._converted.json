@@ -1,0 +1,39 @@
+{
+  "source_file": "Stefan Georgi - RMBC II (1)/07-62 VSL SECTION II- VSL Creation Examples/01-[1] Long Form VSL video7._converted.mp4",
+  "source_id": "mega:GwRSGa5C",
+  "audio_sha256": "8fe15b4258ab2bd28219a69414c3c9530222e04c1f76580885741f0251adc5e3",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 146.79,
+  "last_segment_end": 145.62,
+  "segments": [
+    {
+      "start": 0.82,
+      "end": 31.95,
+      "text": "All right, so this is going to be a really fast one on the VSL side because you already saw how we created this when I was doing the brief. So if you didn't watch that part, watch the brief part before and go check it out. One of the actual only things I want to bring up to you that I think is really funny. Let's look at the word count real quick here. I shared this with a friend who's a former Agor financial copywriter, and he was like, you know, it's pretty cool, but it was a made-up idea. Part of this is the research, and if there's actually validity to it,"
+    },
+    {
+      "start": 32.14,
+      "end": 64.91,
+      "text": "I think he went and did research and he was like, oh shit, it turns out there actually is a bunch of research about these genetic editing patents and companies that have secured them and all that. So it's crazy. It's like, Joe and I just had that part dialed in already. So it's pretty funny. But I'm not enough of a financial VSL copywriter. As far as I can tell, it's pretty good. I share it with a friend who, like I said, was an Agora copywriter. He thought it was pretty good. Of course, it's a pretty direct swipe of the secret trust fund offer."
+    },
+    {
+      "start": 67.7,
+      "end": 99.54,
+      "text": "Sorry, my dog. You need to shower. This dog smells terrible. I so love him. Oh, he really smells bad. Yeah, so I mean, honestly, you can go through this and check it out. I mean, you've seen the process. You saw the brief was created. Obviously, you could use the ideation stuff, similar to what we did. The Gemini thing I shared with you, but also, obviously, the other side to it, too."
+    },
+    {
+      "start": 100.14,
+      "end": 128.66,
+      "text": "like the other side to it too what does that mean you do the gemini stuff but also you could you know use the mechanism and the market research and all that and honestly this is one where for financial especially if you scour through with gemini these processes i bet you find some really interesting stuff and there's probably some customized things you could use for financial um i just think it's hilarious that this is a pretty good promo from what i can tell and gemini basically like came up with the idea and claude just wrote it you know uh"
+    },
+    {
+      "start": 128.82,
+      "end": 145.62,
+      "text": "So, I don't know, I think that's pretty funny. But I'm actually focused mostly on long form, sorry, on some short form ads. So say you have a script like this, looking good, how do you sell the click? So I'll show you that in the short form. I'm gonna skip the medium and the 37 length and we go to short form for this one and you'll be able to check it out. All right, thanks."
+    }
+  ]
+}

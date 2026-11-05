@@ -1,0 +1,204 @@
+{
+  "source_file": "👣 Evolve (Start Here)/78. Understanding Ad Definitions 👣 Evolve (Start Here) Evolve.mp4",
+  "source_id": "mega:jhQDiSSY",
+  "audio_sha256": "053351e8a06faad7fcce77b36b7f48b90f1885cd3366e44c8c45f8fedcc1c59f",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 985.62,
+  "last_segment_end": 985.62,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 19.82,
+      "text": "all right in this video it is time to jump into definitions now i want to let you guys know that this little mini series here um around basically extracting the angles and talking about these definitions is going to be a bit of a kind of like watch them all together and then"
+    },
+    {
+      "start": 19.82,
+      "end": 41.7,
+      "text": "kind of take the action item because uh i'm going to break these down kind of video by video to help you understand what is happening and then at the end i'm actually going to get into examples that will tie everything together okay so it'll it'll make sense once i do it i just want to avoid giving you examples before i actually explain everything that has to do with essentially the ad uh execution"
+    },
+    {
+      "start": 41.7,
+      "end": 71.02,
+      "text": "side of things. Okay. And when I say ad execution, it's basically like the ad organization side of things, more or less the actual writing in the actual execution will be done in the follow-up steps. But I just want you to know that it really starts with defining terms. So that way we can communicate the same way. And then we can get into actually going deeper on each and every single one of these things that need slightly more context. So let's go ahead and jump into the screen here. Please know that the definitions that follow are the ones that have are the ones that I have."
+    },
+    {
+      "start": 71.02,
+      "end": 88.11,
+      "text": "chosen to use. At the end of the day, I want you to use the definitions that make the most amount of sense to you. But hopefully, these definitions will help guide you so that you can think less about terms and philosophies, and just focus on pure execution. Okay. And so the first term that we need to essentially cover here is 322."
+    },
+    {
+      "start": 88.11,
+      "end": 111.31,
+      "text": "okay and 322 stands for three creatives two body copies and two headlines now if you're most of you probably know what this is um but the 12 year old definition of this is uh this is the testing structure that we use inside of meta okay and so when we test with three creatives the reason why we do three creatives is so that way we just have three variations of every concept and i'm"
+    },
+    {
+      "start": 111.31,
+      "end": 130.21,
+      "text": "already using terms that we're about to cover down below but the point is is the entire this entire thing this 322 is essentially a concept that we would test inside of meta again the three equals the variations of that one concept and the 2-2 is just like the headlines and body copies that go around the facebook ad okay so i hope everybody can"
+    },
+    {
+      "start": 130.21,
+      "end": 148.13,
+      "text": "clearly understand what this means we throw this term around a lot it's basically it just stands for three total creatives two total body copies two headlines okay and that is exactly how we set up ads instead of meta so again our goal is to make ads so i need to make sure that i define this first now the next thing here is concept"
+    },
+    {
+      "start": 148.13,
+      "end": 170.78,
+      "text": "or batch number so this slash basically just means like you can use these like either or okay so some people keep track of it by saying concept number some people say test number some people say batch number so i guess i'll just go ahead and and i should probably add those uh batch number i've gotta i've gotta zoom out here uh batch number is one and then test number"
+    },
+    {
+      "start": 170.78,
+      "end": 199.81,
+      "text": "is another. At the end of the day, it doesn't really matter what you use. Just know that this is the number that you're using to keep track of the test, okay? So the 12-year-old definition is the number you use to keep track of which test you're on. Now, this is important to do because at the end of the day, you want to see like, oh, test number 27, how did that do, right? And I like it as like, okay, how long is it taking us to actually find a winning ad? So you can see kind of how many ads it took you to kind of unlock that winner once you hit it. And very simple, we would just say batch number one, batch number"
+    },
+    {
+      "start": 199.81,
+      "end": 228.1,
+      "text": "29-133, you will see that coming through. This term is stupid simple. If you don't get this, we're in trouble. But just now this is how you keep track of it when you're actually coming up with the concepts. And we'll show you how to organize those as well. The next one here is concept and swing. And so different from angle here, I'm going to explain. This is where I might lose some of you guys, but I promise it's going to come back full circle. The concept or the swing, a lot of people say like, oh, take..."
+    },
+    {
+      "start": 228.1,
+      "end": 256.66,
+      "text": "take this kind of swing or we need to take a bigger swing. So I've thrown that word in there. I basically grabbed all of the different marketing terms or try to think of all the different common marketing terms that people use. And I've tried to define them for you, but we use concept. Okay. And I want you to know these little emojis are here to help you understand like what is happening and like what each one means. So for example, this is a folder, which means like, this is just like, this is for keeping things organized. Okay. This is an idea, which means like,"
+    },
+    {
+      "start": 256.66,
+      "end": 285.28,
+      "text": "That's what a concept is. The concept is the test strategy. It's what you're choosing to test in that specific batch, okay? Or the 12-year-old definition that we have here is the big idea behind the ads that you want to test. Now, I want you to understand that I have an entire section coming up explaining how concept and how angle relates, okay? But just understand an example of a concept is test an iteration on a winning video."
+    },
+    {
+      "start": 285.28,
+      "end": 314.94,
+      "text": "That's a concept. That's an idea of something you want to test, right? Or I want to test superlative angles. That's an idea that you have. If you don't know what superlative is, I have a breakdown coming. Superlative is just like when you make a claim of like the world's best or like the world's first. So it's like that's an angle that you can take and we'll talk about angles as well. Another one we have here is like test UGC format, right? That's a concept. Test different avatars. We're going to get into that, right? That's a concept, right? These concepts are basically, it's like, what are we testing?"
+    },
+    {
+      "start": 314.94,
+      "end": 344.75,
+      "text": "Okay. Like what is kind of the goal of the test? That is what a concept is. Okay. Now this you'll see, I have a key insight down here is where angle is, is different than concept, but sometimes can be the same. Now, if that's confusing, I'm going to explain it very simply down below, but the angle is your selling strategy. Okay. As we've already defined before, or you should have seen before, it's how you're choosing to sell the product. Okay. And the 12 year old definition,"
+    },
+    {
+      "start": 344.75,
+      "end": 370.48,
+      "text": "is this is the main reason you're giving someone to buy. And so for example, how do, or let's just keep it focused here. Examples, buy it for life, right? This is a reason for someone to buy your product. Postpartum weight, despite trying everything, right? This is a reason for someone to buy the product. Stain the steel, doctor design, cleanest, right? Reasons for people to buy your product. There's something in it for the customer."
+    },
+    {
+      "start": 370.48,
+      "end": 399.33,
+      "text": "But just understand that like we're giving the customer a reason for someone or we're giving that customer a reason to buy. Now this is different, okay, from concept at times. And so if we read the key insight down here, it says every ad needs an angle, okay? Very simple. This is, if you're confused in any way, this is the number one way to un-confuse yourself. Every ad needs an angle, period, right?"
+    },
+    {
+      "start": 399.33,
+      "end": 428.82,
+      "text": "So if we're testing UGC formats, right? Here we are right here. If our concept is testing formats, testing UGC format, you still need to find what you're selling, right? Or like what is the reason for someone to buy it, right? Because testing UGC formats of what, right? And some of you guys, that's the thing, you don't even think about that. You're just like, oh, let's just test UGC videos. And that's why your ads suck because you don't even have an angle. You're just thinking of like a format."
+    },
+    {
+      "start": 428.82,
+      "end": 441.74,
+      "text": "Okay. Or you're like, let's just go ahead. And I see some people say like, let's test us versus them. Us versus them of what? Right. And we're going to get into this in the angle section as well, because we're really going to hammer this home."
+    },
+    {
+      "start": 441.74,
+      "end": 462.8,
+      "text": "if your concept right so so that makes sense hopefully that's clear because for a lot of you guys like that should clear up a lot of things like concept doesn't have to be testing angles it can be testing formats it could be testing iterations it could be testing it could be it could be a bunch of different things right but my point is is that you still need to have an angle with every single ad so in this instance"
+    },
+    {
+      "start": 462.8,
+      "end": 492.56,
+      "text": "If your concept is testing X angle, like we have here, so texting superlative angle or angles, okay, can also sometimes be multiple angles. And we're going to get into that as well with different testing strategies. But the concept then becomes the angle, okay? And so this is where, again, it gets slightly more confusing. But if you've ever thought like concept and angle meant the same thing, that's the reason why. Because sometimes if your concept is, I want to test"
+    },
+    {
+      "start": 492.56,
+      "end": 519.34,
+      "text": "marketing how durable our product is, that's a reason for someone to buy it. It's like, great, you've got an angle. But just for the sake of tracking purposes and for best practice, just make sure you jot down the angle again. So it's like, okay, my concept is I want to test superlative or let's just keep it stupid simple, right? We just say the concept is we want to test the durability angle, okay?"
+    },
+    {
+      "start": 519.34,
+      "end": 548.7,
+      "text": "Well, then what I would just put down here, so like this would be concept. Then what I would put down here for angle is I would say, well, the angle is durability. Okay. And we're going to, we're going to get into like how to make your angles more specific and that kind of stuff as well. But it's like, these are technically the same thing, right? But it's just best practice for you guys to start jotting it down so that you're always thinking about what is, how are we choosing to sell the product? Or like, what is the reason for someone to buy this product? Because it's durable. Okay, cool. Makes sense. Right?"
+    },
+    {
+      "start": 548.7,
+      "end": 577.3,
+      "text": "But if you're testing, for example, again, us versus them, and if you're just like, you're not even thinking about the angle, you're like, oh, I'm just gonna test on us versus them. And then you just put random stuff in there. You're like, oh, ours is better and their sucks. It's like, dude, you're not thinking. You're thinking about the customer, which is the most important thing. You need to think about like, what is in it for the customer? Us versus them is just an idea, right? It alludes to an angle that you're comparing that you're better than someone else, but better in what way?"
+    },
+    {
+      "start": 577.3,
+      "end": 604.46,
+      "text": "For what? There's so many different ways that you can frame that. And that's why mentioning the angle is super important, right? So for one of our brands that's in the pet niche, we were testing like how our product is easier to put on versus others, right? So the angle here is easier to put on. But we could also have an us versus them concept that talks about, again, durability."
+    },
+    {
+      "start": 605.78,
+      "end": 636.77,
+      "text": "Okay. So hopefully, and I'm using us versus him as like, like, I think everybody knows that angle, right? Or for example, another, another like world famous one is like three reasons why it's like concept three reasons why great of what? And you're like, well, and then you just like think like, oh, uh, because it's, it's durable, it's easy. And you know, it looks cool. It's like, great. But like, that's like zero thought process at all. Like you just wing that you weren't actually thinking about the angle when you were doing the concept. Okay."
+    },
+    {
+      "start": 636.77,
+      "end": 666.51,
+      "text": "And so my point is, is you always need to think about the angle. And that is where concept and angle can be different. But if you are testing a specific angles, like testing superlative angles, then again, sometimes your angles will be like your concept will mention the angle that you're testing. But just know we're going to break this down further. But I just I don't want you guys to get confused on this. So hopefully this makes sense. But always just write out your concept. Hey, this is what we're testing. And then the angle is like, here's how we're choosing to sell the product."
+    },
+    {
+      "start": 666.51,
+      "end": 691.15,
+      "text": "Now the variations is the next step here, which is if I zoom out, individual executions of the angles or angle, okay? And we're gonna talk about the S here as well in the next slide. Because the next slide, we're just going all in on angles. But the 12-year-old definition of variation is different ways to communicate your selling reason, okay? So if your angle is buy it for life,"
+    },
+    {
+      "start": 691.15,
+      "end": 721.47,
+      "text": "variations might be one harness lifetime adventures or buy it once adventure for life or in the replacement cycle. Okay. Now we're going to get into, for example, testing multiple angles, which is a testing strategy that we do recommend for a lot of people starting out. And so we're going to get into how we do that with the actual execution phase, but variations might be different angles, right? And so if we go to this superlative angle, okay, this was like our concept was to test these broader, this broader idea."
+    },
+    {
+      "start": 721.47,
+      "end": 750.34,
+      "text": "of superlatives, which basically just means like claims that only we can make again, the world's first, the world's number one, whatever. And so here we were testing multiple angles for that concept. And so in the variations, we actually had stainless steel, doctor designed and easiest to clean. And you guys are going to see the actual breakdown of this ad as well. Cause like, I know I'm not showing you guys any examples, but I promise that it'll make sense, but just no variations are how you basically."
+    },
+    {
+      "start": 750.34,
+      "end": 777.84,
+      "text": "build out the three variations up here, right? Because for every concept, so for every concept, there's going to be three creatives, okay? And the variations, so these variations are basically the individual creative, okay? And then from there, again, it's just important to make sure that either we're communicating the angle differently, which you guys will learn how to do, or we're testing different angles in those variations as well."
+    },
+    {
+      "start": 777.84,
+      "end": 806.98,
+      "text": "And now if that's more like, I'm not gonna say that's more advanced, it's still relatively simple, but you guys are gonna see how that works. Again, you're gonna watch these videos in sequence before we start taking any action, but this video is just gonna be used to be kind of like, again, a dictionary for you to know what each term means. And the final one is format. Thankfully, this one's very easy, okay? This is just how you deliver the ad. Okay, the overall definition of format is the type of ad that you're making. So example, you could show the same message as a video of a real person talking, a slideshow of pictures,"
+    },
+    {
+      "start": 806.98,
+      "end": 831.28,
+      "text": "or just, you know, text, or I'm just gonna say, or just a product image, okay? So I actually have an entire list of formats for you guys as well, but the format is just how you're choosing to show everything in it, right? That's how you're choosing to show the ad. It's very, very, very simple. So it's like, at a high level, it's like image, video, carousel."
+    },
+    {
+      "start": 831.28,
+      "end": 858.48,
+      "text": "gif if you want to add gif but then we're going to get into specific types of videos like ai voiceovers or ugc or whatever it may be okay and so we have all the different formats that we use and i'm going to give those to you guys and i'm also working on getting examples of every single format so you guys can actually see how it's executed okay but these are the definitions that you guys need to know okay so 322 this is how we test ads in meta it stands for three creatives two body copies two headlines okay"
+    },
+    {
+      "start": 858.48,
+      "end": 886.58,
+      "text": "If we get into concept batch or test number, that's just how we keep track of things, okay? What number of tests we're on. We then have concept or swing, which basically just means like this is what we're testing. Think of this as like your internal guider. It's like, hey, I want to test iterations, right? Or I want to test this angle. Whether you choose something that's just like a random, you know, like has nothing to do with angle or you choose something that."
+    },
+    {
+      "start": 886.58,
+      "end": 911.06,
+      "text": "has something to do with the angle, that is just your concept. And then you need to make sure for every single ad, even if your concept mentions the angle that you're testing, you still need to make sure that you clarify what the angle is, okay? And I'm just gonna get rid of this just so like you guys can actually understand and clearly move forward on this. And again, angles are what we're gonna cover down below. But the angle is again, it's how you're choosing to sell your product."
+    },
+    {
+      "start": 911.06,
+      "end": 940.18,
+      "text": "OK, so this is the reason why someone should should buy. And then from there, we have variations, which is how you communicate that, the different ways that you communicate that. OK, and then the format is just how you deliver the ad. Very, very simple. OK, and so all in all, these are the one, two, three, four, five, six definitions that we need to know. Come back to this if you guys need clarity. And again, we're going to go through angles very intensely because angles are the biggest thing. Obviously, three, two, two, everybody gets it or should get it."
+    },
+    {
+      "start": 940.18,
+      "end": 967.49,
+      "text": "Test number. I hope everybody gets it. Concept and swing and angles are where, and I would say even variations a little bit as well. Like this area is where some people get confused. And I know I was getting confused as well early on. And even when I was trying to like find a way to properly define this, there's so many different ways to say these things. And again, it just becomes a word vomit, but just know concept again is your big idea. Angle is how you're choosing to position that big idea basically to the customer."
+    },
+    {
+      "start": 967.49,
+      "end": 985.62,
+      "text": "All right. And then variations is like how you execute it. And then format is again, how it actually comes out in the actual ad form. Okay. So like video image. And again, we're getting different types of that as well, but hopefully that all makes sense. And we can now move forward into the next step, which is going to be talking about angles a lot more in depth."
+    }
+  ]
+}

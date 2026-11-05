@@ -1,0 +1,104 @@
+{
+  "source_file": "Stefan Georgi - RMBC II (1)/07-62 VSL SECTION II- VSL Creation Examples/03-[3] 3-7 Minute VSL video2.mp4",
+  "source_id": "mega:GwRSGa5C",
+  "audio_sha256": "1d3661beaf3024b73cfff01d5f6eb917fb8324c8a65dcee6c64343cae1ad90f3",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 772.46,
+  "last_segment_end": 772.46,
+  "segments": [
+    {
+      "start": 0.59,
+      "end": 35.12,
+      "text": "All right, so let's do some, you know, shorter, like three to seven minute VSLs and, you know, even shorter ones. So I use that same, you know, hook prompt, I think. I don't know where the heck I saved it, but I'll find it. For the blood sugar supplement, right? And even include ingredients, just like, this can, you know, for blood sugar support supplement, we're targeting people who are mostly problem aware and solution aware."
+    },
+    {
+      "start": 35.12,
+      "end": 70.93,
+      "text": "It can be based on sediment, basically the same prompt I've used a bunch of times. But add a bunch of quotes, right? Stop drinking coffee to see what it's really doing to your blood sugar. Your morning routine is typically spiking your glucose levels and it's not what you think. Do you have sunburn, can spike blood sugar. Most people don't realize their nose spray is causing blood sugar chaos. The shocking connection between your laundry detergent and insulin resistance is kind of interesting. Bonus for your blood sugar when you skip breakfast. This is basic, but actually kind of interesting."
+    },
+    {
+      "start": 70.96,
+      "end": 123.63,
+      "text": "Because I think about for short ones especially, kind of like educational is good. So as usual, I'm going to copy, paste all these hooks. So do have them here. All right, so I have the hooks. I got my brief through some of the VSL. Honestly, probably just bust out like, you know, here's a brief for a supplement VSL. Please come with."
+    },
+    {
+      "start": 124.88,
+      "end": 166.77,
+      "text": "an outline for one that is going to sell uh for a four minute last let's go three minute uh please come up for a three minute vsl that uh say video add it will drive to the hill you know drive it will go to the longer vsl"
+    },
+    {
+      "start": 166.77,
+      "end": 205.26,
+      "text": "So the CTA of this video ad will be two for people to go watch the full presentation. Also make the ad fairly educational while still having lots of curiosity and some promises. Let's pick a hook. We got all these hooks here. I like to stop drinking coffee until you see what's really doing to your blood sugar. So let's try that one first."
+    },
+    {
+      "start": 205.46,
+      "end": 248.85,
+      "text": "Let's use the following as an opening hook. Let's see what we get here. Our sweet, sweet clod is contemplating. Stop drinking coffee until you see what's really doing to your blood sugar. I think coffee helps with energy, right? Nope. What about switching green tea? Nope. How about cutting out sugar entirely? Still, nope. Here's what's really spiking your blood sugar. Most people think coffee gives an energy, but here's what's really happening. More than coffee is secretly triggering a blood sugar roller coaster."
+    },
+    {
+      "start": 248.85,
+      "end": 277.15,
+      "text": "Your pancreas goes into overdrive trying to manage the spike. By 10 a.m., you crash harder than before. That's why you need more coffee. The spike levels are quite damaging your metabolism all day long. It's not just caffeine or added sugar. Coffee triggers cortisol release, which dumps stored glucose into your bloodstream. Your body treats this like an emergency, even when you're just sitting at your desk. This happens every time you drink coffee. Here's what most times I'm going to tell you about blood sugar. It's not just about diabetes. Even normal people are on a dangerous roller coaster. Each spike damages your blood vessels. Exhausts your pancreas and stores fat."
+    },
+    {
+      "start": 277.15,
+      "end": 310.26,
+      "text": "The scary part, you can have normal fats and glucose but still be in danger. Your body has a natural blood sugar regulation system. Modern life overwhelms it. There's one specific nutrient that acts like a traffic control of glucose. When you're deficient in this nutrient, every meal becomes a blood sugar emergency. The solution T is about a breakthrough island and... Oh, you know why it is? I didn't include derp, the brief. So I love this, but the brief so we can make that solution tease."
+    },
+    {
+      "start": 310.26,
+      "end": 395.25,
+      "text": "Please don't change. Please don't change anything up to the revelation education section. Just like I forgot to do the brief. Okay, so gotta let it do this editing. Wait for it, wait for it. All right, so now let's see it, okay? So this was all good. Here's what most doctors want to talk about your blood sugar spikes. It's not insulin production or even insulin resistance. It's something called, again, I actually don't like this term, so I would use a different nickname if this was a real offer."
+    },
+    {
+      "start": 395.66,
+      "end": 426.7,
+      "text": "The pancreas makes insulin. Your cells have receptors, but the actual door is broken. That's why diabetics can take multiple medications and still get worse over time. The missing piece. Four things just kind of explaining the mechanism. Breakthrough discovered from the Himalayan regions, where diabetes rates are remarkably low. Despite eating high-carbohydrate diets, these populations really develop blood sugar issues. Scientists discovered they used an ancient rice preparation ritual, adding a precious gold and spice. This 30-second ritual actually repairs those broken, so glucose stores at a regular level."
+    },
+    {
+      "start": 426.9,
+      "end": 470.74,
+      "text": "Testimonials. Doctor. Doctor put together. This looks good. One thing. When we reference the golden spice, please mention that it is not turmeric right away. So people don't think it's another thing. Answer advice. I'm trying to tell you to write the actual ad. Thanks. Please write the ad."
+    },
+    {
+      "start": 485.9,
+      "end": 538.58,
+      "text": "So it's going to be basically what we just saw as the outline here, but it's going to be in actual copy format now. So here's what I want to show you in this module, I think, right? This is our three to seven minute VSL. We said three minutes. Actually, here's what happens to your bus. You're going to skip breakfast, okay? So I did it. Okay, great. Now I want to do another add where everything after the revelation application section."
+    },
+    {
+      "start": 538.86,
+      "end": 575.07,
+      "text": "Pretty much the same, but we do a different hook. In this case, let's do this hook. This has to be another ad. So I'm just going to edit this one or do a new one. Let's see. Here's what was your blood sugar when you skip breakfast. Do you think skipping breakfast helps you lose weight? Right? Nope. What about intermittent fasting being good for blood sugar? Nope. How about you eat some more and more frequent meals? Still nope. Here's what's really happening when you skip that morning meal. Right? Most people think this. So it's honestly the same format, right?"
+    },
+    {
+      "start": 575.07,
+      "end": 613.94,
+      "text": "But now we're testing a different hook with the same structure. This is actually pretty important and pretty cool. This is why I keep saying it's super annoying because there's a shit ton of videos in here. But there's like gems in every single thing. This is I'm trying to give you the most all-encompassing view of like how copy gets created that I've seen anywhere. And in order to do that, you gotta consume a lot of content, okay? So now you have this version, right? It's pretty cool. And just a couple cool ones. For now, let's just do this last one here. Thanks."
+    },
+    {
+      "start": 614.0,
+      "end": 658.58,
+      "text": "Let's do one more version, same instructions as before, but let's use this hook. All right, and I'm going to do three to seven minute DSL, samples, blood, sugar. We'll have one, two, three. I'll also include the clock conversation. I think this one's a little dumb. You think too much sugar causes diabetes, right? This part's pretty good. I think we have to change this part a little bit. Let's see."
+    },
+    {
+      "start": 664.66,
+      "end": 731.76,
+      "text": "I'll give a little bit of context here. Have to modify this part. I don't think. Same. I mean, I get it. Like, think fragrance free safe. What about, you know, natural cleaners? So I'm basically saying like, you know, instead of like, you think too much sugar causes diabetes? No."
+    },
+    {
+      "start": 731.76,
+      "end": 762.0,
+      "text": "What about your next experience? Like, those things definitely cause diabetes. So it's like, even though, I think free and free cleaners are safe, right? Nope. What about natural cleaning products? Nope. How about those eco-friendly laundry pods? Still nope. Here's what's really sabotaging your blood sugar that you never suspected. Now it's like the household products, blah, blah, blah. Listen to the education part here. So, here's your three to seven minute VSL for you. Wham, bam. Thank you, ma'am."
+    },
+    {
+      "start": 763.95,
+      "end": 772.46,
+      "text": "And of course, I could do, you know, you could do endless structures. But I think this one's cool because you saw how you can take basically the same structure if you have a structure you like, do much of the hooks for it, right?"
+    }
+  ]
+}

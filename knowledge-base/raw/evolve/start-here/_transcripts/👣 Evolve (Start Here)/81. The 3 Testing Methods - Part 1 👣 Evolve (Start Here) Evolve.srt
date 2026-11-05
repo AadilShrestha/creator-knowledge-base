@@ -1,0 +1,215 @@
+1
+00:00:00,000 --> 00:00:18,610
+All right guys, so in this video, we're going to be talking about the three different types of testing methods that you can use to test all of the angles that ideally you have now found. This is take two. I'm going to try to keep this one a little bit more straight to the point. The last one I got a little bit carried away. We should be able to get through all of this relatively quick. So here we are. Here are the three testing methods that...
+
+2
+00:00:18,610 --> 00:00:46,130
+I recommend for you guys to follow. Now, the biggest thing to just note before we get into this is that when it comes to how you test the angles and actually turning the information and the angles that you found from the avatar training into ads is just knowing that no matter what, you are now aware of the angle and you are aware of where the angle came from, right? The person that you found and that you built essentially.
+
+3
+00:00:46,130 --> 00:01:07,900
+gave you the angle. And so when you know a specific angle is working, you know that it's because of, you know, it's likely to do with the person that you're targeting. All right. And so no matter what, as you go through this training, this is the biggest thing right here. Okay. You are now aware, right? Being aware of this stuff is 99% of the battle. Most people don't, are not aware.
+
+4
+00:01:07,900 --> 00:01:37,230
+of the angles that they come up with and you're going to see that in the video below this that goes to the example like even the beginning we weren't really aware we just knew like hey we needed to go deeper but for the sake of this i just want you to understand that even if you're like i don't know which testing method to choose it doesn't matter if you have like this analysis paralysis after going through this where you're like i don't know if i should do this method or that but it doesn't matter just like just pick one and go and be aware of it okay with that said i feel like i've broken this down pretty simply for you guys to be able to understand what is going on and so
+
+5
+00:01:37,230 --> 00:01:58,140
+we're going to go through that. Okay. So at the end of the day, the point of doing the avatar work that we just did is so that you have angles that are actually relatable for your concepts. But the question is, and I've seen a lot of people asking this, how do you actually go about testing all of these angles that we have in an organized way? Because a lot of you guys have built all these different sub avatars and then you have all these different angles and you're like, Spencer, what do?
+
+6
+00:01:58,140 --> 00:02:18,140
+Right. And so that's why I want to discuss the two types of ways that you can test angles or really in general test ads. If you ask me, there are so many different ways to do it, but this is just the most simplified way that, you know, I have been able to develop based on looking at the winning ads that we have made for brands and then saying, Hey, what did we do here?
+
+7
+00:02:18,140 --> 00:02:35,310
+Okay. And so the first method that you can use is what's called the marksman method. Okay. And this is basically where you test a lot of things at once to see what sticks, but you do it in a controlled environment. And now the reason why it's called the marksman, the marksman method is that for.
+
+8
+00:02:35,310 --> 00:02:58,910
+some reason i don't know why i don't know why i says someone but for some reason i refer to advertising strategies using gun analogies okay anybody who's played call of duty this is going to really land but most of you are probably aware of the two most common gun analogies which are shotgun and sniper okay and we're going to get into those because those are the other two testing methods that you can use but the marsman method is basically the middle ground of them both
+
+9
+00:02:58,910 --> 00:03:16,610
+okay and so with this method you're not as honed in as a sniper but you're also not as careless as a shotgunner you are the best of both and now so i want you guys to understand like in real life um most like rifles they're in three round bursts so when you shoot it it's like
+
+10
+00:03:16,610 --> 00:03:45,040
+And then you pull the trigger again. It was like, and I love that as, and sorry for my gun sounds, but I love that for our example specifically, because what do we do? We follow a three, two, two strategy, which means that when we pull the trigger on an angle, what do we get? We get three bursts. We get three variations of it. Okay. And so in the marksman's method, basically, I know we're getting crazy into analogies here. You're, you're just shooting out in one go, three different angles. So it's like, boom, boom, boom, boom.
+
+11
+00:03:45,040 --> 00:04:11,230
+you get to test three different angles with this method. Okay. And so that's why the pros of the Marksman method is that it is much more fluid. Okay. Means you can kind of like, you can do this, this angle here, this angle there, and this angle over there. Okay. It's less like we have to stay in the lines of this angle specifically for this concept. And it's much more just like, Hey, let me make the best ad I can for this angle.
+
+12
+00:04:11,230 --> 00:04:15,540
+Okay. Or write the best headline or the best hook that I can for this angle.
+
+13
+00:04:15,540 --> 00:04:44,820
+And then you essentially do the same thing for the other two variations, okay? Now, the whole goal, and so you guys can understand this, if we go into this example here, okay, this is what you guys are gonna see in the next video, is that here we have something called the superlative concept, which is just like a broader concept. At the end of the day, we were testing different angles, okay? So we were testing three different angles in this concept. One was stainless steel, one was easy to clean, and one is doctor designed, okay? And so what I mean by that is in the variation,
+
+14
+00:04:44,820 --> 00:05:12,800
+So in the three variations, rather than doing three ways of saying this thing of just saying, staying the steel, we just did one variation for staying the steel, one variation for easiest to clean and one variation for doctor designed. That is the marksman method. Okay. And so again, the whole goal of this method, again, you're going to see this in the video down below because I've already filmed it is to learn which direction you should go in faster.
+
+15
+00:05:12,800 --> 00:05:41,410
+when you don't have significant data, or I'll add an extra one here, if you are plateaued, okay? So direction, just to define this, because this is a new term, is identifying the specific angle that you should be going deeper on, aka doing more research and iterating on, to create more scalable ads. And again, there's gonna be examples coming down below, okay? The cons of the marksman method is you aren't always able to test things all the way through.
+
+16
+00:05:41,410 --> 00:06:06,270
+is what I'll say. I say the best way possible, but you're not able to test things all the way through. And it can be hard to confidently say like, oh yeah, this angle is not going to work. Okay. Now that's hard regardless, but the truth is, is that you are just not able to go as deep into a specific ad angle. I should say just to correct myself here with the marksman's method to fully validate and test it. Okay. But
+
+17
+00:06:06,270 --> 00:06:35,660
+The trade-off is you can test more at once in order to find a direction that you can go deeper on. And so what your goal is with the Marksman's method is to essentially find three angles that are kind of going after, even if you have one sub avatar and there's three angles that you want to test for that sub avatar, or maybe you just group three sub avatars and you have an angle for each one that you want to test. Again, when we go back to this concept, which is a superlative concept, it doesn't have.
+
+18
+00:06:35,660 --> 00:06:48,750
+to be superlatives okay so i'm not saying test world's best angle here world's best angle there world's best angle over there what i'm saying is is like just try to find three angles that you can group under one concept and then test them
+
+19
+00:06:48,750 --> 00:07:18,030
+in the variation. So again, the goal of this is to test more angles at once, and you're only going to do one variation for that angle. And so that is the only downside. Like I mentioned, the only con here is that you're not testing, you know, that angle to its fullest extent, but you are just going to be able to get some kind of direction. And again, with the newest Andromeda updates and the way that everything is moving with AI content, how much people are spamming all these tiny little iterations to stuff like that, I'd rather see you do this instead of, you know, for
+
+20
+00:07:18,030 --> 00:07:40,340
+example testing you know the sniper approach which we're about to get into on every single ad okay so i'm gonna show you how the marksman and sniper method work together but just to move on to the next one here the next one is the sniper method okay so this is when you test within a strict environment to get closer to significant learnings as fast as possible okay so now unlike the marksman method above
+
+21
+00:07:40,340 --> 00:08:08,370
+where you are essentially testing multiple angles at once. The sniper method is all about testing different executions or different styles or different headlines, different hooks of a specific angle. Okay. And we're going to show more examples of this as well. But essentially, once you find an angle that you know is working, you then leverage the sniper method to go all in on that angle in order to create the best ads. Okay. Best ads or best ad possible. Okay.
+
+22
+00:08:08,370 --> 00:08:37,100
+Now, the pros of the sniper method is you will have a clearer understanding of what works. You will be more organized and you will learn what works faster. Okay. Now, on top of that, you're also just going to have more confidence that you have validated specific angles. And what I mean by that is like, you're going to basically have an angle. And instead of just testing one variation and being like, oh yeah, that angle doesn't work. You will likely test three variations of that specific angle.
+
+23
+00:08:37,100 --> 00:09:05,150
+And so you're just going to be able to eliminate this idea of something that is called the execution problem, which is also coming down below. So you will be able to learn not in this doc, but in another module about why execution is the biggest factor. But at the end of the day, the sniper method really crushes, if you ask us, once you gain direction from the marksman's method, and again, direction is when you identify what angle meta is liking, okay? Once meta tells you by...
+
+24
+00:09:05,150 --> 00:09:34,580
+what essentially the what angle is working well and apologies for the different ways that I spell marksman you can then get the most out of that angle with the sniper method okay so the cons of this is it's much much less fluid okay it can restrict creativity at times and can hold you back from just trying to make the best ads that you can but most people are unable to stay this focused on one specific direction and can honestly at times put you into iteration overload where you're just constantly iterating on the same angle over and over and over again
+
+25
+00:09:34,580 --> 00:09:46,350
+And you just honestly don't really, you know, you don't get, you don't get out of it and you're stuck in this funk. Okay. But overall, you're able to go much deeper on a specific ad concept to fully validate and test it.
+
+26
+00:09:46,350 --> 00:10:14,850
+you can lack the ability to find breakthroughs on other angles because of how specific you are being and only limiting yourself to testing one angle. And again, this is also a slower approach. Think about a sniper, right? A sniper doesn't shoot three bullets at once. You shoot one bullet, boom, you gotta go, you gotta reload, right? Boom, you do it again, right? And so you gotta think about that if I'm using the marksman method where I'm like three angles here, three angles there, three angles there. Like I'm just testing a lot more at once and doing it faster, whereas this is much slower, okay? This is much more accurate.
+
+27
+00:10:14,850 --> 00:10:39,950
+but it's going to be a lot slower. Now, if it wasn't obvious, here are the two ways that we leverage these testing strategies at the agency. And just to show you an example of the sniper method for the sake of this, let me go ahead and pull that up. All right, so again, just to emphasize this one more time, the marksman method is again here. You can see we are taking three big swings, right? Different angle, angle one, angle two, angle three. We're testing multiple angles. The sniper approach, and this is just...
+
+28
+00:10:39,950 --> 00:10:58,510
+a smaller secondary swing. And you're going to have to watch the next video down below to see how we took this even further is where again, now all of these ads are all focused on one angle, right? It's all focused on this stainless steel angle. And so we're testing different things here. That is a sniper approach. Okay. We're doing different executions of this angle.
+
+29
+00:10:58,510 --> 00:11:28,000
+OK, so hopefully that makes sense. But if it wasn't obvious again, here are the two testing strategies that we leverage or here's how we leverage these two testing strategies. The marksman method is used first to find direction of what angles can be winners. OK, the sniper method is then used second to go deeper and find winners once a direction has been found or identified. And then the marksman method is used again when performance plateaus on an angle and we feel like we've sniped our hearts out. But, you know, we've just we've got to try to find a new angle that we can go deeper on.
+
+30
+00:11:28,000 --> 00:11:43,700
+OK, so just know that when you have one angle, you're taking more of a sniper approach. OK, same angle, different ways to show it. When you have multiple angles, you're taking more of a marksman approach, different angles and usually only one way to show it or say. Now, the number one takeaway before we get into the third and final method.
+
+31
+00:11:43,700 --> 00:12:11,890
+is that regardless of this approach, just please make the best ads that you can. Because at the end of the day, you're making an ad for a customer. What we're talking about here is all strategy and philosophy, but the customer doesn't care about this, okay? The customer just cares about seeing a good ad, okay? So if you just focus on making the best ads that you can, then when you're processing feedback loops and completing learnings, and again, you're good to be aware, right? That was the number one thing that we said above. No matter what, you are now aware of like what you need to look for, okay?
+
+32
+00:12:11,890 --> 00:12:17,360
+When you're processing your feedback loops and doing learnings, you're going to find and figure out what avatar is essentially working.
+
+33
+00:12:17,360 --> 00:12:42,350
+okay and just so you guys know nowadays it's it's nearly impossible to do perfect single variable testing as a result of meta's updates okay and the teeny tiny swings that you guys take at times are just not significant enough for meta to actually care or actually see them as different than the one ad that you put in so if the marksman method and sniper method for some reason is still not making sense the easiest way that i can put it is we test a lot of new angles early on
+
+34
+00:12:42,350 --> 00:12:53,940
+And then when we find angles that pick up traction, aka get spend, we go more into that single angle that is catching people's attention.
+
+35
+00:12:53,970 --> 00:13:17,730
+So step one, test multiple angles to find something that gets sales or can be a bit of a winner. Step two is make a hypothesis on why that thing is winning and why the customer cares. OK, we're going to get more into that as well. And then step three is test those guesses. If you don't know what hypothesis means, I talk about that later. Test those guesses to narrow down why something is winning to optimize it even more. OK, the first step is the hardest step.
+
+36
+00:13:17,730 --> 00:13:46,750
+And we're going to talk about that more in the next video, as I mentioned. But once you do that, steps two and three become the easy part. And at the end of the day, this is where when you see guys scale from like 5K a day to like 80K a day in like a month and a half, it's because of this. They crack the code on why their ad is working. And then they just keep making the ads better and better and better because now they're not worrying about the angle. They know the angle works. Now they're just trying to communicate the angle even better. And that's when marketing becomes a lot of fun.
+
+37
+00:13:46,750 --> 00:14:11,200
+Okay. And so at the end of the day, when you're doing learnings, just as a final little note here, and I know I'm kind of skipping over some of this text, but most people, when they do learnings on their ads, they're like, oh, video ads. Oh, this is the reason why this ad's working is because it's a video. Or the reason why this ad is working is because it has a good hook rate. Or we should reuse this clip. Or we should test the UGC version. These are the learnings that people make. But when you process learnings,
+
+38
+00:14:11,200 --> 00:14:35,070
+As a result of going through this training, you're going to be able to identify who the sub avatar is, what the angle is. And then you're also going to be like, oh, I should go do more research on that so I can write new ads for this specific person. Okay. And you, as a result of this, are going to be focused on the customer rather than structural components. This stuff doesn't matter that much, guys. Okay.
+
+39
+00:14:35,070 --> 00:15:01,730
+It's so much more about the customer. What the customer needs to hear will influence the structural components. And so instead of you saying, oh, this is a video, that's why it's working. You might be like, oh, I think it's because we drive curiosity in the hook. Or I think it's because we're educating the person about this specific thing. Or you might say, you know, I feel like in this clip specifically, we're basically grabbing their attention because we're showing them the outcome that they want.
+
+40
+00:15:01,730 --> 00:15:29,060
+And so it's like, you're trying to think from the perspective of like, why does someone care to watch this? Or why is this getting someone's attention? Or you might take the learning of like, wow, we've really positioned ourselves as an authority in this video. We should probably do more of that, okay? The faster you figure out why something is not winning, the faster you can scale. The faster you figure out why something is winning, again, the faster you can scale. Now the final, and the reason why I added that context first is because those two methods is what you should be following.
+
+41
+00:15:29,060 --> 00:15:58,530
+Okay, but the final method down here is the shotgun method. And you see we got granny with the shotgun. And this is where we just touch, we just test a bunch of random things at once and see what sticks. Okay, now the shotgun method is when you basically just launch a bunch of ads and hope something hits. And that's what most of you guys are doing. But just even then, if you're kind of confused, and again, you're doing this analysis process, like, oh, should I do marksman here? Should I do sniper here? Just know if you want to follow what we do, we do marksman's first, and then we go into sniper whenever we get a direction. That's what we do. But if you're still confused by that,
+
+42
+00:15:58,530 --> 00:16:28,100
+then go ahead, just chat it up. Just shotgun a bunch of shit into your ad account and that's fine. But here's the thing. When something hits, you need to take everything that you've learned from this training and apply it and just do what we talked about above. Because this is actually where we do use the shotgun method. It's just not with our creative strategy team. The right way to do the shotgun method is through TikTok shop or our incense product seeding strategy that we use, which obviously for those of you involved, you know about it, but you get a bunch of content.
+
+43
+00:16:28,100 --> 00:16:46,510
+coming in from a bunch of different creators, you don't really have time to go through and strategize every single one of those videos. I mean, some of you might, but like for us, it's just a different objective. When we're working with creators, we're like, just, hey, here's a bit of guidance. Go ahead, just do whatever you want. Just shotgun, right? And then when we get that content back, we just blast it in the ad account. And if something hits, guess what?
+
+44
+00:16:46,510 --> 00:17:03,970
+Well, then we apply the marksman method or the sniper method to try to refine and create more winning ads. But we do that once we process learnings. Again, it's the most important piece. And so this is actually something that we did recently to scale a brand of $40,000 a day and spend 40,000 guys. Okay.
+
+45
+00:17:03,970 --> 00:17:31,550
+I actually did show this video, but I had to take it down because the client was not very happy about it. But I promise you that if you do set up a shotgun engine, and that doesn't mean like if you're doing less than a hundred K per month, you probably don't need to, you don't even need to think about that. But obviously if you're at more scale and you don't have a shotgun engine or a shotgun strategy in your business, it could probably help because you're just getting a bunch of random things thrown in your account. And then when something sticks, you can apply this training and apply your knowledge to understand why it's working.
+
+46
+00:17:31,550 --> 00:17:57,250
+Now, the number one mistake I see brands make, and this is where if you do have a team with you, the wrong way to do creative strategy, if you ask me, is the shotgun strategy. Do not use shotguns in 2025 when it comes to creative strategy. Don't just blast dozens of iterations or dozens of videos with teeny tiny little hook changes and just hope and pray that something hits. Because at the end of the day, you are going to get crushed not only by Meta's algorithm,
+
+47
+00:17:57,250 --> 00:18:26,380
+because they're just not gonna care about all those other little iterations. So you're just like doing a bunch of extra work for no reason. But on top of that, you're competing against people that actually understand what they're doing and are actually applying a marksman method or a sniper method on their ads. And they are calculated with the ads that they make. And if you're just chatting it up, hoping something sticks, the odds of that working for you, if that's your only and main objective, are not very high, okay? And a lot of people, this is for those of you that think volume is the only answer. Yes, volume is great.
+
+48
+00:18:26,380 --> 00:18:55,970
+but this kind of volume where you're just doing a bunch of random shit is stupid, okay? And it's not the strategy that meta is really allowing or rewarding, especially with its new algorithm. And so the shotgun method, if you ask us, should only be used in your content strategy with creators. And then if you're doing it, if you're applying this to your creative strategy, like it's just not smart, okay? If you understand, if you wanna know the right way to scale volume, it's with manpower, okay? So the people that are making 20 ads a day,
+
+49
+00:18:55,970 --> 00:19:25,040
+usually have an in-house team, sometimes even two, and then they usually have an agency or two creative agencies that also make ads for them, okay? So like, that's a lot of manpower. And like, to give you guys context, at our agency, we have a creative director, we have a creative strategist, we have two video editors and a graphic designer, right? So we have five people. Those five people with very high intent can make 15 concepts a week, okay? There's five days in a week, right? So that means we're making three per day.
+
+50
+00:19:25,040 --> 00:19:53,300
+Right. And so we're doing pretty decent volume. Now, three concepts per day is going to be nine ads. Right. And so for those of you that are like, okay, well, how I don't have that big of a team or maybe if you do have a bigger team that gives you a benchmark, but if you don't have a team like that, then all you should really be focused on doing is just making one concept a day. That's it. The last two people that are interviewed, and I'm going to go full screen for this because like, I'm being dead serious. Last two people that I interviewed who hit a hundred K per day and evolve.
+
+51
+00:19:53,900 --> 00:20:23,740
+tested one concept per day. That's five to seven concepts per week, which is 15 to seven times three is 21. They test 15 to 20 ads a week. That's it. You know, and it seems like a, like right now it might seem like a lot depending on your volume or if you're doing more than that, well, now you've got your answer. You probably need to come back down and correct and go forward with intent because if you're just shotgunning, right? And guys, just notice that like it's about the concepts. It's more about concepts than it is about ads.
+
+52
+00:20:23,740 --> 00:20:40,210
+Right. Because if you think about it, one concept with the marksman strategy is like almost three concepts that you're testing. You see what I'm saying? Like you see how much faster you can get data when you do that. And then how much faster you can scale when you find a direction, you understand, oh, this is the direction that's working.
+
+53
+00:20:40,210 --> 00:21:01,500
+I should double down on that with the sniper method. And then you make concepts with the sniper method and you test different executions of it, different formats, different headlines, different ways of saying it, or maybe even going deeper down on the specific sub avatar to understand more about them. And then you start pumping those out and boom, it's like winner, winner, winner. And you just can't miss, right? That is how. It's about intent.
+
+54
+00:21:01,500 --> 00:21:26,210
+So hopefully that makes sense. Those are the three different types of testing methods that we use to test. And again, this is just based on what we do. There's no right or wrong way to do it, but hopefully this makes sense to you guys. And I cannot wait for you to apply this testing method to your strategy. And again, the video down below is going to go a lot deeper into about how to review this stuff and really just how this strategy works in a natural case study of it as well.

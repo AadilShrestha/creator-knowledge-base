@@ -1,0 +1,494 @@
+{
+  "source_file": "Stefan Georgi - RMBC II (1)/02-DEEP RESEARCH/01-Product-Market Awareness.mp4",
+  "source_id": "mega:GwRSGa5C",
+  "audio_sha256": "1c23c7cd73f85917ef460f26d992d6bf3367fd01bddd95d939fac33bb0fa4087",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 3074.5,
+  "last_segment_end": 3074.45,
+  "segments": [
+    {
+      "start": 0.46,
+      "end": 29.22,
+      "text": "Hey, what's up everybody? So, welcome to the research modules of RMBC2. And in this, I was going to say particular and specific, so I said pacific. This specific or particular section, we're going to be talking about market and product awareness. This is something that a lot of people are familiar with, are aware of, if you will, especially as they get into copywriting or marketing."
+    },
+    {
+      "start": 29.22,
+      "end": 59.18,
+      "text": "It gets referenced with Eugene Schwartz and Breakthrough Advertising. And I'll be honest with you, it's something that I really have started to pay more attention to, at least more consciously pay attention to it, really in the last maybe year, let's say. Meaning that before that, I think on some intuitive level, I would think about it, but it wasn't so front of mind."
+    },
+    {
+      "start": 59.18,
+      "end": 87.31,
+      "text": "These days, and especially in 2025, I actually feel as though this is really crucial. And it should be obvious why it's crucial. I don't know why. I feel like it's one of those things that took me a long time to fully appreciate. So let's kind of go through it. And we'll go through some examples of what this is. I know you can see some on my screen right here. And we'll also have a process using deep research to assess."
+    },
+    {
+      "start": 87.31,
+      "end": 114.05,
+      "text": "the level of kind of market product awareness for any product category things of that nature which i'll show you in a minute okay so what are the the five sort of stages or steps there's unaware problem aware solution aware product aware and most aware so unaware is where prospects are not even aware of a problem or a need"
+    },
+    {
+      "start": 114.05,
+      "end": 139.95,
+      "text": "should say that your product or service can solve. I use ChatTBT to do this, so if it has little typos, I took the stages and was going to make a little infographic, and it did chat, so that's great. Problem aware, prospects recognize that they have a problem or need, but are unaware of potential solutions. Solution aware, prospects know that solutions exist for their problem, but they are not yet aware of your specific solution. Product aware,"
+    },
+    {
+      "start": 139.95,
+      "end": 169.39,
+      "text": "prospects know about your solution your product or service and are evaluating its features and benefits and most aware prospects are highly aware of your solution its benefits and are likely to make a purchase decision soon so minus that one typo there that's pretty solid i actually do have a modification that i use when working with this framework and that i think is important for you to understand as well okay um and what that"
+    },
+    {
+      "start": 169.52,
+      "end": 198.42,
+      "text": "modification is, or distinction, or whatever you want to call it, is generally when I'm looking at this, I'm looking at product aware. If you do this the classic way, it's going to be that they know about your product, right? But in the world of D to C, where there's just so many brands that are all doing, either they're just starting and they're not doing any sales, or they're doing"
+    },
+    {
+      "start": 198.42,
+      "end": 228.67,
+      "text": "a couple hundred thousand dollars a year in sales, or even a couple million, or honestly, even at like 20, 30 million a year, vast majority of people don't know about your product, but they might know about the category. So I'm going to show you examples of what I mean by this so you can see. We're going to start with a peptide eye serum, but I have spoiler examples. Eco-friendly cleaning products, personal branding mastermind, meditation program for anxiety, tax prep for freelancers. So I have..."
+    },
+    {
+      "start": 228.67,
+      "end": 261.25,
+      "text": "A bunch of examples here, so it won't just be, you know, beauty or whatever. Honestly, I could bold these. I can do it later, but it's going to bother me if I don't do it kind of right now. But I'll do it later, so you have to watch me do it. Okay. Let me just do this one. I won't do it for each one we go through in the future, okay? All right, so peptide eye serum. And I'm assuming we're going to be talking to like a 35-plus woman, okay? Unaware. It could be like a 38-year-old woman. She goes about her daily routine without noticing or thinking about the fine lines around her eyes."
+    },
+    {
+      "start": 261.25,
+      "end": 290.9,
+      "text": "She might catch glimpses in the mirror, but she doesn't register any changes or concerns about aging. Eye cream isn't even on her radar. She uses basic moisturizer, if anything. Okay, so a good example of somebody who's unaware. We're talking about why this matters as we go through this, right? Problem aware. She starts noticing crow's feet in photos or catches herself in harsh lighting and thinks, when did I start looking so tired? She's aware something has changed around her eyes, but doesn't know what to do about it. She might mention to friends that she's starting to look old, but she hasn't researched solutions."
+    },
+    {
+      "start": 291.06,
+      "end": 315.84,
+      "text": "Okay, so in this case, she went from not really thinking she had a problem to thinking, you know, I do have a problem, right? But I don't really know what to do about it. Solution aware is where the shift happens, right? She knows eye creams exist and that there are anti-aging treatments available. She's seen ads for various skincare products and most people use things like retinol, hyaluronic acid, and get cosmetic procedures."
+    },
+    {
+      "start": 315.84,
+      "end": 342.3,
+      "text": "She understands there are ways to address eye aging, but she doesn't know which approach is best or what specific products to consider. Now let's move to product aware. She's learned about peptides specifically for eye care and knows that peptide-based eye creams are a category of anti-aging products. She understands that peptides can help with collagen production and fine lines, and she's researching different peptide eye creams in general, but hasn't discovered your specific brand yet. Most aware, she knows about your specific..."
+    },
+    {
+      "start": 342.3,
+      "end": 371.82,
+      "text": "peptide eye cream brand, has researched your company's approach, understands your unique formulation and benefits, has read reviews of your product specifically, and is ready to make a purchase decision about your brand versus competitors. All right, so I'm actually, before I go to more examples, let's kind of stop here and talk about why there's knowing this information and knowing where, why does this matter? And the answer is, when you go to create copy,"
+    },
+    {
+      "start": 371.86,
+      "end": 401.12,
+      "text": "And various marketing assets, whether those are ads, landing pages, VSLs, emails, whatever it's going to be, it's pretty important to understand where in the journey your target market is, the average person that you are targeting. Now, how do I know who I'm targeting? Well, we're going to do another module on that. But I've said this even in RMBC1, generally you should have a broad idea of who you're targeting."
+    },
+    {
+      "start": 401.12,
+      "end": 431.07,
+      "text": "If you're a freelancer and you get hired to write for a peptide eye serum, they're going to kind of tell you who the target market is, and you're ideally going to know based on the branding, whatever, and kind of figure it out. Probably going to be a woman who are 35 plus, right? Unless they're like, hey, we're going after the men's market for this. They're like, okay, that's different. But the brand will tell you. If you're a brand and you have a product, you are generally going to know who you at least think your target market is, right?"
+    },
+    {
+      "start": 431.07,
+      "end": 460.29,
+      "text": "In my target market, I don't mean awareness necessarily, but I do mean like just the basics of demographic research, right? Are they men or women? How old are they? Maybe a little bit about sort of their socioeconomic background, right? High income, low income, things like that, right? Ethnicity, which is actually very important. There's a lot of people, for example, in CopicStarter Pro, CA Pro, my mastermind, that do products for women of color, whether that's like..."
+    },
+    {
+      "start": 460.29,
+      "end": 487.02,
+      "text": "hair or in some cases skin or whatever it is, right? So those things really do matter. I'm a guy who was an Asian American who was doing like a pill to reduce redness in the face because that's like a genetic thing where in general, people of Asian descent can, their face can redden more because of alcohol, right? So those things can very much matter. There's other products where"
+    },
+    {
+      "start": 487.25,
+      "end": 510.29,
+      "text": "A lot of things aren't just for white people or just for black people or whatever it is, but we get into that. So that's basically demographic information, right? And then there's psychographic information, which is what really R from RMBC was built upon, and we'll go through that much more in depth and will probably be the next module, okay? But let's assume on a basic level..."
+    },
+    {
+      "start": 510.86,
+      "end": 541.78,
+      "text": "Okay, peptide isoam, 35 plus woman. The kind of ads you write, the kind of landing page you have, the kind of copy you have is going to be really different depending on where they are. So in a case like this, unaware is typically not a segment you're trying to speak to in direct response. And hopefully that kind of intuitively makes sense why."
+    },
+    {
+      "start": 541.81,
+      "end": 586.72,
+      "text": "When someone doesn't even know, like if you go back to journeys, right? Let me think about where I would do this because I don't want to like mess up my note too much. I'm going to do, well, I'll do it. That's fine. Okay. Remember the journey, right? From point A prospect to point B, right? Okay. And then let's go like unaware, problem aware, solution aware, product aware."
+    },
+    {
+      "start": 586.72,
+      "end": 662.86,
+      "text": "I'm gonna try and make this one line, so I should make this smaller. It might stop to cement being two lines, probably gonna be two lines. And then most aware, I'm gonna do it like this, so I can try and keep it, makes my life easier, right? Honestly, I'll do this like an infographic later or something like that, right? But basically, okay, right, you've got this sort of spectrum, right? And if we go ahead, who's most likely to buy? This person who's most aware. Okay, they know about your"
+    },
+    {
+      "start": 662.86,
+      "end": 706.74,
+      "text": "brand they've researched your company's approach they understand you know why it's special they've read reviews they're kind of close to making a purchase decision soon right in a perfect world everybody's here and your job is just to convince them to get over the hump in the real world though most people aren't here right the people who are here we'll talk about later but that'd be people who probably have already seen ads and now they're going to be retargeted or you advertise constantly"
+    },
+    {
+      "start": 706.74,
+      "end": 740.5,
+      "text": "but it's like a small percentage. So who's the next best level to talk to? Is it product aware? So let's go back to product aware, okay? They know specifically about your type of product, right? In this case, peptide eye creams. They understand they can help and all that kind of stuff, right? Yeah, those are good, but depending on your product, how many people are really know all about peptide eye creams? So say,"
+    },
+    {
+      "start": 740.5,
+      "end": 777.94,
+      "text": "We're going to talk about how you can actually figure that out using deep research. But let's just say of like your total addressable market, which is your TAM. Put that here too. Like, I mean, you know, and we'll talk about getting answers to that. Let's just say it's 70 million people. Like, what percentage of them actually know about peptide egg creams, women's skincare? Probably a lot. But it's probably like maybe 10 million or something like that. So essentially like 13 and a half percent."
+    },
+    {
+      "start": 778.42,
+      "end": 807.3,
+      "text": "Let's just say for simplicity's sake, right? Simplicity's sake or product aware. Say it's like 13.5%, okay? Again, we'll modify these once we get to the deep research stuff, but this is just sort of for an example, right? Most aware is gonna, typically even for like, unless you're a really, really, really, really big brand that advertises on TV, radio, billboards, your ads are everywhere, it's gonna be like 1% max."
+    },
+    {
+      "start": 807.3,
+      "end": 841.52,
+      "text": "It's really going to be less than 1% for most people, right? Maybe let's go with 1%. Okay. And even a big exception, like let's go to like vShred, for example, right? vShred is a company, you know, they were in my mastermind for a really long time. I, you know, helped them with a bunch of their VSLs and copy, helped them scale. Still think highly of them. People in direct response tend to know who they are. But if I ask people outside of like the core segment, like of, you know, if they've heard of vShred,"
+    },
+    {
+      "start": 843.44,
+      "end": 874.1,
+      "text": "at least 8 out of 10, if not 9 out of 10 people say, I don't know what VShred is. Even if they may have seen an ad or something like that, right? So, VShred, I don't think yet. And I'll see that, but that's just their core. Again, maybe VShred is like 5%. But frankly, probably not. They're probably like 2% at most. Maybe they're still just 1%. Okay? Now, Solution Aware, again, depends on the market a bit. But in general, it's pretty..."
+    },
+    {
+      "start": 874.96,
+      "end": 904.4,
+      "text": "Like in the case of eye care, treatment, solve, that kind of stuff, like this is where the vast majority, I mean basically all women know that skincare exists, right? So in theory, it's like 100%, right? Which I know this math doesn't make sense, but how could this be 99% and then, because there's overlap, right? So out of the 99%, a percentage of them are product aware, a small percentage of them might be most aware, okay? And problem aware, if you're talking about a total addressable market,"
+    },
+    {
+      "start": 906.58,
+      "end": 940.8,
+      "text": "What's funny here, and this is kind of an important distinction, is probably more women are solution-aware than are actually problem-aware. How could that be? Well, it's simple, right? Almost every woman 18 plus knows that there's eye creams and anti-aging treatments and all that kind of stuff, right? But not all of them think they have a problem. So maybe, you know, 70, 60 percent, right? So again, what's interesting is it's not going to total to 100."
+    },
+    {
+      "start": 940.8,
+      "end": 981.23,
+      "text": "But it's going to be here, right? So if that's the case, let's just assume, and again, we'll talk about how to figure this out, more scientifically and specifically, that 40% are unaware, right? So 40% kind of like don't think they have a problem, don't care, whatever it is, right? So trying to sell, I'm going to put the TAM up here. I'm assuming this is in the US. Okay, this is just for example purposes. There's 70 million people, right? 40% are unaware."
+    },
+    {
+      "start": 981.23,
+      "end": 1020.34,
+      "text": "So trying to sell to them, hey, you look like shit. You use the serum. It's unlikely to be successful, right? So the people who are problem aware, 60%, solution aware of 99%. So who are you really trying to speak to in general? If you're trying to sell a lot of this eye serum to as many people in your total addressable market as possible, who are you trying to speak to?"
+    },
+    {
+      "start": 1021.42,
+      "end": 1052.37,
+      "text": "typically it's going to be one of these two groups, okay? And I'll show you a real world example of why this is important in just a second. I mean, hopefully you already kind of understand why it's important, but I'll show you a really specific example where I made this mistake recently, okay? So like problem aware, they're really focused on their pain points."
+    },
+    {
+      "start": 1053.3,
+      "end": 1085.07,
+      "text": "And frankly here, solution-aware is going to just be an overlap. 100% of people who are problem-aware are also solution-aware. So generally, I'm trying to speak to these two groups. I'm trying to speak to people who know that they have... And I guess to be completely frank with you, I'm trying to speak to this group. Let's actually get more specific. Why? Because they're going to be solution-aware anyway. So they've got crow's feet, they've got fine lines."
+    },
+    {
+      "start": 1085.07,
+      "end": 1137.23,
+      "text": "They don't want to do something about it. They're also going to be inherently aware that there are solutions. And so our goal then is to take them from over here to here, right? Or from, sorry, from over here to here. So there's still a lot of steps we've got to do, right? One step, two steps, three steps. Well, actually really four steps because they buy, right? Let's probably make this go to the next page. That's okay. Oh, just got away with it. So yeah."
+    },
+    {
+      "start": 1137.23,
+      "end": 1169.01,
+      "text": "One, two, three, four, right? Four steps, okay? That's a lot of steps. Now, arguably, some of these people might know, be probably aware, they're solution-aware, and they're sort of actively buyers. Like, they like buying solutions. They try stuff. They don't really know which approach is best, but they might still be pretty, like, they're kind of into skincare. They're open to stuff even if they're not product-aware about your peptide thing, right? So, in some cases, you're going to get some of these people, too, in this one, two, three steps."
+    },
+    {
+      "start": 1169.01,
+      "end": 1207.15,
+      "text": "But basically, this is sort of the sweet spot, right? Unaware is a whole extra step. And in reality, if I was really doing this right, this is what it looks like in reality. Obviously, this is going to screw up everything else. But what I'm trying to show you is that basically, I'm going to delete this, but just so you can see, that first step from unaware to problem aware is really more like this, right? There's a lot of work involved in trying to convince somebody who doesn't think they have a problem that they have a problem."
+    },
+    {
+      "start": 1209.49,
+      "end": 1238.64,
+      "text": "And really where you would do that mostly is going to be in like branding, right? You kind of do like branding. And I have branding, I guess. Like traditional advertising, you know? Like billboards, radio, information, educational content, all this kind of stuff. Like it's not impossible, but it's a lot of work. It's a long process and a long journey. And it's typically not going to be very desirable, right? So this is, again, what you're looking at here is like."
+    },
+    {
+      "start": 1238.64,
+      "end": 1274.45,
+      "text": "to illustrate how the gap from unaware to problem aware is way bigger than any of the other gaps, right? So that's the concept there, okay? So we're looking in this area here, but it's important, right? What's equally important is that not only is the product aware like a smaller group, and again, we're talking about your product, we're talking about the category of product, the specific type of product, you know, you saw."
+    },
+    {
+      "start": 1274.45,
+      "end": 1311.07,
+      "text": "It's generally a smaller group, which means there's fewer potential buyers if you just speak to those people, and you're not going to typically get people over here. So it's a smaller group, but your marketing is also going to be totally different if you are speaking to a product-aware group versus a solution-aware or problem-aware group. So let me give you a couple examples of what this looks like in the real world."
+    },
+    {
+      "start": 1311.07,
+      "end": 1337.65,
+      "text": "example here of like a meta ad caption that I wrote for our skincare brand Opal Beauty and for our sacred whipped tallow which is a whipped grass-fed beef tallow right here's like an example of like an ad I love it right using nostalgia who wants to look younger amazing balms moves wrinkles I can talk about the process for this in a different video okay but you got the image I want to show you the copy okay"
+    },
+    {
+      "start": 1337.81,
+      "end": 1364.29,
+      "text": "I'm obsessed with this product. If I'm being honest, at first I didn't know what to expect. Like, I'd heard how beef tallow was this hot and trendy thing, but the idea of rubbing was essentially rendered beef fat on my skin was also kind of weird. The second I unscrewed the lid and inhaled the scent of natural vanilla bean extract though, my perception began to change. And when I used the small golden spoon that accompanied the glass jar and saw how the tallow folded over itself, kind of like when you get that perfect scoop of ice cream, I couldn't help but feel excited. Oh, and speaking of feel, let me tell you about the texture."
+    },
+    {
+      "start": 1364.29,
+      "end": 1394.05,
+      "text": "I put the first scoop onto my fingers, and I was genuinely surprised by how light and almost fluffy the texture felt. And when I applied it to my cheeks, my forehead, my nose, and underneath my eyes, I loved how it was lightweight and absorbed easily into my skin with no messy residue. And yet, it stayed on my skin for hours after, giving me this dewy, radiant glow, while keeping my skin feeling supple and soft. Plus, did I mention that smell? It smells like homemade vanilla cupcake frosting. But there's no gross sugary feel on your skin after, and it's not overpowering either. At this point, I was hooked. I started using it daily, after I had a shower. First, I'd apply Opal's Unity Eye Serum around my eyes."
+    },
+    {
+      "start": 1394.05,
+      "end": 1422.0,
+      "text": "Then I apply sacred tallow to the rest of my face. Then pretty soon I started applying it to my arms, legs, and chest too. It's been over a month now and I use this product religiously. Plus I've gotten more compliments on how good my skin looks in the past 30 days than the last 55 years. My skin and others started using it too and now we're in this tug of war where our jar just goes back and forth between my side of the bathroom and theirs. I even ordered more jars to gift to my neighbors and my kids, friends, and moms. Do yourself a favor and try sacred whipped tallow for yourself today. Just two clean ingredients, premium grass-fed tallow and organic vanilla beef."
+    },
+    {
+      "start": 1422.0,
+      "end": 1448.69,
+      "text": "Luxurious cloud-like whipped texture that feels like butter and absorbs effortlessly. Ethically sourced from grass-fed cows, pasture-raised in New Hampshire. No additives, preservatives, hormones, fillers, antibiotics, or other nasty stuff. Leaves your skin glowing and looking radiant for hours and hours after each use. And backed by a 180-day money-back guarantee. No returns required. Love it or they'll refund every cent. Right now you can try it for 64% off the normal retail price. Get sacred today. Right? Okay, I wrote this ad."
+    },
+    {
+      "start": 1448.94,
+      "end": 1478.32,
+      "text": "I actually took it from an email I wrote to our customers who bought the eye serum. It comes from me, the email, and this ad is also from me. So it's actually true. I love this product. I am obsessed with it. I'm not wearing it this morning, but when I do put it on, I have this immediate glow and shine. I do it usually after I shower, like I put in that email. I really got more compliments in the last month about my skin looking good than in my life. Laura, my wife, and I literally do a tug of war."
+    },
+    {
+      "start": 1478.32,
+      "end": 1509.39,
+      "text": "like we had a couple bottles and i got one bottle one jar but i got another jar it's not her jar but i started i ran out of mine so i started taking hers she started taking it back even yesterday i went and the golden spoon was like stuck in the lid i'm like oh my god i want it um it was almost empty so i ordered i ordered like 25 more jars from our manufacturing partner um so i could gift it to people right so it's all all true i mean it's coming from me you know i don't say who's coming from this but it's coming from me i think it's a great act"
+    },
+    {
+      "start": 1511.02,
+      "end": 1546.13,
+      "text": "That ad plus those captions has made sales, but it hasn't crushed, right? And I have a bunch of other ads like this too. This one's just sort of like a story-based one. Are you pregnant, Katie? You know, my skin's glowing, right? I'm not going to read all of these ads to you. Customers are obsessing over it. What about summer skin struggles, right? So who are these ads really written for or speaking to? And the answer is that they're really"
+    },
+    {
+      "start": 1546.26,
+      "end": 1586.99,
+      "text": "speaking to product-aware people. Why do I say that? Because what I realized with this whipped tallow is most people, even though it's a trending thing on TikTok for using beef tallow for skin and beauty, TikTok is still pretty niche. And the vast majority of women in my market, my TAM, do not know that you can use whipped tallow."
+    },
+    {
+      "start": 1587.38,
+      "end": 1618.83,
+      "text": "If they did, they knew how great Wiptala was, they'd heard of it before, then the ad I just shared could be really solid. But because they don't, what's missing from this ad is the educational component that is needed in order to get them on board with Wiptala. So there's a gap in knowledge. What happens is that when somebody is"
+    },
+    {
+      "start": 1618.83,
+      "end": 1648.08,
+      "text": "problem aware or solution aware, but not product aware, you generally need to educate them on why your product is the best solution for their problem. I hope this is all making sense. I know I'm talking a lot, but this is important to think about. If I go back to this again,"
+    },
+    {
+      "start": 1648.53,
+      "end": 1688.06,
+      "text": "I'm telling them how your skin looks great with whipped tallow, but they're like, whoa, why is whipped tallow actually good? Why does it matter, right? And I'll show you the landing page, which is mobile optimized, right? But there's a lot of stuff we could be sharing here. So it delivers nourishment that penetrates deeper than synthetic moisturizers. Naturally calms irritated skin with bioavailable vitamins A, D, E, and K. Too clean ingredients, cool. Texture is great. Smell is good, right?"
+    },
+    {
+      "start": 1688.06,
+      "end": 1723.6,
+      "text": "Minimalism is good. And this is your secret, right? Cheap ingredients don't help your skin, what your skin needs. I thought we had something even more on this. Maybe we don't have it here. We have some of our other ads that we changed, so I'll find the other ads. Give me a second to show you. We're still optimizing this too, but give me a moment here. Okay, so this is from an advertorial I wrote, which we still haven't really tested yet, but it's kind of about the TikTok influencers who are obsessed, so you can see it, right?"
+    },
+    {
+      "start": 1723.6,
+      "end": 1753.41,
+      "text": "Beef towel is the number one skincare trend on TikTok, but is it a legit miracle moisturizer or just a gross and greasy fad? Here's what you need to know, okay? But the part I want to get to here, where was I, sorry, why some dermatologists are actually recommending beef towel is not what you think. Beef towel contains fatty acids, which help to hydrate the skin, whilst also, I don't know if I like wasps, but it's fine for now, whilst protecting the skin's main barrier. That's actually a real quote, that's why. Explains Dr. Ross Perry at Cosmetics Skin Clinics."
+    },
+    {
+      "start": 1753.41,
+      "end": 1776.64,
+      "text": "As a skincare product, it can really help with skin which is overly dry and those who suffer from dry conditions such as psoriasis or eczema. According to Dr. Marisa Garshik, board-certified dermatologist at MDCS Dermatology, beef tallow is thought to help your skin dry and boost your natural radiance thanks to its hydrating and anti-inflammatory properties. Tallow is rich in omega fatty acids to help support the skin barrier."
+    },
+    {
+      "start": 1776.64,
+      "end": 1807.09,
+      "text": "For this reason, it can help moisturize and nourish the skin, Dr. Garshik explains. Containing linoleic acid, tallow has anti-inflammatory properties to help reduce inflammation and soothe the skin. The science is actually fascinating. Beef tallow contains vitamins A, D, K, and E plus essential fatty acids that naturally occur in healthy skin. It's giving your skin exactly what it already recognizes and craves, right? So the point here in this case, this is an advertorial, but what are we doing? We're actually educating them more on why"
+    },
+    {
+      "start": 1807.09,
+      "end": 1838.45,
+      "text": "beef tallow is a worthwhile product why basically bringing that into the conversation as a solution right so i know solutions exist i don't really know what beef tallow is a solution either in the ad level or the advertorial level or the landing page level right we talked about that in the intro these different sort of levels and things like that um in different phases of the journey right and then there's platform specificity too and all these other things um like somewhere from here"
+    },
+    {
+      "start": 1838.77,
+      "end": 1869.1,
+      "text": "We have to, you know, we're often taking the often, because I'm going to show you an example that's different, taking it from solution-aware to product-aware, right? So, because again, everyone's kind of problem-aware anyway. Well, either one. Problem-aware is fine because they're already inherently going to be solution-aware in this case. So these are sort of like the same thing in this, again, like anybody's problem-aware or solution-aware. But we're taking them from here."
+    },
+    {
+      "start": 1869.68,
+      "end": 1900.59,
+      "text": "to product aware. But we're doing that through our copy and through our advertising, which means that our copy needs to actually educate them enough so that they start to view our product as a solution. So it's kind of almost doing two things at the same time, right? They're already solution aware. Really, now we're making them product aware. The ad I showed you, which was great, was really even for somebody who is kind of product aware. And I didn't realize it. It's subtle. So this is a hard, advanced thing that I'm teaching you right out the gate here, but it's important."
+    },
+    {
+      "start": 1901.2,
+      "end": 1930.78,
+      "text": "Because if you're product wearer, you probably already know, okay, like this, you understand they can help. This is an eye serum example, right? But you understand that the peptide can help with collagen and blah, blah, blah. This case is like, well, they understand that tallow can help with these things. It's like, of course tallow doesn't make my face glow, right? If I'm doing a tallow example, it's like, well, yeah, of course tallow can make my face glow. Of course it's really good for your skin and it's got fatty acids and all that, right? That's sort of how that ad is showed you. It's written. It's sort of assuming these things that turns out aren't true. They're over here."
+    },
+    {
+      "start": 1930.78,
+      "end": 1960.43,
+      "text": "And so what the ads need to do are the advertorials or VSL or whatever it is we use, whatever mechanism, you know, copy mechanism we use is going to be taking them from here to here. And then once they watch your copy, then they're most aware. And at that point, that's where you're like trying to get them to convert and become a buyer. Right. So let me give you one more example of this. And let's talk about a telemedicine platform. Right. I run a telemedicine brand. I'm not going to show you mine on here because my CEO will murder me. But like we can find any."
+    },
+    {
+      "start": 1960.43,
+      "end": 2010.7,
+      "text": "one of them right let's go to like uh remedy meds okay let's click on all the ads here see if this opens it okay weight loss is finally easier for prescription to glp1 medication injectable glp1 plans of mid-to-health visits ranked number one weight loss provider no insurance so we also have fees they took this from us which is funny because uh we've done good okay right if we look at this for remedy this landing page our landing pages is different design wise"
+    },
+    {
+      "start": 2010.7,
+      "end": 2042.78,
+      "text": "copies a little different, all that kind of stuff. But this is really all you need if you're selling the GLP-1 medication. And by GLP-1 medication, I mean the Gozempic, Simaguchi, whatever it is, right? For our telemedicine platform, I'll tell you, we tested advertorials, we tested a VSL, we've tested video ads. And for us, like what often works the best is like a simple static ad, you know, get GLP-1 medication, save like a hundred bucks off your first month, like, you know, get it now."
+    },
+    {
+      "start": 2042.78,
+      "end": 2096.22,
+      "text": "A landing page like this, you know? There's another one. It's called Eden Health, they're called. Yeah, these guys. I don't find an ad for Eden. I bet I can get retargeted if they go to Facebook. Let's see. Get retargeted with blood testing. I will get retargeted later, I'm sure. But this sponsor, let's see. This brings me to more of a landing page. All right, this page sucks. I don't know. I'm imagining they have... I'm going to take it over to a quiz. All right."
+    },
+    {
+      "start": 2096.22,
+      "end": 2132.19,
+      "text": "Well, that's annoying. All right, whatever. The point is, I mean, Henry Meds just got sued recently. Let's go, Henry Meds. You know, get started, right? Okay. But the point is, like, this is actually all you need. So why is this all you need? Because in this case, in the role of GLP-1s, like, everyone watching this video, I would assume, anyone in the U.S. at least, watching this video has heard of Ozempic. Probably also heard of Simaglutide. And almost certainly heard of GLP-1s and knows that Ozempic is a GLP-1. So this is an exception."
+    },
+    {
+      "start": 2132.19,
+      "end": 2158.58,
+      "text": "to what is shared. It's very rare, right? But it's like, they're already product aware. So you don't need, this is important too, because if you look at the steps, we're literally taking them one, two steps, right? Instead of one, two, three, four steps. And what does that tend to mean? And we'll give you a whole framework later for figuring out the size of, the kind of funnel format structure, all that. But what it generally means is like,"
+    },
+    {
+      "start": 2158.67,
+      "end": 2188.34,
+      "text": "You need less copy and less selling, to be honest with you, right? You don't need a VSL. You don't necessarily need an advertorial. Advertorials you can still use for the most part, right? This case, I mean, they're hyper product aware. It's like here, right? So it's really like, what's the cost? Can I trust the company? How convenient is it? Right? It's just like here, you know what I mean? And so really, all you need is a landing page. If they're like over here,"
+    },
+    {
+      "start": 2188.88,
+      "end": 2216.56,
+      "text": "Maybe you still have an advertorial or something like that. And so that we get. But here's the distinction or another mistake made, right? So for our telemessen company, we started trying to do NAD+. What's NAD+, the fact that some of you are asking that question is exactly where I effed up, right? Because it's an injectable molecule. Well, it's a molecule your body makes. It powers, you know, the metabolic activity of your cells, provides cellular energy."
+    },
+    {
+      "start": 2216.56,
+      "end": 2246.99,
+      "text": "There's a lot of hype around it for anti-aging and longevity and all these sorts of things. I know that. A lot of people haven't heard of it. Yes, some people have. A lot of people haven't, right? So while there are some people in the product-aware space, it probably is like the same general ballpark ratio as here. Whereas, you know, solution-aware, yeah, like maybe, you know, for anti-aging stuff, it's probably still 99%. It's probably similar ratios here. So essentially, I should have been speaking"
+    },
+    {
+      "start": 2246.99,
+      "end": 2276.72,
+      "text": "And we tried creating NAD Plus funnels that were essentially over here. Same exact thing with Talo, right? Talking about NAD Plus and how you felt so great after, whatever. What you need to do generally, again, when you're over in this area, is you have to educate a bit more. And that comes into unique mechanisms, big ideas, more copy, whether it's advertorials or VSLs. Like you really need to educate more when you're over here than when you're over here, okay? So I did NAD Plus, like for our time lesson platform, did not get to work."
+    },
+    {
+      "start": 2277.23,
+      "end": 2310.0,
+      "text": "will make sales pretty low. By the way, the one place where we would get some sales at a good CPA, right, cost per acquisition, would be Google Search, because then you have highly aware people searching, so they buy. So if I get someone on Google Search, which is over here, they're searching like, you know, find NAD+. Clearly they're over here, so then I might get a CPA for like $250, which for telemedicine is not bad. But if they're over here, if our ads would convert at all, we'd be paying,"
+    },
+    {
+      "start": 2310.0,
+      "end": 2332.03,
+      "text": "$1,000, $2,000 to make a sale. Because the vast majority of people seeing the ads just don't know enough. They aren't educated enough. And so there's not enough buyer intent there. And we didn't have enough assets, right? We weren't creating ads that are going to educate them and take them on this whole journey and eventually bring them to here. Now, so for me, for NAD+, I'm like, well, I really honestly need to do a VSL, video sales letter."
+    },
+    {
+      "start": 2332.03,
+      "end": 2365.04,
+      "text": "you know, really long advertorials. It's a lot of work. We're actually just not going to focus on it that much right now because GLP-1s are bread and butter and we're working on a few other really exciting initiatives. But, you know, it's important to understand that. So that's, you know, why this matters. Hopefully this is all making sense as you continue to go through RBC2, as we look at more examples, all these sorts of things, you know, should become clearer and clearer. But I want you to understand that. Now, I've spent a lot of time on that example."
+    },
+    {
+      "start": 2365.04,
+      "end": 2394.85,
+      "text": "Let me just show you another example or two, and you can always read the rest of them when you go through this content. Because if you just go back to simplicity, eco-friendly cleaning products, right? It's kind of a good example, actually. Busy parent uses whatever cleaning products are cheapest at the grocery store, doesn't think about ingredients or environmental impact, clean regularly, don't consider the connection between household cleaners, indoor air quality, skin irritation. Yeah, they bring up environmental harm a lot. Depends on what you're trying to do if eco-friendly. It's fair. Also, allergies, right?"
+    },
+    {
+      "start": 2394.85,
+      "end": 2416.91,
+      "text": "All these sorts of things. Problem wear. They notice their child's skin reactions after cleaning day. They read an article about indoor air pollution. They realize conventional cleaners might be causing issues in their home but don't know what alternatives exist. Solution wear. Well, they learn that green or natural cleaning products exist and that people are switching to safer alternatives. They see eco-friendly options in stores but feel overwhelmed by the choices and aren't sure what really works or what to look for."
+    },
+    {
+      "start": 2417.04,
+      "end": 2442.8,
+      "text": "Product aware, they understand that eco-friendly cleaning products are a legitimate category, know about plant-based formulas, non-toxic ingredients, sustainable packaging. They're researching different eco-friendly brands, comparing approaches. Most aware, they know about your specific eco-friendly cleaning brand, understand your unique formulation philosophy, have read reviews of your product, and are deciding whether to switch from their current brand or try your starter kit. Okay? So the exact same thing is agnostic to..."
+    },
+    {
+      "start": 2443.82,
+      "end": 2477.39,
+      "text": "Physical products, consumer products, information products, whatever it is. It's just like, where are they in the journey? And again, how you speak to them, depending on where they are on the journey, will be different. So somebody who is typically... This one might even be more of a distinction, right? I think this one is actually worth... I'll dive in for one more minute on this. This module is already going longer than I thought it would, but that's okay. Because this is important. So the problem where people... Remember before, everyone who knew the problem knew about the solution?"
+    },
+    {
+      "start": 2477.62,
+      "end": 2509.33,
+      "text": "I don't know if that's as true here. I think most people know that there's eco-friendly cleaners, but I don't know that it's maybe more like 80%. Whereas problem aware is whatever it's going to be. 50% of people think there's a problem. Maybe 30% of people. It might be smaller, but it's a lot of people. Everybody cleans. The total addressable market might be bigger. You might have a 150 million person total addressable market and only..."
+    },
+    {
+      "start": 2509.33,
+      "end": 2542.34,
+      "text": "30%, but 30% of 150 million is still 45 million people, right? Still a lot of people. And like a lot of your marketing, but if your marketing is here, it's like, hey, the real reason for your, you know, if you're noticing, I was noticing allergies, like my child had this weird rash, like, you know, I had brain fog, exhausted. I had no idea that it was all being caused by the cleaner I used in my home, right? So here, like maybe they don't know about"
+    },
+    {
+      "start": 2542.34,
+      "end": 2571.01,
+      "text": "you know, they may have a vague concept of it. They're not really, like, super aware of, like, green cleaners. But the copying an ad might be different here. Like, hey, what's actually in your household cleaner? Like, it causes all these issues, blah, blah, blah, blah, right? Solution aware, it's like, okay, they know green ones are clean. Like, yo, I've heard, you know, green cleaners, you know, I've heard of eco-friendly, you know, cleaning products from my home, but..."
+    },
+    {
+      "start": 2571.01,
+      "end": 2604.34,
+      "text": "Do they really work? Aren't they expensive? Things like that. Because here they're aware of the solution, but they're not sold on the solution yet. Here they'd be sold on the solution. So you're like, hey, you're looking for eco-friendly cleaners. Here's why ours is the best. Premium ingredients, best price, no toxins. Other eco-friendly cleaners have this problem. Ours doesn't have it."
+    },
+    {
+      "start": 2604.4,
+      "end": 2633.84,
+      "text": "et cetera, right? Whereas here is sort of like, hey, are they, I've heard of them. Are they legit? How I know which one to choose, all that. And this one is again like, hey, there's a surprising reason your allergies have gotten worse. You're feeling tired. Your kids have skin issues and maybe you do too, right? So the way you talk, the messaging is going to be totally different here versus here versus here. That wasn't really the case."
+    },
+    {
+      "start": 2634.1,
+      "end": 2666.4,
+      "text": "For skincare, right? For this one, it was sort of the same messaging here and here, and it was different if you come to here, right? Let's do one more. This is a personal branding mastermind. This example, I had Claude make this example. So Claude, I had Claude do, they kind of did it for business professionals who are trying to focus on preeminence, like essentially being a thought leader or whatever it is within a nine to five job versus people who are trying to"
+    },
+    {
+      "start": 2666.4,
+      "end": 2703.41,
+      "text": "build personal brands who are entrepreneurs, freelancers, what have you. But the principles aren't that wildly different. Sorry, whoop. All right, I wrote my text for a second. Of course, it was something kind of urgent, but whatever. So anyway, let's look at this one last example, and then we'll stop this video, and we'll go into the deep research side of things after that, okay? Associates for mid-level professionals, right? Unaware, they just focus on good work. They assume that's going to lead to career advancement."
+    },
+    {
+      "start": 2703.41,
+      "end": 2731.55,
+      "text": "They don't think about how they're being perceived professionally, reputation management, anything of that nature. Problem aware, they notice colleagues getting promoted over them. They're not being considered for opportunities they feel qualified for. They realize that being good at their job isn't enough. Something about visibility and perception is holding them back. Solution aware, they learn that personal branding is a thing, and the professionals actively work on their reputation, LinkedIn presence, thought leadership. They understand this could help their career, but don't know how to approach it strategically. Problem aware, they know that personal branding courses, masterminds, coaching programs exist."
+    },
+    {
+      "start": 2731.55,
+      "end": 2758.64,
+      "text": "They're familiar with the concept of building thought leadership, creating content, networking strategically, and they're researching different educational options. Most aware they found your specific personal branding mastermind, understand your methodology and community approach, have reviewed your curriculum and success stories, and are ready to invest in your program specifically with a little push, right? So the only thing I really want to add to this here is like, how do you speak to the different people? It's kind of the same thing here, right? Problem aware."
+    },
+    {
+      "start": 2759.57,
+      "end": 2791.09,
+      "text": "is like, let's say it's 30% of people again, or something like that, but a big total adjustable market. You know, Solution Aware is probably pretty small in this market, like 10%, let's say. And then Product Aware is, eh, it's probably bigger than that. Sorry, sorry, let's say actually, it's like, eh, let's give you a 10 for now. And then let's say it's 5%. But similarly here,"
+    },
+    {
+      "start": 2791.28,
+      "end": 2822.59,
+      "text": "The person you talk to here, where you're like, hey, you're noticing you're getting passed over, you know, you're working hard, but it's not enough, blah, blah, blah. Like, that's one set of messaging. Solution Aware is like, you know, like, have you ever noticed how some of your, have you ever had a colleague who suddenly has a media work arise and they're being, you know, invited to speak, you know, at both company and, like, vendor conferences, like,"
+    },
+    {
+      "start": 2822.59,
+      "end": 2850.99,
+      "text": "they're being looked at as a thought leader, they're something on the fast track for success, and you probably realize, you've noticed it's all because they build a personal brand. Well, like, but maybe it sounds like a lot of work, or you don't know if that's for you, or you're not sure, like, what that even entail. Well, guess what? It's actually really easy, I'm gonna show you how, blah, blah, blah. Right, this group is like, you know, kind of like, hey, you probably know how important a personal brand is these days, even if you're, you know,"
+    },
+    {
+      "start": 2851.6,
+      "end": 2881.49,
+      "text": "you know, in a steady, you know, traditional nine to five type of job, like you've seen how people have gotten, you know, colleagues who have had a merit rise. You've seen how they get invited to speak. You've seen how they're on a fast track to C-level leadership. And, you know, you're thinking you want the same thing. You're not exactly sure where to start. Maybe you've even looked at a few programs. You looked at coaching. You looked at masterminds, you know, whatever it is, right? Well, I'm going to show you exactly the easiest way to do this. Some improvement system."
+    },
+    {
+      "start": 2881.49,
+      "end": 2913.68,
+      "text": "Blah, blah, blah, blah. So it's different messaging again, right? And again here, if you look at PromoWare and SolutionWare, there's probably an even bigger gap here. Like most of the people who are mad about a nine to five worker who's like kind of salty that other people are getting promoted over them and that they're not getting opportunities. A lot of them probably aren't thinking that personal branding is the answer. They probably think it's like their boss sucks or their manager sucks or maybe their company doesn't give them mobility or whatever it is. And so this might be a case here where it's,"
+    },
+    {
+      "start": 2914.45,
+      "end": 2953.5,
+      "text": "like I said, 30%, but of the 30% who are problem aware, maybe only 10% of the problem where people are really thinking about personal branding, right? And of that 10%, maybe half of them know about courses, masterminds, coaching programs, things like that, that help with it, right? So if that's the case, essentially, if only like a small percentage, so essentially like, you know, where would I probably try to speak?"
+    },
+    {
+      "start": 2953.5,
+      "end": 2982.82,
+      "text": "I probably would mostly be trying to speak to problem aware. If I'm trying to go mass market and broad level and scale, like I actually see this with biz op a lot. A lot of the guys who do biz op and women, but I just, it's mostly men that I see doing biz op. Um, they tend to like do like their copy where it's talking to people about, you know, like, for example, say it's Amazon FBA fulfillment by Amazon where it's drop shipping and stuff like that. And they're like, you feel you've probably tried Amazon FBA programs. You've worked with coaches, all these things. Right. But it's like,"
+    },
+    {
+      "start": 2982.82,
+      "end": 3013.52,
+      "text": "Then a lot of those guys want to go more mass market at higher scale. But like the average person over here, and again, this is a, I'm conflating examples a little bit, but like the average person who says a nine to five person who wants to get economic freedom, flexibility, quit their job, right? Has no idea about FBA, has no idea about all these other things, right? And so to go mass market and biz op, you have to go over here, problem aware, right? And honestly, biz op is an area where maybe"
+    },
+    {
+      "start": 3013.52,
+      "end": 3042.66,
+      "text": "You can tap into a little bit of unaware because people aren't really looking, but they see the right opportunity. Hey, look, you could be making more money. You could be free. You could have flexibility. That might agitate the problem more because it's sort of a universal thing that people want more freedom and money, right? And so all this is to say, really keeping in mind who you are speaking to and what level of awareness they have and what level of awareness you're targeting with your copy and your marketing efforts."
+    },
+    {
+      "start": 3042.66,
+      "end": 3070.91,
+      "text": "is actually really important to understand and it's going to drive how your copy is created so as we go through different copy examples we'll keep coming back to this concept because that is going to make a difference right like um it's a really crucial concept hopefully you understand hopefully this was a valuable training and in the next part of this section i will go through how to use deep research to get answers to this as you jump in to save yourself time to also maximize your"
+    },
+    {
+      "start": 3070.91,
+      "end": 3074.45,
+      "text": "probability of success. Alright, thank you."
+    }
+  ]
+}

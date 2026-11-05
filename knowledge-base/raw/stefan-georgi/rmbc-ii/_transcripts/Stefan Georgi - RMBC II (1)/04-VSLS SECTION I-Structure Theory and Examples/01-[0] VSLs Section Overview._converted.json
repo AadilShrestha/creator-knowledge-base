@@ -1,0 +1,54 @@
+{
+  "source_file": "Stefan Georgi - RMBC II (1)/04-VSLS SECTION I-Structure Theory and Examples/01-[0] VSLs Section Overview._converted.mp4",
+  "source_id": "mega:GwRSGa5C",
+  "audio_sha256": "c1dd117839fdda3c66095655dec303d8a02c8098d7f65e9115aa8a17526b4d53",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 213.91,
+  "last_segment_end": 213.91,
+  "segments": [
+    {
+      "start": 1.55,
+      "end": 30.66,
+      "text": "All right, so welcome to part four, which is going to be on VSLs. I would call this section one, so to speak, because it is, well, not because, there's two sections. This section is kind of like an intermezzo, but I decided it was important to put this here, okay? We have RMBC, Research Mechanism Brief Copy. The brief section after this is"
+    },
+    {
+      "start": 30.66,
+      "end": 58.53,
+      "text": "Phenomenal. Super, super, super powerful. And it's going to show you how to create a brief that you can use, put into LLMs and quad projects, and pump out endless copy. And that's what the section two of the VSLs training, or part, you know, which is part six. Sorry, I hope this isn't confusing. But you'll see in the course, it won't be in the Google Drive, you'll have like a course, like, you know, layout when you're in there. Right? So part six is like,"
+    },
+    {
+      "start": 58.53,
+      "end": 88.85,
+      "text": "You're taking your brief. You've got all the data you need. You're pumping out VSLs. A lot of things are going to come together in the next section. The reason I'm doing this part on copy after R&M is because as you go to create these new briefs that you're going to see in the next section, I think it's helpful to have the end in mind, to understand the structure of long, short, medium."
+    },
+    {
+      "start": 89.39,
+      "end": 118.88,
+      "text": "form VSL, some stuff about hooks. That understanding I think is going to help you contextually when you do the brief and then when you go to generate copy in part six, right? Part four is this section, part five is briefs, then part six. If you are like a super knowledgeable VSL person and you know a ton about VSLs, there's still value in the examples and breakdowns of long, medium, and short VSLs."
+    },
+    {
+      "start": 118.88,
+      "end": 143.5,
+      "text": "I may reference them later in the course. You may wish to spend some time on them, but it's not essential that you go through this. There's still value to be had here for sure, but it's less essential than if you are really newer. If you're newer, you should really watch this training, which is me going through the breakdown of different sections of VSLs."
+    },
+    {
+      "start": 143.5,
+      "end": 172.94,
+      "text": "part by part. It's stuff I did in CA Pro. I did include it in some VS bundle, some of the core trainings, but then I have specific actual VSL breakdowns for medium, short, and long form VSLs. Those are valuable, especially on the medium. I really would watch the medium length ones, or at least one of those, maybe the Neuro one. There's only two, I think. It's Neuro and Miami MD. I kind of would watch both, honestly. Short ones, same thing, I think. And then you go on to briefs, and"
+    },
+    {
+      "start": 173.07,
+      "end": 201.81,
+      "text": "parts about actually just pumping out tons of copy okay um so yeah that's the intro enjoy and then for those of you who are going to watch the whole thing you'll see it step by step it goes from like an overview the structure of vsls leads each part you'll watch that then you'll look at specific examples for long form for medium length for short form uh there's a few other things again on hooks and adhd ads as i call them but it's basically generating tons of hooks"
+    },
+    {
+      "start": 201.81,
+      "end": 213.91,
+      "text": "that I put in this section. So that does give you like a quad project in this section, but it's sort of really about understanding hooks better. And then from there, go into the brief and the copy. All right, thank you."
+    }
+  ]
+}

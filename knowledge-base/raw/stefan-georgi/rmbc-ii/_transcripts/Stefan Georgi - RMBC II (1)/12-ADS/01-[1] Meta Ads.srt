@@ -1,0 +1,311 @@
+1
+00:00:00,530 --> 00:00:32,590
+All right, so now we're going to talk about meta ads. Specifically, we're going to look at different types and formats, copy examples, all those types of things. You've already kind of looked at these a bit before, like when I've gone through the Claude projects, especially for like short VSLs and medium length VSLs, right? A lot of those cases, the VSL is really like an ad that's going to run in like meta, for example, right? Very common, even some of the long form ones.
+
+2
+00:00:32,590 --> 00:01:02,140
+Similarly, when we looked at the meta examples for advertorials, we looked at a couple ads and then how they went to an advertorial and then a PDP. And yet again, even on the PDP one, we looked at some examples of ads from like Happy Mammoth and then how they went to PDP. So we'll repeat some of those brands. We'll also have some other brands too. I've got several in here.
+
+3
+00:01:02,140 --> 00:01:36,500
+But I want to talk about some overarching concepts first, right? The first is understanding, and this shouldn't be a new concept by this point in RMBC2, that you can't talk about ads without assets. And what I mean by that is an ad will never exist in a vacuum, right? You're not going to be able to, like, you need to know what are the supporting assets for the ad, what's the purpose, objective, and what the journey is.
+
+4
+00:01:36,500 --> 00:02:15,310
+And that should be pretty obvious when we've already looked at, you know, examples from before. Like, I don't even know the order I have all these things. Like, I think that might be Neuro to start, which is kind of tired of talking about Neuro, but whatever. That's Miami MD. Okay, we'll come back to them in a minute. Where's my little odorless cat? I mean, I could just type it in. So funny, I don't even know if this brand's at all, like how big they are. I think that uses them a bunch. Right.
+
+5
+00:02:15,310 --> 00:02:46,480
+Two years of cat pee smell gone in days. Most cat owners don't use this to eliminate their cat pee smell. But did you know, right? We looked at this the other day. Okay, so these are like static ads. They're image ads. And what do you notice right away? Same copy, different images. So what you see up here, the second point, is you can't get around testing. This actually is going to kind of encompass both of these points.
+
+6
+00:02:46,480 --> 00:03:22,000
+You can't talk about ads without assets. You can't get around testing. What do I mean? Well, we've already talked about this a bunch of advertorials. This is going to go to an advertorial, right? Knowing that, and knowing that the advertorial is going to do a lot of the heavy lifting, like, okay, we really just need to sell the click. That's the objective of our ad, right? And I honestly should have put that here. I put it this way too, but let's say, you know, sell the prospect.
+
+7
+00:03:22,580 --> 00:04:04,080
+Sell the click. And then this one can go up here. So what's the difference between selling the prospect and selling the click? In an ad like this, we're not trying to sell this cat pee device. We're trying to sell the click to the advertorial. And it's a lot easier to sell the click than it is to sell the prospect, right? You don't need to do a lot to sell the click. Okay, if I have a house that smells like cat pee,
+
+8
+00:04:05,390 --> 00:04:44,560
+Then I see these images and it catches my eye. I still think this is probably the winning image, right? This image, this image, this image, this image, this image, this image, right? So I see all these images. They catch my eye. When it catches my eye, I click on it. That was the only objective of this ad. There's no long caption, right? I'm just selling the click.
+
+9
+00:04:45,970 --> 00:05:22,860
+And going back to testing, that is a demonstration of what we're talking about. It's also a demonstration of the level of product market awareness, right? So who is this ad really targeting? Someone who is problem aware. They may also be solution aware. But really, they recognize they have a problem or need, but are unaware of potential solutions. Maybe they know that solutions exist, but they don't know about our specific solution.
+
+10
+00:05:22,860 --> 00:05:58,130
+You know, most cat owners don't use this to eliminate their cat pee smell, but did you know? So if we say don't use this, that kind of implies people use a solution, but not this solution. So maybe they say they're mostly solution aware, right? Probably if you did the research on this, there's a lot of overlap. Because if you're problem aware that you have a house with a cat pee all the time, you probably get solutions. And also everyone knows about air fresheners and things like that. So we're probably somewhere in here, right? Okay.
+
+11
+00:06:02,900 --> 00:06:35,250
+We want to get a new customer, but how are we doing it? Right now, we're just getting them suddenly to click. And where are we going to send them? We're sending them to an advertorial. What's the advertorial going to do? It's going to educate them more. Then it's going to send them to a checkout page slash kind of PDP hybrid, as you'll remember from that advertorial example. Back to testing. What are they testing here, right? So they're testing images, copies exactly the same.
+
+12
+00:06:36,240 --> 00:07:11,630
+They're seeing which image gets the most clicks. And what's wild, you will find this all the time, is that same copy, different images will often have very different results. I want you to know too, okay, look, green background, cat peeing, cat's angry. Similar green background, slightly different cat, sad. Same background, identical cat, cat's happy, right? So...
+
+13
+00:07:11,950 --> 00:07:43,420
+We're selling the click. We're selling the click to a long advertorial. Remember from this section. If not, you should go watch it. Which tells this whole long story of, you know, sweet Carol. She's 76. You know, tells about the product eventually, all of that. Okay. What about this app? Discover how the smart device turned a cat pee ammonia odor smelling room into a fresh air paradise without any hassle in almost days. What are we doing? Similar thing, okay.
+
+14
+00:07:43,420 --> 00:08:40,050
+that caption is the same different thumbnails here now look back to those in a minute see the video okay there's that what's this one gonna be okay so similar music but different hooks for all these videos right they're different video ads so now same caption different video ad hooks same call to action still going to carol f
+
+15
+00:08:41,460 --> 00:10:22,960
+actually not still in the parallel. They have that probably because it's their control, but these ones are going to this product page, which is still long, but it's actually less copy. It's more about the product. Why is it more about the product? Well, again, let's watch a full video ad and see. Okay, so then we can watch that when we do that virtual example. Well, let's come back here. So what are we doing? Are we selling the click? Yeah.
+
+16
+00:10:23,340 --> 00:10:54,900
+But we're also selling, I should really do it like this, selling the solution. Right here we're selling the solution. And yeah, you're always going to sell the click when you sell the solution. The goal is, of course, to acquire a new customer. And here you're talking to people who are problem aware, and maybe solution aware, and you're making them product aware, and frankly most aware by the time the ad's done. As a result, you're sending them to an advertorial, but in this case you're sending them to a
+
+17
+00:10:55,500 --> 00:11:50,420
+different, more product-aware advertorial because now they're product-aware, right? And the format is like a short video. There are sort of commonalities that we may see as well. So let me go back to the hook one more time. Okay, it's been five months since I got my cat. All I does is pee. Let's see what's this one. So do you notice how that was a different hook they were testing? And then it goes back to the normal video. Here's another hook, ready? Let me start over here.
+
+18
+00:11:54,740 --> 00:12:30,380
+So that's your hook, right? I have three cats, my home doesn't smell like it at all, here's how. Kind of curiosity, that's your hook, right? Right, so all they're doing, and this is very common, and you may recall from the short VSL example, I think it was for the blood sugar one, it was like, here's what coffee does to your blood sugar, here's what sleep apnea does, right? Like, what you'll often see with video ads, really any length, but especially short ones, is that the hook, the first...
+
+19
+00:12:30,380 --> 00:13:03,820
+like, you know, five to 10 seconds, three to 10 seconds is different. The rest of that works. You're really testing hooks. And again, that will have a massive difference on conversion rate. It's crazy as it seems. So will the thumbnail. So the big thing with ads is like understanding that, right? There's a lot to test. So when I said before, you cannot get around testing with ads. So look at that ad structure.
+
+20
+00:13:05,100 --> 00:13:46,100
+I've swiped some of the rads already, I'm pretty sure. Where's my sweet little odorless cat? My stinky little odorless cat. This is kind of small, but it's okay. It's been five years since I got my cat. All he does is pee on my shoes, my bed, my pillows, the couches, and the laundry. For about a whole year, our other cat had been peeing on the couch. I would scrub, spray clean, and nothing really worked. Okay, so it's like, after the hook, cat peeing on the couch, nothing worked. Other solutions didn't work. Finally, we tried the solution. We plugged in this little piece of magic, and the indoor air is back to fresh.
+
+21
+00:13:46,100 --> 00:14:13,860
+What does that mean when my indoor air is back to fresh? No more constantly cleaning, no more lingering smells. What does it mean on a broader level? Well, it means my kid had become cranky and restless at home after we moved into a new house. I bought three of these, placed them near the pet areas, like the litter box, the living room, even the bathroom. And within an hour, my kid noticed that the awful smell was gone. What a relief. Thank you, product. What is a product and what does it do? It's powered by UVC molecular neutralization technology.
+
+22
+00:14:13,860 --> 00:14:42,740
+It's been a game changer. It's like having an invisible shield constantly breaking down odors from cat pee smell. As soon as we plug them in, our indoor air flight is an entirely different atmosphere. No nasty smell, no heaviness in the air. I'm so thankful that we chose Clarifying Odor X for our family. Get it and get rid of your cat pee smell. Okay? We have this one in our quad projects for short VSLs, I'm pretty sure, along with a lot of others. So I'm not going to go too long into the structure because we talked about sort of...
+
+23
+00:14:43,020 --> 00:15:27,440
+We analyze them and we show the quad project for them. And of course, you could just sort of go like, maybe what I will do is this. Add, if you were going to turn it into, yeah, I know I did it in the short ones. Outline, what would the, I'm sure it would be. To a, what ties? Outline, use to create, I know I did a whole bunch of other, other projects.
+
+24
+00:15:28,210 --> 00:16:19,310
+Brands, what would the structure be? Oh, wait, I didn't include it. Here's the ad. Right. So we already did this in the short VSL section, so I'm not going to repeat it all, but if you're like, what's the structure? Cool. I really like this structure. I can do it. I can save it. I could write a bunch of ads with this structure. Right? So that's one example. When I say, what is the objective? Acquire new customers. I talk about testing. A brand I would really look at is like Miami MD.
+
+25
+00:16:19,310 --> 00:16:54,750
+No, I would. I mean, they're a good band to look at. I had them up a minute ago. Let's go back to them. Here's what was cool with Miami D. Okay, let's actually, let's start here, okay? The truth about sagging skin. Think that's just a natural part of aging. Dr. Mangjula, Dr. J, of Miami Celebrity Skin Clinic, is sharing her groundbreaking at-home method that's making waves across the country. This simple approach works with your skin's natural structure, helping to visibly support a firmer, smoother appearance. No injections or expensive treatments needed. Women everywhere are raving about how their skin feels more lifted and toned.
+
+26
+00:16:54,750 --> 00:17:30,190
+Want you to know how it works? Check out the free guide and how it works below. Okay, what happens if we click on the ad? Takes you to, in this case, like a text sales letter, which is pretty rare even for Miami MD. So when I see that, I'm like, why do they have this? Probably they're testing something. Let's see. Why are some skincare things not so good? That's pretty bad copy. I don't like that one, you know, so much. But they test a crazy amount of stuff, right? To their credit.
+
+27
+00:17:33,170 --> 00:18:19,410
+You'll see again, two different wires and skincare things not so good. Okay, so it's a 14 minute in feed VSL. So what's the difference between these two? It's like literally the thumbnail, right? They mostly test video. I'm not sure what they're doing with that one random static, to be honest with you. But probably they're doing it because they're trying to, what they're probably doing is they're testing like a new hook as a tech sales letter or a new like angle or product or something. So it's running a little static and seeing how the angle,
+
+28
+00:18:19,410 --> 00:19:07,500
+works okay for years i was frustrated what's what's here for years i was frustrated for years i was frustrated for years i was frustrated for years i was frustrated i tried nothing okay so again right they're gonna have basically the same copy four times it's gonna be the same video one thumbnail these two thumbnails are the same that's really just as one instagram once a minute it might be that because basically yeah so really it's just treasure so i know what i'm trying to do what you start to see as you scroll as commonalities is what i'm trying to get to okay
+
+29
+00:19:07,500 --> 00:19:51,950
+However, dermatologist Dr. J has shared how she was able to lift and tighten her skin by reducing the aging protein in the skin called prodrin. Okay, same thing here, same thing here, same thing here, same thing here, same thing here, same thing here. For years I was frustrated, for years I was frustrated. Do we have another one with that for years I was frustrated? For years I was frustrated. Okay, so wait, all right. This is probably kind of control copy for them, okay? This one, let's click here. Okay, so that was, this is a 12-minute BSL. Let's see.
+
+30
+00:19:58,350 --> 00:21:09,760
+So what are we doing? We're testing the hook, right? I'm not sure if that one was different from the other ones. Okay, for years I was frustrated. I kept sliding lotion on. Blah, blah. Selling. All right, let's look at the caption. Let's look at this video. If anybody remembers, this one, I think I went over another example. At 12inVSL. So it's a different lead, and then it goes into the, I tested the products. I like the lady. So let's go and save this caption just to have it. So this one.
+
+31
+00:21:09,760 --> 00:21:50,100
+and all these video basically all their video ads click learn more time it's taking me to like a quiz let's see if i skip the quiz now it's taking me to a product page and it's a you know okay product page frankly not incredible design compared to their competitors but it's not the shortest product page in the world but the selling happens in these video ads right so really if you start going through the ads library you see it's kind of like the same hooks
+
+32
+00:21:50,420 --> 00:22:21,740
+for a long period of time and often the same caption copy and it's really just oh sorry when it's hooks it's like they do have the same hooks repeating again and again that's so you can tell that a hook's a big winner and then they'll also be throwing in other hooks right but it's really like if you look at the amount of like I'm just back to June 23rd here so far right this is like going back even again when back in the day people would go
+
+33
+00:22:21,840 --> 00:22:53,920
+oh, like starting, you know, doing your own offers easy. It's like for sure, yeah, you're going to spend whatever, thousands and thousands and thousands of dollars a month on your video production team. And then you're going to test all the ads and you have the ad spend to put into all these ads. It's like starting a black hat affiliate offer, you know, used to be easy, but even that's not easy because you're competing with crazy deep fakes and stuff. The people who say that, I don't know if I think one person used to say that a lot, kind of like,
+
+34
+00:22:53,920 --> 00:23:32,530
+Got a bunch of people who believe it, and they gave that person a bunch of money, and then I don't think any of them have their own offers these days. So, you know, that's interesting. But, you know, it's not easy. It takes a lot of money. I mean, our skincare brand, we put $600,000 into it, and it's working now. But really, like, you know, so in the case of my AMD, where it's mostly like in-feed VSLs, often medium length, right? Okay. Trying to acquire new customers.
+
+35
+00:23:32,690 --> 00:24:07,440
+They are selling the solution. They're trying to sell the click. They're talking to skincare to people who are typically problem-solution-aware. It might be product-aware also, but not for their product, like, right? Very similar solutions and products. Where do they send people? It's to be able to, like, a short, you know, medium to short product page. And because that page is short, they're using long videos to make the sale, right? Like, medium to long videos.
+
+36
+00:24:07,440 --> 00:24:34,290
+they'll test statics but it's pretty rare what they do a lot of curiosity a lot of education a lot of visual elements you saw that in the adhd hook ad breakdown that i included and how important the visuals were and it literally mapped out the visual for like every step of like some of those ads for v shred and spell things like that and if we went through the miami md stuff more or even the one with the lady like i tested three different skincare taps social proof right
+
+37
+00:24:34,290 --> 00:25:12,780
+So now you can understand that. The copy you can write using the short VSL stuff. I'm going to save some of the captions as we go through things and I'll create a quad project for writing captions. But it's really more about this deep understanding. All right, happy mammoth we already looked at within the context of PDPs. Your T is low and your estrogen is high, my doctor said. So I decided to tackle both. Here's my 60A transformation. So this is going after guys, right? I'll read the copy. Give me a second.
+
+38
+00:25:15,600 --> 00:25:48,980
+Month one started with tea breakthrough, and it was like waking up from hibernation. First thing I noticed, my strength came rolling back. No more struggling with weights I used to lift. I know, I'll try to make this bigger for you guys. My thinning hair started feeling thicker within weeks. Brain fog lifted, felt sharp, and focused again. Started seeing muscle definition I hadn't seen in years. Energy levels through the roof. Month two added estro control, and it was like draining excess water from my body. My embarrassing man boobs disappeared. My dad bod started melting off. Clothes fit, fitting better. Less bloating, swelling. Mood swings, gone.
+
+39
+00:25:48,980 --> 00:26:22,420
+Felt more balanced. No more water retention making me look soft. So what you want to recommend? Honestly, they work amazing together. T-breakthrough tackles this. Estro control handles this. Or, you know, use both. So if I look at an ad like this, where it's sort of like a little static, it's saying, hey, I used both and it was great. To me, it's pretty obvious that they're talking to people who are most aware, at least product aware, typically, right?
+
+40
+00:26:22,420 --> 00:27:01,940
+They're hoping, like, you know, maybe they'll catch some other people too. Like, they have enough assets online, so we'll go look around them. But mostly it's that. They're trying to increase brand awareness. Yes, they're trying to sell the solution and get customers. They're kind of doing everything, right? The leads one is sort of very specific lead gen stuff. But then it goes to a PDP. I'm imagining, let's find out. Actually, it's probably their homepage, I think. No, it's got the stack, okay. Okay, this makes sense, actually, right?
+
+41
+00:27:02,450 --> 00:27:34,190
+They're selling both, but they're also selling The Click. This is a really nice homepage trying to sell this bundle. I still think this is going to be a killer for like, it's great packaging, right? It looks amazing, sexy products. But I still think this is probably going to work mostly for people who are already aware of Happy Mammoth versus people who don't know anything about them. I feel like even though it's a really good page, I'm sure they make some sales, I don't believe that their CPA is really good.
+
+42
+00:27:34,320 --> 00:28:38,100
+on an ad like this, even with the future pay scene, because of the price point. Could be wrong, but that's my guess. But they have a lot of ads like this with visual, we looked at some of them. And then, you might sort of know a lot of infographic-y things, right? We keep going down, we'll find, eventually, these video ads. Okay, we're trying to be funny with that one. Here's Emily again.
+
+43
+00:28:41,580 --> 00:29:10,910
+These ones are static, but a little more emotional, like negative, right? But then the copy is actually uplifting. So let's go ahead and take a little Happy Mammoth, one like that, right? 52, I got my figure back. It's been 12 years since I felt this good with my body. Since my body felt different, always didn't expect. Nothing seemed to help. Then I found hormone harmony from Happy Mammoth. And wow, I did not expect this transformation. Here's a transformation. I can't recommend it enough.
+
+44
+00:29:10,910 --> 00:29:59,220
+It's called a subtract for yourself and as I think we remember, this goes to a pretty long landing page. On something like this, pricing is kind of high, honestly, but they've built enough brand equity that I guess I think they can do it, right? I'm gonna save this ad caption as well for my own Harmony. All right, let's keep going because there's a lot of ad styles to look at. All right, Neuro. I'm not guessing that much time on Neuro.
+
+45
+00:29:59,500 --> 00:30:37,600
+It's worth going around and spending time in their ads library. This is actually an old ads library, so I didn't know what they were doing now. I know somebody was stealing a lot of their talent and stuff. I don't know if they imploded or not, but they were doing really well for a while. Worth looking at the copy. And you would see, all right, 15 minutes, 16 minutes, four minutes. What I'm guessing is Nuro is still, I know they're still around. They're probably running not from their brand account, but from other accounts, I'm guessing. I don't know anything about Nuro.
+
+46
+00:30:37,600 --> 00:31:21,870
+I'm guessing, right? But worth noting, testing different, same caption, but different video lengths. Why does that matter? Some people need a 15 minute video. Some people are like, what the fuck, this is too long. Four minute video works for them. Here's the two minute version. These are actual statics. 15 minute, 15 minute. So their sweet spot seemed to be like the 15 minute mark, but that being said.
+
+47
+00:31:24,340 --> 00:32:06,290
+Some different options and links, right? Who's next on our adventure? I did the Otolos Cat. It's kind of funny, some of these things that I've done with RMBC too, and I'm not even thinking about the Otolos Cat for a really long time. Okay, BugMD. These guys are running a lot of creatives too. You're going to see two ads uses creative and text. Five ads uses creative and text. So you kind of know when you see that, that an ad's good or bad, right? So once Flea's got on dogs,
+
+48
+00:32:06,290 --> 00:32:36,400
+They bite through fur, irritate skin, and cause constant scratching discomfort. Next, they'll spread to other pets, then carpets and rugs, then furniture and bedding. A shockingly simple solution eliminates fleas and ticks fast with plant-powered ingredients. Here's how it works. Mix the concentrate with water, fill the reusable spray bottle, apply your dog's coat in their bedding, wash fleas, disappear completely, bug them deep, flea plus tick concentrate, starts working fast, and clears up flea problems. Okay. Oops, sorry about that. So that's like a static there.
+
+49
+00:32:42,540 --> 00:33:27,380
+So all five of these images have the same caption. Let me save that one. Did it already? Save that caption. What happens if we click shop now? Let's see. It's taking this to a PDP. What do you think, right? You can already tell. Pretty short caption. So the product page is going to be pretty long. Right? Makes sense. Now, I'm going to guess they're going to send all their stuff to this page, but let's find out. Let's watch a video ad. Okay, here's a video ad here.
+
+50
+00:34:38,930 --> 00:35:15,760
+One thing you'll notice is how a lot of these ads, after they end, they sort of keep this up for a little while. It's called action. Because otherwise it just ends and then you keep scrolling, right? So you want to keep it going for a little bit of time. There's a little timer, countdown timer here. It's an important note. Let's see. First time buyers. Free buyer, risky flea collars and drops. Unleash this gently as effective flea and tick killing spray. So still a pretty long landing page. Claim your flea and tick spray today.
+
+51
+00:35:23,150 --> 00:36:02,420
+Here's their checkout. Interesting. Save that for later. Okay. So in this case, I think everything is going to the same landing page for them. But they're running a combination of video and static. But this works because their video ads are pretty short. They pre-sell them. And they typically are doing more video than static. Lately, they've tested some more statics, right? But in general, video has been more commonly what they use, right?
+
+52
+00:36:02,450 --> 00:36:45,420
+Everyone wants statics to work because if you can have a static work, it's like way less. It's easier to test stuff. It's faster. There's no video production even if you're using AI. It makes sense, right? But typically, yeah, what about that? So here's a spider one. So creepy spider thing. Different product. Still long copy, but not as long for longer videos. It's interesting, right? So it's worth going through. So they're doing after spiders for a while. Lately, they're going after the tick and flea stuff for pets.
+
+53
+00:36:49,580 --> 00:37:37,780
+Bed bug problem. Let's see. So what you notice is they've got sort of a template that kind of works for the landing pages again. Again, it's worth noting that. And, you know, you can see what, you know, those captions are, so I'll save that caption as well. All right, let's keep on going here. Which one's this? Akka, Superbiotics. They're testing some statics. Same thing. Who's this for? Somebody who's already...
+
+54
+00:37:37,810 --> 00:38:24,820
+probably like product aware, right? Most aware. Watch more. But even if you're fairly aware of ACCA, if you sell them on TikTok, whatever it is, really nice, long landing page, which makes sense. Kind of like, Emma, I go, do you start to notice the commonalities here? Okay, Emma does it this way. Happy Mammoth does it this way. I'm gonna save this link too. So why would I not? Huh, interesting, right? They also test a lot of videos. Watch what liver flushes do to your belly. This is gonna be more direct response oriented.
+
+55
+00:38:37,780 --> 00:39:12,940
+So what are we doing? Curiosity, right? So this is going to be more of that ADHD hook ad here, right? Let's save an ACCA one to the little file I'm making that you can't see, but that I'm putting ads into. This is going to go to an actual VSL. Okay. Kind of interesting, like long VSL to another VSL, 4-minute video to another VSL. But we see people doing that. We've looked at that in examples throughout RMBC.
+
+56
+00:39:15,250 --> 00:39:43,340
+you know, say like this, you know, why does this not go to a VSL? Because you already gave away the product, that's why, right? We gave away the product here, so go to a VSL, that's gonna be like a long, whoa, this weird liver trick doesn't make sense, the gig is up, right? You show them this, so now you're taking them to a product page, because like, the awareness level is instant, right? Yep, this is a product, I'm sorry, look. Basically, the product market awareness thing is like these five phases, but it's like at the same time,
+
+57
+00:39:43,340 --> 00:40:16,980
+At the same time, you show someone your product, you instantly put them into most aware, right? Or at least, if not most aware, product aware, right? The very least of product aware. So you can't come down and talk to them here. A VSL, it's like a blind VSL, is basically never going to talk to product aware or most aware. It's always going to be somewhere in here, right? So that's why it doesn't go to a VSL. Whereas these ones,
+
+58
+00:40:17,100 --> 00:40:59,250
+are like selling the click. Oh, Dr. Sam made a video, right? Go check it out. Let's look at more examples of shit. And I don't know where I was, so let's find out. Look at that, that's wild. I just guessed that I was the right one. Okay. All right, switch gears. Ryan Pineda. Let's launch some stuff on June 24th. Okay. What's the purpose here? Register for your free spot. Purpose here.
+
+59
+00:40:59,250 --> 00:43:18,450
+It's going to be generating leads. Yes, you want them to become customers. You always want your leads to become customers, but it's going to generate leads. Let's watch. Okay, so what are we doing here? If you want to get past an income from real estate, I'm going to show you a new way to do it. I've got a master class. Register, right? If you look at... Okay, so let's watch. That was that one. Let's see here. Okay, different hook. Oh, there you go, right? So all you're seeing here is the shit tons of hooks. So different script.
+
+60
+00:43:19,600 --> 00:43:57,490
+Let's see, these launched on June 24th. These launched on June 24th, so what is he doing? Outfit, wardrobe changes, different backgrounds, different scripts. What is the difference with these webinar things? For BizOp, what are we doing here? We're really focused on education, right? There's visuals, there's definitely some curiosity, but education is a big element. You can't use as much social proof with make money stuff for FTC reasons.
+
+61
+00:43:57,490 --> 00:44:32,780
+But you educate, you tease a better way, call to action, sign up for my masterclass, right? Why are these videos not 20 minutes long, 15 minutes long, 10 minutes long, right? Look, here he is. He's educating you. Cool, wow, I'm learning something. This is great. I want to do the masterclass. Landing page is very short. Good design. Pretty short. Why is it pretty short? Because, yeah, I need to be pre-sold.
+
+62
+00:44:33,580 --> 00:45:33,040
+But I'm not, my commitment is attending a masterclass. And there's been a whole follow-up thing of, hey, it makes you, you know, follow, attend the masterclass, right? So where do we send people, right? Should probably put, like, so every target shouldn't be here. But, you know, like, registration, sign-up page. Okay? Okay. Damn it, I keep doing my, keep losing track of where I am. That was BugMD.
+
+63
+00:45:33,170 --> 00:46:05,460
+This is probably Ryan Pineda. Oh, that was Ryan Pineda. Okay, this one should be Calvin. It's Calvin Tran, right? Okay. So let's just read first. Let's go ahead and generate 10 to 20K a month on Airbnb without owning any property. The new way to make money for Airbnb that anyone can start in 2025. On this Breakthrough Live workshop, I will be revealing the following. Find a lucrative Airbnb guaranteed to perform. Secure funding at zero interest.
+
+64
+00:46:05,460 --> 00:47:03,550
+how to pitch like a pro negotiate and save 10 to 20k per airbnb strategies that perform the competition let's see okay so calvin actually does a lot of ads like this because i spied on his stuff earlier um and it's more like emotional and it's more in the content of like a reel or something you're gonna see i think it's smart a lot of people aren't doing this frankly i would test it for other niches but it's gonna be short right this is gonna be the same thing he's walking there's music playing it edits there's different captions
+
+65
+00:47:03,550 --> 00:47:38,030
+Not every ad is this way, but a lot of them are. Some are even shorter, like 11 seconds long, 10 seconds long. He actually runs a lot of these too. If you go longer back, you will find some where he talks, but clearly this is working well for him as a style. It's him, lifestyle proof, captions talking to you, register for this workshop. What's interesting is the copy length, right? So that one was short. This one's short. This one's short. This one's a bit longer.
+
+66
+00:47:40,910 --> 00:48:20,780
+This one's really long. So he's really testing caption length, right? So in his story, promising some stuff, things like that. Where's it going? See exactly how this Airbnb strategy works better than buying and costs way less to start. Instead of buying properties that barely cash flow, learn how to find units for rent and double your earnings potential and still get the tax write-offs to clean your spot. What you'll discover, some videos telling you about it. This page is a little bit longer.
+
+67
+00:48:20,780 --> 00:49:02,770
+Register, sign up for the webinar. So it's cool. You know, nice clean page. You know, the next live workshop is here. Claim your spot now, sponsor limited, access. So again, the point here is kind of like what the, like what's working. You just test a lot of caption copy. Okay, I think I got two more and we'll be done for now. I'll take one of his, let me see.
+
+68
+00:49:05,620 --> 00:50:29,860
+I'll put all these in the caption kind of thing that I'm doing here. Okay, this one. There's another one more biz up. Okay, let me guess. Do you think he's going to go into the studio from here? Because get this. And it goes to the studio, right? Similar captions. There's a stupid side hustle that's starting to go viral among middle-class Americans. Doesn't evolve, so he's talking to people who are kind of solution aware.
+
+69
+00:50:29,860 --> 00:50:59,600
+Affiliate marketing, social media, selling on Amazon. In fact, this income strategy is 152 years old, but it's just now taking the nation by storm thanks to a former Idaho farm boy. He's been spilling the beans and how he's cashing in on a once-in-a-lifetime wealth transfer that's happening right now in America. In fact, $6.1 billion will change hands every day for the next eight years, but you probably haven't heard of this because the mainstream media is too busy scaring you about recessions, inflations, and how it's getting harder to make ends meet, but this is what's really going on. You got to watch the video while you can, okay? So that's interesting. Okay, tell us to watch the video.
+
+70
+00:51:04,910 --> 00:51:50,130
+So, you know, it's weird. Sorry, my little doc over here, I copied all the Calvin ads. One second. It broke my thing. Sorry, give me one second. Can't put that one there. Well, let's see. Let's watch the video. What happens when I watch the video? So, he's sending you to basically a little advertorial. Okay, interesting. So, one minute ad, advertorial, click the video, and he's going to hit you with a VSL. It's kind of interesting, right?
+
+71
+00:51:50,800 --> 00:52:19,150
+different than a webinar model. I don't know what his offer is or anything I got. Wish I could just swipe it with swipe order, but apparently I can't. But different model. So going back to what I said earlier about the sort of like no right way. I think I'm talking about PDPs. I may have said in this video that there's just kind of like no right way. It's almost 52 minutes in. Go ahead and jump dropping. There's no like magic thing that's like better than everything else. Different formats. You could
+
+72
+00:52:19,150 --> 00:52:51,920
+sell the same product or service using five different funnel formats. And so much of it is just testing and seeing what works, right? So yeah. And the last one I think I had was David Protein Bars. Let's go look at our friends at David Protein Bars. Interesting. They have a lot of, you see a lot of static ads when you're in my side thing here. Totally got a caption that works well.
+
+73
+00:53:15,180 --> 00:54:10,480
+So I've got this guy just doing a bunch of little UGC ads for David. I don't know who this dude is. It's kind of funny. Nothing against him. So what are they doing? They're just touching tons of hooks with this dude. How about over here? So what are they doing? A lot of UGC, social proof, real feeling people. In this case, an AI voiceover. That's like their entire style, right? And they kind of call it like a pain point or like an educational. Hey, this protein bar is good. Shop now.
+
+74
+00:54:10,480 --> 00:54:47,490
+And the landing pages are kind of weird, but they seem to be doing well. So what are you going to say? What's weird about David is like, I was trying to sign into Google on their site. It's a pretty basic PDP and the ads are pretty short. So I wonder about that. Why? I think it's a ubiquity of ads and the price point isn't too bad for a protein bar. Honestly, I think it's something where people are very aware. And so if you've seen the protein bar,
+
+75
+00:54:47,490 --> 00:55:19,150
+You think it probably is good. Honestly, they do so much advertising that I feel like you become product aware of them. So then you're product aware. I really would guess that very rarely do people buy the first thing they see an ad for David. I think what happens is you see their ads enough, you become aware, you watch one, one of these messages just resonates with you, you click, you're like, fuck it, I'm going to order one. So it's not necessarily retargeting, but it is an example of increased brand and product awareness.
+
+76
+00:55:19,150 --> 00:55:48,750
+But that's really just due to frequency, right? With frequency, your awareness increases. And then eventually, you know, they're selling the solution, the click, whatever it is. You click on an ad. You say, yeah, $40. I'm going to try some protein bars. And you buy it, right? So you become your, like, most aware, product aware, right? So that's interesting from a strategy perspective because, like, what are they doing? You might be sort of, like, problem aware. But if there are ads a lot, eventually you become more aware, right? So I'll create a little quad project.
+
+77
+00:55:48,750 --> 00:56:19,460
+on this i'm honestly i mean i'm literally gonna do it like i'm just gonna give you like the recipe for it because i just feel like you know it's just gonna be like hey here's a bunch of like for cloud project hey here's a bunch of like caption ads like you know i'm gonna do these so that you can create new caption ads right it's gonna be like basically as simple as that so i'll do like a two minute overview video but it's not gonna be long um you'll have all these examples to go play around with i hope this was helpful
+
+78
+00:56:19,460 --> 00:56:42,290
+You know the short video ads already for the other trainings you've done, which is what a lot of meta ads are. Understanding the purpose is more important, I think, in a way than the copy. Like, you'll write a copy, I think, from RMBC. So understand the purpose and what you're trying to accomplish with the ad. So there you go. Thank you. Good day.

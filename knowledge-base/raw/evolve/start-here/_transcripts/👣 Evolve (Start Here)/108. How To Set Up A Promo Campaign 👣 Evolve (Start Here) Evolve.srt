@@ -1,0 +1,75 @@
+1
+00:00:00,240 --> 00:00:18,020
+We've made millions with this one sale campaign structure alone. That's so easy. I can close my eyes and still chat scale. So if all the upcoming sales you have, whether it's Mother's Day sale, Memorial Day sales upcoming, BFC and whatnot, we have used this campaign structure for a few years now and it's never let us down.
+
+2
+00:00:18,020 --> 00:00:43,550
+Even here, this one campaign alone has made us 700k in about one month. And I'm going to teach you how we do it for all the sales we have, whether it's Valentine's Day or whatever it is. And it's super easy to set up. First of all, you only have one campaign running for your sale campaign. And in this one campaign, you will have three ad sets, okay? It will be a broad campaign ad set, a warm 60 ad set, and a hot 90 ad set.
+
+3
+00:00:43,550 --> 00:01:10,060
+So what this is, it's basically broad refers to just age and gender targeting. No look likes, no interest, just age and gender and country of course. Middle of funnel, bottom of funnel, these are your retargeting ad sets. Regularly, I will not do retargeting. Hasn't really worked that well for us. But for sale periods, we found that it actually is very helpful to have it. We don't really care about returning customers for...
+
+4
+00:01:10,060 --> 00:01:39,700
+sale periods we want them to purchase so this is the time to run your retargeting campaigns okay so warm 60 refers to just people middle of funnel pay facebook instagram page engages video viewers bottom of funnel hot 90 refers to just people who are already on your site they're more interested so let me teach you how to set it up okay so for the broad ad set pretty straightforward you set it up as you would a regular ad set all you do is mention age gender
+
+5
+00:01:39,700 --> 00:02:10,020
+country. That's all. Very straightforward. Middle of funnel as well. Instagram, Facebook, and video viewers. One more 60 just means 60 as in last 60 days. War means middle of funnel. These are the three audiences I would target as well as exclusions for bottom of funnel. I don't want to mix my middle of funnel and bottom of funnel. I want to keep that separate. And for bottom of funnel, it's whatever we excluded previously. Add to cards, initial checkouts, view content, and website visitors.
+
+6
+00:02:10,020 --> 00:02:35,980
+This is a setup. It's all in one CBO campaign. Set it as high as you want. So this way, it's very simple to run because Facebook will allocate budget to wherever it thinks it's going to do the best. Broad, retargeting, wherever. I don't really care where it allocates to. You allocate to wherever it's doing the best. All I gotta do, put the quiz inside once, chat scale, close my eyes, make money. Super simple. Okay, let me go.
+
+7
+00:02:35,980 --> 00:03:03,860
+teach you how to actually create those retargeting audiences if you don't know how to. So let's say the Facebook page engages and whatnot. Okay. So if you go to the audiences tab, which is on the hamburger icon on the left, all tools, you can look at audiences, click create audience, custom audience. So you can create your warm 61st Facebook page, go in here, click, and then you can go Instagram account. Okay.
+
+8
+00:03:03,860 --> 00:03:34,590
+Do the same thing. Instagram accounts. Do last 60 days. Audience retention. Set it as default. No worries. You can name it whatever you want. Instagram engages last 60 days. Facebook page. Instagram account. Same thing. Video viewers as well. Same thing. Choose engagement type. I like to do video viewers 95%. 95%. Select the videos. Audience retention. That's 60 days. As for the selecting videos part, I won't do it here. I don't want to dox.
+
+9
+00:03:34,590 --> 00:04:05,630
+But what you can do is just select all the videos that you have run as ads or just organic content, the ones that have views already. Typically, I like to run any video that has over a thousand views. I just select it all. You have a bunch of different videos at the end. Let's name it Video Viewers 95%. 60 days. That's it. And how would you plug it into your campaign? Under here. Scroll down. Custom audiences include Instagram, Facebook.
+
+10
+00:04:05,630 --> 00:04:34,910
+video viewers, you can just search for it. And then you can set up your bottom of funnel ones. Bottom of funnel ones, create audience, custom audience, website. You'll be able to find all of your events here. Website visitors, video view content, industry checkout. All of them all here. This is hot 90. Let's say it's website visitors. Website visitors, 90 days. Click create audience and you can plug it in the same way as exclusions as well. You can just exclude it bottom here.
+
+11
+00:04:34,910 --> 00:05:03,230
+This is pretty much the setup for the campaign. Super simple. It helped us go from 10k to 70k per day in 24 hours for all of our clients. As for the creatives, what creative should you actually create? Great question. Silk creatives are very, very simple since they are most aware, right? All you need to do is create a graphic offer. Just put your product image offer. That's pretty much it. We found what works well also. Just take your best existing videos.
+
+12
+00:05:03,230 --> 00:05:29,580
+the best existing images let's put a banner on it let's say this one is our best performing video put a sale there black friday sale whatever sale it is very very simple just put banners on your best performing ads of course you can create extra stacks just for the sale or actual videos just for it it doesn't actually add on but very very simple all you do is just announce the sale show your product and that's it's not too complicated
+
+13
+00:05:29,580 --> 00:05:57,870
+Right. The last step, now that you know how to set up your sale campaign, you know how to set up your sale creatives, how do you actually scale it up? It's a good question. Right. Regularly, we will scale only 20% or double the budget if performance is very good. But let's say if you're a brand that's spending a lot of money, you're spending maybe $3,000 a day or more, you can definitely scale more aggressively. You can start self-scaling. By the way, I have this in a text form as well. If you want to see the text version, all we do is...
+
+14
+00:05:57,870 --> 00:06:18,880
+Self-scaling, okay? Self-scaling, I will only recommend you to do if you have a third-party attribution software. WeTrack, Hyros, we like to use Triplewell. NorthVim is good as well because you need to see up-to-date data. Facebook doesn't update their data that fast. What self-scaling is, is instead of scaling daily, maybe you will scale every...
+
+15
+00:06:18,880 --> 00:06:47,060
+2 hours every 4 hours, depending on your current budget. For us, if you're spending like 20k per day, you can definitely scale up every hour, for example. So here's what we do. We check depending on the time range. It depends on how much you're spending. If you're doing less than 50k per day, you can check every 4 hours, scale up every 4 hours. That's cool. 6-8 hours is fine as well. It's not an issue. So let's say if the past 4 hours results were 50-100% above KPI.
+
+16
+00:06:47,060 --> 00:07:16,190
+Let's say you aim for a 2x, but you got 3 to 4. You can double the budget, right? If it's only 20 to 50% above KPI, increase the budget 20%. If it results KPI, we let it sit. If it's below KPI, we reduce the budget 20%. At midnight, we will then reset the budgets. So for this method, you'll be checking, let's say, every four hours, depending on your scale. Two hours, four hours, six hours, eight hours, and scaling every time period that you checked.
+
+17
+00:07:16,190 --> 00:07:44,980
+At midnight, you will then reset the budgets. So let's say you started the day at 1k per day. You scale up to 15k per day in ad spend in the end. Depending on how well the performance was, you could reset the budget back to 5k per day. It's important that you reset the budget because when you scale like this, let's say you start at 1k per day. Total budget set was 15k per day. It's not going to spend that full 15k. Maybe it only spends 8 to 10k. So you don't want to set it.
+
+18
+00:07:44,980 --> 00:08:13,120
+so it spends the full 15k. Okay, start off at, let's say, lower budget, 5k per day. Scale if performance is good. If not, then pull it down. Yeah, I don't have a super set rule for this, as I said. I cannot chat scale this, but yeah, this is the idea. Announce a sale. Set up the sale campaign structure. Add banners to the best ads, product image ads. Self scale, chat scale, Lambo. Very simple formula.
+
+19
+00:08:13,120 --> 00:08:17,600
+If you got any value out of this, let me know. Hopefully this helps you with your next sale.

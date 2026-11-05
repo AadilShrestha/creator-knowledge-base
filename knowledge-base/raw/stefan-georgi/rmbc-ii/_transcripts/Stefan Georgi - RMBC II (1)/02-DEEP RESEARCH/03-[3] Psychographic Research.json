@@ -1,0 +1,274 @@
+{
+  "source_file": "Stefan Georgi - RMBC II (1)/02-DEEP RESEARCH/03-[3] Psychographic Research.mp4",
+  "source_id": "mega:GwRSGa5C",
+  "audio_sha256": "b278cec72721c3232eefd5103fba0e13ab29cab7994a6798434fdd091506ed7f",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 1518.83,
+  "last_segment_end": 1518.48,
+  "segments": [
+    {
+      "start": 0.72,
+      "end": 28.45,
+      "text": "Hello, hello. I don't know why I should have thumbs down on my screen. That's pretty annoying. But welcome to this module where we will be covering psychographic research. So as a very quick recap, we went through product market awareness levels. Then we went through competitor research. Now we're doing psychographic research. After that, we'll look at stacking it all together to create a sort of like meta research."
+    },
+    {
+      "start": 28.45,
+      "end": 62.86,
+      "text": "document brief that we can use to feed to large language models when writing different types of copy. Before we continue on I want to zoom out and say something kind of important which is that with these deep research tools you have the ability to get data really fast and then as you're going to see a little bit in this module and also in the following module of combining it all together you have the ability"
+    },
+    {
+      "start": 65.2,
+      "end": 93.9,
+      "text": "To summarize it, make it actionable, feed it to an LLM, and you don't really even need to read or understand everything you're getting. I've already spoken to that in some of the past modules where I'll skim through, get to a table, all of that. What I want to be really clear on is that in a perfect and ideal world, it is worthwhile for you to read the full deep research reports that you're getting."
+    },
+    {
+      "start": 93.9,
+      "end": 123.52,
+      "text": "I was thinking about this because I have been a little bit flippant with the length of these deep research reports and it being overwhelming and all of that because it can be overwhelming. And so what I don't want and what I've seen happen working with thousands of people over the years is there's people who are fact finders and who get in the weeds and who overthink everything and they find a way to take something incredible like AI and LLMs and still move really slow."
+    },
+    {
+      "start": 123.52,
+      "end": 153.1,
+      "text": "And it is really inexcusable at this point. You cannot move slow anymore. That being said, especially if you're new to a market or you don't really have a ton of experience, it's worthwhile to just read through everything at least the first time. That doesn't mean you need to take days to do it, but at least I skim through because there will always be little insights."
+    },
+    {
+      "start": 153.1,
+      "end": 178.86,
+      "text": "that might end up being really valuable that might get missed when you summarize stuff with LLMs. Okay, so I just want to make that point before we jump in. Now, regarding psychographic research, what are we talking about here? When it comes to traditional market research, there's demographic research, and you might see that word right here, and there's psychographic research."
+    },
+    {
+      "start": 179.41,
+      "end": 209.74,
+      "text": "To be honest, I put like insight into the demographic, but that does not mean this part below that you're going to look at in a minute is demographic research. Demographic research is kind of traditional woman age 45 plus with a median household income or average household income of $80,000 who are married, you know, and who identify more liberal leaning and are..."
+    },
+    {
+      "start": 210.7,
+      "end": 241.42,
+      "text": "more likely to rent than to own or more likely to own a house than to rent or whatever it is right like it's sort of like that basic like details or characteristics of who your market is like sort of the facts right psychographic research as you might kind of guess from the the root of that psycho right when you think of not a psycho like a bad person necessarily but psychology psychiatry right that psych"
+    },
+    {
+      "start": 241.42,
+      "end": 271.09,
+      "text": "It's more about the mind and it's like deeper. This is more about the psychology of your target market. And so when we do psychographic research, we're trying to understand them on a bit of a deeper level. And so you'll see here in some of these questions, and we go through a list of questions and we'll explain the prompt after. But like, right, what are their hopes and dreams and what are their victories and failures? For those of you who went through RMBC1 or have seen me teach research before,"
+    },
+    {
+      "start": 271.09,
+      "end": 299.92,
+      "text": "These questions may be familiar to you, right? And I'll show you real quick. This was the original R from RMBC. It's got these questions here. This thing has served people extremely well over the years. I was really the first person to teach psychographic research as it comes to copy. It's also the first person to teach unique mechanisms, but not to give myself flowers, but I mean, it's just, it was really kind of revolutionary at the time because people didn't do this. And so it seems so simple, but..."
+    },
+    {
+      "start": 299.92,
+      "end": 330.59,
+      "text": "to me now especially in 2025 but this was really powerful okay now basically all those questions are going to be in this prompt here and i'll go through them and if you've seen rmbc before sorry but we have a pretty quick summary and we'll get to the prompt the outputs what we're looking for and some other really cool stuff okay so i'll get back to the prompt itself but like okay who is your customer this is the one that's like sort of traditional demographic type of stuff"
+    },
+    {
+      "start": 330.59,
+      "end": 364.22,
+      "text": "45 plus women, 50 plus men, 18 plus, 18 to 35 year old men looking for a side hustle additional income. Amateur golfers, typically 50 plus men in rural areas, whatever it is, right? This is here. Attitudes, like what attitudes they have. This is worth understanding in a lot of cases if you're speaking to like a, you know, are you speaking to a conservative demographic?"
+    },
+    {
+      "start": 364.22,
+      "end": 395.2,
+      "text": "Are you speaking to a liberal-leaning demographic? Are you speaking to a Christian demographic? Are you speaking to a New Age demographic? Even their biases, when I go to social or economic, it's like, do they tend to believe that wealth is earned through hard work, you can get ahead and make money, and that the rich are good? Do they tend to believe that the rich are bad, and that people who have a lot of money probably committed a crime or are guilty of a sin? Things like that."
+    },
+    {
+      "start": 395.2,
+      "end": 429.5,
+      "text": "Why would that matter when you go to write copy? Well, if you're doing like a biz op and you're talking to people who believe that billionaires are evil, then your messaging is going to be a lot different than if you're talking to people who believe that with hard work, anyone can become a billionaire and it's the American dream in the case of an American market, right? Things like that. So the messaging might look like finally you can..."
+    },
+    {
+      "start": 429.5,
+      "end": 459.7,
+      "text": "level the playing field like the greedy one percent billionaires like know this secret that they've been keeping from the rest of us but now you can have it right versus the same secret that elon musk and steve jobs and the dude who runs uh nvidia like used to become billionaires is something that anyone can use to start a side hustle profitably like if you've got like you've got a brain in your skull and common sense and you're willing to put in the work like you know"
+    },
+    {
+      "start": 460.5,
+      "end": 490.74,
+      "text": "This is a surefire way to start generating some passive income or whatever it is, right? I'm not going to over-worry on the compliant claims in the example here about if you could say that something is a sure bet for passive income, okay? Don't at me. But do you see how you would speak differently? Political is pretty obvious. I mean, well, I don't know if it's obvious, but it should be. Like, say you're doing... I mean, even for health, right? If your market tends to lean really conservative, then you could kind of talk about what..."
+    },
+    {
+      "start": 490.74,
+      "end": 522.74,
+      "text": "Trump and RFK are doing and how it's important and good. If you're marketing is left, you're like how RFK and Trump are trying to destroy access to these, you know, health in America, right? Like you don't have to get that hardcore in your marketing, but it's just good information to have. Hopes and dreams. It's like, as it relates to the pain point, the problem that your product is solving, what do they hope happens, right? Like, and it goes beyond just like,"
+    },
+    {
+      "start": 523.02,
+      "end": 560.66,
+      "text": "don't have wrinkles it's like feeling confident sexy in your own skin you know feeling beautiful right it can be like um being a leader it can be loving who you see looking back in your mirror in the mirror it could be speaking in front of a crowd you know um being like for business right you're speaking in front of a packed audience sharing your success story your rags to riches story obviously can be things about taking your family on vacation to disney and"
+    },
+    {
+      "start": 560.66,
+      "end": 595.07,
+      "text": "getting the fast pass lane and, or the lightning lane or whatever they call it, and staying in one of the on-site properties, going out to dinner, buying your kids whatever they want, and not even flinching at the crazy price tag. You know? What are the victories and failures? So this would relate to how they've tried to solve their pain point in the past, right? And so victories, maybe it might be, well, I'm..."
+    },
+    {
+      "start": 595.07,
+      "end": 624.56,
+      "text": "Let's go to business. I'm like, well, I've got a good job. I've got a little bit of money saved away. I don't feel like I'm hanging on by a thread. I feel like I've got some financial stability, right? What about a failure? I've tried two different side businesses in the past. Both times, they've been a huge waste of time and money. If I had just put that money aside and saved it or invested it, I would have been better off ahead. I don't know that I'm making..."
+    },
+    {
+      "start": 625.52,
+      "end": 655.68,
+      "text": "It makes me worried about trying to create a side income in the past. Maybe it's not for me. You know, skincare. I've done, I started wearing like sunscreen when I was young. I think that's really helped me. My, I think I see some people who have wrinkles who are way worse than mine. So I know it could be worse. It could be a victory. Failure might be, I keep buying these expensive products. I am trying to do everything. It's not, you know, but I still see wrinkles or like failures like."
+    },
+    {
+      "start": 655.68,
+      "end": 689.58,
+      "text": "I try getting Botox, but honestly, my face looks unnatural. I'm worried that if I keep doing that, I'm going to look awful, unnatural and everything. And so, you know, whatever. We'll go through a more concrete example shortly here. What outside forces do they believe have prevented their best life? So, a lot of people, when it comes to a pain point or problem, have an external, like, believe they're..."
+    },
+    {
+      "start": 689.58,
+      "end": 720.1,
+      "text": "likely believe there may be an external culprit right so going back to like uh social or economic attitudes they might believe that like you know the rich america's tax system and the government everything is just serve created to serve the rich and the one percent and it's designed to keep people who are poor poor and people in middle class in the middle class and not let you get ahead right for a health ailment it might be something about you know big pharma"
+    },
+    {
+      "start": 720.1,
+      "end": 748.85,
+      "text": "purposely keeps cures from you. It could be that big pharma prevents, you know, gives you medications that help treat the symptoms whenever the root cause. The food system is so fucked up, like environmental toxins, right? There's so many toxins in the environment, pollution, microplastics, whatever it is that you're not like, it doesn't matter what you do, the deck is stacked against you, right?"
+    },
+    {
+      "start": 748.85,
+      "end": 776.43,
+      "text": "Those are good things to know. Why are they good to know? Again, because we can speak to those things. Hey, you might feel this way, right? Like you may feel that the deck's stacked against you. You know, I know I can feel that way. I feel like when it comes to my health, you know, I look at all the toxins and crap in my water and food, even food, organic. And I'm like, maybe it's all hopeless, right? But it's not. I'm going to share what you can do. Okay. What are their prejudices? So prejudices is a weird word. We're not talking about like..."
+    },
+    {
+      "start": 776.82,
+      "end": 806.58,
+      "text": "I mean, unless you're selling something to, like, racists. We're not talking about, like, racism, right? But we are talking about, like, biases and beliefs. So prejudice could, again, be a prejudice against big pharma, against big doctors, against big government. It could be a prejudice against big business. It could be a prejudice against a different age group, right? So you'll see this in the examples with the skincare. Like, you'll see a lot of women who are 45 plus who are..."
+    },
+    {
+      "start": 806.86,
+      "end": 832.98,
+      "text": "looking for solutions to wrinkles or crow's feet or fine lines uh have some prejudice against younger women advising them on skincare so they'll talk about how talking to a 25 year old rep at a beauty counter the rep like doesn't get it doesn't understand them is lucky you'll see a lot of times with biz op target towards young people they have prejudice prejudices towards baby boomers so baby boomers got lucky they"
+    },
+    {
+      "start": 832.98,
+      "end": 862.16,
+      "text": "bought a house for a dollar in, you know, 1985, and now the house is worth $4 million. They're kind of selfish. They're the most selfish generation. You know, a lot of criticisms towards baby boomers. Now, if you're a baby boomer, I'm not saying that's true. I'm telling you that that's a prejudice that younger people have against you. Not all of them, but some, right? So it'd be worth exploring that and understanding and figuring out if we need to talk about that in our copy. And that is true of whether we're talking about a long-form sales letter, an advertorial, an ad."
+    },
+    {
+      "start": 862.16,
+      "end": 891.57,
+      "text": "whatever it might be, a product page, so on. And then we're going to sum up their core beliefs about life, love, and family. Who are they? What do they believe? What are their aspirations? What positive? What negative? How do we sum that up? Then we're going to look at other existing solutions. Now, we already did competitive research specific to our product. That's helpful. But that's just our product. There's a wide variety of products and solutions available to the market for almost any type of"
+    },
+    {
+      "start": 892.18,
+      "end": 920.59,
+      "text": "pain point you can imagine. So obvious one, weight loss, right? Well, there's like weight loss supplements. There's workout programs. There's gym memberships. There's GLP-1 medications. There's online coaching. There's diets. There's eating like healthy in general, organic, whatever. The list can go on and on. And that's true for kind of anything. So, okay, what are they already using to try to solve their pain point?"
+    },
+    {
+      "start": 921.36,
+      "end": 952.08,
+      "text": "What has your experience been like, right? Like mixed bag, good, bad, right? And what do they like about existing solutions? And what do they not like about existing solutions? Are there any horror stories? Why is that good? Well, I mean, we want to relate to it. A lot of people use, I mean, I read a horror story yesterday that was shared on Reddit for someone with like plastic surgery. It was a post from a guy talking about how his wife had plastic surgery. He told her not to do it. She did it anyway. And now he doesn't want to make love to her."
+    },
+    {
+      "start": 952.08,
+      "end": 981.68,
+      "text": "So he was doing it less and less. He turned the lights off. He's not attracted to her. His wife kept crying. He would say he was tired. Eventually, she kept pushing. Finally, he was like, look, yeah, I'm not attracted to you anymore. Like, you know, I love you, but I'm sorry I'm not attracted to you. You kind of scare me with the way your face looks. And the wife starts crying, needs time, goes to her sister's house. Her sister and all her friends hate him, say he's a monster. He doesn't know what to do. He loves her. But, you know, she looks like..."
+    },
+    {
+      "start": 981.68,
+      "end": 1007.09,
+      "text": "He's just not attracted anymore. That's a crazy horror story about plastic surgery, right? So if you find stuff like that, it could be worthwhile to have it. You could reference it in copy or in ads, or it gives you an idea for an ad or a sales letter or a VSL, right? Does the market believe existing solutions work? Also really important. So we talked about all these, what they like, what they don't like. Ultimately, do they think, if everyone in the market thinks there's a magic solution,"
+    },
+    {
+      "start": 1007.09,
+      "end": 1033.84,
+      "text": "It's good to know, right? So for example, I would imagine GLP-1 medications, which are like Ozempic, Manjaro, Agovi, Zep-bound, things of that nature, people believe they work. But if I'm trying to go against them, by the way, I sell these through one of my telemedicine platforms. We provide patients access to them through licensed U.S. medical providers. I don't sell them, but we're like a middleman, so to speak, right? But if I was going against GLP-1 medications..."
+    },
+    {
+      "start": 1033.84,
+      "end": 1063.46,
+      "text": "I can definitely find horror stories that people have had adverse events or reactions, right? What do they not like about it? Well, they don't like the cost. They don't like the idea of injecting themselves. They don't like the fact that it's a medication, right? So even if they believe it works, it doesn't mean you can't still contrast against it if you have a better solution, right? They don't believe it works, why not? Okay, curiosity. This stuff gets a little bit weird. We're almost done, so stick with me for this part."
+    },
+    {
+      "start": 1063.46,
+      "end": 1090.64,
+      "text": "Okay, has someone tried to solve the market's pain points before in a very unique way? What was the result? Is there a conspiratorial story behind why old solutions didn't work? Are there any older attempts to solve this problem pre-1960 that are unique? What happened? Were they successful but forgotten? Or were they a failure and why? This is just always interesting stuff for copy fodder, right? If you look at, I use examples of down here, like Nikola Tesla, right? So these days, Tesla's such a big brand that you probably just put Nikola Tesla in the energy space, right?"
+    },
+    {
+      "start": 1090.64,
+      "end": 1119.7,
+      "text": "There's a story about Big Energy didn't want his solutions. He was discredited and ashamed. His inventions and discoveries were thrown into the ash heap of history until now, right? I had a fungus thing back in the day. I didn't have fungus, but I did a product for a nail fungus. And it's true, it was like in World War II, there's this huge issue of our troops in the South Pacific, our troops being the U.S. troops. I know this is people all over the world will watch RBC too. So, you know, the U.S. troops in the South Pacific, they were in these damp tropical environments. Nail fungus was this really big issue."
+    },
+    {
+      "start": 1119.7,
+      "end": 1150.93,
+      "text": "Uh, they discovered undisselenic acid and, you know, gave it to troops. It helped to win the war, right? The nail fungus cure that helped win World War II. It's still a great banger promo. Um, I tried doing a really compliant nail fungus thing back in the day with it and it didn't, it didn't hit. But to be honest with you, I still think this could hit. So somebody watching this will probably jack it and try it. I still think it's a great potential winner from an angle. Um, but those are examples, right? Um, you know, there's like the classic ones like Dr. Is it not down here? Is it?"
+    },
+    {
+      "start": 1152.59,
+      "end": 1177.55,
+      "text": "I mean, this is sort of corruption. It's a corruption, but you can also use it up here. Like, you know, there's the whole thing. RFK talks about this, right? Love him or hate him. Doesn't matter. He talks about how basically all these big tobacco food scientists got brought over to the food industry in the 80s with the merger of R.J. Reynolds and I think it was Kraft Nabisco."
+    },
+    {
+      "start": 1177.55,
+      "end": 1208.72,
+      "text": "There's a huge merger in the 80s. There's a great book and movie about it called Barbarians at the Gate about the corporate merger. But anyway, okay, like, you know, in this case, I guess it wouldn't be that they didn't work, but it's sort of like a conspiratorial thing around how they, you know, food used to be good. They came in and fucked up. I guess that's corruption too. And they're kind of hand-in-hand. So let's get the corruption and we can kind of further bifurcate from here. But again, well, I guess to finish it here, like why things didn't work."
+    },
+    {
+      "start": 1208.72,
+      "end": 1237.7,
+      "text": "I guess if I'm really trying to be specific, and as a teacher I need to be here, right? This is really like, you heard this thing didn't work, or it did work but was suppressed, right? So, Nikola Tesla, you heard he was a quack. Actually, his stuff did work, but he was conspiratorially, it was a conspiracy. Who killed the electric car is a classic conspiracy thing, right? Oh, hey, this was a solution that worked."
+    },
+    {
+      "start": 1237.7,
+      "end": 1268.53,
+      "text": "for you know during world war ii for nail fungus really it's more about foot fungus so to be honest with you but um it got forgotten right there's always these like old solutions that work people do if um i mean i could do with like whipped tallow now right i've thought about that with uh the tallow thing i talked about in an earlier module that we're selling which by the way i've had some really good days with the new ads we've been at like a i think yesterday we like a 60 cpa which is really good for us um and it's because of the product market awareness stuff i talked about it's pretty cool actually um"
+    },
+    {
+      "start": 1268.53,
+      "end": 1295.33,
+      "text": "We've been profitable for several days in a row, and it's because I shifted the product market awareness thing, right? Super important. Oh, you know, like farmer, like you can do a whole story about, right? Like the dust bowl farmer wives of like, you know, Oklahoma in the 1930s who had perfect glowing skin, right? Because they do this remedy about just like tallow as a beauty product."
+    },
+    {
+      "start": 1295.33,
+      "end": 1309.09,
+      "text": "Like we forgot about it, now we're bringing it back. You know, you can talk like ancient, I don't know, we can do research to validate this, but you know, ancient people using tallow and how their skin looks, right? Cool. Okay, and then corruption."
+    },
+    {
+      "start": 1309.09,
+      "end": 1339.26,
+      "text": "Is there a belief that the market's pain point used to not exist or used to not be so bad? Is there a belief that it has been recently exasperated by outside forces? If so, what are those forces and what's the reason behind the presence? So kind of going back to the diet stuff, I mentioned sort of like, okay, this is really where you do the R.J. Reynolds, Kraft Nabisco, evil tobacco scientists go into the food industry angle, right? Food used to be good. We were solid. In the 80s, a bunch of big tobacco scientists got hired by big food companies to make the products more addictive. They added additives."
+    },
+    {
+      "start": 1339.26,
+      "end": 1369.2,
+      "text": "preservatives, chemicals, fake sugars, seed oils, all this stuff. Food got totally fucked up. That's why you have all these problems now. By the way, that happens. It's not really your fault. It's these evil outside forces that have corrupted everything, right? Another example would be like Dr. Ancel Keys. I talked about this from the original RMBC, but this guy in the 50s, I believe, came in and basically said, you know, fat is the culprit. Like dietary fat is why people are having heart attacks after, I believe it was Eisenhower had a heart attack."
+    },
+    {
+      "start": 1369.2,
+      "end": 1390.51,
+      "text": "Or Truman, one or the other. Pretty sure it was Eisenhower. I might have been Truman. Whatever, it doesn't matter. Fat's the bad guy. So everyone moved to like low fat, which meant high carbs, more processed foods, sugar. You can link the two, right? All that happened. Big tobacco scientists go into big food. They make these kind of like frankenfoods even worse."
+    },
+    {
+      "start": 1390.51,
+      "end": 1416.5,
+      "text": "And we've just been fucked. And by the way, look at the data and see how obesity, diabetes, heart disease, cancer, right? All this stuff goes up ever since the 1950s. So the idea is corruption, right? Paradise lost. We had the Garden of Eden and we lost it. The classic thing in more like direct response, clipping style DSLs is sort of, hey, there's this, why do these people in this remote region without, you know, modern healthcare not struggle with whatever it is, like foot fungus, diabetes."
+    },
+    {
+      "start": 1416.5,
+      "end": 1445.86,
+      "text": "bad teeth whatever right why did ancient people look at the you know in clickbank world there's pro dentum it's like a dental vsl so here's a set of 2 000 year old fossilized teeth even though they had no dental stuff at all there's not single cavity or crack the teeth are still strong even though they're outside in the sun and then buried under the ground and attacked by bacteria for 2 000 years how are these teeth still so good well there's one thing they did that we don't do today right um so it's powerful messaging that can be used"
+    },
+    {
+      "start": 1445.86,
+      "end": 1479.81,
+      "text": "In ads, VSLs, etc. Angles, hooks, ideas. There's a lot of things that can be generated by the research that we do. Okay, so let me go through the prompt. Then I'll stop this video and I'll start a new video of examples. That way you don't feel so firehosed and you can digest this. So what we're doing these days is we're going to run a prompt where we tell Deep Research, hey, you know, we're writing copy targeted for a different demo, market info."
+    },
+    {
+      "start": 1479.81,
+      "end": 1510.35,
+      "text": "Here are questions I want answered. Do deep research to answer them. That's the broad view. I'll go through it actually in more detail in the next video, which I'm basically going to record in five minutes from now, my time. So you'll get all this from RBC too. But I just want to break this up into chunks for you. So we have a lot of things to go through. But we'll look at the actual prompt, the prompt in action examples. We'll look at how to get even more pain points when we feel like deep research doesn't give us enough. We'll look at how to combine, if we use multiple LMs for deep research, how to combine them into one."
+    },
+    {
+      "start": 1510.61,
+      "end": 1518.48,
+      "text": "psychographic document using quad and it'll be cool. So I'll see you in the very next video here. Thanks."
+    }
+  ]
+}

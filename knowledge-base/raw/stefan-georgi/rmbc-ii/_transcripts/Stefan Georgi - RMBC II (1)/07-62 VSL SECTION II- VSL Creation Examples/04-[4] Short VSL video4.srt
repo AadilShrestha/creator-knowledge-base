@@ -1,0 +1,111 @@
+1
+00:00:01,300 --> 00:00:31,540
+All right, so we're going to do some short VSL examples real quick here. But what I wanted to do first was show you how I want to generate hooks. Here's the big difference, okay? It's the same kind of hook prompt, and I'll link you to this conversation. For financial newsletter, trying people mostly problem aware and solution aware. We didn't do research on this, but ultimately, yeah, they're problem aware about their investment stuff. They're solution aware. They know newsletters and investment things.
+
+2
+00:00:31,540 --> 00:00:50,050
+Different investment options exist. I updated the sentiment thing here a little bit. Investing in healthcare, et cetera. This is what's different with this one. I said I uploaded a copy of the script. Your job is not to only come up with hooks from the script rather is to find types of different hooks.
+
+3
+00:00:50,050 --> 00:01:23,070
+that create curiosity and keep people glued to a shorter video ad that gets people to click a link and go watch the full video presentation. I don't normally do it this way, but I did here. And the reason why is because when you have a really strong, big idea about a genetic royalty type of thing, I think it's a little bit different. If you had blood sugar, it probably isn't, it isn't, I guess. Because it's like, on one hand, you're like, hey, stop doing this. Here's a mistake, investment mistake. But I think there's also a lot of, we probably want more congruency.
+
+4
+00:01:23,070 --> 00:02:08,850
+versus like in a health offer you can sort of like educate them about x like coffee right oh hey don't drink coffee until you watch this coffee actually spikes cortisol which makes you have high blood sugar but there's a himalayan spice hack that fixes it go here right i guess you could essentially use that same structure for a financial ad but i also don't mind some of the specific hooks being around genetic royalty so i want to see what happens so let's look here if it's good i'll make that document one let's see so i'm a big pharma focus
+
+5
+00:02:11,540 --> 00:02:50,060
+which I don't think makes a ton of sense. The FDA policy that stringled medical innovation for decades just got reversed. That's interesting. This is good. This former big pharma insider walked away from his seven-figure salary to expose this. I said probably to expose this, you know, probably not compliant, but once-in-a-lifetime investment opportunity, right? Expose this once in a generation, or just market-making.
+
+6
+00:02:51,020 --> 00:03:38,860
+investment opportunity or investment you know this market making uh i don't know we'll figure out a different word for it but yeah i'm gonna say thanks these are okay the one thing is really are focused on pa and like diseases like that i think we want them to be more focused on the investment opportunity as well
+
+7
+00:03:39,920 --> 00:04:17,060
+not about some new here, but how technologies changes in healthcare or this FDA decision or whatever else are creating a once-in-a-generation opportunity. I'm going to do these. Honestly, if the hooks don't get better, then we can sort of see the short one without them. But let's just see.
+
+8
+00:04:17,060 --> 00:04:49,230
+And while we're waiting to see, I really think, I don't know if I sound like I'm being a dead horse or whatever the expression is you want to use. Like part of the most valuable thing of this entire course shouldn't just be like the outputs, but it should be like how I just very quickly correct how long I was going to say, yeah, you know, thanks, but this is where you're off. Like it really is like working together. It does amazing things sometimes, but you're still sort of the conductor, right? So let's see.
+
+9
+00:05:14,000 --> 00:05:52,050
+honestly these seem okay but i honestly don't like them that much like like this one's okay but i'd rather just see what cloud comes up with first so let's just see right let's go i don't want to approach it the script or the brief in this case i want to do vsls for the script right so like here's the here's a script for a financial so right now i want to write
+
+10
+00:05:52,050 --> 00:06:25,460
+a series of two-minute long VSL ads that sell the click for someone, the goal being someone watches, hooked, and the call to action is to go watch the full presentation. Please give me 10 short two-minute VSL concepts right now.
+
+11
+00:06:26,480 --> 00:07:28,300
+What I'm curious about, again, is going to be the hooks for these, right? $4 trillion secret. Big Pharma has been hiding a $4 trillion secret for over 100 years. This is too aggressive. Cure Conspiracy. Pyrithial just invested $2 million in saying it terrifies Big Pharma. It's kind of good. The FDA just made an announcement that could destroy Big Pharma's business model. It's pretty good. This is kind of interesting. Forget buying individual biotech stocks. There's a much smarter way to prop from gene therapy. So I think there's some good ones here. So I would probably go with like...
+
+12
+00:07:32,080 --> 00:08:10,370
+You know, let's start with concepts number three, please. And again, you know, some of these hooks are good, but like, well, what about the hooks from Perplexity? It's like, well, play around with it. Experiment with Perplexity, deep research other places. You've got the whole training on that. Peter Field has invested $2 billion in a setting that has big pharma executives losing sleep at night. Mark Cuban has quietly poured millions into the same opportunity. If you're wondering why some of the world's smartest investors are suddenly panicking to get into the space, you're about to find out.
+
+13
+00:08:10,370 --> 00:08:45,170
+See, for over 100 years, Big Pharma has built their empire on a simple business model to keep you sick and pain. Cancer drugs that cost $100,000 and only extend life by three months. Diabetes, medications you take for life. Arthritis treatments that manage pain but never actually heal your joints. But there's something you never want you to discover. Actual cures. Why have you heard of them? Big Pharma's trillion-dollar symptom management business would be destroyed. What's got billionaires scrambling? The FDA just announced a new fast-track.
+
+14
+00:08:45,170 --> 00:09:42,480
+Approval pathways for gene therapy. So this isn't bad. Honestly, what do I want? How do I make these good? Let's make it more teasing. Opportunity, teasing genetic loyalties, FDA decision, et cetera. Let's not hate so much. So just teasing happened. FDA and the opportunity. Let's see what happens when we do that. Let's find out.
+
+15
+00:09:47,540 --> 00:10:16,290
+Well, they discovered could hand regular investors a chance to collect what I call genetic royalties for decades to come. I like that a lot more already, right? The genetic royalties hook is just so good. Might as well use it. See, three weeks ago, the FDA made a quiet announcement that flew completely under the radar. Most people missed it entirely. The mainstream media ignored it, but the single policy change just broke Big Pharma's 100-year monopoly on medicine. It's about to unleash something that's been locked away in research labs for decades. Now, I can't review all the details in a short video, but there are three small companies that could start collecting massive royalty payments on every breakthrough cure that gets developed.
+
+16
+00:10:16,290 --> 00:10:42,940
+Think of it like owning a piece of every medical patent that saves lives. While big pharma's stock could crash as their business model becomes obsolete, these two companies could hand investors early returns of 10, 20x or more. Here's the crazy part. Billionaires like Thiel actually have a disadvantage in this opportunity. One of his companies is so small, if he invested seriously, he'd own the whole thing. But for regular investors, a small stake could turn into generational wealth. The problem is, once Wall Street figures this out, it'll be too late. And if you own the wrong pharmaceutical stock when this hits,
+
+17
+00:10:42,940 --> 00:11:15,340
+You could watch your retirement savings get wiped out. Put together an emergency presentation that goes exactly what the FDA announced, which three companies are positioned to profit, and which big pharma stocks you need to dump immediately. I can keep this online. Click below to watch it now. So that's pretty good. I like that more. Okay, great. I liked that a lot more. Now let's write another one with a hook about don't buy any big pharma stocks until you hear this. Or until you...
+
+18
+00:11:16,270 --> 00:11:51,760
+See this. And I just came up with that hook while watching. Don't buy Big Pharma stocks until you see this. In fact, if you own Johnson & Johnson 5 is a remark right now, we're about to share. I'm sure you could save your portfolio from complete devastation. Three days ago, a former Big Pharma insider sent me a leaked internal memo when it revealed about the future of these companies to talk to me. So you're saying happening inside behind closed doors that could make their entire business model obsolete overnight. Most investors have absolutely no idea it's coming. It all started with a recent FDA decision that has been kept incredibly quiet.
+
+19
+00:11:51,760 --> 00:12:19,220
+This wasn't some minor policy tweak, this was a complete reversal of how they've operated for the past century, and it's about to trigger what I'm calling the Great Pharma Collapse. Now here's what just gets interesting, it's a good phrase. Gets interesting for investors, while big pharma stocks could lose 50, 70, even 8% of their value, there are three tiny companies positioned to capture all that market share. Though the past is something I call genetic royalty streams, and as the old pharma school giants crumbled, these companies could start collecting massive payments on every breakthrough treatment that gets developed. The insider who leaked this memo says we would have maybe six months before.
+
+20
+00:12:19,220 --> 00:12:52,620
+This hits the mainstream, maybe less. Once Wall Street catches on, the pharma stock could be swift and brutal. And if three companies position to profit, their stock prices could explode overnight. I put everything I know into an urgent presentation, including the leaked memo, the three company names, and exactly which big pharma stocks to dump immediately. Click below to watch it now before your portfolio becomes collateral damage. This might be the most important financial decision you make this year. All right, way better. Super cool. Like, watch. Okay, cool. Let's do one with a...
+
+21
+00:12:52,620 --> 00:13:43,330
+Who's cast your voice over and it starts? They're called genetic royalties. They're called genetic royalties and they could upend something like that. Why not? That'd be cool. They're called genetic royalties and they could upend the multi-trillion dollar farmer school industry before this year is over.
+
+22
+00:13:43,330 --> 00:14:09,760
+This is a developing story mainstream financial media isn't covering yet, but according to leaked documents we've obtained, a recent FDA policy reversal has just triggered what insiders are calling the patent wars, and it could reshape who controls American medicine forever. For over a century, Big Pharma has maintained their stranglehold on healthcare through one simple strategy, suppress the cures, sell the treatments, but three small biotech companies have been quietly accumulating the foundational patents that every future cure will need to license. These aren't your typical biotech gambles, they are what industry experts are now calling genetic royalty platforms.
+
+23
+00:14:09,760 --> 00:14:34,500
+The catalyst, a bombshell FDA announcement three weeks ago that most investors completely missed. Again, the three weeks I'd probably do like recent versus three weeks. This single policy change just broke the regulatory barriers that protected Big Pharma for decades, and according to our sources, gene therapy approvals are about to excite from a trickle to a flood. Every single one will need to pay licensing fees to these three platform companies. The implications are staggering, while pharmaceutical giants like Pfizer and Jonathan Johnson consider stock prices collapse.
+
+24
+00:14:34,500 --> 00:15:04,110
+As your business model becomes obsolete, these three companies could start collecting royalty payments on every breakthrough cure that gets developed. One industry analyst told us off the record this could be the biggest wealth transfer in medical history. I love that. But here's the problem. Once this story breaks in the mainstream financial media, it'll be too late to get in at current prices. Our investigation suggests we may have weeks, not months, before Wall Street catches on. We could provide everything we know into a special investigative report, including the three company ticker symbols, blah, blah, blah, right? Again, I'm sure there's some compliance issues with it, but it's pretty good.
+
+25
+00:15:04,240 --> 00:15:48,030
+Sorry, that's not what I wanted. I wanted to do. What was it? And now let's do one with hook around. All right, this will be the last one, then I'll stop and I'll share the document with you all. But you can see how we can start riffing and going even without perplexity, right? This will be the biggest wealth transfer in medical history, and it's happening right under Wall Street's nose. While everyone's distracted by AI stocks and crypto, a seismic shift is about to rip through the pharmaceutical industry. For 100 years, blue farmers hoarded trillions of profits by keeping you sick and dependent on their treatments.
+
+26
+00:15:48,030 --> 00:16:17,170
+But that stranglehold is about to be broken. A recent FDA decision has just unleashed technology that could make their entire business model obsolete. In the company's position to capture that wealth, they're trading for pennies on the dollar. See, they're tiny, three tiny biotech companies. Everybody throws a licensing fee. I'm not going to read the whole thing. You can see the rest of it. Pretty cool, right? Pretty good. So sweet. So yeah, I'll show you this example with financial stocks. And that concludes our short.
+
+27
+00:16:17,420 --> 00:16:54,670
+VSL section for financial. It also actually concludes, I think the VSL section from my perspective recording, I'm going to do like a post, like watch this that ties it all together, but it won't just be about VSLs, it'll be everything up to here. And then I'm also, you know, do an overview video at the beginning, but I think this ties this section up. So, all right, thank you so much. See you as we explore with that tying it all together section and then
+
+28
+00:16:54,670 --> 00:17:00,760
+Advertorials, product pages, ads, everything else. All right, bye bye.

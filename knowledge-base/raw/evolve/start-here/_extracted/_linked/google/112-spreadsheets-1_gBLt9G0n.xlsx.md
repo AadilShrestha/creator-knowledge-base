@@ -1,0 +1,304 @@
+# 112-spreadsheets-1_gBLt9G0n.xlsx
+
+_Source: `112-spreadsheets-1_gBLt9G0n.xlsx`; sheets: $0-100k Mo, $100k-250k Mo, $250k-500k Mo, $500k+ Mo, Stats, Raw Data (openpyxl, cached values)_
+
+## Sheet: $0-100k Mo
+
+| $0-100k Mo |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Dataset: 6 breakthrough ad(s)  \|  Testing: CBO  \|  Data: IC-Level (Initial Campaign) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| * BREAKTHROUGH SPEND THRESHOLD (CBO): Ad reaches at least 67.9% of total Campaign spend in Week 1 (W1 median; range: 28.5%–92.2%)   AND Campaign WoW Growth is positive (>110% - avg).  The WoW growth data in W1-W3 above shows what scale looks like at this tier. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 💸  SPEND WINNER |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| The ad is capturing ≥67.9% of total Campaign spend WITHOUT scaling the budget week over week.  (W1 median; breakthrough ads have qualified as low as 28.5%)  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metric | Avg | Median | Min | Max |  |  |  |  |  |  |  |  |  |  |  |
+| W1 % of Campaign | 64.285 | 67.94 | 28.51 | 92.15 |  |  |  |  |  |  |  |  |  |  |  |
+| 🎯  KPI WINNER |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Ad ROAS is at or above the Campaign ROAS But the ad is below the 67.9% spend threshold of total Campaign spend.   (Strong efficiency, hasn't earned budget dominance yet) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metric | Avg | Median | Min | Max |  |  |  |  |  |  |  |  |  |  |  |
+| W1 ROAS vs Campaign ROAS | 2.755 | 0.905 | -3.27 | 12.2 |  |  |  |  |  |  |  |  |  |  |  |
+| ❌  LOSER |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| The ad is below the 67.9% spend threshold  AND is below the total campaign ROAS   (You can turn it off) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 🏆  BREAKTHROUGH AD |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Meets ≥67.9% of Campaign spend in any W1 AND increases total Campaign spend week over week.   (Can be labeled in W1 but often emerges W2 or W3) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| NOTE: Labels can change. A KPI Winner in W1 can become a Breakthrough in W2 or W3 as the algorithm picks it up. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| WEEK 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metric | Avg | Median | Min | Max |  |  |  |  |  |  |  |  |  |  |  |
+| % of Campaign | 64.285 | 67.94 | 28.51 | 92.15 |  |  |  |  |  |  |  |  |  |  |  |
+| Campaign WoW Growth | 114.67 | 123.97 | 90.91 | 129.13 |  |  |  |  |  |  |  |  |  |  |  |
+| ROAS vs Campaign ROAS | 2.755 | 0.905 | -3.27 | 12.2 |  |  |  |  |  |  |  |  |  |  |  |
+| WEEK 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metric | Avg | Median | Min | Max |  |  |  |  |  |  |  |  |  |  |  |
+| % of Campaign | 78.10333333 | 85.185 | 28.56 | 95.67 |  |  |  |  |  |  |  |  |  |  |  |
+| Campaign WoW Growth | 107.715 | 72.765 | 31.31 | 283.66 | * W2 WoW Growth Avg (107.7%) is pulled up by Ad #6 (+283.7%),  which had near-zero W1 IC spend and then exploded in W2.  Median (72.8%) is the reliable W2 benchmark. |  |  |  |  |  |  |  |  |  |  |
+| ROAS vs Campaign ROAS | -0.155 | 0.98 | -18.41 | 14.67 |  |  |  |  |  |  |  |  |  |  |  |
+| WEEK 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metric | Avg | Median | Min | Max |  |  |  |  |  |  |  |  |  |  |  |
+| % of Campaign | 73.86 | 90.885 | 19.24 | 97.98 |  |  |  |  |  |  |  |  |  |  |  |
+| Campaign WoW Growth | 51.205 | 39.37 | -17.59 | 127.17 | * W3 ROAS vs Campaign is negative for all ads in this dataset (Avg: -2.9%, Median: -2.6%).  This is expected: as a breakthrough ad dominates campaign spend, its ROAS naturally  converges toward the campaign average and may trail it slightly.                                                                                                                 |  |  |  |  |  |  |  |  |  |  |
+| ROAS vs Campaign ROAS | -2.851666667 | -2.64 | -7.51 | -0.15 |  |  |  |  |  |  |  |  |  |  |  |
+| CUMULATIVE GROWTH  (W0 → W3 Campaign) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metric | Avg | Median | Min | Max |  |  |  |  |  |  |  |  |  |  |  |
+| Total Campaign Growth | 208.0566667 | 199.61 | 187.15 | 237.41 |  |  |  |  |  |  |  |  |  |  |  |
+| * W1 WoW and Cumulative Growth are based on 3 of 6 ads. The other 3 ads had no pre-launch IC spend (W0 = $0), making week-over-week growth undefined for Week 1. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+## Sheet: $100k-250k Mo
+
+| $100k-250k Mo |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Dataset: 3 breakthrough ad(s)  \|  Testing: CBO  \|  Data: IC-Level (Initial Campaign) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| * BREAKTHROUGH THRESHOLD (CBO): Ad reaches 21.5% of total Campaign spend in Week 1 (W1 median; range: 1.0%–71.2%)   AND Campaign WoW Growth is positive (>13%) in W1.   Note: the 1.0% Min (Ad #2) qualified as a 🎯 KPI Winner in W1 on ROAS before becoming a 🏆 Breakthrough Ad by W2 at 37.3% spend.                                                                                                                                                         |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 💸  SPEND WINNER |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| The ad is capturing ≥21.5% of total Campaign spend WITHOUT scaling the budget week over week.  (W1 median; some ads at this tier start lower and scale into the threshold by W2-W3) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metric | Avg | Median | Min | Max | * W1 % of Campaign Min (1.0%) is also Ad #2 but it was 122% above campaign ROAS, and scaled to 37.3% by W2 and 63.8%  by W3. Low W1 spend alone does not disqualify an ad — some breakthroughs at this tier are slow starters. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| W1 % of Campaign | 31.25666667 | 21.53 | 1.04 | 71.2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 🎯  KPI WINNER |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Ad ROAS is at or above the Campaign ROAS, but the ad has NOT yet hit ≥21.5% of Campaign spend.   (Strong efficiency, hasn't earned budget dominance yet) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metric | Avg | Median | Min | Max | * W1 ROAS vs Campaign Avg (40.9%) is skewed by Ad #2 (122.9% ROAS, 1.0% spend). That ad had exceptional  ROAS but minimal early spend. Treat Median (1.1%) as the representative W1 ROAS benchmark at this tier.                                                                                                         |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| W1 ROAS vs Campaign ROAS | 40.94666667 | 1.13 | -1.18 | 122.89 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| ❌  LOSER |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| The ad failed BOTH the ≥21.5% spend threshold AND the ROAS benchmark in Week 1.   (You can turn it off) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 🏆  BREAKTHROUGH AD |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Meets ≥21.5% of Campaign spend in any week AND increases total Campaign spend week over week.   (Can be labeled in W1 but often emerges W2 or W3) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| NOTE: Labels can change. A KPI Winner in W1 can become a Breakthrough in W2 or W3 as the algorithm picks it up. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| WEEK 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metric | Avg | Median | Min | Max |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| % of Campaign | 31.25666667 | 21.53 | 1.04 | 71.2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Campaign WoW Growth | 13.79333333 | 11.31 | 0.07 | 30 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| ROAS vs Campaign ROAS | 40.94666667 | 1.13 | -1.18 | 122.89 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| WEEK 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metric | Avg | Median | Min | Max |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| % of Campaign | 46.73666667 | 37.34 | 30.03 | 72.84 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Campaign WoW Growth | 41.21 | 32.99 | 7.37 | 83.27 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| ROAS vs Campaign ROAS | 3.976666667 | -2.26 | -3.49 | 17.68 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| WEEK 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metric | Avg | Median | Min | Max |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| % of Campaign | 45.27333333 | 53.13 | 18.93 | 63.76 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Campaign WoW Growth | 25.77333333 | 20.08 | 15.72 | 41.52 | * W3 ROAS vs Campaign is negative for all ads (Avg: -6.0%). This is the normal pattern: as a breakthrough ad captures a larger share of campaign spend, its ROAS converges toward and slightly trails the campaign average by W3. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| ROAS vs Campaign ROAS | -6.02 | -7.26 | -9.33 | -1.47 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| CUMULATIVE GROWTH  (W0 → W3 Campaign) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metric | Avg | Median | Min | Max |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Total Campaign Growth | 101.84 | 77.75 | 52.07 | 175.7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 📊  ACCOUNT-LEVEL DATA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| All metrics below reflect the ad's share of TOTAL Account spend (not just the Initial Campaign). Use this view to evaluate breakthrough impact at the account level. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 💸  SPEND WINNER (Account) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| The ad is capturing a meaningful share of total Account spend without scaling the budget week over week. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metric | Avg | Median | Min | Max |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| W1 % of Account | 20.09666667 | 8.81 | 1.12 | 50.36 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 🎯  KPI WINNER (Account) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Ad ROAS is at or above the Account ROAS, but the ad has not yet earned meaningful share of Account spend. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metric | Avg | Median | Min | Max |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| W1 ROAS vs Account ROAS | 28.10666667 | 5.91 | 5.59 | 72.82 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| WEEK 1 (Account) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metric | Avg | Median | Min | Max |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| % of Account | 20.09666667 | 8.81 | 1.12 | 50.36 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Account WoW Growth | 7.886666667 | -9.28 | -17.24 | 50.18 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| ROAS vs Account ROAS | 28.10666667 | 5.91 | 5.59 | 72.82 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| WEEK 2 (Account) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metric | Avg | Median | Min | Max |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| % of Account | 36.22 | 31.48 | 13.44 | 63.74 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Account WoW Growth | 32.45333333 | 21.64 | 12.9 | 62.82 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| ROAS vs Account ROAS | 7.166666667 | -0.64 | -1.96 | 24.1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| WEEK 3 (Account) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metric | Avg | Median | Min | Max |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| % of Account | 34.98666667 | 44 | 8.98 | 51.98 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Account WoW Growth | 23.21333333 | 13.53 | 13.3 | 42.81 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| ROAS vs Account ROAS | -9.09 | -7.82 | -16.54 | -2.91 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| CUMULATIVE GROWTH  (W0 → W3 Account) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metric | Avg | Median | Min | Max |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Total Account Growth | 79.31 | 46.27 | 14.05 | 177.61 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+## Sheet: $250k-500k Mo
+
+| $250k-500k Mo |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Dataset: 1 breakthrough ad(s)  \|  Testing: CBO  \|  Data: IC-Level (Initial Campaign) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| ⚠️  PRELIMINARY DATA: This tier has only 1 breakthrough ad. All values (Avg = Median = Min = Max) reflect a single data point. Do not treat these as definitive thresholds until more ads are added. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 💸  SPEND WINNER |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| The ad is capturing ≥X% of total Campaign spend WITHOUT scaling the budget week over week.  (single data point — treat as preliminary) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metric | Avg | Median | Min | Max |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| W1 % of Campaign | 32.59 | 32.59 | 32.59 | 32.59 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 🎯  KPI WINNER |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Ad ROAS is at or above the Campaign ROAS, but the ad has NOT yet hit ≥X% of Campaign spend.   (Strong efficiency, hasn't earned budget dominance yet) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metric | Avg | Median | Min | Max |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| W1 ROAS vs Campaign ROAS | 29.32 | 29.32 | 29.32 | 29.32 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| ❌  LOSER |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| The ad failed BOTH the ≥X% spend threshold AND the ROAS benchmark in Week 1.   (You can turn it off) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 🏆  BREAKTHROUGH AD |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Meets ≥X% of Campaign spend in any week AND increases total Campaign spend week over week.   (Can be labeled in W1 but often emerges W2 or W3) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| NOTE: Labels can change. A KPI Winner in W1 can become a Breakthrough in W2 or W3 as the algorithm picks it up. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| WEEK 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metric | Avg | Median | Min | Max |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| % of Campaign | 32.59 | 32.59 | 32.59 | 32.59 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Campaign WoW Growth | -2.39 | -2.39 | -2.39 | -2.39 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| ROAS vs Campaign ROAS | 29.32 | 29.32 | 29.32 | 29.32 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| WEEK 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metric | Avg | Median | Min | Max |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| % of Campaign | 42.6 | 42.6 | 42.6 | 42.6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Campaign WoW Growth | 28.87 | 28.87 | 28.87 | 28.87 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| ROAS vs Campaign ROAS | 5.17 | 5.17 | 5.17 | 5.17 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| WEEK 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metric | Avg | Median | Min | Max |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| % of Campaign | 27.05 | 27.05 | 27.05 | 27.05 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Campaign WoW Growth | 10.94 | 10.94 | 10.94 | 10.94 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| ROAS vs Campaign ROAS | 73.38 | 73.38 | 73.38 | 73.38 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| CUMULATIVE GROWTH  (W0 → W3 Campaign) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metric | Avg | Median | Min | Max |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Total Campaign Growth | 39.54 | 39.54 | 39.54 | 39.54 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 📊  ACCOUNT-LEVEL DATA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| All metrics below reflect the ad's share of TOTAL Account spend (not just the Initial Campaign). Use this view to evaluate breakthrough impact at the account level. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 💸  SPEND WINNER (Account) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| The ad is capturing a meaningful share of total Account spend without scaling the budget week over week. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metric | Avg | Median | Min | Max |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| W1 % of Account | 12.24 | 12.24 | 12.24 | 12.24 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 🎯  KPI WINNER (Account) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Ad ROAS is at or above the Account ROAS, but the ad has not yet earned meaningful share of Account spend. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metric | Avg | Median | Min | Max |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| W1 ROAS vs Account ROAS | 16.77 | 16.77 | 16.77 | 16.77 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| WEEK 1 (Account) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metric | Avg | Median | Min | Max |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| % of Account | 12.24 | 12.24 | 12.24 | 12.24 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Account WoW Growth | -5.32 | -5.32 | -5.32 | -5.32 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| ROAS vs Account ROAS | 16.77 | 16.77 | 16.77 | 16.77 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| WEEK 2 (Account) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metric | Avg | Median | Min | Max |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| % of Account | 16.94 | 16.94 | 16.94 | 16.94 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Account WoW Growth | 29.95 | 29.95 | 29.95 | 29.95 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| ROAS vs Account ROAS | -8.19 | -8.19 | -8.19 | -8.19 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| WEEK 3 (Account) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metric | Avg | Median | Min | Max |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| % of Account | 12 | 12 | 12 | 12 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Account WoW Growth | 9.34 | 9.34 | 9.34 | 9.34 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| ROAS vs Account ROAS | -2.38 | -2.38 | -2.38 | -2.38 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| CUMULATIVE GROWTH  (W0 → W3 Account) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metric | Avg | Median | Min | Max |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Total Account Growth | 34.53 | 34.53 | 34.53 | 34.53 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+## Sheet: $500k+ Mo
+
+| $500k+ Mo |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Dataset: 7 breakthrough ad(s)  \|  Testing: CBO  \|  Data: Account-Level |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| * BREAKTHROUGH THRESHOLD (CBO): Ad reaches 7.6% of total Account spend in Week 1 (W1 median; range: 1.0%–59.8%)   AND Account WoW Growth is positive (>0%).  At $500k+, Account-level spend share is lower, but a smaller % still represents significant ad-level investment.   ACCOUNT vs. IC DATA:  All metrics below are Account-level (total ad account).  IC-level data (initial campaign only) for these same 7 ads is available in the Stats tab under ""$500k+/mo — IC"".  IC-level typically shows stronger spend % and WoW growth because it excludes other campaigns absorbing account budget.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 💸  SPEND WINNER |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| The ad is capturing 7.6% of total Account spend WITHOUT scaling the budget week over week.  (W1 median; breakthrough ads have qualified as low as 1.0% at Account level) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metric | Avg | Median | Min | Max | * W1 % of spend Minimum (1.0%) is an extreme outlier.  However, in week 2 it spiked to 55% of  campaign spend and over 23% of total account spend and went on to provide breakthrough results |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| W1 % of Account | 15.16857143 | 7.57 | 1.03 | 59.77 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 🎯  KPI WINNER |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Ad ROAS is at or above the Account ROAS, but the ad has NOT yet hit ≥7.6% of Account spend.   (Strong efficiency, hasn't earned budget dominance yet) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metric | Avg | Median | Min | Max | * W1 ROAS Min (-24.4%) reflects Ad #4, which had poor W1 ROAS but scaled to 11.6% of Account by  W3 and still qualified as a breakthrough. At this tier, W1 ROAS below benchmark does not automatically disqualify an ad. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| W1 ROAS vs Account ROAS | 14.43571429 | 12.9 | -24.36 | 62.3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| ❌  LOSER |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| The ad failed BOTH the ≥7.6% spend threshold AND the ROAS benchmark in Week 1.   (You can turn it off) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 🏆  BREAKTHROUGH AD |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Meets ≥7.6% of Account spend in any week AND increases total Account spend week over week.   (Can be labeled in W1 but often emerges W2 or W3) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| NOTE: Labels can change. A KPI Winner in W1 can become a Breakthrough in W2 or W3 as the algorithm picks it up. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| WEEK 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metric | Avg | Median | Min | Max | * W1 % of Account Avg (15.2%) and WoW Growth Avg (46.4%) are each skewed by a single outlier  (Ad #3: 59.8% spend, +265% WoW in W1). Median is the more reliable threshold at n=7. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| % of Account | 15.16857143 | 7.57 | 1.03 | 59.77 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Account WoW Growth | 46.43571429 | 2.42 | -6.79 | 265.34 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| ROAS vs Account ROAS | 14.43571429 | 12.9 | -24.36 | 62.3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| WEEK 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metric | Avg | Median | Min | Max |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| % of Account | 23.49142857 | 23.39 | 7.64 | 48.45 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Account WoW Growth | 31.19285714 | 20.61 | -6.11 | 119.09 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| ROAS vs Account ROAS | 9.984285714 | 5.42 | -3.38 | 32.98 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| WEEK 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metric | Avg | Median | Min | Max |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| % of Account | 20.84428571 | 14.52 | 11.57 | 46.34 | * W3 WoW Growth (Median: -2.0%) and W3 ROAS vs Account (Median: -1.7%) turning slightly negative is expected.  The scaling event has already occurred by W3; the account is normalizing. Do not read negative W3 metrics as a failure signal. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Account WoW Growth | 10.15571429 | -1.96 | -6.46 | 59.62 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| ROAS vs Account ROAS | -0.3514285714 | -1.72 | -17.52 | 15.47 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| CUMULATIVE GROWTH  (W0 → W3 Account) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metric | Avg | Median | Min | Max |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Total Account Growth | 99.97714286 | 78.31 | -14.63 | 321.26 | * Cumulative Growth Min (-14.6%) is Ad #7.  This account was running ~$763k/week at baseline.  A broader account-level pullback during W1-W3 pushed the total Account spend down despite the ad itself growing.  At the IC level, this same ad delivered +35.7% cumulative growth. At $500k+, Account-level and IC-level cumulative  can diverge significantly. See the Stats tab for the full IC-level view. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+## Sheet: Stats
+
+| Metric | $0-100k/mo — IC | $100k-250k/mo — IC | $100k-250k/mo — Account | $250k-500k/mo — IC | $250k-500k/mo — Account | $500k+/mo — IC | $500k+/mo — Account |
+|---|---|---|---|---|---|---|---|
+| Ads in Dataset (n) | 6 | 3 | 3 | 1 | 1 | 7 | 7 |
+| W1 % of Spend |  |  |  |  |  |  |  |
+| Avg | 64.285 | 31.25666667 | 20.09666667 | 32.59 | 12.24 | 47.90857143 | 15.16857143 |
+| Median | 67.94 | 21.53 | 8.81 | 32.59 | 12.24 | 39.32 | 7.57 |
+| Min | 28.51 | 1.04 | 1.12 | 32.59 | 12.24 | 2.57 | 1.03 |
+| Max | 92.15 | 71.2 | 50.36 | 32.59 | 12.24 | 93.21 | 59.77 |
+| W1 WoW Growth % |  |  |  |  |  |  |  |
+| Avg | 114.67 | 13.79333333 | 7.886666667 | -2.39 | -5.32 | 209.5714286 | 46.43571429 |
+| Median | 123.97 | 11.31 | -9.28 | -2.39 | -5.32 | 41.22 | 2.42 |
+| Min | 90.91 | 0.07 | -17.24 | -2.39 | -5.32 | -0.13 | -6.79 |
+| Max | 129.13 | 30 | 50.18 | -2.39 | -5.32 | 793.49 | 265.34 |
+| W1 ROAS vs Benchmark |  |  |  |  |  |  |  |
+| Avg | 2.755 | 40.94666667 | 28.10666667 | 29.32 | 16.77 | -0.3714285714 | 14.43571429 |
+| Median | 0.905 | 1.13 | 5.91 | 29.32 | 16.77 | 1.32 | 12.9 |
+| Min | -3.27 | -1.18 | 5.59 | 29.32 | 16.77 | -29.25 | -24.36 |
+| Max | 12.2 | 122.89 | 72.82 | 29.32 | 16.77 | 18.1 | 62.3 |
+| W2 % of Spend |  |  |  |  |  |  |  |
+| Avg | 78.10333333 | 46.73666667 | 36.22 | 42.6 | 16.94 | 54.34 | 23.49142857 |
+| Median | 85.185 | 37.34 | 31.48 | 42.6 | 16.94 | 55.84 | 23.39 |
+| Min | 28.56 | 30.03 | 13.44 | 42.6 | 16.94 | 16.81 | 7.64 |
+| Max | 95.67 | 72.84 | 63.74 | 42.6 | 16.94 | 91.45 | 48.45 |
+| W2 WoW Growth % |  |  |  |  |  |  |  |
+| Avg | 107.715 | 41.21 | 32.45333333 | 28.87 | 29.95 | 179.2014286 | 31.19285714 |
+| Median | 72.765 | 32.99 | 21.64 | 28.87 | 29.95 | 25.91 | 20.61 |
+| Min | 31.31 | 7.37 | 12.9 | 28.87 | 29.95 | 11.43 | -6.11 |
+| Max | 283.66 | 83.27 | 62.82 | 28.87 | 29.95 | 1036.64 | 119.09 |
+| W2 ROAS vs Benchmark |  |  |  |  |  |  |  |
+| Avg | -0.155 | 3.976666667 | 7.166666667 | 5.17 | -8.19 | 3.938571429 | 9.984285714 |
+| Median | 0.98 | -2.26 | -0.64 | 5.17 | -8.19 | 2.48 | 5.42 |
+| Min | -18.41 | -3.49 | -1.96 | 5.17 | -8.19 | -3.88 | -3.38 |
+| Max | 14.67 | 17.68 | 24.1 | 5.17 | -8.19 | 10.38 | 32.98 |
+| W3 % of Spend |  |  |  |  |  |  |  |
+| Avg | 73.86 | 45.27333333 | 34.98666667 | 27.05 | 12 | 52.80714286 | 20.84428571 |
+| Median | 90.885 | 53.13 | 44 | 27.05 | 12 | 61.59 | 14.52 |
+| Min | 19.24 | 18.93 | 8.98 | 27.05 | 12 | 15.18 | 11.57 |
+| Max | 97.98 | 63.76 | 51.98 | 27.05 | 12 | 96.92 | 46.34 |
+| W3 WoW Growth % |  |  |  |  |  |  |  |
+| Avg | 51.205 | 25.77333333 | 23.21333333 | 10.94 | 9.34 | 7.892857143 | 10.15571429 |
+| Median | 39.37 | 20.08 | 13.53 | 10.94 | 9.34 | -3.81 | -1.96 |
+| Min | -17.59 | 15.72 | 13.3 | 10.94 | 9.34 | -8.93 | -6.46 |
+| Max | 127.17 | 41.52 | 42.81 | 10.94 | 9.34 | 43.41 | 59.62 |
+| W3 ROAS vs Benchmark |  |  |  |  |  |  |  |
+| Avg | -2.851666667 | -6.02 | -9.09 | 73.38 | -2.38 | -0.02 | -0.3514285714 |
+| Median | -2.64 | -7.26 | -7.82 | 73.38 | -2.38 | 0.07 | -1.72 |
+| Min | -7.51 | -9.33 | -16.54 | 73.38 | -2.38 | -11.67 | -17.52 |
+| Max | -0.15 | -1.47 | -2.91 | 73.38 | -2.38 | 15.9 | 15.47 |
+| Cumulative Growth % |  |  |  |  |  |  |  |
+| Avg | 208.0566667 | 101.84 | 79.31 | 39.54 | 34.53 | 617.8685714 | 99.97714286 |
+| Median | 199.61 | 77.75 | 46.27 | 39.54 | 34.53 | 98.07 | 78.31 |
+| Min | 187.15 | 52.07 | 14.05 | 39.54 | 34.53 | 20.81 | -14.63 |
+| Max | 237.41 | 175.7 | 177.61 | 39.54 | 34.53 | 1669.32 | 321.26 |
+
+## Sheet: Raw Data
+
+| Tier | Ad ID | Data Level | W1 % of Spend | W1 WoW % | W1 ROAS vs Benchmark | W2 % of Spend | W2 WoW % | W2 ROAS vs Benchmark | W3 % of Spend | W3 WoW % | W3 ROAS vs Benchmark | Cumulative Growth % | W0 Baseline $ | W1 Ad $ | W2 Ad $ | W3 Ad $ | W1 Ad ROAS | W2 Ad ROAS | W3 Ad ROAS |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| HOW TO ADD A NEW AD: Add one row below. Tier options: 0-100k / 100k-250k (Account) / 100k-250k IC / 250k-500k (Account) / 250k-500k IC / 500k+ (Account) / 500k+ IC. Fill in Ad ID, Data Level (IC or Account), then metric values. All Stats and Definition tabs update automatically. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 0-100k | Ad #1 | IC | 92.15 | 90.91 | 8.52 | 95.67 | 42.25 | 2.54 | 97.98 | 10.33 | -0.44 | 199.61 | 696.96 | 1226.1 | 1810.84 | 2046.0 | 3.87 | 4.34 | 3.19 |
+| 0-100k | Ad #2 | IC | 38.51 |  | 12.2 | 81.03 | 89.95 | 14.67 | 96.58 | 66.6 | -1.88 |  | 0.0 | 180.03 | 719.51 | 1428.74 | 4.5 | 5.14 | 5.07 |
+| 0-100k | Ad #3 | IC | 85.26 | 123.97 | 0.0 | 80.43 | 55.58 | 3.17 | 47.59 | -17.59 | -3.4 | 187.15 | 3596.0 | 6867.03 | 10077.77 | 4913.97 | 2.28 | 1.27 | 1.07 |
+| 0-100k | Ad #4 | IC | 50.62 | 129.13 | -2.73 | 28.56 | 31.31 | -18.41 | 19.24 | 12.14 | -7.51 | 237.41 | 4850.31 | 5626.08 | 4168.1 | 3148.52 | 1.2 | 1.06 | 1.02 |
+| 0-100k | Ad #5 | IC | 90.66 |  | 1.81 | 93.59 | 143.54 | -2.32 | 90.48 | 127.17 | -3.73 |  | 0.0 | 1593.08 | 4005.36 | 8796.22 | 2.51 | 2.22 | 2.14 |
+| 0-100k | Ad #6 | IC | 28.51 |  | -3.27 | 89.34 | 283.66 | -0.58 | 91.29 | 108.58 | -0.15 |  | 0.0 | 1231.49 | 14803.93 | 31549.48 | 2.06 | 1.84 | 1.72 |
+| 100k-250k IC | Ad #1 | IC | 71.2 | 30.0 | -1.18 | 72.84 | 83.27 | -2.26 | 53.13 | 15.72 | -7.26 | 175.7 | 19471.4 | 18022.93 | 33790.76 | 28522.09 | 2.08 | 2.14 | 1.66 |
+| 100k-250k IC | Ad #2 | IC | 1.04 | 0.07 | 122.89 | 37.34 | 7.37 | -3.49 | 63.76 | 41.52 | -1.47 | 52.07 | 36432.0 | 380.09 | 14619.12 | 35324.52 | 3.9 | 1.84 | 1.79 |
+| 100k-250k IC | Ad #3 | IC | 21.53 | 11.31 | 1.13 | 30.03 | 32.99 | 17.68 | 18.93 | 20.08 | -9.33 | 77.75 | 16628.63 | 3985.86 | 7391.32 | 5593.94 | 2.31 | 2.53 | 1.58 |
+| 100k-250k | Ad #1 | Account | 50.36 | 50.18 | 5.91 | 63.74 | 62.82 | -0.64 | 44.0 | 13.53 | -7.82 | 177.61 | 23831.88 | 18022.93 | 37146.28 | 29112.43 | 2.08 | 2.14 | 1.66 |
+| 100k-250k | Ad #2 | Account | 1.12 | -9.28 | 72.82 | 31.48 | 12.9 | -1.96 | 51.98 | 42.81 | -2.91 | 46.27 | 49140.89 | 497.19 | 15843.56 | 37363.69 | 3.9 | 1.84 | 1.79 |
+| 100k-250k | Ad #3 | Account | 8.81 | -17.24 | 5.59 | 13.44 | 21.64 | 24.1 | 8.98 | 13.3 | -16.54 | 14.05 | 54649.63 | 3985.86 | 7391.32 | 5593.94 | 2.31 | 2.53 | 1.58 |
+| 250k-500k IC | Ad #1 | IC | 32.59 | -2.39 | 29.32 | 42.6 | 28.87 | 5.17 | 27.05 | 10.94 | 73.38 | 39.54 | 15234.2 | 4845.56 | 8162.65 | 5749.95 | 2.16 | 1.93 | 0.05 |
+| 250k-500k | Ad #1 | Account | 12.24 | -5.32 | 16.77 | 16.94 | 29.95 | -8.19 | 12.0 | 9.34 | -2.38 | 34.53 | 68996.96 | 7996.41 | 14383.65 | 11139.45 | 2.16 | 1.93 | 0.05 |
+| 500k+ IC | Ad #1 | IC | 11.6 | 63.54 | 18.1 | 26.21 | 25.91 | 9.79 | 15.18 | -3.81 | -11.67 | 98.07 | 91992.91 | 17444.93 | 49651.08 | 27653.87 | 1.81 | 1.77 | 1.34 |
+| 500k+ IC | Ad #2 | IC | 39.32 | -0.13 | -6.75 | 16.81 | 41.32 | 8.14 | 18.42 | 37.21 | 15.9 | 93.64 | 43130.66 | 16934.35 | 10232.31 | 15387.44 | 2.18 | 2.25 | 1.96 |
+| 500k+ IC | Ad #3 | IC | 76.45 | 793.49 | 1.32 | 62.7 | 21.84 | -0.79 | 61.59 | -8.93 | 1.97 | 891.38 | 40584.33 | 277213.24 | 277010.93 | 247818.02 | 2.53 | 2.27 | 2.07 |
+| 500k+ IC | Ad #4 | IC | 2.57 | 4.87 | -29.25 | 55.84 | 22.07 | -3.88 | 21.49 | -5.63 | -4.11 | 20.81 | 64778.03 | 1742.58 | 46307.83 | 16820.41 | 1.27 | 1.89 | 1.79 |
+| 500k+ IC | Ad #5 | IC | 74.18 | 41.22 | 11.47 | 79.68 | 1036.64 | 2.48 | 75.49 | 0.68 | 0.11 | 1516.12 | 12808.4 | 13418.52 | 163816.27 | 156258.15 | 3.15 | 2.15 | 1.94 |
+| 500k+ IC | Ad #6 | IC | 93.21 | 532.05 | 0.6 | 91.45 | 95.2 | 1.45 | 96.92 | 43.41 | 0.07 | 1669.32 | 7416.27 | 43690.18 | 83672.64 | 127173.69 | 2.23 | 1.82 | 2.0 |
+| 500k+ IC | Ad #7 | IC | 38.03 | 31.96 | 1.91 | 47.69 | 11.43 | 10.38 | 80.56 | -7.68 | -2.41 | 35.74 | 107317.02 | 53861.76 | 75261.21 | 117349.31 | 1.66 | 1.69 | 1.3 |
+| 500k+ | Ad #1 | Account | 9.92 | 51.59 | 16.66 | 24.88 | 19.98 | 5.42 | 14.52 | -1.96 | -17.52 | 78.31 | 115962.74 | 17444.93 | 52476.4 | 30019.59 | 1.81 | 1.77 | 1.34 |
+| 500k+ | Ad #2 | Account | 14.45 | -5.3 | 2.77 | 7.64 | 20.61 | 18.87 | 12.13 | 16.63 | 15.47 | 33.22 | 123781.45 | 16934.35 | 10807.85 | 20008.43 | 2.18 | 2.25 | 1.96 |
+| 500k+ | Ad #3 | Account | 59.77 | 265.34 | 4.79 | 48.45 | 23.27 | 0.2 | 46.34 | -6.46 | 1.76 | 321.26 | 126957.39 | 277213.24 | 277010.93 | 247818.02 | 2.53 | 2.27 | 2.07 |
+| 500k+ | Ad #4 | Account | 1.03 | 1.9 | -24.36 | 23.39 | 29.0 | 12.43 | 11.57 | -5.28 | -2.01 | 24.51 | 165319.42 | 1742.58 | 50823.25 | 23822.71 | 1.27 | 1.89 | 1.79 |
+| 500k+ | Ad #5 | Account | 6.09 | 2.42 | 62.3 | 36.3 | 119.09 | 3.37 | 31.27 | 10.99 | -4.31 | 149.05 | 214988.77 | 13418.52 | 175092.51 | 167410.04 | 3.15 | 2.15 | 1.94 |
+| 500k+ | Ad #6 | Account | 7.35 | 15.89 | 12.9 | 12.51 | 12.51 | -3.38 | 12.07 | 59.62 | -1.72 | 108.12 | 513062.76 | 43690.18 | 83672.64 | 128842.15 | 2.23 | 1.82 | 2.0 |
+| 500k+ | Ad #7 | Account | 7.57 | -6.79 | 25.99 | 11.27 | -6.11 | 32.98 | 18.01 | -2.45 | 5.87 | -14.63 | 763287.08 | 53861.76 | 75261.21 | 117349.31 | 1.66 | 1.69 | 1.3 |

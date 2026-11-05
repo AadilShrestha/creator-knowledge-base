@@ -1,0 +1,59 @@
+{
+  "source_file": "👣 Evolve (Start Here)/103. 🆕 How To Duplicate Ads Into Champions (NEW WAY) 👣 Evolve (Start Here) Evolve.mp4",
+  "source_id": "mega:jhQDiSSY",
+  "audio_sha256": "2a8b5c4cd3d1572dcaf5607ee7361f61cdf6a45285db3c0a55d357b639594ebc",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 194.62,
+  "last_segment_end": 194.62,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 27.34,
+      "text": "Alright guys, so just filming a very much so updated piece here in regards to post IDs and duplicating ads over into your champion's ad set. So one of the biggest problems with using post IDs, and you guys most likely know how to do this already or you probably just watched the video, it only actually copies over the Facebook engagement. And so obviously if you go down into breakdown here and you take a look at platform."
+    },
+    {
+      "start": 27.34,
+      "end": 32.69,
+      "text": "which tells you whether or not it's Facebook or Instagram, you can see that if we go just..."
+    },
+    {
+      "start": 32.69,
+      "end": 57.44,
+      "text": "today, that majority of our spend is going on Facebook. And let's just go like the last seven days for this brand. It's $1,000 here and then $500 here. But with that said, there's still likely Instagram engagement. And so if we go to Instagram posts with comments, you can see there's 844 likes on this and a decent amount of engagement, right? And so what ends up happening is if you actually turn this to a post ID, it will not actually show that engagement for Instagram."
+    },
+    {
+      "start": 57.44,
+      "end": 73.81,
+      "text": "which really sucks. Okay. And so what ends up happening a lot of times is the reason why your champions ads will sometimes not get any spend is because of that. And so what you can do is you can basically just take this ad and you just simply duplicate it the old school way."
+    },
+    {
+      "start": 73.81,
+      "end": 103.31,
+      "text": "Okay. Now you have to make sure that you don't change anything. So we're going to go to existing ad set here. We're going to click champions. We're going to remove the original ad set. And then very simply make sure this is ticked. Just don't really touch anything. You're just going to go ahead and click duplicate. And then when you duplicate it, make sure again, you don't change anything. You can remove the copy here, but you don't really want to touch anything. You just want to do that. Make sure everything looks good. And then just go ahead and publish. Now I might need to get access. I'm not sure why. Let me double, let me double check this."
+    },
+    {
+      "start": 103.31,
+      "end": 122.54,
+      "text": "All right, you guys could tell I don't actually do all of the media buying at the agency. But if we go ahead and publish this, this should go through. It might give me an issue with Instagram, but it should go through. And so boom, that's now been published. And so now we just refresh the account. Or let me just actually remove the breakdown here. And then I should be able to refresh no problem. So reload."
+    },
+    {
+      "start": 123.76,
+      "end": 146.51,
+      "text": "And now if we actually go into the champions outset, we should be able to see there is an ad here and you'll know it's worked if you preview it and you see the engagement. So boom, there is the engagement on Facebook. And you can see here, if you go to Instagram posts with comments, you can now see it inside of here as well. Okay. And so just like that, you can actually keep the engagement on Facebook and Instagram. If you guys"
+    },
+    {
+      "start": 146.51,
+      "end": 170.75,
+      "text": "are previously using post IDs. This is actually the method that our media buyer has been using. Now, I need you guys to give us feedback and let us know if it doesn't work. For right now, it's working like 90% of the time. But if this is not working for you guys, then obviously you can just use post IDs. But right now, this is actually how we've been duplicating ads into the Champion's ad set to keep engagement. Just know that if you change anything in here, it will obviously remove."
+    },
+    {
+      "start": 170.75,
+      "end": 194.62,
+      "text": "the engagement. So it's kind of a sneaky way to go through here. I'm just going to go ahead and click close. But it's a sneaky way to keep Instagram engagement because if you guys are only using post IDs right now, that is a problem because Instagram is not copied over. So hopefully that makes sense. Go ahead and try this out. Let us know if this is working for you guys because it is working for most of our accounts and just wanted to share it with you."
+    }
+  ]
+}

@@ -1,0 +1,567 @@
+1
+00:00:00,140 --> 00:00:27,920
+I'm actually going to change it so computer sound comes out of my computer too. Now, a lot of you guys might know a decent amount about VSLs, maybe you've written a lot, maybe whatever. I would still really encourage you as we do these sort of sessions over the next several weeks to pay attention and have humility in a way, be humble. I try to do that. I mean, one of my reputations, I guess, is one of the best.
+
+2
+00:00:27,920 --> 00:00:56,590
+vsl writers on the planet right um i've written like a shit ton of really successful vsls and tons that have bombed too um but i really try to i feel like i can always learn stuff from other vsls and from studying them and looking at the structure um you know also what are they doing that's interesting uh things of that nature and so the only people i really see continuously struggle with vsls are the ones who kind of feel like they know everything and so they don't implement like they don't they don't
+
+3
+00:00:56,590 --> 00:01:25,550
+they're closed off to making adjustments and tweaks. And so, you know, keep that in mind. So let's talk about like a really basic structure for a VSL, right? There's sort of like a hook or you can call it like a micro lead. And today we're going to talk about structure. We're going to look at sort of some examples. And that's really the primary thing we're going to do today. We're not going to go super deep into any one part of a VSL because we'll do that in subsequent ones. I just want to get your mind thinking about the structure and I'll probably riff on structure a bit more.
+
+4
+00:01:25,550 --> 00:01:50,350
+There's a hook or a micro lead. I'll show you what that means in a second. There's an actual lead. There's a background story, typically, a story about who's speaking, the spokesperson, their credibility, and an origin story. And I'll explain what all this means. There's some kind of discovery. Usually, there's a unique mechanism of the problem and solution. We did talk about mechanisms a little bit in a previous call. You all can see that in the...
+
+5
+00:01:50,350 --> 00:02:20,340
+Recordings that are in circle, but we're going to talk about a lot more depth as well and how specifically in the context of a BSL. Product build and reveal, close and FAQs. And I have some examples here from different formats. We'll come back to the shortest ones because they can have a little more deviation. We'll look at like this sort of 15 minute BSLs. And we'll look at specifically is, you know, what a lot of people, including this mastermind are doing these days is running these sort of mid-length, let's call them,
+
+6
+00:02:20,340 --> 00:02:47,010
+vsls in feed right and what is in feed so i run them as facebook ads so one example of a company that's doing that a lot is neuro if you've heard of neuro i'll link to their ads library in this chat so you guys can have it and they're a good one to like look at examples of because they're you know they're doing decently well sorry to make that chat giant um and also they have a really interesting mix if you look a bit at it of like 15 16 minute long
+
+7
+00:02:47,010 --> 00:03:03,950
+vsls and like six minute long ones right so for example say goodbye to a demon in your legs but apparently i didn't so one second should be off now that's up that's there
+
+8
+00:03:05,620 --> 00:03:35,170
+Say goodbye to edema in your legs. Try this trick tonight and see what happens. Here are three early signs of edema. One is random swelling that comes and goes, especially at the end of the day or after physical activity. Two, feeling of heaviness or tightness. Your legs suddenly feel like they're stuck in the mud. This sensation can occur even without any visible changes. And three, restricted range of motion. As fluid starts to accumulate, there may be a slight decrease in flexibility or range of motion. If that sounds like you, you need to hear this. This is the best way to relieve edema and swelling.
+
+9
+00:03:35,170 --> 00:03:47,010
+All right, we'll come back to this script in a second. What I want to show you real quick is find another one of these that I just had. Okay, so that was like, well, now I want you to watch like this one, right?
+
+10
+00:03:47,010 --> 00:04:16,300
+This is why people with edema are switching to this genius affordable device. Doing this can make your edema worse. Here's how to solve it. This is the truth many people don't know, but the truth that everybody should know about their edema. What if I told you edema and leg swelling are actually caused by your calves? It sounds counterintuitive, but it's true. You see, the calves play a crucial role in your blood circulation, so much so that we often refer to them as the second heart. Your actual heart sends blood all over your body, including your feet, but your calves are responsible.
+
+11
+00:04:16,300 --> 00:04:45,580
+for sending that blood back up to your heart against gravity. Now here's the problem. As you spend many hours daily sitting and as you continue to age and become less physically active, inevitably your calves get weaker. When this happens, they can no longer send all the blood from your lower body back to your heart. So some of it stays stuck in your feet. This buildup of old stale blood can cause edema and swelling in your feet and ankles, making it expand more and more, which causes your legs and feet to become swollen and stiff. It even gets to the point where...
+
+12
+00:04:45,580 --> 00:05:15,040
+Every step feels like they're about to burst, and your legs feel heavy, like they're stuck in the mud, making you unable to move. If that sounds like you, you need to hear this. This is the best way to relieve edema and swelling fast. It doesn't... Right, if anyone notices, like, if anyone's ever looked at, like, Golden Hippos, like GundryMD ads, right? Essentially, what they're doing in the model, you know, here for their medium-length VSLs is, like, a different sort of, like, hook or a quote-unquote micro lead that's going to bring you in a different way, right? So one of them...
+
+13
+00:05:15,040 --> 00:05:38,000
+The first one was like, say goodbye to edema in your legs, try this trick tonight and see what happens. And then they had this little hook of like, or kind of like the microwave of here are three early signs of edema, right? One is random swelling that comes and goes. Two, feeling of heaviness or tightness. Your legs feel like they're stuck in mud. Three, restricted change of motion.
+
+14
+00:05:38,000 --> 00:06:06,140
+If it sounds like you need to hear this, the best way to relieve edema is flowing fast. It doesn't matter whether it goes, and basically this is like where the start of like the quote unquote lead goes. And we'll get it more structurally in a moment. But this is the second one that you guys, that we just looked at and watched, right? So here it's like, this is why people with edema are switching to this gene supportable device. Doing this can make your edema worse. Here's how to solve it. And then it talks about calves and it's sort of like, and it educates a bit. Calves are like your second heart, which is kind of interesting.
+
+15
+00:06:06,140 --> 00:06:36,110
+And then it goes back to, if it sounds like you need to hear this, this is the best way to relieve a demon's falling fast. And so essentially, like the root of the sales letter, it's not formatted in this one, is going to basically be the same. But the, you know, the intros are just sort of like different. And they're testing that. The reason I like their ads library is you'll see they're kind of beasts about just testing tons and tons of different little hooks and openings, as are some of the other people in our mastermind who I know are doing.
+
+16
+00:06:36,110 --> 00:07:00,530
+pretty well and that's sort of like the format that is working best for most people today now we'll talk more about media buying formats you know some other call because again like what about youtube what about native what about you know whatever that's not we're going to focus on right here but i wanted to share these guys as someone you can go look at for their scripts and their different copy it's important though to also note like
+
+17
+00:07:00,530 --> 00:07:34,340
+you know, if you just swipe one, like we had a member kind of swipe them, but they just picked one video. And I really thought that that video wasn't very good. And so you want to kind of see like the different like hooks and then going back to the root of it. So if I have this up, which I'm going to pull up to here, and I'm going to have my little kind of structural thing here, and we'll go look at a longer VSL in a minute. And we look at like our simple kind of outline here, like, so to speak, right? So there's your hook or your micro lead.
+
+18
+00:07:34,340 --> 00:08:03,220
+your lead, your background, a discovery, often I'll kind of explain the context of that, the unique mechanism stuff, product build and reveal, close, and FAQ. So let's actually just go through this and look at this script. We're going to kind of go line by line, right? So again, micro lead, say goodbye to edema on your legs, try to start tonight, see what happens. Here are three early signs of edema, random swelling, heaviness, restrict the range of motion. Okay, that's your micro lead.
+
+19
+00:08:03,220 --> 00:08:28,880
+Now, here's the actual lead. And what we'll do here is I'm going to share all these things with you is like this is my more in-depth sales letter outline. And so we're going to go through each of these parts in a lot of detail over the weeks to come. Right. As far as like what the lead accomplishes, the background story, the unique mechanisms, product build and reveal, the close, and then like your FAQs as well. But for now, let's keep it really simple. Let's just look at.
+
+20
+00:08:28,880 --> 00:08:58,020
+OK, like what the lead and basically like the lead, I'll just say for now. Right. You're sort of calling out a pain point, promising a solution, creating curiosity. Right. Go more depth. Right. This is so, you know, if you're in pain, basically, this is the best way to relieve edema and swelling fast. Doesn't matter whether swelling is in your thighs, calves, ankles or feet. It doesn't matter whether you've been struggling for three months or three years, nor does it matter the size of your legs. Over 100,000 Americans use it to relieve edema, swelling and stiffness in their legs quickly and naturally.
+
+21
+00:08:58,020 --> 00:09:26,740
+This breakthrough solution has already become a total social media sensation. Hi, my name is Dr. Jeremy Campbell, and I'm a doctor of physical therapy from Chicago. I have over 10 years of clinical experience and clocked in well over 10,000 hours. Throughout my career, I've helped over 1,100 patients overcome all kinds of foot problems, lymphedema, edema, neuropathy, plantar fasciitis, you name it, I've seen it all. Anything from mild stiffness and swelling to people struggling with varicose spider veins to edema so bad.
+
+22
+00:09:26,740 --> 00:09:55,940
+You can barely recognize what part of the body you're looking at. It wasn't until earlier this year that I was truly shocked that I truly cracked the code to provide relief from edema. And I'll start with one breakthrough discovery I had. Okay. I'm going to come back to this in a second. So I want to double check one thing to make sure I'm not going to say this anymore. Yeah. Okay. Right. So if we look at it again, we had our micro lead here. This is a shorter VSL, right? So it's kind of a quick lead, right? Like this is a promise. It doesn't matter. Like, you know.
+
+23
+00:09:55,940 --> 00:10:23,780
+Hong, you've had the problem. Here's some social proof. Like, you know, this is gonna get you like, it's a very short like lead. So they go like micro lead, very shortly. People sometimes think their leads have to be a thousand words long. They don't always. One more social proof. If you go to here, background, credibility, origin story. Okay, well, here's the credibility. I'm Dr. Jeremy Campbell. I'm a doctor of physical therapy. I have over 10 years of clinical experience, right? I've helped a lot of people. Anything that you're dealing with, I've been able to help.
+
+24
+00:10:23,780 --> 00:10:49,460
+But then we get to this little discovery, right? It wasn't until earlier this year that I cracked the code to provide relief from edema. And I'll start with literally a breakthrough discovery, right, that I had. And then, you know, if you're struggling with these things, you know, you may have something called venous insufficiency. So we're talking about the start of a unique mechanism of a problem. Here we start it, right? Like, hey, if you have these issues, this is what might be causing it. This is the real cause of your problem.
+
+25
+00:10:49,490 --> 00:11:13,010
+It's a condition where the veins in your calves fail to send the oxygen-starred blood back up to your heart. This results in blood pulling around the area of your calves, feet, and ankles, which ultimately causes swelling, stiffness, and soreness. It can happen when you sit at your desk for too many hours every day, but it can also happen when you stand for too long as well. Your skin may feel like it's overstretched and about to burst any second, making every step heavier than the last, like your legs are stuck in mud. You don't have to keep using that line, right?
+
+26
+00:11:13,010 --> 00:11:42,000
+But you're not alone. Recent research shows that over 25 million individuals in the U.S. alone struggle with venous insufficiency and the number increases every year. But it's only half the answer. So they've got a two-part unique mechanism. And we're going to go deeper on all these things. I want you to just be familiar with the structure. Here's a little known fact that very few people know about, but everyone should know about their edema. What if I told you that the edema is swollen in your feet and legs are actually caused by your calves? That's right. Now remember, we saw the calves in that other hook too. They tested it there. That's right. Your feet may be perfectly fine.
+
+27
+00:11:42,290 --> 00:12:11,460
+Your calves are the problem. Let me explain further. Do you know that we doctors refer to calves as the second heart? That's because they play a crucial role in your body's blood circulation. You see, your real heart sends blood all over your body, including your feet. Getting your blood to go down to our feet is easy. It's like sliding down a slide. But getting back up, it's like climbing back up the slide. Your heart can't pull all that blood back up by itself. That's where the calves help with this big job. When your calf muscles contract, they compress the vein valves in your legs and push the blood from your feet back up towards your heart.
+
+28
+00:12:11,460 --> 00:12:37,790
+That's why we call the calves the second heart. They single-handedly maintain normal blood circulation in your lower body. Now, here's a problem that I don't see anyone talking about. As you sit for hours every day, continue to age and become less physically active, your calves get weaker. As they get weaker, they don't contract the way they used to. So the veins in your calves that are responsible for pushing the blood back up to your heart tend to weaken as well. This causes veinless insufficiency, as I mentioned earlier. When that happens, your calves can no longer send all the stale, old stale blood from your lower body back to your heart.
+
+29
+00:12:37,790 --> 00:13:04,450
+So some of it stays stuck in your feet and legs. Now, this buildup of old still blood can cause swelling in your feet and ankles, but can also lead to more serious foot conditions if left untreated. And by the way, this is a nice part here. One thing, and again, we're going to go into more detail. I keep saying that a million times until you're really annoyed with me. But I will say one thing here with a unique mechanism when you have that part. One nice thing that people can do is stopping to just sort of sum it up again. Right. So we just explained like the real cause of this problem you have. Right.
+
+30
+00:13:04,450 --> 00:13:33,500
+It's like venous insufficiency and it's actually caused by weakened calf muscles, right? Because they can't. And by the way, it's a good mechanism because we did talk about mechanisms before. So I'm going to assume you know a little bit about them. Like it's a pretty good mechanism because it's pretty easy to understand. It's like, you know, your heart pumps blood down, down your body. Your calves are supposed to pump blood back up. But if your calves are weak or weakened, blood can't pop up and pump up. Instead, it pulls in your calves and your feet and it swells, right? Like I literally just was looking at their stuff today. I haven't spent hours dissecting their copy.
+
+31
+00:13:33,500 --> 00:14:03,200
+But I'm like, okay, I get that. And that's a really good thing for a unique mechanism. Because another thing people try to do with unique mechanisms is they become overcomplicated. They start kind of talking about, like, one mistake people will make is, like, you know, your calves. Specifically, there's, like, you know, five muscles in your calves. There's these five muscles. And they interact with this tendon that's called this. And when this tendon happens, a hormone is active, right? People start trying to do way too much shit in their unique mechanisms, which you don't need to do, right? Even for a longer VSL.
+
+32
+00:14:03,200 --> 00:14:30,900
+You don't need to do that. Like, what you just need to do is like, make sure that it, that it is logical. It makes sense. And that somebody sees that and goes like, oh, wow. Okay. Yeah, I get it. Right. So if I have edema and I've got blood pulling to my feet and legs and they're all swollen, I got cankles and stuff, you know, I'm on one of those scooters at Walmart because walking is too painful. Like, you know, and I'm like, oh, wow. So my calf muscles aren't pumping blood back up. That's what's causing my edema. I didn't know that. Right. Like.
+
+33
+00:14:31,180 --> 00:15:01,070
+It's actually a really great mechanism for these guys. And then they sort of repeat it. So I said before, starting to see all of this fit together, weak calves cause your vein valves to weaken. Those weakened vein valves fail to send old deoxidated blood back up to your heart, which ultimately causes the blood to pull around your calves' feet and ankles, making your legs swollen and puffy and feeling like you're stuck in the mud. So it's like, again, they just sort of summarize that unique mechanism right there.
+
+34
+00:15:01,200 --> 00:15:31,090
+And also I want to note, I wrote this out before I even looked at the script. I just knew it would follow basically. I mean, I highlighted the first two parts of it, but it's like, I kind of just glanced that super fast. I'm like, oh yeah. Because basically almost every, especially any consumer product, you know, we'll talk in future calls really specifically about if you're doing, you know, info, high ticket, other things, obviously there's nuance, but for any kind of like consumer physical product, you're basically always following the structure. And I'll show you that example in a minute.
+
+35
+00:15:31,280 --> 00:16:00,820
+Most people don't even notice that they have these early symptoms. It's actually the leading cause of why people over 35 struggle with stiff and swollen legs and heaviness described as having legs stuck in concrete. While most of the wannabe solutions are trying to relieve swelling by focusing on the feet, they totally miss the fact that it's weak calves that are the hidden culprit. And that's also why popular remedies like compression socks, salt baths, and different pillows can't solve the problem. They don't focus on stimulating your calves at all and the vein valves inside of them. So if you want to get relief from edema in your feet and legs, and if you want to reduce the swelling, stiffness, and eggs,
+
+36
+00:16:00,820 --> 00:16:30,110
+You need to stimulate your calves and the vein valves in your calves to reduce the buildup of full blood in your calves, ankles, and feet. But how do you do that? So which part are we talking about now? We're talking about the solution, right? We just told them the problem. Like, well, if that's the problem, here's how you want to solve it. But how do you do that, right? And then this is where we're going to get into that part. Most experts will tell you that you need to move or even start exercising. That's great advice. Don't get me wrong. Physical activity does wonders for stimulating the vein valves in your calves. But let's be honest. When you struggle with edema...
+
+37
+00:16:30,110 --> 00:16:57,120
+and your feet are all swollen and painful, moving around, let alone running or exercising, is just not possible. So you end up in this vicious cycle of agony. Your legs are swollen and painful, and the best way to relieve it is to activate your muscles, which can only be done by moving around. But you can't move because your legs are painful and swollen, so your feet and legs continue to expand like balloons ready to pop. See how it works? That's why most people never really solve this problem and are stuck bedridden with painful oversized clown feet and legs their entire lives. Luckily, there's now a better way.
+
+38
+00:16:57,120 --> 00:17:26,640
+So which part do you think we're going to get to here? We're going to get to the product buildup and the reveal, right? So this is, you know, here's a solution, but you know, you can't, if the solution is like just walk and exercise, we don't have much of a product to sell, right? If the solution was for a supplement and you're like, oh, the solution's Ashwagandha, go buy it on Amazon, you won't have a product to sell. So what you'll notice, and we'll talk about this in more detail when we get to the mechanisms, is like one of the things of the solution, one of the underlook sections in the VSL is like after you share the solution,
+
+39
+00:17:26,640 --> 00:17:55,470
+you know, being really clear about why somebody can't just go get an out-of-the-box version of this solution, right? Like, why can't I just go buy it at Amazon? Why can't I just go to the gym? Why can't I just go buy different groceries or organic foods? You know, even for like input products, right? Why can't I just go hire a coach who's going to help me with this thing? Why can't I do, right? And we do explain that. And so that's what they're doing here with the, you know, why the solution, this is like the idea of the solution, but you can't just go buy an out-of-the-box version. But fortunately, our other out-of-the-box solutions, you can't go buy.
+
+40
+00:17:55,470 --> 00:18:25,140
+But you can't buy ours, right? Luckily, there's a better way. This is the quickest way to relieve edema and swelling in your legs. It doesn't require exercising. It doesn't matter how old you are or how bad your current condition is. It doesn't matter if you've already tried everything else with no results. The simple, affordable, doctor-approved bedtime ritual that you can do at home has the power to stimulate the vein valves in your calves and relieve the blood swelling if you let the air out of a balloon. It has nothing to do with existing solutions like compression socks, ovening your feet, using salt baths, or taking water pills. This is completely new.
+
+41
+00:18:25,140 --> 00:18:53,920
+Completely different and completely unlike anything out there. I didn't even know that the solution existed. But then one night while going through some old research studies, I went down a rabbit hole and stumbled upon a series of studies on the topic of neuromuscular electrical stimulation or NMES for short. And I guess you could almost argue this is a two-part UMS mechanism of a solution here because it's sort of like this is a solution as a broad idea. Here's like the actual like, you know, we're building up like how did they actually find the solution we're going to sell them, right? In this case, you basically found this idea called NME.
+
+42
+00:18:53,920 --> 00:19:23,310
+and MES. It basically was found to reduce edema, and results across studies showed what it does. So if I had to read the entire sales letter, it's like, well, what is MES? Well, basically, it works by emitting targeted low-level actual impulses that penetrate into your calves, place your feet on a pad made from a special conductive material, connected to a controller, and essentially, it just mimics this natural pumping of your calves.
+
+43
+00:19:23,310 --> 00:19:50,100
+and sends blood like about right and then we go to here okay i guess again maybe you could argue there's a two part to this again out of the box solutions aren't going to work they kind of do it twice in the sales letter which is interesting um right like basically most of these devices are not user friendly they include numerous wires unlock a user manual which makes the setup process a nightmare that immediately discourages you from using it um and basically there's a bunch of other reasons why they don't work right
+
+44
+00:19:50,100 --> 00:20:16,740
+So it got him thinking, this is really, we're getting to that final kind of like final push of the buildup, right? What if I could take the same groundbreaking technology that top doctors use to temporarily reduce the excessive swelling and put it in a simpler, much more affordable device that can be used by everyday people at home? This was a Herculean task. I knew I couldn't do it alone. I'm just a doctor. So I partnered with a US biotech startup called Neuro. And this is also a common format you'll see with like a spokesperson who's like,
+
+45
+00:20:16,740 --> 00:20:47,870
+you know, credible, but they're not the founder of the company. It's like, well, what if I could bring this to people? So I partnered with the company that actually did it, right? These guys are known for making some of the best pain relief devices that have helped more than 300,000 men and women across America. If my idea to make this technology available to everyone was even remotely possible, I knew that these guys were the ones to do it. So I went ahead and I got to work. This part here about the product buildup is actually quite important too, is like you do want, like we've tested this a lot with VSLs we've written, where like on a really short VSL, which we'll talk about, you know,
+
+46
+00:20:47,870 --> 00:21:17,340
+later, as I keep saying, but like, you know, you might not have a bunch of the struggle, but for anything mid-length or long-length, like having that sort of like, we tested a bunch of things, like we tried different stuff, like we had to go through a bunch of variations. Like that is a pretty powerful part of the copy. Like I kind of under, going back to being humble and continue to be a student. One thing that I've sort of found is like, I want to skip over this part and be like, you know, and I, you know, we created a device and here it is, right. Or for supplement, like I took all of them together, the ingredients, combined them together.
+
+47
+00:21:17,340 --> 00:21:45,090
+and have a formulation. And like, I've just found that does not convert as well as when there's a sort of like struggle of trial and error. And I guess it's sort of like the classic, you know, the innovator, like the myth of the innovator, the inventor tinkering in the garage, whatever, what have you type of thing. People just, whatever, like they respond to this idea, right? Of like, we meticulously analyze customer market data. You know, we built three prototypes. We share the prototypes like with existing customers.
+
+48
+00:21:45,090 --> 00:22:12,800
+They all worked, but they weren't good enough. So we created three more. They were better, but they were expensive. We kept repeating the same process, right? This is all bullshit, right? So, you know, take up a grain of salt. Obviously, if you can try to make it as real as possible, I doubt they really made like nine prototypes. But it's like, that story is so powerful. Like months pass by when they need to show for our work. This is one of those things where I think this is actually really important for those of you who already write VSLs. Like, I really think probably some of you do the same thing where you're like, I just want to skip through this part. Who cares?
+
+49
+00:22:12,800 --> 00:22:40,020
+But I'm telling you, people really care. Every good VSL, not every, but the vast majority that I've seen, including the ones that we've written in the last year or two years, when you really play this up, it just converts better. It's like a crazy part. So there's one takeaway from this whole thing for someone who's already writing pretty good VSLs is like having like this whole like trial and error. Like I wanted to give up, right? Maybe the technology wasn't ready. But this voice in my head said like, you know.
+
+50
+00:22:40,020 --> 00:23:08,780
+Don't stop. If we pull this off, it'll help thousands of people. It's so much. So we kept going, working around the clock. Another three months of 12, 14-hour workdays, we did it. We created compact, easy to use, and most importantly, an affordable device that leverages the same NMES technology. I think it's probably a transcription error there. Finally, I felt confident that we had built the best ally for battling Edema, an ally that doesn't judge or complain when it's available 24-7 at home, at work, or when you're out and about.
+
+51
+00:23:08,780 --> 00:23:36,530
+Giving you the confidence that the next time a Sunflare of Idema tries to hijack your day, you know it can be shut down within minutes. Introducing my brainchild, the NeuronMES foot massager. Okay, so now we're to the close, right? And what is the close doing? The close is really just going to tell you what the product is, why it's so valuable, why it's special and unique. Obviously, I already did a lot of that build up of valuableness in that product built and revealed section. But like, you know.
+
+52
+00:23:36,530 --> 00:24:05,310
+And then they're going to obviously give you calls to action to the price should be, tell you the guarantee and do everything they can to get you to sell. Right. For a device, it may be also some sort of technical specifications for a supplement. You might remind them of like what the capsules are made of. Are they vegan? Are they like, you know, like they have additives and fillers or are they natural? Like if it's a flavor, you know, really talking about the flavor. Right. Stuff like that. Like in this case, we're saying, you know, basically like a very clear summary of what.
+
+53
+00:24:05,310 --> 00:24:32,420
+the devices and what it does, right? Relieves swelling, stiffness, and pain in your legs, calves, ankles, and feet. We're talking about sort of features, right? We're talking about features and benefits, like the features here and tying them to benefits, right? It's made from a specific soft rubber design for optimal electrical conductivity, enhancing its effectiveness and comfort. It shows you the lines of kind of how to use it, which you need to do for a device, right? There's a made of a special silver and carbon threads, which are great conductive elements. And then...
+
+54
+00:24:32,420 --> 00:25:00,830
+Another great thing that clothes will do is a lot of future pacing, right? From the moment you put your feet on the neuro and MES foot massager, you'll immediately feel powerful electrical impulses spreading through your feet and legs. These impulses penetrate deep into your muscle tissue, mimicking muscle contraction. This rhythmic contraction and relaxation of muscle tissue pushes the pulled blood up your legs. Because remember, that's the real cause of your problem. So we're saying it very explicitly. This thing fixes the real cause of the problem. There are several clinical studies, right, showing that this helps, basically.
+
+55
+00:25:00,830 --> 00:25:29,020
+And with consistent use, it can help stimulate your blood circulation in your entire lower body, which can help reduce swelling and stiffness and allow your legs to function normally without limitations. No more struggling to find shoes that fit comfortably. No more shame because your legs and feet look like two balloons. No more pain and discomfort that keeps you trapped in your own body. I'm telling you right now, there's not a single aspect of your life that won't improve once you start stimulating your vein valves and your calves. And I want to just reiterate what I said about future pacing and sort of like another commonality I've really found with.
+
+56
+00:25:29,020 --> 00:25:56,110
+closes that do really well is like really taking time to continuously remind them of like all the ways their life will be better with this product right so like no more of these pain points and they're telling them what's going to improve everything's going to improve right your work life your social life even your marriage everything is better when you're not held back by edema pain and swelling and all it takes is 50 minutes per day to notice the difference um you know one that does a really good job of this is uh
+
+57
+00:25:57,070 --> 00:26:24,620
+Apple Lean, which is like a sort of ClickBank aggressive weight loss offer, right? That was like number one for quite a while. I have a transcript that I can share, you know, put in the Google Drive for you guys. Again, like, you know, aggressive ClickBank offer, but they had so much future pacing, both in like the lead and the close. It feels like almost excessive, but it's another thing that I've generally found is like the more dimensionalization, meaning like the more you're painting a picture of how much better life will be with this and like really like kind of.
+
+58
+00:26:24,780 --> 00:26:48,980
+taking your time there and really talking about like just yeah i guess the improvements and and really all different places and aspects where your life will be better uh it's another one was really kind of soft seeming things in a vsl that just seems to almost always improve the conversion rate um so you know in addition to like the the trial and error toil and struggle during the product build and reveal like you know
+
+59
+00:26:48,980 --> 00:27:18,800
+there's a limit to it. If you have like paragraphs and pages and pages and pages of dimensionalization and future pacing, you might be like getting excessive, but you do want to check in your clothes and in, you know, also the lead. Are you really painting a picture of like how much better life's going to be? And they go really hard in the clothes on this, right? I would go as far as to say that you'll feel the difference the very first time you try it. Your legs will feel better than they felt in years, right? Period. Now the best part, setting up as a breeze. Cause again, this is a product you have to talk about that stuff, physical like device. It's as easy as one, two, three.
+
+60
+00:27:18,800 --> 00:27:48,110
+They're telling you exactly how to use it. By the end, your legs will feel much lighter and swelling will go away for a while. Trust me, you will not just use it once a day. I guarantee you, once you get a taste of how good it feels, you will have the device on constantly. Like my mom. This is kind of like a testimonial. When they're not sending testimonials, he's mentioning his mom. She uses it for swollen legs at least three times a day. She absolutely loves it. She barely leaves the house without it. And that's another benefit. So again, more benefits. Like it's compact. You can take it out. But going back to that future pacing again, right?
+
+61
+00:27:48,110 --> 00:28:16,140
+imagine finally you're gaining control over your life again imagine feeling confident in your own body and being proud not ashamed of your feet and legs i also say you better get used to getting weird looks even from your close friends um well listen don't worry about it it can be intimidating for them to see you suddenly happy confident and comfortable in your own skin right it's kind of over the top it feels like almost as ridiculous it's so excessive but like you gotta think about the emotional state of a person who's got someone who's got like awful circulation and big ass like cankles and calves and like edema for like years like
+
+62
+00:28:16,140 --> 00:28:44,930
+They want to hear this, right? Like they want to hear it. I mean, hopefully the device works really well. I don't know. I don't have a DMS. I haven't bought it, but like, you know, you can pick your level of, of kind of how hard you go between the, and the pain. Right. But like, they want to hear this stuff. They want to be told that, you know, that they, like, we might feel cynical, but like for them, they're just like, they want someone to tell them like a voice of hope. Right. That feeling, that feeling is priceless. It's the kind, that's the kind of result I want you to experience. Right. It's already changed.
+
+63
+00:28:44,930 --> 00:29:14,400
+The lives of thousands of people start with edema, pain, and swelling. It can change yours too. So now, like I said before, we go into this price justification, like how much, well, it should cost tons of money, but guess what? It's not going to, right? Another commonality you see in almost every close ever because it just works. So just think about it for a second. How much is getting fast relief from swelling in your legs worth? How much is enjoying every moment of life that little bit more? How much is waking up every day in the morning and feeling confident in your body worth? $500, $1,000, $2,000? Kind of price anchoring here, right?
+
+64
+00:29:14,400 --> 00:29:42,370
+Well, I have some good news for you. All of this can now be experienced from nowhere near this price. And even though many other industry specialists told me to charge at least $400, I refused. This isn't about money for me. This is about hundreds of thousands of individuals who could benefit from this device, including you. All I care about is getting this device into as many people's hands as possible, as I know their lives can drastically improve. I won't add a massive markup to this product, as most in the health industry do. The last thing I want is for the price to stay on the way. To ensure that everyone in need has a chance to get their hands on a Neuro NMES foot massager.
+
+65
+00:29:42,370 --> 00:30:12,320
+My team and I decided to run a special offer that's only available through this link. By clicking the link below this video, you'll be taken to a special offer page where you can get your very own NMES foot massager at a massive 50% discount. This is the lowest price that we'll ever offer. You won't find this offer on our official website. It's only available through this link below the video. So click the link now and get your very own NMES foot massager while we still have some left. We've been working around the clock to create enough NMES foot massagers to cover the overwhelming demand. I hate to admit it, we're constantly failing on that.
+
+66
+00:30:12,320 --> 00:30:38,720
+Demand is growing too fast, right? So it's now like buy more, AOV money close, like urgency. I guess not buy more of this one, but urgency. It's going viral on social media. Word is spreading. Every day over 100,000 individuals starting with pain and swelling come to our website looking for affordable solutions to work. At this very moment, as you're watching this video, we have almost 1,000 people live shopping on our website. Obviously not compliant, but you know, whatever. This makes our stock run out quickly every time we get a new shipment.
+
+67
+00:30:38,720 --> 00:31:04,960
+If you've seen this video, it means we probably have some massagers left in stock. Otherwise, we would have taken this video down. Unfortunately, we cannot guarantee how much longer. We may sell it tomorrow or even today, so stock up is a smart option. And let's be clear, the NeuroNMES foot massager will never cost less than this again. It's only available online. And so basically, you know, I don't have to go through the whole close on this one because we're going to close more deeply. One important thing is they do get to the guarantee, right, which is always in there, assuming there's a guarantee.
+
+68
+00:31:04,960 --> 00:31:34,190
+They do mention their customer service stuff, including their phone number and website, which I think is a nice touch, makes them seem more trustworthy. And you've got these called actions, right? Click the button below. You'll get this discount, right? Click the link below this video. Click the button now, right? So much urgency. All right. I know I just firehosed the shit out of you all with going through pretty much a whole mid-length VSL. But I wanted to do that because I want to share some insights and also going back to sort of like this basic structure.
+
+69
+00:31:34,190 --> 00:32:03,700
+Now you could argue for this one, the UMS was sort of like a lot longer than some UMSs are. And by that, I mean, like, again, it was sort of like, here's the solution, but most solutions don't work. Like frankly, I kind of probably thought the product built and revealed was earlier than it was. It's probably like, that's still part of why like the out of the box solution didn't work. And then I sort of, they discovered a more specific solution, but out of the box solutions really still didn't work. And then they had to build their new one. Right. So I probably, that's more of the structure of this. So it's not like the perfect, like.
+
+70
+00:32:03,700 --> 00:32:36,460
+There's a little bit of deviation here, but in general, most of these parts were really similar. And to show you all what I'm talking about, for UMS, for example, now that you know the real cause of the problem, I'll make this bigger, this is a real solution on a macro level, right? It's logically connected to the problem. Once they have the macro solution, in this case, like, oh, you got to stimulate the calves. They have to dig deeper to prove the theory. In this case, it was like they had to go find the EMS technology.
+
+71
+00:32:36,460 --> 00:33:03,680
+and backed by credibility improvements, right? Well, here's some studies, citations, what have you, right? And then I have this here, right? Now that the avatar knows the solution, he looks for an out-of-the-box version. This is an outline from like eight, five, six, seven years old, whatever it is at this point, but it's still basically the same outline that everyone's using. So when we talk about things that don't change that quickly, like formats change, but the structure really hasn't changed, right? They go look for an out-of-the-box version. The out-of-the-box version is flawed.
+
+72
+00:33:03,680 --> 00:33:30,880
+has to do it themselves. We're creating a solution, working on it, testing it. There are problems and setbacks, but eventual success and breakthrough. Often like proof product works and others are asking for it. In this case, we didn't quite have that. Product is born, right? And if you look at my clothes, I think we're going to go in a lot more detail, but like product details, right? What's included? What makes it special? Discuss and dismiss other alternatives. Expensive and effective side effects for quality improvement. Keep playing with the value.
+
+73
+00:33:30,880 --> 00:33:59,020
+Usually testimonials, how to use the product, right? You saw that in this one. Scarcity, demand is high, price justification, other things cost a lot more money than ours. This is better, right? I can get for a bargain. If you're trying to get people to buy more, the best customers, the smartest customers are buying multiple ones, call to action, right? There's a guarantee in there. And then sort of like, these are, we'll talk about a bit more detail. And then often FAQ, they didn't have one in their video.
+
+74
+00:33:59,020 --> 00:34:29,940
+basically like i just want you to see right now that the structure is pretty much always the same i have a question there damien i'll take a breath in a minute and answer that right that structure is generally like really like the same structure just every single time especially for anything physical and there's nuance which we're going to talk about in previous sessions but um you know like basically what you'll you know what i what i see let me show you guys what i see sometimes i've talked about a little bit
+
+75
+00:34:31,120 --> 00:35:00,580
+where things go awry so to speak and i'll make this bigger and i will answer questions uh and give me a second here right i'll see like hook micro lead lead uh you just call it ump number one now i know sometimes there's exceptions i know that that one cav version we saw talked about kind of the mechanism in it okay but generally like you know this um lead like two uh background like uh random facts that are somewhat
+
+76
+00:35:00,580 --> 00:35:37,300
+related to pain point discovery more background story and unnecessary details you know UMP that's sort of like seven ideas slash reasons why pain point exists you know UMS like UMP like
+
+77
+00:35:37,740 --> 00:36:06,980
+Another random idea or reason for pain point, like random quiz or assessment. If you have this problem, more UMS, maybe more story, right? Like the point is, I know it seems like silly, but like, I will see a lot of VSLs that have these structural issues like this, where it's like, basically, you know, they, they, the whole point is like, if you look like a straight line,
+
+78
+00:36:06,980 --> 00:36:31,730
+versus like a zigzag, right? And so sort of, if we look at the ideal here, you know, in general, you're sort of going beat by beat by beat on like a straight kind of path, right? From point A to point B. You know, again, you could argue this one does that, gets the UMS and sort of does like a little thing like this, but it's really still within the range of like, it's still kind of like follows the broader template that I talked about. Whereas I do see people that kind of like,
+
+79
+00:36:31,730 --> 00:36:57,650
+don't look at the structure don't follow it and they start just going all over the place right like they'll kind of again they'll share some of their story then they'll sort of kind of start explaining the mechanism they'll start sharing more of their story again then they'll go to like you know more of the mechanism then they'll kind of be like oh and here's like five signs of like whatever and they'll come over here and it's like you know it's hard to follow and like you're not taking the person on like a guided like journey so to speak right um and so
+
+80
+00:36:57,650 --> 00:37:26,000
+The more closely you can generally follow this beat by beat structure, the better it's going to be. I have another example in a second. I'm not going to go through and read that whole VSL out loud, but I'll come to it in a minute. But let me go back to the question. So Damien said, if the product has a really big objection, which comes naturally to people that are not switching aware, should you address it before the close or in the FQ section or should you address it at all in the VSL and talk about it only on the landing page?
+
+81
+00:37:26,190 --> 00:37:56,210
+I mean, Damien, is it okay if I share more specifics about what you're saying with your guys? We're talking about like the hydrogen thing and water, right? Yeah. Right. So say there's like a device that is going to like essentially increase the hydrogen level and water. And by doing that, it's going to hydrogen is like an ultimate antioxidant. So basically it's going to like you run the device, the water becomes like.
+
+82
+00:37:56,210 --> 00:38:25,410
+super, yeah, hydronate, or just a bunch of extra hydrogen, molecular hydrogen, right? So the objection that Damien's kind of referring to would be people being like, oh, well, there's already hydrogen in water, right? And so like, why don't I, this must be bullshit because I don't need a device to put hydrogen in water. And then the answer is like, well, the hydrogen is attached to oxygen and there's actually not that much hydrogen. This is sort of like, basically, I forget the complete mechanism, Damien, so I might make this up a little bit, but essentially like,
+
+83
+00:38:25,410 --> 00:38:52,340
+separates it or it's adding way more hydrogen in a pure form so that you're actually getting all the antioxidant benefits of hydrogen. Water happens to be like a vessel that can carry it, so to speak, right? Like we have on the e-commerce stuff, like sort of like, you know, water reimagined and different ideas and concepts there. You know, or why the H and your H2O is not enough, right? So if I'm talking about where would I address that in this format, I would actually probably address it.
+
+84
+00:38:52,370 --> 00:39:20,690
+in the ump right i'd probably like be like here's the problem right like um like like you know sort of like the answer is like hydrogen um anyway and you know it's specifically like hydrogen you can get from your water whatever it is but here's the problem like the hydrogen in your water is not enough right and here's why i'd probably kind of be explaining it like just right in here to be completely honest with you um because you do want to it's a big enough objection you want to address it and it kind of would tie into the ump anyway you're saying
+
+85
+00:39:20,690 --> 00:39:48,080
+hey, the problem is that you need more hydrogen or whatever, depending on what the argument is. But basically, you might think water, but water's not enough. Here's why. So you need a different solution, a solution that does these things, and then go on from here. And you can always address it again in the close and FAQs as well. But I would actually probably address it right in the UMP. So I don't know if that makes sense. But yeah. Tasos had asked,
+
+86
+00:39:48,180 --> 00:40:22,380
+In case of supplements, when do you reveal the ingredients during the product buildup or in the UMS? Yeah, great question. We will look at some specific examples of that. Typically, it would be in the product buildup and reveal. Actually, no, I lied. Typically, it would be in the UMS. So it would actually be like very analogous to in this newer one where they're like, let me see here. So basically, they're going to say here where they.
+
+87
+00:40:22,380 --> 00:40:52,190
+uncovered an mes right and a similar concept of being like okay so we're gonna try to you know do xyz thing you know your body needs this thing whatever it is well like you know then i found a solution right what was it well like i you know came across you know these studies talking about this like weird you know this like unexpected herb that you know like uh you know himalayan herb or this unexpected uh you know like nutrient that's found like in you know deep sea krill or whatever you know the different product is
+
+88
+00:40:52,190 --> 00:41:18,320
+And I was shocked to see that a bunch of studies that show that it can do exactly this. They do hair growth, right? So it can help, you know, it simulates hair growth and can actually, you know, fix where the problem is. Your damaged follicles, your sleeping hair follicles, whatever it is, right? Here's some proof about this ingredient, blah, blah, blah, blah. Wow, like that was, you know, I was like shocked. And actually, I was even more shocked when as I did more research, I discovered that there's, that was just one of several ingredients that actually can do just that. For example, there's this ingredient.
+
+89
+00:41:18,320 --> 00:41:48,260
+and you know here's some studies and this ingredient here's some studies and this ingredient here's some studies right um and they all work together to like do this thing that simulates hair growth right now the problem is uh you know you know you basically can't just like i want to go see you guys buy these on amazon but the problem is like most supplements don't have enough of like you know are low quality or they don't have the right form of this or you know they're not all combined together i don't know where they're coming from and so i realized you know i would need to kind of like
+
+90
+00:41:48,260 --> 00:42:17,200
+formulate something on my own. So, you know, whether it's if they formulate a grade or I partnered with somebody, a company, we start working together, talk, build and reveal, struggle, all that kind of stuff. Right. But that's where you would. So it's in that UMS, but it's actually when you really zoom out and just think about the stuff is really structural and like sort of the different pieces, then you realize that it doesn't matter in a way. And that's actually why AI is good at pretty, pretty good at writing copy, because it's the same thing like AI could just replace, you know, this with ingredient. Right. If you have the right commands.
+
+91
+00:42:17,200 --> 00:42:54,420
+Because it doesn't really matter what this is. It's like, this part is just the part where it's like, I found the solution, you know, specific solution here is studies, right? But let me know if that answers that one, Tasos. Hopefully it does. And then John said, do you find in certain promos markets, you're intentionally going deeper into the UMP, UMS, mechanism of delivery product itself? How would I answer that? I mean, I'm trying to think of where I would go really like go deeper into the UMS.
+
+92
+00:42:54,420 --> 00:43:25,470
+To me, this is a pretty ideal UMS. I'm trying to think when I would need to go deeper for anything direct-to-consumer health-related. I really think most people probably make the mistake of trying to go too deep with the UMSs. I've been guilty of that before. Sorry, UMPs specifically. I've been guilty of that too. I try to explain too much science. People care. They want to know the real reason, but they don't need you to peel back the onion in three or four or five different layers.
+
+93
+00:43:25,470 --> 00:43:58,900
+They really just need you to appeal back enough that they're like, okay, this makes sense. I never heard it before. And so trying to be like a market where I can't, I'm having a hard time thinking of a market where I really need to give me any specific examples. Yeah. Maybe financing. I'm really talking about direct to consumer and physical. Well, I'm talking about physical products really, especially for today. But yes, finance, finance is a little bit different. We'll talk about finance in a separate call. I think like a financial letter. But even then, I don't know that like, it's really.
+
+94
+00:43:59,600 --> 00:44:31,890
+on the problem side going deeper i don't know finance is weird of mechanisms we talked about that a little bit on that call that that nick was on um the mechanism of delivery i think the mechanism of delivery yeah i mean if it was like you know if that like for example if you're selling like a commodity product like sell you're selling turmeric or um you know something that is kind of you know more fish oil whatever it is right and then you know you might need to talk about but but it's in like a liposome
+
+95
+00:44:31,890 --> 00:44:59,760
+laposomal encapsulation it's got special fat like cells that are encapsulating the molecule fat molecules that are encapsulating the molecules of the fish oil and survive stomach acid and it's going to be able to go and be absorbed more directly into your bloodstream which means you know like that it's actually like you know you mean you might have to then at that point go deeper into like the delivery mechanism um but that's really usually the case if there is if there really is a special delivery mechanism um
+
+96
+00:44:59,760 --> 00:45:28,270
+And usually that would be like, again, if you're saying it's sort of like a commodity, but like one of the big selling points is that there's a special delivery mechanism. That makes sense. Okay. Everyone's got questions. I'm going to show one more quick example of like a 35 minute one, but we won't watch all 35 minutes. I just want to show you the start of it here. And, you know, as I keep saying, we're going to, in future calls, go really in depth into each of these sections. So if you feel like not, it doesn't have to all magically click.
+
+97
+00:45:28,270 --> 00:45:56,340
+They're like, oh, I completely get everything about a VSL, right? And like the 40 minutes we were talking about it. That's why we're doing this over several weeks. And I'm going to provide all these resources to you. But any other questions before I jump in? Yeah, John, it's a quick one. Do you find that in SUPS, your big idea usually comes from the UMP? Usually, not always, but usually. We talked about the big idea stuff a lot. I can't remember if you're on those calls or not, but if not.
+
+98
+00:45:56,340 --> 00:46:28,050
+those would be worth like going back and watching some of the ones we did back in april on big ideas um like if i think about like because i mean to that point like what is like the big idea of this one is probably like that your calves are actually you know like your calves are like your second heart and they're supposed to pump blood back up into your body but they're not right but that's really basically a unique mechanism as well so in this case like yes but
+
+99
+00:46:29,330 --> 00:46:59,500
+You know, if I think about that, I wrote that stem cell, stem cell restore offer back in the day. And it was this idea of like, it's like a time capsule in a bottle, right? If you could go back in time, find a time capsule, be buried in a kid. And like, you'd have all these memories of your youth. And it's sort of nostalgia. The big idea was like nostalgia. And that was like, sort of like, well, here's a way, a new breakthrough that's like a time capsule in a bottle, right? And so it was kind of like a metaphor, big idea.
+
+100
+00:47:00,560 --> 00:47:28,050
+So I'd say usually, but not always on that. But usually, yes. Any other questions? Stormy AF here. We have a giant rainstorm that's staying over Florida for the next two days. So it's going to be great when I'm picking up my daughter later, driving in the flood. All right. Let me show you another quick example of this, of a similar structure. This one will be a Beverly Hills MD1, right? And Armin is on the call. I think he's the one who sent to me first.
+
+101
+00:47:28,050 --> 00:47:50,660
+I'll open it. We'll just watch the first, like, couple, like, minute or two of it, three minutes, and I'll show you the transcript after that. Does your skin pass the pinch test? Let's try an experiment. If the skin on your face looks loose and wrinkled or just seems to hang lower than it used to, here's what I want you to do. Use two fingers, pinch the skin right below your knuckles for about six seconds. Okay?
+
+102
+00:47:50,660 --> 00:48:17,730
+now let go if it stays puckered or doesn't flatten out right away then the sagging you see up here is likely caused by an internal issue and believe it or not this is actually good news because it also means you don't need a bunch of expensive creams to help tighten its appearance really in fact you may even be able to get better results without them now i know that sounds counterintuitive but as a scientist this is one of the best tips i can give you so if you want to help your skin look more lifted and actually see a real difference
+
+103
+00:48:17,730 --> 00:48:39,860
+let me show you what i recommend doing at home instead hi my name is dr john lakey and in the next few minutes i'm going to reveal what's really making these so-called super agers look so young and the one anti-aging scam you should never fall for is if you're a woman who's currently between the ages of 35 and 89 i encourage you to pay close attention
+
+104
+00:48:39,860 --> 00:49:09,120
+Because I'll also show you a scientifically proven way to help transform your own appearance just by doing one very simple thing every morning. So basically, this one, which again, I've got linked to, it's like micro lead is the pinch test. And then it's like the start of the lead with like, hey, I'm gonna show you this one thing you should do every morning, right? All that kind of stuff. I saved this one. Now, of course, I got it here. If I have it, is it here? I'm gonna go find the transcript so I can show it to you guys.
+
+105
+00:49:09,120 --> 00:49:41,570
+Give me one second while I do that. I'm going to turn off my screen so I can go figure out where I put that one here. If anyone has a question while I'm finding the copy of this I just had, let me know. Yeah, one question. Go ahead. So after the micro lead was over and then he got right into the lead, it was like, in the next few minutes, I'm going to share with you this. And then I'm going to share with you why you shouldn't fall for this. And then I'm also going to show you this. It was kind of like a three-part almost what's in it for me, you can call it. Do you think that's like potentially?
+
+106
+00:49:41,570 --> 00:50:15,220
+causing an issue with having one big idea or do you think that's fine to do in leads yeah that's a good question um it's kind of like promising multiple things i i would generally prefer one big idea to be really honest with you but then like right after the lead i'd prefer one big idea and then right as you get towards the end of the lead that's where i would generally be like and also you're going to see how this thing and why this is whatever right because then but the way i've described in the past is like sort of like hooks right you've got your sort of one big hook
+
+107
+00:50:15,220 --> 00:50:45,780
+that you're hoping is going to the fish is going to bite onto but then at the end of the lead you sort of put these other little hooks here that are different so for some reason they sort of swam by your first hook one of these other ones kind of makes them go up and nibble right and so the idea of having a couple of different uh like hooks is actually not you know it makes sense but i generally personally would probably focus on like the one thing that is sort of like the one cause the one thing i'm going to reveal or share right um you know i do think i guess there's sort of like a like a
+
+108
+00:50:46,700 --> 00:51:14,500
+an opposites kind of component where you can be like, you know, here's the one thing you should do. Like the idea, I'm going to show you what you should never do. And the one thing you should do instead, that's still sort of like one idea. So like, I don't hate that, but I wouldn't then be like, plus you're going to see this and this and this and this. I wouldn't do all the other stuff. Right. Because then you're sort of like the point of the lead is like, you call it the pain point and promise the solution. So saying like, I'm going to show you like the real cause of this thing, plus a ritual that, you know, gives you the outcome you want. Like to me, that's not really multiple ideas.
+
+109
+00:51:14,500 --> 00:51:44,670
+But you can look at it. Let me show. OK, so I'll make sure this is added to the folder as well. It wasn't, which is why I was struggling. OK, so you've got your pinch test here. And then here's the lead, right? I'm going to reveal what's really making these so-called superagers look so good. Because obviously, this is like you can tell they tested a new hook, right? Because there's no mention of a superagers thing up here. But it didn't really matter, right? And the one anti-aging scam you should never fall for.
+
+110
+00:51:44,670 --> 00:52:13,330
+So I should say, if you're a woman, because this is from YouTube, between these ages, pay attention. Also show you a scientifically proven way to help transform your own appearance just by doing one very simple thing every morning. Notice nothing to do with skin creams or cosmetic procedures. Does it require any type of fancy gadgets? It's something you can do right at home in less than a minute. You see the method I'm going to show you actually stems from a scientific discovery that was made years ago. Most women still don't know about it because, well, for one thing, it's not exactly profitable in the commercial beauty industry.
+
+111
+00:52:13,330 --> 00:52:44,940
+And second, initiative is believed to only work on men. We'll talk about that at the moment. But I think, you know, if you actually look at it from that context, I mean, I think the super agers thing, like, is this because they were sort of, I mean, it's probably just an editing thing that they did this, right? Because if I were going to do it, it'd be like, you know, Dr. John Lakey in the next few minutes. Yeah, I'm going to reveal like, you know, the number one thing, you know, whatever it is, right? Like basically something that was congruent and tied into the micro lead.
+
+112
+00:52:45,780 --> 00:53:11,490
+And the anti-aging scam you never fall for, I mean, probably they tested that as an initial hook or something like that. But like, that's the thing where you can kind of go down towards the end, right? I'll also reveal the number one anti-aging of the lead, like the number one anti-aging scam you never fall for. So I'm with you. It's probably a few too many ideas. But then if we get to like sort of, I'm going to show you this scientifically proven way to transfer your appearance by doing one thing. And you're going to see how it stems from...
+
+113
+00:53:11,490 --> 00:53:45,300
+you know the scientific discovery that that to me is fine because you're having a lot of curious having everything feel curiosity inducing is good um but yeah maybe like the scam thing i moved um but then if we just go for a second uh right now we're like here's the background part and we'll look at this in more detail uh future call right let me introduce myself again dr john lackey co-founder of this beverly hills plastic surgery group um we treat all these people but then we're going to talk about sort of like uh
+
+114
+00:53:45,300 --> 00:54:15,140
+you know, call to action, right? Where it's sort of like, if we go back to, you know, the origin story, right? Like, it's like, okay, like, you know, I'm here, here's my credibility. I knew I had to, I found this thing I had to share with people. And then it's often what they do is like, it all started with a woman who came to my clinic and had problems, like Linda, right? I feel like it's often, we used to joke that it was John for guys, like, you know, John dies at the end, because always be like, oh, John didn't know that he was going to have a heart attack that night. I feel like I see Linda a lot.
+
+115
+00:54:15,140 --> 00:54:44,000
+I think Linda's even in one of the templates that I've done for auto, the auto VSL stuff. But for these white hat ones, for example, Impact Brands, right? He's one of our members. There's stuff with... I forget the name of their doctor's spokesperson. It's basically that structure. Oh, I've done all this stuff, but then somebody came into my practice having this problem. And then basically what you're trying to do is build rapport of the problem she had is the same problem as the prospect has, right? And it's like...
+
+116
+00:54:44,000 --> 00:55:13,360
+all right, we got to figure this stuff out. Right. And so then there's sort of like, it goes into discovery and you'll go into more structure later, but basically like this is going to have a pretty similar structure and I'll provide more and more swipes as we're going through everything. But today, the biggest takeaways I give you a few little nuggets is like really just keeping in mind this basic structure when you go to write and not deviating and looking at your current VSLs, if you're deviating all over the place, you're not good. And I wanted to show like a 16 minute VSL with that new row one, because
+
+117
+00:55:13,710 --> 00:55:43,570
+Again, people often think like, well, I can't, you know, what about for a shorter VSL? Like, you know, for a 30 or 40 minute or 50 minute VSL, that makes sense. But, you know, as you hopefully saw from the Neuro example, like you can actually fit all of this in and then some into a 16 minute long VSL. And I want you to know that even with that 16 minute long VSL, the clothes you looked at still weren't really heavy on all that dimensionalization, you know? Like, I wonder if I can find this real quick. Let me see one more thing. You know, if you got to go, that's the main things, but I'll rip for another minute here.
+
+118
+00:55:43,570 --> 00:56:20,450
+I think this is the Appaline DSL. Right, so this is that Appaline one, which I'll also add a copy of into the swipe file. And it's like a copy so I can, I have another copy of it somewhere else, but let's make this copy. Okay, so this is like annoying. I think I have a better version that's formatted. Again, super aggressive, like, you know, suddenly dissolved 62 pounds of thick, wobbly fat. But I want to talk about the dimensionalization I said. So first of all, in the lead, right?
+
+119
+00:56:20,450 --> 00:56:48,350
+From her butt, hips, arms, and face, going from this to this, her waist so tiny that even the clothes from her 20s were too loose to fall off her hips, as she slipped in the sexy skin tight dresses, relieving her back in hip pain, scotting her energy and confidence, her family and friends, I guess it was in awe, her tone, awe of her tone, cellulite-free body, begging to know her secret. It's not just Sarah. Her husband and Zach did the same thing. He woke in shock as he dropped these pounds.
+
+120
+00:56:48,350 --> 00:57:16,980
+had rock-hard abs, could eat all this stuff. Maybe you're feeling skeptical. And basically, the point I'm trying to make here is how much dimensionalization. So there's all the speakers here. Every day I get notifications of how this works for them. How will you feel when it works for you? Imagine no more worries about people laughing and joking behind your back because of your size. No more stress or depression over what your husband or wife really thinks about your naked body.
+
+121
+00:57:16,980 --> 00:57:45,810
+but it's too scared to tell you. No more anxiety about sudden heart attacks, strokes, or diabetes. Instead, you'll be eating what you want with no guilt or shame. You'll be active again, traveling, gardening, playing for your kids and grandkids. Joints will be smooth, hair thick and strong, skin glowing and refreshed. Because this five-second ice trick targets the biological root cause of your belly fat, once the fat's gone, it's gone forever. So no more worrying about jumping between skinny and baggy pants. Like it's sort of like kind of gnarly when you look at it, you're like, God, they just really keep going. And I don't think we all need to do that, especially not for like a 16-minute or like mid-length BSL.
+
+122
+00:57:45,810 --> 00:58:15,310
+It's not like you have to go for paragraphs. You'll be amazed when you see it. But this thing absolutely crushed. And it's sad because it's black hat. That's the thing you can learn a lot from black hat, really aggressive stuff. And some of our members do more aggressive stuff. I don't write aggressive shit anymore, but I'm morally agnostic. I'm not my place to judge. I don't care. But the point is, even if you're like, I'm wildly offended by even looking at something that says you can lose 62 pounds. It's like, cool, but you can still learn from these VSLs. Because again, there's...
+
+123
+00:58:15,310 --> 00:58:45,090
+for every one weight loss black hat VSL that, or whatever you call it, gray hat, whatever, that does like, you know, $20 million a month for a period of time, like this one did, right? There's a hundred or a thousand others that all made even more egregious or more aggressive claims that never did this. So like, okay, what's the difference, right? Why did that one work? It's not just because of the big claims because all of these aggressive VSLs have big claims. And if I analyze that, like, right, one of the biggest things to me is again, like all that dimensionalization and future pacing. So that doesn't mean,
+
+124
+00:58:45,090 --> 00:59:13,140
+that you want to go overboard and spend forever on it but does mean like okay like that's an important aspect right and then if i go down to the closed which i have another format of it i think i just formatted better somewhere um you know he's like talking about apple and it's unique um i'm gonna introduce you to apple right here right and it's sort of like you know it's unique it's great um it feels like you're cheating at life uh you know it's really powerful
+
+125
+00:59:13,140 --> 00:59:40,560
+It's time for you to finally get the slim, sexy, this isn't right on the clothes, body you've been dreaming of and you deserve. Close your eyes and imagine that for a second. Imagine calmly walking into your favorite retail store, spending hours inside the dressing room. Every outfit you try wraps around your tight, toned body so perfectly. You can't help it by the mall. You can't help it by the mall. Imagine seeing the happiness and pride in your kids' and grandkids' eyes as you play with them for long hours on end with endless energy surging through every cell in your body and no discomfort. Imagine hearing your friends gasp, jealous.
+
+126
+00:59:40,560 --> 01:00:08,740
+of the amazing changes you've made to your physique in such a short space of time, thinking you've cheated somehow, or seeing your husband or wife look at you with lust, complimenting you, wanting you and your body again, and doing all this about dieting or skipping a meal. Really let yourself feel what it would be like. Doesn't it take your breath away? And then, doesn't it take your breath away? And tell me how much it would be worth to never deprive yourself of your favorite foods, to never burden your family of worries about your health, to feel how much fun life can be and what you've been missing, right?
+
+127
+01:00:08,740 --> 01:00:42,480
+goes in that price justification there um and so the point is again like uh even down here right like after he goes through the price stuff like he just sort of keeps like uh the author just keeps like dimensionalizing this stuff here like more later on um and switching the clothes right like sort of like they just keep going with like pain up here this is all still in the clothes or they're like kind of just dimensionalizing dimensionalizing so the point to me is like again it might feel over the top like it might feel like excessive
+
+128
+01:00:42,480 --> 01:01:15,520
+But it's also saying when you sometimes you want to test that and be like, is it excessive or do I just sort of feel like because I'm not the market. So I feel like it's excessive. Right. So it's interesting there. Damien, do you recommend using these mini conspiracy big farmers? I want you to get well sections in the lead. I feel like they are so overused. People can smell the BS whenever you see them now. Yeah. I mean, plus they're not really compliant. Technically, like they're more of like a red flag thing for like Facebook and stuff. So I don't really farm on it type of thing. I personally don't really use them.
+
+129
+01:01:15,520 --> 01:01:45,170
+um you know you can test it right i don't go back to what i just said like you know they're still in a lot of offers so maybe it works but i to me i don't think that the big pharma doesn't want you to know it's really like an important part of the lead to be honest with you um so yeah i don't think you have to use it and tasso said i noticed that the neuro vsl is not so story intensive compared to 30 40 minute vsl the story wasn't a huge part of it what are your thoughts on this yeah i mean i think that it
+
+130
+01:01:45,390 --> 01:02:17,360
+It depends on who the spokesperson is, I think. Like, I do think it's kind of like, if you can throw in a thing about sort of like, you know, one of my patients, like Jill or Susie or whatever, right? And she had these issues. Like, I mean, I think it doesn't hurt to have that thrown in, but it's not like, it's not like, I mean, I think the days of the really like crazy emotional story of like, mommy, where's your hair? And like, I felt like a dagger go through my heart. But you know what I mean? Like, I think like those are kind of played out for the most part.
+
+131
+01:02:17,360 --> 01:02:46,510
+especially for, you know, when you're running on Facebook and stuff. So I think it's sort of like, you can still have a little story in there. I think that can actually work well, but to me, it's like a couple, like five to seven lines, right? It's sort of like, you know, somebody again, like patient came in or I saw somebody, she was way upset by hair. She was like, I feel like I'm doing everything right. But, you know, my hair's, you know, I'm shedding more hair than my dog or something. And like, I can tell how, you know, upset she was and I wanted to find a solution.
+
+132
+01:02:46,510 --> 01:03:21,710
+Right. And that's sort of it. It's just like a little part of it. So, you know, I think if you can work something like that in, it's, you know, can still be effective, but it's not like you have to go back and tie it in again. It's not like a whole, that part of the hero's journey, especially for the mid-length ones, I don't think you really need, like it doesn't have to be, or it doesn't have to be long. And when I just got a question, hopefully again, hopefully I didn't overwhelm you on this first call, but I wanted to kind of, again, just look at examples and look at the structure and then we can zoom in more.
+
+133
+01:03:21,740 --> 01:03:50,270
+cool good to hear that army i'm glad this was great you're welcome all right well that's good i'm glad too because i mean honestly i thought about kind of talking about the outline and the structure but not showing examples but i'm like i feel like it's always better when you just sort of show examples and talk about them because then you can really like actually see it so glad that that was good all right sweet well next week we'll continue on sorry steven do you mind if i did ask one quick question i realize you're kind of about to sign off but i just thought it was um
+
+134
+01:03:50,270 --> 01:04:18,530
+And maybe there's something you could touch on later, but like format or like how to synthesize the mechanisms in a shorter version of a VSL, like the 12, 15, 17 minute ones. I know I just was working on that with you for the first time. And typically the stuff that I write is way longer form, like 30 minutes, 40 minutes. Yeah.
+
+135
+01:04:18,530 --> 01:04:50,290
+So it's like, is there a formula that we can use or apply that can, without losing the important parts of the, especially the mechanism? Yeah, I mean, that's a good question. I don't know if I have like a specific formula, though. That's an interesting thing. So maybe I'll dig into that for the mechanism, what we're going to do. But no, I mean, I think it's really just like, does it really explain like the real cause in a novel way?
+
+136
+01:04:50,290 --> 01:05:17,780
+that's also believable and is there enough proof there that if you went and told like a friend they'd be like oh that makes sense and i believe you you know i know it's like kind of a very casual answer you know but like um and i would sort of look at like you know i'll find some more short vsls and add these like a swipe file or mid-length one so you can look at it but essentially it's still like you know i don't know it's still it's still explaining everything it's just like
+
+137
+01:05:18,190 --> 01:05:44,880
+how many layers deep do you have to go, I guess, right? Do you need to go like yours? Again, I don't know what you want to say publicly yet, but like essentially like if it's that like, you know, there's layers of your, there's a layer of your skin and response. I'll keep it kind of broad, right? Where's your skin or every skin is responsible for promoting the production of elastrogen and collagen keeps your skin firm, supple and wrinkle free. Right. But if this part of your skin sort of like, isn't doing that.
+
+138
+01:05:44,880 --> 01:06:11,760
+then, you know, blast and collagen levels go down, your skin clasps into itself, wrinkles form. And that's sort of like, you know, obviously there's a little more detail, like what the actual part of your skin is and stuff. But to me, like, that's pretty good. And that's one of the things I talked to you about, where it's like when you're, like, for example, games like mitochondria, right? Well, they power these things. It's like mitochondria power everything because they're the powerhouse of the cell. So it's like, I don't, you don't really need to talk about mitochondria very much. Like you can mention it once.
+
+139
+01:06:11,760 --> 01:06:42,110
+But you don't need to be like, because once you go into mitochondria, now it's like they're reminded of like biology class. And like, it's sort of like, you know, like the mitochondria or power of these things was like, do you really need to say that? Like, or is it just sort of like this area of your skin? Like, you know, like, you know, these parts of your skin are, they're losing power and without power, like elastrogen collagen can't be generated. Does that make sense? So sort of like, I think you just sort of, and then like, here's proof, right? Images, found a couple of studies from Harvard to show this.
+
+140
+01:06:42,110 --> 01:07:11,100
+like i said and if it's coming from a credible expert especially like a doctor you know dermatologist expert person then it's like it's really probably as deep as you need to go in general but especially for a shorter thing um if it's a completely diy person like hey i'm bob the mechanic and i discovered this you know or susie the mechanic um you know maybe you try to go a little bit like you know you might have to there's a higher burden of proof but like generally because the person's like an expert
+
+141
+01:07:11,100 --> 01:07:41,650
+like you just go that though this is true look harvard says it here's an image like you're kind of good there makes sense thank you yeah for sure anyone else you said you added these vsls to a folder yeah i do basically it is a weekly folder with the replay so i have a bunch of them in there and i'll okay okay yeah i'll add anything else um at least like an email about it yeah we'll email and put them in the whatsapp group too
+
+142
+01:07:42,990 --> 01:08:15,660
+Those are the transcripts. I mean, some of the ones for Neuro, you have to just go look at their ads library, but you can find them. I try to take little screenshots of the copy and headline for some of them too. So you should go to find them in the ads library because they're my swipe builder in the ads library. Because they're an ads library, I can't just kind of link to them directly. Maybe I can. I'll see what I can do. But yeah. All right. Sweet. Well, I appreciate everybody. Have a great rest of your week and I'll see everybody next week for part two. Thank you. Thank you. All right.

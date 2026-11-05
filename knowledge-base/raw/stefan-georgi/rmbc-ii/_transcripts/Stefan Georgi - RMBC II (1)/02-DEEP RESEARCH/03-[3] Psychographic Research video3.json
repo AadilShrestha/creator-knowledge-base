@@ -1,0 +1,234 @@
+{
+  "source_file": "Stefan Georgi - RMBC II (1)/02-DEEP RESEARCH/03-[3] Psychographic Research video3.mp4",
+  "source_id": "mega:GwRSGa5C",
+  "audio_sha256": "c01bcd257f52a184e0c40b998d9923b30cf128b6aa21a3a65f70ca72385013a1",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 1375.23,
+  "last_segment_end": 1374.7,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 27.26,
+      "text": "All right, so we're going to go through two more examples here. One with Bizop, one with golf. We'll do the Airbnb arbitrage Bizop one first. And you know, I was thinking about this because even as I go through it, I'm like, do I really want to read through everything again? I mean, you already sort of had, you know, you saw all this stuff here, right? You saw the example last year and we went in depth. So honestly, what I would be doing here..."
+    },
+    {
+      "start": 27.26,
+      "end": 65.25,
+      "text": "If it was my first time going through this, I would read every single word, but I don't think you need to read along with me. You're going to get access to these prompts. I think we should use that quad one I mentioned previously. The quad prompt. That is going to basically... Sorry guys, there's so much stuff up. Let me open some of this stuff. I'm going to close some of the skincare things. That, that, that. There's my quad one. And there's quad. Okay, cool. So, we did biz op. I got the Gemini output."
+    },
+    {
+      "start": 65.25,
+      "end": 122.78,
+      "text": "which of course would be included in the ChatGPT one. So what I'm going to do is I'm going to download the Gemini one as a PDF, and then the ChatGPT output, I'm going to download this one, or copy and paste it into a doc and then download it. Because it's like, you know, amazing. I'm going to copy that, create a new document, it'll be like ChatGPT BizOp Psychographic Deep Research."
+    },
+    {
+      "start": 122.78,
+      "end": 160.46,
+      "text": "output copy and paste into here wow long one right um and download that back to the cloud prompt so let's go back to our good friend claude do the same thing here um what's actually cool is i mean i highlighted it yellow but you can actually just keep this generic i actually purposely designed this one to be generic so you don't need to necessarily um"
+    },
+    {
+      "start": 161.23,
+      "end": 199.66,
+      "text": "write BizOp, Airbnb, Arbitrage, whatever, right? It's just here. Because it'll figure it out by looking at the PDFs. So I'm gonna upload the two PDFs. Okay, the PDFs are uploading. They're big files. So it might take a minute. Really long time. Kind of surprisingly long time. Should be ready shortly. There we go. And let's go ahead and run this prompt here. And then as we go through the output, we'll get a good summary of what we found, right? And I think, again, this is cool."
+    },
+    {
+      "start": 202.38,
+      "end": 236.62,
+      "text": "And to me, it's just easier than trying to read everything for you. You'll have the in-depth examples. You can look at them. But this is going to give a pretty good summary for you to review. So while it's typing it, we can start reading. Actually, I want to copy and paste it to a new Google Doc so that I can make it big enough that you read everything here. So give me a minute. Once this is complete, I will go over it with you."
+    },
+    {
+      "start": 236.88,
+      "end": 260.4,
+      "text": "Okay, so we got everything here. I'm going to copy it. I created this one here. I'm going to paste it in. Now I'm going to zoom to 200. Okay. Unified Psychographic Research, the American Business Opportunity Seeker. Executive Summary. The American Business Opportunity Seeker."
+    },
+    {
+      "start": 260.53,
+      "end": 288.02,
+      "text": "or seeker, represents a complex demographic united by a shared desperation to escape what they perceive as a fundamentally broken economic system. They are characterized by four core psychological drivers, a craving for autonomy, fear of a wasted life, skepticism of authority, and hope for a secret key to success. This demographic operates within a powerful corruption narrative, believing that external forces have deliberately rigged the system against them, making traditional paths to prosperity nearly impossible. Insights into the demographic. Who is your customer? Broad profile."
+    },
+    {
+      "start": 288.02,
+      "end": 315.09,
+      "text": "The target customers are everyday Americans age 18 to 45 who feel financially constrained and seek additional income or financial freedom. Nearly 44% of Americans now have some sort of side hustle with younger generations leading the way. 60% of Gen Z and 55% of millennials. They come from diverse backgrounds which share common dissatisfaction with their current financial situation. Key archetypes. The burnout professional. Trapped in soul-sucking day jobs seeking to escape the corporate cage."
+    },
+    {
+      "start": 315.09,
+      "end": 345.44,
+      "text": "Their pain is quiet desperation from building someone else's dream. The under-resourced millennial Gen Z grappling with stagnant wages, persistent inflation, significant debt, inflation. For them, a side hustle is a financial lifeline rather than a passion project. The ambitious student youth, high ambition but low resources, often college students or teenagers eager to start their entrepreneurial journey but facing obstacles like lack of capital or parental disapproval. Stay-at-home parent seeking flexibility to balance work with family responsibilities, community,"
+    },
+    {
+      "start": 345.44,
+      "end": 370.99,
+      "text": "to combat isolation and personal identity outside their domestic role. In the fire, financial independence retire early adherent, the most disciplined archetype focused on systemic long-term financial planning to eliminate the need for active work altogether. What attitudes do they have? Economic attitudes. Profound cynicism and disillusionment with the traditional economic system. Belief that the American dream is a lie for their generation. Feels like I have to make more money just to have less than what my parents did."
+    },
+    {
+      "start": 370.99,
+      "end": 394.72,
+      "text": "Systemic issues like corporate tax cuts and wealth concentration have wiped out the American-Canadian dream for most. I don't know why I guess it's a quote. Political bias, blend of libertarian self-reliance and populist distrust of large institutions. 92% of American voters believe it's difficult to start a new business. 47% feel the federal government does more to get in the way than help. Dominant political act is personal succession from the system by building economic sovereignty."
+    },
+    {
+      "start": 394.72,
+      "end": 421.58,
+      "text": "Social attitudes. Define themselves as an in-group of enlightened individuals who have seen the truth about the system. Create dichotomy between themselves and sheep or losers content of nine-to-five jobs. Create community but are highly selective seeking like-minded people who validate their worldview. There's a subset of faith-driven entrepreneurs. Entrepreneurs pray more frequently. Faith provides resilience. Where are their hopes and dreams? The core dream, autonomy, and control."
+    },
+    {
+      "start": 421.58,
+      "end": 451.55,
+      "text": "Ultimate goal is financial freedom. Not just money, but what it buys. Control over time, decisions, location, and destiny. I dreamt of owning my own business. I could feel it in my soul. Specific aspirations. A great escape. Bully to ditch your job forever and escape punching the clock for 30 years. Building a legacy. Ensuring children's essentials covered for the rest of their lives. The pursuit of purpose. Finding meaning and fulfillment. Lacking in current work. The dream of stability. For the financially pressed, the simple desire for peace of mind. The dream for me is to put everything on auto pay and not have to move money around and decide if I can pay."
+    },
+    {
+      "start": 451.55,
+      "end": 478.29,
+      "text": "A bill or E today. What are their victories and failures? Well, you know, off to small or emotional opponent, a first sale, a monumental event, made their first sale of $39 after a monthly struggle. Momentum from small wins. Operating by momentum is greater than master plans. I like that. Hanging a target. Achieving specific income goals, no matter how small. Achieving organic growth. A handyman who found word of mouth keeps me completely..."
+    },
+    {
+      "start": 478.29,
+      "end": 507.39,
+      "text": "Word of mouth keeps me completely booked at least a month in advance. Failures, right? Wasted ad spend. Universal pain point with brutal math. This gets a little bit more technical for the market, so it's interesting. Information overload. I wasted six months chasing passive income YouTube grinds. I had 30 notion pages of ideas. Lack of clear strategy. I wake up every morning not really knowing what I should work on. It's a productivity and time management nightmare. Burnout hustle and grind left my 24-year-old ass severely burned out. Relationship."
+    },
+    {
+      "start": 507.39,
+      "end": 537.55,
+      "text": "my startup moment lifestyle is affecting my marriage what outside forces do they believe have prevented their best life the rigged economic system stagnant wages relentlessly rising cost of living crushing inflation inescapable student loan debt traditional path is no longer a ladder to climb but a treadmill to run on it's a great quote gatekeeping gurus believe that online business is controlled by cabal selling overpriced ineffective courses the real money isn't convincing people who are young and not very business savvy that it's a simple easy thing big tech and algorithms feel powerless against social media algorithms and prohibitively add"
+    },
+    {
+      "start": 537.55,
+      "end": 566.48,
+      "text": "High ad platform costs. The government. Hustle culture machine. Prejudices against 9 to 5. They have disdain for traditional employment. Against normal people. Subtle prejudice against those content of traditional life. Seen as an unawakened sheep. I may be careful with some of this language again. Take this off a grain of salt. Against formal education. Growing skepticism towards college degrees. Seen as an expensive path to debt with no guarantee of ROI. Confirmation bias. Actively seek information."
+    },
+    {
+      "start": 566.48,
+      "end": 583.89,
+      "text": "confirming an existing worldview about rigged systems and guru scams. Some of their core beliefs about life, love, and family. Life is a high-stakes game to be won through acquisition of secret knowledge and relentless effort, where true success is defined by escaping a system to achieve personal and financial sovereignty. Love and family are the same motivation for..."
+    },
+    {
+      "start": 583.89,
+      "end": 611.78,
+      "text": "This all-consuming struggle, yet the hustle required often strains these foundational relationships to their breaking point, creating a tragic paradox. They justify the sacrifice of present connection for the promise of a secure future, believing that good life is one where they have freedom to spend time with family and pursue passions, determined to beat the odds no matter what obstacles society has put their way. Are there existing solutions? Dropshifting, affiliate marketing, multi-level marketing, fire, coaching, course creation, freelance and service-based businesses, boring businesses."
+    },
+    {
+      "start": 611.78,
+      "end": 651.86,
+      "text": "They have the supporting ecosystem, right? One second here. Okay, so supporting ecosystem, traditional side jobs, personal finance tools and debt strategies, courses, coaching, guru programs, audit unique hustles. What has your experience been like? The typical journey arc. Initial phase, hope and obsession. I dreamed of owning my own business and became obsessed with the idea of success and money making. Execution phase, overwhelming failure. I've been in the dropshipping game for about a year and a half now. I've never been profitable. Outcome."
+    },
+    {
+      "start": 652.08,
+      "end": 685.94,
+      "text": "Burnout or breakthrough. Vast majority experience burnout. Small minority achieve breakthrough after mindset shift. Common experiences. Kind of the same idea here. We just said. Small wins but don't provide life-changing results. Encounters or scams and disappointments. I think this stat's actually an interesting thing you could speak to. What do they like about existing solutions? Dream of possibility. Hope and vision that solutions sell rags to riches stories."
+    },
+    {
+      "start": 686.0,
+      "end": 712.54,
+      "text": "Flexibility control, autonomous schedules, beer and boss elements, community support, built-in communities providing camaraderie and motivation, quick tangible results, immediate feedback, and small wins that show cause and effect, learning new skills, personal development aligned with financial goals. What do they dislike? Scams, hype, dishonality, fed up with false promises and misleading income claims, high costs and losing money, paying for courses, inventory, advertising with low ROI, complexity and lack of clear results, solutions are more complicated than advertised."
+    },
+    {
+      "start": 712.54,
+      "end": 740.93,
+      "text": "having to bug friends, family, uncomfortable social pressures, especially in MLMs, instability, and hustle grind, realization that solutions are just another grind without true leverage. Are there horror stories about existing solutions? MLM horror stories. MLM destroyed my extended family. These women have been completely isolated from all relatives, kicked out of PTA meetings, fired from jobs, asked to leave churches. Stories of losing 15,000 plus in psychological manipulation compared to call tactics. Dropshipping nightmares. Losing thousands on ineffective ad campaigns."
+    },
+    {
+      "start": 740.93,
+      "end": 770.64,
+      "text": "Defective products link to angry customers and suspended payment accounts. The defective product nightmare. Viral product turns out to be junk. Affiliate marketing nightmares. The unpaid commission. Companies changing terms or deactivating accounts after significant sales generated. Does the market believe existing solutions work? If not, why? Common faith and target skepticism. Believe underlying business models are sound, but don't trust most teachers' gurus. If it works, everyone will be doing it mentality. Awareness of survivor bias. Flashing success stories are rare exceptions. The guru to core seller pipeline."
+    },
+    {
+      "start": 770.64,
+      "end": 800.9,
+      "text": "Suspicion that real money comes from selling courses, not practicing methods. Painful personal experiences create heavy skepticism. Core unmet need, not seeking another business opportunity, but a trusted filter to navigate confusing world of options. One, protection from scams more than new opportunities. Curiosity, unique novel angles to stories. Has someone tried to solve this market's pain points. The anti-guru guru. Influencers who built brands by exposing lies from other gurus. Promised hard truth that others hide. Often become new authority figures selling their own honest courses."
+    },
+    {
+      "start": 800.9,
+      "end": 831.42,
+      "text": "cynical cycle where anti-guru becomes next target. I've definitely seen that, and it's super annoying. The done-for-you system, fully automated systems to solve technological overwhelm, creates dependency and black boxes difficult to control, solves immediate challenges but prevents learning underlying skill. Historical precedences. Tim Ferriss's four-hour workweek sparked digital nomad movement, some success but difficult to replicate. Communal living and cooperative economics, mixed results. That's kind of what they mean by this, to be honest with you."
+    },
+    {
+      "start": 831.42,
+      "end": 861.26,
+      "text": "barter networks and alternative currencies so i might go back to gemini and kind of dive into this more like what are they referring to that'd be kind of interesting is there a conspiratorial story behind why old solutions at work the guru gatekeepers entire online business education industry is a massive scheme where online only gurus get rich pattern discover profitable method realize selling courses easier create exaggerated marketing students buy outdated map i think there's a lot of validity to this to be honest with you i mean it's curious it's interesting for people watching this because a lot of people watch this"
+    },
+    {
+      "start": 861.78,
+      "end": 893.2,
+      "text": "probably have some of you guys probably sell biz op but a lot of you probably have bought biz op things i mean you bought my course right when you're watching this but i'm also pretty careful to not try to make like income claims like i'm not selling copyright as a biz op right like we kind of started doing that with copy started light which was like you know a lower cost version of my copy started mastermind for freelancers we did in like 20 i guess 2020"
+    },
+    {
+      "start": 893.2,
+      "end": 925.07,
+      "text": "2020, 2021 into 2022. But I really didn't like it. That's one reason I bought out my former business partner because I just didn't want to keep doing it. And went back to like CA Pro, which is just for business owners and high leverage for people already, you know, having results. Right. But I do feel this way with most people who are selling courses, kind of even honestly, most copywriting gurus, this is a total aside, but I'll just say it like, I think the vast majority, I mean, I've reviewed most of their copy. You know what I mean?"
+    },
+    {
+      "start": 925.07,
+      "end": 949.78,
+      "text": "And like most of the time, like they weren't very good copywriters. They struggled to get clients. And then instead of getting better at copy, they started to position themselves as like a copy thought leader and they put content on X or Facebook or whatever it is. And like, it's pretty annoying because like, dude, you shouldn't be teaching other people copywriting. Like you don't know how to copyright yourself. But."
+    },
+    {
+      "start": 950.06,
+      "end": 978.24,
+      "text": "you know, this is true for all this stuff. And it makes, by the way, I mean, it makes sense. Like even, sorry, I'm tangenting, but it's fine. Even like an e-com agency, like people do like e-com, like sell like e-com masterminds and stuff are like, you know, dropshipping stuff. It's like, yeah, you barely make any profit. Most e-com companies might get like a five or 10% margin or they lose money. So they might do like a million dollars or $10 million or whatever it is, but they make a couple hundred thousand dollars, if at all. So they take their revenue number and they go teach other people how to do it because it is easier."
+    },
+    {
+      "start": 978.24,
+      "end": 1009.76,
+      "text": "and you can make more money, and the margins are like 90%, depending on how you're doing it. So I get it, but I think that is a real belief, right? Core logic, literally nobody would sell a course revealing how they earn money. That would just create competition. That's such a bullshit scarcity belief, but I get it. True success is a zero-sum game. Anyone who has secrets must have an ulterior motive. Yeah, things are worthwhile and interesting, right? Older attempts to solve the problem. Door-to-door sales. Vacuum cleaners."
+    },
+    {
+      "start": 1009.76,
+      "end": 1042.51,
+      "text": "Full-word brush encyclopedias, original MLM model with same core challenges as today, mail order catalogs, the original dropshipping e-commerce model. But it's probably interesting stuff you could dive into here, right? The hustle and African-American vernacular. Corruption. Powerful nostalgia for more equitable past. Belief in golden age when rules were different and game was fairer. Single income could support family in the 1950s and 60s. Feels like I have to make money just to have less than what my parents did."
+    },
+    {
+      "start": 1042.51,
+      "end": 1072.93,
+      "text": "College education was affordable. Passport to better life. My parents had six kids plus countless family pets all on a single income. I can't even fathom my husband and I having that amount of wealth. Previous generations were isolated group protected from forces that plague current generation. Has been recently exasperated. Primary culprits. Corporate and government collusion. Government captured by corporate interests. Slashing of taxes. Payable by corporations. Ongoing serious. Move to wealth concentration. 2018 financial crisis. Student loan crisis."
+    },
+    {
+      "start": 1072.93,
+      "end": 1105.46,
+      "text": "inflation, rise of household culture. And I'm skipping a little bit because again, you can read this stuff here. What are the forces and what's the reason behind the presence? Politicians and money, greedy CEOs, profit-driven education system, greedy financial sector. They mentioned like European countries have like vacation, don't live to work. And the Amish are kind of interesting. Strategic synthesis. And give some examples and recommendations at the end, which is interesting."
+    },
+    {
+      "start": 1105.94,
+      "end": 1134.14,
+      "text": "The fourth, psychological drivers, crave for autonomy, fear of wasted life, skepticism of authority, hope for a secret key, actionable, copying angles, us for some narrative, the honest mentor, the smarter, not harder solution, the community, voice of customer lexicon. This is great that did this. This is kind of cool from Quad, right? Pain and frustration words, rat race, soul sucking, paycheck to paycheck, burnout, overwhelm, stuck, wasted money, scam, fake guru, rigged system, broken, exhausting, hopeful."
+    },
+    {
+      "start": 1134.14,
+      "end": 1164.82,
+      "text": "financial freedom, be your own boss, quit my job, side hustle, passive income, take back control, job free income, time, freedom, legacy, solution, trust words, step-by-step, blueprint, system, no BS, the hard truth, real, authentic community, support, mentor, game changer. Gives you a little conclusion. So again, I might go through this. For example, I'm curious about the whole co-ops and things like that, like the communist socialist thing, whatever that was. So I might go look at that real quick and just see, because I'm curious."
+    },
+    {
+      "start": 1164.82,
+      "end": 1218.19,
+      "text": "I wonder if it came from Gemini or what. And again, there may be interesting additional things here. So if I were really doing a biz off offer right now, I would definitely read everything here, right? I just want to get to that thing about, I wonder if it was a chat to have it? Let's see. Like globalization, which doesn't get mentioned as much in that cloud thing."
+    },
+    {
+      "start": 1233.97,
+      "end": 1264.29,
+      "text": "See, this is kind of interesting here. So I know the text is small. Hopefully you can read it. But from ChatGPT, there's Mail Order Millions. There's Ponzi, Tupperware, things like that. There's the franchising boom of the 40s and 50s. Then it talks about Amway and Pyramid Club crazes. It talks about co-ops and credit unions, right? In the 1800s and 1900s, there's a rise of cooperatives, people pulling resources to achieve financial goals. This wasn't about getting rich, but about ordinary folks improving."
+    },
+    {
+      "start": 1264.29,
+      "end": 1294.11,
+      "text": "They're lot by collective means. By 1960s, credit unions and co-op instances were fairly common and still exist. They were successful in providing cheaper services. In a sense, they ease financial strain. It's a quieter story, but one could say an older solution to financial hardship was community cooperation. I saw some older self-help literature. So again, there's some interesting stuff that was alluded to in the clause summary, but they didn't go as deep. So this is where I wouldn't be lazy. I would still be intellectually curious consistently throughout all the things we're doing."
+    },
+    {
+      "start": 1294.11,
+      "end": 1332.51,
+      "text": "And go look through here to see if there's interesting stuff that you could write about, share about, speak about, and so on, okay? So I'll share that quad summary, of course, the output we had. And the last one is golf. And I think, honestly, rather than go through golf, I'm going to just share the prompts. I'm also going to share a quad summary of it as well, and you can go through that in the examples you'll have. So you'll have..."
+    },
+    {
+      "start": 1332.51,
+      "end": 1361.84,
+      "text": "the ICERM one, the Airbnb Arbitrage one, and you'll have the GOLF one. You'll be able to look through the deep research from Gemini from Tragedy-BT, and then you'll be able to look at the Claude summary that synthesizes, combines the two. Okay, so hopefully this is helpful. Hopefully you understand the value of doing psychographic research. This will kind of take us through the main three segments of our core research component of RMBC2. I'll do the next section. We'll be on combining all of it together."
+    },
+    {
+      "start": 1361.84,
+      "end": 1374.7,
+      "text": "to create sort of like a master research brief. And then from there, we'll continue on. We'll look at ads and copy and all these other good things too. All right. Thank you."
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "source_file": "👣 Evolve (Start Here)/93. 🆕 Full Media Buying Strategy Outline (2026) 👣 Evolve (Start Here) Evolve.mp4",
+  "source_id": "mega:jhQDiSSY",
+  "audio_sha256": "ec88cddd471ccc9c8f604cd34018d7014ddcae74a253c14e51a7649031ce9454",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 326.57,
+  "last_segment_end": 326.57,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 29.33,
+      "text": "All right, guys, so here is the updated entire media buying doc for February, 2026. So just to be clear, we are still living and breathing through the one campaign strategy with the CBO. And I have to kind of correct myself when I say that the single CBO kind of testing and scaling strategy. However, it has evolved quite a lot over the last two years. And so I left the original philosophy in there because for a lot of you guys are spending less than, you know, two or three K a day. Like you don't really need to worry too much about this."
+    },
+    {
+      "start": 29.33,
+      "end": 58.54,
+      "text": "uh you can definitely implement the zombie campaign but again you probably have a creative issue the raw content campaign you can make some slight adjustments we already had that last year and then promo is the exact same uh but inside of here what has changed is we now obviously do a three two two two which basically stands for whenever you test a new creative uh you can test two landing pages with it um so for a lot of people they'll do you know one uh sales page and then maybe a listicle or their top performing page and then a new page that they potentially made for that ad uh and then again as it says here"
+    },
+    {
+      "start": 58.54,
+      "end": 86.11,
+      "text": "less than 1k per day, try to keep it to five new testing ad sets at one time. And then if it says here, it says if you're spending less than 2k per day, we do not recommend running 3222. Because when you do this, it's just going to spread spend way too thin. And you have to understand that now because DCTs are gone, and these are individual ads, essentially, these three visuals with two copies and two headlines is three unique ads. So basically how this will work now that I fixed this is you're going to have ad one"
+    },
+    {
+      "start": 86.11,
+      "end": 115.44,
+      "text": "add two, add three with LP one. So you're going to have three total ads. But when you add in the additional LP, it's going to give you six ads per ad set, right? And so in this instance, that's obviously a lot of ads for meta to consider. And so if you don't have the spend to allow meta to choose, we just really don't recommend doing it. The second thing that we added here is the page number test. So this is like the broad, same kind of broad ad set that we always run. It's just here inside of this ad set specifically, we"
+    },
+    {
+      "start": 115.44,
+      "end": 138.66,
+      "text": "will have three to five duplicates of like whatever winning ads are. And then here we're going to change the URL. So this is where we're going to test the one new landing page. So inside of here, there's going to be three to five ads with one new landing page inside of it. And again, this is just how we test pages with specific ads. So say if we made a page for a specific angle and we want to grab the top three to five ads or, you know."
+    },
+    {
+      "start": 138.66,
+      "end": 167.95,
+      "text": "two to four ads for that specific angle, then we can obviously grab them and test them with the new page by putting it in its own ad set. The next one that we have down here is the testing scaling strategy. This is an ABO strategy. So again, these little repeats basically just mean you can spam these as much as you want and not spam them, but like you reuse them. Whereas this hard exclusion, one day click and incremental will all be standard, like just inside of there. Again, I explain all of this stuff way more in depth down below. This is just a high level overview. So again, inside of these,"
+    },
+    {
+      "start": 167.95,
+      "end": 179.89,
+      "text": "you're gonna have a winning duplicate ad or a post ID. Again, each breakthrough spend winner or KPI winner will have its own ad set. And then all breakthrough winners will be added into these specific ones for further scaling."
+    },
+    {
+      "start": 179.89,
+      "end": 209.17,
+      "text": "And then here we have our EAM zombie campaign. And by the way, EAM stands for easy media. That's our agency. And again, whenever you have a losing batch of ads, you're just going to drop them in this cost result campaign. Again, you'll see how we do those down below. And then the raw content campaign has been updated as well. We are now just using flexible ads. So rather than having a bunch of ad sets like we would here in this raw content campaign, since we're essentially just spamming content, again, you guys will find that down below. We're just doing flexible ads that have three to six visuals inside of them with two copies and two headlines."
+    },
+    {
+      "start": 209.17,
+      "end": 228.72,
+      "text": "and then this here is just important just one landing page because obviously it's a flexible ad and then inside of here we're scaling with ads versus ad sets so we're just going to have one ad set and then inside of here we're going to launch just all of our flexible ads inside of that one ad set just so meta can focus on the ad level rather than the ad set level and again it's flexible ads so we're just kind of"
+    },
+    {
+      "start": 228.72,
+      "end": 258.0,
+      "text": "putting uh all the creatives into one so if you guys want to understand basically what happened uh dcts did get removed uh i believe it was last year might have been the year before i can't remember meta changes so fast but basically inside of here if you had an ad set uh you could have one dct which was actually equal to three creatives and then what you would do is you would do a breakdown inside of meta to be able to see you know creative one creative two and creative three um but you can't do that anymore so what we have to do is now again we have to have one creative here uh and then"
+    },
+    {
+      "start": 258.0,
+      "end": 287.22,
+      "text": "creative here and one creative here so there's three individual ads inside of the ad set whereas now um with flexible ads you can still do what you did before you can actually add up to 10 so dcts are now flexible ads the problem with flexible ads is breakdowns they just don't work and so you can't break down flexible ads and you can't really see what is winning but what we have seen is that if you do have a flexible ad that takes off inside of your raw content campaign you're just letting it rip and if you really want to"
+    },
+    {
+      "start": 287.22,
+      "end": 316.43,
+      "text": "and do learnings on it, you can just click it and go and view the posts on Meta. And usually it'll show you the one that's ripping the hardest. But this is just how we do it now. Because again, when you're spam testing a bunch of creatives, whether it's UGC, AI crap, whatever it is that you're spam testing, inside of here, you just want to make sure, and this should all be one, you just want to make sure you're using flexible ads to give Meta the best chance it can. And then again, the promo campaign is the exact same thing. There are modules down below that explain this. This is only for limited time promo periods, not for those of you who run sale ends tonight."
+    },
+    {
+      "start": 316.43,
+      "end": 326.57,
+      "text": "all know the sale doesn't end. So anyways, that is the updated structure. Again, there's much more context down below in the videos, and I hope you guys enjoy them."
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "source_file": "Stefan Georgi - RMBC II (1)/07-62 VSL SECTION II- VSL Creation Examples/01-[1] Long Form VSL video4.mp4",
+  "source_id": "mega:GwRSGa5C",
+  "audio_sha256": "a6a999a7c383a7c76bb616fa27cce5bac520312a0988a0dd4929ef13ecdae5db",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 979.03,
+  "last_segment_end": 978.64,
+  "segments": [
+    {
+      "start": 0.02,
+      "end": 41.98,
+      "text": "All right, so finally, we'll try a new lead, right? Let's go to our little hook generator. Should be here one second. All right, yeah, so we have this, okay? This one here. Now, I do already have a bunch of hooks, right? Now, if you didn't have those hooks, if you created them for something else, you'd have to have them. I've got skincare hooks here and here already, but again, I went through that in that CA Pro training thing, right? So, what am I gonna do? Here's a..."
+    },
+    {
+      "start": 41.98,
+      "end": 89.1,
+      "text": "new VSL script I quote I wrote for a skincare serum please give me 10 hook heavy lead concepts could use um sorry did I close the VSL already? maybe I did I was right here right okay um could use for the micro lead"
+    },
+    {
+      "start": 89.17,
+      "end": 149.74,
+      "text": "You can pull from the database plus ideas from the VSL. I'll then select the ones I want to turn to new, pre-lead, or leads. Look at these prompts saved somewhere. But where? Let's see. Stop using collagen creams until you watch this. Japanese dermatologists wouldn't necessarily make sense, but it's a good idea. But it's not bad."
+    },
+    {
+      "start": 150.03,
+      "end": 226.45,
+      "text": "Here's the one problem. It's using hoax a lot, but it's like, it's not pulling from the actual, say here, this is pretty good. One issue is that you're focused on the UMP, the sales letter, more, and it's on that UMP, so less DJ, DJ can still be mentioned, but not. Okay, so concept one, stop using collagen creams until you watch this, the real reason your ibex."
+    },
+    {
+      "start": 226.45,
+      "end": 295.92,
+      "text": "Your eyes reach faster than the rest of your face. It's collagen architecture breakdown. Think of your skin like a perfectly woven fabric, but after 35, the entire structure starts collapsing into a tangled mess. Pour more collagen on broken architectures, like throwing new threads onto a pile of yarn, expecting to become a sweater. Your skin isn't losing collagen. The architecture is collapsing. I don't hate this. If the metaphor hits. Like, I like this. I wouldn't necessarily get collagen architecture. Maybe I would. When the collagen breaks down. And the problem is, like, I mentioned collagen architecture. Like, you know. Hold a second."
+    },
+    {
+      "start": 305.26,
+      "end": 346.58,
+      "text": "Can you now do these where it's less, aren't all focused on the UMP so much? More for the curiosity. We talk about collagen breaking down. We don't need to talk about collagen architecture. Okay, let's see how this goes."
+    },
+    {
+      "start": 362.61,
+      "end": 462.06,
+      "text": "so it's being a little weird like because it's either like not talking about collagen at all all right cool thanks so much i've been noticing a lot of uh that okay do a concept there that's like i do a few concepts there like the stick by stick type hooks all right let's see here"
+    },
+    {
+      "start": 480.08,
+      "end": 534.88,
+      "text": "This one doesn't really make sense. This one's not bad. Don't make this $400 mistake at the department store. Sales one will convince you that more expensive means better results. When your skin structure has collapsed, price doesn't matter, approach does. Okay, there's actually several I like here. Let's go and say, great job. Go ahead."
+    },
+    {
+      "start": 534.88,
+      "end": 583.42,
+      "text": "and do a new micro lead with let's keep it to about the same length as the current pre-lead micro lead in the vso i uploaded pdf4 what i'm going to do here oh my gosh i'm going on one i need to have separate for now is i'm just going up here and it'll be like pre-lead micro lead options so this is going to be like"
+    },
+    {
+      "start": 583.42,
+      "end": 635.6,
+      "text": "Option number one. Option number two. I'll show you like this. It's going to be easier. Sorry, the reason I deleted that is because I don't want to like the format to be annoying. Number two. Number three. Number five. Okay, so, hey, let's see. Here's why using ad-crues of collagen is a mistake. If you're one over 35 who's been spending money on collagen ad-cremes, expensive departments from miracles, or even professional treatments, but your crow's feet keep getting deeper and those dark circles won't go away, you're making the same costume mistake that I made for years, pouring new ingredients into broken structure."
+    },
+    {
+      "start": 635.6,
+      "end": 665.74,
+      "text": "Think about it like this. If you had a beautifully woven sweater that unraveled into a pile of tangled yarn, would throw any more yarn on top fix it? Of course not. You need to reorganize the threads back into their proper structure. That's exactly what's happening in your eye area and why every collagen cream has failed you. What I'm about to reveal will be the most important breakthrough you'll ever discover for transforming your eye area and has anything to do with adding more collagen to the mess. Please watch this short presentation at the very end because what you'll learn will save you thousands of dollars and years of disappointment. Okay, pretty good, right? A little bit out of there."
+    },
+    {
+      "start": 666.86,
+      "end": 720.4,
+      "text": "What else did I like? I like the $400 department store. Great. Now let's do this one. I like this one too. Don't make this $400 mistake at the department store. If you're a woman over 35 who's been convinced by those persuasive salespeople, the more expensive means better results for your eye area. If you've walked out of Nordstrom or Saks with a tiny jar that costs more than your grocery budget, hoping this time would be different, and you're still dealing with crow's feet that seem to get deeper every month, dark circles that make you look exhausted, and that creepy under-eye skin that makes you avoid close to photos."
+    },
+    {
+      "start": 720.4,
+      "end": 749.46,
+      "text": "and you've fallen for the biggest lie in the beauty industry. The truth is, when your skin's underlying structure has collapsed, price doesn't matter, approach does. That $400 eye cream is targeting the completely wrong problem. What I'm about to reveal will be the most important breakthrough you'll ever discover for transforming your eye area without breaking the bank or falling for expensive false promises. So please watch this short presentation to the very end. I promise it will save you from making another costly mistake. Right? Cool. Yeah, it's pretty good also. So put that there for option number three. Boop."
+    },
+    {
+      "start": 772.08,
+      "end": 896.99,
+      "text": "The timing one is kind of interesting, but let's see about some of the old ones we saw. That's kind of the same idea, but I like it. I don't mind this one. This one teases the structural rule of systems, so I kind of like that. Great. Now please do this one. And basically at this point, you know, I don't know if I always need the if-if framework, but it's okay. I mean, I don't like how this one came out, so I'm going to avoid it for now. Let me see how this one goes. I think this one's pretty good too."
+    },
+    {
+      "start": 896.99,
+      "end": 923.92,
+      "text": "So stop using collagen creams until you watch this. If you're a woman over 35 who's been religiously applying collagen to eye creams, spending hundreds on improving formulas or layering product after product around your delicate eye area, but your crow's feet keep getting deeper, those dark circles won't budge, and that under eye skin feels thinner and more fragile every month, and you need to understand what's really happening beneath your skin. The real reason your eyes age faster than the rest of your face isn't about needing more collagen. Think of your skin like a perfectly woven fabric. But after 35, the entire structure starts collapsing into a tangled mess."
+    },
+    {
+      "start": 923.92,
+      "end": 955.6,
+      "text": "Pouring more collagen on broken architecture is like throwing new threads onto a pile of yarn and expecting to become a sweater. It simply doesn't work. When I want to reveal, it'll be super important. You'll rebuild the foundation, right? So, without that, for option number four. And I think we're good here, okay? So, I'll include this conversation with Quad as well, so that you can have a reference point for it. But, yeah, I mean, I think, you know, hopefully this was helpful. You see, like, how easy it is to make a long-form BSL."
+    },
+    {
+      "start": 955.6,
+      "end": 978.64,
+      "text": "Uh, I'll do a couple more examples, you know, long form for like Airbnb, um, like book a call, high ticket coaching, book a call thing. Um, you're at the financial one, no, just a medium short, whatever other stuff too. But yeah, this should be solid. All right. Thank you. Thank you. Thank you."
+    }
+  ]
+}

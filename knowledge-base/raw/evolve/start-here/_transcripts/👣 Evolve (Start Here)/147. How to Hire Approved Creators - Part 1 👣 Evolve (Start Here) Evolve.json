@@ -1,0 +1,119 @@
+{
+  "source_file": "👣 Evolve (Start Here)/147. How to Hire Approved Creators - Part 1 👣 Evolve (Start Here) Evolve.mp4",
+  "source_id": "mega:jhQDiSSY",
+  "audio_sha256": "47cb2979f9951ff4b38cc8352e0a4f5a9c156e2dab50bde006780b5a27900947",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 534.44,
+  "last_segment_end": 534.44,
+  "segments": [
+    {
+      "start": 0.34,
+      "end": 21.18,
+      "text": "All right, now that the client has confirmed the creators that they would like to work with, what I'm going to do is I'm going to simply come inside of here and I'm going to copy this information and move this over to the selected creators tab here. And as you can see, I can simply come in and I'm actually going to grab."
+    },
+    {
+      "start": 21.18,
+      "end": 51.04,
+      "text": "the shortlist status as well, because I just realized that this price status is here. So we can actually delete that. Let's go ahead and re-merge this and fix the sheet. All right. So now I've got all of the client confirmed creators selected. I'm going to go ahead and paste them inside of here. And now what I need to do is essentially just go through and start basically hiring the creators. And so that's what we're going to do in this process here. So we're going to start basically just"
+    },
+    {
+      "start": 51.04,
+      "end": 75.17,
+      "text": "up at the top. Um, I'm not sure actually how incense ranks this. I think it ranks it by a date, like applied and message and all that. So, uh, what I'm going to do is I'm just going to go inside of here and just copy the actual name. And then I believe there should be a search filter here. Yeah. So I can just search for the crater. So while by Haley is a crater that we're going to hire. So again, as you'd see, there's the crater. I'm going to go ahead and click hired on this."
+    },
+    {
+      "start": 75.17,
+      "end": 94.78,
+      "text": "Click hire on here. And what that's going to do is it's going to say, all right, thank you for hiring this creator. And you'll see that their shipping information is now available. So we're going to get to that in a second. But while we have this creator hired, what we're actually going to do is we're going to go down and we're now actually going to..."
+    },
+    {
+      "start": 94.78,
+      "end": 112.94,
+      "text": "copy this template of the hired creator message. And we're simply going to paste this in. So we're going to say, now that we've hired them, you know, hi, Haley, or hey, Haley is kind of a weird one. So hi, Haley, our team is ready to work in projects, we need two things for you. One, can you send over your email for tracking purposes, and then"
+    },
+    {
+      "start": 112.94,
+      "end": 142.22,
+      "text": "The reason why we do that is just to essentially confirm. Now you can't see their email here, but when you download their shipping information, you actually will be able to get their email. So if you want to actually remove this, we can. But yeah, I'm going to go ahead and actually just remove this from the sheet while we're doing this. Actually, I'm taking that back. We're going to actually just keep this as is because we're also going to get them to confirm their shipping information. And the reason why is we just want to make sure that we're not sending to an old address and we're not sending confirmation to the wrong email either. So you're just going to go ahead."
+    },
+    {
+      "start": 142.22,
+      "end": 171.44,
+      "text": "and copy paste this message. We need two things from you. You know, one, can you send over your email for tracking? And two, can you confirm your shipping address? Now inside of here, you're just going to copy their shipping address and paste that in. And then inside of here, also let me know the products that you would like to receive. So this is going to change from client to client. So just to give you a few different examples of this scenario, inside of here for one of our clients over here that sells shoes, what we actually ended up doing is we ended up sending a message to the creator."
+    },
+    {
+      "start": 171.44,
+      "end": 196.58,
+      "text": "that said, hey, can you please let us know your two favorite pairs of shoes from this collection? And of course, send over email address, whatever. So similar kind of message, but now we're actually getting the user to select the product that they want. And obviously that's important because for example, if we're going to send shoes to someone, we want to make sure they actually select the shoes that they want, right? We don't want someone to be creating content with, you know, like..."
+    },
+    {
+      "start": 196.58,
+      "end": 206.06,
+      "text": "a product that they're not interested in. Now, obviously, this client has multiple SKUs. So that's something where we probably need to make sure that we aren't, you know."
+    },
+    {
+      "start": 206.13,
+      "end": 232.02,
+      "text": "sending product that the creator doesn't want, which would obviously lead to poor and unauthentic content. Now, in this scenario, for a separate one of our clients where we actually had just a single product that was being sent, you can see what I actually did was I just asked the creators to let us know if they had a preference on color. So we already confirmed that we were just going to send this product. So we didn't need to say, hey, choose what product we want. We just had..."
+    },
+    {
+      "start": 232.02,
+      "end": 261.7,
+      "text": "This is the product that we want to create content for. Just let us know if there's a variant, if you want a black or a white one. And so we didn't really need to do that, but I went ahead and just asked the creators for that sake. Now, to give you a real example now, as we're dealing with our client over here at the Innocent Baker, if we can go ahead and load it up, you'll notice that I'm going to actually use the product linked for the kits. So in the kits, we basically have two or two different ones that we're gonna send."
+    },
+    {
+      "start": 261.7,
+      "end": 287.34,
+      "text": "or I believe it's just the one. Let me double check. All right, so we're a little bit more in the future here, but as you can see, I actually just ended up messaging the client and just saying, hey, can you confirm if we're just going to send this main kit or do you want to give the creators option to choose their kit? And I said, if I think we give them the option to choose their kit, then we can get a bunch of different donuts and that would be a lot better. So what I actually had to do is I went through and I actually created my own collection as this collection was a..."
+    },
+    {
+      "start": 287.34,
+      "end": 309.23,
+      "text": "a bit of a disaster so essentially what i've done is i just created a new collection for him this is obviously not something that you're gonna have to do this is just a client that's just starting out so they need quite a bit of help um but with that said um i've essentially just gone ahead and recreated this for them and now inside of here we have the ability to send this link to the creators now"
+    },
+    {
+      "start": 309.23,
+      "end": 336.77,
+      "text": "Obviously, you should always wait until the client confirms, but I'm just going to take a lead on this because he trusts me to take lead. So this in your scenario, if you need to chat with senior strategists, please just message them. But this is an example of the collection that we would then send to the creators. And essentially inside of here, now the creator could tell us which one that they want. So I'm actually going to go ahead and add this in here. And I'm just going to simply delete this in the sink."
+    },
+    {
+      "start": 336.77,
+      "end": 366.77,
+      "text": "creator address. So I can copy this one last time. So name, beautiful, I'm just going to copy this. So I have that as the template. And I just realized that the template, I'm going to have to recopy it every single time, which kind of sucks. So I'm going to go ahead and copy this and just store this back in my sheet for now, just so I have it. Apologies for me drinking you through this. But we're now going to copy this. Beautiful. That is in there. We also now are sending them to"
+    },
+    {
+      "start": 366.77,
+      "end": 395.55,
+      "text": "this collection with the donuts for them to choose which is amazing and obviously this is going to say hi Haley our team is excited to work with you can you confirm make sure the address lines up and like that you're then going to go ahead and send that message and wait for them to obviously respond and now you're going to move on to the next one which is the Kay Cheng creator here so we're going to copy this or Kay Cheng great oh before I forget I also have a cooking TikTok that I can promote your products"
+    },
+    {
+      "start": 395.55,
+      "end": 432.93,
+      "text": "Cool. Okay, awesome. Well, you're already hired. So you're good to go. Now, of course, we're going to go back. We're going to copy our message here. And we're going to paste this in. And we're going to copy the user's info. And we're going to paste that there. And obviously, her name is Kaya. So I'll say hi, Kaya. That is awesome. That would be awesome on that profile. With that said, our team."
+    },
+    {
+      "start": 432.93,
+      "end": 461.92,
+      "text": "is very excited to work with you on this project. And there we go. Now the rest of the messages there. Also, let me know the recipe. This is where you should also customize this as well. Also, or finally, please let me know what recipe, donut kit recipe you would like to receive. All right. So there we go. So now it's actually a little bit more customized. So we're going to copy this one more time and we're going to face this in. Okay. A name."
+    },
+    {
+      "start": 461.92,
+      "end": 490.96,
+      "text": "Beautiful. I'm not going to break you through this again. Like that. Now we've sent, you know, two messages to creators and we're going to start to get some replies, right? With that said, our team is excited. Amazing. And now obviously we're going to go back and we're going to grab the next creator. So this is styled by page. Amazing. Hired. Let's go back. Let's find them. Perfect. Hired. Let's go back and copy our message. And this will be the last one just to show you again, very clearly how this all works. So there we go."
+    },
+    {
+      "start": 490.96,
+      "end": 521.15,
+      "text": "Hi, Paige. Great to have you on board. Here's your address. Please confirm. Please let us know what donut kit recipe you would like to receive. And boom, just like that, we're now able to not send the wrong message like I did there, but it's okay. My name, our team is very excited. There we go. So anyhow, there we go. So that's the new message I would just send. If you make mistakes, obviously it's okay, but."
+    },
+    {
+      "start": 521.15,
+      "end": 534.44,
+      "text": "You can see I'm human. But that's how you do it. So now you're just gonna obviously go through and do it for the rest of them. So that is the entire process of how you actually hire creators on incense. And then I'm gonna film the next loom of how to actually export all those creators into the sheet and let the client know."
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "source_file": "👣 Evolve (Start Here)/136. 🆕 How To Get Viral UGC Inspo For Creators & Ads 👣 Evolve (Start Here) Evolve.mp4",
+  "source_id": "mega:jhQDiSSY",
+  "audio_sha256": "103323cd0ceb8d69fd8d59b967994ccb296f5868cfbbbf46701d11febcd3b211",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 429.01,
+  "last_segment_end": 429.01,
+  "segments": [
+    {
+      "start": 0.08,
+      "end": 29.68,
+      "text": "All right, guys. So in this video, we were talking about a tool that our team has actually been using a decent amount. And I want to share with you guys because I don't think many people are talking a lot about this, but it is a really cool tool. And it's called the Daily Virals. And essentially what this does is this will show you the most viral content from any specific day on TikTok and on TikTok shop. So you can see here, it actually pulls up all these videos and then kind of and shows you the views that they got, the impressions, the comments, the likes, and all that kind of stuff."
+    },
+    {
+      "start": 29.68,
+      "end": 54.06,
+      "text": "off and essentially this allows you to see like which content what content is like ripping when it comes to selling a product organically but a lot of times this is something that can cook for you as an ad as well and so it's really good just to kind of get inspo for your creators and that's how we've kind of been using it with how we share this stuff to creators so for example you can actually go and just click and pull up this video right here"
+    },
+    {
+      "start": 54.51,
+      "end": 68.43,
+      "text": "And so as you can see, it's muted, thankfully. This girl is doing like a demonstration video, right? And there's probably something we should pay attention to because this got 41 million views, right? If we take a look at the comments here, for some reason I have to log in. I thought I logged in, but didn't let me."
+    },
+    {
+      "start": 68.43,
+      "end": 92.59,
+      "text": "At the end of the day, I just realized I don't even want to borrow logging in because you guys can understand you can go through and you can hunt through the comment section to kind of see what people are saying. But at the end of the day, this is going to help give you inspo for specific things, right? Now, let's go ahead and see what else we can do inside Daily Virals because there is a little bit more stuff that you can do. And one of the biggest ones is actually just getting the transcript from it. And so what you can actually do is you can click add to sandbox and you can create."
+    },
+    {
+      "start": 92.59,
+      "end": 119.9,
+      "text": "something called a sandbox which is this over here and what you'll notice here is this basically just has a bunch of stuff in here so you can it's literally a sandbox like you can do whatever you want you can see i took like a screenshot of this and then i pasted it inside of here so this is kind of like a cool little way to just come through lay out different videos there's a video that i added a sandbox you know copy the transcripts and essentially break it down so here you can just see i copied that and now i can paste it i don't know why my"
+    },
+    {
+      "start": 119.9,
+      "end": 126.7,
+      "text": "Computer's not liking me. I paste it and now I have the script and I have the exact prompt that this girl."
+    },
+    {
+      "start": 126.93,
+      "end": 156.53,
+      "text": "just went through, right? So copy, paste, there you go. And if you guys have watched the Alex Cooper call recording, which those of you, you probably should have, you can see like, this is a script that I could take and I could send to my rewriter for my specific brand inside of Claude and have them cook up a script for me using this viral video template, right? So this is a really good way just to see what videos are going viral to then grab the transcripts. You can see there's certain ones that you can save. So if you want to build a swipe file or a collection, you can do that."
+    },
+    {
+      "start": 156.53,
+      "end": 184.24,
+      "text": "as well. And then there is this new AI analysis tool, I'm going to go ahead and click this and let it run. But essentially, it's going to give you a breakdown from an AI perspective as well. But while we do that, again, I already kind of explained the actual video or the actual sandbox thing here, which is again, it's just full freedom, you can kind of do whatever the heck you want to do. You can also add YouTube videos in here as well. And it's just really a playground for you to have fun and break things down and share things and whatever it may be."
+    },
+    {
+      "start": 184.24,
+      "end": 213.42,
+      "text": "OK, so this is the sandbox. The next thing in here is there is a transcript downloader. So if you see any TikTok video, you can actually paste the TikTok URL in here and it will just give you the transcript. Now, there are tons of apps that will do that. But having it inside of Daily Vowels is just nice because it's just like you just have one app that does everything. And then from there, the other tool in here is a newer tool. And this is the guy over here. He's a beauty. His name is Paul. But basically, he also has like an AB compare video. Now, he talks about how one of his mentors told him how to just copy and paste and that he."
+    },
+    {
+      "start": 213.42,
+      "end": 218.82,
+      "text": "develop the AB tool to be able to see like if the video that he remade was better and now"
+    },
+    {
+      "start": 218.82,
+      "end": 248.11,
+      "text": "what i would actually recommend doing is like say for example you do try to recreate a concept so say for example i did take inspiration uh from this video here and i rewrote the script and then we refilmed it and say you published it on tiktok uh and if you were to then pull this girl's video so if you were to go back into the sandbox here and let's just say we grab this i do actually want to read this analysis but let's go back to the daily barrels i don't know if i'm able to find it because it is on august 10th but if we grab this"
+    },
+    {
+      "start": 248.11,
+      "end": 263.74,
+      "text": "and you copy this URL and you paste this into the AB tool, what it will do is it actually load the video for you. And then if you put your video next to it, you can actually compare side by side frame to frame and be like, okay, yeah, actually, you know what?"
+    },
+    {
+      "start": 263.74,
+      "end": 287.12,
+      "text": "my video is a lot worse. You know what I mean? It's like, clearly this girl is like outdoors and I'm indoors, or this girl is, you know, right away, starting with a hook that is slightly more interesting than what my hook is, or just the setup itself looks like a science fair project. And I don't have any of this, right? Like I went less effort on it. So you can just start to see side by side comparisons of like why your videos are flopping versus the ones that you're trying to imitate."
+    },
+    {
+      "start": 287.12,
+      "end": 307.15,
+      "text": "And so that is an example of how we use daily barrels. Now, going through this, we can go ahead and take a look at this. This is wake up and grab your coffee. No, sets the stage for a typical day, establishing relatability with the viewer. You're hungry and tired mid-morning, so you grab a donut and more coffee. No, highlights a common cycle of unhealthy habits that many can relate to, introducing a problem. Three."
+    },
+    {
+      "start": 307.15,
+      "end": 335.02,
+      "text": "and crash at 2 p.m. Note introduces the consequences of previous actions, building a narrative around the viewer's pain points, and you grab sugar and more caffeine. Note continues to demonstrate a vicious cycle, increasing the urgency of the problem, right? So it just breaks down this entire video, which is pretty cool. Market sophistication, market awareness, market resonance, how to improve this video, right? There you go. So it gives you a full breakdown as well, which is pretty cool. And so if you really wanted to, like Alex was saying, you could copy this entire script breakdown."
+    },
+    {
+      "start": 335.02,
+      "end": 364.62,
+      "text": "And you can give this to your rewriter rather than your actual, you know, just your script itself. And so this is actually something that we're doing right now to build a swipe file of like super viral UGC ads. So that way we can start automating scripts for our users or for our creators as well as we're starting to get a little bit more into scripting stuff, which you guys are going to hear more about. But I wanted to share this with you because this is a bit of a head start that you guys can use to get some really, really good stuff and leverage AI in a very smart way. Again, when you combine this with some of the stuff that Alex was mentioning, as well as some of the stuff."
+    },
+    {
+      "start": 364.62,
+      "end": 392.03,
+      "text": "in the AI program or how to build cloud projects and all that kind of stuff, you guys are going to be off and cooking. So hopefully this makes sense. Hopefully this is a good video for you guys and you're able to action it. And by the way, before I tell you or before you click off, if you actually go and sign up and you use code evolve, you get 30 days for free. I think I think this is literally a free 30 days. So if you just want to go and rip a ton of videos for inspo, and I don't seem ripped to put in your attic out, I'm saying like, go and grab a bunch to go and"
+    },
+    {
+      "start": 392.03,
+      "end": 401.58,
+      "text": "download the transcripts to then train an AI, go and do that. And then you can cancel in 30 days if you want. But otherwise, I think the total price for daily virals, I'll just go to the website to confirm."
+    },
+    {
+      "start": 401.58,
+      "end": 429.01,
+      "text": "So yeah, once you sign up here, basically what you do is you go add promo code and type in Evolve and that will give you $55 off for your first month. So it's actually $55 a month. Actually, I think it was cheaper. I thought it was $99. So it's a little bit cheaper, which is nice. So that's how you guys can sign up. Again, you get a free 30 days, which is nice. And then if you guys want to keep it, you can obviously keep it, but that is how it works. So hopefully that makes sense. Hopefully that's some extra info for you guys and look forward to seeing what you guys can come up with."
+    }
+  ]
+}

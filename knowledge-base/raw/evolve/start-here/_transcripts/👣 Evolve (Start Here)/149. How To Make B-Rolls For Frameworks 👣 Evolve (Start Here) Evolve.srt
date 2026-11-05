@@ -1,0 +1,23 @@
+1
+00:00:00,500 --> 00:00:30,240
+Hey Spencer, so for the film your b-rolls part, definitely just copy this template so that you don't have to make it from scratch. So for this video, I'm just going to make a new column. Sorry, new row. I'm going to put it up here at top. I'll just make it number one. And then you need this application, Giphy Capture. And so I'm just going to open that up and open a random video on my computer.
+
+2
+00:00:30,240 --> 00:01:04,260
+So I'm going to do this one, for example. Okay. Then I'm going to resize this. Okay. So I'm just going to hit record and then let it play. And then I'm going to, what do you call it? Make clips out of this later on. Did you know that your low libido can be fixed with a delicious and natural Japanese drink? Everyone is obsessing over Clever's brand new Honey Rabbit or Matcha Latte. This latte is packed with tersitin, collagen, oxydata, catechins, and reishi.
+
+3
+00:01:04,260 --> 00:01:33,730
+Okay, I'm going to stop it there. I've been clicking everywhere. But yeah, so once you stop recording, it should give you the entirety of what you recorded. And then here, you'll just make clips. So for example, if I want to take this hook, I'm just going to make a clip out of it. And then I'm going to save that. I have a hooks folder here that I use. So that's going to be clip number one. Then let's make another clip. Let's say...
+
+4
+00:01:33,730 --> 00:02:07,600
+Let's say I want creators to copy this B-roll right here. Okay, that one. Okay, so that's all done. I'm gonna close this. And then let me just go back to the framework. Okay, I'm going back here. I'm going to just paste those GIFs hooks. Okay, and then let me put here.
+
+5
+00:02:08,780 --> 00:02:41,490
+Just put a description of what the clip is supposed to be so that creators know what to film. So for example, put the cup of coffee. Let's just say like an aesthetic shot. Hold on. Aesthetic shot of the coffee. And then let's say you want to do a number two. So insert row below. Let's make a number two. Hit this here.
+
+6
+00:02:44,980 --> 00:03:01,700
+And then, I mean, it's pretty much the same. So I'll just put it there so that they have two B-roll examples. Yeah, that's basically it. Just look for Giphy Capture online and then grant it the permissions and then you should be good to go to use it.

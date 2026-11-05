@@ -1,0 +1,34 @@
+{
+  "source_file": "Stefan Georgi - RMBC II (1)/12-ADS/02-[2] Native Ads._converted.mp4",
+  "source_id": "mega:GwRSGa5C",
+  "audio_sha256": "c4adbd0e9b012f250db1418f0f2aa1266b8a905fa931086c9bb3afc23e8562fd",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 123.97,
+  "last_segment_end": 123.97,
+  "segments": [
+    {
+      "start": 0.11,
+      "end": 30.67,
+      "text": "Hey, it's Stefan. Real quick here. I just want to show you what you're looking at with this part of what Din so kindly included for us in addition to his training. So these landing page layouts are kind of just like their zip files. Download them. If you're technically inclined or savvy, you know, you can open up whichever one. Like I picked, I guess, the stock one, right?"
+    },
+    {
+      "start": 32.34,
+      "end": 63.31,
+      "text": "and you can just double-click on it. Basically, you download the zip file, double-click on it. Look at this. It's basically got all the files where you could rip it, all the images, all that stuff for the landing pages, right? And then, you know, just to see it, if you just want to look at the swipe, you've got this index.html. If you double-click on it, it'll just open up, right? So basically, this is just a saved version for all the code. So for people who know how to swipe, how to do things like that, who want to feed it to"
+    },
+    {
+      "start": 63.31,
+      "end": 93.74,
+      "text": "a no code thing, you'll be able to do it. So that's what this is. It's pretty cool. It's pretty awesome that it did include this. You've got these like diabetes VSL. You know what, let me do it here instead. Sorry, I know you can't see all of it, but I'm not sure what the diabetes VSLs are, of course. Might be some aggressive stuff, but whatever, right? Yeah, reverse diabetes, pretty aggressive. But, you know, now you've got the little file, right?"
+    },
+    {
+      "start": 94.06,
+      "end": 123.97,
+      "text": "Now a second, links aren't going to work because maybe that thing's not even active anymore. But basically you just got these things for swiping, taking the structure, all of that. So that's what you're looking at here. Again, you just sort of go download the zip file. Once you have the zip file, you can unzip any of them. You have the actual files from the landing page if you or somebody who's going to design or do dev for them. And you can go look at them by just double-clicking on the .html and it will open in a browser for you. So there you go. Thanks."
+    }
+  ]
+}

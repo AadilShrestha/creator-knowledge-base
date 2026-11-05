@@ -1,0 +1,49 @@
+# 145-document-1kGfWk4-T-.docx
+
+_Source: `145-document-1kGfWk4-T-.docx` (pandoc DOCX conversion)_
+
+**Insense Content Creation**
+
+**<u>Insense Templated Messages:</u>**
+
+**Shortlisted Creator:**
+
+Hi NAME! So awesome to hear you're interested in collabing with us 😊
+
+Your profile looks amazing & I have forwarded it to our team.
+
+I will let you know as soon as they confirm!
+
+\- My name is YOURNAME btw & I'm managing this on behalf of CLIENTNAME team.
+
+**Hired Creator:**
+
+Hey NAME! Our team is very excited to work with you on this project 🎉
+
+We need 3 things from you!
+
+1\. Can you send over your email for tracking?
+
+2\. Can you confirm your shipping address?
+
+3\. You understand that this is NOT a paid campaign & agree to send content back in exchange for product only
+
+CREATOR SHIPPING
+
+ADDRESS HERE
+
+---
+
+Also let me know the products you would like to receive:
+
+PRODUCT LINK
+
+**Product Sent Message:**
+
+Great Choice! Your \[PRODUCT\] should be shipping within the next 1-3 days!
+
+Please update us once you have received the product.
+
+Our only requirement is to please keep in mind for filming purposes & If you decide to add any text or edits to your video, to PLEASE keep things in the middle of the screen as we will be cropping your video down from 9x16 into a 4x5 format as these videos are for Facebook & Instagram.
+
+We look forward to seeing your content!

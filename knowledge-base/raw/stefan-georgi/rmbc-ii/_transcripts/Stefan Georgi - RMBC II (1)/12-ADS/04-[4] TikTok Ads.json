@@ -1,0 +1,34 @@
+{
+  "source_file": "Stefan Georgi - RMBC II (1)/12-ADS/04-[4] TikTok Ads.mp4",
+  "source_id": "mega:GwRSGa5C",
+  "audio_sha256": "7864ecd17f5cfcfc332e5e10f585ebe9663a8c8816b0dfc8db64393c48661dd5",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 89.69,
+  "last_segment_end": 88.91,
+  "segments": [
+    {
+      "start": 0.21,
+      "end": 26.14,
+      "text": "Hey guys, how's it going? Max Finn here. Now, we are going to cover a lot of stuff in this module, specifically around how to create really profitable TikTok ads. Okay. Now, one thing I want to make just crystal clear before we dive into all the great stuff in this module is that, yes, while this is going to be specifically kind of focused and the examples we're going to talk to and stuff are around TikTok, these are fundamental principles to creating great ads."
+    },
+    {
+      "start": 26.14,
+      "end": 54.85,
+      "text": "kind of boundaries between platforms have quickly and rapidly dissolved, and they're going to dissolve even faster in the coming year and years. So what that means is the strategies we'll talk about today, the principles, the stuff you should be doing, the research steps, the fundamentals that you put in place is going to allow you to not just create better TikTok ads, but better Facebook, Instagram, YouTube, Snap, print, TV, whatever it might be, because you understand what gets somebody to stop."
+    },
+    {
+      "start": 54.85,
+      "end": 80.91,
+      "text": "pay attention what gets them to actually kind of flip those switches in their brain to go from cold i don't care to red hot here's my credit card let me buy those are universal and those transcend platforms so we're going to cover a lot of great stuff we're going to dive in right now but i wanted to kind of preface this uh this series of videos with that little lesson little tidbit here because you might be watching this and be like well i'm not running tiktok ads right now no big deal right"
+    },
+    {
+      "start": 80.91,
+      "end": 88.91,
+      "text": "still go through this module because you're going to pick up a lot of stuff in here that's going to make your Facebook ads, your YouTube ads, wherever else you're running ads, a lot more profitable. So let's dive in."
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+1
+00:00:02,740 --> 00:00:28,100
+All right, cool. So today I'll keep letting people in, but we're going to be continuing on with like kind of the, not kind of, but just the breakdown and trainings around video sales letters and tech sales letters. So that will include both like long form, like 45 minute plus things, and also more medium form or medium length, like 16, 17 minutes.
+
+2
+00:00:28,100 --> 00:00:56,210
+Also short form, I'll probably do short, like six to seven minute VSLs as a separate training altogether after we've gone through these initial pieces. But the goal is to really, you know, get you dialed in because I do find that when I'm doing reviews and feedback, one of the biggest opportunities for improvement is on people's video sales letters and text sales letters. And that's definitely something that I'm pretty experienced and proficient at having, you know, really good track record there.
+
+3
+00:00:56,210 --> 00:01:24,320
+So last week we did a overview of kind of the structure of a sales letter or video sales letter. And that's in the members area if anybody missed it. And this week we're going to go specifically into leads. Before we do that, though, we are going to do what we usually do, which is give people an opportunity if they have any wins that they want to share, whether it's in the chat or you want to unmute yourself and share something. Feel free to do that. I would love to hear it.
+
+4
+00:01:24,320 --> 00:01:53,090
+Some weeks we have a bunch of wins and it's awesome. Some weeks nobody shares and that's okay too. But if you've got a win, I would love to hear what you got. And we're going to look at other people's example. Some people shared leads. And if you have a lead you want me to look at and how in this training, we'll do that too. But anyone have any wins you want to share before we get going? Yeah, man. It's a win that I'm here. It's my first week. I just want to say hi. Hey, Jay. Yeah, excited to be a part of what you're creating, man.
+
+5
+00:01:53,090 --> 00:02:21,680
+just found you through some youtube stuff and go down the rabbit hole and uh yeah incredible content and uh yeah super excited to uh to learn more awesome yeah thank you for being here really excited and uh yeah i'm gonna do a post introducing you uh in the whatsapp group to the business owner one i um i know i think you did the onboarding forum like last night or early this morning so i usually take information from that but i definitely will but yeah i'm glad you hopped on and good to see you uh i like the red background too i feel like you know it's uh
+
+6
+00:02:21,680 --> 00:02:55,630
+Yeah, I don't know. It looks very formal. But, yeah, you got the tats and, like, the tank top, and you got the nice, like, the chandelier in the background. It's a nice contrast. But definitely glad to have you here, man. Thank you. Anybody else have one you want to share before we get going? Sure. Oh, nice. There we go. All right. Well, we recently set up, what was it? It's called a browse abandonment email sequence where it's just, like, people visit a book a call page.
+
+7
+00:02:55,630 --> 00:03:22,290
+and then they don't book you retarget them just with like eight emails or you don't really need that much but but into the month of june we've already made 5k just from that sequence alone in two deals so nice i just think email marketing is pretty sick because you know you can set it up once i mean with continuous optimization of course but you pretty much set it up like the bulk of it once and it can continuously make money so i'm curious to see how much we do with that in the first month so
+
+8
+00:03:22,320 --> 00:03:49,260
+Yeah, super exciting. That is a great one. And I agree. For my peptide company, it's a pain point. I actually posted again today because I'm looking for a list manager. And I had some different applicants. I had one guy I liked and he ended up not working out. But I'm like, oh my God, we're leaving me so much money on the table. And so many businesses, I think, do wait too long or they aren't that dialed in and they sort of take their...
+
+9
+00:03:49,490 --> 00:04:11,520
+you know, the list for granted. And I'm not just about buyers. I mean, to your point, right? It's not just about like buyers are super valuable, but like abandons and win backs and there's just so many sequences and touch points. And it's the aggregate of that can really transform the economics of your whole business and your ability to scale more and all of those things. So I think that's a great one.
+
+10
+00:04:11,520 --> 00:04:36,260
+Because it doesn't, you know, I mean, you're not really paying any extra money to get those backend sales, number one. And number two, you don't even have to be, you know, great at copy. You can just, it's kind of like the easiest money on the planet, just setting up email sequences. Totally. Yeah, I completely agree. And it's crazy how much it works, right? I mean, people. Yeah. Yeah, it's proven. It's all really like so much of everything is like a numbers game. You know what I mean? Like you hear that with like.
+
+11
+00:04:36,260 --> 00:05:03,340
+traditional sales like if anyone's ever done door-to-door or like phone sales and people go oh it's a numbers game but it actually really is you know what i mean it's like it's true if you call 100 people that are kind of qualified a couple of them are going to buy usually right and same thing with like emails it's like you just email 100 people a couple people are going to buy or a thousand people whatever it is and uh it's just having those touch points and showing up uh but yeah it's kind of like free money and so 100 percent
+
+12
+00:05:04,430 --> 00:05:39,230
+That's cool. Thanks for sharing. Anyone else got one you want to share before we get going? Yeah, I got a couple things. Nice. The girl that we have as the model for the VSL is such a natural and just crushed it. I was kind of nervous about how her performance would be, but I listened to her and I'm like, shit, I want to buy that. I'm not even a woman. That's awesome. And then yesterday we launched a sale and we did pretty well, like 6K just on email in one day. So that's pretty good. Nice, man.
+
+13
+00:05:39,230 --> 00:06:05,810
+That's good. That's awesome. Those are both good. Having a natural spokesperson is extremely important. Like, I can't tell you how many times I've seen great copy with a really bad spokesperson, and it all just kind of goes to shit. And then, you know, like, again, a good spokesperson can do wonders. So, yeah, that's awesome. I saw pictures of her because she was commenting. This is for the skincare thing, right? And so she seemed like a pretty, like, you know, she seemed, I'm like, yeah, she...
+
+14
+00:06:05,810 --> 00:06:38,620
+seemed attractive and nice to me that and like as a face of the brand type of way not like a you know not a creepy way um but I'm like I'm like oh yeah she looks like a good like face for the brand so the fact that you know she's also good on camera and really natural is just uh that's great yeah thanks yeah of course anyone else got anything you want to share before we uh any wins before we jump in I enjoy these so I'll say I guess for me for the going back to the peptide company we put out five different job offers today so we hired like a um
+
+15
+00:06:38,620 --> 00:07:04,340
+person who's like going to be writing ads and managing like the production of the ads, basically producing the ads and writing them. We were going to do two different positions there, but one guy really wanted to do both and he was super solid and dialed in. So we hired a person for that, a daily email writer, going back to the email marketing stuff. We hired a full-time CRO team. So it's like not just a kind of like...
+
+16
+00:07:04,340 --> 00:07:33,980
+strategist guy, but also he has a team of developers and things. That's really exciting. They're going to be doing four to six split tests per month that are kind of big needle moving ones. And we'll be measuring the results. I'm really excited for that for my own business because we're doing well. We're up to about 150 to 200 sales a day, new sales, and the rebills are starting to compound. So we're over 200 plus orders every day now. And by next month, just on the compounding, we'll be over 300, 350 orders a day.
+
+17
+00:07:33,980 --> 00:08:04,050
+But of course, we also want to scale more on the new customer acquisition. But with that much, we get 10,000 to 15,000 visitors a day to our funnel, at least right now. So we should be able to run a good amount of tests and move the needle. And that's all going to help us a lot. But then obviously, I'm excited to be able to share it in CA Pro because we have all these wins. I'll just have nicely formatted things that work and didn't work that I can bring to our members and say, hey, check this out. And it'll be over.
+
+18
+00:08:04,300 --> 00:08:29,900
+a lot of orders and, you know, a lot of traffic. So that's really exciting. And then we hired a director of sort of content marketing. So like sort of for building up the social, like, you know, profiles and other content, because we're trying to build in our space. I don't want to, I don't want to side tangent as much. I'll get into leads in a second, I promise, but trying to build that brand equity too. Right. Because again, our space is very competitive and.
+
+19
+00:08:30,190 --> 00:08:59,700
+I actually like that about my space doing peptides. It's like, I want a space where, uh, I know it sounds weird, but it's like, I can go launch like a, you know, random kind of offer or funnel. And I know I can scale to eight figures and that's cool, but I've actually done that a lot of times. And so in order for me to be excited, I'm kind of like excited to be in the space where there's more competitors and there's pricing pressure and there's like, you know, HIPAA compliance, all that weird stuff. It sounds weird, but I'm like, man, this is cool. Like, you know what I mean? Like, I like, I'm like, this is, I'm actually excited about this. So, um,
+
+20
+00:08:59,730 --> 00:09:28,560
+Anyway, we're hiring a bunch of people. I'm really excited for that and to be able to share things with our community as we continue to scale and grow from, we'll do between 1.6 and 2 million this month for the peptide company. But I think next month, yeah, I don't know if I do three to four. I mean, basically it should be almost like at least doubling in revenue every month for the time being. So I really think we're going to get to like a 10 figure business. It was crazy. We did $16,000 in sales in December and now we're doing, you know, probably.
+
+21
+00:09:28,560 --> 00:09:59,150
+close to 2 million for, you know, June. So it's pretty fast. And that's what I love about the world of, you know, kind of D to C, especially with the right offer and product and marketing and all that kind of stuff. So anyway, let's go back to the magical world of video sales letters and tech sales letters. And as mentioned, we're going to be talking a lot about leads today. We talked a lot about the structure last week. So share my screen.
+
+22
+00:10:00,340 --> 00:10:29,420
+So as we went over last week as a quick review here, we'll start off as a review and then we'll dovetail into a not review. We kind of looked at the really basic outline for sales letters from a structural component last week, right? There's like a hook or like a kind of micro lead. The actual lead, we're going to look at these two things today. Background story, discovery story, the unique mechanism of the product and solution, product build up and reveal.
+
+23
+00:10:29,460 --> 00:10:58,560
+close, and an FAQ. Again, this is in circle for those who missed it. You can go to the weekly trainings to see last week's training. We looked at some different formats and things of that nature. And then we're going to be going through these different sections in depth over the next several calls. So today I want to actually get right to our sales letter outline and we'll look at the kind of pre-lead, micro-lead, and also the lead itself. And then we're going to look at, as mentioned, a bunch of examples.
+
+24
+00:10:58,560 --> 00:11:28,580
+So when we talk like a pre-lead or micro-lead, really what we're talking about is a lot of things that are just sort of like there's a strong hook or an attention-grabbing opening line, quickly relates to the pain point that the prospect is facing, and then quickly relates to promising a solution. That's generally it. So the reason that I have it as a pre-lead slash micro-lead is it could just be a sense or two in your lead, or it could be what we talked about last week, but I'll kind of share it again.
+
+25
+00:11:28,580 --> 00:11:54,380
+uh my computer give me a sec to do that um share computer sound right like somebody uh i think it was damon mentioned this brand ancient remedies revive for example but what you know a lot of people are doing what's really working these days is running vsls as like in feed ads for example on meta and having my dog's gonna freak out here so it's perfect
+
+26
+00:11:54,380 --> 00:12:28,690
+um and having a bunch of different little hooks for the first like 30 seconds minute long whatever it is um that are different or unique and then after that like it goes into like a root or like the rest of the video sales letter so you know let's see if these people for example target inflammation and joint pain with rosemary what happens if you dog stop sorry guys one sec all right you drop rosemary leaves into your bottle of olive oil rosemary is well known for its memory boosting effects
+
+27
+00:12:28,690 --> 00:12:54,540
+and has even been shown to promote healthy hair growth. But what most people don't know is that it's also a powerful anti-inflammatory combined with olive oil, which is packed with antioxidants, anti-inflammatory compounds, and those good fats you need. So what happens when you add rosemary into a bottle of olive oil? You create a delicious and powerful infusion that can keep your inflammation under control.
+
+28
+00:12:54,540 --> 00:13:22,990
+Giving your body that extra healthy... What's really interesting about these guys is she's talking about rosemary and olive oil in this combination. Let the fusion sip. And she keeps going, right? Many of my patients... And then it goes to this actual BSL. You can see the format's different, right? We'll obviously go into the scripts themselves. But the way they're doing it is you sort of open these that are very educational. So what happens if you drop rosemary leaves into like oil, right? Olive oil. I think it was... I swiped one of these. Was it this one here?
+
+29
+00:13:22,990 --> 00:13:51,660
+Like, here's another one, right? 32 minutes long. It's just the whole VSL. Cinnamon plus honey to beat inflammation. Oops! I accidentally dropped some cinnamon sticks into my jar of honey. So their whole thing, right, is a little hook of curiosity. Like, you know, cinnamon plus this to beat inflammation, cinnamon plus honey, right? And then, oops! Like, so grabbing your attention right away. I dropped some cinnamon to my jar of honey. Honey. But wait, this could actually be a lucky mistake for helping to manage inflammation. So they're pretty interesting. And then if we go, you know, if I skip to like...
+
+30
+00:13:51,660 --> 00:14:20,210
+right back to the vsl so we're talking about these sort of like micro laser hooks and we'll get them in more detail shortly we're generally talking about something that goes in front of the actual video sales letter um but i do want to actually look at the structure of like the lead the rest of it i just realized am i sharing the wrong screen are you guys seeing what screen are you guys seeing are you guys seeing what i was just showing are you seeing my uh vsl summary page hold a second no i can see the right one okay just making sure all right cool
+
+31
+00:14:20,340 --> 00:14:51,340
+I guess I have the thing open twice. Okay, cool. Okay. So what are we really doing in the lead? And again, we'll kind of come back to micro leads, but we'll look at examples of this pretty much immediately. You're really just calling out the problem, the prospect basis, similar to sometimes what you'll be doing in the micro lead or pre-lead. You're promising a solution to that pain point or problem. And often there's a promise to save time or money. You'll often be teasing an emotional discovery story if there is one.
+
+32
+00:14:51,340 --> 00:15:20,160
+You're teasing the unique mechanism. You're often teasing the contrarian nature of this mechanism. It flies in the face of what you've been told. I'm going to show you, again, examples in just a moment. Working in fascinations as an incentive for continuing with copy. I'll answer this riddle for you. Briefly mentioning credibility builders. Qualifiers, who does this work for? Speaking to your market. Briefly addressing skepticism and including a few broad testimonials, if available. So really, when you look at it that way, what is the function?
+
+33
+00:15:20,160 --> 00:15:50,290
+of the lead right it's to just grab your prospects attention and then build rapport like connect with them make them often like you know curiosity is often used but really it's like it's like whatever you're gonna do to grab their attention and then also make them feel like you're really speaking to them and so calling out the problem and promising the solution is like you know because we want to be like like like they want to we're trying to qualify who this is for right if you're suffering from this uh here's a solution that's going to solve that problem
+
+34
+00:15:50,290 --> 00:16:19,440
+Right. But you're doing a lot of teasing in the lead. You're not necessarily trying to educate. You're not necessarily trying to tell them how to solve their problem or pain point. You're more so telling them that you're going to show them the way. And it's going to be something very interesting or fascinating or what they haven't known. And so really, the way you look at that is we talked about emails a few weeks back. I talked about how the subject line is really an advertisement for the email. It's like to get you to open the email. Right. And then.
+
+35
+00:16:19,440 --> 00:16:45,970
+The first line of the email is really almost like an advertisement for the rest of the email. It's to get you to read the rest of the email. And then the call to action is to get you to go to the sales letter, right? The headline of a sales letter or the sales page, I should say. Like the headline is, again, an advertisement to get them to watch the video or to, you know, read the sales page. But with VSL, same thing, that the lead is really an advertisement for the rest of the video sales letter. And advertisement doesn't mean like in a hypey, like sort of, it shouldn't feel like an advertisement.
+
+36
+00:16:45,970 --> 00:17:14,960
+But really all you're doing in the lead, and I think this is actually super important because it's a huge issue. In general, all you're doing in the lead is you're just trying to sell the prospect on the value of watching the rest of the video sales letter or reading the rest of the sales letter, right? And how do you do that? You, again, make sure that, hey, you call out the pain point that they're dealing with. You promise them a solution and you make them really curious.
+
+37
+00:17:14,960 --> 00:17:40,860
+to where they're like, man, I got to know more. So I think where people mess up on their leads, one of the places is, again, that they start going into education or teacher mode too fast. They try to be like, hey, you know, like, I'll just show you guys examples. But if you start teaching them all about the unique mechanism, right, that's a different part of our structure. As mentioned, it's like, you're going to teach them here. Your job isn't to teach them here, right?
+
+38
+00:17:40,860 --> 00:18:09,890
+And this is a structure that, again, there's always nuance, there's exceptions. You might be like, well, I saw something where they talk and they do teach about it. Like, sure. But let's just kind of get through the foundational stuff that most of the time works. And we can always look at sort of exceptions in a future training call. So let's just look at some actual examples and we'll see how they stack up. And then do note as we go into that, that these are not, this is not like a must have order. Sometimes you'll see things like out of order, but generally most of these elements will be hit.
+
+39
+00:18:09,890 --> 00:18:38,100
+So I'll show, for example, this is like the Beat Your Control lead we did for Metaboost Connect, which was spelt. It's an info product that is for women over 40 who want to lose weight. Mario Castelli and I wrote this. It beat their control by like 15%. And this is a nine-figure offer. It was one of their biggest split test wins ever. And this was only like maybe, I don't know, in the last four or five months that like that happened.
+
+40
+00:18:38,100 --> 00:19:09,280
+So let's just look at this lead. And by the way, I don't even think this lead is actually that good, but it works. So it's interesting. We'll talk about why. What do I mean by that and why? Okay, so headline, which we're doing a whole other training on headlines, but stubborn nutritionists, these five tasty superfoods help women over 40 regain the effortless full-speed metabolism they had back in high school. Okay, if you're a woman over the age of 40 and you're struggling to melt those stubborn pounds, then do yourself a favor and stop listening to all the so-called fat loss experts because they have it all wrong. Here's why.
+
+41
+00:19:09,280 --> 00:19:37,360
+Most of them like to tell you things you have to cut out of your diet. You know, the wine, the chocolate, the carbs, pretty much anything fun. But according to the latest nutritional research, the real secret that's helping hundreds of thousands of women in their 40s, 50s, and 60s burn fat like they're back in high school again has very little to do with the foods you cut out of your diet and a lot to do with the foods you add in. Because these women are using five simple tasty superfoods to support a supercharged metabolism and start burning through their stubborn fat faster than they have in years or in some cases decades.
+
+42
+00:19:37,360 --> 00:20:04,420
+And that's a much smarter way to uncover the slim, fit body you want. I mean, think about it. When you were a teen or in your 20s, did you have to worry about every little slice of pizza you enjoyed, getting stored as stubborn fat around your belly, hips, thighs, or other troubled areas? Of course not. Because your metabolism was fast enough to burn it off with no problem. But as you get older and your hormones change and your metabolism slows down, that's when your weight starts creeping on you. It starts with a few extra pounds here and there, but it adds up fast. Before you know it, you find yourself 30, 40, 50 pounds overweight.
+
+43
+00:20:04,420 --> 00:20:33,060
+And worst of all, that weight refuses to budge, no matter how many restrictive diets or hardcore workout programs you try. So instead of feeling proud, confident, happy, you start hiding from photos because you're ashamed of how you look in them. You start swapping out those cute little outfits that you used to love to wear for oversized clothes to cover up your troubled areas. It's a sad, stressful way to live. It doesn't have to be this way. Because by adding these five specific superfoods into your daily routine, you can help reignite your sluggish metabolism and give your body supportive needs to start melting through its stubborn fat stores quickly and efficiently.
+
+44
+00:20:33,060 --> 00:21:01,490
+without having to swear off all the foods you love or torture yourself with some impossible to keep up with workouts. And as hard as that may sound to believe, I know it's true because I've seen it happen thousands of times, including with my own sister, Danielle. Because as soon as I introduced her to these five tasty superfoods, she was able to end that frustrating cycle of weight loss failure and flush away eight, seven pounds from her body overnight. And that's a big claim. I'll come back to that in a minute too. Even better, those eight pounds are just a start. Because these five superfoods helped turn Danielle's body into a fat burning machine again for the first time in almost 30 years.
+
+45
+00:21:01,490 --> 00:21:30,290
+In just a few short weeks, she was able to melt all of her most stubborn fat from most troubled areas, allowing my sister to regain her pre-baby body that she thought was gone forever. And the best part of all is Danielle is not the only one the secret is worth for. Because these same metabolic superfoods have helped over hundreds of thousands of women all around the world, most of which are in their 40s, 50s, 60s, and even 80s, burn stubborn fat faster and easier than they ever thought possible. A woman like Gina, who's 53 years old and lost 14 pounds in her first 10 days, or Jill, who lost 40 pounds and 26 inches of stubborn fat.
+
+46
+00:21:30,290 --> 00:21:58,240
+on her belly, hips, thighs, and other troubled areas, or Paula, who's 56, dropped 42 pounds and went from a size 14 to a size 2. Now, obviously, those are some amazing, hard-to-believe kind of transformations, and individual results are always going to vary. But if you're anything like these women, and the traditional diets and exercise programs you've tried have a few frustrated and disappointed, there's a really good chance that these five metabolic superfoods are going to be an absolute life-changer for you because they can help you melt fat from all of your body, including your most frustrating troubled areas. And this is a lot. I'm going to go through the whole lead, and then I'll go back to the thing.
+
+47
+00:21:58,240 --> 00:22:22,750
+Even the notorious four L's that so many women over 40 struggle with. The lower belly, love handles, lifted butt, and loose arms. Because I know how frustrating it can feel to be to feel like you're trapped in a body that's working against you. And I want to help you boost your metabolism so you can feel slim, sexy, and confident again. So you can wear anything you want to wear, whether it's skinny jeans, that little black dress, or that cute little bikini you thought you'd never wear again. So you can get showered with compliments everywhere you go from friends, family, neighbors who believe.
+
+48
+00:22:22,750 --> 00:22:50,050
+who can't believe how amazing you look. So you can reignite the intense kind of promenade romance of that special someone who can't keep their hands off you. If that's the kind of transformation you want to make, make sure you pay very close attention to every word of this special free video because I'm going to share all five of these powerful metabolic superfoods with you and show you the exact way thousands of women in their 40s, 50s, and 60s are using these foods so you can support a maximum speed metabolism and melt stubborn fat without ever obsessing over your weight ever again. Okay? So...
+
+49
+00:22:50,050 --> 00:23:18,770
+If we go back to this lead, by the way, the big claim around the eight pounds, it's like a detoxic flush thing where that's like what people lose on average. And they have like just a ton of customers. So it's not like a supplement, but it's sort of like a water like a thing where people lose a ton of weight on it. So I actually have like these results. It's not like just as an FYI, I guess. But if you talk about calling out a problem, right? OK, well, if you're a woman over the age of 40 and you're struggling to melt those stubborn pounds, so immediately like.
+
+50
+00:23:18,770 --> 00:23:48,900
+calling out a problem, like a woman who's over 40 and who's struggling to mow their stubborn pounds. Do yourself a favor and stop listening to all the so-called fat loss experts because they have it all wrong. So we just sort of mentioned that tease, contrarian nature of the mechanism, right? Teasing that's contrarian, okay? And we kind of go on with that, teasing of the contrarian aspect of it, right? Most of them tell you to cut out these things, but according to the latest nutritional research, so we're kind of briefly mentioning a credibility builder.
+
+51
+00:23:48,900 --> 00:24:18,340
+The real secret, right, isn't about cutting foods out, but it's adding foods in, and specifically five simple tasty superfoods. So like this five tasty superfoods thing was also mentioned in the headline. And that's sort of like the big idea of this lead that one other, I guess, factor that is worth making a note of is a repetition of like there being one thing, right? In this case, like there's a lot of repetition of like these five tasty superfoods or sort of like simple tasty superfoods. They're going to get repeated a lot of times from here on out, right?
+
+52
+00:24:18,340 --> 00:24:47,840
+If you go to promising the solution, well, it's like adding these five simple tasty superfoods are going to supercharge metabolism, help you start burning fat, and it's a smarter way to go about things, right? So we've done the problem. We've done the solution. We've kind of teased a bit of the mechanism, but we've definitely teased the contrarian nature of it. We've briefly mentioned credibility builders. We've definitely qualified this, right? Who's it for? Woman over 40. Okay.
+
+53
+00:24:47,840 --> 00:25:17,730
+And I think if you were paying attention, you already know that most of these other ones, besides maybe the fascinations, get covered in the sleep, right? Because like, you know, here's a little bit more of the mechanism being teased, right? As you get older, your hormones change, your metabolism slows down, weight starts creeping in. And we're kind of going back to like the pain points more here, right? And we're saying, but it doesn't have to be that way. Back to these five superfoods with the repetition, right? And we're saying it's kind of easy. And then we're like, you know, I know it sounds hard to believe, right?
+
+54
+00:25:17,730 --> 00:25:47,630
+Or that may sound hard to believe. So again, briefly addressing the skepticism. And then it started with my own sister, Danielle. So we're kind of teasing that emotional story, right? It helped her sister, Danielle. And then like, you know, the other, you know, if we talk about sort of a few broad testimonials, right? Who it worked for without giving away the product. Well, here's a bunch of these sort of like testimonials or case studies of people who are in here.
+
+55
+00:25:47,860 --> 00:26:19,380
+Um, and sort of saying like, okay, that got hit as well. Right. And so then we get back to the promise of the end. Okay. So like, if you look at it, the only one that didn't really have is any, uh, fascinations, you know, most of, you know, what fascinations are sort of like, I'm also going to be revealing why Harvard says that, uh, you know, the secret to weight loss could be hidden inside of your, you know, the top shelf of your refrigerator right now.
+
+56
+00:26:19,380 --> 00:26:48,940
+Um, and you know, the 30 second water trick that helps you to, you know, flush toxins and improve your metabolism fast or whatever it is. Right. So that's where you could have, that's what fascination is good. But again, basically covers all of these things, which is why we have them in the lead. But what it doesn't do is start going like specifically the hormone we're talking about is cortisol. You see cortisol does X, Y, Z. And if your body, like it doesn't start to go, that's the difference between teasing the mechanism and like actually kind of giving it away. Right.
+
+57
+00:26:48,940 --> 00:27:22,060
+for teasing it like yeah it does tell the results of her sister's uh story but it's not like it's still not telling you all the details and if you go into like the actual transcript of it which is like the transcript here um she tells the story of this woman jill and she talks about her sister danielle um so she's got a couple stories in the script we didn't write that whole script but we did do the lead um but let's look at like another example here we look at this beverly hills pinch test we looked at it last week too
+
+58
+00:27:22,130 --> 00:27:52,510
+Okay, so Beverly Hills MD, right? Does your skin pass the pinch test? Let's try and experiment. If the skin on your face looks loose and wrinkled or just seems to hang lower than it used to, here's what I want you to do. Use two fingers, pinch the skin right below your knuckles for about six seconds. Okay, now let's go. If it stays puckered or doesn't fly out right away, then the sagging you see here is likely caused by an internal issue. And believe it or not, this is actually good news because it also means you don't need a bunch of expensive creams to help tighten its appearance, really. In fact,
+
+59
+00:27:52,510 --> 00:28:18,240
+You may even be able to get better results without them. I know this is weird because it's a YouTube transcript, so the flow is weird here. I know that sounds counterintuitive, but as a scientist, this is one of the best tips I can give you. So if you want to help your skin look more lifted and actually see a real difference, let me show you what I recommend doing at home instead. Hi, my name is Dr. John Lakey. In the next few minutes, I'm going to reveal what's really making these so-called superagers look so young and the one anti-aging scam you should never fall for if you're a woman who's currently between the ages of 35 and 89.
+
+60
+00:28:18,240 --> 00:28:46,450
+If you're a woman who's currently between the ages of 35 and 89, I encourage you to pay close attention because I'll show you a scientifically proven way to help transform your own appearance just by doing one very simple thing every morning. You know it has nothing to do with skin creams or cosmetic procedures, nor does it require any type of fancy gadget. It's something you can do right at home in less than a minute. You see, the method I'm going to show you actually stems from a scientific discovery that was made many years ago, but most women still don't know about it because, well, for one thing, it's not exactly profitable for the commercial beauty industry.
+
+61
+00:28:46,450 --> 00:29:13,390
+And second, it initially was believed to only work for men. I'll talk more about that in just a moment, but let's just say this assumption was definitely false because I have concrete proof that women who do this daily tend to look years younger than their peers who don't. Literally, their skin looks significantly firmer, tighter, and less droopy. They appear to have far fewer wrinkles, and their complexion practically glows with youth and vitality. So I highly recommend that you try it for yourself once this video ends. In the case we haven't met before, allow me to briefly introduce myself again.
+
+62
+00:29:13,390 --> 00:29:38,620
+So kind of a fast lead here. But if we actually go back to it again, all right, let's call it. So there's a hook, right? The hook is a pinch test in this case. Super attention grabbing. Try this pinch test, right? Similar to the education thing that we looked at with Ancient Remedies Revived, right? That's what, by the way, Golden Hippo and Gundry, which is GundryMD and also Beverly HillsMD, right? Same company. They do a lot of like, you know.
+
+63
+00:29:38,620 --> 00:30:07,760
+uh those types of educational things if you go we can look at them in a minute in that as library but if you look at like gundry md pretty much like right so many of their leads are like which is better for you carrots or turnips right you know it's like dr gundry talking and they're sort of like well carrots are actually not very good for you because of one thing so i recommend this and then like it just transfer goes into the the root of the video sales letter right um so they've got this little test right and i'm saying okay well you know if you had issues like contrarian right if um
+
+64
+00:30:07,760 --> 00:30:37,780
+if your skin is messed up, there's an internal issue and that's actually good news. So immediately we're kind of going like, you know, kind of like a contrarian component. Like, you know, the fact that you might have like, you know, structural issues of your skin is good. That's kind of immediately kind of contrarian. And it's also contrarian that you don't need a bunch of expensive creams to help tight its appearance. You know, you get the best results about them, right? As a scientist, so there's a little credibility builder right there, like we mentioned.
+
+65
+00:30:38,100 --> 00:31:08,380
+kind of promising the solution. If you want your skin to look more lifted and see a difference, you know, let me show you what I recommend at home instead. I'm going to reveal, if we go to fascinations, the superagers thing we talked about last week, I think that's just because of a different lead they had originally. So I don't think that's necessarily super relevant, but they just didn't edit it out. In this video, I have a link from last week too, but it was like, you know, 5 million plus views on YouTube. Like obviously it's done decently well. I'm going to reveal what's really making these so-called superagers look so young and the one anti-aging scam you should never fall for.
+
+66
+00:31:08,380 --> 00:31:37,580
+Right. So obviously fascination there. If you're a woman who's currently between the ages of 35 and 89, pay close attention. So, okay. Like qualifiers, who is this for? Right. And then big promise. I'll show you a scientifically proven way to help transform your own appearance just by doing one very simple thing every morning. So like there's your, your big promise. And again, contrary, nothing to do with skin creams or cosmetic procedures, no gadget. Remember I talked about problems to save time or money.
+
+67
+00:31:37,580 --> 00:32:05,940
+This thing you can do right at home in less than a minute. So it's like, okay, you're going to save time right there, right? And you're going to probably save money, it seems like, because it doesn't have to do with skin creams, procedures, or fancy gadgets. It stems from a scientific discovery made many years ago. Most women don't know about it because it's not profitable, and they thought it only works for men. So, okay, what are we doing? We're teasing a unique mechanism right there, right? We're merely saying, like, this is something that is a little-known discovery, and there's also credibility.
+
+68
+00:32:05,940 --> 00:32:36,830
+tied in there as well right um again women who do this tend to look years younger than their peers so more promises try it for yourself when you're going to hear so what did it not have um i guess it didn't really address skepticism they don't have testimonials in theirs which is actually kind of interesting uh they do have the pinch test but they don't they don't have and that's actually gundry often doesn't do testimonials so i think they're better they probably don't do it for compliance to be honest with you they're just worried about you know
+
+69
+00:32:36,830 --> 00:33:05,900
+having too many of those testimonials. We did have a qualifier. We definitely had a credibility builder. We definitely had fascinations. We definitely teased the contrarian nature of the mechanism. We definitely teased the unique mechanism. The NT is an emotional discovery story, which I actually do have a little bit of one. If you look at the transcript, it starts when a woman comes into his office, right? There's a woman called Linda. So maybe that's something that I would have done if I were Bevitho's MD. You could be like, well, how would you do that?
+
+70
+00:33:05,900 --> 00:33:37,170
+It's kind of like, well, you know, push back to the glows of youth and vitality. In fact, you're going to be amazed when you see what happened when one of my patients, Linda, used this. You know, the transformation of her skin was incredible. She went from feeling like her best years are behind her to getting compliments every day from friends and family who couldn't believe how much more youthful her skin appeared. And I'll share Linda's whole story in just a moment with you, right?
+
+71
+00:33:37,170 --> 00:34:02,610
+Maybe you say, oh, by the way, I know it's not hard to believe this has worked for thousands of women, including a patient of mine named Linda, right? Because then you boom, address skepticism and boom, you like tease that story. So those are maybe two things. It would have only been another sense or two to work those into this lead, but might have actually, you know, it's not a huge deal. Again, I think this is obviously working, but those would be easy ways to also incorporate that in as well.
+
+72
+00:34:02,830 --> 00:34:29,040
+Now I've got a bunch of additional examples of a couple of leads that David shared. I think David shared them. It was me. Let me pause for a minute. Does anyone have any questions based on what we've just covered so far here with this structure? I have a question. Yes. Hi, Stefan.
+
+73
+00:34:29,040 --> 00:34:54,340
+So for me, whenever I'm writing leads, I get very stuck sometimes on the first line because, you know, like it has to be really attractive, whatever. But then I see leads very good ones like the one for Svelte that you just showed us that starts literally with if you are a woman over 40 or then I see somebody's like, did you know that like the typical openings? So.
+
+74
+00:34:54,340 --> 00:35:22,000
+Like, when do you decide to use those? Because like, I know that if I deliver a piece of copy to a client starting with a line like that, they might be like, oh, this is too simple or something like that. So I just get really in my head about it. Yeah. I mean, I would usually just give them a couple options to test. You know what I mean? And I would probably like, you really do need to test leads. I mean, yeah, like Dario, right? Who's our mastermind. Obviously, they're a couple million bucks a month. And they said that.
+
+75
+00:35:22,000 --> 00:35:51,840
+He said they went through, like, I think 130 different micro leads before they basically found the one that enabled them to scale to a couple million dollars a month. And so I do think, like, even it's just a couple different opening line options, you know what I mean? Or, like, the first couple. That's the thing. It doesn't really need to be, like, if a lead, say, 300 to 700 words long, but it doesn't mean three, four, five leads that are 300 to 700 words long that are all totally different.
+
+76
+00:35:51,840 --> 00:36:21,180
+to me that in fact wouldn't make sense really but it might be like testing just some different opening lines and things are kind of cyclical like we talked and we were at the um the cpro you know mastermind in march uh several people who are you know doing healthy figures were saying that the um sorry i'm trying to find that one again uh like the sort of if you're a woman who you like that like i've said in the past much i hate those sort of like leads right because it feels like the radio announcer like sort of if you're a woman over the age of 40.
+
+77
+00:36:21,180 --> 00:36:50,300
+But I've had some people be like, oh, yeah, it's actually working pretty well for us right now. And you're like, damn, okay, right? But, you know, it also depends what's in the lead. I mean, I generally want something interesting in there. Like, I mean, I guess going back to this one, like, I think it's written well. It's just surprising because it's not, like, insanely crazy hooks in it. It's not like, you know, the five-second...
+
+78
+00:36:50,300 --> 00:37:21,140
+japanese water trick that can help you lose a bunch of pounds right it's like five simple tasty superfoods eat these and lose weight um it's sort of surprising that it did so well for them or has done so well for them and is there control um and i mean i think it's just because it's like i talked to mario about it and mario's feeling too was it's kind of just like you know it's really simple this is like you know everyone's telling you to cut out foods but actually you should eat more foods and you'll lose weight
+
+79
+00:37:21,140 --> 00:37:52,430
+It's so simple. But, you know, I think you can test that versus, like, other, you know, hooks that are, like, like, you know, I did a version of this for, like, a younger demo. And I actually need to, like, this actually turned into a frustrating project because it's, like, I wrote it for, like, the TikTok generation. And they're, like, well, we want to be, like, you know, more, like, more TikTok-y. I'm, like, what do you guys mean? Actually, it's more their media. It wasn't them as much as the agency they work with. Everyone's traffic. And they're, like, well, we don't really know. And I'm, like, well, it's hard for me to do something if you guys don't know. But let me see if I can find a...
+
+80
+00:37:52,850 --> 00:38:30,190
+uh i'm sorry i don't know i don't like was it this one i'll find in a minute but um i think i shared some of the hooks i did for before maybe but they were like it was like ugc type of hooks yeah i remember you shared with me nicole yeah so it was like here i can pull up real quick right um but you know that is sort of like you know there's like the stop scrolling if you're you know thinking about trying another one of those tiktok cleanses or detox challenges do not try until you watch this um so it's kind of like that's like the opening line um
+
+81
+00:38:30,190 --> 00:39:00,800
+this was sort of like i've lost 23 pounds last few months and say uh in the last two months and today and literally i think they may have added this edit the only change i made was the way i'm eating so here's breakfast kind of basic but goes into that what was the number three but these are really trying to do it like i still really trying to ugc style so they weren't necessarily the craziest but there were a bunch of other leads for them the other day too that were like very uh different but anyway um i guess the point is that really like i was a long-winded way of saying i would probably just give a couple different options for you know
+
+82
+00:39:00,800 --> 00:39:27,980
+the company to test. Okay, but it's okay to start simple then too. Yeah, it is. But if something stands out, I mean, I do generally want, especially though to me, like it also depends on where it's running, like especially for like Facebook, right? Like the idea that you're going to write like a VSL that you're going to run in feed as a Facebook ad and it's going to just like work is like, you're going to have to probably test like, you know, dozens and dozens of sort of
+
+83
+00:39:27,980 --> 00:39:48,180
+micro leads or hooks or openings before you find the one that that really lets you scale so i think a business today has to be prepared for that i feel like okay perfect and just another quick question and this is uh just something that i've been thinking lately and since you've written so many letters for like
+
+84
+00:39:48,180 --> 00:40:17,380
+weight loss and stuff like that for women like i notice constantly most of the top letters usually talk about women who in their past were skinny and now they're not anymore uh but in reality there's like a ton of women that have never been skinny in their lives so telling them like oh when you go back to the weight when you were 20 years old it really doesn't make sense because like they were fat then too so just my question is have you ever tried anything different in that aspect or
+
+85
+00:40:17,380 --> 00:40:53,550
+like to see that one works better than the other thing or or not really yeah that's a good question i mean i think generally um i don't know you know i mean now i haven't explicitly tested it i agree i thought about that too i mean if i if i'm doing something in weight loss i've often tried to be more like you know like the mbc one here the meta boost control or whatever it's like very explicitly like get back to the metabolism you used to have and assumes they used to be like skinny um but
+
+86
+00:40:53,550 --> 00:41:20,270
+i might be more like things have just you know it's gotten harder since you've gotten older like after childbirth right is often used like because i think like for a lot of women like even you know nobody really starts out fat like when they're born right they're not born fat um yo and then you're a kid you know you're not necessarily like super chubby and usually as women get older like the weight
+
+87
+00:41:20,270 --> 00:41:47,360
+gain becomes more and more of a challenge. So even if they were like always struggling with their weight, like it's generally gotten worse in recent years. So we're talking to a demo of 35 plus or 40 plus women. And so kind of speaking, I just, I'm mostly trying to speak to that more than I am trying to say generally, like you used to be skinny and now you're not right. But at the same time, this, you know, is a really, you know, does, like I said, like nine figures, it's like a nine figure offer.
+
+88
+00:41:47,360 --> 00:42:14,780
+yeah it speaks to like hey that's what it says and it works so i don't know it probably has to be sending you tests but i generally would actually probably try not to make that the point you know um but i think one of the rewrites we were doing for um they were doing new leads for i think it was this one or maybe it was a younger one the younger demo we were doing new leads and like the idea was like give you the metabolism of your annoyingly skinny friend right and so instead of like the metabolism you had when you were young for the younger demo it was like
+
+89
+00:42:14,780 --> 00:42:44,620
+because then we're like all right well they're younger they're already overweight that's the other thing going back to like hey well you know you used to be not stuck with your weight in your 20s it's like they're in their 20s right so sort of like in that case the promise was more like hey you know again yeah the metabolism of an annoyingly skinny friend because everyone who's overweight has that one annoying friend who can like eat whatever they want and doesn't seem to gain weight right especially when you're in your you know kind of early mid-20s and stuff like that yeah okay yeah that really helps thank you so much yeah no problem
+
+90
+00:42:44,620 --> 00:43:10,800
+Anyone have any questions before we... Yeah, I have one. It's more of an opinion. I have noticed that in the leads, what works best is having a fascinating topic, like a fascinating idea. So I have noticed that it's better to have a fascinating topic than tick all of these boxes. And I would like to know what is your opinion on this idea.
+
+91
+00:43:11,340 --> 00:43:40,340
+i mean i would agree if i had to do one or the other i'd rather have something that's like really fascinating interesting because you can tick all those boxes but if there's nothing interesting in there then i don't think it works right i see that a lot i was actually yelling at one of our members who's a i won't say them by name but they're a long time member i did feedback for them yesterday and i was like sort of like you know pretty harsh but i was like because i felt like it was all the copies been really flat lately and it's sort of like but it was like structurally
+
+92
+00:43:40,750 --> 00:44:05,060
+well actually start shit was kind of fucked up but the lead itself was like okay but the copy was like well right like the writing wasn't bad right i think there's a writing but it was like there was no big idea like every single one of them was sort of like um how do i say this about i don't give away too much but like you know hey i'm a doctor and if you're like uh you know dealing with like you're tired and dragging ass and stuff like that like uh you know it could be because of this like one thing
+
+93
+00:44:05,060 --> 00:44:33,980
+Um, and it's like, you know, but it was, I don't want to say it was just so like, it was just very, there was no big idea, right? You need a big idea. Right. And we, I did do some trainings that were writing really valuable on big ideas. That's before you joined, but it might be worth like watching some of those, but, but if you feel good about big ideas, cool. But the point is like, yeah, I think like, it doesn't matter if you check all these boxes, if you don't have a good big idea or you don't have something that's really gonna pull people in. It doesn't even be a big idea for the whole promo to that point. It can be like hooks. Like, um, again, like, like, oh, I dropped the cinnamon in my,
+
+94
+00:44:33,980 --> 00:44:55,580
+olive oil whatever the hell that on my honey right even that like even saying it's gotta be something that's interesting to pull somebody in for sure and it's gotta directly connect too i think that's the other thing i looked at another piece of copy this morning from another member where it was essentially about like skin issues like eczema and things like that and they were talking about uh like this sort of like riot going on in your skin
+
+95
+00:44:55,580 --> 00:45:22,800
+I don't think it's a good way. I mean, sorry, the person is on this call, but I hope you don't mind because I'm not. I told you to redo it because basically I'm like, but I was like, but I kind of showed it riots on TV and then talk about your skin. But I'm like, that's too abstract. That's too disconnected. If I'm like, I have like eczema, right? Like showing me like a riot from like on the news is it's not going to really connect to like my skin, right? And seeing there's like a riot going on, my skin isn't something I'm going to intuitively understand. But we're going to say like there's a silent, quiet war happening in your skin as like sort of like, you know.
+
+96
+00:45:22,800 --> 00:45:52,500
+bad bacteria tries to eat away at your flesh like zombies and like uh you know causes your itchiness flakiness all that kind of thing like so even switching from like a riot to like the idea of a metaphor of like a war that's happening on the surface of your skin the invisible war happening on the surface of your skin then it's like okay wow there's an invisible war but the idea that like there's a riot on the surface of your skin it's like what's what does a riot mean like what you know so even like just like sort of like the idea has to be like it has to be relevant enough and tangible enough that somebody immediately connects to it versus
+
+97
+00:45:52,500 --> 00:46:22,700
+feeling too abstract where somebody has a hard time understanding it like um if that makes sense as well yeah sorry randall but randall most of the copy that's in that video for you randall most of the copy was like actually pretty good i just thought the riot thing was just a miss because it was just too abstract um you know versus like a war or whatever but actually thought the copy was very well written overall um so that's kind of a good exact example of what task was to say it was like copy was like quite good but it's just like the idea wasn't there
+
+98
+00:46:22,700 --> 00:46:51,820
+So you've got to have a good idea to go follow this for sure. But also to ask this, I think if you can have both, if you have a good idea and you're sort of able to check a lot of these boxes, good. And again, that doesn't mean the micro lead. So maybe the first minute is really just super interesting hook and like, you know, kind of how it looks to the pain point. And it's either really curiosity heavy or interesting or whatever, like cool. And then the rest of the lead can kind of like, you know, go through this. Like even that the pinch testing we just looked at, it was like.
+
+99
+00:46:51,820 --> 00:47:20,450
+The pinch test doesn't do any of this stuff really, but then this part after the pinch test does. So that's the other separation too. So I think if you want to have like the first 30, 60 seconds, it's really dragging somebody in 15 seconds, even, you know, that doesn't need to check all the boxes. But then I think for the actual lead, the more of this you can work in is generally going to be good. Cool. Any other questions? Actually, we can look at your lead stats. So it's after that, as you shared. Okay.

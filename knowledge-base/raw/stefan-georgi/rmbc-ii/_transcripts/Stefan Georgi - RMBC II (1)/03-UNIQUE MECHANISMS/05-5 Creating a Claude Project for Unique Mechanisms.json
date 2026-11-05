@@ -1,0 +1,34 @@
+{
+  "source_file": "Stefan Georgi - RMBC II (1)/03-UNIQUE MECHANISMS/05-5 Creating a Claude Project for Unique Mechanisms.mp4",
+  "source_id": "mega:GwRSGa5C",
+  "audio_sha256": "8a6ad28f7a55f870ce5a2775b1e4f04c1af47616cd08e1a6afbf634cef51a5a3",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 113.49,
+  "last_segment_end": 112.94,
+  "segments": [
+    {
+      "start": 0.18,
+      "end": 28.1,
+      "text": "All right, so this is going to be super fast. It's just how to create the Claude project for unique mechanisms. If you've never created a Claude project before, when you're in Claude, go to projects. You'll see different ones here. Click create new project. Name your project. You'll do a description and click create project. So like mechanisms, what you're trying to achieve, description. Create project. Once you do that,"
+    },
+    {
+      "start": 28.1,
+      "end": 58.29,
+      "text": "You can upload your project knowledge base. So you can also add instructions. I just basically took the same thing from the description, put it here. You're going to have access to that, okay? And save those instructions. And then you just upload documents to create a knowledge base. I mean, I made this one a while ago. It's worth experimenting with. If I do experiment with this and later on improve it, make it even better, I will share that update with RBC2 people if it's within the first year or so when the course gets launched."
+    },
+    {
+      "start": 58.29,
+      "end": 88.26,
+      "text": "This is the description right here. I mean, it's super simple. And then these PDFs are basically just mechanism examples and some transcripts from calls about unique mechanisms, things with the VSL structure, things of that nature. So I don't really feel like I need to go through the PDFs. You can. You'll have access to them. But all you do is you upload those PDFs. You have this. You're ready to go. And then you can use your cloud project in the way you saw in this whole training."
+    },
+    {
+      "start": 88.26,
+      "end": 112.94,
+      "text": "and all the examples, the Airbnb and ice cream examples, et cetera. And as you can see, it's a fun player outfit experiment. It's useful. It's not what I do all the time, but you saw some use cases for it in those examples. And there you go. So super easy and easy peasy. All right, thanks."
+    }
+  ]
+}

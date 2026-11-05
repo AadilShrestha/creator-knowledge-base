@@ -1,0 +1,109 @@
+{
+  "source_file": "Stefan Georgi - RMBC II (1)/12-ADS/04-[4] TikTok Ads video2.mp4",
+  "source_id": "mega:GwRSGa5C",
+  "audio_sha256": "36e841551c9cef5a1c95dc2964b92fbeaa39a3a362237cf92daef83456d81d6c",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 506.69,
+  "last_segment_end": 506.03,
+  "segments": [
+    {
+      "start": 0.11,
+      "end": 27.33,
+      "text": "So the first thing I want to start with has to do with research. And this is a very, very important step that unfortunately a lot of people skip. Now there's two parts to research, right? There's the research of my client, my business, my target customer. And then there's the research of, well, what's my competition doing and what's happening in the marketplace that I need to pay attention to? A lot of people either skip research entirely or they jump to the ladder."
+    },
+    {
+      "start": 27.33,
+      "end": 56.7,
+      "text": "They go and look at all the spy tools, and we'll talk about that in the next video. But they skip this step, and I think this is a huge, huge mistake, especially if you're an agency, if you're an independent contractor and you're running ads for other people, or maybe just it's your business, but it's a new business, and you're still really figuring out who is my customer, what motivates them, what drives them. And so what I want to show you is, and there's a lot of stuff we do here, right? I'm trying to pack as much as I can into this module. This is probably one of those valuable things I can share with you. But again, it's not..."
+    },
+    {
+      "start": 56.7,
+      "end": 85.14,
+      "text": "uh exhaustive i want to be very clear right there's plenty of other stuff you can do beyond this to do research but something we've been doing with every single client we work with every single one of our businesses is before we spend a dollar on ads starting with this deep research prompt that we run which essentially goes through uh what do we have we're up to 83 83 questions that this is going to run through in a deep research prompt and the initial context of that prompt is actually pretty basic"
+    },
+    {
+      "start": 85.14,
+      "end": 112.59,
+      "text": "Now you can obviously make this much deeper if you want. We've built this specifically for audits and different things we do where we want to be able to rapidly develop this output. So we essentially have the context say, hey, I need you to analyze website XYZ, conduct comprehensive target avatar research for this business, go to the website, understand the product service, value proposition, target marketing, pricing, unique positioning, yada, yada, yada. And then kind of here's your mission."
+    },
+    {
+      "start": 112.59,
+      "end": 136.32,
+      "text": "And then we run it through these questions. These are questions that over the last 15 years of running ads that I know, hey, if I have the answers to these questions, I'm going to be in a much better position to create compelling scripts, to create compelling copy, to basically just create a much more compelling flow from ice cold first view of an ad to red hot buyer."
+    },
+    {
+      "start": 136.32,
+      "end": 162.7,
+      "text": "And so it's going to run through everything from the basics, Demograph Foundation, pain points, challenges, goals, motivations. What's the decision-making process look like for them? You know, communication, behavior habits. What are their current solutions? What's the competitive landscape look like? What are their values and preferences? You know, how do you validate different things that they believe? Psychological triggers, emotional drivers. You know, really big on this stuff. You know, behavioral economics, consumer psychology, neuromarketing."
+    },
+    {
+      "start": 162.7,
+      "end": 190.53,
+      "text": "I spent a lot of my time on mastering this because again, back to my first video, if you can understand how people think and why they make decisions the way they do, understanding that most people are illogical, not logical. They might think they make a decision because of X, but really they're making a decision because of Y, because of the subconscious. If you can understand that and what's driving their subconscious decisions and desires, you can make really, really, it's almost like having cheat codes to marketing. You can make very, very high converting ads."
+    },
+    {
+      "start": 190.53,
+      "end": 217.87,
+      "text": "so we have a psychological triggers emotional drivers we have buyer psychology and behavior we have kind of their media consumption attention patterns competitive intelligence positioning optimization conversion optimization objection handling resistance handling um you know how do we build lifetime value relationship building because remember it's not just about how do i get that first sale it's about how do i turn that first time customer into a second third fourth fifth time customer and build the value so i can afford to pay more to acquire that customer"
+    },
+    {
+      "start": 217.87,
+      "end": 244.5,
+      "text": "Then we have test optimization insights, advanced segmentations, usage and success patterns. So we're going to take this entire prompt. And I like to run this actually through multiple models. So we'll run this through Claw Deep Research. We'll run it through Gemini Deep Research. We'll run it through Grock. We'll run it through Perplexity. So here's an example of just one we've done through an audit. And again, we're going to run this through different models. And the reason we run this through different models is because each one..."
+    },
+    {
+      "start": 244.5,
+      "end": 274.19,
+      "text": "is going to be able to pull from some different data source. So for example, Grok is going to pull a lot of stuff from Twitter, right? From all the content in X, which will be different than what Google does with Gemini and different than what Perplexity does and what Anthropik does with Claude. What's interesting, and we've run a lot of these, is they all basically end up on the same person. So no matter what you do, all the models kind of hone in on the exact same person with very, very similar traits and qualities and demographics."
+    },
+    {
+      "start": 274.19,
+      "end": 302.5,
+      "text": "But they're going to give you different perspectives on how to talk to that person, which is really valuable to get that kind of diverse insight. So you're going to run that prompt. You're going to get the really, really valuable feedback. And again, you look at like a Gemini. It's going to give you, you know, this is 46 pages of research. And again, some of this stuff will be pretty basic of just, you know, what's their family status? What's their job title? What's their core pain? Cool. That's great. It's good to have. But then it gets a lot deeper. And then we're going to things like, you know, what are kind of that pain point solution mapping?"
+    },
+    {
+      "start": 302.5,
+      "end": 331.42,
+      "text": "of kind of in their words, what are they saying on a daily basis? So for this business, it's a kind of self-talk app. So I replay the same mistake I make at work over and over again. I know I should apply for that promotion, but I just feel frozen. And then what's the struggle, right? It's fear of failure, imposter syndrome. What's the failed solution? You know, reading in book and confidence, attending a one-off motivational summer. What's this business's solution? You know, it's building a core subconscious belief in one's own confidence and right to succeed. What are the key components of that?"
+    },
+    {
+      "start": 331.42,
+      "end": 359.41,
+      "text": "So you're getting these really, really useful mapping there. And this just goes deeper and deeper and deeper. And there's so much stuff in here. I'm not going to go through all this, just not relevant to you, but it's, it's a gold mine in terms of just content. And you may be asking, well, what do I do with this? How does this then turn into better TikTok ads, better ads in general? Well, when we, then we take basically all of that, and this is for an actual client of ours. And this kind of moves into a much more robust plan."
+    },
+    {
+      "start": 359.41,
+      "end": 388.53,
+      "text": "where this is actually being broken out into kind of what's their pain matrix? What are their core wounds? Everything is getting scored. And this is a combination of using AI for that deep research and then also manually going through all that deep research and really pulling all these gems out, right? Really understanding, you know, if here's our deep buyer profile, here's the demographic, here's the problem, you know, here's just different angles, here's different concepts and ideas."
+    },
+    {
+      "start": 388.53,
+      "end": 414.48,
+      "text": "that we can really build off of for for this individual and so we're able to take this and build really really compelling stories really compelling angles and then from those angles we can turn those into scripts we can turn them to shot lists we can actually turn them into ads but it all starts with this it all starts with understanding who that person is and what drives everything they do and kind of a final step here is"
+    },
+    {
+      "start": 414.48,
+      "end": 444.43,
+      "text": "whatever your ai tool of choice is whether it's chat whether it's claude whether it's gemini whatever it might be um you know i'm a big uh anthropic fan so i like to use claude for a lot of stuff you want to have projects for all of your clients for all of your businesses and then within that you're going to put all of this right so this is an example for one of the clients and this is more of a general one not or add one but just can't share too much stuff with you guys for for clients just for for you know different agreements we have with them but i want to share as much as i can and so like this this document here"
+    },
+    {
+      "start": 444.43,
+      "end": 471.94,
+      "text": "is that document that I just showed with you right there. And so this now has all of this research, all of this information about this product, this offer, this customer, everything about the customer, goals, drivers, pains, desires, motivation, psychological triggers. And so now when I come in here and I want to come up with brainstorming, come up with video ideas and ad ideas and scripts and all that good stuff."
+    },
+    {
+      "start": 471.94,
+      "end": 500.98,
+      "text": "It's using this wealth of knowledge here. So I'm no longer starting at zero where most people start making wild guesses. I'm starting at the 20, 30, 40 yard line because I have all this insight to build off of. So really important here. I want to start this video off with this because again, I think too many people skip this step and it's why their ads suck because they don't know who they're talking to. They don't know how to talk to that person. They don't know how to grab the person's attention, what drives them. So if you can actually just kind of pump the brakes, start where you should start."
+    },
+    {
+      "start": 500.98,
+      "end": 506.03,
+      "text": "it's going to make everything else you do and we're going to talk about the rest of this video in this module much much easier"
+    }
+  ]
+}

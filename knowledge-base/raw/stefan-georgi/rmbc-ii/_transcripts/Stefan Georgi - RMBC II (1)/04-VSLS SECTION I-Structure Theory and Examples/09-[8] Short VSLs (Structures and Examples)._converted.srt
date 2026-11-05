@@ -1,0 +1,15 @@
+1
+00:00:00,660 --> 00:00:28,980
+Hello, welcome to the section on shorter VSLs. This is an interesting section to do. I kind of explained why in some of the videos, or the video. There's one video that's over an hour long. What you'll find is that there's a ton of examples with different sort of short VSL scripts, and we break down a bunch of them, watch a bunch of them, and I kind of go through some different structures. You'll also see that I was using quad to create these structures.
+
+2
+00:00:28,980 --> 00:01:01,010
+um and then kind of modifying them in real time in the video to create kind of outlines but one thing i want to note now that i've done this section and i want you to pay attention to is how you know i'm giving claude these scripts telling it to create outlines and then you know i modify based on what i'm seeing um i just want to make sure you think about that skill as well right because you have the skill of like
+
+3
+00:01:01,010 --> 00:01:29,730
+taking things you like hey quad break it down to the specific structure perfect make it more universal great like you know you can create sort of templates and outlines things like that and we're doing this not just for manually writing copy we're doing because we're going to then feed it into claude as we're creating vsls i really think once we get to that actual creation copy creation section a lot of things in this course will click together for you if they haven't already um but i wouldn't make that point enjoy the examples there's lots to look at
+
+4
+00:01:29,730 --> 00:01:35,540
+You'll kind of see brands you can always go look and find more from. And that should be good. Thank you.

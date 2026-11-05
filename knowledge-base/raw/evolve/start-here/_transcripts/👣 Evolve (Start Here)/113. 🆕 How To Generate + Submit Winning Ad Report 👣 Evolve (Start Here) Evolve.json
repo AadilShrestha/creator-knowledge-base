@@ -1,0 +1,264 @@
+{
+  "source_file": "👣 Evolve (Start Here)/113. 🆕 How To Generate + Submit Winning Ad Report 👣 Evolve (Start Here) Evolve.mp4",
+  "source_id": "mega:jhQDiSSY",
+  "audio_sha256": "6a7d2d8d695c59abcdea0ea5e5b06b73f6e1d1826a5d32454f10e5b4c9020716",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 1165.67,
+  "last_segment_end": 1165.67,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 29.3,
+      "text": "All right, so in this next section, I'm going to show you guys how you can contribute to actually the data inside of the winning ad definitions. Now, first thing that I want you guys to know is that your brand and your ads and all that kind of stuff are not going to be, you know, shared with everybody else that involved. So that's the first thing before you click off on this video. What this will actually do is number one is it'll help you basically combine your data with everyone else to get a much more accurate reputation."
+    },
+    {
+      "start": 29.3,
+      "end": 58.51,
+      "text": "presentation of what the actual percentages should be across your specific category. And the way to do it is actually very, very simple. Okay. And so what you're going to do is you're going to kick things off by just opening your ad account. Now, if you've never been inside of the ads reporting section, what you're going to do is you're going to hover over here and just click ads reporting. If you don't see ads reporting, for whatever reason, just go to your settings and you'll find ads reporting. And then from there, it will pull up something that looks like this. It might be empty. And what you're going to do is"
+    },
+    {
+      "start": 58.51,
+      "end": 81.41,
+      "text": "going to click create a report now for this report you can just call it evolve uh winning ads report just very simple and what you're going to do is you're going to select your actual account and now if for whatever reason you are not spending in usd then what you need to do is you need to make sure that you create some kind of backup empty account so if you don't have an additional ad account"
+    },
+    {
+      "start": 81.41,
+      "end": 107.58,
+      "text": "please create one. I know some of you guys might not be able to actually do that depending on the setup that you have. But the reason why we need to do this is because when you combine two accounts, at least from what I've seen, and then you just go ahead and click create. So you would click create. What you can do is you can now standardize the attribution setting to be seven day click. And then you can also standardize the currency to be USD. Now, if for whatever reason you cannot"
+    },
+    {
+      "start": 107.58,
+      "end": 128.85,
+      "text": "create a second account and you are not spending in usd then unfortunately you cannot do this report you guys can still export it with your own currency but essentially we need everything to be in usd in order for this to actually be accurate but if you are spending in usd and you're just running seven day click one day view or whatever i'm not"
+    },
+    {
+      "start": 128.85,
+      "end": 158.13,
+      "text": "overly concerned about it because what we can do is you can just leave it a seven day click one day view that doesn't have that big of an impact but ideally the way that you would do it is you would just have a blank account like i have with like the eam youtube one and then you would have your actual main account as well okay and so again that just allows you to make the currency usd and change the attribution setting to seven day click right now when it comes to actually generating and exporting the"
+    },
+    {
+      "start": 158.13,
+      "end": 187.34,
+      "text": "report that you need to actually export, you need to have these exact columns. Okay, if you do not have these exact columns, it will not work. So the first column that you need is you need campaign name. So that way the AI can actually read where the ad was launched. Then from there, you need ad name. So you need to make sure that you actually have the ad name there. And then you need to make sure you also select the day breakdown. So this is going to be a big ass report, but it just allows the AI to see every single day."
+    },
+    {
+      "start": 187.34,
+      "end": 206.78,
+      "text": "of performance. From there, you need to add the metrics, amount spent, purchases, cost per purchase, purchase conversion value, and then ROAS. If for whatever reason you do not see ROAS all, it's not a thing here. You will just create the custom metric and all you do is you do purchase conversion value."
+    },
+    {
+      "start": 206.78,
+      "end": 222.1,
+      "text": "divided by amount spend, and then name it ROAS. It'll be a custom metric. And then you just pop it right inside of there. And then what you're going to do, since we've made a lot more progress on this since the end of last year, you're going to set the date from April 1st, 2025."
+    },
+    {
+      "start": 222.1,
+      "end": 239.18,
+      "text": "all the way to April 1st or, you know, May 1st, 2026. I mean, you could continue some of the data set all the way to today if you want. But ideally, in order to run this report effectively, we want to just make sure that the ads have at least eight weeks of spent."
+    },
+    {
+      "start": 239.18,
+      "end": 268.48,
+      "text": "Okay. And then from there, what you will do is you have the first thing done that you need done, which is your giant CSV of just your entire account data from basically over a year. Now, if this doesn't work, sometimes if it's over a year, it doesn't allow you to actually export it. So you might need to cut back to like March of, you know, 2026, just so that way it does it. But it should work depending on how big your account is. Obviously, if you're in the 500k to a mil plus a month range, it's going to take you a little bit longer. But what you're going to do is you're going to export."
+    },
+    {
+      "start": 268.48,
+      "end": 272.22,
+      "text": "this as a CSV. And again, you're just going to call this evolve."
+    },
+    {
+      "start": 272.22,
+      "end": 301.55,
+      "text": "winning ads make sure you include the summary row as well it's very important the ai prefers that and then from there you're going to go ahead and click export and then down here you'll notice that it should say creating export and it's going to be processing sometimes this takes like literally 15 seconds sometimes it can take like two to three minutes depending how big the report is um but while that's doing its thing what you're going to do is you're going to jump into the next step which is getting into github you can see this one's already done now what's weird about meta recently is i've had to refresh before i can download"
+    },
+    {
+      "start": 301.55,
+      "end": 330.77,
+      "text": "but there we go. Now that it's downloading, I have the file there and now you have step one done. All right. Now the next thing that you're going to need to do after you have that CSV is you're going to have to get a little bit uncomfortable and maybe some of you guys are already doing this, but you're going to need to download a visual studio code or VS code. Once you download VS code and you basically open it on your computer, it's going to ask you to like run a bunch of things or whatever it is. And then from there, you're going to be a little bit like, what the hell am I doing? Why am I about to develop? But essentially once you download VS code,"
+    },
+    {
+      "start": 330.77,
+      "end": 359.98,
+      "text": "need to install Claude. And the way that you do that is you just go into extensions over here. So you'll click extensions and then you just look up Claude code. And once you grab that, then you're good to go. And then you will be able to basically go into this folder section here and you will be able to open the folder that you should have created, which is called Claude code. So again, you're just going to open up Finder here. And if you're on Microsoft, I'm not going to lie, I'm not really sure how to help you guys with this, but I think you guys could probably follow along and figure it out. But you'll notice here that again, I just created a Claude code."
+    },
+    {
+      "start": 359.98,
+      "end": 362.0,
+      "text": "folder so you just come into here just like"
+    },
+    {
+      "start": 362.0,
+      "end": 391.3,
+      "text": "create a new folder or whatever it is. It's very simple to do. And then from there, you're going to actually go to this repo here inside of GitHub, and you will actually just download this entire file. So you'll go here, you'll click download zip. Once you download the zip, go into the download section. And just because I have some sensitive stuff in there, you just drag it from downloads into your cloud code folder, and then you will just double click this, unzip it, and boom, there you go. You now actually have the exact..."
+    },
+    {
+      "start": 391.3,
+      "end": 406.64,
+      "text": "skill and the exact process that you need in order to generate these breakthrough reports. Now you'll notice that I already have one. So I'm just going to open this one. But once you have this in your folder, then you're going to open your VS code. You're going to click open folder."
+    },
+    {
+      "start": 406.64,
+      "end": 435.92,
+      "text": "Again, you're going to go into the cloud code. You're going to select this folder here and click open. And then what you'll probably notice here is you'll have this kind of explorer open. Now you won't have this report and this report down here that I have already generated. So what you're going to need to do now that you have the cloud extension, you're going to need to go to cloud and you're going to click new session. And then if you go back to the folder level here, you'll notice that you're in the exact setup that you want to be in, in order to actually run this. And so now in order to run this, what you're going to do"
+    },
+    {
+      "start": 435.92,
+      "end": 458.69,
+      "text": "do is very simply you're going to take the csv that you just downloaded so as a reminder this csv here that you just downloaded you're going to go into your folder and you're going to drag this if you open this up or zach even showed me this it's kind of cool you can just drag it straight into the account csv section and as you can see it will pull this up and then what you're going to do is you're going to come in here and you're going to type slash"
+    },
+    {
+      "start": 458.69,
+      "end": 488.03,
+      "text": "analyze breakthrough and then what the ai will do is they'll say well i need a few details let me know what you need and then you can say i'll type the file name so just submit your answer and then you can tell it hey i want you to do the evolve winning ads uh legally addictive one so again the csv file is going to be here and then the second one that you're going to do is the creative name now this is something that's very important i know some of you chads do not name your ads at all and if you have the new ad"
+    },
+    {
+      "start": 488.03,
+      "end": 505.66,
+      "text": "labeled everywhere in your account, you're honestly going to be pretty cooked. Okay. Because it's going to be impossible for the ad to actually be pulled correctly. And as you can see here for us, we follow a naming scheme. So if I come in here and I type, you know, DCT number."
+    },
+    {
+      "start": 505.66,
+      "end": 534.99,
+      "text": "40, just as an example, and I click ad name contains, I will be able to find that ad just like how I could do the same thing with DCT number 18, which was actually the winner that we wanted to analyze. And so in this instance, this is where you guys need to make sure that you actually have your ads name properly. And you go through this filter process to know that you are actually processing the report on the right individual ad. So to show you guys how to do that, what you would do is for whatever time that you"
+    },
+    {
+      "start": 534.99,
+      "end": 556.75,
+      "text": "chose which again should have been like april 1st 2025 to you know april 1st 2026 and i always do this backwards now if for whatever reason you have deleted ads or whatever it may be make sure you go inside of here and you select ad delivery is all so just click apply here what you'll do is you'll want to come in and filter by spend and so here"
+    },
+    {
+      "start": 556.75,
+      "end": 586.06,
+      "text": "As an example, I can see that DCT number 18 is my top spending ad by far. It's spent basically 90% of the account. Now, again, this account has only spent $100,000 over the last year, so it's a lot different. But my point is, is you will do this as well, and then you will spot whatever ad has the most amount of spend. Now, say, for example, you had DCT 18 duplicated a bunch of different times across a bunch of different campaigns, whatever it may be, and you have multiple variations of it. Well, it's important to make sure that you"
+    },
+    {
+      "start": 586.06,
+      "end": 615.28,
+      "text": "come in and you actually filter by that DCT to see what the total spend is. And so as you can see, there were a couple other ads there that I didn't see on the first page that had another $10,000 worth of spend. Okay. This is important for you to see, because what you want to do is you want to choose the ad that over this timeline has had the most amount of spend. And it's important to do that because again, we want our best ads to run this breakthrough report on. We don't just want ads that did well for one week. Okay. So make sure."
+    },
+    {
+      "start": 615.28,
+      "end": 625.68,
+      "text": "you go over the entire year if you don't have an entire year's worth of data maybe only been running for six months go over the entire six months and find your best ad now it's important that you test this and"
+    },
+    {
+      "start": 625.68,
+      "end": 654.99,
+      "text": "proof this to make sure that you don't screw this up. Even those of you who are going to do this entire process and submit the report to us, I'm going to ask to have access to your ad account so we can go and check it. Again, I'm not going to share with anybody. I'm not going to rip your stuff. My point is, is I need to make sure that this data is 100% accurate. And so for the first few of you guys that decided to do this with us, again, I'm going to go through and proof it, but it's important. And if you guys don't realize this now to make sure that you name your shit. So just as a reminder, we do actually have a naming scheme video inside of Evolve."
+    },
+    {
+      "start": 654.99,
+      "end": 684.21,
+      "text": "So make sure you watch that if you haven't, because again, if your ad is just new sales ad and you have 20 new sales ads and you'd be surprised what I've seen in some of these counts is embarrassing. You guys will not be able to do this properly because the AI is not gonna be able to tell the difference. And before you try to get creative and be like, oh, I'm just gonna use the ad ID, that doesn't work either because again, you probably have duplicates of it, which is why it's important to make sure that you have your naming scheme selected. And so again, in this instance here, I would want to run the report on DCT number 18."
+    },
+    {
+      "start": 684.21,
+      "end": 703.78,
+      "text": "because it spent basically 80% of the spend. So again, I'll do DCT. Number 18 is the ad name. And then your brand name here, you can put the brand name. And for this brand, it's illegally addictive. And then you're going to go ahead and hit enter. And what it's going to do now is it's literally going to run the entire analysis. And it's going to ask you to like install some Python."
+    },
+    {
+      "start": 703.78,
+      "end": 724.77,
+      "text": "install the python again i promise you guys it shouldn't break anything in your computer it's not gonna blow anything up or you know let hackers in run the python if it tells you to download this python installation then just download it okay it's going to help generate the report and as you can see it just ripped the entire report in literally like i don't know what that was like 15 seconds and now we have the entire report"
+    },
+    {
+      "start": 724.77,
+      "end": 754.1,
+      "text": "right here fully done and what you're going to do is you're going to take this and you're going to go into a new google sheet and you're going to import this specific doc right here or the specific file and then you're going to go into your cloud code folder you're going to click the analyze breakthrough folder you're going to go breakthrough reports and you're going to select the report you should only have one in here for that ad and just understand that you can run this on multiple ads so if you just ran this on dct number 18 and say i wanted to do another one so again let me just go ahead and upload this"
+    },
+    {
+      "start": 754.1,
+      "end": 772.34,
+      "text": "sheet first, one at a time, replace sheet, import data. If you guys wanted to, again, let's remove DCT number 18. What's our second highest spending ad? Well, it's DCT number 28. Well, it's now turned off, which sucks a little bit, but let's just see DCT number 28, spend 15,000. Okay. Well, that's also a decently high spending ad for this account."
+    },
+    {
+      "start": 772.34,
+      "end": 801.62,
+      "text": "you know, in general, hopefully you guys are following along here. And obviously this client doesn't really care too much about sharing this. But my point is, is now I could come back in and say, okay, let's run the same report, but now on DCT number 28. And again, it's going to run the same thing. So while that's cooking, we can go back to the sheet. And again, like I just showed you guys, you will now be able to submit this link to us. So I will show you guys where to submit that link. It's going to be a very simple click up for I'm going to pull that up in a second. But now again, it's going to have"
+    },
+    {
+      "start": 801.62,
+      "end": 821.97,
+      "text": "the brand it's going to have the ad it's going to have the account tier it's going to have the initial campaign name that it was launched in as well as the analysis period and then it will show this exact same report initial campaign weekly spend roas account and account weekly bras okay so it did everything perfectly now that we have this data you can submit this link to us and we can use this"
+    },
+    {
+      "start": 821.97,
+      "end": 833.52,
+      "text": "to make our overall definitions better. Now, obviously this ad is already in the definitions, but I wanted to share that with you guys to show you how you can do that. And again, you really want to focus on the ads that are true breakthroughs. Sometimes you got to."
+    },
+    {
+      "start": 833.52,
+      "end": 860.96,
+      "text": "tell it to run Python, but there we go. Now we just got another report. So this next one was DCT number 28, and we can see the exact same thing for DCT number 28, which is amazing. So you can just print out these reports very quickly. You can submit them to us and we can use it to make these definitions better. And again, if you want to make your own out of your own ad account, you can do that as well. But this is how you will do it. You'll just name this, you know, brand name, you know, winning ad number one or whatever it is. I know this is obviously a bit of a"
+    },
+    {
+      "start": 860.96,
+      "end": 890.26,
+      "text": "tedious process to follow, but it's hopefully relatively simple. And now again, you guys can ask this any questions you want as well, because you have to understand what we did here is we just gave our entire ad account data to Claude. And now Claude can literally answer whatever questions we want. And for a lot of you guys, your data is too big to use this on regular Claude, which is why we have to use Claude code. And you can ask it to tell a story like, hey, what was the story of DC number 18? What actually happened? How much spend did it have? How hard did we scale? You can ask all of those questions, which is exactly what we did when we were essentially generating."
+    },
+    {
+      "start": 890.26,
+      "end": 908.06,
+      "text": "the reading the data section here as well across all of the ads. Okay. So hopefully that makes sense. Again, once you have this, give me one more second. I'll show you where to submit this. All right. And then finally, once you upload your CSV into the Google sheet, make sure you please open it for all to view. Okay. So just go down anyone with the link."
+    },
+    {
+      "start": 908.06,
+      "end": 937.36,
+      "text": "Click viewer. Again, this is not going to be shared with anybody. And obviously you're trusting us to do this. And at the end of the day, I want you guys to know, like I have absolutely zero incentive to tell anybody about your brand. I have zero incentive to care about what you're doing with your product or anything like that. This is literally for the sole reason of Evolve Winning Ads. If you have a problem with it, you can DM me properly. And I'm happy to like say, hey, this is actually me. And like, I'm not going to steal your shit. But at the end of the day, this is just to help us help you and obviously help everyone in the community benefit at no, in no way will this be shared with anybody. So just to be clear."
+    },
+    {
+      "start": 937.36,
+      "end": 966.58,
+      "text": "That is just the most important thing is make sure I can actually view this. I don't want to request access. And then from there, if you guys do have another winning ad that you want to upload. So again, I just ran the report for DCT number 28. What you guys can do is you can come in here and again, just click import and then you can import that other file as well. So you'll go upload, you go back into your drive and you'll see this is the DCT number 28 one. And then here you can just click create, you know, insert new sheet. So boom, insert the new sheet. And there you go. Now you've also got, I already did it before, but I'm refilming."
+    },
+    {
+      "start": 966.58,
+      "end": 995.79,
+      "text": "I already did it for DC number 28. But now rather than sending like multiple sheets in, you can add all of the winning ads that you think are actual breakthroughs or that were actual breakthroughs. And you can put them all in one sheet. And so you can change this from brand name winning ad to brand name, you know, winning ads, or this should actually be called a breakthrough ads, because that's what we're trying to identify and break down. Okay, very important. Make sure you open it for all to view. You will then go into the link here to submit it via ClickUp."
+    },
+    {
+      "start": 995.79,
+      "end": 1025.01,
+      "text": "So once you click this form, there's going to be a simple couple of steps here. So you will put your Discord name. My Discord name is Spencer Paul. If you guys go into Discord, bottom left-hand corner, you will see your profile. You'll click your profile and you'll see your username in smaller text underneath. That is the username. This is just so that way we can actually DM you if we have any questions. And then from here, you're just going to provide the URL to your brand. Again, most of you guys love to do Google.com, validate what niche you're in as well. This is very important for us. And we're going to get access to your ad account anyways."
+    },
+    {
+      "start": 1025.01,
+      "end": 1054.22,
+      "text": "So if you're going through this process with us to contribute data, we're gonna get access to your ad account so we can actually see and double check the data as well. Again, we're not doing anything malicious here. We only have view access and I'll show you the exact tool that we use that makes it very easy. And then here is, again, where you're going to link your breakthrough sheet. So you will go here and you will go into, this is Leadsy. You will go back into the report, you will paste it, and then please click the Leadsy link below and follow the steps to provide access, then include the name of your ad account. So again, what you will do is you will copy this link."
+    },
+    {
+      "start": 1054.22,
+      "end": 1061.66,
+      "text": "open a new tab, you'll hit enter, and then it's going to ask you to sign in, select your ad account, and then go ahead and submit it. And again,"
+    },
+    {
+      "start": 1061.66,
+      "end": 1090.96,
+      "text": "And once you guys do this, it's going to notify us that we have access. Make sure you don't have any other errors. I don't want to have errors. Literally all we're asking for is ad account and page. The catalog and data set and Instagram don't really matter. It's just ad account and page that we need access to, but it's going to ask you for all this. But again, this is going to our business portfolio and we're just going to have you access. Once you run through this, then it's very important that whatever name comes up here that you paste it so we actually know what your ad account name is. Because if you don't give us the ad account name, we're going to be confused. We have like 60."
+    },
+    {
+      "start": 1090.96,
+      "end": 1120.18,
+      "text": "ad accounts in our business manager. So again, we can't do anything here. We can't do and we have no control. We just have view access. And I'll let you know once we process the report that you can kick us out as well. Okay, so hopefully that makes sense. And again, the goal of this is to make sure that we double check your data and it's actually accurate. You wouldn't believe how many times I had to go through this report to get it to actually generate accurately. So I want to make sure that there are no mistakes when we're going through this because there's a few things that are just so account specific that I don't have time to show you guys."
+    },
+    {
+      "start": 1120.18,
+      "end": 1127.17,
+      "text": "to do it. But at the end of the day, once you have this and the ad account name is, you know, most of you guys probably ad account number two, um, go ahead and click submit."
+    },
+    {
+      "start": 1127.17,
+      "end": 1156.53,
+      "text": "and boom you are done okay so that is how you can go through the entire process of generating your own report submitting it to us and also providing us account access that is it that is everything in regards to how to generate the reports i'm very excited and thankful for those of you that are like you know raving off at the end of the day like there's there's no real risk here guys uh we're taking this data to make all everyone's data better and as you can see here like all of this is completely anonymous so even if we do add your ads in here it's just going to say add number one add number two add number three like you have no idea"
+    },
+    {
+      "start": 1156.53,
+      "end": 1165.67,
+      "text": "whose account this is. You can't tell anything from this. Okay. So hopefully that makes sense. And if you guys are willing to do this, thank you so much. And I hope to see some reports coming through."
+    }
+  ]
+}

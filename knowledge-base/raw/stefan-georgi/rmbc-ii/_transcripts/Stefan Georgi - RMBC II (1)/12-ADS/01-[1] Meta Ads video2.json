@@ -1,0 +1,44 @@
+{
+  "source_file": "Stefan Georgi - RMBC II (1)/12-ADS/01-[1] Meta Ads video2.mp4",
+  "source_id": "mega:GwRSGa5C",
+  "audio_sha256": "f1a1b61c46e831f8a2ea2437e4be62561e7ebca2f68c1098d79f6d6a6d49d048",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 303.64,
+  "last_segment_end": 303.64,
+  "segments": [
+    {
+      "start": 0.11,
+      "end": 31.92,
+      "text": "Alright, so this is going to be a pretty fast one. Like I mentioned in the end of the last video, it's just a cloud project for creating captions for ads. So all I did was take really simple examples of meta-ad captions in your knowledge base. You'll use these as another knowledge you have about meta-ad captions to join new ad captions based on instructions upon your chat interface. So put that in a cloud project, uploaded some captions, which you'll have in here as well. It's just some. It's like honestly..."
+    },
+    {
+      "start": 32.4,
+      "end": 71.5,
+      "text": "Could you just have Gemini other places where captions are going to be fine? And, you know, I don't use this personally, but let's test it out, right? Can you do some ad captions for community eye serum? I mean, honestly, you know, it just depends. Like, I think, like, the ad captions are important, but they're not crazy. Like, what am I going to say? What was about the benefits plus a CDA to save?"
+    },
+    {
+      "start": 72.11,
+      "end": 124.34,
+      "text": "57% off. And then I can run my link. Save. There we go. Oh my god. There's that. There's here. You know, the big thing here is if you had some hooks, you would want to add those to the captions, right? But let's just see what this does here. Okay. Caption 1, 54, I thought my eye bags were permanent. Tried everything. And they worked. And I discovered the real problem wasn't what I thought. It wasn't dryness or aging. I was having them inside my skin layers. DEJ. So I found the eye revised serum."
+    },
+    {
+      "start": 124.34,
+      "end": 205.26,
+      "text": "this would obviously be formatted great i mean i'll share the outputs here still writing some but thank you now can you do some really short ones that are just a few lines and sell the come on little cloud you can do it i don't like clods struggling here i'll pause it for a minute okay it's working on it to do it okay i didn't do this okay"
+    },
+    {
+      "start": 206.99,
+      "end": 240.78,
+      "text": "That's really all you need for captions, to be honest with you. And you'll just test a bunch of stuff. There's like no other way to do this besides like testing. So"
+    },
+    {
+      "start": 240.94,
+      "end": 303.64,
+      "text": "You have the caption, you've got this. Again, it'll work for whatever you want. Look at this guy. I ended up adding one of his in, so I'm getting people to this website and sign up masterclass. I think if I give it some hooks, we can probably make them a little bit more dialed in, but easy peasy. Lemon squeezy. All right. Thank you. Goodbye."
+    }
+  ]
+}

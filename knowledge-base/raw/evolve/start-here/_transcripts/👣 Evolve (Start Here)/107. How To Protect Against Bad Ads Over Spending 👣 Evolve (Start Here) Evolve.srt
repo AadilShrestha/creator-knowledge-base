@@ -1,0 +1,83 @@
+1
+00:00:00,050 --> 00:00:29,650
+All right, guys, so in this video, we're gonna talk about how to deal with ads that are overspending and going to take the account, or tank the account, I should say, and what precautions you can take when launching new ads. Now, it is a bit tedious, and the reason why is because Facebook rules are super fucking dumb, and I don't know why, but right now, there really is no way to actually create a rule inside of Meta that allows you to basically
+
+2
+00:00:29,650 --> 00:00:51,490
+go through and set an automatic kill trigger for ads that tank or you know take over majority of spend and are below KPI that is what we want to do in an ideal world and so you can see we are starting to play with some some more rules here but the main thing is is what we were trying to do is we were trying to set up
+
+3
+00:00:51,490 --> 00:01:00,780
+a rule that is very simple so this is this would just be called auto kill uh and i'm i'm showing you guys this in case you know there is somebody that wants to think or
+
+4
+00:01:00,780 --> 00:01:30,300
+can see that this actually works. But basically, this will apply to all active ad sets, we're going to turn off ad sets, and the conditions must match that basically, the spend is greater than whatever threshold that you want. So for a lot of our brands, we are obviously spending a little bit more on ads. And so, you know, for spending two or three or four or five or 10 or 15 or 20k a day, you know, we're probably going to say like, okay, if an ad gets more than 500 bucks, or it gets more than 1000 bucks in spend,
+
+5
+00:01:30,300 --> 00:01:59,540
+and the cost per result, or what we would say is our return on ad spend. So ROAS is less than, is smaller than a like 1.2X. And so, or you could just put whatever it is. If you're scaling at a 1.5 and you don't wanna see a ROAS less than one or whatever it is, you can adjust this however you want. Again, the spend threshold is based off of where you're at. Obviously, if you're spending like 200 or $300 per day, then you could just set it at like 150 per day as an example, right?
+
+6
+00:01:59,540 --> 00:02:15,860
+And what you would do is you would basically say like, hey, the time range that we're looking at here is this. So if the add and the other rule that we need to add, so you would say like date or launched, I think, is time last edited. Let me just confirm which one it is.
+
+7
+00:02:15,860 --> 00:02:45,200
+Yeah, so inside of here, we would say hours since creation, you know, is smaller than 24. So basically, if it's a new ad that we launched in the last 24 hours, and the spend is greater than $500, and the ROAS is less than our target, then we will turn off this ad set. Now, the problem is, is when we create this, this is unfortunately, something goes wrong while creating the rule, and it was not successfully created, it just says performance related conditions are not available for this rule when actions turn off or turn on.
+
+8
+00:02:45,200 --> 00:02:48,080
+or sound notifications about any assets that use CBO.
+
+9
+00:02:48,080 --> 00:03:17,860
+Okay. So this is super dumb. I don't know why, but that's just how it is. So what do we do? Well, what we can do instead, it's a little bit tedious because obviously that rule would be fantastic. And that's basically what we want to do. What we're going to do is we're just going to set maximum daily budgets. And so to give you an example of where this would come into place, I want you to take a look at this ad here that we actually launched on April 16th. So if we go to the 15th here, you can see in total, we had spent about $972 on this ad.
+
+10
+00:03:17,860 --> 00:03:34,290
+Okay. So this ad picked up spend and just started absolutely ripping. And you can see our cost per click was 57 cents. But the problem with this ad is it was way too click baity. Okay. And so if you take a look at this, it says like, you know, click for sensitive info, see why. And then what was happening is people were clicking it.
+
+11
+00:03:34,290 --> 00:03:56,140
+thinking it would like show the thing, but it just took them to the website. And we were also able to track this by adding customized columns. And so this is how you guys can see if you're getting missed clicks for the wrong reason. You can go to link clicks, which we have, and then we can do landing page views. Now landing page views aren't always a hundred percent accurate, but the point is, is you can, for example, just pull this down. I'm just going to save this for the time being.
+
+12
+00:03:56,140 --> 00:04:25,710
+And you can see out of the 1,649 link clicks, we had 1,300 landing page views, which is still pretty decent, but 1,300 divided by 1,649 is about 78%. Now, if we compare that to our champion's asset here, which you can see spent about $600, you can see we had 173 link clicks and 172 landing page views. Again, four and four, 10 and 10, 18 and 19. This one was five and seven, nine and 10, 18. Apparently, we had one more landing page view.
+
+13
+00:04:25,710 --> 00:04:32,700
+more here as well, which shows you landing page views. But the point is, as you can see, we're basically like 100% here. And this one was like
+
+14
+00:04:32,700 --> 00:05:02,000
+78%. So people were just saying, oh shit, I didn't mean to click on this. And what ended up happening is Facebook saw this as an ad that looked like it was going to crush. And you could see for these two days, I mean, look at this cost per click, 20 cents is absolutely nutty. And then again, you can take a look here, 1900 to 3K. This has gotten even worse. So people were accidentally clicking this ad. And if you take a look at these two days, you can see this has a 0.26x return ad spend. So people were clearly clicking this for the wrong reason.
+
+15
+00:05:02,000 --> 00:05:31,220
+And we blew basically $1,500 in budget here. And so the point is, is that this was just a concept that we decided to try, but we had to kill this right away. Now, the solution to this is just to set maximum budget. So what you would do is you would go inside of here and inside of the spending limits, inside of here, you would edit this and you would click add set spending limit. And then you would put a daily maximum of whatever you want. So let's just say, for example, you want to set a daily max of 500 for every.
+
+16
+00:05:31,220 --> 00:06:00,430
+single new creative that you test just to ensure that nothing, no matter what, like even if it's a new winner, if it spends, if it takes up $500 in spend, right? And I'm just using the threshold to 500 because I think for most people like who are spending, who need this rule that are spending 15, 20 or 30K a day, this is a pretty decent amount. If you want to give it more, you can. But what will happen is, is you'll notice that this will suck up spend right away, right? Or it should suck up spend right away. And if you see it's at a really good ROAS, then obviously the next day you can just
+
+17
+00:06:00,430 --> 00:06:28,140
+remove it. This is definitely being safer than sorry. And if you don't have this problem, I'm not trying to make you aware of a problem that is extremely scary. But the point is, is like, if you've launched a batch of ads, you have a 20K per day budget and you launch them at midnight and you go to bed and then you wake up and you see an ad that has already spent like 4K or 3K of your 20K budget so far. And it's, you know, just a shit ROAS, then obviously, you know, this maximum daily budget can help you, right? If it's happened one odd time.
+
+18
+00:06:28,140 --> 00:06:57,710
+It's not the end of the world. But the point is, is you guys now have an option to add a daily max. If you guys are seeing that a lot of your ads are getting spend and not hitting KPI, this is just a way to do that very safely. And then of course, if this ad is hitting the maximum and it's doing well, then you can of course take away the maximum. Or if for example, you launch it and the first day or two, it's not getting any spend, you can probably be safe to say that you can pull this maximum off of it.
+
+19
+00:06:57,710 --> 00:07:13,580
+you can go in and edit it now you just have to be careful with it kind of re-entering learning and all that kind of stuff but the point is is that's how you can be a little bit safer with launching creatives that again can actually tank because again meta is optimizing a lot on the
+
+20
+00:07:13,580 --> 00:07:42,900
+traffic here that this is driving. And as you can see, we ended up turning it off on the 17th or on the 16th, and it obviously spent $0. And so the point is, that is how you can handle ads overspending. And if you have any questions about this, let me know. And if you do actually end up finding a better way, please send us a ping in the chat. But this is for those of you who are struggling with ads overspending a lot and not hitting KPI. That is something that can happen. And we've also...
+
+21
+00:07:42,900 --> 00:07:58,310
+been seeing that people are getting bought it and people are spamming content or comments on people's ads and stuff like that and kind of fooling meta's algorithm now again this is part of the strategy is part of the game but that is a way that you guys can protect yourself if this is happening to you quite often

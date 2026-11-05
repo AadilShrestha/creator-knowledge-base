@@ -1,0 +1,87 @@
+1
+00:00:00,000 --> 00:00:07,920
+Alright guys, so in this video, we're going to be talking a little bit more granular into market awareness because obviously that slideshow, I think, really...
+
+2
+00:00:07,920 --> 00:00:37,360
+covers most of it, but I think a lot of you are still getting confused. And so what I want to do is I want to break down using AI and show you an example of why you also can't blindly trust AI. I have an example. So make sure you watch all the way through because if you're just going to copy and paste this right after this video, you need to make sure you watch the whole thing because otherwise you might be making a big mistake because the AI can actually mess this up, which is again, emphasis of why it's so important that you know this stuff rather than just blindly trusting an AI because a lot of times
+
+3
+00:00:37,360 --> 00:00:38,800
+an AI can be wrong.
+
+4
+00:00:38,800 --> 00:01:08,110
+Okay, and I'll show you guys that at the end. But first things first is you're going to come inside of here, and this prompt will be below, and you're basically just going to try to figure out what are some examples of different levels of market awareness for your product specifically, okay? And so here, as you can see, my product is a supplement that helps for more energy or helps with more energy. Now, the main thing here is this can be replaced with anything. If you have a humidifier or if you have a supplement that, I don't know, or a skincare product, right?
+
+5
+00:01:08,110 --> 00:01:34,820
+If you have a, I don't know, some kind of mask or some kind of cream, whatever it is, you want to put your product in here, right? And then with more energy or whatever the angle is specifically that you're going after, you can put that in there as well. But then what you're going to do is you're going to go ahead and hit enter. Now, what's going to happen here is it's going to start to spit out different headlines. So this is where you can see the AI already messed up. And this is perfect because I was going to show you guys another example, but we're going to get into it, okay?
+
+6
+00:01:34,820 --> 00:01:57,740
+They don't know they have a problem. This is unaware, right? The hidden reason you're exhausted and it has nothing to do with sleep, okay? Now, the problem is, is this is not unaware. This is problem aware. And this is the second time the AI has messed this up, okay? And the reason why it's problem aware is because we're talking about a problem, being exhausted, right? And so I'll show you how to correct this, but let's continue to go down. So we actually have one problem aware here.
+
+7
+00:01:57,740 --> 00:02:24,850
+right now the next problem aware they don't know they're tired but they they sorry they know they're tired but they don't know the solution so feeling drained no matter how much you rest here's what your body's missing okay still very curiosity driven speaks directly to the product of like feeling drained which is a really good word and now we can go into the next one so solution aware they know energy supplements exist but haven't chosen one so why most energy supplements fail and the one ingredient that actually works boom now we've got solution aware
+
+8
+00:02:24,940 --> 00:02:48,720
+Product aware. They know your product, but aren't convinced. Energex, backed by 1,200 plus reviews and quickly proven to boost daily vitality. All right. Now, one thing I want to call out here is that the AI, and depending on how you look at Eugene Schwartz's book, you know, solution aware and product aware can kind of get blended, or I would say product aware and most aware kind of get blended, right? So they're familiar fans. They just need a nudge. So this is like offer.
+
+9
+00:02:48,720 --> 00:03:09,250
+basically. But if you ask me if there's ways to get energy, if there's other ways to get energy rather than just knowing about solutions, so energy supplements, I sometimes use solution where it's a bit more broad. So I kind of see this as around the angle specifically or like the mechanism specifically. So it's like, okay, I want to get energy. What are my solutions? Well, one, I could just sleep more.
+
+10
+00:03:09,250 --> 00:03:28,580
+right? Two, I could take an energy supplement. Three, I could maybe, I don't know, start running every day or working out every day because if I work out every day, I actually maybe will become more energized because my body's healthier. I could eat better, right? There's all these different ways to probably improve your energy. So sometimes I go a little bit broader on solution aware, but a lot of times people will put it on the mechanism. Now,
+
+11
+00:03:28,580 --> 00:03:58,060
+The thing here is this AI messed up. And I think this is where a lot of you guys think you're making unaware ads, but you're actually not. And so here's why. So if we go into this and you can see the hidden reason you're exhausted, it has nothing to do with sleep. You need to copy this and you need to tell the AI if it does this. And again, I'll help you guys understand this. Actually, it looks like you made a mistake. The unaware headline and then paste it in is not unaware.
+
+12
+00:03:58,060 --> 00:04:28,300
+it is problem aware because you are mentioning the reason you are exhausted which would indicate that this person is aware they are exhausted making them problem aware so number one please provide three new headlines and again these prompts will be below for you guys uh headlines for uh unaware
+
+13
+00:04:29,040 --> 00:04:50,370
+And then number two, please explain why you messed this up and make sure to note it moving forward so we do not confuse unaware and problem aware again. And there we go. So now once we pop that in, it's going to say, good catch, you're completely right. The AI just realized that it messed up.
+
+14
+00:04:50,370 --> 00:05:17,040
+Okay. And so let me break it down carefully. Why I mess this up. Mistake came from jumping too quickly into framing curiosity without fully stepping back into the unaware stage. I'll future, I'll flag it, unaware, no problem, recognize, right? So three new headlines for the unaware stage. Imagine waking up each day feeling unstoppable, right? Now that's unaware. What if you could do more without sacrificing evenings or weekends? They said it wasn't possible to have it all until now, right? So these are a little like meh.
+
+15
+00:05:17,040 --> 00:05:46,380
+Like these are OK. And I would maybe try to have it. And again, this is really cool as well. And you guys should be using Claude for this, not GPT, because Claude, when you actually go to write out the scripts are going to be a little bit better. But the point is, is that if you take a look at these now, we're not calling out a specific problem. We're just kind of like selling this thing. Right. So what if you could do more? You know, like they said it was impossible to have it all right. All this kind of stuff. We're kind of going in here now. What I would like to see a little bit better. And I'm going to go over to this example down here, which, again, this is the.
+
+16
+00:05:46,380 --> 00:05:54,370
+humidifier one. And you can see this was actually messed up while you're waking up tired again. So this is the second time that I actually did it, right? That's clearly not aware. That's...
+
+17
+00:05:54,370 --> 00:06:17,620
+problem aware. But if but if we go down to the examples down here, you can see here are some completely unaware headlines for the humanifier, which is inside the secret lives of your bedroom walls, what happens in your bedroom at night, super curiosity driven, right? You'll never guess what's floating in your air right now, right? Like there's no problem associated. These are just interesting, right? And so that's the idea of unaware is to really tap in to these.
+
+18
+00:06:17,620 --> 00:06:27,740
+ideas where it's like, anybody can watch this. You know what I mean? It's like, we're not talking about, are you tired? Because the thing is, is somebody might actually be tired a lot of the time, but they might see that on an ad.
+
+19
+00:06:27,740 --> 00:06:51,710
+They might see your ad on a day that they're not tired and be like, well, I'm not tired, right? But if you go unaware and you educate them or you entertain them or you give them information that is interesting and walks them through the funnel and walks them through the stages, that is how you create true unaware ads. And so I wanted to give you guys this video to really help you understand the unaware and the problem aware side of things and the difference between the two. Because if you can trade.
+
+20
+00:06:51,710 --> 00:07:16,020
+if you can create true unaware ads, you will be able to scale infinitely. And that's a huge thing that we've been talking about. You've seen it in the 50 plus winning ads document. And I know we're getting into a lot of things right now and there's still so much to learn, but I wanted to share this with you guys because it is super important for you to understand this because this is kind of the hard level or expert mode that you're trying to get to, to be able to write true unaware ads, because then you can market in.
+
+21
+00:07:16,020 --> 00:07:45,300
+any level of sophistication and you can market to the mass audience. Okay. So people who aren't thinking about their problems, who aren't in the market for products, who aren't thinking of different solutions and all that kind of stuff, because that market is so much smaller. The unaware market is the biggest piece of the pie. So that is how to better understand market awareness using AI. And again, make sure that you are careful with when you use AI. And this is why it's important for you to know your shit and not just rely on the AI. Okay. So hopefully that makes sense guys. And hopefully this again, helps you write some better.
+
+22
+00:07:45,300 --> 00:07:49,650
+unaware and understand market awareness levels for your ads in general.

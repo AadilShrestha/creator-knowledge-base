@@ -1,0 +1,114 @@
+{
+  "source_file": "Stefan Georgi - RMBC II (1)/12-ADS/04-[4] TikTok Ads video6.mp4",
+  "source_id": "mega:GwRSGa5C",
+  "audio_sha256": "67bb40636216653671ce974193ff00175aebabc38a92555c1f13905213facbf3",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 560.41,
+  "last_segment_end": 559.98,
+  "segments": [
+    {
+      "start": 0.18,
+      "end": 29.09,
+      "text": "All right. So in the last video, we just talked about kind of the creative testing framework and systems, right? Want to be testing new creative ideally every single week, four new creatives every single week. Want to be looking for a, you know, 25% plus or minus success rate where we can take that winning creative. We can scale it vertically, meaning increase the budget within the ad group, but also take that creative and move it to the scaling campaign. Now, a really important step that most people make."
+    },
+    {
+      "start": 29.09,
+      "end": 58.67,
+      "text": "mistake that people make in the steps here is they're constantly trying to reinvent the wheel. And what do I mean by that? I mean, every single creative that they test, every batch they test is a new swing, right? So it's a totally new idea, totally new concept. And that is an important part of the creative testing process, right? Is to be testing new angles. That's how we find things like this video right here."
+    },
+    {
+      "start": 58.67,
+      "end": 87.22,
+      "text": "which you know is one of our best performers now it's getting you know eight dollar leads it's it's really really doing exceptionally well all right and it's maintaining that but the problem is what most people do is they test they find this winner they run it until they can't run anymore and they move on to the next thing what we do is we look at this video and we treat it as modular not monolithic"
+    },
+    {
+      "start": 87.22,
+      "end": 118.26,
+      "text": "What does that mean? What is modular versus monolithic? Okay. Let's go over here real quick. So monolithic is I have an ad and the, the whole 60 seconds of that ad is kind of one self-contained thing, right? It's one thing. So if I want to make more of them, I just need to create something totally new, right? It needs to be new, new, new. What we like to do is we like to make creative"
+    },
+    {
+      "start": 118.26,
+      "end": 144.91,
+      "text": "That's modular. Okay. So that means that, Hey, every creative has a intro, right? It's going to have a, a, a scroll stopping hook. Okay. And that hook is going to have, you know, it's going to have text overlays. It's going to have a, a visual. So it's gonna be something I'm visually doing. It's going to have a"
+    },
+    {
+      "start": 144.91,
+      "end": 172.8,
+      "text": "Um, sound. So it's going to have something I'm saying. And each one of these pieces can be swapped out and changed, right? This, but this is just the intro. Then there's going to be the, the next scene in it, right? Where it's going to be, you know, this, this is scene one, and then this is going to go to a another part of the video. And this is scene two, and this might be a problem. So we're going to illustrate a problem and then it's going to go to."
+    },
+    {
+      "start": 172.8,
+      "end": 203.02,
+      "text": "Scene three, right? And scene three is going to be the, you know, alternative solution or popular solution. So what are people trying that they're failing? And then scene four is going to go to the current solution. So our solution, right? And then why it's so great. And then we're going to have scene five, okay? And scene five is going to have, you know, social proof. It's going to have some, you know, authoritative figure talking about the product. It's going to have customers talking about the product."
+    },
+    {
+      "start": 203.02,
+      "end": 231.9,
+      "text": "And then we're going to have scene six. And again, this is just one type of framework. This is not the, we use this for every single ad just to get the point across. And then scene six is going to have some type of really, really, you know, unique, special offer, right? For TikTok, for that channel. It's going to be a really special, crazy deal. And then we might have another, you know, you know, another scene where we stack, you know, some final, you know, authority-based proof, right? So this might be more like."
+    },
+    {
+      "start": 231.9,
+      "end": 261.36,
+      "text": "customers, and this might be a doctor figure or some type of authority, right? So each one of these is a piece and each one of these could be swapped out for a different video, a different clip that can go in there and replace that one. And all of a sudden now this video is a different video because it has, you know, scene two is now a different problem or the problem is presented in a different way, or maybe a version has a different alternative solution."
+    },
+    {
+      "start": 261.36,
+      "end": 289.62,
+      "text": "Or a version has, you know, different social proof in it. Or you test a different unique offer. Maybe it's in this one was free shipping. Another one's a discount. Another one's a bonus stack, right? That's three different ads. So by treating the creative, again, as modular, meaning pieces of a whole, not just this self-contained whole where all these things are in one video and you're redoing it from scratch every time. This now allows me to take one ad."
+    },
+    {
+      "start": 289.62,
+      "end": 316.9,
+      "text": "And turn that into a a hundred ads or a thousand ads all from a winning concept. Now, each one of these thousands is not going to beat the control, but even if again, I'm batting that 25%, let's go back to, we'll go back to a hundred here and I'm batting, you know, 25% again, that means, Hey, you know, 25 of these ads are winners."
+    },
+    {
+      "start": 316.9,
+      "end": 343.86,
+      "text": "Even if I'm doing a crappy job and only doing 10%, that means from one winning ad, I've been able to create 10 now winning ads. So I've 10X the number of winners that I found, which 10X the amount of scale I can do, 10X longevity my creative, a 10X is everything. All right. And so that's exactly what we do when you look at this video, for example, so this is a minute video and this video, I'm not going to make you watch the whole thing, but it's."
+    },
+    {
+      "start": 343.86,
+      "end": 373.17,
+      "text": "It's really emotional. It's for a dental implant business. It changed her life. At the end of the video, she starts crying, right? And what I told the guys, I was like, hey, you know, let's take this scene where she starts crying, the emotional part. Let's clip that part. Let's put it as a scroll stopping intro hook and then have it start the video. So create this kind of loop where the end of the video becomes the beginning of the video. Now you have the end, then it starts the video and then it ends. So you create this really cool loop. That's a really popular format on the platform."
+    },
+    {
+      "start": 373.17,
+      "end": 401.36,
+      "text": "And so we found this winner and that's exactly what we did. We then took the winner, the next week's creative testing batch that we launched. We created a bunch of versions of this video. And from there we found, hey, this one's, you know, not doing, you know, $8, but it's still doing $11, still beating a lot of our controls there. And so what we did is what I just said. We opened it with the crying scene."
+    },
+    {
+      "start": 401.36,
+      "end": 430.66,
+      "text": "We took the face of the business, who's kind of the dentist who does a lot of the implants, and we put her as a green screen video talking about a planking tour. So we combined formats we know work, green screen format, the authoritative face of the business people recognize, and then also the more scroll-stopping visual of the woman crying, the tears, because if people are swiping and they see a woman crying, people pay attention, right? So why is she crying? What's going on, right? The emotional side of it. And yeah."
+    },
+    {
+      "start": 430.66,
+      "end": 459.07,
+      "text": "So again, just to reiterate here, every week, when you're doing your credit testing batch, you want to iterate on winners and test new winners. So I'm not saying do either, or it's do, you know, or one or the other is not binary. It's both. So every week you should be taking big swings, right? You should be looking for this next winner that you can iterate on. But when you do find winners, you should also be iterating and creating different versions of it."
+    },
+    {
+      "start": 459.07,
+      "end": 487.57,
+      "text": "You know, it depends on kind of where you're at as a business. Earlier on, you're going to be more heavily weighted. You're going to be, you know, 75, you know, 80% is going to be on looking for winners, like new winners, because you don't have any winners yet. So you're going to be taking big swing, big swing, big swing. But as you progress, this could look more like, you know, 50-50, where every week, you know, 50% of your test and budget is going to, you know, new."
+    },
+    {
+      "start": 487.57,
+      "end": 518.16,
+      "text": "you know, net new angles and 50% is going towards, you know, iterating. So meaning creating new versions of those winners. And then from these iterations, you're finding more, more winners that make you money. My drawing is really bad here. And then 50% is going to finding, you know, net new angles that can then move over here and be iterated on for even more winning angles. Now one final part of this, and then we'll move on to the next, next part of the module."
+    },
+    {
+      "start": 518.35,
+      "end": 547.92,
+      "text": "This should be creating kind of a flywheel where the data you're getting from the iterations is feeding back to your net new testing because these aren't self-contained. So it's, hey, if I find that green screen or duets or reactions or this type of person in a video is doing really, really well consistently, I want to start my net new angles in the best possible place. And so I'm going to take this data."
+    },
+    {
+      "start": 547.92,
+      "end": 559.98,
+      "text": "feed it back into the net new testing. And that just increases the odds that I find more winners increases the efficiency and profitability. And it brings me more stuff that I can move into this iterative testing environment."
+    }
+  ]
+}

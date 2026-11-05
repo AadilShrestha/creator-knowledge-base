@@ -1,0 +1,27 @@
+1
+00:00:00,000 --> 00:00:18,240
+All right, guys. So very quickly, I also just want to give you this important note for you to understand before we actually get into all of the actual definitions. And in case you're wondering, we have actually moved the definitions into a sheet. So that's why the zero to 100K, 100K to 250 is gone. This is Spencer from way in the future. But I wanted to just let you guys know that essentially.
+
+2
+00:00:18,240 --> 00:00:47,380
+what you label an ad in week one may not be an ad's final result, okay? So for example, you might have an ad that is a spend winner in week one because it hits your spend threshold. And again, we're gonna get to what this definition actually is. That's the very next video. But I wanted to make it very clear that you might have a spend winner in week one and it doesn't actually scale the ad account, but then all of a sudden in week two, it starts to scale the account, okay? So again,
+
+3
+00:00:47,380 --> 00:01:16,660
+Just in bold here, something that's important, and I'll explain this a little bit more further, is that you likely will have spend winners, KPI winners or losers in week one that may turn into breakthroughs in week two. And that's just because when you get to higher spend brackets, sometimes it takes a week or so for an ad to like really pick up spend and really have a big impact. This is more common with like very high KPI winners that become breakthroughs. But at the end of the day, you need to know that you might label an ad as a spend winner, KPI winner or loser.
+
+4
+00:01:16,660 --> 00:01:43,810
+loser in week one. However, it turns into a breakthrough after the algorithm really picks it up. Okay, so that's all that this text is saying. Now that doesn't mean you can't have breakthroughs in week one. Because for example, if at the start of the week, you're spending 3k a day, you launch an ad or not even at the start of the week, say you launch an ad on Wednesday. And so seven days later, so next Wednesday, your budget has gone from 3k per day and spend to 5k per day and spend and you have an ad that has sucked up like
+
+5
+00:01:43,810 --> 00:02:13,170
+50% of spend, well, that is a breakthrough, okay? That ad is what allowed you to scale further because it sucked up a bunch of spend, probably improved your KPI, and then you were able to scale. So it doesn't mean you can't have a breakthrough in week one. I'm just letting you know that you might not see the full impact until later, especially if you are in the higher spend categories, okay? Another thing that's coming as well, and you guys will see the very first Claude skill, not after this video, but the video after that that shows you how to generate these reports. We are giving you guys a Claude skill to be able to generate these reports yourself. And then from
+
+6
+00:02:13,170 --> 00:02:42,380
+there, you will be able to share it with us. But more importantly, we're also going to continue the series of giving you guys specific cloud steals to be able to train your, you know, cloud or your own AI on your ad account data. So you can actually ask it questions and be like, Hey, here's the numbers, or here's the stats from a new ad. Do you think I should turn this off? Like, how is this pacing in regards to my other breakthroughs? Like, is it the same kind of KPI percentage above or below, et cetera? Okay. And so this is something that we're
+
+7
+00:02:42,380 --> 00:02:53,650
+excited about. So I just want you guys know, and it's also an incentive for you guys to watch the how to generate and submit the reports video as well. But with that said, let's go ahead and finally jump into the actual definitions for each category.

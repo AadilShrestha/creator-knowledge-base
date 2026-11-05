@@ -1,0 +1,74 @@
+{
+  "source_file": "👣 Evolve (Start Here)/166. How To Find Time And Get Shit Done 👣 Evolve (Start Here) Evolve.mp4",
+  "source_id": "mega:jhQDiSSY",
+  "audio_sha256": "f6de9f0e6d740e606fdd50064f932df7b9062fb26a608d0273ecd93a79a848e1",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 319.57,
+  "last_segment_end": 319.25,
+  "segments": [
+    {
+      "start": 0.11,
+      "end": 29.36,
+      "text": "Welcome to the first video of the Productivity Module. We're going to be discussing how to find time when people always say, oh, I don't have enough time to do something like that. I'm going to show you how to break it down, how to find your time and actually get shit done. So first of all, we're going to be discussing your to-do list. Now if you guys already know what you should be doing in e-com, research, analyzing, creating ads, okay. And a lot of times you put your task inside a to-do list where you write it down on pen, paper,"
+    },
+    {
+      "start": 29.36,
+      "end": 57.52,
+      "text": "to-do list, whatever. I use my own ClickUp to-do list. Doesn't really matter too much. Whatever is fine. And the issue is, you guys put a lot of tasks here, but it tends to pile up because you put tasks inside and they don't get done. And you end up with a big list, you know, and then nothing really gets done. So how do you actually make sure that you get these tasks done? When you say, oh, I didn't have time to complete it. Here's how you actually solve that problem."
+    },
+    {
+      "start": 57.52,
+      "end": 86.0,
+      "text": "A lot of you guys know that you need to be doing deep work. Especially in e-commerce, you really need to be doing proper research. And as deep as much as possible. So how do you actually get deep work done? You only get it done through time blocking with Google Calendar. People use Apple Calendar or whatever. Google Calendar is the best. So first thing, when you can't find time, it's because you're not really breaking it down. Your day."
+    },
+    {
+      "start": 86.0,
+      "end": 106.9,
+      "text": "When you break it down by your day what you need to do, you can see, you know, oh, I have these two hours here free. Maybe I do have time to do something. Which is why you want to make sure you track everything. The whole productivity module is going to emphasize very heavily on tracking. Because if you're not tracking, you're slacking. You don't really know what's going on."
+    },
+    {
+      "start": 106.9,
+      "end": 134.75,
+      "text": "Which is why something like this is very important. Besides that, as for deep work, why we want to have it in the calendar here is to make sure that you dedicate time so it actually gets done. And that's the most important thing. You can't just go based off intuition or whatever you feel like doing for the day. So the point of this is to make sure every hour there is something that you need to be doing. This way you won't think, oh, what should I do with this period? Should I do this or that instead?"
+    },
+    {
+      "start": 134.75,
+      "end": 164.96,
+      "text": "It's already pre-planned the day before. When you wake up, you already know what you need to be doing exactly. So for me, first thing I do, wake up, I weigh in. No crazy morning routine. Weigh in, take my supplements, that's it. Because my time zone is a bit messed up, first thing I need to do is eat lunch. Eat lunch, okay. Don't recommend you guys eat after you wake up. It slows you down, but I have to do it for my time zone. Besides that, what's my most important task for the day I need to be doing? Study, okay."
+    },
+    {
+      "start": 164.96,
+      "end": 193.86,
+      "text": "One hour just to study every day. Make sure that's locked in. I know what to do at 2 p.m. Then I dedicate three hours just for deep work. You want to put your most important task at the start of the day. And for me, that's my deep work session. So I go back inside my to-do list. See what is high-end priority that I need to focus on. And I'll put these tasks here inside. Let's say the first one is productivity evolve module. I posted it inside here. Productivity evolve module filming. That's my first task to do."
+    },
+    {
+      "start": 193.86,
+      "end": 221.44,
+      "text": "you want to set a time to it as well. For me, let's say it's writing tweets an hour. It's important to have these set like this because you know exactly how much time you have on it and it gives like a deadline. So instead of daily deadlines or whatever, it breaks it down by the hour. So you make sure that you get more of it done. If not, you need to move on to the next task already."
+    },
+    {
+      "start": 221.44,
+      "end": 251.17,
+      "text": "So people want to set their lines for every day, every week, etc. But if you can set it for every hour, it makes sure that you're always on top of something. Next task I need to do, check, count, update clients. Okay, fine. So you need to make sure that every deep work task you do is usually at least an hour. So you can actually, you know, go deep on something and really enter flow state. And when I mean deep work, deep work just refers to, hey, no distractions at all. Phone elsewhere, I'm on do not disturb."
+    },
+    {
+      "start": 251.17,
+      "end": 274.59,
+      "text": "Only thing I focus on is just writing tweets for this whole month hour. If you want to check your phone, you know, play games, whatever, you still can, but make sure that you allocate a separate time for it. It's a separate task. When I say write tweets, only focus on one thing, and it's writing tweets. Everything else can wait. Everything you do, from your dinner, going to the gym, showering, needs to all be inside here. If not..."
+    },
+    {
+      "start": 274.59,
+      "end": 301.1,
+      "text": "you won't know how much time you really have. Let's say, oh, I found out I have nothing to do in these two hours. Okay, maybe I can allocate some other tasks for my to-do list inside here. And ISO, for me, I have to take calls since we run an agency. So I need to make sure that I have a blank space inside here. But for most of you guys, that won't be an issue. You can fill this up to the brim. Every two hours, every task here, it's filled up."
+    },
+    {
+      "start": 301.1,
+      "end": 319.25,
+      "text": "That's you want to spend time with your girlfriend, gym, sports, spend time with friends, knowing what you need to do next. And this way, after you plan it out already, you know, okay, you know what? I do have time somewhere here. I can allocate it for something else and making sure that your tasks actually get done."
+    }
+  ]
+}

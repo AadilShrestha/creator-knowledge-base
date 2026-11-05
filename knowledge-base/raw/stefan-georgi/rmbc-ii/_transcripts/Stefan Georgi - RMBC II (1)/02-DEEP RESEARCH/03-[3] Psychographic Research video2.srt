@@ -1,0 +1,419 @@
+1
+00:00:00,000 --> 00:00:24,420
+All right, so let's continue on here and look at the prompt in more detail and then look at real world examples. So the prompt itself, I am writing some sales copy targeted towards the demo market information. You'll see examples below for what that looks like. I'd like your help doing psychographic research. What are their struggles and pain points? What are their beliefs?
+
+2
+00:00:24,420 --> 00:00:55,150
+Below is a series of questions I used in the past as part of my RMBC method for copywriting, where the R stands for research. This should be a good framework to use while doing research on the demo. I'd love it if you can even provide quotes from folks in this demo by looking at comments on social media or on forums, etc. Basically, we want to hear what they're saying and what they believe. We want to hear answers in their own words. Here's the list of questions. And it's the list of questions we just went through, right? And that's it. That's the prompt.
+
+3
+00:00:55,150 --> 00:01:24,270
+So we'll do examples. We'll do F3. So I'm going to do the eye serum example. Then I'm going to do the Airbnb biz op arbitrage example. Then I will do a golf example. So I'm trying to have some variety here. Okay. So I'm writing some stelescopy targeted towards US women 40 plus who have wrinkles, dark spots, or puffy eyes, puffy eye bags. I'd like your help doing psychographic research.
+
+4
+00:01:24,270 --> 00:01:58,350
+What are their struggles and pain points? What are their beliefs? Here's the questions, okay? So I'll show you how we did this. We did it with three different LLMs. I did it with Gemini, Perplexity, and ChatGPT. So let's go through Gemini first. I'll do it here. I'll make it even bigger. I think we can do 200. Let's see. Part one, the inner world, demographics, psychographics, and core beliefs. The woman in the mirror, a multidimensional profile. Who is your customer?
+
+5
+00:01:58,580 --> 00:02:25,620
+The target customer is a U.S. woman aged 40 and above, a cohort largely composed of Generation X, typically defined as those between 1965-1980 and younger baby boomers. This places her in a unique and often demanding life stage. She is frequently in her peak earning years, possessing a higher disposal income than younger generations, and she remains a pragmatic and discerning steward of her finances, making key decisions for the entire household budget. Her life is characterized by independence, resourcefulness, and a high level of education.
+
+6
+00:02:25,620 --> 00:02:30,190
+A defining characteristic of this demographic is her role as a member of the sandwich generation.
+
+7
+00:02:30,190 --> 00:02:56,880
+She is often caught in the complex and emotionally taxing position of simultaneously raising her own children while also caring for her aging parents. This dual responsibility creates immense pressure, making the quest for a sustainable work-life balance a central priority. She is not a passive consumer. She is a research-driven analytical individual who values quality, authenticity, and transparency above all else. She is adept with technology, primarily using established social media platforms like Facebook and Instagram for connection information gathering.
+
+8
+00:02:56,880 --> 00:03:16,590
+but she is often wary of and overwhelmed by the constant influx of new digital tools and trends. This woman's responsibilities extends far beyond her own needs, positioning her as the de facto chief medical officer of her household. As she navigates the healthcare system for her children and parents, she develops a sophisticated, albeit informal, medical and nutritional literacy.
+
+9
+00:03:16,590 --> 00:03:40,080
+Her focus on health and wellness is not merely aesthetic, it's a core duty she performs for her family. This elevated role means that when she researches an ingredient for her own skin, she is implicitly evaluating its safety and efficacy through the lens of a family protector. She is not just buying a face cream, she is managing a complex ecosystem of family well-being. This identity as a savvy, informed guardian makes her highly receptive to credible, science-backed information and deeply skeptical of anything that feels like a gimmick.
+
+10
+00:03:40,080 --> 00:04:04,510
+Marketing that acknowledges and respects this expert role will resonate far more deeply than messaging that treats her as a simple, vanity-driven consumer. What attitudes do they have? Okay. Social and economic. She is a highly research-driven consumer, less swayed by flashy marketing and more influenced by peer recommendations, detailed reviews, and demonstrable results. She is technologically proficient, using social media to connect.
+
+11
+00:04:04,510 --> 00:04:34,370
+but maintains a critical distance, preferring platforms like Facebook and Instagram, where she has established networks. Her focus on health and wellness has matured. It is no longer just about looking good, but about feeling good and ensuring long-term vitality. Economically, she is stable but cautious, valuing quality and durability, and showing a preference for brands that align with her ethical priorities, such as sustainability and transparency. Political and religious attitudes. While the available data does not specify political or religious attitudes, her affiliations, her core values, provide clues to her broader worldview.
+
+12
+00:04:34,370 --> 00:05:03,360
+Her emphasis on authenticity, ethical practices, and social responsibility suggests an inclination towards conscious consumerism. But she also has this profound skepticism of large institutions, be it the medical establishment or major corporations, which may align with a more independent, anti-establishment, or critically minded perspective. She values personal freedom and responsibility, a cornerstone of Gen X identity. Hopes and dreams. And in her 40s and beyond, her aspirations undergo a significant shift from external validation to internal fulfillment. The dream is no longer about pleasing others, but also...
+
+13
+00:05:03,360 --> 00:05:32,560
+about self-discovery, personal growth, and reinvention. There is a powerful belief that 40 is the new 20, not in a desperate attempt to reclaim youth, but as an embrace of a new chapter bringing the vitality and wisdom. She hopes to feel confident, powerful, and comfortable in her own skin. This feeling is often intertwined with a sense of accomplishment. With the financial comfort and physical well-being she now enjoys are things she has actively earned through decades of hard work and self-discipline. She creates unique experiences over material possessions and values quality time with family and friends above all else. Victories and failures. Her greatest victory is internal.
+
+14
+00:05:32,560 --> 00:05:56,220
+A surge in confidence that is well documented, research shows that while women are often less confident than men in their 20s and 40s, they not only catch up by age 40 but continue to grow in confidence, eventually surpassing their male counterparts by age 60. This is a source of immense pride. She has likely achieved significant milestones in her career and has built a stable financial foundation. Her perceived failures, however, are deeply personal and often feel like a betrayal by her own body. This is good.
+
+15
+00:05:56,220 --> 00:06:26,340
+Interesting insight, right? The most profound struggle arises when the health diet and exercise regimens that she diligently followed for decades suddenly stopped working. The hormonal shifts of perimenopause and menopause bring about changes, wrinkles, waking, fatigue that feel entirely out of her control. This isn't just a cosmetic issue, it's a full-blown identity crisis. The effortless attention my looks garnered got me addicted to being pretty, not to mention in spite of something in my control. This is a weird quote I got from Gemini, so I won't sugarcoat that one, right? But there's a lot to go through here, so just stick with me if this feels kind of broad.
+
+16
+00:06:26,340 --> 00:06:53,740
+for skincare so far. This quote reveals the core psychological tension this woman faces, a growing chasm between her internal state and her external reality. Internally, she's more confident, wise, disciplined, and powerful than ever before. Externally, she feels her appearance is declining in ways that defy her control and discipline. This is not simple vanity. It is a profound and deeply felt injustice that her physical self no longer reflects the vibrant, capable, and resilient woman she has become. A product that can convincingly promise to rely on her outer appearance.
+
+17
+00:06:53,740 --> 00:07:30,030
+So I want to talk about this for a second because I was going through it and I'm obviously doing an eye serum and other skincare products. And I, you know, I thought it was interesting. I made a note of it somewhere and it's not perfect to copy, but I think there's something around like, you know, it's profoundly unfair how, you know, just as I start feeling more confident and comfortable in my own skin,
+
+18
+00:07:30,830 --> 00:07:53,650
+that same skin outwardly, that same skin starts to betray me, right? That's a good line of copy. That's a good thing to test, whether it's an advertorial, a sales letter, whatever it is, right? And so you get that from what you've read so far. What outside forces do they believe have prevented their best life?
+
+19
+00:07:56,180 --> 00:08:19,570
+While she is frustrated by societal beauty standards that glorify youth, her most acute blame is directed at two primary forces. First is her own biology, specifically the tumultuous and often unspoken challenges of perimenopause and menopause, which she feels unprepared for and abandoned in. Second is the medical community that she believes has systematically dismissed, under-researched, and misunderstood women's health. She feels profoundly slighted that no one adequately warned her about the physical and mental challenges of this life stage.
+
+20
+00:08:19,790 --> 00:08:46,160
+Combine that with women being understudied and dismissed by the medical community in a gross and systemic way, not to mention the personal health leading up to menopause that is perimenopause where your body fails you and 10,000 other symptoms emerge other than traditional hot flashes. It's like you're getting a new body, face, brain, and a bad way and you don't recognize yourself. This is a really powerful quote, right? This feeling of being unheard and dismissed has cultivated a deep-seated prejudice against being patronized or having your experience minimized. Prejudices.
+
+21
+00:08:46,160 --> 00:09:14,930
+Her life experience has armed her with a healthy set of prejudices. She is deeply skeptical of and prejudiced against gimmicky marketing, shallow social media, influencers, and brands that lack transparency and authenticity. She harbors a strong suspicion of miracle creams and often holds the belief that simple, old-fashioned solutions like Vaseline or even just good genetics are more effective than expensive, overhyped products. This skepticism is evolving into a broader prejudice against the mainstream beauty, food, and pharmaceutical industries, which she increasingly views as fundamentally corrupt and untrustworthy. Remember, we talked about corruption, so that's interesting.
+
+22
+00:09:14,930 --> 00:09:43,380
+Sum it up in one to three sentences. Life is a journey of continuous growth where resilience, self-belief, and authenticity are true measures of worth, not fleeting external appearances. Love and family are the essential anchors that must be nurtured and protected with fierce loyalty. A well-lived life is about finding the balance between personal freedom and profound responsibility, value and function over fills, and quality over quantity in all things. Part two, the crowded battlefield navigating the anti-aging market. Okay, what's the market already using?
+
+23
+00:09:43,860 --> 00:10:12,080
+The 40 Plus Women's approach to skincare is multifaceted, incorporating a blend of accessible drugstore finds, prestigious brands, potent active ingredients, and professional treatments. She's an educated consumer, actively seeking out specific ingredients known for their efficacy. Topical products. Her bathroom cabinet is a testament to her research containing a mix of products at various price points. Mass market brands, which then lists a bunch of prestige and dermatologists endorsed brands. When she decides to invest more, she turns to high-end brands known for their clinical backing and potent formulations.
+
+24
+00:10:12,080 --> 00:10:26,020
+and key ingredients sought. Her shopping list is ingredient-driven. She actively seeks out products containing retinol, vitamin C, hyaluronic acid, peptides, ceramicides, niacinamide, and most importantly, broad spectrum SPF. In-office treatments.
+
+25
+00:10:26,020 --> 00:10:54,830
+She views professional treatments as a serious results-oriented option. Botox is a common consideration, sometimes referred to as a secret weapon. She also researches and considers fillers like Juvederm, laser treatments, and chemical peels to address volume loss, texture, and deeper wrinkles. To make these high-stakes decisions, she turns to online communities and review platforms like RealSelf to gather information and patient experiences. And there are at-home devices. What has her experience been like? What does she like about them? Well, her satisfaction is directly linked or tied to tangible results.
+
+26
+00:10:54,830 --> 00:11:20,320
+She expresses genuine enthusiasm for products to actually work. She appreciates sophisticated formulations with lightweight, non-greasy textures that absorb well without feeling heavier clogging pores. This is really important. When I talked about the greasy thing, I think with whipped tallow, and we came up when we looked there, like that's an important thing to understand, right? A key driver of positive sentiment is value. She loves finding affordable products from brands like The Ordinary or CeraVe that outperform their more expensive counterparts.
+
+27
+00:11:20,320 --> 00:11:49,740
+I used to love bare minerals, powder, foundation, but found as I got older, the bare minerals kind of sat on the skin rather than blending in and really emphasized all my pores. The Laura Geller really does melt in well, feels super lightweight, and is so quick to put on. This comment highlights her need for products to adapt to her changing skin, preferring formulas that melt in rather than sit on the skin. What does the market, so that's good, why does this matter? If I'm doing skincare, I should talk about stuff like it melts into your skin, it absorbs, it doesn't sit on the top, right?
+
+28
+00:11:49,740 --> 00:12:19,620
+it really gets deeply absorbed these are important things for me to know when i talk to my market what i dislike her primary most passionately expressed frustration is the feeling of being cheated spending significant amounts of money on products that are ultimately useless she feels her intelligence is assaulted by overblown claims i'm not the height the type of woman to blow big money on useless products and then then delude myself that they are making a difference she dislikes products marketed for mature skin that are formulated with heavy greasy textures that can exacerbate issues by caking in lines or emphasizing pores
+
+29
+00:12:19,620 --> 00:12:46,700
+It's a really good note, right? Another major point of friction is the retail experience itself. She feels misunderstood and patronized by young sales associates, particularly at beauty superstores like Sephora, who lack the life experience to comprehend the unique challenges of 40-plus skin. Sephora is not so great if you're over 30. Nearly every store I've been in doesn't have a single sales associate over 25-ish. You need to find a sales associate that is around your age and who has the youthful look you want. Are there horror stories?
+
+30
+00:12:46,700 --> 00:13:08,750
+The most pervasive horror stories is the cumulative financial and emotional toll of decades spent on a seemingly endless cycle of hope and disappointment. It is the slow-downing realization that the thousands of dollars invested have yielded minimal results. More acute horror stories also exist. A common one involves the harsh side effects of powerful ingredients when used without proper guidance. For example, a woman who eagerly tries prescription strength.
+
+31
+00:13:08,820 --> 00:13:35,260
+Tretinoin, believing it to be a gold standard, only to experience severe peeling, redness, and irritation that makes her skin look worse. Another deeply-fought horror story is a moment of panic when she realizes her trusted, lifelong makeup routine suddenly works against her, selling into her fine lines, making her appear older and more tired than she feels. This experience is not just frustrating, it is a moment of betrayal by products she once relied on. Do they think the existing solutions work? If not, why? Overwhelmingly, the market is characterized by profound skepticism.
+
+32
+00:13:35,260 --> 00:13:53,810
+A strong undercurrent of belief persists that most topical skincare products do not work in any meaningful way. Many women in this demographic have concluded that the true determinants of how one ages are non-negotiable factors like genetics, consistent sun protection, and a healthy lifestyle, particularly diet and not smoking. They believe that once a wrinkle is formed, no cream can magically erase it. There's a quote saying that, right?
+
+33
+00:13:53,810 --> 00:14:23,040
+A bit of moisturizer might make it feel softer for a bit, but that's really all. Anytime you ask a woman with good skin what she uses, it always seems to be the most simple thing like Nevea, just plain water, olive oil, and in this case Vaseline, right? The reason for this disbelief is twofold. First, they believe the beauty industry is fundamentally built on selling hope in a jar, a metaphor that perfectly captures their view of exaggerated marketing claims and unfulfilled promises. Second, they feel the industry has failed to formulate products that address the specific biological realities of their skin.
+
+34
+00:14:23,040 --> 00:14:53,120
+As estrogen declines, skin becomes drier, more sensitive, and loses elasticity in ways that are distinct from earlier life stages. And they feel most products do not adequately account for these complex hormonal changes. One thing, if we think critically, that is interesting, right, is they tend to not like the phrasing or expression of like mature skin. But then at the same time, they want products that are for their skin, which is, you know, I think it's the term mature, which I get. This leads to a fascinating psychological state, the efficacy paradox.
+
+35
+00:14:53,120 --> 00:15:05,380
+This consumer is trapped between her deep experience-based skepticism that products work and a persistent, hopeful search for a solution. She declares she won't be fooled by useless products, yet her purchasing habits show she is willing to try a wide array of brands.
+
+36
+00:15:05,380 --> 00:15:33,920
+She asserts that no cream can remove wrinkles, yet she actively seeks recommendations for products that actually work. This paradox is not a sign of irrationality, but a deeply human hope against experience. She is not looking for another fantasy. She is searching for the one credible exception to the rule. The most potent marketing message will not be, this is magic. It'll be, we know you're skeptical. You have every right to be. Here's a transparent science-backed exception you've been searching for. And it talks about the different ingredients and what's their perceived efficacy, cost of effort ratio, consumer trust level, and then quotes, which is really cool, right?
+
+37
+00:15:33,920 --> 00:16:01,230
+So like retinol. My secret weapon to smooth fine lines, uneven skin tone, and rough texture is an over-the-counter retinol serum, but I had to go through trial and error to find the right one. Retinol can be irritating to some people's skin, particularly if you're new to using it. Vitamin C. It is a meter of vitamin C in everything these days. My go-to splurge is the Dermalogica Bayou Lumen C Serum. My skin is so glowy I often skip makeup. Vitamin C can be inactivated by light, so you want to steer clear of vitamin C products that come in a clear bottle. Hyaluronic acid. A few drops of this hyaluronic...
+
+38
+00:16:01,230 --> 00:16:21,820
+and B5 hydrating serum and your skin appears immediately plumper and more hydrated. Hands down, it's my absolute favorite hyaluronic blend ever. CeraVe, the ordinaries in school. So that's some brands, Botox, things like that, right? So this is valuable. We're getting quotes on what they like, don't like. All right. You know, forgotten cures, so to speak. Has someone tried to solve the market's pain point before in a unique way?
+
+39
+00:16:21,820 --> 00:16:43,570
+The narrative of a unique, almost magical solution to aging is not new. It has deeply historical roots. A compelling example is a story surrounding the Toilet of Beauty of Madame Gillette Reclemiere, a celebrated 19th century French socialite renowned for enduring flawless complexion. Legend held that her secret was a special formula, which was later marketed in the late 1800s by the American entrepreneur, Harriet Hubbard Ayer.
+
+40
+00:16:43,570 --> 00:17:05,090
+The marketing narrative crafted by Ayer was a masterpiece of mystique and exclusivity. A total of a secret cream, its formula passed down through generations of French nobility that possessed magical and marvelous properties. Ayer claimed to have acquired the secret recipe from a descendant of Madame Bacchamier herself, under the condition of anonymity. The resulting product line, which include creams, balms, and lotions, promised to remove freckles, smooth irritations, and produce velvety skin.
+
+41
+00:17:05,090 --> 00:17:31,280
+The result was commercial success, proving the power of a compelling story rooted in historical allure and a forgotten secret. However, the story has a cautionary postscript that resonates with the modern consumer's skepticism. The recamier products were later exposed by the Boston Journal of Health as being made of cheap, ordinary, and even harmful ingredients like mercury. This historical anecdote perfectly encapsulates the dual appeal and peril of secret cures, tapping the desire for lost wisdom while simultaneously validating modern-day distrust of marketing claims.
+
+42
+00:17:31,500 --> 00:17:46,640
+That's an interesting story, something you could potentially dive into, learn more about, and maybe find things to use in storytelling-driven marketing, especially in a VSL. Is there a conspiratorial story behind why other solutions don't work?
+
+43
+00:17:46,670 --> 00:18:11,860
+A powerful narrative that aligns with the consumer's distrust of established institutions is the story of Royal Raymond Reif, an American inventor in the early to mid-20th century. Reif was a brilliant scientist who developed revolutionary microscopes and claimed to have invented a beam ray device capable of destroying pathogenic organisms, including those responsible for cancer, by vibrating them at their mortal oscillatory rate with specific electromagnetic frequencies. His work was not fringe. It was documented in reputable publications, including the 19...
+
+44
+00:18:11,860 --> 00:18:40,240
+94 annual report of the Smithsonian Institution. This is super interesting, by the way. I've never heard of this before. This conspiratorial element enters a subsequent suppression of his work. According to the narrative, which was revived in the 1980s and persists in alternative health communities, Reif's groundbreaking non-invasive healing technology was systematically discredited and buried by the American Medical Association and a powerful medical pharmaceutical complex. Reif himself died penniless and embittered, blaming a conspiracy by organized medicine for intimidating his colleagues and rejecting his findings. This story...
+
+45
+00:18:40,240 --> 00:19:07,650
+So, I mean, this one's not really specific to skincare, but maybe you talked about skincare, I don't know. Something you could dive deeper into, right? I've talked about this in the past. There's a fine balance between being a fact finder and taking too long.
+
+46
+00:19:07,650 --> 00:19:24,240
+and also embracing rabbit holes right like to me i'm always curious i think a fundamental quality of really good copywriters is curiosity and so i think this is something where you know i don't know i'm curious about this i'm gonna look it up in the future
+
+47
+00:19:24,660 --> 00:19:51,310
+Are there any older attempts to solve this problem? Long before the advent of complex chemical formulations and quick-fix marketing approaches to skincare were more holistic, process-oriented, and reliant on natural whole ingredients, these forgotten methods offer a compelling alternative to the modern, often disappointing skincare landscape, the wisdom of mid-century rituals. The beauty routines of the 1940s and 50s were not about a single miracle product, but meticulous multi-step ritual, an evening routine which may involve a cream-based cleanse, a period of rest with witch hazel pads,
+
+48
+00:19:51,310 --> 00:20:21,300
+Over the ice produced puffiness, a warm bath, and careful application of emollients like lanolin-rich creams or simple petroleum jelly to the face, neck, and eye area overnight. The emphasis was on preservation, gentle nourishment, and process. It's stark contrast to the modern promise of instant results from a single bottle. Ancient Victorian natural recipes. Delving further back, skincare was intrinsically linked to the kitchen and the garden. In ancient Greece, beauty was synonymous with nature. Olive oil and honey were fundamental staples, used not only in their diet, but also topically for cleansing, moisturizing, and imparting a healthy glow.
+
+49
+00:20:21,300 --> 00:20:50,940
+Victorian home apothecary. Victorian-era beauty manuals provide recipes for homemade concoctions using ingredients like French cucumber juice, almond oil, rose water, and witch hazel. Cold creams, the primary moisturizer of the time, were made from simple ingredients like lard, wax, and scented oils prepared at home without synthetic preserters or chemicals. So it's kind of interesting to talk about what people... Why is this interesting? Well, again, go back. Let me whip tallow for me, right? Again, I'm researching for an eye serum, but I have a tallow that I'm also selling. And it's like, okay, simplicity.
+
+50
+00:20:50,940 --> 00:21:18,140
+They used to use lard in the Victorian era, maybe something like the Victorian era secret, right? There's all kinds of, what ideas can I get from this that I can use my marketing, right? That's a huge part of it. You're trying to understand your market and their hopes and dreams, but we're also trying to get ideas. So it's how to speak to them, what to say, it's angles, right? These are all reasons why research is so important. The forgotten ingredient spotlight, bareberry extract. Amidst a wealth of historical remedies, specific ingredients stand out as having been forgotten by the mainstream beauty industry.
+
+51
+00:21:18,140 --> 00:21:42,500
+One such example is bareberry extract derived from the uva ursi plant. This botanical extract is a natural source of arbutin, a compound that the body converts into hydroquinone, one of the most effective known agents for lightening skin and reducing hyperpigmentation. While synthetic hydroquinone is a common but controversial prescription ingredient due to the potential side effects, bareberry extract offers a gentler
+
+52
+00:21:42,500 --> 00:22:16,880
+Nature-derived pathway to the same benefits. Niche brands are now reintroducing this forgotten ingredient as a safe, effective, and natural solution for the key concerns of the 40-plus consumer, positioning it as a piece of lost wisdom we rediscovered. That's really interesting and good to know, too. The mind betrayal. How our world wages wore on our skin. Corruption. The belief that the pain point used to not exist or was not so bad. Give me just a moment here. All right, sorry to pause for a minute, take a little break. So the belief that the pain point used to not exist or was not so bad.
+
+53
+00:22:17,490 --> 00:22:46,130
+Sorry, one other note. I'm going to go through this one in really in-depth, and then future ones won't be as in-depth, but I want to at least go through the first sort of set. And again, then I'll show you how we parse through this. But like I said at the beginning of this, it's worthwhile to read through it, I think at least once, right? Fundational belief within this demographic is that the skin problems they face, chronic inflammation, premature aging, pervasive sensitivity, dark spots, and puffiness, are not an inevitable part of aging, but distinctly modern affliction.
+
+54
+00:22:46,130 --> 00:23:07,940
+This belief is rooted in personal observations and anecdote. They look at older generations, their mothers and grandmothers, and see women who aged gracefully without access to the billion-dollar anti-aging industry. My mom is 65 and has gorgeous skin. She always says her secret is sunscreen and hats. My grandma's 85, looks quite a bit younger, and did all the things in her younger years that you're not supposed to do, drink, smoke, tan. The women on that side of the family just have really good skin.
+
+55
+00:23:07,940 --> 00:23:36,300
+This statement of comment perfectly encapsulates the core of the belief. Something has fundamentally changed between their grandmother's generation and their own. The logical conclusion they draw is that the problem is not with them, but with the modern environment they inhabit. The suspicion is further solidified by reports of pre-industrialized or isolated cultures that appear to have far better skin, reinforcing the ideas that their contemporary lifestyle is the primary culprit. That's interesting, going back to the tribes and things, right? So reference 48, I would go look at what that is in Gemini and click on it, right?
+
+56
+00:23:37,140 --> 00:24:06,930
+which we might even do. Belief that it's been recently exasperated by outside forces. This consumer has identified a clear set of villains in her narrative. Powerful external forces she believes are actively harming her health and exerting the aging of her skin. These forces are not abstract. They are specific industries and historical shifts that she feels betray her trust. Blame one, the quoted food supply. I think, you know, here, like it's all Ansel Keys in my example. And so it went with this. So I actually took it out and the additional examples I did because it was kind of dumb.
+
+57
+00:24:06,930 --> 00:24:37,740
+There's nothing wrong with this. I actually do think there's, there actually is validity. I just think I only picked Ancel Keys because of the example. Because it is like, you know, sugar, carbs, they create inflammation, glycation, where sugar molecules attach to collagen and elastin fibers, making them stiff and brittle. A primary driver of wrinkles sagging overall skin degradation. But again, this is sort of not like.
+
+58
+00:24:38,380 --> 00:25:07,890
+It wouldn't have picked Ansel Keys if I hadn't had that in the example, so I removed it for the prompt. Villain 2, The Unseen Chemical Assault. It's kind of interesting. They mention glycophate, ingredient in Roundup. It's all in the food supply. Disrupts hormone systems and can create skin issues, right? And it's sort of the duplicitous beauty industry. So the idea that basically the beauty industry is putting in...
+
+59
+00:25:09,230 --> 00:25:34,400
+known toxins and carcinogens that make wrinkles worse. And then, of course, social media, right? The isolated and uncollected ultimate proof. To complete the narrative of modern corruption, she needs proof that a different reality is possible. This proof is found in the existence of isolated, non-Westernized populations who are free from the skin ailments to plague her. Case study and purity. Studies and actual reports from populations like the Kitavan Islanders of Papua New Guinea
+
+60
+00:25:34,400 --> 00:25:59,390
+and the actual tribe of the Amazon revealed a near-toll absence of acne and other inflammatory skin conditions. These groups consist on a diet of whole, unprocessed foods, fruits, vegetables, tubers, and fish, and have no exposure to the processed foods, refined sugars, dairy, and environmental chemicals of the Western world. The Separa tribe, a living before and after. A particularly powerful story is that of the Separa tribe in the Ecuadorian Amazon. According to one account, the tribe was historically free from acne. However, once petroleum companies brought access to the modern world,
+
+61
+00:25:59,390 --> 00:26:33,460
+The younger generation began consuming processed foods like yogurt and ice cream. The result, acne began to appear for the first time. This anecdote functions as a perfect, easy-to-understand morality tale. When the modern corrupted diet arrived, their perfect skin disappeared. Building credibility by debunking myths. I don't think this is that important, but they have some interesting stuff around the Hunza people of Pakistan. I guess that's misinformation. I don't think it's that important.
+
+62
+00:26:33,710 --> 00:27:08,110
+It's a powerful original sin narrative, right? I don't think I have. Let me go back to my... It's kind of funny, right? Because I mentioned the Garden of Eden and the original sin thing. I didn't mention that. I don't mention... I mentioned it in this video, but I didn't mention it specifically in the prompt. But it's kind of interesting how Gemini picks up on that, right? The consumer is not personally at fault for her wrinkles, dark spots, puffy eyes. She's a victim of a series of systemic betrayals. Again, the dietary thing I really wish... If I was doing this myself, I might rerun it.
+
+63
+00:27:08,140 --> 00:27:51,280
+I don't know if I was writing copy right now for this. It's okay. But the Ancel Keys thing isn't that important. It sums it up. Okay. So that was a lot. Was that citation 48 I would look at? Why indigenous people don't have acne. This is interesting. Let's see. So this is about a woman who took a trip to the Ecuadorian jungle and saw all these indigenous tribes and none of them had acne and all of them had good skin. That's interesting, right? There's probably something there, especially for more of a ClickBank style VSL.
+
+64
+00:27:52,050 --> 00:28:24,160
+That was a cool find from deep research, okay? Now, I ran the same prompt and perplexity. Exact same prompt. Perplexity is shorter, but it's kind of nice in a way, okay? Your customers, primarily U.S. women aged 40 plus, experience visible signs of aging, including wrinkled, dark spots, and puffy eye bags. These women are navigating the complex intersection of perimenopause, career pressures, family responsibilities, and evolving beauty standards. So this is a much more succinct way of saying what Gemini was saying before, right?
+
+65
+00:28:24,160 --> 00:28:57,140
+They just have the sandwich thing here, right? They represent a demographic cut between societal expectations of youthful appearance and the natural aging process, often feeling suddenly confronted with traumatic skin changes. As one woman on a menopause form expressed, I guess this is not specifically a menopause question, just a general getting old and ugly and seeking advice on skincare to reduce lines on my face, especially upper lips. I guess I'm double checking one thing here. Another shared, I was in my mid-50s when I started going through the menopause. The fluctuating hormones caused outbreaks of acne in my face, especially on my chin area.
+
+66
+00:28:57,140 --> 00:29:27,500
+I thought I left it way back in my teenage years, so it was a confidence knock to worry about bad skin again. What are their attitudes, right? They often turn to spiritual practices in middle age. Political attitudes, they tend to be more left-leaning than men. That's good to know. Societal attitudes. They challenge traditional aging stereotypes while simultaneously feeling pressure from beauty standards. 99% of women over 50 are afraid of aging, yet 22% feel less pressure to meet beauty standards compared to younger women. Economic attitudes.
+
+67
+00:29:27,500 --> 00:29:57,620
+They've got considerable spending power. So honestly, it's up to you. If you want to run Gemini or if you just want to run perplexity, I actually think this is doing a really nice job of sort of summarizing things, right? Their hopes and dreams. Give a little more specificity. So we saw this with Gemini, right? They're coming into their own, living their authentic selves, living without self-judgment, right?
+
+68
+00:29:57,710 --> 00:30:22,450
+These things are new adventures, personal growth, maintaining professional relevance, work-life balance, looking and feeling their best despite their age. One woman shared, I focus on enhancing skin strength, boosting collagen, and elastin production, and achieving a more youthful feminine appearance, especially looking less weathered or rough. Victories or failures, kind of what Gemini said too, navigating career advancement, more resilience and confidence, more financial independence, failure.
+
+69
+00:30:22,450 --> 00:30:53,500
+Feeling like they failed at preventing aging despite trying numerous products. Experienced unexpected skin problems that damage self-confidence. Struggling before life balance. As one woman expresses frustration, many options have tried to prove it ineffective like those from the ordinary. I'm not interested in spending a lot on products that don't deliver results. I won't say that genuinely makes a difference. What about outside forces? Well, hormonal changes. I think this is an important one that we're seeing a pattern on. Gemini in here. Societal ageism and beauty standards.
+
+70
+00:30:53,500 --> 00:31:23,310
+Gender wage gaps, maybe. It wasn't mentioned by Gemini. Fair. Family caregiving responsibilities, lack of accurate information. What are their prejudices? Against younger women's beauty advantages, feeling that youth has unfair advantages and appearance opportunities. Against the beauty industry, believing companies exploit women's insecurities for profit. Against natural aging acceptance, rejecting the notion that they should gracefully accept aging if intervention. Against expensive products, skeptical of high-priced skin care due to past disappointments. Core belief.
+
+71
+00:31:23,700 --> 00:31:53,580
+They believe that family remains central to their identity, but they deserve to prioritize their own needs and dreams alongside caregiving responsibilities. They value authentic relationships over surface level connections and believe that personal growth and self-improvement should continue through life, rejecting society's expectations that they should become invisible or irrelevant with age. Other solutions. This is kind of nice. It's a little bit more similar to what was said in Gemini. What's your experience been like? Trial and error approach. Inconsistent results. Skin sensitivity. Financial drain.
+
+72
+00:31:53,580 --> 00:32:23,700
+One user shared, I have zero clue what to trust and which reviewers online to believe. Another expressed, it doesn't do anything. I paid $2,300. $2,300 something for this 30ml of product and the same results. What do they like? Professional treatments, simple science-based routines, product-approved ingredients, trusted reviews. What do they not like? Lack of regulation, unrealistic marketing claims, high prices, complex routines, generic solutions. Horror stories, severe skin reactions. This is from Mercury Poisoning from historical beauty products, so I wouldn't pay too much attention to that.
+
+73
+00:32:23,700 --> 00:32:56,290
+because like unless i was doing really focused on historical story it's part of my copy um financial exploitation dangerous ingredients do they believe solutions work they're deeply skeptical which is what gemini said too um to understand that right they have more sort of ancient things here like pre-60s attempts what was good what has gotten worse really okay hormonal disruption increased environmental stressors social media pressure stress and lifestyle factors
+
+74
+00:32:56,290 --> 00:33:32,270
+They blame the industry, lack of regulation, all that. It doesn't really do a great job with the indigenous stuff compared to Gemini, so that's where I think it's worthwhile to do multiple LMs. I went a little bit faster on this one because we have a lot to get through, but I wanted you to be able to see another example here. And so now, I put this into this here as well. Let's look in just a moment here at ChatGPT. Okay, I don't want to read this whole thing, but I want you to be able to see the difference, okay?
+
+75
+00:33:32,270 --> 00:34:00,620
+And I'm going to show you how to combine all of these into one thing. Okay. Often 40, 46 plus range, experiencing visible signs of aging, having midlife transitions, approaching menopause, considering second careers, large portion are white, not exclusively, they invest in skincare. And so really, again, I don't want to have to go through all of this, but...
+
+76
+00:34:05,230 --> 00:34:37,040
+It's good. You can see different quotes here, right? They failed to take care of looks earlier. Nobody told me how quickly things can go downhill. I was actually attracted back then. Looks aren't important. It was easy to say when I was young. So I would go through and look at the quotes here. I feel destined to be alone now. Who wants to be with a tired, saggy, chunky woman? I'm laughing. It's sad, right? A period of grieving what I used to look like. So I think Chachibati can do a really good job, especially at pulling quotes here. I'm going to give you access to all of these, right?
+
+77
+00:34:37,040 --> 00:35:21,420
+They've got Horror Stories, Botched Cosmetic Procedures, Botox Horror Stories. I actually really like ChatGPT's output overall, and I know I'm skimming it. There's Cleopatra again, hemorrhoids, snowmucin, brownies, which we have a snowmucin product for our stuff, retinoids. There's the Victorian stuff again, which is interesting to me. I do wonder if there's a cool Victorian skincare secret angle to be used in the future. 1920s, 1950s Hollywood tricks. I think that's interesting. I think there's a powerful nostalgia.
+
+78
+00:35:21,460 --> 00:35:49,780
+Preparation H gets mentioned again. These taper facial straps to pull back skin for photos or events. Thread lifts. Old school plastic surgery. I mean, there's really interesting stuff. If I was actually, why I'm frankly later going to probably do a VSL for the eye serum and I will read this in more detail. I just don't want to do it all in this video because I think you get the idea and I don't want to bore you to death. It's okay, cool. We've got all three.
+
+79
+00:35:49,780 --> 00:36:20,560
+and i put this into a doc all these things are you know shared with you what i want to show you is like okay one cool thing you can do you can pick and choose right so i would usually run on probably at least two of the three i typically might do gemini and chat gpt i might throw perplexity um but like that's a lot of information and even if we go to give it to an llm is that too much information and it would be like kind of some of this repetitive what can we do right well what we can do
+
+80
+00:36:21,650 --> 00:36:55,070
+is we can do a prompt like this for quad. Make this bigger. I'm ready for those copy targeted towards a specific demographic. I've had multiple LLMs generate deep research reports for me on this demographic, and I'm attaching each of those as a PDF here. What I'd like your help with is to go through these reports and then create one unified report that I can use as a reference. For greater context, here is the prompt I give to LLMs for deep research. And I just include the prompt again. Please go ahead and create the document now so you can see what this looks like, okay? Literally the exact same prompt.
+
+81
+00:36:55,070 --> 00:37:19,200
+And I uploaded a PDF from the Gemini research, Perplexity, and ChatGPT. So then it takes this and creates one unified brief. And so frankly, if you're going to do this and run through things, again, I still would typically read through and I would jot down what I would be doing. This is super important. And maybe I'm assuming you would do this, but you might not. I'd be jotting down ideas as I'm going. I'd have like another doc open.
+
+82
+00:37:19,200 --> 00:37:49,150
+Every time I see something interesting, like what I pointed out, as I'm going, I'll be jotting down notes and things like that to further explore if I need to and want to, right? Okay. Your customer is a U.S. woman. I'll do it in here because I made it big. I can make it bigger, easier. Your customer is a U.S. woman aged 40 plus experiencing visible signs of aging. She represents the unique and demanding life stage, her peak earning years, higher disposable income than younger generations, competent societal expectations of youthful appearance and natural aging process.
+
+83
+00:37:49,150 --> 00:38:23,950
+It mentions the sandwich generation and chief medical officer, which was from Gemini. It did take a lot from Gemini, but I went through this. It does have stuff from GBT and perplexity as well. In her own words, right? So it's got like quotes from her own words. What attitudes does she have? She can turn to spiritual practices. She probably leans left. That was from perplexity, I think, not Gemini. Societal attitudes, right? Challenging traditional stereotypes.
+
+84
+00:38:24,340 --> 00:38:55,380
+while feeling pressure. This quote, which I think was important and worthwhile. I think these were from ChatGBT, some of them. She's got great spending power, but she's pragmatic. What are hopes and dreams? Feeling confident, powerful, and comfortable in her own skin. Looking as young as she feels, or at least feeling refreshed and confident. Pursuing new adventures and personal growth opportunities. Maintaining professional relevance and advancement. Achieving work-life balance while caring for family. In her own words, we saw this one here.
+
+85
+00:38:55,860 --> 00:39:25,070
+My skin looks more alive. My face often lifted and my eyes don't feel so drooping anymore. 76% say they're actively trying to embrace aging with grace and confidence, rather victories and failures. Victories, that internal surge of confidence we talked about, including the fact that they've become more confident than men by 60. So that was an important thing we noticed that Claude noted here too. Successfully navigating career advancement and family responsibilities, big milestones, resilience, confidence, failures. This is a really important one that it added or it picked up on.
+
+86
+00:39:25,070 --> 00:39:53,420
+feeling like they failed at preventing aging despite trying numerous products, profound struggle when health diet and exercise regimens that worked for decades suddenly stopped working, hormonal shifts, apparent menopause and menopause, experiencing unexpected skin problems that damage self-control. In her own words, the effortless attention, my looks garnered, got me addicted to being pretty, not to mention, in spite of all my, I don't know why he does this quote where he can't even, I don't know why I picked this quote to pull, to be honest with you. You know, I've tried these things that are ineffective, we saw this quote.
+
+87
+00:39:53,420 --> 00:40:22,320
+Nobody told me how fast things can go downhill. I really like that quote, so I'm glad it pulled it. What forces outside their, do they believe to prevent their best life, biology, medical, dismissal, ageism, social media pressure? Quotes about that. What are their prejudices against younger women's beauty advantages, against the beauty industry, against miracle creams, against expensive products, against cosmetic procedures? In her own words, I'm not the type of woman to blow big money on useless products and then delude myself that they are making a difference.
+
+88
+00:40:22,900 --> 00:40:54,610
+Some of my friends are beginning to do things to their face, I often think. And I often think that photos and Botox make their face look unnatural and definitely do not look better than when they were younger. Their core beliefs get summed here, have some additional core beliefs, right? Other existing solutions, mass market, prestige, key ingredients, professional treatments, at-home devices, supplements. What has their experience been like? I think this was from Popoxity, which has to be, I don't remember. In her own words.
+
+89
+00:40:54,740 --> 00:41:25,840
+This shit is hard. I really thought I was going to skate through the whole thing gracefully. I think that must have been from ChatGPT. What is the market like? Products that actually work. We went through a lot of this in our own words. What I dislike, feeling cheated, products marketed for mature skin, retail experience of young sales associates who lack understanding, lack of regulation, unrealistic marketing claims, complex routines, generic solutions. We saw this Sephora quote before. Horror stories, you know.
+
+90
+00:41:27,180 --> 00:41:58,830
+I don't know if we need the Mercury one again, but it did those in her own words. They believe existing solutions work. They don't believe most skin products work in a meaningful way. The beauty industry is built on selling hope in a jar. I'm really glad they incorporated that. I thought that was important. It mentions the efficacy paradox trapped between deep skepticism that products work and persistent, hopeful search for a solution. In her own words, talking about her skepticism and the natural stuff here. Unique attempts and lost solutions.
+
+91
+00:41:58,830 --> 00:42:28,960
+It mentions both of these from Gemini, which is interesting. It mentions the Victorian thing, which is interesting. It mentions the mid-century, pre-1960 things, which is good. And corruption. My mom had gorgeous skin. Outside forces. Again, I'm annoyed it has this from Gemini, but whatever. It does mention the Sephora tribe story. And so it does all that. The reason I went through all this here is because...
+
+92
+00:42:28,960 --> 00:42:55,860
+If we zoom out, it's like, okay, good. It clearly is covering, it kind of covered, it got most of the key things. So again, ideally you will read through everything. If you're sort of overwhelmed, just use this prompt, put into quad, or sorry, this prompt, put the PDFs in the quad, you'll get a really good summary, and you can save that here like I did, okay? So next I'm gonna look at a couple other things.
+
+93
+00:42:56,140 --> 00:43:23,380
+We'll talk about a little bit deeper on pain points if you want to, and then two more examples. So I'm going to pause again for a break for myself and come back to this same video. We'll keep going. Okay, I'm back. What I'm going to do is actually I'll do a third video here. But to end this video, I want to show you one more thing, which is if you do feel like you want even more pain points or things like that, you can do a follow-up prompt. Thanks now, please continue deep research and leverage social signals like social media.
+
+94
+00:43:23,380 --> 00:43:57,200
+forms, et cetera, to provide the following. As many quotes as possible from women describing their specific pain points around aging skin, looking older, wrinkles, and so on. We highlight that, so whatever the pain point is. I want to hear about how they think about the specific pain points here in their own words. As many quotes as possible from women, in this case, but whoever your market is, describing the opposite. What adjectives and other descriptors do they use, right?
+
+95
+00:43:58,160 --> 00:44:23,150
+You can do that in the same thing. So for example, perplexity, their output was okay, but then I ran this prompt, right? I'm 43 tomorrow, I'm feeling old, I had a baby in 2020, and I'm turning gray, wrinkles are rapidly appearing, and I'm knackered. I'm only using knackered, probably from the UK. Captures the overwhelming nature of multiple aging signs appearing simultaneously during parametamons.
+
+96
+00:44:24,370 --> 00:44:48,860
+I started experiencing menopausal symptoms last year after having a hystectomy. The first thing I noticed was wrinkles and bags under my eyes, which seemed to appear overnight. I initially put it down to the fact that I was so overwhelmingly tired. Skin texture and quality changes. Most of the same thing for me was the dryness and the dullness. My skin literally seemed to lose its glow overnight. I felt and looked exhausted. My skin became so dry, it really showed the impact hormones can have on our skin.
+
+97
+00:44:48,860 --> 00:45:15,140
+It feels like insects crawling under my skin. We hear about this symptom from so many women who come to our Facebook group. I now understand it's due to a lack of estrogen, which means your skin can't hold on to moisture. So it's really valuable. Especially for the moisturizing stuff, whether it's the eye serum or tallow, playing up the moisturizing component is really good, right? Retaining moisture, more natural moisture, less dryness, all that. The complexity of multiple issues. While we were celebrating her 45th birthday, she pulled me aside from the party to ask...
+
+98
+00:45:15,140 --> 00:45:40,590
+Meanwhile, my hair skin seemed to be going crazy with dryness, acne, and wrinkles simultaneously. How unfair is that? The fluctuating hormones cause outbreaks of acne in my face, especially on my chin area. I think we already saw that quote before. Emotional impact. How are or have you ladies coped with losing your looks and maybe no longer turning heads in the way you used to? I wouldn't say I feel invisible yet, but going out definitely takes longer and more effort. You start to think that you're really falling apart.
+
+99
+00:45:40,780 --> 00:46:15,440
+I'm experiencing lots of unfortunate signs of aging, which might not be a big deal to me if I was only 25. She's 25, so she's a little too young, but there's still some good stuff. Crow's feet, under-eye wrinkles, hollow circles under my eyes, lines around my mouth, and a drawn-out gaunt look. Looking-faced, it seems to have lost all this vitality and plumpness. And so basically, you know, I put these all into a document here, which I believe... I don't have this open, give me a second.
+
+100
+00:46:25,840 --> 00:47:06,860
+Poor here. So I did that in Perplexity. I got more quotes. I basically just copy and pasted them into another Google Doc. I did the same thing for, I think I did for ChatGPT. I thought ChatGPTs were like okay. It was sort of short, but they weren't bad. Then I did it with Gemini as well. And I basically just pulled some pain points and things there.
+
+101
+00:47:07,180 --> 00:47:37,260
+So again, I just copy-paste them, and this is good to have even more stuff from your customers' own words, so that's why I'm sharing this. I don't think it's an essential, but it doesn't hurt. And so, like I said, I just did those, and I just literally popped them into an extra doc that just has everything at point. By the way, I did ask Grok as well, and Grok's just was not very good. It kind of gave me a few random people, Lynn Sands, and I don't quote Kate Winslet, and it was pretty short.
+
+102
+00:47:37,390 --> 00:48:14,160
+I had a total, like, hey, this isn't very good. Try again. And it kind of, like, it was okay. Some of the pain points were okay. But I just didn't feel like it really added, like, beautiful, expressive lines. Makes your face interesting. It just didn't seem that good. So I honestly didn't really... I wanted to show you Grock, but I just didn't find it to be that good, to be honest with you. So I didn't include that. Okay, but that's so you can get more pain points. So in the next video, I'll go through kind of briefly, more briefly, I promise. Two examples for...
+
+103
+00:48:14,220 --> 00:48:34,580
+Airbnb arbitrage, and then golf, just so you can see a few more examples. You'll have access to all of the outputs, so you can go through them. But to summarize, we'll do a second graphic research, why it's important, what we're looking for, how it generates ideas, and all these sorts of things. Then I went in-depth through the outputs we get with Gemini.
+
+104
+00:48:34,580 --> 00:49:04,140
+A little bit less in-depth with Perplexity and ChatGPT, but you're able to see those. How you can put them all into Claude and have Claude summarize it into one document that we could just read that would simplify our life. And honestly, we'll catch 99% of what we want. So if you don't have time or if you feel overwhelmed with all that stuff, you can put it into Claude and get a good summary that should be good enough. In a perfect world, you read everything, but if you don't, you'll still be okay. And then we talked about why this is important, right? So understanding...
+
+105
+00:49:04,140 --> 00:49:32,010
+They're deeper drivers as important as we speak to them and speak to them in their own language, right? We can use quotes drastically and copy basically, and it's pretty genius. But also we have ideas and angles and hooks and things to explore and different types of ad copy as we go to write copy in the future. So I'll come back before long. I mean to you, it'll be whenever you watch the next video and we'll go through BizOp and Golf and we'll go from there. All right, thanks.

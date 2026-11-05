@@ -1,0 +1,44 @@
+{
+  "source_file": "👣 Evolve (Start Here)/149. How To Make B-Rolls For Frameworks 👣 Evolve (Start Here) Evolve.mp4",
+  "source_id": "mega:jhQDiSSY",
+  "audio_sha256": "17b5177fd6fb33ef22d8db687d996d270fbb31485393737cd06c05d388a79129",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 181.7,
+  "last_segment_end": 181.7,
+  "segments": [
+    {
+      "start": 0.5,
+      "end": 30.24,
+      "text": "Hey Spencer, so for the film your b-rolls part, definitely just copy this template so that you don't have to make it from scratch. So for this video, I'm just going to make a new column. Sorry, new row. I'm going to put it up here at top. I'll just make it number one. And then you need this application, Giphy Capture. And so I'm just going to open that up and open a random video on my computer."
+    },
+    {
+      "start": 30.24,
+      "end": 64.26,
+      "text": "So I'm going to do this one, for example. Okay. Then I'm going to resize this. Okay. So I'm just going to hit record and then let it play. And then I'm going to, what do you call it? Make clips out of this later on. Did you know that your low libido can be fixed with a delicious and natural Japanese drink? Everyone is obsessing over Clever's brand new Honey Rabbit or Matcha Latte. This latte is packed with tersitin, collagen, oxydata, catechins, and reishi."
+    },
+    {
+      "start": 64.26,
+      "end": 93.73,
+      "text": "Okay, I'm going to stop it there. I've been clicking everywhere. But yeah, so once you stop recording, it should give you the entirety of what you recorded. And then here, you'll just make clips. So for example, if I want to take this hook, I'm just going to make a clip out of it. And then I'm going to save that. I have a hooks folder here that I use. So that's going to be clip number one. Then let's make another clip. Let's say..."
+    },
+    {
+      "start": 93.73,
+      "end": 127.6,
+      "text": "Let's say I want creators to copy this B-roll right here. Okay, that one. Okay, so that's all done. I'm gonna close this. And then let me just go back to the framework. Okay, I'm going back here. I'm going to just paste those GIFs hooks. Okay, and then let me put here."
+    },
+    {
+      "start": 128.78,
+      "end": 161.49,
+      "text": "Just put a description of what the clip is supposed to be so that creators know what to film. So for example, put the cup of coffee. Let's just say like an aesthetic shot. Hold on. Aesthetic shot of the coffee. And then let's say you want to do a number two. So insert row below. Let's make a number two. Hit this here."
+    },
+    {
+      "start": 164.98,
+      "end": 181.7,
+      "text": "And then, I mean, it's pretty much the same. So I'll just put it there so that they have two B-roll examples. Yeah, that's basically it. Just look for Giphy Capture online and then grant it the permissions and then you should be good to go to use it."
+    }
+  ]
+}

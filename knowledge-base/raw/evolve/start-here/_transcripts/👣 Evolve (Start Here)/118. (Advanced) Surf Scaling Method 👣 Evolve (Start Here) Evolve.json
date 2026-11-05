@@ -1,0 +1,104 @@
+{
+  "source_file": "👣 Evolve (Start Here)/118. (Advanced) Surf Scaling Method 👣 Evolve (Start Here) Evolve.mp4",
+  "source_id": "mega:jhQDiSSY",
+  "audio_sha256": "8d0def1d603f36427d263e261223c8c980f5b2791b3bc16bc329d26f540de51b",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 512.62,
+  "last_segment_end": 511.95,
+  "segments": [
+    {
+      "start": 0.24,
+      "end": 30.18,
+      "text": "All right, so how are we able to scale to such big numbers? So here's an example sheet of what we do. So during big periods like Black Friday, because we run e-commerce brands, we run mainly through Facebook ads, we want to be scaling our ad span, right? And what this sheet is, is instead of just scaling, you know, like every day, during such a big period like Black Friday, where majority of our sale comes from, we need to make sure that we make, you know, just really take advantage of this sale and make the most out of it."
+    },
+    {
+      "start": 30.18,
+      "end": 59.33,
+      "text": "So in this case, we want to be scaling multiple times per day instead of just on a daily basis. Since we know these period conversions are going to be much higher, people have much higher buying intent. So what this is, is it's a systematic way to do what we call search scaling. And some of you guys already do that or might have heard of it. There's a strategic way to go about it that is much more data-driven. Some people do it based off, you know, feeling, look at accounts."
+    },
+    {
+      "start": 59.33,
+      "end": 86.5,
+      "text": "We need to make sure that you have everything planned out. Same thing for what we do on our creatives as well. Although it's also the same thing, keeping it all planned out when you have an actual team makes everything much, much more efficient and everyone makes the right decisions. So over here, so your team might be in different time zones. So first of all, you need to put your ad account time zone inside here. So let's say this account is in CST, right?"
+    },
+    {
+      "start": 86.5,
+      "end": 115.18,
+      "text": "and you are based in PST time zone, for example, or different cases, like for example, most of my clients are in the US, I'm based in Malaysia, you know. So let's say if you're the only one scaling, make sure that you need to scale based on the ad account time zone. Why you want to scale on ad account time zone is because let's say if you scale based on, okay, although your ad account is in Singapore time zone, your account is in US."
+    },
+    {
+      "start": 115.18,
+      "end": 144.91,
+      "text": "If you scale budget right before midnight for your ad account time zone, it's going to below the budget still. Although optimally, it's what's going to perform well in the US because your ad account follows the ad account time zone to adjust the budgets, which is why. So over here, ad account time zone is one thing, put your own local time zone. And whatever is midnight time of your ad account is what we have here in..."
+    },
+    {
+      "start": 144.91,
+      "end": 176.72,
+      "text": "I know this like pinkish color. So we decide how often to surf scale, whether that is two or four hours, depending on how much you're currently spending, right? So I did write a post about it just to show you guys. So how do you decide when to surf scale? So when to surf scale is up to how much you're currently spending. If you're only spending like a few hundred dollars a day, you know, surf scaling every six hours is fine. And while you can't do it too often as well,"
+    },
+    {
+      "start": 176.72,
+      "end": 205.98,
+      "text": "It's because it needs time to optimize, right? Imagine if you had like a thousand purchases per hour, it's really, really easy to optimize. But if you're only doing like one an hour, even you've touched it multiple times a day, the algorithm is not able to optimize it for you. Which is why it's dependent on how much you're currently spending. So let's say you're spending, you know, a few hundred dollars a day. I would just do it every six hours. You're spending $5,000 a day, four hours is good. You know, you're spending like 500k per month."
+    },
+    {
+      "start": 205.98,
+      "end": 234.58,
+      "text": "you know, 20k per day already. You can experiment 4 hours as well. You keep trending way more. You know, let's say you're spending a million a month. You can potentially do every 2 hours. Every 1 hour is applicable as well. I mean, if you're spending close to 100k a day, you definitely can do 1 hour. That's what the periods are. Let's say for, in this case, I want to do every 2 hours, right? Okay, so you're spending 40k a day right now. We decide, okay, 2 hours is pretty good. So,"
+    },
+    {
+      "start": 235.76,
+      "end": 265.47,
+      "text": "Let's say the ad account is in CST. And CST is two hours ahead of PST. Let's say I'm in PST. Okay, ad account, which means 10 a.m. PST, right, is 10 p.m. PST is midnight for my ad account. So 10 p.m. my time, I need to make sure that I reset the budgets. If not, everything gets blown away. Okay, then two hours after that, after..."
+    },
+    {
+      "start": 265.47,
+      "end": 292.75,
+      "text": "10 p.m for me, 2 p.m, two hours after ad account, which is 2 a.m CST, and 12 a.m my time zone PST. I will check. What is the performance for this specific period? Two hours, okay? We want to check performance for every two hours. That's the decision we're making on. Instead of every day, it's every period. Can I see these two hours? I put in some metrics. Shopify revenue, and during these two hours,"
+    },
+    {
+      "start": 292.75,
+      "end": 322.14,
+      "text": "My Shopify revenue, my meta revenue spend, other channel ads spend. Okay. My returns are this. My blended returns are this. Not good. I won't scale. Potentially, I will even scale down. Depends on the context. For this case, it's not spending a lot anyways. Why? Because it's like midnight. No one's awake and it's not spending a whole lot. So I will decide maybe to just remain the budget or reduce it. Next period comes. 2 a.m. Okay. What's the performance for..."
+    },
+    {
+      "start": 322.14,
+      "end": 348.88,
+      "text": "up till 2 a.m. Okay, I put in the total revenue. Okay, so I'm seeing and then this sheet will auto calculate for me. Okay, what is the performance this period? Forex meta revenue. Pretty good. Potentially, I can scale up. I'll double check my blended. My blended is still not looking good. And if you guys don't know what blended is, blended is basically your Shopify revenue to ad spend. So this is the most accurate one. Your, you know, Facebook."
+    },
+    {
+      "start": 348.94,
+      "end": 378.9,
+      "text": "ads or google ads will have your own in-platform attribution not always the most accurate blended is the most important thing that's basically like what you will determine your cnl roughly based on okay so next period not good as well this period not bad okay 6am potentially i'll scale up 8am comes okay meta returns not very good potentially i'll scale down next period comes okay really good 5x are in for 2x instead of doing small increases like 20"
+    },
+    {
+      "start": 378.9,
+      "end": 408.85,
+      "text": "I can be more aggressive. Let's say on a double budget. Okay. Double budgets here. Looking really good. Next period. 5X again. Double. 3.5. Double. 3.2. Double. In this case, you would have spent a lot, lot more than what you originally started with. And you protected your returns because periods where there were slow sales, you didn't increase or you reduced the budget. This way, you make the most out of Black Friday. Performance is good. You steal much, much harder. If it's not, you protect the profits. End of day, the profits are the most important thing. So we play by ear."
+    },
+    {
+      "start": 408.85,
+      "end": 437.71,
+      "text": "So some people like to subscribe based on feeling, you know, based on historical data. But put that all out, right? We track everything to make sure we make the most out of it. Follow the data. So after that, we will reset the budget the next day. What do I mean by resetting the budget? Okay, let's say when you surfskill, I started off the day at 10k per day budget. But then I set it to 100k per day after all the stumbling, right? Okay, but you won't spend the full 100k."
+    },
+    {
+      "start": 437.71,
+      "end": 467.74,
+      "text": "they'll spend maybe like 50k because when you change it midday, you won't get the chance to spend the full budget. So in this case, what I would do is I need to reset my budget. What I mean reset my budget, I just mean reduce it. It will set at 100k. If I don't reset it by midnight, what happens? The next day, it's going to spend 100k despite, if I don't lower it the next day, it's still going to spend 100k because that's what it started at, which could potentially mean you blew your whole ad account."
+    },
+    {
+      "start": 467.74,
+      "end": 497.41,
+      "text": "Not ideal. So reduce the budget. So what we do usually is we take whatever you actually spend that day. Let's say you actually spend 24k. We will reduce that in half. It depends on the context. In general, that's the rule. Spend 24k. We half it. Performance is good. Okay, 12k. That's the starting budget for the next day. Then we will scale it back up. Of course, there's a certain... If you say you really, really did well at 24k, potentially I can leave the budget as is."
+    },
+    {
+      "start": 497.41,
+      "end": 511.95,
+      "text": "It did really well. Then the next day, I scale it up again. That's what we usually do. This is how we make the moves out of sales periods and protect our returns. And that's how we are scaling this Black Friday and how our students are scaling up to 100k per day."
+    }
+  ]
+}

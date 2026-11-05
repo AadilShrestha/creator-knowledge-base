@@ -1,0 +1,231 @@
+1
+00:00:01,580 --> 00:00:41,570
+All right. Let's talk about content. And in my opinion, I'm not a big fan of someone like ad spying, rip and then run ads one-to-one. But I think it should be part of every media buyer's skill set to really understand the market and also the competition. And there are different ways on how to do ad spying.
+
+2
+00:00:41,570 --> 00:01:11,280
+On Native, there's no official ad library like Meta or TikTok have or Google Ad Transparency. But there are tools like Adplexity or Anstracts where you can perform a solid ad spy. Essentially, and it's also important to mention, those tools won't cover every single ad that's out there, but they would give you a solid indicator.
+
+3
+00:01:11,280 --> 00:01:40,240
+for what is working at the moment. And we go into that in a second. I'm a fan of using a few adspying tools, not only one, because they would show different results, of course. But my go-to tool is still Anstrex. And you can have a look at that right now and check a few funnels and dissect them a little bit. So this is Anstrex. I always have a hard time.
+
+4
+00:01:40,240 --> 00:02:13,600
+pronouncing that word. So essentially, when you buy that subscription, not sure how much it costs, like $100 a month or so, you can then search by network, the geo, etc. But the most important, I'd say, dimensions to search for are essentially ad strength and gravity. Gravity essentially indicates the momentum of an ad.
+
+5
+00:02:13,600 --> 00:02:43,630
+if an ad has right now on this day or the past couple of days many clicks and impressions you will see a higher gravity while ad strength essentially um show the the same but without this time um this time indicator meaning like when you will see something which has like a low and that was like a low gravity but high ad strength um this was a super i'd say super solid performing ad
+
+6
+00:02:43,630 --> 00:03:13,900
+but maybe a while ago. And it's, I think, important to mention. So if you want to just check your strategy or your competitor's strategy from last year, you can go for ad strength. If you would want to see what your biggest competitor is doing right now, it makes sense to go for gravity. And I think it's important to do that as a media buyer almost like two times a week to really train that muscle and understanding the patterns of the market.
+
+7
+00:03:13,900 --> 00:03:43,580
+Obviously, everyone has to do their own research on their target audience and personas, etc. But still, I think doing this over and over again will definitely give you a good feeling for good performing ads, but also wording that they're using. How is a user essentially describing their problems? Is the user saying certain keywords or phrases?
+
+8
+00:03:43,580 --> 00:04:14,820
+um that are like really triggering them for example um are they often using the word itchy when it comes to like skin care for example um then that's that might be something that you would want to to use on the ads as well right because you always want to in any on any traffic source you want to create the feeling of um a user talking to a user instead of like a business talking to a user obviously so yeah we go into that in a second now um you have those big
+
+9
+00:04:14,820 --> 00:04:44,240
+those big i'd say like categories in general and that are working very well on native um which are vsls vsls are essentially like perfectly tailored to that to the traffic source in that audience which is like a little bit older like i said um health vsls um such as like denitis vision um weight loss prostate um blood sugar um
+
+10
+00:04:48,020 --> 00:05:20,430
+toenail fungus, those kind of like VSLs, those are like taking like a big portion of the auction. And the classic funnel for that is essentially you would in most cases, and we go to that in a second, in most cases you'd see a weird image of like household products, right? Which would indicate something like do this morning routine every day.
+
+11
+00:05:20,660 --> 00:05:54,540
+and see you shedding pounds that was probably not correct english but i think you get what i mean um but i always indicate that you can do something from in the in the comfort of your own home with things you probably already have at home so you probably don't need to buy something etc um and it's always like a little bit of a weird thingy and um that's i'd say in most cases the case for those health vsls and um
+
+12
+00:05:54,540 --> 00:06:24,260
+Why is that so powerful? Because it's, it drives like a lot of curiosity. It's mostly that goes in general for, I think, like almost every traffic source that the best ads or the best creatives are essentially organic images. And yeah, that creates like a high CTR. And like I said, therefore like a high CPMs and people can make it work on direct response. So on a target CPA, even though that might be quite high.
+
+13
+00:06:24,260 --> 00:06:54,380
+so i think like on average like one of those offers is like around 100 250 dollars payout and they still make it work um because of those great cpcs that they will achieve with that approach the classic funnel for health vs else is is essentially at like i just described and then a short jump page maybe four or five paragraphs and um then you would go to like uh
+
+14
+00:06:54,380 --> 00:07:21,340
+a vsl that you cannot really like um click through you have to watch the whole vsl um for like around 40 to 50 minutes i think the classic the classic uh vsl link is like 40 minutes usually on i don't know on the 30 minute mark you see like a quick um add to cart option that you would see um for the people who want to buy it then immediately other than that that will like fade away
+
+15
+00:07:21,340 --> 00:07:52,560
+And then you would need to watch it till the end. And then you can buy essentially. That's a classic VSL funnel. So there are different ways of finding it, obviously. You can just go straight for the product or the problem, right? So let's say I would want to go for diabetes. And you can search for that. You see already there's like a bunch of like weird images. And then you can see if you would want to understand what's been working right now.
+
+16
+00:07:52,560 --> 00:08:28,270
+You can filter by gravity. I think blood sugar and diabetes verticals anyway, like a vertical which is all year around there. You have here some different languages. I guess even German. You can also filter by English, but it's usually not that accurate. Let's see what we find here. You can just click on those. I mean, there are different traffic sources within, obviously, the native category. I'd say the higher tier ones are like,
+
+17
+00:08:28,660 --> 00:08:59,740
+Taboola, Outbrain, MGID, and then it's like ref content and those smaller ones like ads, keep it now, et cetera, Newsmax. But you see, right? Everything is like, are like usually very like visually appealing things which look weird, have like high contrast, a weird shape, all things you just simply know, right?
+
+18
+00:08:59,740 --> 00:09:58,160
+so for like the longest time you saw something like here you have like a cook bottle for example or baking soda right next to it and um yeah so let's say i would just click on this one and visit the page and i would probably land on an auto direct page one second just quickly do like another example this this is for example um a a longer funnel which is not common on on native
+
+19
+00:09:58,160 --> 00:10:59,740
+And you see there's a lot of education going on. And you even have an interactive CTA here. A lot of social proof and authority at the end. You might even see a part which shows social comments. It's a good one for later. I can just save that one. But I wanted to see a classic jump page. Okay, let's do it this way.
+
+20
+00:10:59,740 --> 00:11:28,620
+there are different ways to find something and why i said at the beginning that it makes sense to train that muscle and do that over and over again is because then you will find like patterns and also systems what to search for and like a little bonus here is um you can also search for utms directly and that means essentially like parameters or a link suffix so like a part of the link after the url um
+
+21
+00:11:29,200 --> 00:12:01,580
+to identify ads from like a certain traffic source and a certain network. And here, for example, I could apply and I will share a list of those later. For example, the classic ClickBank UTM parameter is this one. It's like hop, like usually a question mark and then hop. And one second, we need to change this one to creative URL chains. Then you would usually see classic ClickBank ads.
+
+22
+00:12:06,380 --> 00:12:38,830
+This is a classic jump page for a VSL. So you see an image which has like a play button and that would lead you to the next page. And only like three, four, usually five paragraphs that are just pre-qualifying the users to watch the entire VSL. And I think if I click on this, because I have like no click data, it will not really be somewhere.
+
+23
+00:12:38,830 --> 00:13:05,360
+But what you can do is you could now grab this link and search essentially for their ads because you know already that they are doing essentially running VSLs. Then you see that they are running weight loss offers, etc. I mean, we are not going for that person in particular, right? Apologies if you're watching this.
+
+24
+00:13:05,710 --> 00:13:39,230
+It's just like to understand a little bit the pattern of doing like ad spying. And yeah, I just wanted to showcase quickly the classic VSL funnel, right? And just quickly open the next one. This is for weight loss. You have the same pattern, right? Start page. This page usually has like a, or those short jump pages usually have around like a, or your goal should be like a 50% landing page CDR, 40 to 50% because it's really just like a short page.
+
+25
+00:13:39,230 --> 00:14:10,860
+with the goal of um pre-qualifying the user effect the contest will not bring me anywhere again and yeah um so that's that's like the one classic funnel i'd say for one big vertical within the native category which is vsl obviously there are other vsl offers um in the in other categories like survival make money online um or else but i'd say for that audience
+
+26
+00:14:10,860 --> 00:14:45,730
+those health vsls are like pretty um they work very well all right so let's go for um a classic ecom offer and while i talked about the audience already um what also works very well and we rendered a lot um i like health gadgets um particular insults knee sleeves um acupressure clips
+
+27
+00:14:45,730 --> 00:15:36,850
+weight loss devices and um we can just try to search for knee sleeves for example see what we find there still has the gravity on so what we see here essentially um is that there are like certain wordings that are over the course of the the time um
+
+28
+00:15:40,910 --> 00:16:11,550
+So like I said at the beginning, you see there's like no gravity, meaning that there's right now nothing, no traction in the market for that offer. But we see like an ad strength. So someone ran it in the past. And you also see like a certain pattern in wording. And I know that from experience running this offer, using like certain words and keywords, they just turn out to perform very well. For example, the word bionic.
+
+29
+00:16:11,550 --> 00:16:42,190
+something i just saw a second ago um that's just a keyword that makes people convert um and interesting here is that people already use that one on like the product itself on the ad level um usually that i mean as you you'd see that quite often um but usually people would have like a weird image let's say of pressing a certain fruit on your knee um and then using
+
+30
+00:16:42,190 --> 00:17:10,800
+i don't know a certain paper just to wrap it around it and um be around be something like this uh this this the seven minute trick or daily ritual um would help you get rid of back pain or knee pain or um ankle pain or else but yeah so it seems to work with showing um the knee sleeves directly right using like certain words just like i said
+
+31
+00:17:12,210 --> 00:18:00,180
+And now we can check out the product page. Sorry, the editorial. This kind of story angle that we have here, right? Yeah, I see that these pages have never changed really throughout the years. But yeah, essentially it's like a page which is like really, really pre-selling the user. That's like a little story that probably most people with like knee pain or who had like injuries can relate to.
+
+32
+00:18:00,180 --> 00:18:30,030
+like mentioning prices, like outlining a kind of like horror scenario and then showing more or less like a kind of like progress over like a short time actually, right? If you have knee pain or if you've ever had knee pain, you see that those will be like relief within like four weeks, I think, or 30 days. It's like quite fast. And I'd say it's like a mid-form landing page. It's not like a super long one.
+
+33
+00:18:30,030 --> 00:19:00,080
+I see dozens of pages or I saw in the past dozens of pages, which were like way longer and you can do that. Um, and, uh, I will share those later as well and we can maybe even upload those. Um, but yeah, I mean, at the end, right after the whole progress part, um, you would have your CTA, you have some, um, some testimonials from clients, um, a final offer, right. And you have here a timer.
+
+34
+00:19:00,080 --> 00:20:33,580
+which is essentially always set to the current day. Most traffic sources or the bigger native traffic sources don't allow that anymore. But yeah, you can get away with like a lot of things if you have like a certain spend, I'd say. But yeah, I will, I think, share like a little bit of a longer, like a long form advertorial as well. And that's something for, yeah. So they have many pages just have like a redirect if there's like,
+
+35
+00:20:33,580 --> 00:21:05,940
+no traffic with like a, if the traffic has like no real user data and timestamp and click ID, et cetera, because then they're just not just like ads by traffic or bot traffic. They would just, yeah, forward you to another page. But I have this page 101 in an HTML file and I can put it, I'll pull it right now. All right. So I found the page. So here's like a little bit of a longer landing page.
+
+36
+00:21:05,940 --> 00:21:35,970
+which did work quite well. And I'd say on like medium and long form landing pages, you'd always aim for a landing page CTA of like 25% and not placing your CTAs through the product page too early to really make sure to send like pre-qualified traffic more or less. And here's a long landing page with like a reading progress bar, of course. You have here like the timestamp.
+
+37
+00:21:35,970 --> 00:22:05,870
+And we used, and people use like quite aggressive headlines and everything for those health gadgets. Something that you might see is something like neuropathy, doctor shocked, wear these socks one night and see how you got rid of this and that or whatsoever. And we even have on this longer landing page, I think like life hacks and these are essentially use cases.
+
+38
+00:22:05,870 --> 00:22:35,920
+um but in most cases starting with like a story and then i feel like a life for example as senior ran essentially after using those a marathon or you have like another audience that we are hitting here which is like yeah um pregnant woman and essentially like their feet development and stuff um while and after pregnancy and so forth so but it's essentially like a longer landing page that is like trying to to um
+
+39
+00:22:37,360 --> 00:23:06,640
+Creating a story, educating a little bit on the problem itself. And then the solution, showcasing several situations or life hacks of people. And then afterwards, finishing with a strong CTA. And after the CTA, you might have things like I said, like testimonials.
+
+40
+00:23:06,640 --> 00:23:37,390
+Facebook, also Instagram comments, screenshots of people using it. Those are then usually in like a Facebook kind of like style and font. Here you have the CTA with like the timestamp. Those social comments that I mentioned. Yeah, and that's essentially like a longer page. We will also upload those and you can just give them a good read.
+
+41
+00:23:38,100 --> 00:24:07,680
+I think it's very interesting to just understand that people on native, they will read the whole page, right? So they really invest their time and they have the time for it. And that's what I mentioned at the beginning. And that's something we should definitely take advantage of. Not in every case that's necessary. So if you run, and we can go to that in a second, if you run a certain niche and offer, let's say like solar, Medicare, bathroom remodeling,
+
+42
+00:24:07,680 --> 00:25:00,960
+a short mid-form page should already be enough for that because people obviously don't need to be convinced to pay something at the at that very moment they just need to be convinced to fill out the data so let's search quickly for a legion offer just to have that covered as well solo germany is right now also big vertical yeah that's yeah that's a classic i'd say like like length
+
+43
+00:25:00,960 --> 00:25:27,200
+of like a solar page not like a lot of text you have like a calculator if you would want to on the page but usually it's just like around like five paragraphs and then afterwards you would see like a map of the respective country and then you'll be essentially like click on your on your on your state or your county
+
+44
+00:25:27,200 --> 00:25:58,380
+and um see if you are eligible that's essentially that's essentially the cta on most legion of us you have that here as well but it's not dynamic usually we're just like um animation here but yeah i can also upload a few of our best legion offers and you can see if you can adapt those um but that's like a very simple funnel for the legion pages i would also go for like a landing page city of like around 30 percent because these are like short pages um
+
+45
+00:25:59,380 --> 00:26:31,700
+and you can place your CTA quite early in the page. But yeah, cool. Let's go back to ad spying, and I wanted to give you guys a few bonus parts, more or less. Maybe just beforehand, I think that obviously affiliate marketers are not the ones which are super brand safe, but I think...
+
+46
+00:26:31,700 --> 00:27:00,500
+Just due to the fact that they're working on their own budgets, they are like very result driven. And therefore I think you can, if you run like a certain vertical, you can really learn something from them and how they run. So therefore it makes sense to perform an ad spy session on a regular base for their ads as well. And I'd say, or I know not a single affiliate running on native.
+
+47
+00:27:00,500 --> 00:27:31,180
+without a link tracker and therefore the way how you can find those affiliates and it's like a little bonus is using the parameters from those link trackers and what you can do for example and i will then provide a list as well of those utms um you can go for creative url chains we need to remove the gravity again and then search for i mean i think i just mentioned the the hop the hop utm from clickbank right but there are like other things let's say um
+
+48
+00:27:31,180 --> 00:28:05,620
+if you go for volume data for example then you would see like certain offers that they are running um i think i would just remove the gravity filter so you have like volume data you would have the the red track um one red track parameter that's like a little bit of like a bigger tracker we use that as well
+
+49
+00:28:07,500 --> 00:28:36,700
+I think in general, you have everything with like click ID, sub one equals, click ID equals, token equals, campaign ID equals. And I would just provide like a short list of those. But I think it just makes sense to really see how they run it, which angles are they using, right? And if it's not 100% brand safe, you can still like soften those up a little bit, but learn something from them. See their wordings they're using. Like I said, try to use the similar wordings. We saw that with knee sleeves.
+
+50
+00:28:36,700 --> 00:29:04,660
+when they were saying, like, bone-to-bone, bionic, knee sleeves. The example of skincare, when we talk about itchiness, or the word itchy. Yes, I will provide a list of that. Also one, I think, like, important.
+
+51
+00:29:04,820 --> 00:29:35,790
+No, it's more of like a bonus fact is when you run native campaigns in the US, I see a trend recently that many native traffic sources just to increase their inventory at mail traffic. And while this works quite well in Germany, in the States, mail traffic, let's say like Yahoo Mail, AT&T Mail, those are like completely different like ad formats.
+
+52
+00:29:35,790 --> 00:30:06,140
+when running a certain campaign in the US on Taboola, for example, to pause all mail traffic campaigns because these are essentially like Google demand gen Gmail inbox traffic and run dedicated campaigns for those and also check with your Taboola rep or your native rep for the best formats. But kick it off with like the classic native ads below the article ad format and block all those mail traffic.
+
+53
+00:30:06,140 --> 00:30:35,820
+um gaming push publisher and just start clean there and yeah and then you have also some reference metrics for the certain like for the for the different like funnel parts such as landing page ctr conversion rate at ctr etc um another tip i can give you is with those native traffic sources you have like real reps that are like willing to help you and that they can get you always
+
+54
+00:30:35,820 --> 00:31:01,980
+benchmarks for your respective verticals so if you would run for example um the knee sleeves offer they could tell you you are in category health for example um the benchmarks for that category on mobile desktop and tablet for cpm ctr cpcs and cpas is this and that and the best publishers are these 150 for example
+
+55
+00:31:01,980 --> 00:31:40,750
+and this is like super helpful especially when you start because you could get like a publisher list let's say of 100 even though that's quite narrow of 100 publishers and you would know where you would need to land in terms of cpms to be competitive yeah so um i think that's a wrap um we talked about we talked about um ad levels right which kind of effect you would want to achieve right um to get that scroll stopper
+
+56
+00:31:40,750 --> 00:32:13,580
+and have people click on the ad, have the ad be clicky, but still keep a connection between or keep a connection to your product or service. Compensate high CPMs with high CTR and low CPCs. Go for a certain like landing page CTR goal when running jump page, like I said, 40 to 50%.
+
+57
+00:32:13,580 --> 00:32:43,360
+And long form pages, always around like 30% landing page CTR and avoid certain traffic or like certain publishers at the beginning, right? Like I said, mail traffic, push, gaming traffic, ideally get benchmarks from your rep and see where you need to land in terms of like the target metrics that I mentioned, CPM, CTR, CPCs and CPA, of course. And ideally kick it off with like 150 publisher list or 100.
+
+58
+00:32:43,360 --> 00:33:12,690
+publisher list for your respective campaign if you have any questions afterwards i know these are like a lot of things um if you have any questions afterwards obviously feel free to reach out and i'm happy to help you guys out um like i said at the beginning um i have an agency dean.co and um yeah happy always happy to help and yeah wish you guys all the best

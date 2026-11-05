@@ -1,0 +1,129 @@
+{
+  "source_file": "Stefan Georgi - RMBC II (1)/12-ADS/02-[2] Native Ads video2._converted.mp4",
+  "source_id": "mega:GwRSGa5C",
+  "audio_sha256": "2ccbb268912c39d61c491266e40498f66fb47f2c6a0e11cd186797051d2ed781",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 671.85,
+  "last_segment_end": 669.01,
+  "segments": [
+    {
+      "start": 3.22,
+      "end": 31.87,
+      "text": "Hey guys, my name is Dean. I run a software house in Germany where we build web apps and also AI optimizations for our clients called Nocta.dev. And I also run a paid ads agency called ADXP. You can find it on Dean.co. I've been running native ads now for the past six years. I ran one of the top three campaigns worldwide in terms of spend on native."
+    },
+    {
+      "start": 31.87,
+      "end": 62.61,
+      "text": "very important to mention i still run to this day ads on native so everything i talk about is essentially my own experience or the experience here we have here in the agency um i'm sure no most of you know already about native ads i know it as a traffic source but i'd like to cover a few basics before we start um i think that native is a very powerful traffic source because much like youtube and users arrive with like a certain"
+    },
+    {
+      "start": 62.61,
+      "end": 91.68,
+      "text": "intent and time. And that essentially means that unlike to meta or TikTok, you're not trying to pull users out of their fast scrolling habit. Native users, they actively choose to engage with your content. They click because they want to read or consume your editorial. So think about it. No one opens their favorite online magazine if they only have like 15 seconds."
+    },
+    {
+      "start": 91.68,
+      "end": 119.38,
+      "text": "before their cap arrives. But they will open Instagram 100%. And therefore, that's, in my opinion, a big difference. So Native really captures attention when people are mentally ready to consume. And that gives us like a huge room to sell something. If it's via a short jump page, like in an example of a VSL, which we will talk about."
+    },
+    {
+      "start": 119.38,
+      "end": 148.64,
+      "text": "short, mid, or long-form advertorials. We go into that in a second. But that makes a big difference. And we have many cases where we even split-tested traffic sources which have a very high intent, such as Google Search, for example, where we split-tested a top-five page or a certain vertical on Google Search with"
+    },
+    {
+      "start": 148.64,
+      "end": 178.96,
+      "text": "an advertorial funnel on native for the same vertical. And we noticed that the AOV is way higher on native. Yeah. So the native audience is around like 55 plus, right? Homeowners, it's a kind of like high quality traffic coming from high tier in most cases, publishers like CNN, Yahoo.com, MSN.com, et cetera."
+    },
+    {
+      "start": 181.78,
+      "end": 211.87,
+      "text": "The classic native funnel and user experience is, like I said before, people come from an ad to an advertorial and then go to your lead form or product page. And that's, I'd say, the case for like 99% of the offers, right? There are products which are super commoditized where people really just need that one tipping point and then you don't need an advertorial."
+    },
+    {
+      "start": 211.87,
+      "end": 241.71,
+      "text": "For example, Ozempic nowadays, people really just need to be activated on it and then they will buy already. They are very aware and educated that Ozempic, just in this example, is the solution for their problems or desires. But yeah, the classic user journey is through an advertorial. We'll go into that in a second. I think it's also..."
+    },
+    {
+      "start": 241.71,
+      "end": 272.11,
+      "text": "very important to mention that native even though those traffic sources claim uh it different native has no real real user data so unlike meta or google it's not like profile cookie or pixel based um essentially it has no real data if someone visits cnn.com checks the lifestyle category um clicks on your ad there it is more or less tagged"
+    },
+    {
+      "start": 272.11,
+      "end": 301.86,
+      "text": "from the lifestyle category. There may be a few more data sets they have, but it's essentially it. And that essentially means that you cannot do like a proper targeting on native. So your ads have to do the targeting. So always keep in mind that the native audience is in general kind of like older audience, I'd say like around 55 plus and therefore try to market"
+    },
+    {
+      "start": 301.86,
+      "end": 333.07,
+      "text": "an offer which works and resonates well with the native audience it might sound weird but there are like certain offers where you can already tell before and that this won't work um for example if you would ask me um if i would want to advertise an online course for a 30-day handstand program i can tell you already that this won't work while if you would want to advertise a vsl offer for"
+    },
+    {
+      "start": 333.07,
+      "end": 366.58,
+      "text": "diabetes blood sugar this would work very very well and i see that day in day out a great thing to mention about native is that native can use unlike other big traffic sources redirects so while on meta or google when or tick tock when you use over the course of a few months too many redirects most likely they will ban your account"
+    },
+    {
+      "start": 366.93,
+      "end": 397.3,
+      "text": "or native it's like the classic it's a classic funnel that that the marketers are using linked so-called link trackers um red track volume ketaro click magic or else and there you can perform a redirect and this essentially enables you as a marketer to test many many angles and different formats for um for a for an angle um at the same time and you have like"
+    },
+    {
+      "start": 397.3,
+      "end": 424.27,
+      "text": "real split tests in my opinion if you split test in a separate campaign on meta another landing page and you have no real split test it is maybe a similar audience but it's not the same exact audience while on native if you perform a split test through your link tracker through the redirects you send if um one publisher let's say cnn.com sends like 100 clicks"
+    },
+    {
+      "start": 424.27,
+      "end": 457.78,
+      "text": "50 clicks will go to that one page and 50 clicks would go to the other page. So we use that often that we split test for a certain service or product the angles on different landing pages and then even port that angle to another traffic source because we know already it works quite well with the audience. We have some data on it, we see the landing page CTR conversion rate and etc. So that's also a great system to use native."
+    },
+    {
+      "start": 457.78,
+      "end": 490.32,
+      "text": "if the offer works in general for the for the audience um as a test more or less for your offer and then port the offer the offer plus the angle to another traffic source maybe also important to mention is that we have a limited inventory on native it is obviously not as big as as meta with facebook the audience network and also instagram etc or google with youtube the mansion"
+    },
+    {
+      "start": 490.32,
+      "end": 515.47,
+      "text": "etc and therefore um you have a limited inventory and that essentially means that it's quite difficult to get to a certain spend obviously anyway depending on the geo but let's say you would put your budget 200k a day um it's quite rare that you would spend that 100k even in a big geo like the us for example"
+    },
+    {
+      "start": 515.47,
+      "end": 542.19,
+      "text": "But all the stars would need to be aligned. So you would need to have, I don't know, a weight loss offer in January, super high CTRs and CPMs, which I will talk about in a second. And then you might be able to spend that amount for a couple of days. But I'm pretty sure this won't hold. And just keep in mind that there's like a limited inventory."
+    },
+    {
+      "start": 542.29,
+      "end": 572.4,
+      "text": "Now I'm going to share why it's so important to have therefore high CPMs. Usually on other traffic sources, you want to have low CPMs, obviously, because those CPMs are more or less dictating your costs, right? And on native, it's the opposite. You want to have high CPMs because following that logic, high CPMs mean you have a higher spending potential. But you don't want to have high CPMs based on"
+    },
+    {
+      "start": 572.4,
+      "end": 599.82,
+      "text": "high cpcs you want to have high cpms based on high ctr and low cpcs so we make sure we are always on target and that's more or less the golden formula you want to have like high cpms with high ctrs and low cpcs and we'll go through that in a second and i show you how you can do that for almost every vertical where it works for the native audience just like i said before"
+    },
+    {
+      "start": 600.18,
+      "end": 625.66,
+      "text": "But it's just something you would always need to keep in mind when running on native ads. I think it's also quite interesting to understand that since native doesn't have so much user data or doesn't have so much insights on the audience, etc., that also means that you're essentially"
+    },
+    {
+      "start": 625.66,
+      "end": 654.0,
+      "text": "you will always understand what's going on performance-wise. I think everyone who runs Google, like YouTube ads or meta ads, they know how it is that you are getting on one day a super strong audience pocket, while on the following day you are being punished with, I don't know, high CPMs because of the bad user comment and therefore you have terrible CPAs. On Native, it's different."
+    },
+    {
+      "start": 654.0,
+      "end": 669.01,
+      "text": "or native you will see all the time you can do like the breakdown in your link tracker or in the traffic source itself and you can understand where the traffic was coming from did it convert or not do i want to increase the bid on that publisher in particular or not"
+    }
+  ]
+}

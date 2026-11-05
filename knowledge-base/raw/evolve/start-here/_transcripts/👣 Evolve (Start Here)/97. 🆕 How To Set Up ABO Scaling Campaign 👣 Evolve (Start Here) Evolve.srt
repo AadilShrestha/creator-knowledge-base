@@ -1,0 +1,179 @@
+1
+00:00:00,000 --> 00:00:29,260
+Okay, so in this video, we are going to be breaking the one campaign strategy. No, I'm just kidding. I'm just gonna show you guys the updated scaling methods that we've actually learned from working with a client of ours and has just kind of shown us that as you get to more scale, there's definitely a lot more that you can do on the media buying side. But as I mentioned in this, and I'll go ahead and jump to my screen here, this will not fix your bad ads. So if you have been plateaued and you're like, gosh, I can't scale any further, like this might help you get a little bit of...
+
+2
+00:00:29,260 --> 00:00:33,060
+extra scale but again it is not going to like lead to breakthroughs for your account
+
+3
+00:00:33,060 --> 00:01:02,350
+OK, so we still are following everything that we do in the one CBO structure. We're going to clean a little bit of this up because there's some excess modules there and it can just be kind of put into one. But listen, if you are less than like one or two K a day in span, like you should not be you should not watch this video at all. OK, if you want to take anything from this video, if you do find a winner, then great. You can come back and watch this video. But for right now, like just focus on winning ads. And this is not meant to be something that you as the creative strategist or lead person that you are, you know, like handling on the creative side, you should not be.
+
+4
+00:01:02,350 --> 00:01:24,340
+focusing on this stuff, right? If you have a media bar, send your media bar to watch this video instead. But essentially what we're doing here is we have started launching an ABO scaling campaign. And now I'm going to pull up this account. I'm going to have some things blurred and I blurred them myself, which is not very good. But I want to show you guys that one of our top spending campaigns over the last seven days, this brand on average right now is spending about $70,000 a day.
+
+5
+00:01:24,340 --> 00:01:53,940
+And right here, you can see that this top testing and scaling ABO campaign, which I'm gonna show you guys how to set up, is essentially spending $166,000 at a 1.7X ROAS, okay? And if you look down here, we then have our EAM main campaign. This is where we're doing our standard CBO testing. But you can see here, this has then spent the second most amount of $131,000 at a 2X ROAS, okay? And then the other two campaigns that I'm gonna show you guys down below here, number one are essentially,
+
+6
+00:01:53,940 --> 00:02:23,150
+like this best ad scale, which I'll explain what that is. And then the next one down here is like the incremental side of things. And I'm going to kind of explain how we're cleaning this up a little bit. And again, I know you probably can't read it because I have likely blurred it, but that's what they say. Okay. So we have like our testing and scaling ABL. We have our main EZA media campaign. And then here we have this kind of like best ad scaling campaign. And then here we have an incremental attribution campaign. Okay. So these top four are basically carrying the entire.
+
+7
+00:02:23,150 --> 00:02:52,370
+account. There's an extra, I don't know, decent amount of spend just from other countries and things like that. But essentially, this is going to get into the structure that we have here. So going back to this here, you can see the number one thing that we're going to set up is this ABO. Depending on how you want to do it, we do testing and scaling. Although in this instance, this brand is actually creating separate testing campaigns. And I'll explain what I mean by that. But essentially, the first thing that you're going to do is you're going to set up an ABO scaling campaign. Now, why do we set up an ABO scaling campaign? Well, the first thing is to
+
+8
+00:02:52,370 --> 00:02:53,230
+figure out.
+
+9
+00:02:53,260 --> 00:03:22,860
+If, and the questions that I have here is like, you know, for every new ad, you know, do you just dump all the winners into one ad set? Do you create separate ad sets? Well, the first thing that you do is you take any of your breakthroughs. So any ads that are like clear winners that are sucking up a bunch of spend, hitting your KPIs and allowing you to scale your one CBO or your one campaign further, you're going to take those breakthrough ads and you're going to put them in their own ad set so you can scale them further. Okay. And so again, inside of this ABO scaling campaign, if you find a new winning ad and I'll show you guys.
+
+10
+00:03:22,860 --> 00:03:41,940
+I started to do this. I'll do that the second half of the video. You just create an ad set for that breakthrough and you set it as you see down here at five to 20% of your total daily budget. So again, if you're spending 10K a day, you could probably start that thing if you wanted to be aggressive at 2K a day ad set level budget. Or if you want to be more safer, you can start at 5%, which would be $500 a day.
+
+11
+00:03:41,940 --> 00:04:10,350
+Okay. And so then you're going to do this for breakthrough. So anytime you find a breakthrough, you're going to put it into the ABO. The second thing that you're going to do is whenever you have a spend winner. So whenever you have an ad suck up a bunch of spend, but it doesn't hit the KPI that you're looking for, then what you can do is you can take that ad and you could put it into the ABO and just kind of restrain it on some spend. Start it at again, a hundred bucks or 200 bucks a day, whatever you're comfortable just spending. Again, say for example, that ad sucked up like a thousand dollars a day in spend or.
+
+12
+00:04:10,350 --> 00:04:39,630
+you know, if you're at more scale, like four or 5k a day in spend, and it was getting maybe slightly below your KPI, well, then what you can do is you can just take that ad out, you can put it in an ABO and just set it to let's just say like $400 a day or $500 a day, and just give it its own ad set and just let it run for seven days and just see what it does. Because meta shows that it kind of likes it by giving it spend, but it might be getting too much spend and it can't maintain that performance. So now what we're doing is whenever we see that on like day one or day two, and this will be more clear once we have to break through ad report as well.
+
+13
+00:04:39,630 --> 00:05:00,590
+Hopefully, depending on who you are when you watch this or how old this video is when you watch it, we will have those definitions for you and be able to tell you guys like, hey, if you ever see this, just put it straight into ABO. But essentially, this allows us to throttle spend, okay? So that's kind of the word that I want to put here instead. So spend winners get their own asset to kind of throttle their spend so we can just test them in a more controlled environment.
+
+14
+00:05:00,590 --> 00:05:17,630
+All right. KPI winners. These are ads that are hitting your KPIs, but not getting a lot of spend. Say you're spending 10K a day in your one CBO campaign. And this ad's getting like 200 bucks or 300 bucks and it's hitting KPI. Then again, what you can do is you can pull that out of your CBO and you can put it into the ABO and you can just.
+
+15
+00:05:17,630 --> 00:05:47,120
+test it in there and try to give it some more budget. Say maybe start at 200 or 300 bucks a day, whatever it was spending inside of your one CBO, just start it there. And then from there, just see if you can scale it up through ABO, because the reason why it might not be getting spend is because you just have some other savage ads crushing it. And so you could take that out and see how it does. The main thing here is that you will not turn off any of these ads. And I'm going to make this very clear. Never turn off any of these ads in the main CBO unless obviously performance.
+
+16
+00:05:47,120 --> 00:06:14,960
+is terrible, which is another video, which is why the bad ads get spent or whatever. You guys can check out that video, but you should never turn off any of these ads in the CBO when you launch them in the ABO. Always keep them active, okay? And then losers down here are very simple. Losers will just move into the zombie campaign, which you guys should have seen that module or before this or after this, where you just basically any loser. So ads that don't get a lot of spend and ads that don't hit your KPIs, just pop them in a zombie campaign and see what they do.
+
+17
+00:06:14,960 --> 00:06:44,480
+These ad sets, again, will have the exact same setup as the CBO ad sets. And that's going to be crucial because down below, we're going to get a little bit weird with some things. But essentially, that is the main thing that you're going to do inside this ABO scaling campaign. So if you have an ad set that is sucking up a bunch of spend in the CBO and it's a breakthrough spend winner or KPI winner, you will duplicate that ad set into your ABO and you will just control the budget. And again, how much budget do you start it at? Five to 20% of total daily budget. Remember, you can always scale up.
+
+18
+00:06:44,480 --> 00:07:02,320
+Okay. Lower on initial spend on like KPI winners. So if you have an ad that's like hitting KPI, or if you have a spend winner, that's like getting a bunch of spend, but like not hitting KPI, start those on the lower end. But if you have a breakthrough, that's absolutely ripping in the CBO. Again, you could probably start that on the higher end of like 10, 15 or 20%.
+
+19
+00:07:02,320 --> 00:07:16,260
+Okay. And remember that if you guys are, you know, starting even at like a hundred dollars a day or $200 a day, even though you're spending like 10 or 15 K down on your, you know, main CBO, wherever, wherever you are in the account, you can still like.
+
+20
+00:07:16,260 --> 00:07:41,230
+come in and start these at a hundred or $200 a day. But just remember, like you can scale that more aggressively, right? So if you start at like a hundred or $200 a day and you see two good days of performance, just double budget. Now you're at 400. If you see another good day of performance, just double budget again. Now you're at 800. So like you could scale these ABOs very aggressively because obviously you're starting them at smaller budgets. But again, make sure you're still following scaling protocol where you see at least like two or three solid days of performance before you start chat scaling.
+
+21
+00:07:41,230 --> 00:07:55,180
+Okay. And then the final thing here, this is a big one that we're going to have to change inside the program as well. It's like, are we still using the champions ad set? And I just spoke with my media bar today and we're actually not going to continue to use the champions ad set because it just doesn't make sense. Obviously, you know, when you are.
+
+22
+00:07:55,180 --> 00:08:12,530
+considering the seasonal ad sort of thing. So for example, if you dupe over an ad into your ABO and say it stops performing in the CBO, so you turn it off or stops getting spent in the CBO, so you turn it off and then it stops performing in ABO and then you turn it off there, obviously that ad is kind of like gone. And so if you want to...
+
+23
+00:08:12,530 --> 00:08:41,870
+throw that in your zombie campaign, you can. But for us, that's the only thing that we're still testing right now is whether or not it is worth to just have the champions ad set to see if like, oh, randomly two months later, that ad just picks back up again. And that's why we kind of have that seasonal ad section down here. So again, like if you want to just like try relaunching old ads to see how they do, you can definitely test that and do that. But for right now, we are not going to continue to use the champions campaign just because obviously there is going to be a lot of overlap here.
+
+24
+00:08:41,870 --> 00:08:52,140
+But again, at the end of the day, people are duplicating ads all over the place. And again, in our spend report, what we were seeing is that honestly, if you did duplicate these ads, usually you are allowed to get more spend out of them.
+
+25
+00:08:52,140 --> 00:09:21,460
+Okay. And so that is kind of like the big three for the ABO scaling campaign. Again, I'm going to show you how to do that as well. I'll set that up at the end. Most of you guys will know how to do this. So you don't need to watch me set it up. And then the final thing down here is the ABO testing campaign. Now this is optional. We currently are just consolidating our testing and scaling ABO campaign just into one campaign. Cause again, we like things consolidated. So we would just have one CBO, you know, testing and scaling campaign, and then one ABO testing and scaling campaign, where this is how we're scaling the proven ads or just like the ads in general. And then down.
+
+26
+00:09:21,460 --> 00:09:50,690
+here, we're going to start to test some shit as well. Okay. And so the first thing that we're going to do is we're going to take any breakthroughs or any winning ads. So proven ads. So mainly breakthroughs, I would say, and we're going to pop them into an ad set with hard exclusions. So again, this can be in your testing only ABO, if you want to have two campaigns, or it can just be in your all in one testing slash scaling one. And inside of here, you're basically just going to go in there and set it to some very aggressive exclusions on the ad set level. And again, this is just one ad set.
+
+27
+00:09:50,690 --> 00:10:19,920
+So you would have one ad set where you just plow all of your winning ads in there. And essentially what you're going to do is you're going to exclude website visitors, add to carts, page engagers, you know, past customers, basically every possible interaction that a user might have with the brand. And the goal with this hard, hard exclusion campaign is just to force meta to go after a bunch of new people and have it spend on new audiences with our best ads. Now it doesn't happen all the time, but this is an ad set that we are testing that we have seen some additional spend. And again, just a lot of like, for those of you that are using Triplewell or Northbeam,
+
+28
+00:10:19,920 --> 00:10:34,610
+You know, the percentage of new visitors is very high and it kind of feeds the rest of the funnel. The second one down here is one day click attribution. So again, we are also setting this up in the same for us again. Ours is like testing and scaling. So we're doing all of this.
+
+29
+00:10:34,610 --> 00:11:03,890
+in one, but some people like to segment it. So if you just want to do a separate testing campaign for this stuff, you can, it's totally up to you. But then inside of here, this one day click attribution is very simple. Again, one day click is naturally more conservative and tends to limit over attribution. So we don't need to be as aggressive with exclusions here. But essentially, this is just telling the algorithm to go after people who are basically going to purchase on day one. So this is something for you guys to test in ad set number two. And again, you're plowing all of your winning ads in there. And then ad set number three is incremental attribution. And again,
+
+30
+00:11:03,890 --> 00:11:33,100
+This could be in your testing campaign or testing slash scaling one, whatever you guys want to do. And then again, same idea, plow all of the winning ads in here. And this is test the same top ads using incremental attribution settings. This is a new one that Meta launched. And you can see in this account here, although you probably can't, the incremental, we did this in a separate CBO. You guys don't need to do this. You can see the overall performance here on Meta reported is not great, but actually inside of Northbeam, it's really good. And the percentage of net new visitors is very high.
+
+31
+00:11:33,100 --> 00:11:48,590
+we're letting this thing rip. And as you can see, we had an extra 7.2k a day in spend, which, you know, for this brand right now, spending around 70k a day is, you know, about 10%. So it's not a little amount, right? Especially this is for those of you guys that are at higher scale, you can start to see like you can do a lot more with MediaBuy.
+
+32
+00:11:48,590 --> 00:12:17,900
+And so again, the whole idea here is to put in the strong exclusions that we had from the seven-day click and push Facebook towards net new acquisition. Again, this here, so like all of this, this is kind of in final notes here. This is not our core campaign, right? The main CBO is still the one that is protecting baseline revenue. So even if one of these aggressive tests breaks or just doesn't work, the overall business performance won't break because we should be a lot more stable inside of CBO with everything that we're doing there.
+
+33
+00:12:17,900 --> 00:12:41,280
+structure lets us, again, push growth and see how much additional spend that we can add in the account. Now, again, it's not just about adding spend. It's also about incremental, right? So we want to see, hey, are these ad sets actually driving additional growth, right? Like, are we seeing more total Shopify sales or are we just spending more and seeing that our overall blended is not...
+
+34
+00:12:41,280 --> 00:13:10,610
+as strong right so that's why having a tool like triple whale tool like north beam and keeping track of your blended numbers is very important to make sure that these uh you know abo tests that you're doing and these uh scaling campaigns are actually working uh but for the most part we are very confident in this that this is a great way for us to not only try to get more out of spend winners that we sometimes have to turn off because they just suck up too much budget but also kpi winners who potentially we just have to give them a little bit more of a nudge and potentially they can scale harder and then here with breakthroughs obviously to just keep them uh continuously
+
+35
+00:13:10,610 --> 00:13:39,820
+getting spent. Because for those of you guys that obviously know, a lot of times, and I'll actually show you an example of a new recent super winner. So let me go ahead and pull this up. Okay, cool. So as you guys could probably see in this campaign, we had a new ad that we launched yesterday that sucked up $25,000 worth of spend at a 2.46x. This thing is absolutely ripping. All right, this thing was literally launched, I think on the 21st or something like that. Yeah.
+
+36
+00:13:39,820 --> 00:13:49,860
+The 21st, this is the 22nd. It sucked up like 90% of a $30,000 per day campaign. So again, this just hopefully goes to show you guys that like.
+
+37
+00:13:49,860 --> 00:14:19,150
+Your creative issue is just a creative issue. But my point is, is by doing this, none of these ads that were literally ripping before. So if I go back one day, you could see that we had these other ads getting 3K, 2K, 2K, 1K, 1K, right? Like these were driving solid performance at around 16K per day in spend. But now as soon as this Titan ad kind of came in and sucked up all the spend, all of these started getting less spend. The ROASs are obviously inflated, but in ABO with an ABO scaling campaign.
+
+38
+00:14:19,150 --> 00:14:48,820
+specifically, they could just continue to get spent. And so that's kind of the goal of it is that whenever you find new winners, you're not really punished. Although again, meta is like, holy crap, this ad is cooking. But at the end of the day, we want to make sure those other ads that are still good are still getting spent. Now, again, sometimes they're going to compete. That's the only other thing that I want to note to you guys is that when you start scaling these harder in ABO, you might notice that they'll stop getting spent in CBO. And that's just because meta is favoring that, you know, specific campaign. That's basically how meta chooses like
+
+39
+00:14:48,820 --> 00:15:18,100
+when there is overlap, like what to spend on. It's all a technical thing that you don't really have to worry about. But at the end of the day, this is the new ABO scaling campaign. And again, we are kind of using this as a testing and scaling campaign more or less. And the testing that we're doing is not creatives. It's this, it's the hard exclusions, one day click attributions, incremental attribution, just testing any kind of new stuff that meta throws in there. And again, if you guys are a bigger budget, so you can test turning enhancements off or turning enhancements on, like you can do all that kind of stuff in this ABO testing campaign. And I noticed that for us,
+
+40
+00:15:18,100 --> 00:15:47,340
+because we're always constantly testing stuff to try to give you guys the best strategies that some of you guys are at more scale, you have the budget to do this as well, especially if you have a media bar. So that is everything around the scaling campaign. If you guys have questions, again, please let me know, but hopefully this all makes sense. And again, for those of you guys who need handholding, again, just to jump in here, we're gonna go ahead, we're gonna create a campaign, we're gonna go sales, continue. Again, this is gonna be ABO, so we're gonna turn that off. And then down here, we need to go to ad set budget level.
+
+41
+00:15:47,340 --> 00:16:17,180
+Share some of your budget with other ad sets. Oh, interesting. There you go. You probably just turn that off if you want. That is interesting. That's new though. Anyway, so here we would go in here and then again, this is where we set the budget. ABOs are very simple to set up. I think everybody gets it. And again, what you would do is you would have, you know, like winning ad, you know, number one, obviously give it the proper name and then you would have the winning ad in here. And then if you had another winning ad that started ripping, again, you just quick duplicate this. Now we have, you know, winning ad number two, right? And maybe this was like a spend winner.
+
+42
+00:16:17,180 --> 00:16:46,510
+right so this spend winner maybe we would set this at a lower budget if we set the other one at 200 maybe we set this one at 100 right and so again you can see this is how we're going to do this um moving forward again don't call it spend winner call it what the actual ad is because you're going to want to keep consistent ad naming all the way through the account for you guys to be able to pull the reports that we want to or that we're going to help you guys pull uh but again eam you can call this testing and scaling um this is abo right so very very simple hopefully that makes sense testing and scaling abo
+
+43
+00:16:46,510 --> 00:17:12,740
+This is where we're gonna test all that stuff. And then again, just so you guys can fully understand this as well, if we're doing hard exclusions, so let's just say this is our, or just even our one day click campaign or one day click ad set. We can go here and I, sometimes I use those interchangeably. I don't know why. One day click ad set, we would have this winning ad. So let me just go ahead and name this. So winning ad number one, and this is winning ad number two. We would actually have both of these ads.
+
+44
+00:17:12,740 --> 00:17:42,030
+inside of this. So existing campaign, and we're going to move this into the one day click ad set. So again, for these additional ones over here, where we are doing these, you know, hard exclusions and one day click attribution, incremental, all that kind of stuff, we would have them here, right? So we have winning ad number one in here. So all winning ads are inside of here. So winning ad number one, winning ad number two, and you can see this is in its own ad set for this winning ad. This is in its own ad set for this winning ad, but this one day click ad set where we're just testing a bunch of
+
+45
+00:17:42,030 --> 00:17:57,290
+stuff is where we put multiple of the winning ads. Okay. So hopefully that all makes sense. If you guys have any other questions, please let me know, but hopefully this helps you add some more spend that is actually incremental to your account, helps you scale harder. And again, I will see you guys in the modules to follow.

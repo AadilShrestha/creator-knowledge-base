@@ -1,0 +1,44 @@
+{
+  "source_file": "Stefan Georgi - RMBC II (1)/12-ADS/04-[4] TikTok Ads video8.mp4",
+  "source_id": "mega:GwRSGa5C",
+  "audio_sha256": "0bd41a9e511f4b8ab699da6f863ceb98f09f5d7a7195a161630d56e39c0a702f",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 210.56,
+  "last_segment_end": 210.38,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 72.93,
+      "text": "So let's break down a totally different type of ad. This is an ad that actually has no spoken dialogue. It's a kind of ASMR style ad where it's really heightening the sound, the tactile sound of interacting with the product and the setting the product is in. To keep attention, it's got quick cuts. So we're going to watch this video like we did the last one, and then we'll break down why it works. Okay. So this video, we actually made a lot of variations of this one."
+    },
+    {
+      "start": 72.93,
+      "end": 103.3,
+      "text": "Some actually do have voiceovers, some have music, some have different sounds going on, but just wanted to share kind of the initial foundation video with you to get a feel for it. So definitely the longer side, we made versions that were actually shorter than this. I think 40, 50 seconds starts to push you with ASMR style videos. We made versions where you're actually, there's shaving. So you hear the sound of the razor, especially for the initial to have the scroll stop in, does a better job of that. But the bigger thing here, what I like about just showing this video."
+    },
+    {
+      "start": 103.3,
+      "end": 131.66,
+      "text": "is the ASMR style video is really easy to make. I wanted to show an example of something here where, you know, maybe you're intimidated to be on camera. You don't want to be, you know, seeing the camera. You don't want to be speaking on the camera. Cool. You can do a video like this where you're literally just tapping the product, clicking the product, interacting with the product, unboxing the product, and using that to just keep attention, to show the process of receiving the product."
+    },
+    {
+      "start": 131.79,
+      "end": 161.46,
+      "text": "experiencing, opening it, and then using the product and then getting the results from the product. So you can kind of sell this entire transformation experience without actually ever saying a word. So yeah, these ASMR sound videos are really great. And again, all you want to make sure you're doing with this is just you're planning how you're going to kind of amplify those sounds before you do it. So, and you're really overdoing it, right? So if it's a box, you make sure you really, really tap it hard. You're making sure you're really, you know,"
+    },
+    {
+      "start": 161.46,
+      "end": 191.39,
+      "text": "You're clinking glasses together. If you're, you know, shaving or something like that, that you're very close. And the cool thing is there's a lot of tools out there where you can kind of turn up the sound, amplify the sound to get more out of it. But that's just the important part is you want to have this whole flow mapped out. And then you can use a tool like CapCut or Edits, which are both, you know, free tools to just clip these scenes together, put them together, turn the volume up to enhance that sound. And then if you want to do a voiceover, you can do a voiceover."
+    },
+    {
+      "start": 191.39,
+      "end": 210.38,
+      "text": "or you can just do text overlays like i did in this video right here uh for this client of ours but again asmr style videos really really effective really easy to make really easy again talking about that kind of modular approach to create clips to rearrange clips to do different scroll stopping hooks and get the most out of it"
+    }
+  ]
+}

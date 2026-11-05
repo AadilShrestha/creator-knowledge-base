@@ -1,0 +1,359 @@
+1
+00:00:00,020 --> 00:00:30,960
+All right, welcome to the advertorial section for RMBC2. So the first part, what we're doing here, is just kind of going over advertorials, what their purpose is, what some common elements are, what the common lengths are, and why for those lengths, like why you would have them. And then we'll look at some examples specifically from meta and from native. And we're going to do the native ones in kind of real time because I think it's helpful.
+
+2
+00:00:31,440 --> 00:01:11,520
+And we'll go from there. So probably the easiest thing for me to do is pull up an advertorial example. So I've got the odorless cat here. Sorry, I'm doing it. I really prefer doing my Zoom where it's like sharing the screen. But okay. So what they're selling, they're selling some kind of like device that's going to eliminate cat pee smell in your home, right? Two years of cat pee smell gone in days.
+
+3
+00:01:11,520 --> 00:01:46,130
+Most cat owners don't use this to eliminate their cat pee smell. But did you know more? Oh, what's more? I'm going to click. Eliminates cat pee smell in your home. Must read. Carol F76 never imagines her beloved cat would almost kill her. Don't know what that's all about. Learn more, okay? So these guys are selling this device. We've got some video ads. So they're showing the device here in this ad. So let's see what happens. If we learn more, it's going to take us to...
+
+4
+00:01:51,380 --> 00:02:31,120
+an advertorial. I'm assuming if you click on this ad where there was no video, it's the same advertorial, but it's not, and that's important. This is actually great for first examples. To get back to this overview, what are the purposes of advertorials? I want a little space in here to make this cleaner. One of them is to do the legwork of selling a product or service. What does that mean? Let me show you.
+
+5
+00:02:32,020 --> 00:03:21,200
+Stick with me, this might seem a little bit weird, or maybe you're feeling a little confused already. So give it a minute. Okay, so this is the cat device. Cute little graphic. This is a PDP, right? Americans are using this innovative device to eliminate airborne cat odor. So when you look at this, this is a pretty short, basic page. Okay, so the question becomes, if I just did an ad, two years of cat pee smell gone in days,
+
+6
+00:03:21,200 --> 00:03:55,070
+most cat owners don't use this to eliminate their cappy smell but did you know if i clicked on this and it went right to here clarify on fourth of july sale some little pictures of my devices five reasons to try it americans are using this innovative device to eliminate airborne cat odor people cat friendly no harsh chemicals works on cat odors from urine feces dander and more what are these these are basically like some benefits some features really features
+
+7
+00:03:55,070 --> 00:04:29,900
+and a little bit of benefits. Oh, it's in high demand. Buy a bunch of them. FAQs, how does it work? How do I take care of the device? What kind of odors can I eliminate? How do I replace the bulb? How many do I need? What happens if it doesn't work? How long will it take for my order to arrive? Realistically, zoom out. You're a consumer. You got a cat that's just peeing all over the house. You got this smelly-ass cat just peeing everywhere.
+
+8
+00:04:30,160 --> 00:05:08,690
+Okay. You see this ad, two years of cat pee smell, gone in days. How many cats spell from your home? You click on it and it goes here. And it's like, okay, using this innovative device to eliminate airborne cat odor, people in cat friendly, no harsh chemicals. It's a video, no big explainer. Are you really convinced that it works? Probably not. You might see it and be like, oh, maybe. Bullshit. It's bullshit. You're not.
+
+9
+00:05:08,690 --> 00:05:38,260
+If you were browsing meta, going about your life, saw an ad like that, interesting, clicked on it, came here. Like, will this page, could you do that? And would it ever make a sale? For sure. For sure you would make a sale. But the amount of money you would spend on ads for each sale would be way too high to scale. What do I mean by that? What I mean is...
+
+10
+00:05:38,610 --> 00:06:13,460
+And by the way, I know some of you know a ton about advertorials, you know all this, but lots of people don't. And even if you do, it's good to zoom out and really think about the purpose of things, right? What I mean is, you got like, you may need to spend $400, $500 on Meta in order to get people to actually click and purchase. Because most people, the vast majority of people will come here, or would come here and be like, I don't know what's...
+
+11
+00:06:13,460 --> 00:06:46,980
+This really is. Okay, like, yeah, does it really work? I'm not sure. Then, even if I was gonna buy, even spending $45 is a lot. Spending like 100 and whatever this is gonna be, like $109, right? Six would be like, what, 170 something dollars. Nine, it's gonna be like, you know, $280 or something like that. I don't know, nine times.
+
+12
+00:06:46,980 --> 00:07:42,540
+Oh, no, that's not that much. I'm sorry. I can't do math, apparently. But, like, basically over $200. I'm not going to spend that much. If anything, I'm going to buy one. So, your problems... Let me start a new... And this is sort of related to, like, funnel economics and things like that, right? The problem is going to be... I don't know how to correct that. If you go static ad, so it's like that, to short PvP, here are the problems.
+
+13
+00:07:45,710 --> 00:08:20,240
+Your CPA is going to be way too high. Your AOV is going to be way too low. As a result, you will lose money every day and never be able to skip. Does this make sense so far? So again, this little ad,
+
+14
+00:08:20,240 --> 00:09:23,760
+to a page like this, it's not going to work, right? So I'm even going to go further, like add example, PDP example. They have this as a checkout. It's sort of like a borderline PDP versus checkout. It's kind of more like a PDP. I mean, I guess it's a one page sort of PDP product page checkout hybrid. Okay, fine.
+
+15
+00:09:41,330 --> 00:10:30,770
+So I put PDP. Why? Prospects are not educated enough. They don't believe it works. They don't know enough product. Plus, pain point doesn't feel urgent enough. Or the copy doesn't do anything to really enhance the pain point, right? So, that is where
+
+16
+00:10:30,860 --> 00:11:01,650
+An advertorial comes into play, right? So when we clicked on this one, this one took us to this advertorial. Look at that. It's a cute cat with piss all over a chair. How this grandma effortlessly eliminated her cappy smell from her home in just 30 minutes. Carol F, 76, never imagined the cappy smell soaked into her rug would almost kill her. Okay? Happily retired, her new passion was spending time with her cat.
+
+17
+00:11:01,650 --> 00:11:35,780
+and reading a new book every week, she often entertained guests in her home with Mr. Whiskers until something terrible happened. I mean, this is silly. Like, Mr. Whiskers is the cat saying whatever. But these guys run some ads. Seems like it does okay. What I want to do as I scroll through here is before I even get to, like, the entire purpose, like, what are we thinking that the purpose or goal is going to be here, right? It's going to be to sort of tell a story, build a connection, engages, hook somebody in, right?
+
+18
+00:11:35,780 --> 00:12:12,050
+So there's going to be some curiosity. It's going to be personal and it's going to be emotional. Then it's going to be educational. By educational, it's really like about UM, unique mechanism stuff, and or product, okay? So going back to this one, it starts off with this sort of personal emotional thing. There's curiosity. How would a smelly piece of drug almost kill Carol F? Okay.
+
+19
+00:12:12,050 --> 00:12:47,150
+The other thing is, if you go back to the ad library, I'm scrolling through Facebook, I see some in the corner. Why do people go on to Meta or Instagram, like Facebook, Instagram, things like that these days? It's like to talk with friends, but it's also to consume content and news. A lot of social media is being done to consume things, right? Even Meta, like these days especially, people are sharing articles, opinions, news.
+
+20
+00:12:47,220 --> 00:13:19,150
+it's more topical, right? And so, not all these people go on, they know they're going to see ads, the market's conditioned to see ads and go buy, but they also go on to consume stuff. So, happy retired, her new passion was spending time for a cat and reading a book every new week. She often entertained guests in her home with Mr. Whiskers until something terrible happened. One afternoon, while hosting a book club in her living room, right on her freshly cleaned carpet, Carol noticed a sharp sour smell in the air. She just scrubbed the area earlier that morning, so she buffed it off.
+
+21
+00:13:19,150 --> 00:13:48,340
+brushed it off as a leftover cleaner or her imagination, but then a headache gripped her skull so violently it felt like her brain was being squeezed dry like a lemon. Ouch. She quickly grabbed a glass of water and some painkillers, but little did she know it was too late. As she desperately tried to shake off the pounding in her skull, a tightness in her chest squeezed her lungs and she couldn't breathe. She felt the floor beneath her tilt sideways and her vision began to blur. She fell to her knees, crying in pain, too dizzy to even stand. The headache was bad, Carol recalls, but the embarrassment of crying in front of my friends was worse. I couldn't stop crying.
+
+22
+00:13:48,340 --> 00:14:12,260
+My skull felt like it was being split open and my headache got so bad, my friends almost called 911. A couple of days later, Carol started experiencing shortness of breath and her lungs felt like they were filled to the brim of water. The headache and dizziness didn't go away either. With so many health risks, especially chronic headaches, shortness of breath and dizziness, Carol decided to see a doctor. The first thing the doctor asked was if she had a cat because he had seen many patients with similar symptoms and they all had cats.
+
+23
+00:14:12,260 --> 00:14:41,200
+The doctor said it was just a bad reaction to the toxic cat pee smell and letterbox odors lingering in her home, and especially in soft surfaces like rugs, carpets, and bedding, that lucky it wasn't something more serious. Carol's heart sank. Could it really be that serious, she asked. Absolutely, the doctor replied. You're breathing in pneumonia from cat pee, and if it's not cleaned properly, it can lead to permanent lung damage and increase your risk of severe respiratory diseases like pneumonia. Carol is not alone. 66% of Americans are pet owners, but many don't realize that the smell from their pet's pee can severely damage their health.
+
+24
+00:14:41,460 --> 00:15:12,820
+Even after cleaning the carpet or mopping the floor, the microscapic odorants can remain in the air for weeks or even months after the incident. The sparkles cling to nearly every nook and corner of your home, especially soft surfaces like carpets, rugs, cushions, and bedding. Okay, so this is, I mean, I'll be honest with you, I think it's kind of a weird advertorial, but I know they've been writing this for a while, so seems like it's working well enough. I think you've got this house, this grandmother effortlessly living near her cat pee smell from her home, okay?
+
+25
+00:15:12,820 --> 00:15:41,940
+But if we think about this here, it's sort of like curiosity and emotion. And then if you think about it, it's sort of starting to go into education here, right? We're educating them about like the problem, right? What's the problem? Well, you're breathing pneumonia. It can increase your chances of pneumonia, which is something that older people are very scared of, kind of rightfully so. But 66% of pet owners, of Americans are pet owners. They don't realize damage. Now we're kind of getting to like the UMP, right?
+
+26
+00:15:42,060 --> 00:16:10,940
+Microscopic odorants can remain in the air for weeks or even months. They cling to nearly every nook and corner of the home. What you need to know is cat pee contains toxic uric acid crystals that release ammonia, which is a chemical that linger in your air for years and can cause lung diseases like pneumonia, constant respiratory problems, headaches, and chest pain if not cleaned properly. And that's not the worst part. Continuous inhalation of ammonia can lead to irreversible damage to lung tissue, resulting in increased risk.
+
+27
+00:16:10,940 --> 00:16:39,180
+of pneumonia and increased susceptibility to more respiratory infections. Her doctor also said that, actually, she likely didn't notice her cat's pee smell until it started damaging her health because she developed olfactory fatigue, also known as nose blindness. When the human nose gets used to certain smells, it starts forgetting to detect them. In fact, since Americans spend 90% of their time indoors, significant exposure to cat pee smell and ammonia can also increase the risk of asthma by up to five times. Unfortunately for me, it took years of suffering to finally make me realize how sinister the ammonia cat pee smell can be.
+
+28
+00:16:39,180 --> 00:17:08,640
+It wasn't just the discomfort from the chest pain and lung-crushing coughing fits. It was the thought of losing my one joy left in life, spending time with friends, family, and of course, Mr. Whispers. I wish I'd known about the threat of ammonia sooner. Carol knew she had to do something to get rid of ammonia and cat pee smell floating through her home's air, especially after realizing that no amount of scrubbing, vacuuming, or carpet shampoo could fix what was living in the air. That's when the real nightmare began, Carol said. I called a cleaning service and they wanted to charge $600 just for one treatment. Way out of my budget. So I went to the store and purchased those air fresheners and what a waste of money.
+
+29
+00:17:08,640 --> 00:17:36,460
+Within two weeks, they had completely stopped working, and when they did, they only helped a little. They only temporarily masked the ammonia cat pee smell. They didn't directly eliminate the root cause of my problem. Right out of options, Carol had a tough choice to make. Spend a fortune deep cleaning your home, or give up her beloved cat, Mr. Whiskers. But this retired grandma was about to get her answer from her friend, literally. While I chatted on the phone one day, Carol mentioned to her friend Lisa, who also had cats, that she was struggling with intense chest pain and headaches because of the ammonia cat pee smell. She asked Lisa, how are you able to have guests over?
+
+30
+00:17:36,460 --> 00:18:06,290
+with your cats in the house without them being overwhelmed by the ammonia cat pee odor. Lisa laughed and said, wait, there, I'll be right over. A few minutes later, Lisa came rushing through the door, graining ear to ear, holding a box, and that's when Carol noticed a tiny white device in Lisa's hand. Trust me, said Lisa, you'll love these little odor-eliminating devices. They're the perfect solution and were specifically made for us cat owners. I use them in my bedroom and living room, but you can use them anywhere. You don't want ammonia or pesky cat pee smelling green. They work like a charm. She wasn't kidding, said Carol.
+
+31
+00:18:06,290 --> 00:18:33,840
+Later that evening I plugged it in and let it run. I was skeptical at first, but to my surprise the air smelled fresh and there was no trace of lingering cat pee smell or litter box odors. Not a single whiff of ammonia ever since either. Carol didn't realize how bad her air was until her chest pain evaporated and her air started to taste crispy fresh. She no longer feels stressed or suffered from relentless ammonia-induced headaches and coughing fits. She was later on her feet and felt ready to take back control of her life as if she had been given a fresh start.
+
+32
+00:18:33,840 --> 00:19:00,640
+The small device had a label that read Clarifion Odorex. I had no idea how it worked at the time, but was thrilled, Carol recalls. I immediately grabbed my computer and ordered a few more, just to make sure I have one in every room for my house. The best part is, said Carol, the air deodorizer is filter-free, easy to use, and highly energy efficient. Plus, it also works automatically 24-7, so Mr. Whiskers, and I never have to lift a single finger to breathe fresher air. I ordered six more since I noticed they sold out a couple times before.
+
+33
+00:19:00,640 --> 00:19:33,420
+It's called Clarifying Ode Rx and the way it eliminates ammonia cat's free smell and litter box odor is surprisingly simple yet shockingly effective. Okay, so we'll pause here for a minute. This is a long advertorial, right? Why is it a long advertorial? We talked about length here, right? There's short, you know, kind of short, medium, long, let's call it, right? These are guidelines, not like golden rules. Something could be 150 words, something could be 2,500 words. I'm curious how long this one actually is. All right, but really what they're doing in this one,
+
+34
+00:19:33,420 --> 00:20:03,330
+is they're calling out a very specific market, which is kind of elderly people, elderly cat owners. They're dramatically amplifying and intensifying the problem. Hey, that cat you smell isn't just gross. It's fucking up your health, giving pneumonia, messaging with your lungs, causing asthma, all these things that you're scared of as an older lady. It's doing all these things. You can say it's screwed up. I'm not here to judge. I'm just here to report the facts. That's what it's doing, right?
+
+35
+00:20:03,330 --> 00:20:33,010
+Kind of tells the story. It's got this hook. The cat pee smells such as a rug would almost kill her. I mean, it doesn't. It's sort of weird here because it says, oh, fortunately this thing is serious, but it's very serious, right? You know, luckily it wasn't something more serious. Could it really be that serious? Yeah, it's very serious. So does it make sense fully? No. Educate on the unique mechanism of the problem, right? Then it's sort of like, all right, my friend suggests.
+
+36
+00:20:33,330 --> 00:21:08,480
+something, like my friend suggests a solution, carry out a tough choice to make, right? Kind of amplifying like, okay, other solutions are expensive and don't work. You know, oh, Cleaning is, I know, it's going to kill me. But like $600, air freshers are a waste of money, right? Then there's the turning point, right? Like there's like a Sherpa appears if we go back to the structure. In this case, it's a friend. She comes over, she has the device. I was skeptical, but suddenly everything,
+
+37
+00:21:08,480 --> 00:21:37,040
+gets better right thanks to the solution what is the solution it's this thing clarifying odor rx um and by the way there's like a bunch of little subtle things to get people to order lots of them right it's a cool it makes sense this product as something that would do well with like d2c um with direct response elements because it's like you probably have rooms all over your house put one in every room oh i don't want to i don't want ammonia crystals in my bedroom even if i clear them from the laundry room right like
+
+38
+00:21:37,040 --> 00:22:11,280
+Oh, I ordered more just to make sure I had them in my house, right? I ordered six more because they sold out, right? Some scarcity right there. And now that I've introduced the product, it's going to go into like the features benefits. What's the actual product? So this portable and powerful plugin device uses UVC molecular neutralization technology to ensure ammonia cap-free odor indoor airs. Clarifying OdorX uses UVC molecular neutralization technology, and it repeats technology twice, a powerful scientific solution that gives you the unfair advantage
+
+39
+00:22:11,280 --> 00:22:38,580
+to eliminate ammonia cat pee smell, litter box stink, and other nasty odors in your home. It works by using a special light bulb that uses powerful UVC light rays to eliminate, on a microscopic level, almost 100% of all airborne odors, like from cat pee, litter box waste, cigarette smoke, mold, bathroom funk, you name it, from there you read. No wonder New York City uses UVC light technology to take sewage water and turn it into clean water for the public. That's well known to be the champagne of drinking water because it consistently wins an annual taste test against other public water sources.
+
+40
+00:22:38,580 --> 00:23:02,740
+Okay, really long copy, but basically wow, this is legit because even New York City uses the same technology. In fact, using UV disinfection in hospitals is also becoming an extremely popular method of assuring protection against the spread of harmful diseases with a high rate of efficacy. Oh wow, this is going to keep me safe. I'm not going to die. It's no surprise then that the OdorRx, which uses the same UV-C light technology to eliminate ammonia cappy odor, is so powerful and successful.
+
+41
+00:23:02,740 --> 00:23:32,300
+Clarifying Odorex is truly the easiest and quickest way to protect your rooms from pervasive ammonia and pet odors. It effectively eliminates all odors from your cat's pee, litter box, pet dander, and regular home odors and cleans the air you and your family breathes. It's one-fifth the size of some traditional air purifiers to get more powerful. Odorex automatically eliminates ammonia and other pet and household odors 24-7 so the carol and family can breathe fresher, cleaner smelling indoor air without lifting a finger. No more thinking about giving up your cat and no more poisoning your home with air sprays and fresheners packed with toxic chemicals and fruity artificial smells.
+
+42
+00:23:32,460 --> 00:23:57,520
+Within two weeks of using it, Carol was amazed to see that, in addition to her home's indoor atmosphere, her social life and overall well-being also seemed to keep improving. She no longer had to worry about giving up Mr. Whiskers or spending their fortune on professional cleaners, so they're trying to amplify it even more. After a month, Carol said all her friends and family told her they noticed a huge boost in her energy and enthusiasm for life. She was back to her old, vibrant self, eagerly hosting gatherings and spending quality time with loved ones. Even Mr. Whiskers could tell the difference.
+
+43
+00:23:57,520 --> 00:24:19,600
+carol also shared their sleep quality night also improved significantly and during the day she felt more refreshed and active as if she was 10 years younger so now it's like wow my god your whole life's gonna change when you buy this odor remover gush all our friends about the clarifying odor x she immediately ordered six more of the life-changing devices okay to give to other cat friends so like yep people order lots of them so you will too
+
+44
+00:24:19,820 --> 00:24:46,160
+Okay, now it's back to feeling like an advertorial. Oh, I'm going to, like, we're reviewing it, right? So all the social proof, but yeah. So it's like a little bit more of like the, you know, kind of like.
+
+45
+00:24:46,160 --> 00:25:14,910
+solution, the UMS, right? The product as UMS, really, you could argue. Okay. It was only released recently, but it's already captured the attention of millions of American families and cat owners. Once people learned there was a safe and affordable solution for effectively dealing with pervasive and persistent ammonia-filled cat pee and litter box odors, pulling their indoor air, they were more than eager to give the device a try. As a result, Clarifying Odorex sold so much more than the family-owned company was prepared for. In fact, last year, Clarifying Odorex completely sold out their inventory twice. Oh my gosh, scarcity.
+
+46
+00:25:14,910 --> 00:25:45,090
+Hyper on this breakthrough device has been spreading through online and offline. Word of mouth from satisfied cat on our customers. Here's some more social proof. This one is clearly AI. You know, a bunch of them are probably AI. I mean, I think the whole avatar is written by AI. I announced a few. I tested clarifying Otorex myself, and here's what I found. Okay, week one. I'm not going to read this copy and all of this, but basically now they're like future pacing. Week one, hey, week two. Week three, oh my gosh, everything's great. My final thoughts. So now it becomes like more with that avatar.
+
+47
+00:25:45,090 --> 00:26:14,430
+If you're tired of the persistent cat urine odor in your home and want to breathe better, switching to Clarifying Odorex will actually save you time and money in the long run. Traditional air purifiers and professional cleaning services can be expensive, right? They can cost $2,500. They require time-consuming maintenance. Clarifying Odorex is more affordable, less walkie, and less noisy. That's why devices like this are one of the fastest growing trends among cat owners. I use it for more than a month to confirm that it effectively eliminates cat pee ammonia odor, another unpleasant pet, and regular household smells, which is something no other device can match.
+
+48
+00:26:14,430 --> 00:26:44,800
+Most importantly, it means you no longer have to choose between your beloved cat and a fresher-smelling, ammonia-odor-free home. With Clarifying Odorx, you can have both. How much does it cost? Is it worth it? Clarifying is regularly priced at $44.97 per device, which at first seemed a little high, but after seeing how it completely changed the way I breathed at home and eliminated the ammonia smell from my cat's pee in almost a couple of hours, I realized the product offers a tremendous bargain. Oh, they're running a limited bundle and save promotion for additional discounts through today. Oh my God, today's the last day.
+
+49
+00:26:44,800 --> 00:27:15,900
+For people who don't know, right, this is dynamic. This is going to update every single day. Right now on their website, they're offering a unique bundle and save. Try their best-selling cat air deodorizing device at a significant discount, up to 72% off, but only while supplies last. As someone who has reviewed hundreds of innovative home gadgets, I can honestly say I've never encountered a product that offers such a significant value for such an affordable price. I highly recommend clarifying Odorex to anyone who wants to protect their home from harmful airborne odors like the ammonia from cat's pee and enjoy fresher, cleaner air. Update!
+
+50
+00:27:15,900 --> 00:27:49,550
+Oh, since this was published, there's even more buzz. Inventory is dwindling. They're offering an internet-only promotion and bundle discount. Only available. Find out if it's still in stock, click the button below. Click here to check availability. Use it for modern, fresh air. Apply a discount. This is an advertisement, right? So it has all that here. I wanted to just say advertorial at the top. Yeah, it does appear. It's kind of funny. It has actual ads on it. I don't know why they have that. That's kind of weird to me. But...
+
+51
+00:27:50,320 --> 00:28:31,230
+you know, the end. Now, OneNote, if you're like, okay, like, let me see something here. So we just went through all this. I want to make this thing really clear. What if you wanted to, if you want to swipe this, what could you do? Here's an advertorial I just read, and you please go through it and then create a detailed outline of the structure.
+
+52
+00:28:31,230 --> 00:29:09,650
+Now note, you can do this in the quad project for advertorials, or you can just do it right here. I'm just going to do it right here to start. Just copy and paste it in. Classic advertorial, using the problem agitation solution framework of emotional storytelling to sell an error purification device. Headline and hook, problem introduction and dramatization, crisis escalation, expert validation, problem magnification, failed solutions, solution discovery, transformation story.
+
+53
+00:29:09,650 --> 00:29:44,910
+product explanation, social proof, reviewer credibility, cost analysis, urgency and scarcity, all that, okay? Red flags, totally, plenty of red flags, okay? So, honestly, beyond the old advertorial project thing, perfect, thanks, this was great. Let's write an advertorial for Opal Beauty that follows the same structure.
+
+54
+00:29:44,940 --> 00:30:35,900
+specifically for our Unity Pi Serum. Now again, we've got our cloud project for abertorials, but just for fun, let's do this real quick. I just want to show you how you can do this. I'm not going to go through the whole abertorial, but now you're just perfectly swiping this abertorial. So if we liked it, we're going to swipe it for our product, our brand. There we go, okay? I'm not going to even go through this whole thing because that's not the point of this one. This is more about overall abertorials.
+
+55
+00:30:35,900 --> 00:31:34,560
+What I want to note, okay, is we go back to like sort of the problem, right? This to this, CPA is going to be high, A is going to be too low, right? So hence the point of the advertorial. So if you go SAGAD long advertorial, short PDP, what can happen? Here are the benefits, right? Your A is going to be way lower.
+
+56
+00:31:34,560 --> 00:32:05,840
+If it's a good converting advertorial, then your AOV is going to be way higher. So this is true, assuming that the copy is good, that speaking to the right demographic, the right level of product market awareness, the right psychographic information, the pain points, all that. But you know your market. You've done the research. The product is good. The UMP, Ford makes sense, all that.
+
+57
+00:32:06,990 --> 00:32:32,300
+And then the copy, you know, it's good. The structure is good. All these sorts of things. Well, how do you know the structure is good? Will you go find things that are working in a model of structures? Kind of like I just did here. And your AOE is going to probably be way higher. Because if you go back to this checkout slash PDP page again, they've got these different, like, hey, order more. Again, if I just saw the ad, I wouldn't do that. But if I've read this whole long thing, that's like, you know.
+
+58
+00:32:32,750 --> 00:33:06,660
+She ordered more. They keep selling out. So she ordered more. Every room, like, oh, smart people order more. Order more. My AOV is going to be much higher. And the other really big advantage of this sort of model is it actually simplifies. I hope this doesn't get too complex for some people here. But it shouldn't, I don't think. I think you can handle it. It simplifies testing a lot, right? You just got, I mean, yeah, you'll test stuff on this page, I'm sure. But.
+
+59
+00:33:06,660 --> 00:33:42,140
+Really what you're doing is you're just testing ads and advertorials. And this page sort of is basic and stays the same and you don't need to do a ton with it. And it's easier in a way to do that. It's easier to just put up tons of advertorials that go to this page. Everyone's got to test tons of ads. That's just the state of marketing 2025. So it's kind of easier than doing this, making big changes here all the time. And so it simplifies testing as well, right? Plus it simplifies.
+
+60
+00:33:42,140 --> 00:34:53,870
+testing okay so that's one journey for clarifying orderless cat but as you'll recall let me save links here to this so long advertorial link actually images hold up a second long advertorial shots this markup hero thing does it over it breaks over to several sections so you can click through two three four
+
+61
+00:34:53,870 --> 00:36:42,820
+It's kind of annoying. I like it when you got one long thing, but it's fine. Share. Here you go. Okay. But now let's look at aslibrary again. As you'll recall, we had to make some videos. Okay. So we have a video ad like that. What is that video ad doing, right? Well, it's... I'm going to save some of those. I'll swipe this one for fun too. But like, so it's amplifying the pain point.
+
+62
+00:36:42,820 --> 00:37:13,940
+It's talking about the product. It's revealing how it works. Some of the benefits for kids and family. This one's not going after the older demo. It's going after a younger demo. So given that, would it make sense to go to this advertorial? And the answer is no. You could test it, but probably not. Because here we're really amplifying the pain point. We're introducing the product, all that. And that ad, when we just watched, we've done those things.
+
+63
+00:37:13,970 --> 00:37:48,110
+which is why it's going to a very different type of page. If your home reeks of cappy or you're struggling to breathe, suffering headaches, or feeling dizzy, this science-driven solution is a lifesaver. Here's why. So in this advertorial, and yes, I'm looking on desktop. If you look on mobile, which you should always be doing, inspect, you won't see that little side thing that you saw up here. But for teaching purposes, it's easier to be on desktop, okay? So here, we're talking about the device right away.
+
+64
+00:37:48,110 --> 00:38:20,210
+Why are we doing that? Because we have introduced the product already, right? They introduced the product in the ad, we amplified the problem. So this is still actually a pretty long advertorial, but not as long, and it's a lot more graphically heavy, you might be noticing, okay? So it's showing you these images, like, it's working, the product graphics, wow, okay, look at this, this is the magic thing, this thing is incredible. Note, after reading this, you won't want to go...
+
+65
+00:38:20,560 --> 00:38:46,220
+You won't go another day without this game-changing fix to the toxic cat pee stench in your home. If you're constantly being hit with a sharp, eye-seeking stench in your home that feels like acid burning in your nostrils, if your throat tightens, your head throbs like your skull is being split, or you feel like every breath is crushing your lungs, chances are that your air is contaminated with toxic ammonia fumes from lingering cat pee. This isn't unusual, especially in homes with multiple cats, but it also isn't just an annoying stench.
+
+66
+00:38:46,220 --> 00:39:13,500
+Cat pee actually scientifically packs a whole lot more ammonia content than even dog pee, which means if you let some ammonia-filled odor spread and stick to your air, you'll develop unbearable migraines during the day and relentless sinus pain and chronic coughing fits during the evening, not to mention higher risk of respiratory infections, painful nasal irritation, and tightness in your chest. And worst of all, you might not even notice how strong it's gone due to nose blindness until you have guests over for dinner. But it's not just fellow humans who suffer. Cats are at risk too.
+
+67
+00:39:13,500 --> 00:39:35,950
+The lingering ammonia odor and air can stress your cats, leading to anxiety, and prompting them to urine, spray, and mark their territory even more frequently indoors. Find out below how you can eliminate the cat pee smell in your home without lifting a single finger. Okay? So, still clawing out the pain point. It's amplifying it. It's telling you how bad it is for you. It's also bad for your cat. Here's the thing. If you don't target the root cause of your cat's foul ammonia smell...
+
+68
+00:39:36,140 --> 00:40:04,620
+Then you're going to wake up every morning with a skull-splained migraine choking and coughing on the toxic fumes from the ammonia in your cat's pee. The root cause of your cat's foul ammonia smell? It's not just the urine or droppings your feline friends make, it's the uric acid in cat urine, which forms crystals that are difficult to remove completely. These crystals can cause the cat ammonia smell to linger on clothes and furniture for years if not cleaned properly, and that's not even the worst part. The real danger is continuous inhalation of ammonia can lead to irreversible permanent damage to your lungs.
+
+69
+00:40:04,720 --> 00:40:34,110
+They're microscopic. They're invisible to the human eye. You think you can just clean the litter box and it'll get rid of it? Nope. You need to directly clean your home's air. So basically, what are we doing here? Kind of like the unique mechanism of the problem and why just cleaning the litter box isn't going to work. And they're showing you, oh, look, your cat's peeing here. Your lungs turn black and you die. You know? Let's be real. We love our feline best friends, but we can't risk our family's health by exposing ourselves to the phallomonia cat odor in our home.
+
+70
+00:40:34,110 --> 00:41:09,300
+The thing is, the power was within their hands to easily fix the issue thanks to a remarkable new solution, and it could be the key to making sure our families breathe clean door air forever. Who would have thought a deodorizer would get hailed as a miracle solution for cat odor-infested homes in 2025? 15,000 five-star reviews online for Clarifion. Let's see if that's true for Trustpilot. Clarifion Trustpilot. So, you know, it's not, obviously. There's 356. Some of them look like they might be fake.
+
+71
+00:41:09,300 --> 00:41:36,780
+but again i'm not here to explicitly judge all right the bland brand clarifying took the indoor air quality market by storm upon its release quickly garnering attention across social media and news outlets alike today the brand boasts an impressive track but i mean all this is for like i'm not trying to be a hater but all this is for like a drop shipping for sure it's like a drop ship to china device or something right um here are some of the game changing benefits offered by clarifying odorex to make it an absolute no-brainer
+
+72
+00:41:37,360 --> 00:42:13,390
+So now basically it's going to give you like some studies and sort of like the UMS, which is the product, right? And it's going to tell you what the product does. It uses ultraviolet light. A nice odor. And it's going to give you products and features and benefits. Your family's going to thank you. Look at this happy people using it. Kind of references to studying to your lady. I got this from my friend Samantha. I'm so happy I got six, right? So we're still kind of increasing the AOV. Yeah, she wants to go to the hospital.
+
+73
+00:42:14,100 --> 00:42:48,830
+Of course, I think, honestly, Matthew was the same lady or not in there, but similar story. Massive hit in the pet world. For best results, recommend using more than just one other extra device in each room. Clarifying bundle is a must. Check availability. Cat parents love it. We've evaluated many things. They have an unbeatable price. They have a guarantee. You know, unbeatable discounts. Reviewed by a nurse, allegedly. Oh man, look at this. Supplies are low.
+
+74
+00:42:48,830 --> 00:43:28,460
+reviews, seller risk is high, free delivery, check availability, right? So this page is still doing some of the stuff the other one is doing, but it's a bit more direct because of the video app. But same idea here, basically amplifies the pain points, reduces the product, tells the social proof about the product, it works, go get it, right? But it still covers
+
+75
+00:43:29,650 --> 00:44:01,580
+It's still the same solutions, right? I mean, basically, the same benefits happen here, right? So, like, editorial link number two. And again, this might get removed. Maybe they see this and they're like, fuck this guy for saying mean stuff about us. I'm not saying mean stuff. I'm just pointing out, you know, the truth. But I'm not judging, like I said. It is what it is, right? Like, how does this random device do well? I mean, it does do pretty well. Well, it's because of this stuff, right? So, it's like, I'll say the screenshots.
+
+76
+00:44:14,260 --> 00:45:09,660
+Give me a minute for that to happen. Okay. But it's basically doing the same thing, right? Your CPA is going to be lower. Your AOV is going to be higher. The reason for this format, reminder, the reason for this format is because there are video ads in front of it, typically one to two minutes long, that are already revealing the product, talking about the problem.
+
+77
+00:45:09,660 --> 00:45:51,120
+and talking about the you know how it fixes it also including right so because it's doing all that you don't need the same advertorial where it's like oh grandma's story because they're like there's more awareness just from watching the video so hence why there's a different lander okay now i had i'll show you i'm not going to go through all the copy on these but i'll show you guys a few other examples so there's like comfort ortho wearer
+
+78
+00:45:51,220 --> 00:46:57,390
+They sell like comfortable shoes. What you see here, I mean actually, I should show you the ads library actually, hold a second. So let's do that. I think it comes from here. Let me double check. Let me swipe that. No sorry, this is different. Is this these guys? There's another page, I don't know how I even found this. I'll define the ads library later. But basically they have like little video ads. So it comes here. So here's, okay look, I'll start, I'm gonna start. This is a very traditional Shopify.
+
+79
+00:46:57,390 --> 00:47:28,050
+Style product page, okay? Just like the name of the product. Product details and features. Okay, some little benefits compared to other things. Here's like the feature, you know, here's more of the features, like sort of like the technical aspects of it. Here's FAQs, save. Here's a bunch of social proof. All right, so it's like cool. Very traditional e-commerce product page. Great. The dirty secret is, unless you're like a really big brand,
+
+80
+00:47:28,050 --> 00:47:58,510
+Tons of social media influencers and people know who you are. These pages don't convert. This is what a lot of people with money even who come in and start account companies fail to realize early on. It's like the dirty secret is nobody makes good sales through these things, right? Shopify isn't a gajillion dollar company because of these pages. Shopify's a gajillion dollar company because of pages like this that go in front of it. So this is almost like, it's like an advertorial but it's really like another product page.
+
+81
+00:47:58,510 --> 00:48:30,270
+how american woman over 20 or over 52 are transforming their foot health naturally no costly orthotics no painkillers no surgery just results agree you know it's basically not basically it is an advertorial right two minutes they don't say advertorial up here they should for compliance um it's kind of like hey here's the problem right like for millions of americans foot pain is a part of aging traditional shoes don't work that's why we created this shoe i guess it's not an advertorial because they're like saying it from the brand um why traditional
+
+82
+00:48:30,270 --> 00:49:00,460
+Wearer fails. Why Comfort Wearer offers a better solution. That's what everyone's using. Social proof. Why is this for you? Talk to Jessica Rappapack. I guess this is a spokesperson. So confident. Here's three reasons. What it does. Get it here. What do customers say? Social proof. Limited time sale. Click the button. Guarantee. Comfort. FAQ. So very basic. Why? I gotta go find the actual ads for you. One second. Alright, here's that. I feel like I saw some of them recently. I'm not sure if they're still running or not.
+
+83
+00:49:00,590 --> 00:49:31,890
+If you look at the video ad, so basically you've got like a two minute video, like it's talking about what it does, the features, the benefits, right? All that kind of stuff, social proof. So that's why they can then run to a page like this, not super long. And then from there goes to a really basic Shopify product page, right? That's like the journey, so to speak.
+
+84
+00:49:32,530 --> 00:50:39,570
+We'll look at one more meta real quick, and then I'll do a separate video for Native because I think otherwise, you know, this gets too long and cumbersome. So I had like EarthBreeze up, okay? EarthBreeze, basically natural laundry cleaning things, right? Ads like this, very short. So that's very aware. That's trying to get people to sign up. Okay, we can look at an ad like this. There's a bunch here. Or dishwasher, not laundry detergent. Okay, so for that ad, shop now.
+
+85
+00:50:41,680 --> 00:51:14,830
+This one is actually going to a product page. Cool. But it kind of sells you in the video. Let's see. This one is going to list more of like an advertorial, right? Senior Summer Sales Special. Up to 52% off for seniors and for free gifts. Dear Value Senior. When it comes to your health and well-being, avoid harsh chemicals from everyday products. Avoiding them can make all the difference.
+
+86
+00:51:15,470 --> 00:51:49,580
+You have to talk about cancer-causing chemicals, things in your bloodstream. So we create a special discount for you. We understand why seniors live on fixed income, why seniors love our laundry sheets, have arthritis. So this is sort of like a, again, is it a classic advertorial? No, but it's sort of like an interstitial page, which makes sense. So if I just go from like, oh, you have some free gifts, whatever it is, I still need to be sold more on this, right, than just...
+
+87
+00:51:50,960 --> 00:52:25,170
+I don't really know enough about what you guys are, what you do. Do that, click the button. Now I go to like the actual classic econ product page, lots of social proof, but really just a little carousel, whatever you call it, like a, you know, benefits, selection package, some free gifts, sneaky continuity, but you can also just buy once with no savings. So it's fine.
+
+88
+00:52:25,170 --> 00:52:55,630
+But again, is this enough to get somebody to spend, you know, money on these laundry sheets, especially on potentially a subscription, right? And it's like, maybe not. Maybe it's okay, but maybe your metrics are going to be better if before that you go to the special senior discount page. Oh, I'm getting a discount because I'm old. Right? Any of that library. So these are what you'll see in meta a lot. There's one more type. I mean, I feel like I should just end.
+
+89
+00:52:55,630 --> 00:53:27,860
+People don't run as much, but they kind of should. Give me a second. I can cover on the native one too. Really what it is, it's like a top five. Like, hey, we compared the five top of whatever the category is. Number one is going to surprise you. It's pretty short, but we'll see similar styles in native usually. So we'll cover those in there. And you can, of course, explore and do your own research and things of that. I hate saying things of that nature. I'm saying it so much during RBC too, but things of that nature.
+
+90
+00:53:27,860 --> 00:53:32,910
+um so yeah so okay this is the meta part of it and then we'll do native next

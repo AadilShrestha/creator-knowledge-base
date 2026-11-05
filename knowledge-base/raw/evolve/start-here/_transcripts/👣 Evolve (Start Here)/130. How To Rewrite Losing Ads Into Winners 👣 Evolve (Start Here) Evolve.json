@@ -1,0 +1,619 @@
+{
+  "source_file": "👣 Evolve (Start Here)/130. How To Rewrite Losing Ads Into Winners 👣 Evolve (Start Here) Evolve.mp4",
+  "source_id": "mega:jhQDiSSY",
+  "audio_sha256": "8763ad6a6895c73f75a62f2cc6b0765c48236989569f1845e0b727942752b5b6",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 3332.42,
+  "last_segment_end": 3331.86,
+  "segments": [
+    {
+      "start": 0.14,
+      "end": 21.01,
+      "text": "All right, in this video I'm going to talk about how I turned a losing ad into a winning ad. I'm going to show you basically how we process learnings on this ad as a team. I'm going to show you like what are some things that we identified, what are some things that we noticed, what is the information that we got from it, and then obviously I'm going to show you"
+    },
+    {
+      "start": 21.01,
+      "end": 48.46,
+      "text": "what I did to then use that information and like what are like what was my thought process because this script right here like I wrote it myself and I'm basically gonna break down exactly how I wrote the script and like what was the thought process behind that script. So this is going to be a short kind of master class on how to make sure you learn from your ads and how to make sure you properly close the feedback loop and you properly do learnings on your ads."
+    },
+    {
+      "start": 48.46,
+      "end": 75.76,
+      "text": "because obviously that is super super important and that is going to be like one huge source of like finding new winning ads like when you have an ad that you know like maybe the ad is getting spent it has decent performance but you know it's just not there yet it's just like you know not performing super well that ad is telling you something and you should you should try to learn from it right and I know a lot of you guys kind of struggle with that so that's why that's why I'm recording this video"
+    },
+    {
+      "start": 75.76,
+      "end": 104.51,
+      "text": "Hopefully I'll try to make it as value-packed as possible. I'll try not to make it too long because I like to yap about this stuff a lot, but I'll try to make the video as value-packed as possible. So before I kind of get into it, this is the product that these ads were made for. It's called Metaglow Collagen. This is one of our clients and basically the main unique selling proposition of this product is that it naturally boosts GLP-1."
+    },
+    {
+      "start": 104.51,
+      "end": 130.69,
+      "text": "For those of you who are not familiar, to boost GLP-1, right now what you can do is you can get an Ozempic shot. That's been pretty trending recently. But there are a lot of problems that come with taking Ozempic shots. Obviously, they're hella expensive. You are kind of dependent on it. Just a lot of different negative things. And Metaglow collagen is..."
+    },
+    {
+      "start": 130.69,
+      "end": 158.83,
+      "text": "the only marine collagen available right now that boosts GLP-1 naturally, and that is because one ingredient inside it that's called Dicomera, which I'll kind of get into that a bit later in the video, but yeah that is kind of about the product and obviously well like once you boost GLP-1, so GLP-1 is a hormone that basically kind of tells your body to burn stored fat, it helps you curb cravings and whatnot and like just kind of"
+    },
+    {
+      "start": 158.83,
+      "end": 187.41,
+      "text": "a lot of benefits around weight loss basically, so that is a product and that is kind of the mechanism that we'll be kind of using to build these ads. So once we kind of get here, first I'm obviously gonna play this first ad so you can kind of see it and before I get into that I will say, so like this ad kind of like it was almost a winning ad, so like it started doing it really well, it started performing"
+    },
+    {
+      "start": 187.41,
+      "end": 215.76,
+      "text": "pretty decently, it had decent soft metrics and it was a top spender in the account for like seven days. For the first few days it was performing very decently and then it just dropped off for whatever reason and we had to shut it off. So that was kind of the context around this ad and then obviously we kind of processed learnings on it and we tried to figure out why did this ad kind of show potential and what can we learn from it."
+    },
+    {
+      "start": 215.76,
+      "end": 230.11,
+      "text": "uh before i kind of get into that i'm gonna play that after birth women after birth women have 10 times the normal levels of the fat storing hormone known as prolactin people say it's easy to bounce back that breastfeeding helps you lose weight"
+    },
+    {
+      "start": 230.11,
+      "end": 259.41,
+      "text": "But here's the truth, no one tells you. No matter how many calories you cut or how hard you go at the gym, losing weight postpartum can feel downright impossible. Your body is hormonally wired to hold on to extra puffiness and weight after pregnancy. It has nothing to do with your willpower. It's all about your hormones. That's where Metaglow comes in. A maternally overachieving collagen was created with clinically backed ingredients. It boosts GLP-1 to reignite metabolism."
+    },
+    {
+      "start": 259.41,
+      "end": 283.74,
+      "text": "Finishing collagen to help flush out postpartum puffiness, Metaglow is formulated specifically for women dealing with stubborn hormonal weight. Thousands of moms have discovered what happens when you finally work with your hormones instead of against them. Try Metaglow today, and if nothing changes in 60 days, you get every penny back. Click the link to shop now, get free shipping, and lock in your transformation!"
+    },
+    {
+      "start": 283.74,
+      "end": 313.66,
+      "text": "All right. So as you probably noticed, our target avatar here are postpartum women. So basically moms who just gave birth recently and they're struggling to lose weight. That is obviously a very huge problem and a strong desire that a lot of these women have. They just want to lose this extra weight that they got because of pregnancy. And they just keep retaining that weight because obviously their body is built for literally raising babies."
+    },
+    {
+      "start": 313.66,
+      "end": 341.92,
+      "text": "I mean like if they're breastfeeding their body just like tends to hold on to extra weight because like their body literally thinks that it needs this extra weight so that they can breastfeed effectively, right? So like that's how their body works and the hormone that regulates this is called prolactin and we basically kind of when doing research a lot of kind of women have like like mentioned similar problems that they you know like retain weight."
+    },
+    {
+      "start": 341.92,
+      "end": 369.46,
+      "text": "Like postpartum that they're struggling with it and that they think because it's like they're breastfeeding if that makes sense So like we wanted to kind of build a story we wanted to build narrative and an ad around Around why this happens and basically educate them that this happens because of this hormone So we wanted to position this hormone as a villain in the story if that makes sense And then kind of convince them that to like to you know like"
+    },
+    {
+      "start": 369.46,
+      "end": 399.1,
+      "text": "regulate that hormone, they need another hormone, they need to kind of, they need to like boost another hormone that kind of negates the prolactin, prolactin if that makes sense. So that was the entire point of this ad and what we tried to do here. And obviously we kind of had some previous ads that were talking about like postpartum puffiness and like retaining weight postpartum that were showing some potential, that's why we decided to make this in the first place. And then what I have here is like a document"
+    },
+    {
+      "start": 399.1,
+      "end": 424.19,
+      "text": "on like additional research that our creative strategist did on like this entire topic and that's basically what we use to kind of fuel this script. But basically when, like I said, we ran this ad, it started doing decent and then it kind of shut down. And then when we were doing learnings on this, so like these were kind of the learnings that we had."
+    },
+    {
+      "start": 424.19,
+      "end": 452.82,
+      "text": "So the winning hook was after birth, women have 10 times the normal levels of the fat storing hormone known as prolactin. And basically the main reason why we thought this is doing well is because we mentioned this mechanism. So like we basically identified that this kind of fat storing hormone is like a new information that it's something new and probably something that these women don't hear that often. And that's why they got interested in the ad."
+    },
+    {
+      "start": 452.82,
+      "end": 482.59,
+      "text": "So like that was our kind of main learning like why this showed strong potential. So this kind of this gave women a medical scientific explanation for postpartum weight retention. So just like it explains them why that's happening. It gives them new hope that you know like oh it's because of this what can I do to solve it, right? And the most important thing is that it shifted blame from personal failure to biological reality. Obviously a lot of these women"
+    },
+    {
+      "start": 482.59,
+      "end": 512.45,
+      "text": "um just like they blame themselves for this and like if you go through this um document you will see that they're mentioning that they're they're working out they're like uh they're kind of you know paying attention to what they eat they're they're literally doing everything right and they're still retaining this weight and they can't lose it right so like that's that's the state they're in and that's how they feel which is obviously super important to understand when you're making ads for your avatar you need to understand what is their current situation"
+    },
+    {
+      "start": 512.45,
+      "end": 540.75,
+      "text": "What are they currently feeling? And what are some problems they're dealing with? And not only just the obvious problems, but what is their psychological state right now? And obviously, psychological state of these women is that they're just frustrated. They're frustrated. They don't know why it's happening. And they think they're doing everything right. And obviously, we can use that frustration and we can use that to our advantage, which I'll show you. I'll obviously show you how we did that."
+    },
+    {
+      "start": 540.75,
+      "end": 569.41,
+      "text": "for the iteration of this ad. But yeah, one thing that I wanted to show you as well is like how the brief for this ad looked like. I know this might be valuable for some of you guys, but this is how we do briefs for the editors, just kind of random sauce in here. So like we obviously have three different hooks. I mentioned that this one was the top performing hook, so like this was hook number three. Then we just kind of mentioned"
+    },
+    {
+      "start": 569.41,
+      "end": 597.28,
+      "text": "you know, what's the copy that we want to have here and then I'm guessing we kind of changed this like throughout the editing process, so like obviously the copy for the top performance version was just like postpartum puffiness, so that changed and yeah like for the hold and for the rest of the script what we do is we simply just like have like parts of the script highlighted and then for each part of the script we have"
+    },
+    {
+      "start": 597.28,
+      "end": 623.82,
+      "text": "what do we want to show here, so our editors know what's the main purpose of this segment in the script, if that makes sense, and then we just give them visual guidance by this, and then our editors know exactly what they need to do. So yeah, I have this here, so just wanted to mention that as well. But to get back to the learnings, like I said, fat storing hormone prolactin, that was..."
+    },
+    {
+      "start": 623.82,
+      "end": 633.18,
+      "text": "That was like what we identified as the biggest thing of like why they showed strong potential. And then this is like one soundbite from The Learning Skull."
+    },
+    {
+      "start": 633.18,
+      "end": 661.46,
+      "text": "And by the way, one tip as well for the learnings call, we basically have like a note taker on the learnings call that is kind of taking notes and recording and, you know, like recording the call. And then after the call, we get a transcript from the call. And then we have a prompt that basically lets us kind of process. So like the prompt says, we're a marketing agency. We run ads for multiple brands. We explain how we run ads. So like we say that we mostly run CBO, you know, like that the ads are like."
+    },
+    {
+      "start": 661.46,
+      "end": 686.86,
+      "text": "the ads are getting spent based on what Meta decides, if that makes sense. AI has context, so it knows what we're talking about on the call. And then we just kind of say within the problem that the main purpose of this call is to look at ads that we ran and try to figure out why are they good? Why are they not good? So we can basically..."
+    },
+    {
+      "start": 686.86,
+      "end": 712.72,
+      "text": "you know get better as a team and so we can make even better and better ads. So like that's kind of the prompt that we have and then we kind of just like send the call transcription of like every learnings call that we have like and we process it through that prompt and that just like summarizes the learnings for us and that's like useful for when making new ads for us. So that's one tip that I can give you as well for learning. So like this is one soundbite from the call that we had."
+    },
+    {
+      "start": 712.72,
+      "end": 736.42,
+      "text": "I think this is, I believe this is what I said. So like we kind of meet the women where they're at. We see you, if that makes sense. So we kind of, we agree with them and we basically give them new hope that someone understands them. So yeah, this is like one thing that I also identified as, you know, as something like as a reason why this could do well, if that makes sense. So like, you know, we say,"
+    },
+    {
+      "start": 736.42,
+      "end": 763.47,
+      "text": "like your body is hormonally wired to hold on to extra puffiness after pregnancy and it's common for this to last for months or even for years for some women so like it was pretty interesting so it was like we basically said like you know this is normal this is common this is what happens um it has nothing to do with your willpower it's all about your hormones right so like here we're like shifting their belief from oh you know like it's like i'm doing something wrong we shift their belief from that to like"
+    },
+    {
+      "start": 763.47,
+      "end": 788.86,
+      "text": "it's your hormones, right? So like the real problem are your hormones. So like we create a new problem basically and we make them believe that like all of these problems and like all this kind of what's happening to them is because of their hormones, right? And now we have them interested, now we have them dialed and now they basically have a new hope that they could get rid of this problem, right? Which is super important when you're writing scripts and when you're obviously in over like making ads."
+    },
+    {
+      "start": 788.86,
+      "end": 811.52,
+      "text": "you want to give people new hope of like achieving their desires. This is like one of the key things that Eugene Schwartz talks about in Breakthrough Advertising. And you know, this is what you need to do. So like now you can see how we're basically kind of, you know, kind of explaining like we're getting, we're making them curious with a fast storing hormone. So like as a new information, new mechanism."
+    },
+    {
+      "start": 811.52,
+      "end": 840.98,
+      "text": "we kind of explain you know like the problem that they have so like we show that we understand them and then we basically shift their beliefs from the problem is me to the problem are hormones right and then we obviously can start talking about the solution and we can start talking about how to solve that new problem that we just presented them right. So I just kind of found it interesting that you know like within this hook obviously we kind of agree with them and we give them a new hope that someone understands them."
+    },
+    {
+      "start": 840.98,
+      "end": 866.83,
+      "text": "basically. So like that was the one interesting thing that we learned from this ad as well. And then some other things that we have here, so like the ad could work because it one acknowledges the reality, so like losing weight postpartum can feel downright impossible, like I said we kind of meet them where they're at. It removes guilt, so like it has nothing to do with your willpower and then it provides scientific validation that your body is hormonally wired to hold on."
+    },
+    {
+      "start": 866.83,
+      "end": 891.14,
+      "text": "and the team noted the script was almost a bit shallow with no narrative around it so it can be a lot stronger. This is one like big thing as well. So like now when I've kind of broken it down and when I explain like what we tried to do and like how the script is written, you probably think that this script is very good and that this script you know like like should work. But you'll see like when I show you some like other research that I did and some other things."
+    },
+    {
+      "start": 891.14,
+      "end": 918.7,
+      "text": "you'll see how the script can be literally 10 times better. So like once I show you the second ad and once you compare the second ad to the first ad, you'll see how the second one is much, much more persuasive and we could have just like done a much better job at the entire script, right? But I'll get there. So why this ad showed good potential. So new mechanism introduction, like I said, fat storing hormone. So like this created curiosity."
+    },
+    {
+      "start": 918.7,
+      "end": 946.35,
+      "text": "Perfect timing. It's just like an AI thing. I don't know. I don't know what the perfect timing is. Scientific authority. I do agree with that. So like using prolactin and 10 times normal levels provides medical credibility without being too technical. Which is also like very important. And then emotional intelligence. Like the script follows the exact emotional journey of the target audience. From frustration to understanding to giving them new hope. And then obviously at the end presenting them."
+    },
+    {
+      "start": 946.35,
+      "end": 972.58,
+      "text": "solution that we have and then funneling them down towards our product, right. So that is basically like a breakdown of this ad and that is how we kind of process learnings on our ads and you know obviously now this should probably show you like some things that we look at, some things that we try to identify and how we go about just like making learnings and basically like identifying"
+    },
+    {
+      "start": 972.58,
+      "end": 1001.65,
+      "text": "like what are some certain aspects of like why is why is a specific ad working why is it not working what can we learn from that how can we make the ad even better uh so like these are some things that we you know that we look at and a lot of it is just like it's just doing it um and you know just like having the experience and you know just like doing this process of like ad learnings and closing the feedback loops and the more you do it the better you're gonna get and the easier it's gonna be and like if you never did ad learnings before"
+    },
+    {
+      "start": 1001.68,
+      "end": 1027.97,
+      "text": "I'll say like it's very it's very hard and like the first time you'll do it you'll maybe pull up an ad and you'll be like okay now right so like for the first 10 minutes you'll maybe be like staring blank at it but like I can promise you you know like just like set it set like a 20-30 minute timer for yourself have an ad in front of you you know like obviously you should have context on like how the ad did did it get spent did it not get spent obviously"
+    },
+    {
+      "start": 1027.97,
+      "end": 1054.72,
+      "text": "If the ad didn't get any spend and you don't have any data on it, it's going to be extremely hard to do learnings on it. But obviously you still can because if it didn't get spend, that means the ad is just trash and it didn't even qualify for meta to show it to other people. So you should still try to process learnings on it. But those are the hardest. The best case scenario is obviously if you have an ad that is obviously ripping. So if you have a winning ad..."
+    },
+    {
+      "start": 1054.72,
+      "end": 1082.38,
+      "text": "um like you should process learnings on it, you should try to figure out like why is it working, you should try to pull hypothesis of like you know like what are some like certain aspects of this ad uh that could be like you know making this ad do well, so like what are we saying in the hook, like what is kind of the bridge you know like towards the product and just try to try to like think about why this ad is doing so well right and then like on the other side you have ads maybe that got spent or maybe the ads that um you know like"
+    },
+    {
+      "start": 1082.38,
+      "end": 1109.58,
+      "text": "got some spam, they're like showing signs of performance and you know obviously this is kind of a similar ad that we have here and then obviously as well you need to figure out like what went wrong and what could you do better basically but obviously as well what are some things that this ad like what are some things within this ad that showed potential like what are some things that we could use for our future ads right so like that those are some things that we look at."
+    },
+    {
+      "start": 1109.58,
+      "end": 1139.38,
+      "text": "And obviously I kind of tried to break it down here for you on how we do it. But yeah, that was the first step, right? So now what I'm gonna do is I'm gonna play you, or actually I'm not gonna play the second ad. I'm gonna show you like what are some things that we did in between finding this kind of like running a script. So what I did is, like I said, we did learnings as a team. I kind of got this summary and I wanted to basically come up with another ad."
+    },
+    {
+      "start": 1139.38,
+      "end": 1163.65,
+      "text": "that will be better than this one, right? And so what I did is, let me pull up Claude. So obviously within the course you have the prompts for writing video ads scripts. If you don't know which prompts these are, so they are basically in this document, you should have access to it."
+    },
+    {
+      "start": 1163.65,
+      "end": 1192.59,
+      "text": "it's linked under a few videos in the course, but basically this is a prompt that's like 27 pages long and it's made to basically help you write scripts. All right, so I just took this prompt, I went into Cloud and the way the prompt is built is all you have to do is just like say run this prompt, it's literally that easy, paste the prompt, say run this prompt and then Cloud is going to ask and obviously you should be doing this within like a custom cloud project."
+    },
+    {
+      "start": 1192.59,
+      "end": 1222.48,
+      "text": "that has context about the brand, that has information about the brand. You should add like a break-to-advertising book, a break-to-advertising summary, and like any resource that you have in copywriting, you should add all of that inside the project's knowledge base. So like the project is very, very knowledgeable on the brand, on the customers, and obviously on the marketing techniques for, you know, like run and copy, and for just like in general marketing fundamentals, if that makes sense. Because this is also like,"
+    },
+    {
+      "start": 1222.48,
+      "end": 1251.68,
+      "text": "this is referencing the prompt and the prompt is specifically made to be used within the custom cloud project. So you can't just start a new chat randomly because this prompt is not going to work that well, so you need to have information about the brand. Once you run this prompt, what's going to happen is cloud is going to ask you what's the core idea behind this video ad concept and then what you do is you need to basically say what you want to do and this is what I did here. So now I'm just going to walk you through like"
+    },
+    {
+      "start": 1251.68,
+      "end": 1279.7,
+      "text": "like the thought process and some things that I identified and some things that I wanted to do based on the learnings that we had for the original video ad. So I just said we made an ad that had pretty decent initial performance but then died out after a week. It was a video ad targeting postpartum women. It was executed as a video ad with voiceover. Then I just said this is a transcript. I pasted and described the transcript and I just said these are the learnings that we had for this ad. I basically..."
+    },
+    {
+      "start": 1279.7,
+      "end": 1303.76,
+      "text": "I pasted the entire kind of learning section. I copied this and I pasted it inside the cloud so it has that context. So now you see how the call transcription is very valuable to have. So once we go back here and then the most important thing is you have to take time and you really have to think about what you want to do."
+    },
+    {
+      "start": 1303.76,
+      "end": 1326.4,
+      "text": "and you need to basically tell Claude what you want to do. It's literally that simple. So do some research and try to put into words what is it you want to do. And I'll kind of walk you through my thought process. So basically we think this ad got a lot of attention due to mentioning fat storing hormone and we position that hormone as a villain and the reason why they're retaining fat"
+    },
+    {
+      "start": 1326.4,
+      "end": 1356.69,
+      "text": "So we make them believe the problem is not them but this hormone. So like I kind of give it context like why I think this ad got a lot of attention, right? Because this is like a new mechanism like a fat storing hormone. However, the biggest issue I see with this is we introduce the product too quickly and the viewers are not really convinced this is what's really happening. So if we go back here and this is why I like kind of having the script as well next to the ad when I'm doing learnings because you can see kind of what's happening within the ad and"
+    },
+    {
+      "start": 1356.85,
+      "end": 1386.3,
+      "text": "Basically we say after birth women have 10 times the normal levels of fast storing hormone known as prolactin. Cold we kind of you know relate with them. People say it's easy to bounce back. The breastfeeding helps you lose weight but here's the truth no one tells you. That's why no matter how many calories you cut or how hard you go at the gym losing weight postpartum can feel impossible. So like we're just relating with them. We're showing them that we understand them. Then we say your body is hormonally wired to hold on to extra puffiness after pregnancy. So like"
+    },
+    {
+      "start": 1386.3,
+      "end": 1411.84,
+      "text": "this is like a new information that we introduce to them and like this is basically um we want to in we want to basically ingrain this belief in their mind and we want them to believe that this is what's happening but the problem is is that we didn't really do a great job of doing this like this is not really persuasive like we have one line here talking about this but like i feel like this is just like not strong enough and this is not persuasive enough"
+    },
+    {
+      "start": 1411.84,
+      "end": 1439.5,
+      "text": "for these women to believe that, you know, this is actually a problem. And not that this is actually a problem, but like this is what's actually happening. I feel like we could have done a much better job at doing this. And then what we have is, and it's common for this to last for months or even years for some women, so like we're kind of digging in the knife, right? So like we're, you know, we're trying to make this problem seem even bigger than it is, if that makes sense. And then it has nothing to do with your willpower. It's all about your hormones."
+    },
+    {
+      "start": 1439.5,
+      "end": 1468.86,
+      "text": "And then we just say that's where medical comes in. And this for me is just like a huge disconnect. Like I feel like these women here at this point in the script are still not ready to introduce the product. Like we still need to explain like it's all about your hormones. Okay, but like what about hormones? Like what's happening with the hormones? Like why is this happening? Like is there something I can do about it? Like you know, maybe talk about like are there other solutions?"
+    },
+    {
+      "start": 1468.86,
+      "end": 1497.41,
+      "text": "We kind of skipped a part of the script I feel like and we went straight to the product and this is probably where a big disconnect happened and where a lot of women who probably weren't as educated on this topic dropped off because they didn't understand what's happening. So I feel like before we introduce the product we need to have a lot more education going on and we need to basically"
+    },
+    {
+      "start": 1497.41,
+      "end": 1525.31,
+      "text": "we need to do a better job at writing copy that kind of convinces them that you know like the real problem are hormones which I'm going to show you how I did but basically this is what I identify with when kind of just like looking at the script and you know just like trying to put myself in the shoes of a customer I realized that you know this is just like we're forcing the product too soon and like the viewer is probably not ready to be introduced the product yet."
+    },
+    {
+      "start": 1525.31,
+      "end": 1554.83,
+      "text": "So obviously I mentioned this, so like however the biggest issue I see with this is we introduce the product too quickly and the viewers are not really convinced this is what's really happening. So I just said so we need to be much more persuasive when writing about this hormone, we need to make it believable but also super easy to understand. The script should talk in our customer's language, not be too complicated, before mentioning the product we should introduce the mechanism. So this is like one thing that we also noted when we were doing learnings"
+    },
+    {
+      "start": 1554.86,
+      "end": 1583.18,
+      "text": "If you notice we say like that's where Metaglow comes in, it boosts GLP-1 to reignite metabolism and we don't really mention like how it does that, we don't really mention a unique mechanism. Like in some other ads we did, it obviously does that through like an ingredient that's called Diaglomera and but for whatever reason we just didn't mention Diaglomera and we didn't mention like that unique mechanism that we have and that we can leverage."
+    },
+    {
+      "start": 1583.18,
+      "end": 1611.26,
+      "text": "in this ad for whatever reason, we just didn't mention it. So what I said here is, and in this case, we believe we should have mentioned DiGlomera earlier in the ad, so I don't know why I wrote this, like we kind of didn't even mention it, like okay whatever, and we want to use that as a new mechanism and Metaglow is the only marine collagen that has DiGlomera, so we should have to leverage that information to build authority."
+    },
+    {
+      "start": 1611.26,
+      "end": 1638.37,
+      "text": "before we get to product, we should definitely leverage the mechanism of this new ingredient and we should talk about, scientists discovered this ingredient that boosts the opposite hormone that negates this one and then we make them believe that there is a solution. There is a solution to this new problem that we just introduced to them. So that was the thinking behind that."
+    },
+    {
+      "start": 1638.37,
+      "end": 1668.37,
+      "text": "And then I just said that Glomera basically naturally boosts GLP-1 and that helps your body burn stored fat easier. So even though this Cloud Project has all of this information inside here and this Cloud Project should know all of this, I still mention it here because this is a point that I want to mention within the ad. So that's why I'm mentioning it here because I want Cloud to have emphasis on this, if that makes sense."
+    },
+    {
+      "start": 1668.53,
+      "end": 1698.46,
+      "text": "And then once I kind of gave it context on like what are some key learnings that I even identify myself and just like summarize the learnings that we have for the ad. What I said is what I want you to do now is use Brave MCP to go to Reddit, do some research around what are these women, postpartum moms, saying about their weight loss journey, what problems are they facing, what are they talking about, how are they feeling, et cetera. So you get a better understanding of the target audience we're making this ads for, right? So I'm telling Claude, hey,"
+    },
+    {
+      "start": 1698.46,
+      "end": 1720.74,
+      "text": "And the reason why I'm telling Cloud to go and do like even more research on this is so basically I truly believe that like Cloud needs to like and like AI needs to get warmed up. So like before I kind of get Cloud to write scripts I wanted to do research and I wanted to basically go through some information and to get data on like"
+    },
+    {
+      "start": 1720.74,
+      "end": 1744.11,
+      "text": "on the customer and on the avatar and on basically the information that Cloud is going to use to write the script. So that's why I'm making it do research. I always do this because when I do this, I just tend to get much better results when writing scripts. So I could just say, based on all these learnings, write a new script, but then I wouldn't get that good results."
+    },
+    {
+      "start": 1744.11,
+      "end": 1769.28,
+      "text": "So that's why I just like tell Claude to just like, you know, go and do additional research because that's just gonna help it understand the avatar better and it's gonna help it understand like how are they talking and like the problems they're talking about and stuff like that. It's gonna be much, much more effective at writing copy for that specific avatar then. That's why I always do it. And then what I said, then based on that research..."
+    },
+    {
+      "start": 1769.28,
+      "end": 1796.94,
+      "text": "You did and all of the information I just gave you. I want you to write a better script that will have a similar structure to the previous one since it showed potential but make it much more persuasive. Build a narrative in the ad and make women believe that they're struggling with weight loss due to prolactin. Position Diaglomera as the solution and a new mechanism that boosts the other hormone, GLP-1. And then mention how Metaglow is the only marine collagen that contains Diaglomera and gradually funneled towards the product. And by the way, this is actually..."
+    },
+    {
+      "start": 1796.94,
+      "end": 1823.97,
+      "text": "So this is actually true. This is actually validated. They hold a trademark for Diaglomera. So that's why obviously we're kind of leveraging this information to build authority within the ad. So that's what I wanted to do. So just sum it up one more time. The entire idea of this ad will be to build narrative around how hormones are the main source of this problem these women are facing and their product is the solution. I want you to execute this new script as an organic text."
+    },
+    {
+      "start": 1823.97,
+      "end": 1851.15,
+      "text": "text on screen concept. If I didn't write this, Claude would just ask like once I give it the idea it would ask me how do you want me to execute this ad. Obviously if you watch the video on like how to write video ad scripts you will understand how the prompt is built but basically because I said this it wrote a script and like kind of this organic text on screen style script if that makes sense."
+    },
+    {
+      "start": 1851.15,
+      "end": 1881.09,
+      "text": "hopefully this gives you like a better idea of kind of what are some things that that I did what are some kind of learnings that I even processed myself while I was writing kind of a prompt for to write a new script and basically now you see how this script could have been much more persuasive it could have been much much better and like these are the things that you identify only when you really go like super deep on doing research on doing learning sorry and when you go super deep on just like"
+    },
+    {
+      "start": 1881.09,
+      "end": 1910.96,
+      "text": "closing the feedback loop on your ads that you did, right? So like, this is not something that you, like we would never catch this. I would never catch this and I would never come up with a winning script if I didn't like go super deep on processing learnings on this kind of losing ad that we had, right? Like this ad would never come to life if I didn't do this, right? So like now you see how important that is and I wouldn't be able to just like give Claude so much context and so much information if I didn't do that, right?"
+    },
+    {
+      "start": 1910.99,
+      "end": 1941.04,
+      "text": "So that's kind of the process that I do always when I'm kind of writing scripts, when I'm trying to just like do iterations or just like write scripts from scratch. Always like I take like 15, 20, 30 minutes. I do my research. I try to do learnings and I try to basically build a like guidelines for cloud on what to do. And I try to like give it as much information and as much context as possible. As you can see,"
+    },
+    {
+      "start": 1941.04,
+      "end": 1968.27,
+      "text": "I could have just said, here's the previous script, here's the learnings that we had for it, bam, write me a better script. And I would probably get shitty results. And now you can see how, because I put so much attention and I put so much information and context within this prompt, that's what gave me a pretty decent script, not gonna lie. And that's what's gonna give you best results."
+    },
+    {
+      "start": 1968.27,
+      "end": 1990.02,
+      "text": "I believe it's like at this point, like I'm recording this on like 23rd October 2025, I will say at this point it is really really hard to like one-shot prompt a script for a video ad. Like I will say it's very very important to have a human input and it's extremely important to just like..."
+    },
+    {
+      "start": 1990.02,
+      "end": 2016.4,
+      "text": "Like, you need to be the one that's knowledgeable. You need to be the one that's telling Claude what to do, right? And then you just use Claude as a tool. A lot of people are trying to use Claude as their fucking creative strategist, but that's not how it works. You need to use Claude and AI as a tool. So, obviously, this is how I do it, and, you know, this is kind of the process and what went into it. And then, like, the prompts that I used at the start, obviously."
+    },
+    {
+      "start": 2016.4,
+      "end": 2043.15,
+      "text": "It's built to give you like six different hooks. So like it gives you six different hook ideas Then it gives you the whole script and then it gives you like a strategic breakdown of like how the script is written and like how How the script looks like and then one thing that I forgot to mention So like usually what I do is like in this part where I mentioned that it should go on Reddit It should do research to kind of you know get familiar with the avatar and like how they're talking"
+    },
+    {
+      "start": 2043.15,
+      "end": 2070.96,
+      "text": "And one reason why I do this as well is because then once Cloud does the research on this, it kind of picks up their language and it picks up like how are they talking about specific things. So it can then use that language and use those words, maybe some niche terms that they use when writing script, which is obviously super, super important. But like what I mentioned here as well is that it should give me a source link of like Reddit threads that it goes through so I can, you know..."
+    },
+    {
+      "start": 2070.96,
+      "end": 2095.63,
+      "text": "go and do more research myself. So I kind of forgot to do that, so I just asked it, can you provide me with source links for the Reddit research you did, so I can take a look and do more research myself. And then it's going to give you links to a bunch of Reddit threads that it went through. And if you open these Reddit threads, you will see that they are actually very, very dulled. So for example, postpartum weight loss success stories, question mark."
+    },
+    {
+      "start": 2095.63,
+      "end": 2123.63,
+      "text": "like 505 upvotes, 267 comments. So literally what I would do now is I would take like 5, 10, 15 minutes and I would go through some of these links and I would just like try to get familiar with what's going on, right? So like up until this point, so like from the point when I said run this prompt to like when I get to this, I would say like it probably took me"
+    },
+    {
+      "start": 2123.63,
+      "end": 2152.86,
+      "text": "maybe like 30-45 minutes, right, to do this properly, to really take my time, to write all this out, to make sure that it makes sense, to make sure that I provide enough context. And then, you know, obviously, once I get the response, then I usually kind of go and validate if the research that Claude did is good. And just so I can, you know, like learn things, so I can, you know, become even knowledgeable when I'm doing all this. And obviously, you will see that..."
+    },
+    {
+      "start": 2152.86,
+      "end": 2181.01,
+      "text": "Like a lot of these Reddit threads contain just a lot of very, very useful information, a lot of experiences that these women kind of deal with. And then, and this is very important to do for the next step, what I then do is I literally, I don't even look at the script here. I just take the entire script. I go into Millennial or Google Docs or whatever you're using to just build."
+    },
+    {
+      "start": 2181.04,
+      "end": 2203.58,
+      "text": "to build briefs and to build scripts for your team, I would go here and I would read this entire thing line by line and I would go and I would try to think, does this make sense? And is this script structured well? Is it written well? And I again try to put myself in the shoes of the customer and I basically try to think, for example, like..."
+    },
+    {
+      "start": 2203.58,
+      "end": 2232.34,
+      "text": "are we talking about the problem good enough? Are we explaining the problem good enough? Then once we get to the part where we're explaining that the real problem is this kind of hormone, are we doing that well enough? Then is the bridge from presenting the new problem to the product, is it good enough, is it better? And I just try to think how would the viewers watching this ad feel like and are we basically taking them"
+    },
+    {
+      "start": 2232.34,
+      "end": 2261.71,
+      "text": "through an emotional journey well enough, or the script needs to be fixed within some certain aspects. And then if I, for example, see that, I don't know, just like random, I see that we're, again, kind of introducing the product too early, we kind of didn't explain the problem clearly enough, I would just go back to Claude and I would say, I like this, I think this is a good start, but I think this part of the script can be better because of this, this and that. And I just try to basically"
+    },
+    {
+      "start": 2261.71,
+      "end": 2288.27,
+      "text": "use Claude to like make the script better but like the key thing is that I take it outside of Claude, I put it inside of here and I try to basically write it myself and I try to build it myself basically. So like that's very very important and obviously doing this research on Reddit and doing kind of this step is what's gonna help me do this better, right? Because I'm gonna be in the zone, I'm gonna be you know like"
+    },
+    {
+      "start": 2288.27,
+      "end": 2313.04,
+      "text": "like I'll be reading stuff here, maybe I'll get some new ideas that I want to do when I'm writing a script and whatnot, and it's basically gonna help me write a better script, right? So like that's what I did for the script and that is, whoops, that is basically kind of the process and the method that I used to write this new script. So now I'm gonna..."
+    },
+    {
+      "start": 2313.04,
+      "end": 2446.62,
+      "text": "Now I'm going to play the ad and then I'm obviously going to kind of compare it to the previous one. I'm going to show you some of the biggest differences. You're probably going to notice some differences yourself. But yeah, that's pretty much it. I'm going to play that now. Okay, so basically the kind of first three things that you probably noticed when you"
+    },
+    {
+      "start": 2446.62,
+      "end": 2474.67,
+      "text": "uh when you saw this ad is number one it is a text on screen ad uh which is obviously you know different than a voiceover that we have here uh which i'll explain why we did that um the second thing the ad is much longer so like this is almost two minutes um this after birth is a minute long so like double and then the last thing is that we mentioned the product i think somewhere around like here i would say yeah"
+    },
+    {
+      "start": 2474.67,
+      "end": 2499.3,
+      "text": "Metagol is the only supplements like like minute and nine minute and 20 seconds into the ad that's only that's when we mention the product and here I believe it's like half into the ad yeah as you can see so like we're halfway through the ad and we're already mentioning the product so like the script is longer because it obviously takes longer to kind of you know explain certain things and especially when you're trying to do like text on screen concept"
+    },
+    {
+      "start": 2499.3,
+      "end": 2526.69,
+      "text": "And we just kind of wanted to, I wanted to be more persuasive when doing this, if that makes sense. Which was the biggest learnings that I had when I was going through the script. So the hook here says, here's why gaining weight postpartum is normal. Now I can't take credit for this hook. This was an idea from our creative strategist Kat. So I have to give props to her for coming up with this hook."
+    },
+    {
+      "start": 2526.69,
+      "end": 2556.69,
+      "text": "but like why the circus genius is because as you probably know through research and I kind of talked about this like throughout the video is like these women are kind of you know gaining weight and they're breastfeeding and that's like the main reason why they're retaining weight if that makes sense because their body as we say here their body thinks like they need reserves for breastfeeding that's why it happens and and so like so we're like how can we use this information to like"
+    },
+    {
+      "start": 2556.69,
+      "end": 2584.75,
+      "text": "make these women feel like they're understood. And like we just kind of did something that's like completely different than what everyone else on the market is doing because everyone's saying like, oh, here's how you can lose, I don't know, 20 pounds in like four weeks or whatever. But like we're saying, here's why gaining weight postpartum is normal, right? And that's just like a completely different swing than everyone on the market. And like when women see this, they're like, huh."
+    },
+    {
+      "start": 2584.75,
+      "end": 2610.66,
+      "text": "Is it normal? Like, is everything fine with me? And they get emotionally invested in the ad. That's why this hook is so, so good and it works so well. Because we agree with them and we basically make it in question. We make it in question things and they get very, very curious, right? And they get emotionally invested in the ad. And once we have their emotions, once they're emotionally invested in the ad, we can"
+    },
+    {
+      "start": 2610.66,
+      "end": 2640.61,
+      "text": "guide their logic wherever we want to and obviously we want to guide their logic to buying our product so like that's that's obviously what we want to do so like I was kind of trying uh trying different hooks around obviously uh like the mechanism of like fat storing hormones so like um I honestly kind of remember like what the other hooks were uh but like um I was trying some like you know introducing new mechanism getting them curious that way and then follow and then kind of starting the story uh but like this one um that we did just like"
+    },
+    {
+      "start": 2640.61,
+      "end": 2669.09,
+      "text": "performed the best out of all the other hooks that we tested, and it makes sense why. And then the rest of the script, I'm just gonna walk you through the script quickly. So that baby weight has nothing to do with willpower, so like we're agreeing with them and we're basically showing them that we understand them right away, like in the second line of the ad, whereas here it kind of took us a bit longer to get there, right? Here it's a fat storing hormone."
+    },
+    {
+      "start": 2669.09,
+      "end": 2697.84,
+      "text": "called prolactin, so like right away we're introducing a new mechanism, we're introducing a new problem, right, so like we're kind of trying to educate them on like what is prolactin, that is what we're doing here, so like we introduce like prolactin and then we say after birth, prolactin spikes to 10 times normal levels, like we kind of say you know like this is what happens after birth, that's why it's normal, and high prolactin makes your body hoard fat, it thinks you need reserves for breastfeeding, so like you can see how"
+    },
+    {
+      "start": 2697.84,
+      "end": 2717.14,
+      "text": "All of this just makes sense. Like all of this from like a postpartum mom experience, all of this just makes sense. And they're fucking dull watching the ad, right? So like we're taking them through this emotional journey and it just makes sense. Like the script is very, very well written, right? So like at the same time, new mom stress keeps cortisol high."
+    },
+    {
+      "start": 2717.2,
+      "end": 2745.68,
+      "text": "So like again, we're kind of still agreeing with them. We're showing them that we understand them. So like this is probably like you mom stress is probably something that Claude picked up when doing research on Reddit. That's why I kind of do that step. And then here prolactin plus cortisol equals metabolism hijacked. No matter how no matter how little you eat or how hard you exercise, your hormones are working against you. So like here we're kind of again like making the problem even bigger than it is. We're you know like digging in the knife."
+    },
+    {
+      "start": 2745.68,
+      "end": 2775.33,
+      "text": "And then this can last months even years for some women. But then we obviously start talking about the solution. We introduced like a completely new mechanism. But here's what changes everything. Scientists discovered boosting a specific hormone GLP-1 can help your body burn stored fat, right? It's like here we have a we first have like a villain hormone that is you know like the problem. And now we present that you can boost like a specific hormone that can help your body burn stored fat, right? Which is GLP-1."
+    },
+    {
+      "start": 2775.33,
+      "end": 2804.67,
+      "text": "think of it and then we explain it. Like the reason why I love writing scripts with Claude is honestly like sometimes it comes up with like these crazy explanations and like crazy kind of things on how to visualize things and how to explain this in very simple terms and honestly does it better than you know like I would came up with honestly. So like I really like this edition of like think of it like this prolactin is screaming eat everything, GLP-1 helps you say no to cravings."
+    },
+    {
+      "start": 2804.67,
+      "end": 2832.26,
+      "text": "So this is super relatable and this basically explains why the things that are happening with their body are happening. This gives them an explanation. So their body can finally let go of the extra weight. I think this kind of break line should be here. The problem is most supplements don't actually boost GLP-1, but researchers found one ingredient that does."
+    },
+    {
+      "start": 2832.26,
+      "end": 2859.87,
+      "text": "Diaglomera increased GLP-1 by 56% in clinical studies and Metagl is the only collagen supplement that contains Diaglomera. So like this is a sick bridge to introduce the product. So like you see how like we're building a narrative to introduce the product, right? So like this is much much smoother product introduction than what we had in this ad. It was abrupt and it didn't make much sense whatsoever. And here"
+    },
+    {
+      "start": 2859.87,
+      "end": 2884.72,
+      "text": "We kind of present DiGlomera, and then we say, oh, and by the way, Metaglow is the only collagen supplement that contains DiGlomera, right? So, like, it makes, like, it just, like, makes sense for them to get the product now because they understand the problem. They understand that, you know, like, why they're gaining weight and retaining weight is because of their hormones. We present the solution that, you know, they could actually boost a different hormone that can, you know, negate this one."
+    },
+    {
+      "start": 2884.72,
+      "end": 2905.95,
+      "text": "And you can do this naturally and the only product that can help you with that is Metaglow, right? So just buy Metaglow, right? And this is not an ungeneric collagen and then we kind of talk about some other product benefits of how Metaglow works. Obviously, we have some solution proof."
+    },
+    {
+      "start": 2905.95,
+      "end": 2934.8,
+      "text": "and then what I like here is your hormones created this problem, Metaglow is the hormonal solution. I really like this line and then try it 60 days risk-free because real results take time and we know that. So like super strong CTA and it's just like this like now you hopefully see like I won't kind of talk about the differences but like now we hopefully see how this script is much much more persuasive than this one."
+    },
+    {
+      "start": 2934.8,
+      "end": 2960.98,
+      "text": "And it just makes sense now why this ad is doing so much better than this original one. And now here I have some learnings that we did on this ad. So the winning hook here is here's why gaining weight postpartum is normal. What's really interesting is that this concept is just text on screen with music, no voice over at all. We made it way slower than our usual ads too which gives people time to actually process what they're reading."
+    },
+    {
+      "start": 2960.98,
+      "end": 2989.42,
+      "text": "And the reason why we think this is working so well and the reason why we decided to make this ad in like as a text on screen in the first place is because we've obviously noticed pattern within like multiple different brands that text on screen ads are just like doing super well right now for us. And you know, we had some other ads for this brand as well that were text on screen and they had like good soft metrics. So like good hook rates, hold rates."
+    },
+    {
+      "start": 2989.42,
+      "end": 3012.94,
+      "text": "like I don't know like 15% hold rates or something like that and that just like showed us that okay like this audience for whatever reason they like to they just like to digest and watch text on screen ads so like it made sense to make this one text on screen as well that's why I decided to write the script as a text on screen concept and the biggest reason like why"
+    },
+    {
+      "start": 3012.94,
+      "end": 3042.85,
+      "text": "I think these text on screen ads work is, I actually wrote a tweet about it, but the biggest reason why I think that's happening is, I kind of won't go into details if you want, you can kind of read through this post, but basically it's because when people are watching text on screen ads, like maybe you did the same thing when you were watching this ad that I played, when you're reading the script, when you're reading the text on screen, you're kind of reading it with your inner voice."
+    },
+    {
+      "start": 3042.85,
+      "end": 3067.55,
+      "text": "And then when they're watching ads, they're not just watching, they're not just listening to someone selling products, they're literally selling the product to themselves. So this is kind of the biggest learning that I have for this and the biggest reason why I think these ads do so well, like text on screen ads, because people are literally almost participating in the ad because they're reading the ad for themselves with their inner voice."
+    },
+    {
+      "start": 3067.55,
+      "end": 3096.96,
+      "text": "And they're probably just like processing the ad much, much better than if you just like have someone like a UGC creator or something or like an AI voiceover selling them the product, right? This way they're selling the product to themselves. So like that's just like one crazy bit of sauce here for like text on screen ads. And like they literally do work for like multiple brands for us right now. And obviously now we see kind of how we're executing them. And by the way, this ad here was executed with an AI voiceover."
+    },
+    {
+      "start": 3096.96,
+      "end": 3123.26,
+      "text": "But the second biggest thing is that we're taking the complete opposite approach from everyone else in the market. So instead of promising quick postpartum weight loss, as you know, like everyone is doing, we're basically saying, hey, you know, like gaining weight postpartum is totally normal. Here's why it's happening. So like we're educating them. We're basically like when they're watching our video, they are also like getting value. That's why like, you know, this video probably has a very good hold."
+    },
+    {
+      "start": 3123.26,
+      "end": 3150.35,
+      "text": "hold rates and very good soft metrics. And then the main concept and the main purpose and the main reasoning behind this ad and behind this script is that we position prolactin as a villain hormone that stores fat and then we bring in the GLP-1 boosting as the solution. So we basically give them an explanation of why their problem is happening, we educate them."
+    },
+    {
+      "start": 3150.38,
+      "end": 3175.89,
+      "text": "And the most important thing is that we're doing it in a simple way like this like everyone could understand this, right? One thing that I can like one tip that I can give you is like for every script that that you're writing Go to go to Hemingway go to Hemingway app and Try and just like paste in your script and your like readability your grade should be"
+    },
+    {
+      "start": 3175.89,
+      "end": 3197.44,
+      "text": "at least grade 6 or below. We usually aim for even lower than that, but if your readability is grade 11, 12, whatever, and you get a lot of red things highlighted here, your script is probably too complicated and people will not be able to understand it. So you need to make sure that your script is super easy to understand."
+    },
+    {
+      "start": 3197.44,
+      "end": 3216.05,
+      "text": "and that it's written in a language that your target audience would understand. That's why it's super important to tell Claw to do research and to do research yourself so that you can effectively write copy for the audience that you're making the ad for. Super, super important."
+    },
+    {
+      "start": 3216.08,
+      "end": 3245.55,
+      "text": "So that's that and then yeah, but we're not over promising we even mentioned that results take time in the CTA the whole flow goes from meeting them where they are emotionally frustrated but it's not their fault and then then we educate them on the hormonal changes then gradually introduce the product as a gentle solution. So like this is the anti-hype approach and the big learning here is that radical honesty and meeting women where they actually are is beating out all the high-energy promise heavy stuff that we usually see."
+    },
+    {
+      "start": 3245.55,
+      "end": 3274.96,
+      "text": "in this market so like this is like a specific kind of angle or approach that did well for us doesn't mean that it's gonna that it's gonna do great for like every single product and every single market i would say like the biggest reason why it's like doing well for for this product and for this avatar in particular is because like moms in general and like postpartum moms um are very kind of i would say sensitive and they don't really like like negativity they don't really like negative marketing so like if you're saying to them"
+    },
+    {
+      "start": 3274.96,
+      "end": 3299.57,
+      "text": "you're fat because of this, this and that, they're just gonna get offended. They will not watch the ad, they will not watch the video because they don't want to listen to that. So you need to find a way to make ads that are relatable to them and that they like to watch and that they enjoy watching. So this is exactly what we did with this ad right here."
+    },
+    {
+      "start": 3299.57,
+      "end": 3325.81,
+      "text": "This was it. I did not intend for this to be like 50 minutes long so I do apologize but I hope you find the value from this and I hope this helps you write winning ads and winning scripts yourself. I try to give as much value in the sauce as possible and obviously if you have any questions around script writing or just like in general writing ads and whatever, you can always reach out to me."
+    },
+    {
+      "start": 3325.81,
+      "end": 3331.86,
+      "text": "um in discord um yeah that is pretty much it thank you for watching and i'll see you in the next one"
+    }
+  ]
+}

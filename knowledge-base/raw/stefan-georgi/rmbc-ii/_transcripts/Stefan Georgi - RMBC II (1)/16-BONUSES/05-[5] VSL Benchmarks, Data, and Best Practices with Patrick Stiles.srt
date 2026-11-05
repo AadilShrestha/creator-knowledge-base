@@ -1,0 +1,499 @@
+1
+00:00:00,000 --> 00:00:28,830
+Watch time, like how long people go through a video, like how the links of videos, all these sorts of things I think are really valuable. So, always appreciate Patrick. I've known him now for a long time, almost like a decade now, honestly, which is pretty wild. Like pre-Vitalytics. Yeah, pre-Vitalytics. Yeah, yeah. And as I always say, you ask me, like, I want to invest in it, and then I said, you know, I don't have the bandwidth right now, and then kind of regretted that, but it's okay. But it's been awesome to see what you've done with it, you know? And so...
+
+2
+00:00:28,830 --> 00:00:58,510
+Yeah, without further ado, please welcome Patrick Stiles. Thanks, Stefan. So, yeah, like he was saying, I spoke about six months ago at the first or last Mastermind. And, you know, Stefan was like, hey, does anybody want to talk? And I was like, I always want to talk because I can't shut the fuck up. And he was like, well, do you have anything new? I was like, yeah, we definitely have some things new. And he was like, and I showed him. He was like, cool, let's do it.
+
+3
+00:00:58,510 --> 00:01:28,000
+But then since then, I was like, no, I really got to bring the heat. And we have basically kind of revamped this report. So if you heard me talk before, hopefully this is still going to be enlightening and some new stuff that's interesting. And I've also kind of repackaged this data instead of just being like, here's a bunch of numbers of really kind of turning it into more of a playbook where it's like we have benchmark data across all these different BSLs. And the idea is like, where are you?
+
+4
+00:01:28,000 --> 00:01:54,460
+and then, like, what are your numbers, and then what to do next sequentially, you know, basically, you know, going from the easy wins, like the stuff that's just, like, clicking a button or, like, exporting a video in a different format to the stuff that's going to be a heavier lift. So, and basically, I would bet anybody that the stuff I'm about to show you would increase your conversion rates. I'd bet you a thousand bucks easy. So, I'll talk more about that later. And why am I so confident?
+
+5
+00:01:54,460 --> 00:02:23,790
+been making VSL since 2010. I didn't even know what a VSL was. I just wanted a video on my landing page. I didn't realize it, but that was probably one of the first VSLs in the world. It's funny, a lot of people in the game today, they've been in this, you know, like two, three, five years, and that's fantastic. I mean, it's really cool to see people crushing it. But, you know, it's been a while for me. So, founded Vitalytics with my ex-wife. Obviously, she's this one.
+
+6
+00:02:23,790 --> 00:02:53,040
+This is in Austin last year. This is us in Poland last year. She lives in Poland. God knows why, but that's her decision. So she just got engaged. I don't know if even Emily or Jackson know that. Some of my teammates here. But yeah. Yeah, she just got engaged to a Polish guy who is also crazy. And he's named Piot, like Peter. And so we call him P2.
+
+7
+00:02:53,330 --> 00:03:22,580
+So anyways, these are some of the people that we work with. Primal Health is in the room. I know several other people in the room use Vitalytics. But the data that we're sharing with you is, you know, it's based on our entire platform. As much as we're able to clean it and kind of extract the signal from the noise, but it's based on these people's data. And as you've seen, basically this is, we estimate that the videos on Vitalytics have driven about $3 billion in sales.
+
+8
+00:03:22,670 --> 00:03:48,940
+All right, cool. Something else. This is a little bit of an aside, but normally when people come over to Vitalytics, they split test us. And we've learned that we want to insert ourselves in that process because when we're involved, when it's a fair fight, we win. So we bring in our engineers and we do a bunch of audit just to make sure the data is going to be clean. But I've personally audited over 100 split tests, and every single time we've found a problem.
+
+9
+00:03:49,010 --> 00:04:14,110
+So if you want to talk about split testing or anything like that, I don't have split testing software or anything to sell in that space. That's just like a free thing that we do to just like win, you know, users. But that's something that we can talk about. So anyways, let's dive into some data. So first things, are your conversion rates below average or where are they at? So on all videos across Vitalytics where we're able to detect the conversion tracking.
+
+10
+00:04:14,110 --> 00:04:39,230
+or they have Vitalytics conversion tracking set up, the average conversion rate is 1.78. This is actually a little bit higher. We have some more data on this. Book a call has stayed kind of flat around 8%. And these are the trends. So in 2023, it was 1.2. All time is 1.56. The last six months is 1.78. So the number we're just sharing.
+
+11
+00:04:39,230 --> 00:05:07,260
+And this is kind of a more robust sample size because basically 2025 is basically we're two months into the year for all intents and purposes. But 2025 so far is 1.5. So this is kind of bouncing around a little bit. It does seem like the trend is going up. Something that I was thinking about with this is that it's the first quarter, right? And the majority of our users are health advertisers. They have some sort of health product. And we see it on December 26 every single year.
+
+12
+00:05:07,260 --> 00:05:36,260
+the volume just starts ramping up. And, of course, during the holiday season, people are getting fat and they're not buying, you know, health products, whether it's weight loss or not. So that might be kind of the reason why this is lower. But, you know, overall, I do kind of see, like, conversion rates going higher, which I found to be interesting. And some of this stuff, like, even things that I was sharing, like, six months ago, like, we actually were like, oh, yeah, we think VSLs are getting shorter. And we, like, went and looked at the data and we're like, oh, no. So, like, that's actually not the case. So that's kind of some of the stuff that I'm going to be sharing.
+
+13
+00:05:36,260 --> 00:06:08,300
+So engagement rates by niche. I'm not going to read all these, but I am curious, like, who here is running a VSL? So maybe like two-thirds or so of the room. Gotcha. And I don't know why, but golf is really low. We like went back and verified this number. It went up by like two one-hundredths of a percent. BizOp, these are probably a lot of book a call people. Who here is running a book a call funnel? Okay. So like maybe six people.
+
+14
+00:06:08,300 --> 00:06:37,650
+Gotcha. That's pretty good. I was at the Financial Marketing Summit, and I asked that question. It was like one person. And I was like, all right. We're going to skip over that stuff. Highest converting traffic sources. This is the data that we have. So Meta's 1.87. YouTube's below a percent. Google Paid is, you know, whatever. The interesting thing here is Google Organic is 8%. What I think is really interesting is how is a Google Organic click even making it to a VSL? So, you know, but that's something.
+
+15
+00:06:37,650 --> 00:07:04,370
+Yeah, go ahead. Do you think some of that's just like a lack of attribution? Because I know we see that a lot of times with our businesses where with Git then we're really doubted now, but even with Opal where our guy gives us a daily CPA, like we track a bunch of stuff and he's always like, Google organic. And we're like, none of that's actually organic. It's like people saw a video that, you know, whatever it is, like they come back. So I'm curious, do you think that's sort of skewed by people just searching for brands that already saw a VSL or ad or another?
+
+16
+00:07:04,370 --> 00:07:33,070
+Funnel, things like that. 100%. So like how our conversion tracking works and pretty much probably any conversion tracking works is that somebody watches the video and then they convert after it. And then you have a conversion window. So it could absolutely be coming through that like branded search traffic. So yeah, so in fact that actually makes a lot of sense where maybe they're not actually searching whatever, winding up on a BSL and then converting. So yeah, that could be kind of a little bit of noise in there. TikTok's super low, which is surprising.
+
+17
+00:07:33,360 --> 00:08:03,870
+And then conversion rates by medium. Basically, you know, affiliates convert, you know, one of the best here. We have organic, which Stephan was just talking about, you know, might be kind of like thrown off. Organic here is going to include search, social, and something else, but just being a bunch of like the random stuff. And then email and paid. And I would say the vast majority of traffic on Vitalytics is paid traffic.
+
+18
+00:08:03,870 --> 00:08:33,660
+I don't have that pulled up, but that's where that would land. I might have shared this last time. Out of geographies, it's really interesting because Africa and the US have almost the same engagement rates. We found a correlation between engagements and conversions, but Africa converts at one-fourth that of the US or North America. The lesson there, I think, is that if you have any traffic,
+
+19
+00:08:33,660 --> 00:09:03,490
+you know, coming from the African continent, you know, geo-detect it and drive it to some offer that's gonna convert better. Like, you know, if you can just find like an affiliate offer or something like that, that's kind of like primed for that space. I don't know why people on that continent are necessarily watching VSLs. I find it very interesting that they're engaging with them and they actually wanna consume that content, but then they're actually, you know, probably not even able to get the product in a lot of cases, you know, or process a credit card or anything like that. Europe is converting.
+
+20
+00:09:03,490 --> 00:09:33,330
+about 30% higher than North America. And we're seeing this a lot with companies like ship offers that are opening up facilities in Europe, and that's kind of lagging behind North America, of course, the capitalistic mecca of the world, where this is the most ferocious, aggressive, basically, market. And there's pros and cons to that, but a lot of people are basically taking tactics that work here and then duplicating it over into the European market.
+
+21
+00:09:33,330 --> 00:10:03,980
+So that's like an arbitrage kind of thing that is an interesting play. For conversion rates, the best converting countries, Spain, France, Italy. So part of obviously the EU. And then the worst converting countries, Nigeria, India, and South Africa. I don't know if anybody is trying to target those countries, but fun fact. What is interesting here, the difference between these, right, is that basically,
+
+22
+00:10:04,020 --> 00:10:33,020
+You know, there's a little bit of like movement on the top, you know, countries for engagement. And again, we found around a 28% is the current correlation between engagement and conversions. Before it was like 33%. So it is kind of dropping and we see that kind of dropping over time. So I'll talk more about that. But something that's interesting here is that the engagement in Brazil and Singapore is quite bad. While, you know, they're not necessarily the worst converting countries.
+
+23
+00:10:33,020 --> 00:11:01,740
+So if you're targeting those places, which is actually probably more likely than, you know, Nigeria for this room, is that, you know, these people are watching videos less, but they're still, but it's not necessarily impacting the conversion rate as much. So there's a weaker correlation between those two different metrics. So if you're targeting those places, and you're trying to optimize your VSLs, then you would want to, like, you know, kind of pay a little bit less attention to engagement, and especially engagement benchmarks that I'm going to talk about, where I kind of take it with a grain of salt. So.
+
+24
+00:11:01,810 --> 00:11:23,790
+If you're below those benchmarks, these are some easy things to do. So slapping controls onto the video. This is something that surprised me because, you know, normally it's like strip away all distractions. Don't let anybody have anything. But we found that when videos have the rewind, the volume, the quality controls, the speed controls, they have higher conversion rates. Now, I want to be clear here. These aren't split tests.
+
+25
+00:11:23,790 --> 00:11:52,060
+So this isn't like we went out and we tested turning on this feature and turning off this feature. This is just we looked at videos with this turned on and with it out turned on when we were able to tell their conversion rate and then was there basically a signal there that we thought would translate to a best practice. Because there's pretty much always going to be a higher impact split test that you can do than testing the volume control on your player.
+
+26
+00:11:52,060 --> 00:12:25,120
+pretty much always going to be that. So nobody's really going to get around to like split testing this level of detail. So basically, when in doubt, go with the best practices. So this is what we tell people to do. We would say that it's like, you know, kind of like a nice to have sort of thing. So if somebody feels strongly, we're not going to argue with them about it. But, you know, left to our own devices, if we're setting up a video for somebody, you know, this is what we would turn on. So this is, yeah, yeah, exactly.
+
+27
+00:12:25,120 --> 00:12:52,130
+So, this is a lot of data about video resolution, and there's, I almost didn't share this today, but I was like, ah, fuck it, I'll show them all the data that I got. And the reason why I didn't want to share it is because there's not like a clear trend here, where like, because like 720, so this is startup resolution, right? So the first resolution chunk that the person sees when the video starts playing. And then this is the max resolution, so basically the highest resolution that the video can go up to.
+
+28
+00:12:52,130 --> 00:13:17,420
+Basically, what we had seen in the past is that lower startup resolutions converted really well. That's still true. Over here, it would be the startup resolution. We're still seeing a really low startup resolution converting well, although this one's also still low, but the conversion rate is low. There's not a super strong signal here, but what I would absolutely recommend...
+
+29
+00:13:17,420 --> 00:13:40,380
+is, you know, without kind of going brain dead on the data here, is basically have a video that can run at 1080p, so like a high resolution, but then set the startup resolution to, you know, either medium, which is going to be an automatic setting, at least in Vitalytics, or something lower. I don't know if other video players actually have this setting in their platform. We've geeked out, like just...
+
+30
+00:13:40,380 --> 00:14:09,150
+a stupid amount on video over the last eight, nine years at Vitalytics where we just think about like really granular bullshit about video. It's super tedious. I kinda wish I started a business that like, you know, or that I knew less about video. But this is stuff that we think about. So, you know, basically the thing here though is that when you have a lower resolution on the startup quality, then that's gonna be the first chunks that they're sending over to basically the viewer.
+
+31
+00:14:09,150 --> 00:14:33,630
+And that means that it's going to start up faster. So that's basically what I'm saying here is that you want the video player to start up faster. So you want the first resolution to be lower. It's going to be a little kind of blurrier on the first few seconds. And then it's going to upscale to whatever their bandwidth connection can handle. All right. After you're looking at those kind of easy things there, then you would want to look at an engagement. And I just talked about this.
+
+32
+00:14:33,630 --> 00:15:00,980
+But we found a correlation between engagement and conversions of 28%. Now, I have a PhD on my team that actually has helped us build this report. And the first rendition of it took over a year to basically put it together. This guy's a brainiac. And he's like, so this is a weak or very weak correlation, kind of depending on where it lands. And it's like, but it's statistically significant.
+
+33
+00:15:00,980 --> 00:15:29,620
+And basically what that means is that, you know, engagement is definitely going to be tied to higher conversions. So you have higher engagement, you're going to have higher conversions, but it's not going to be this sort of thing that it's like a one-to-one thing, where if I like double my engagement rate, then I'm going to double my conversion rate. So basically, you know, it means that people need to watch your video before they buy, but, you know, it's not the end-all be-all. And we're going to talk about some other stuff where we just see some really kind of wild discrepancies here. So engagement by niche.
+
+34
+00:15:29,620 --> 00:16:00,510
+I'm not going to read all these, but if you want these slides, you can get them. Or do you want some? Okay, okay, okay. So this would be, on average, how much of the video a person watched. Yeah, yeah, yeah. And you can see with these VSLs, people are making it basically between 15 and 20-ish percent, or 25% in the case of finance, which is really interesting. Of course, the finpubs are doing these really juicy stories of the boogeyman that's going to rob your life savings and stuff.
+
+35
+00:16:00,510 --> 00:16:27,390
+And it's more of a boomer market, probably more than a lot of others. So I do think that's kind of interesting. And then golf, which also has one of the lowest conversion rates out of the niches that we track, you know, it's also a really low engagement rate. So engagement is dropping across videos on Vitalytics over, you know, basically the last three years. So that is something that's interesting. And before, I'm saying that conversion rates are basically going higher.
+
+36
+00:16:27,390 --> 00:16:58,900
+So that even kind of shows that that correlation between the two things is actually weakening. Where basically, you know, people are watching less video, but they're buying more. So, you know, that basically kind of means that people coming through these, you know, basically, you know, they're less engaged. Maybe they're more in info overload, but they have a higher propensity to buy. And then engagement rates by, you know, traffic source. Organic's really high. You know, email's the highest.
+
+37
+00:16:58,900 --> 00:17:21,410
+right out or actually sorry so affiliates are basically the highest then email then paid and organic so pretty tight kind of correlation between all those or like tight kind of like windows there's no kind of major outliers there so some things that we recommend so here's the thing right so engagement and conversions are they correlated yes are they super strongly correlated no
+
+38
+00:17:21,410 --> 00:17:47,090
+you know like I was just saying but basically when in doubt you know without getting into the copy and the other metrics and some things like that you definitely want to increase engagement right that is going to be the leading indicator that you can really kind of focus on if at least if you're trying to move the needle and you don't have like any other kind of clear hypothesis as far as how you want to go about that so some things that we recommend for doing that you know would be our smart autoplay which you know pretty much every video player on earth
+
+39
+00:17:47,090 --> 00:18:15,330
+has a autoplay feature, a few of them have also called their smart autoplay. The reason why we call ours smart though is because it's gonna detect that the browser can play with sound, and if not, it's gonna play it on mute, but if so, it's gonna play it with audio. So we'll still push that through in an aggressive fashion on videos. Recently, Instagram came out with a new version of their browser where they were not even letting muted autoplay come through.
+
+40
+00:18:15,330 --> 00:18:39,280
+So they were just completely shutting it down. We sold it in our data. We responded to it within about a day. But now we're joking that we should call it smarter autoplay. Because basically what that happens, like a lot of Instagram traffic is out there, is that it's going to not even let the video play on mute. And it's basically going to mangle it. And it's not like a bug of Vitalytics. This is something that affects every single video player.
+
+41
+00:18:39,280 --> 00:19:08,260
+And it was just basically a decision by Meta or the Instagram team over there to, you know, shut down autoplay videos. Some other things here, smart pause. This is something where if somebody's on the tab, like your video's on a tab playing and they go to another tab, it's gonna pause the video. So it's not gonna let that play in the background. It's not gonna let them get distracted and go check their Facebook or their email or anything like that and wait for your CTH to drop so they can make an up or down decision on your price. It's basically gonna force them back into that VSL, much like removing the seeking bar.
+
+42
+00:19:08,260 --> 00:19:36,930
+And then focus full screen, this is something where if a video goes full screen on a mobile device, it's going to add in the controls because just the phone's operating system takes over. This is how every video player works. So what we came up with is basically it can take up the entire screen, not, or sorry, the entire browser, not the screen. And it sounds like a small distinction. On a desktop, you'll still see the tabs at the top, but on mobile, it's going to look identical to the video going full screen.
+
+43
+00:19:36,930 --> 00:20:07,280
+So then what that means is that if you've removed seeking bar or you have other kind of things that you've modified in the player settings, that's going to stay consistent when the video goes full screen. So these are basically the benchmarks. At two minutes in, we find that the average video on Vitalytics has 33% engagement. So this is probably one of the most important metrics in here. That's just like a really good benchmark to see. I was looking at a...
+
+44
+00:20:07,280 --> 00:20:35,580
+Jake and Dave's VSL yesterday, they were at like 45% engagement, you know? So those guys are crushing it. I was like, I wouldn't necessarily focus on your lead. What's interesting here is that before, this was, there was a bigger drop-off between the first two minutes and the CTA drop, and we've seen that tightening. So a little bit lower people, a little bit fewer people making it through the first two minutes, but then more of them are sticking to the CTA drop. That's like the recent data that we're seeing right now.
+
+45
+00:20:35,580 --> 00:21:00,850
+So, you know, basically everybody should be split testing leads. You know, we're talking about high impact split tests like a moment ago as far as like controls and stuff like that. That's not the split test you should be doing necessarily. I would say that one of the, you know, the highest impact split test is always going to be split testing the lead of the video. It's going to vary in length, so I just randomly pick two minutes. I will set up tracking to actually fire right then so I can kind of know how much I'm paying to get somebody to two minutes into the video.
+
+46
+00:21:00,850 --> 00:21:30,860
+But basically, you know, constantly split testing leads I think is a great idea. Among other things like price and offer and, you know, headlines or whatever. And then unmuting your videos. So, basically, I was talking about like all the granular conversations that we get into at Vitalytics, where it's like we're just like kind of like thinking a whole lot about video players and VSLs and conversions and stuff like that. And one of the things that we're wondering is, are people watching VSLs on mute?
+
+47
+00:21:30,860 --> 00:21:55,650
+Because I think we probably all do this where we're like scrolling social media and like a video pops up and we don't unmute it and we just read the captions. So we're like, hey, is that happening with the VSL? And the answer is basically no. So people are not doing that from like basically the data that we have. That one guy sent your way where he was like, the VSL is not converting. Nick and I had written it for this guy for the agency side. And he's like.
+
+48
+00:21:55,650 --> 00:22:25,310
+First of all, it was like fucking 400 clicks or something like that. But then he's like, show me his data and it was like, the unmute rate was like, I forget, it was like 18% of people were unmuting the video or something. So I'm like, out of this 400 people, only like, you know, 18% of them were even unmuting it to watch the VSL. So then trying to take that data and be like, this isn't working is like, clearly not. But it's a good thing to, it is a good thing to look at if you do use Vitalytics or whatever, is like, if people, because your headline sucks or people aren't pre-sold correctly or whatever it is,
+
+49
+00:22:25,310 --> 00:22:54,880
+and they're not even unmuting it, then you have a problem, right? So I thought that was actually an interesting data point there. It didn't even cross my mind. I sort of just assumed people come, then they click the button, right? Which is how it should be, but obviously you have data where some people aren't. I assume if it's 63 seconds, that VSL's fucked. That thing's not converting at all, I would imagine. Yeah, in fact, actually it'd be interesting for us to look at unmute rates correlated with conversion rates. That might actually be even more correlated than engagements. Yeah.
+
+50
+00:22:54,880 --> 00:23:36,930
+What's up? Yeah. We haven't looked at it, but we could and we will. So if you get in touch with us, we can have that within a week. Yeah, so the square in the middle is something that we built for Steve Weatherford's team. They built it custom on another video player, and they were coming over, and they were like, hey, we tested this. We like it better. Would you build it? And we're like, yes. Because we always want to make decisions that way. So that's kind of considered our best practice.
+
+51
+00:23:36,930 --> 00:24:04,350
+The one in the corner is, which we call it classy in the corner. I might even have a picture of what we're talking about here. Yeah, so these things. These are what we're talking about. So this is the classy in the corner. This is the box in the middle. This was our first one, and I don't think many people use it, but I was just in Dubai, and somebody came up to me, and they were like, hey, I thought this was gonna work best, and it didn't. And I think they did a test with this. So we can look that data up.
+
+52
+00:24:04,350 --> 00:24:30,780
+That'd be pretty easy for us to do compared to some of the other questions that we get. Yeah. So basically, like, right here before I move on, the average unmute on the video is seven seconds. So they watch seven seconds, they click on mute, at least on, with Vitalytics, it will restart the video so it goes back so they don't miss anything. So at least with us, we would not recommend having, like, a countdown timer of, like, turn on your sound in five, four, three, two, one. But basically just having, like, that first at least seven seconds of the video to be super juicy.
+
+53
+00:24:30,780 --> 00:25:00,450
+Because assuming that people are going to be watching that on mute, so the audio is not going to be playing a factor of hooking that traffic. You know, like we're talking about, 33% of people are only making it two minutes into the video, so almost everybody's dropping off during that period. So they're kind of coming over, they're seeing the video, they've maybe seen a VSL before, and they're saying like, oh shit, I don't have time for this. You know, but then trying to hook them is like really important there. So, yeah, we have some recommendations for that, but basically, before I get into that, the average unmute rate is 40%.
+
+54
+00:25:00,450 --> 00:25:29,780
+The top 10%, not of unmutes, but of conversions is 75%. Sorry, I'm not sure if this is a conversion number. I'd have to check. But basically, the top is 75%. So, you know, if you want to be averaging your 40%, then you're happy. But basically, if not, you have room to move the needle there. So, this is some of the stuff that we recommend to move the needle on unmutes. So, like, using captions in Vitalytics, it's an AI thing where you can just click it if you don't have them built. So, it can just, like, generate there.
+
+55
+00:25:29,780 --> 00:25:59,580
+Somebody asked me if they're accurate, and I'm gonna say probably. It's like a GPT, so it's gonna be fairly accurate. I'm sure it's gonna have a few mistakes. Something that we're working on next is different languages of that, and then auto-detecting that, and then displaying the language that is the browser set to. Customizing the Smart AutoPlay message, so just like what that says. But really, the needle mover here is gonna be these last two, which is obviously,
+
+56
+00:25:59,580 --> 00:26:25,520
+focusing on the first six seconds of the video. More VSLs that I just personally see anecdotally are having more like a roll at the beginning of their VSL as far as like, you know, live footage that they actually shot themselves, not B-roll, not text on screen, that type of stuff. But then this last one is a video thumbnail. This is something that we just released. And what it is is basically you can upload or pick from your VSL.
+
+57
+00:26:25,520 --> 00:26:56,500
+a little segment of the video that you want to play at the beginning that is going to be like a thumbnail. It's going to play on a loop. So it's going to look like smart autoplay. So it's going to look like the video is just automatically playing and they're going to be like, oh shit, what's this? I want to unmute it. But then it's going to play whatever the actual video is there. And I mean like this maybe kind of goes without saying, but like what you want to do in that video thumbnail is have it be like a movie trailer just like bam, bam, bam. Like some really kind of juicy stuff to like hook them as far as something super exciting. Yeah. Last like I think like.
+
+58
+00:27:09,260 --> 00:27:39,180
+Smart AutoPlay is just gonna play the video on mute at the browser, won't allow sound, so it's just playing from the beginning. Yeah, you don't have to have that. You can change it if you want. But, and then the video thumbnail is gonna be like either a segment of your video that you choose where you're like, hey, I want from this time to this time to play, or you can upload your own. So like you could get something like edited that's just like super exciting, like you know.
+
+59
+00:27:39,180 --> 00:28:21,550
+babes in bikinis and explosions and fast cars. You would probably set up another video. Yeah, that would probably be, I don't know. Okay, yeah. I don't remember going to your room in Vegas. Yeah. So anyways, unmute rates. These are the different styles. We talked about those. Here's something really important that people don't realize.
+
+60
+00:28:22,350 --> 00:28:50,000
+About 6.5% of the time, autoplay is going to fail. And that's just like our stat that we see across our platform with the quality of experience analytics that we track on the back end. These aren't exposed to users, but this is just something that like we, you know, we're doing a lot of scale. So we have to have a lot of metrics to, you know, keep the health of the platform up and running. But 6.5% of the times, autoplay is not going to work. And I noticed this once on somebody's video.
+
+61
+00:28:50,000 --> 00:29:18,990
+and it was like text on screen, but the first slide was actually just white. So they had a, so, and it was on a white webpage. So the autoplay didn't play, and the first frame was white, so basically there was a video there that needed to be clicked, but there was no other controls put on it, and there was no way of knowing that unless you just started randomly clicking around. So this is something that's just going to happen on every single video player, and the reason why it's happening is what I got listed right here. Low power mode, data saving mode, or obscure browsers.
+
+62
+00:29:18,990 --> 00:29:47,020
+like really obscure, besides the Instagram one. But that's actually a case where actually we're probably gonna be seeing this climbing, you know, where we're falling back to a click to play on the Instagram browser, because that's basically what you have to do there. But, you know, basically, you know, and maybe this is a trend, maybe Instagram is gonna be the first domino where there's, you know, like years ago, it was like, hey, we're not gonna allow autoplay, and now maybe they're gonna say we're not gonna allow muted autoplay.
+
+63
+00:29:47,020 --> 00:30:16,190
+I don't know if that's actually going to be super prevalent, but either way, aside from all that, the thing is, is that like some people will upload a video to Vitalytics, turn on smart autoplay and call it a day and not set a thumbnail. And that's just like a bad move because six and a half percent on time, six and a half percent of the time on average, that autoplay is not going to work. So you want to have a thumbnail there that's going to, you know, grab their attention and be juicy and get them to engage with the video. So that's like a super easy win.
+
+64
+00:30:16,190 --> 00:30:44,340
+And that's, you know, over 1 20th of your traffic. So. All right. When do most conversions happen? This is something, so this is what like our conversion tracking looks like, where basically you set it up on your first upsell or whatever, and then it's going to attribute back to the video how far people watch into it before they purchase. So you can kind of see the needle movers here as far as like what part of the video is really kind of driving things, like if it flattens out or it increases. But.
+
+65
+00:30:44,340 --> 00:31:14,050
+I had no idea this data existed until we built this feature, and we slapped it on, and I saw it in my own VSLs, where it used to be 35% of conversions were happening at the very end of the video, and the most recent data that we have is that it's 47%, which seems astronomical. But basically what that means is that people are watching until the very end of your video before they purchase. So kind of wild. The thing that really blows my mind, and I saw this on David and Jake's VSL yesterday,
+
+66
+00:31:14,050 --> 00:31:45,700
+they have very similar data to this, where the average engagement at the end of the video is 3%. So 3% of people make it to the end of the video, but then they represent nearly half of all conversions. So some things to do. So like that's interesting. What should you do with it? Well, you should think about it from a copy perspective, which I'll talk about, but from like a technical setup, what we would recommend is having the video basically count down to, you know, basically it's like, hey, the thing has ended.
+
+67
+00:31:45,700 --> 00:32:13,860
+You know, it's time to, you know, basically, you know, you don't have to go home, but you can't stay here. I used to sell newspaper subscriptions in, like, grocery stores. And I would have this little pitch. And at the end of it, I would just be, like, debit or credit. And people would be, like, oh. And they'd, like, get their wallet out and hand me their money. And it was funny because, like, the form didn't have, like, even a checkbox for debit or credit. It made zero difference. But it was just this prompt, you know. It's just, like, an...
+
+68
+00:32:13,860 --> 00:32:30,660
+typical call to action, click the button, buy now, do this or that. And, you know, basically, you know, at the end of the video, when we have this countdown thing, it's basically like, you know, what is the psychology that is watching an entire VSL to the very end before they purchase?
+
+69
+00:32:30,660 --> 00:32:55,950
+And then, basically, I think they're in FOMO. They're in anxiety. We're presenting a problem with them. They have a problem to solve, but now they have a new problem of deciding whether or not to buy your product. What are they going to say to their wife? Is it going to work? Are they going to feel stupid? What is the return policy? All these things, even things that they've already been told. So it's something to think about as far as what you're doing post call to action in your VSL, as far as what's that clincher copy that's getting them over the fence.
+
+70
+00:32:55,950 --> 00:33:23,460
+Another thing though, and this I actually thought of when I saw the engagement rate being so low and the conversion rate being so high, but some other things that you can be doing is tagging the videos and micro conversion. So a tag is something that you push over to a CRM if you have their identity. Just so you know, like, hey, if somebody watched most of your VSL, that is a hot buyer. That's a hot lead. As far as like lead scoring, that would be like basically as high as it can get.
+
+71
+00:33:23,460 --> 00:33:53,490
+So any kind of thing that you can do to kind of identify that person and hound them until they die to buy your shit is a good idea. And then a microconversion. This is something where, you know, a lot of the time if you have cold traffic, you're driving into a video, you don't know who that person is. So tagging is going to push over to like a CRM where a microconversion is going to be pushing over to like an ad account or, you know, any other kind of marketing tool. But basically setting up like a retargeting audience there and like just basically like, you know,
+
+72
+00:33:53,970 --> 00:34:24,500
+maxing out the CPC or whatever the bidding kind of threshold is there is a really good idea because people that are making it to the end of the video, they're really engaged. That is somebody that is very interested in what you have to offer. Cool. This is kind of what I was talking about, clincher copy. If you're ready to buy, then do this now. You're not gonna see anything new. I've covered absolutely everything. Basically, take action now. Cool.
+
+73
+00:34:24,500 --> 00:34:54,320
+This is something six months ago we were talking about this as far as the average length of videos on Vitalytics and stuff like that. So right now we're actually seeing the average VSL at 36 minutes. What is interesting is that I was operating under the assumption that VSLs were getting shorter because that just kind of seems to be the trend of where the world is going. It's actually getting longer. Not by a lot. I think this represents about 15%. These extra five minutes since 2001. But they are getting longer.
+
+74
+00:34:54,380 --> 00:35:17,410
+So, by niche, these are the average links. And it's interesting that, once again, we see finance, you know, earlier we saw that their engagement rate is actually one of the highest. It was 24%, but they actually have the longest videos. So, there you go. BizOp is going to be a lot of book a call funnels, which actually is what we're going to talk about next.
+
+75
+00:35:17,410 --> 00:35:43,420
+is that for book a call funnels, the best converting links is about 25 minutes. The worst is 60 minutes. And it makes sense, right? It's a lot lower barrier to entry as far as what they're buying. You know, they're filling out their information to basically, you know, book a call, you know, with your team that they're not going to show up to. Yeah. And so, you know, how much do you really need to convince them to blow off your sales team? You know, maybe more. I don't know. But actually, these are conversion rates.
+
+76
+00:35:43,420 --> 00:36:12,320
+So this is actually the people that are booking the call. We wouldn't track through to shows. We could do that. It would be a little bit of a setup. But we don't have that data and that's not included here. On just straight up VSLs though, as best as we're able to tell, the best converting ones are 20 minutes long and the worst converting ones are 45 minutes. So what I'd seen in the data is basically whenever like a video hits like an hour, the engagements and the conversions just drop off a cliff.
+
+77
+00:36:12,320 --> 00:36:42,210
+They just drop off a cliff. And what's interesting about that is that the engagement, you know, is that people aren't, well, all right, never mind. So, yeah. Upsells, we see the best converting ones at 20 minutes, the worst converting ones at 40 minutes. And I'll talk about this in a moment as far as the lengths of upsells or, sorry, the engagements of them. So, all right, once you drop a CTA, the worst converting VSLs are dropping them at 79%.
+
+78
+00:36:42,210 --> 00:37:42,180
+The best converting VSLs are dropping them at 30%. What's up? Yeah, pre-call. So what exactly is the question? Do we ever correlate the two? I don't have that in this report. That would be kind of hard for us to tease out at scale across all the videos we have. To figure out which video is which for this data, we use AI to transcribe the video and then what is this video about? What is the call to action? Is it for a phone call and stuff? Oh yeah.
+
+79
+00:37:42,180 --> 00:38:04,270
+What I was going to say though is like for this type of thing, like kind of like doing these like averages and best practices and benchmarks, that'd be difficult. But setting it up for you, especially like a sales team or something like that, it could be a good idea. So like one idea is that if they've just booked the call, then you have their identity. So then they wind up on your thank you page and then they're watching the pre-call video.
+
+80
+00:38:04,270 --> 00:38:32,660
+And so what you can do is actually tag them in your CRM based on how much of that video they've watched. And what you could also do is just be like, hey, you know, you know, you got a call with me tomorrow and I saw that you haven't watched the pre-call video. I'm going to cancel it if you don't watch it. You know, so you can kind of have that scarcity and stuff and just be like, hey, you must watch this before, before the call. And then you could also be following up with them. Hey, you haven't watched it, you know, or you did watch it, watch this other thing, you know, or do whatever.
+
+81
+00:38:32,660 --> 00:39:08,240
+So, that is like a really good use of tagging and also lead scoring in your CRM. And then also, if your sales team is gonna be like hounding any leads, it's gonna be the ones that, you know, watch that video, you know. So, the easiest way is that if they opt in on the first page, you just pass it through on the URL of the next one, and then like, and then we just beam it over. But if they opt in to, like, so we have a feature called Playgates, which is like an opt in. They opt in to that, then it will just happen automatically.
+
+82
+00:39:08,430 --> 00:39:50,260
+But yeah, and then there's also like through an API. If what? If you have their identity, you can absolutely send the tag. Yeah, so there's a few different ways. So you can do it through either the Vitalytics Playgate or opt-in. You can do it through the URL. Like if like their identity, some kind of unique identifier is in the URL, then Vitalytics will pick that up and then beam it over to the CRM and just be like this person did hit this tag or whatever. And you can set a tag at zero percent or anywhere in between.
+
+83
+00:39:50,320 --> 00:40:23,660
+You can also have a tag where if they've hit to a certain point in your video, and then they return to it, then you play a different video for them. Yeah, so there's lots of things like that. So we call it a vid condition, and we have a couple different settings, so it can be based off their device, based off if they've just watched the video at all before. It can be based off of if they have a certain tag applied to them. So in the tag you would set up, say it's like...
+
+84
+00:40:23,660 --> 00:40:46,100
+you have the price or the product reveal or some kind of key thing in the video, then you would set up a tag there, right? And it's like, okay, if they've seen my price or if they've seen most of the VSL, then I want them to see something else when they come back to the video, like more clinch or copy. So that would be kind of what the tag would function off of. And I think there might be some other ones that are escaping me right now as far as how that would work. Did all those questions get answered? Hey, what's up?
+
+85
+00:42:05,300 --> 00:42:35,620
+This is a split test that I wasn't a part of, but I was working with a nine-figure brand that's on Vitalytics. I was looking at their funnel, and they were dropping the CTA 30 seconds into the video. And I was like, hey, is this a mistake? Is this broken? What's going on? Is this just for QA? And they were like, oh, no, we tested that, and it worked better. And I was like, really? So I wasn't involved in that, but that just kind of goes to show with this kind of CTA data, where basically the sooner in the video, that's correlated with higher conversions.
+
+86
+00:42:35,620 --> 00:43:04,000
+The question that I would ask with this is what is their AOV and their lifetime customer value of somebody that's maybe like not watching their entire video getting fully indoctrinated. All right, talk about some upsells. So upsell engagements. So again, a front-end VSL engagement is gonna be about 21%, but an upsell is gonna be 15%. Of course, these are converting at a much higher clip than a typical VSL, right? You know, like a good take rate can be like 20%, but...
+
+87
+00:43:04,000 --> 00:43:33,020
+What's interesting there is that they're watching less of the video. So, buying more, watching less as far as the, you know, people coming through. And what's interesting is while we're seeing like front-end VSLs get longer, we're seeing upsells get shorter. So, this isn't necessarily to say that this is like the best practice, but that is something that we're seeing across the platform. What was really interesting is that we saw a 60% higher engagement on upsells when the seeking bar was present.
+
+88
+00:43:33,020 --> 00:43:59,870
+I would basically just kind of run with that and put seeking bars on all of your upsells. And then what devices convert best? For a straight sale, desktop. For book a call, mobile. Probably not a huge surprise there because, again, people, you know, just being on their phone, filling out an opt-in to, you know, book a call is going to be a lot easier on their phone. And then it's like, I saw this meme recently that was like, it's the millennial trade that, like, making a big purchase must be done on the desktop computer.
+
+89
+00:43:59,870 --> 00:44:27,650
+where it's like, you know, we don't want to like buy things, especially expensive things from our phones. But it is just kind of easier to do that. You know, especially, at least for me, I have all my credit cards in my desktop browser. So, you know, it's basically like a few clicks to get through that. Tablets are fucking weird. They have slightly higher engagements, but 27% lower conversion rates. And, you know, this does make up a very small fraction of the traffic on Vitalytics compared to these other ones.
+
+90
+00:44:27,650 --> 00:44:56,590
+But, you know, in my mind, that's just that people are scrolling through and they're just kind of like in browse mode as opposed to like buying mode and maybe they don't have their credit card set up on their tablet to purchase things easily. What's interesting is that mobile devices are taking up a bigger share of traffic than ever before. Maybe not a huge surprise, but, you know, basically on Bitlytics in 2025, it's 72% of the traffic is mobile. Brazil is the only country in the top 23 that we analyzed that has more desktop traffic than mobile.
+
+91
+00:44:57,420 --> 00:45:25,890
+And something that basically Eddie and I were just talking about here is something that we recommend as a best practice is to show a different video based on their device type. So basically a vertical on mobile and a horizontal or a landscape on desktop. So that's something that can be very easy. And then returning visitors are actually dropping, not by a ton, but it is down to 12% basically in 2025, where in 20...
+
+92
+00:45:25,890 --> 00:45:55,840
+I don't know when this metric was, but it was 17%. And actually, the last time I did this report, it was like 13.3%. So returning traffic is kind of going down. And when you can think about engagement rates being down and then returning traffic being down, you know, and people wanting to kind of have like shorter videos, whether or not they're getting shorter or not, that does kind of be like a trend that people are like, oh, I've already seen this ad or whatever. So they're not necessarily clicking on that. Another Brazilian fact.
+
+93
+00:45:55,840 --> 00:46:25,140
+is that Brazil has the highest amounts of returning visitors out of the countries that we looked at. So a best practice that we typically recommend is to put on resume play. This is when somebody returns to the video. They have basically a message that's like, hey, you already watched this. Do you want to continue where you were or start over the video from the very beginning? What's interesting is that we actually looked at the data, and I haven't seen the split test, and this is one that actually would be kind of like medium impact and worth testing. I'm looking at Mark and Jeff. But basically, we saw that when...
+
+94
+00:46:25,140 --> 00:46:58,160
+revisit seeking bar is turned on. It actually had a higher correlation with conversions. This isn't a vid condition necessarily. Vid conditions would be to play different videos based off of different parameters and stuff. But this is actually just if they've already watched the video and they've returned to it, then the seeking bar is present. Yeah, it's just a click right around the seeking bar thing. And basically, what's interesting is that this seems to work better than the resume play.
+
+95
+00:46:58,160 --> 00:47:28,580
+At least that would be the test that I would set up just based off the data that we saw. But it had a higher correlation with conversions to just add the seeking bar back in when they return to the video. Another thing that we already talked about is these bid conditions where if they've already seen the video, another parameter that I didn't think of earlier is that if they have a certain URL parameter, you can play a specific video, stuff like that. But basically, as we enter more and more of the world of AI, the future of marketing is gonna be personalization.
+
+96
+00:47:28,580 --> 00:47:58,830
+So this is the type of stuff that we can do now that, you know, has these kind of like settings where it's just like, hey, if they've watched this, play a different video. If they've done this, do that. And, you know, in the future, I think AI is going to be handling a lot of this for us where it's going to be basically like the, you know, media, you know, the ad platforms algorithms where, you know, they're kind of taking over and doing a lot of the driving. So this is a strategy that I would have for returning traffic. So again, I think it was 12%. It's still a significant portion of traffic.
+
+97
+00:47:58,830 --> 00:48:28,530
+And I believe that it converts at 65% higher rate than normal traffic. So it's just like the people that are watching all the way through your video. You know, basically, you know, they're hot leads and you want to kind of do everything you can to move the needle on them. But something that would be very kind of interesting is showing them a shorter video, especially depending on how much of the video that they originally watched. So more clincher copy, more kind of like getting to the point, adding in the seeking bar for people that return to it, getting into the close as soon as possible, and dropping the call to action right away.
+
+98
+00:48:28,530 --> 00:48:56,110
+So that's basically what I would recommend for doing, you know, for returning traffic. And then, you know, I shared this last time. I'm still bullish on these things, although they are a pain in the ass to set up because they have a slow adoption, although Nick said that, you know, him and I are going to work on one of these. But interactive videos where basically it's like a choose your own adventure. Somebody's watching and then basically they make a choice and a different video plays based off of that. So the way that I like to think about these is that, you know,
+
+99
+00:48:56,110 --> 00:49:24,580
+asking questions that are based off of the psychographics of people. So it's just like, you know, something that allows you to speak to that person differently, you know, whether it's about their goals, their motivations, their fears, but then kind of busting out those avatars from there to have a unique mechanism of the product, or sorry, a unique mechanism of the problem that ties to that avatar, where it's like, are you a man or a woman? Well, if you're a woman losing weight, you know, comes down to this, you know, like toxic estrogen syndrome or something.
+
+100
+00:49:24,580 --> 00:50:06,660
+and it's completely different for you than it is for a man. That also justifies asking that question and then being able to kind of talk to them in a more personalized fashion. So this is kind of what it looks like, at least in Vitalytics. We pre-rendered it based on how they answered the quiz question. So it was like a truly personalized experience and not just like marketing mumbo jumbo, but actually like the value that was delivered in there. Is there a mechanism that you have inside that would save up from all the pre-rendering and allow us to sort of like stitch together?
+
+101
+00:50:06,660 --> 00:50:33,920
+videos automatically? Yeah. So like this thing, it would be like they watch the lead. They have a question that looks like this. They choose one of the options. By the way, Hawaiian shirt one. It was like two to one. They come through, and then it would play the next segment of the video. It would seem like one seamless experience for them, but it's like getting more personalized. On the back end, you're just setting up the different videos like this and stitching it together.
+
+102
+00:50:33,920 --> 00:50:55,220
+If the quiz was on the front end though, so you're just capturing like, you know, you have, you know, a questionnaire for yours. So there's like 10 data points like, okay, we want to give them video, you know, a video that is customized to those 10 data points. So it's not, they're not actually taking the quiz in the video. They've already taken it. So they are given a video that is sort of like automatically produced.
+
+103
+00:50:55,220 --> 00:51:24,400
+Unfortunately, I think you would just need to make the different videos based on the answers. It's not that big of a pain in the ass anymore, but okay, cool. Thank you. What I see people doing with a quiz funnel is that there might be one or two questions, say gender and age or something, that determines a different VSL that they land on. They might be asking other stuff in there that they're capturing and passing to the CRM or just capturing for other purposes, but they're not necessarily having...
+
+104
+00:51:24,400 --> 00:51:57,540
+all these permutations. Yeah, we simplified it down to seven in the end. Okay, yeah. Yeah, that could be a lot. But like when you think about this, this would be like, right, so like right here, there's two versions, then there's four, so it's like, I don't know, I think that's maybe six. I forgot how this math works, but like this right here, the permutations on this, what do you do, like multiply them or something like that? So two times four times eight, 16, if that's how, is that how it works? Yeah, so there's 16 permutations right here. If you want these slides or you want to talk about any of this stuff, like,
+
+105
+00:51:57,540 --> 00:52:32,530
+That's what this QR code's for. Sweet. Thank you, Patrick. Does anyone have any questions for Patrick? Nick, I'm coming to you first. I got two questions for you. So when you said dropping the CTA 30% into the video earlier, is that dropping the CTA in the copy script or just revealing the offer below the video? It would be revealing the CTA. So I think...
+
+106
+00:52:32,530 --> 00:52:58,860
+Most people, except for this nine-figure brand that had the split test that I talked about, I think almost everybody is going to be doing a product reveal both in copy and in the video. So those are going to be one and the same. Wow, okay. Is that what you're asking? Yeah, because I'm thinking like, what I'm asking is in the script, 30% into the video, you're saying, hey, we have a product, you should go buy it. It's below this video, go click.
+
+107
+00:52:58,860 --> 00:53:26,690
+So it's in the script itself. It's within the video. That's pretty much how I always see it done. But the data that we have, we're not going and watching everybody's video and looking at the copy and this and that. We're doing this at a massive scale. So we're trying to do it from a more quantitative standpoint as much as possible. But I would think 95%, 99% of the time, it's going to be revealed in the copy as well. Gotcha.
+
+108
+00:53:26,690 --> 00:53:56,270
+My other question is the returning traffic. Yeah. When you said there's a, you said the seeking bar, right, appears. Is the seeking bar function actually enabled where they can fast forward or does it just appear? Yeah. In that one that I'm talking about, we have one that like is a fake seeking bar. Yeah. We call it like a rapid engage bar. So it like moves fast in the beginning, but it's like you can't actually, it doesn't do anything if you click on it. Yeah. That's not what I'm talking about. I'm talking about like if they return to the video, just put the seeking bar on.
+
+109
+00:53:56,270 --> 00:54:18,660
+Gotcha. Okay, cool. Thank you. Yeah, I want to have you guys for skincare, like, for our skincare thing, like, because I'm like, we're not, like, fucking leveraging Vitalytics at all. Like, we're not, like, leveraging any of your guys' functionality. So I want to have you guys, like, do a variant of our landing page, but where you guys just do all of your best practices. And then, like, I'll do a case study when that one just, like, shits on our current one, which would be...
+
+110
+00:54:18,660 --> 00:54:47,940
+Great for us also. Yeah. So, I don't know what you have about that. Yeah, I mean, we can absolutely do that, jump on a call, and, like, we have some, like, an internal tool that we use for these things, and we call it a video conversion audit, and it's just, like, our checklist and stuff, and we just, like, run through it. So, yeah, we can. We can also just, you can give us that, but, yeah, I just want to do a split test where it's, like, and not, like, as granular. I'd rather just, like, do a second version where it's, like, we just basically do everything and then just see what the difference is. I bet it would be, like, a significant boost, honestly. Yeah. Yeah.
+
+111
+00:54:47,940 --> 00:55:20,420
+Yeah. Have you seen anybody who's doing book call with a nominal fee, $1, $5, anything like that? No. Is that the idea, just to get a micro-commitment so they show up or something? Yeah, it's a good idea. Yeah. I'm sure it exists, you know. But, yeah, I mean, the people that I've talked to about book calls are trying to, like, optimize kind of front-end opt-ins and then just juice the show rate in a different way.
+
+112
+00:55:20,420 --> 00:55:53,780
+An interesting tactic on that would be to like, hey, you just need to reserve your spot just to know that you're serious. When you show up to the call, you're gonna get it back. So yeah, I don't know if that's what you're thinking. But yeah, I don't have much else to say on that. I like that. You gotta test it, but I like that idea. If I upload a video, you said there's a caption generator on it that works through AI. Can I edit those captions to proofread it to make sure that it comes out all right? I don't think so.
+
+113
+00:55:53,780 --> 00:56:23,700
+But you might be able to download it and then do it and re-upload it. But I can also ask about making that possible. What about... It's a good idea, actually. Really good idea. Yeah, I've got a story or two about funky captions with AI generations. What about, would there be an issue uploading hard-coded captions? Oh, no. Yeah, you can absolutely do that. Okay. Yeah, yeah. Something in like...
+
+114
+00:56:23,700 --> 00:56:53,300
+Like, if you have captions, you can have them automatically appear, like, right away, or you can have it just be an option that they go and find themselves. I'm not sure, like, what would work better of hard-coding it to the video, which is what a lot of people do, especially because, like, some of the frames are, like, text on screen, or it's like, you know, like, but, like, animated and stuff. So it's like, do you need captions there? Because it's gonna be kind of, like, redundant. So that's kind of something else to think about as far as, like, how to kind of navigate those two things, which is probably very unique to direct response.
+
+115
+00:56:55,380 --> 00:57:27,740
+Do you happen to have data on the CTA drop specifically for upsells? Not right now. Okay, because on our side, we have the CTA drop at the end, and we're seeing good conversion rates. Yeah. So I think it would be good. Do you mind sharing your conversion rate? 65%. That's fantastic. Yeah. Wow. Yeah. I think you might actually be onto something just with that CTA drop.
+
+116
+00:57:27,740 --> 00:57:54,610
+really interesting too is about the cta drops is that we're seeing most like you know or a huge portion of conversions happening at the end of videos but then we're seeing cta drops happen sooner so that is kind of something to balance between the two because obviously the more of like a video that somebody watches the higher propensity that they have to buy uh so i don't know kind of how to how to balance those necessarily but it's just kind of something i'm pointing out we can follow up on that if you'd like get in touch um
+
+117
+00:57:54,800 --> 00:58:27,570
+we can try to answer that question and have it for you in short order. Yeah, yeah, great. Thank you. Did you say earlier that for the CTA drop, on average, retention is about 28%? 29. 29. Yeah, for the best converting. Oh, for the best converting, okay. Yeah. Because that seems like if you're at two minutes, you're at like 33, say, and then you only go down.
+
+118
+00:58:28,500 --> 00:58:53,940
+Sorry, this is an engagement. Oh, wait, sorry, no. I'm the one that's confused. Excuse me. I know what you're saying. You're talking about, like, two minutes into the video, when to drop it. This thing. Yeah. Yeah, so are you saying that there's 33% at two minutes, and then there's only a 5% drop?
+
+119
+00:58:54,100 --> 00:59:20,370
+In the recent data, yes. The last time we ran these numbers, it was 35 on the first one, and I think it was like 12 or 13 points lower on the next. So like 22% or so. So we've seen that gap narrow between the, basically less drop-off between the two-minute mark and the CTA. But yeah, like most engagement graphs look like a plane landing. Like, well, first doing like a nosedive. Not a plane I would want to be on.
+
+120
+00:59:20,370 --> 00:59:48,300
+But yeah, but then it like smooths out, right, is my point. So it like smooths out and then it like just cruises. So it's like people are like, you're losing a shitload of people in the first like few minutes. And then the people that kind of stick around from there, like most of them stick around. And then like their completion bias kicks in and that kind of stuff. Yeah, because I think our like two minute is something like 40%, but then at our CTA drop, it's like 16%. Wow. So there's a massive.
+
+121
+00:59:48,300 --> 01:00:16,260
+drop between those two things. How long at what time stamp are you dropping these CTA? Probably like 16 minutes or something like that. Wow. That's when we present the product. Yeah. It does actually. Yeah. That might be something that we could look at as far as like time in video or percent of video before they're dropping it. So we have looked at this stuff though not just in terms of percentages because we're like well are these upsells that
+
+122
+01:00:16,260 --> 01:00:43,980
+where they just kind of have their tracking set up in a goofy way. But when we looked at it in terms of minutes, not just percentage. In other words, are we accidentally looking at videos that are just short? And then thinking, and then skewing our data. That's what we saw. But for you, if you have 45% at two minutes and then 16 at CTA, I'd really focus on the message between those two. That actually might be the biggest leverage point for you. If you're gonna go and make copy changes and new versions of the VSL to test.
+
+123
+01:00:44,240 --> 01:01:16,510
+Yeah, because we get that decline, but that decline kind of continues, not the same rate, but continues after the leaders just keeps declining. Yeah, yeah. I didn't notice that when I looked at your stuff yesterday, but I'd be happy to look at it again. Yeah, thanks. When we're talking about the CTA drop here, what's the average time period through the video for this example? I do not have that data, but I can pull it. Please. But like I was just saying, we looked at this from a percentage of the video and then also in terms of minutes.
+
+124
+01:01:16,510 --> 01:01:48,080
+Just to kind of, yeah, make sure that we didn't fuck up the data. All right, sweet. If you guys have more questions for Patrick, you can ask him at lunch, which is what we're about to do. So you go to lunch, it's 12.50. Let's come back from lunch at 1.45, and then we'll continue on with Max Bernstein, who'll be doing stuff on AI processes, automation, things like that, workflows for our businesses. But, yeah, so lunch is right outside, same thing as yesterday. You know, you can eat tables, feel free to move around, talk, get some sunshine, and then we'll be back at 1.45.
+
+125
+01:01:48,080 --> 01:01:49,390
+Thank you again, Patrick.

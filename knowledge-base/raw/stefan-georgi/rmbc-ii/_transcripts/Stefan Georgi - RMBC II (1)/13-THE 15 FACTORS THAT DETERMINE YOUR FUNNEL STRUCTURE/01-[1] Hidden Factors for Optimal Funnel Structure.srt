@@ -1,0 +1,563 @@
+1
+00:00:00,560 --> 00:00:29,710
+Cool, cool. All right. So, again, I'm sure more people will hop on. But today we are going to talk about hidden factors in that, I guess, would you say that can influence or dictate the type of sales funnel you create and how you optimize it. And I think this is pretty cool. I'll show you all. I'll be sharing my screen in a second. Kind of got away from...
+
+2
+00:00:30,130 --> 00:00:59,150
+me in a little bit in the context of like I started with a few hidden factors and then I asked chat gpt which does sort of know my world like because you know now chat gpt like memorizes stuff for other hidden factors and again like this whole list of hidden factors and like examples and like a framework that can dictate your funnel structure and it was actually all really solid so I started like editing that and I started trying to find examples for like 15 factors and I'm like I'm gonna fucking overload everybody to death if I try to go too deep so um
+
+3
+00:00:59,410 --> 00:01:32,300
+But I've been through everything I got. I'm not just sort of like, here's what ChatDBT told me. Like, it's like I, you know, obviously went through and kind of will talk about it. But I think it'll be interesting to say the least. So let me go ahead and share here. And I'll show you guys like, I'll show you like what I'm talking about with that. It was like, hey, I'm doing this training for my CA Pro members on hidden factors that determine the best file structure to use.
+
+4
+00:01:32,370 --> 00:02:01,140
+you know, hidden factors I've listed, market awareness levels, demonstrable proof, pricing, gave up a full list. I gave up this like actually really good list. Then I was like, okay, cool. I'm going to go through this list step by step. But I was like, wait, what about, you know, my original three? And I was like, oh yeah, cool. So it gave me those as well. And then it created this sort of like scoring rubric. And we're going to talk about that. But I did make some edits and changes. I'll share this document after the call here.
+
+5
+00:02:01,230 --> 00:02:30,220
+We'll start by kind of going through what these factors are. And then we'll do our best to look at examples. And I've had Gemini doing case studies and it's gone through 362 websites. And that's one thing I do want to share is like a deep research. I used perplexity to sort of look for case studies after I had this and like examples of funnels. It went a lot of like LinkedIn and things like that. So it's all interesting. I'll share all this research with you guys.
+
+6
+00:02:30,220 --> 00:03:02,030
+But it's a lot of content you can go read to see people's case studies on things. But it is interesting. ChatCPC kind of did the same thing. And I'm curious to see what Google does. But there's still some interesting stuff here as well. So let's start by going through a broad overview. Where this all stems from is I think a lot of times there can still be confusion about what sort of funnel you need, right? And it kind of depends on what you're selling and what...
+
+7
+00:03:02,900 --> 00:03:31,010
+the state of the market and all these other things. That's what these factors are. So a lot of you have seen, you know, my telemedicine company, like GetThin. I'll go to it right now. We just made some compliance edits, but this is our homepage. We do run to some landers, you know, through Meta and Google that are pretty comparable to this. There's a few other things. What's cool, by the way, this is actually based on our own patient data. So we actually got a bunch of patient data back and we can make a bunch of claims. So on average,
+
+8
+00:03:31,010 --> 00:04:00,500
+like 600 and something patients, the average person across all ages lost 9.6 pounds in their first 30 days. So it's pretty cool to have like your own data saying that really works. But I bring this up because when you look at something like a GLP-1 medication, and this is going to tie into like awareness, right? There's Eugene Schwartz's stages of awareness, and there's sort of most aware or product aware, where they basically know either your brand exists and you sell a product.
+
+9
+00:04:00,500 --> 00:04:25,810
+and you know they're they're like interested in it that's most aware product aware right like okay like you know i know that glp1 injections exist i want them i just you know haven't done it yet down to like sort of solution aware like i know that glp1 the difference between let's say product aware and solution where for glp1s for example right product aware is like i know that there's people online telemedicine companies offering me access to glp1 medications
+
+10
+00:04:25,810 --> 00:04:55,070
+where a solution aware is like, well, I know GLP-1 medications exist. I don't necessarily know about telemedicine companies. Problem aware, I'm tired of overweight, but I haven't linked it to a GLP-1. Unaware is like, I wouldn't really typically bother with unaware people. We can talk about all these things in more detail. But unaware is like, I don't even really realize I have a problem. So I guess unaware is like your friend is an alcoholic before you have an intervention with them. You know what I mean? Like that's like the, they don't even know they have a problem.
+
+11
+00:04:55,070 --> 00:05:26,690
+Other people will know, but they don't know. They're pretty hard to sell to, right? So if I think about GetThin, which is your telemedicine company that we're trying pretty hard to sell for over $100 million by the end of the year, we'll see, but we're making good progress on it, so fingers crossed. Really, our ads are little static ads. I'll find an ad example to show you guys. And it goes to a lander like this with just sort of a headline,
+
+12
+00:05:26,690 --> 00:05:57,200
+basic stuff and the copy is very minimal we have some social proof in here medications are the super ugly awful like thing we have to put now because of like the constant regulatory environment changing environment how they work backed by data this looks terrible we just signed this guy someone i've known for 10 years he's a former uh white house physician to bill clinton al gore and their families and he was in the navy for 20 plus years he's on the board of the american academy nutrition so to get him on i'm mobile by the way it looks like way less stupid
+
+13
+00:05:57,200 --> 00:06:29,330
+fortunately because then this is sort of um you know it doesn't look so bad mobile which is where most of our traffic comes from um well summary and that and it goes into a medical questionnaire people can be pre-approved and then after doctor reviews to get their medication many of you have seen me talk about get thin but for those who haven't like cool right so that's basically the whole lander and you know we did obviously like 20 million last year we'll probably end up doing some 40 50 million this year we were on track to easily do over 100 million but we're actually
+
+14
+00:06:29,330 --> 00:06:56,210
+slow down because that's what the investment bankers have told us to do. They're basically like focus us on growth and more on EBITDA. So like, okay, EBITDA is basically your, you know, your profit after everything's said and done because then you get a multiple on EBITDA when you sell. Can always talk about that more on a future call. It's fun for me to learn all this stuff, but really pretty basic asset, right? No advertorial, no VSL, just static ad.
+
+15
+00:06:56,210 --> 00:07:24,750
+to this page to a questionnaire or a variant of this page. Again, we do have some variants of a little more like save a special sale, like blah, blah, blah, things like that. Save $150. And the reason why it comes back to awareness, right? That's what I realized really fast was saying I get then was that even like a year and a half or two years ago, I guess something like a year and a half ago, people were really aware. They knew that GLP-1 medications existed. They were just like, where did I find them?
+
+16
+00:07:24,820 --> 00:07:52,430
+you know, what's the price? Can I trust the person I'm gaining from? That was it, right? And so that was like all we had to do, right? And so this is an initial factor, right? It's important because if your market is hyper aware of a solution and it's like a solution you offer and they sort of, you could put belief into this too, I've talked about before and they believe that the solution works.
+
+17
+00:07:52,620 --> 00:08:20,530
+then there's just no reason to have like long form copy, right? Do you need a long ass VSL? Do you need all that stuff? Probably not, right? And one thing you're going to see as we go through these is there's like a rating system. I actually inverted what, go back to like why I'm not showing you what ChatGPT did. They had it sort of in a weird way that reverted. But basically, I inverted it. Basically, appreciate these factors. When I give you this, you can kind of rate yourself from one to five. And what you'll see at the end to jump way ahead.
+
+18
+00:08:21,300 --> 00:08:49,620
+is you can use that as a general guideline for how, like, fat your funnel needs to be, right? So, for example, get thin, you know, assuming that rates above 46 when we go through these factors, you know, add product page cart. It's like, well, yeah, that's what we're doing. Works pretty well, right? Mid-level, when you go through these factors, add to, like, a quiz or advertorial. I don't think you have to have a VSL. You know, I might edit this here.
+
+19
+00:08:49,650 --> 00:09:17,710
+This whole thing has got more elaborate in the final hour as I was preparing for this call, but I liked it, so I went with it. Or long form, right? And heavy is like, as you see, add potentially a story pre-sell, 35-minute, 45-minute VSL lander, checkout, possible ascension email. So I'm going to make a little edits to this.
+
+20
+00:09:19,980 --> 00:09:47,660
+Basically, the idea here is, and it's going to make sense. Already intuitively, think about in the world of a ClickBank VSL. And I have examples we'll talk about for all kinds of niches and things like that. You could argue for financial VSLs too, even stuff like that. It's like if you're selling a weight loss supplement, like the ClickBank world, and there's a billion other weight loss supplements, and people are sort of jaded, and they don't...
+
+21
+00:09:47,660 --> 00:10:16,980
+the price point is perceived as high compared to buying something on Amazon and all these other factors we'll talk about, it kind of makes sense why people need to have like a way longer funnel, right? Whereas if you're selling medication, everybody knows about, cool, right? If you're selling like an investment opportunity, but it's sort of something nobody's heard of and it's spokespeople who maybe have a bit of credibility, blah, blah, blah, you can see why this might need to happen, okay? So going back to factors, won't let me highlight this one in yellow. These are all supposed to be yellow. I don't know why. Let me try it.
+
+22
+00:10:17,010 --> 00:10:45,650
+Oh, you know what? Maybe this. There we go. Okay. All right. So that's one factor, right? So if you go to, like, GitThin, for example, you probably rate that one as, like, a five, okay? And remember, the higher the rating, the less copy you need to add. What about demonstrable proof, right? The visual wow. So what we have here is, like, this is, like, I've talked about this before, right? And, like, it was on my list before I even talked to ChatGPT. But, like, if you have a product where you can just easily prove...
+
+23
+00:10:45,650 --> 00:11:16,020
+that it works, like it really demonstrate that it works very quickly, then you just don't need super long copy assets. And this is true of like, whether you're selling in a really pure econ version, or you still want to do more direct response oriented stuff. Like, you just don't need a bunch of copy if like, you can just show really fast that it works, right? So like examples of what like, what would this look like, right? Like a teeth whitening device, potentially, where you could show a video of like person using it.
+
+24
+00:11:16,020 --> 00:11:45,900
+And then like, you know, time lapse, like one hour later, or OxyClean would be a classic example, right? Most of you probably know what OxyClean is. Look at cleaner, spray it on, like the famous in commercials, right? Which Ron Lynch, who's kind of peripheral to our space, helped with some of them. Billy Mays sold it, famous pitch guy, like spray it. Oh my God, look at this, the stain's gone. You know what I mean? Like something like that, you don't need a bunch of testable proof. An instant wrinkle remover would be similar to that, right?
+
+25
+00:11:46,350 --> 00:12:15,100
+So these are kind of great products because if you have immediate demonstrable proof that something works very quickly and is a visual payoff, then less long copy. What's really interesting here is that there is sort of a way to circumvent this because the question becomes, OK, what if I sell like a supplement, right? OK, I sell like a supplement. So I need longer copy animations, blah, blah, blah. Like that's true. But what you'll find is people who sell.
+
+26
+00:12:15,100 --> 00:12:44,620
+like a supplement or someone who sells like even yourself neuro it's like a foot massager or like a gadget people who have those really good little animations in their videos that show you exactly how it's working and why it's working that does sort of serve a similar purpose which is why you will see a lot of people who are running like in feed type of ads on meta or wherever else it'd be kind of mini vsls one to eight minutes long maybe ten minutes long right like why are they able to get away with kind of like shorter copy
+
+27
+00:12:44,620 --> 00:13:13,780
+And it's usually because they have really good animation videos in there that like show like the product working and show, oh, look at this, you know, the enzymes going into your gut and now it gets into here. Or my wife saw something for a baby bottle that was like showing why the suction of a baby with this bottle really replicates like a nipple for breastfeeding moms, whereas another baby bottles don't. And she watched the animation and she's like, I get it, right? So even though just showing a baby sucking on a bottle is like demonstrable proof, but how do I know it's working? That animation sort of carries it over the edge.
+
+28
+00:13:13,780 --> 00:13:48,160
+So this would be the second thing that you would look at. I mean, I had this like purple mattress example just because one of the AI things gave it to me. But it's not bad. It's way more branded than what a lot of folks in here do. But it's not a bad video. It had 86 million views. Let me share audio. I'll share real quick. I might as well watch it. It's fast. It's sort of like that funny like Harmon Brothers back in the day type of style. But let me see. Sharing computer sound. Pull it up real quick.
+
+29
+00:13:48,160 --> 00:14:11,090
+So this is really to look at demonstrable proof and you'll see why in a second, right? The Purple mattress blows memory foam out of the bedroom. Only Purple passes the durability test, body heat test, and the all-new HED test or human egg drop test for the layman. The best test to determine a mattress's comfort and support. Ready, Billy? No, I just accepted. Perfect.
+
+30
+00:14:14,420 --> 00:14:40,910
+Just look at how the PurpleSmart comfort grid made from a super comfy yet ultra-supportive material called hyper-elastic polymer cradled those unfertilized chickies. And yeah, they're pretty real. Now, how about that memory foam? Take her up. Ready, Billy? Great.
+
+31
+00:14:44,340 --> 00:15:12,750
+See, unlike memory foam, Purple's unique design cradles your pressure points and redistributes support to the rest of your body, leaving your spine properly aligned. So no more back pain, no matter your body type, sleeping position, or frequency of nightmare. Oh, gee! Especially the ones starring your boss. So what is... Anyway, I'm not gonna watch the whole ad. Like, again, kind of branded, funny, whatever, right? I get most of us aren't doing production value of that level.
+
+32
+00:15:12,750 --> 00:15:40,210
+But it is actually a really good example of like demonstrable proof. Like for a mattress too, which is kind of cool, right? Like literally drop this dude, bunch of eggs, vulcar to his back, eggs don't break. So our mattress is different. Meanwhile, normal mattress, drop it, eggs break. Those mattresses suck. Ours is better. Like that's like, how do you sell like a, you know, multi-thousand dollar mattress without, you know, like long form through e-commerce and actually blow it up?
+
+33
+00:15:40,270 --> 00:16:12,880
+That's sort of a huge part of how, right? And so that's what's interesting too, because you think about pricing as being like, that's a longer price point, or sorry, higher price point, you need to have way longer copy. And it's like usually true. But if you can really have legit demonstrable proof of your product superiority, then it's not necessarily true, right? So actually, that's a pretty cool example. And so that brings us to the price point and perceived spend, right? And this is like, I think that should also be pretty intuitive.
+
+34
+00:16:12,880 --> 00:16:42,910
+This is number three, which is like lower ticket stuff needs less justification, higher ticket stuff, you know, GBT amplifies risk, but basically this needs more justification, right? It kind of makes sense. I don't know if I like less than $50 equals micro lander or two-step opt-in. I think that's silly, but I would say less than $9. I would put like anything from like, I guess, $10, right? And then...
+
+35
+00:16:42,910 --> 00:17:12,260
+But basically, this is pretty accurate. If you look at, like, if you've ever gotten, like, a free plus shipping book or something like that, often it's part of an Ascension funnel, right? Or a free trial on, like, a supplement or whatever it is, you know, generally, or a webinar opt-in, right? Where you're selling the opt-in to a webinar, you're not selling, like, whatever you're going to sell in the webinar, like, you don't need a lot of copy, right? That should be pretty obvious because you're, like, the risk and, like, the barrier to commitment is pretty low. Like, hey, it's free, get this free book, best-selling book, just enter your, you know.
+
+36
+00:17:12,260 --> 00:17:39,650
+We just pay for shipping $4.99 or whatever it is, right? Whereas once you start to get into something that is priced a bit higher, you know, yeah, like, you know, VSLs can often work. This doesn't mean always, but these are like sort of like where you'll find more likely to do longer. This is where this little thing I'm talking about, this rating thing will actually come in handy because you might be like, okay, well, yeah, I'm more than $10, so I need a VSL. And it's like, well, maybe, but like rate this one, rate each of the ones, and then you can use that to kind of figure out.
+
+37
+00:17:39,650 --> 00:18:11,150
+What makes the most sense? I know there's a couple of things in the chat, so I'm going to look real quick and see what those were. Yeah, we'll upload things. So yeah, we'll upload the doc with the recording and everything like that. You'll get access in Circle for sure. Okay, this is another one that I keep wanting to say it should be obvious, but I don't want to be insulting if it's not obvious, because I have a lot of experience here. And for some of you, it is. Some of you might not be, right? But let's take the traffic temperature, right? Basically...
+
+38
+00:18:11,570 --> 00:18:42,100
+Simple thing we're saying here is that colder traffic, typically you need more copy to convert them than really warm traffic, right? Again, this shouldn't really make a lot of sense. If you sell something to your email list and you have a list and it's pretty warm and you have a good connection with them, then typically you don't need to send them to a whole VSL for some new offer. You could send them to a pretty short landing page, product page, whatever it is, right?
+
+39
+00:18:42,100 --> 00:19:12,430
+If you are going after like stone cold traffic, typically as a rule of thumb, you're going to need more steps to convert them. Like again, you might need an advertorial, you might need, you know, VSL, whatever it is, right? That should kind of make sense too. So that was pretty self-explanatory, I feel. And so is number five. I actually think this list is super valuable. I think it was really cool. I was pretty excited and geeking out. And I do want to go through like all the examples, but I don't want to be too ADD.
+
+40
+00:19:12,560 --> 00:19:41,840
+I want to see what Gemini pulled up. So let me go through the whole list. Hopefully if I just share examples like verbally, that's enough. I know people like visual examples too, but hopefully this is all making sense and you're picking up what I'm putting down overall and everything. Brand equity and credibility, right? It's sort of like if you allow brand equity or there's like a celebrity founder or even endorser, typically you need less copy and a less long funnel.
+
+41
+00:19:41,840 --> 00:20:11,380
+Typically. So obviously on a really ultra brand equity side, it's like Coca-Cola, right? Coca-Cola doesn't need to sell you Coca-Cola through like a VSL, right? It's just like fucking Coca-Cola. You're like, you know what Coca-Cola is. We know Coca-Cola. Everyone knows what Coca-Cola is. Awareness is peak. You want it? It's Coke. Buy it, right? But you also will see this with celebrity people. And so you might find...
+
+42
+00:20:12,400 --> 00:20:42,020
+you know back in the day for example for a lot of like black hat free trial stuff would like put like you know jennifer aniston or somebody other some other celebrity on it it'd be a landing page for like some you know free like free trial like some miracle skincare or keto product or whatever it is and while i was black hat the idea one of the reasons why it works so well is because there's like a known celebrity they're claiming that the celebrity endorses the product so you don't need a whole vsl of the celebrity endorsing the product it's like boop there you go um
+
+43
+00:20:42,020 --> 00:21:12,500
+Yes, there are VSLs that have celebrities in them. Like, obviously, if you look at what Golden Hippo does, for example, or arguably, you know, what Agora does, we looked at that financial VSL from a few weeks ago. And you had the guy who was like a, you know, may not household name to the average person, but a household name to like a 50 plus conservative demo. So it doesn't mean you would never do a VSL. But generally, the more a brand is known, the less long copy you need. And by the way, one other interesting observation, I would say,
+
+44
+00:21:12,590 --> 00:21:44,080
+is that that is part of the advantage of building a brand. Like I'm getting like different strokes for different folks, like running kind of like, you know, aggressive VSLs on ClickBank. Like there's some people in here do when you can make shit tons of money. We had, you know, one of our members did 60 million for Q1. It was the number one vendor on ClickBank. Great. Right. Works. That works. Awesome. Right. But one of the advantages of doing actually building a brand is over time, the more your brand is recognized, they're kind of the lazier.
+
+45
+00:21:44,080 --> 00:22:14,020
+you can be with your funnels that's not really true because you're still split testing all this but like what i mean is like you know people talk about wanting to build a brand and so early on when you have a brand like yes maybe long long form copy makes sense but if you can actually build a brand that's really well known and recognized then you'll you might find that like the vsl stopping is as necessary right and you just gain stuff from like ugc social proof like little ads mentioning your brand the good product pages for new skews like the more aware of your brand the market is
+
+46
+00:22:14,020 --> 00:22:47,250
+the less, and presumably favorably aware, the less copy is required, right? So it's kind of something interesting to think about too. This one is like, okay, perceived risk and required risk reversal. And so essentially, I did think it was interesting the way this got framed, but like the less risk, the easier, the less copies needed, like in general again. So what does that mean? Like think about it, like again, free plus shipping book funnel. Hey, put it, you know, give me your, put in your info, I'm gonna send you a free copy of my bestselling book.
+
+47
+00:22:47,250 --> 00:23:18,350
+You know, shipping is $5, right? No subscription, no rebuild, blah, blah, blah. $5, super transparent. Here's a bunch of social proof, right? People like it. It's real. We'll get the social proof in a bit later. But like, bam. It's like, all right. Like pretty easy. Not a lot of hurdles, right? But you're going back to like an unknown brand, especially if you don't have a lot of reviews or in the world of like a ClickBank VSL, whatever it is, where it's sort of like a thing somebody has ever heard of before.
+
+48
+00:23:18,450 --> 00:23:44,590
+Like just from a awareness level, the less aware they are, the more risky you are. Right. And so as a result of that, the more risky you are, the more time you need to kind of take often being like, hey, we're not risky. You can trust us. And that comes down to social proof and other things of that nature. You know, it talked about sort of like.
+
+49
+00:23:46,610 --> 00:24:16,110
+you know, like longer testimonials, ingredients for supplements, guarantee FAQ. I think it all makes a lot of sense, right? Low risk. You don't necessarily need a whole FAQ for like a free plus shipping book. You know, you should test it, but not as important. You know, there's like the, what if it fails? Cause really there's this intersection of like, what's it going to cost? And what if it fails? Right. And if it's going to cost a lot of money and I feel like there's a high probability of it failing, my resistance to buying is very high. Right. So we have to,
+
+50
+00:24:16,110 --> 00:24:44,240
+justify the expenditure, obviously, or figure out the right pricing. And then we have to make them feel like the risk of failing is either the high probability of them not failing, or that's very safe because if they do fail, they're going to get taken care of, guaranteed, blah, blah, blah, right? So that's that one. There's 15 total. I'm through number six. I'll pause for a minute before I keep going because I know I'm sharing a lot. Does anyone have any questions or thoughts as we go here? I want to make sure to answer those before I just fire a host through all 15.
+
+51
+00:24:45,650 --> 00:25:22,060
+Feel free to unmute yourself if you do or put it in the chat or not. Okay. Is this, is it making sense what I'm sharing? Is it interesting? It's hard when you're just sharing off like a doc of just not a bunch of like visual examples, but like you guys, are you picking up what I'm putting down, so to speak, right? Okay, cool. Mark's there. Keep cooking. Cool. All right. Sweet. Okay. All right. So number seven, this is regulatory compliance load, right? So essentially,
+
+52
+00:25:23,020 --> 00:25:52,210
+This is honestly not, this is kind of niche. The point on this one is if like you're in like a really highly regulatory regulated space, like for example, we are with telemed, you know, you're going to have more steps. So for example, telemedicine, you know, yeah, there might be extra terms and services pages, but there's also like a whole eligibility quiz, right? You got to go through this quiz, make sure that you actually qualify, you know, whatever. If you're doing like a investment opportunity, you have to add in, know your customer things, stuff like that. Right. So basically,
+
+53
+00:25:52,210 --> 00:26:24,100
+those, those things are kind of mandatory often, but you know, that's going to be like, if you have, don't have to have any of that stuff. You know, you're a five. If you have to ask about stuff, you know, you're a lower score. Okay. That, this one was kind of good. I liked it. Right. There's sort of offer complexity or choice overload, which is a true thing. I mean, this is one of the biggest challenges often is like when people try to sell DTC and they try to are creating bundles.
+
+54
+00:26:24,100 --> 00:26:54,590
+Like obviously bundles are great, right? Because they increase your AOV, make more money. It's awesome. But it can also create this sort of cognitive overload or decision paralysis, right? Because you're like, oh my gosh, there's so many options, so many choices. What do I do? And so if it's really simple, like, hey, the simplest would be like, hey, buy one unit of this for this price, right? Or get it for free or whatever it is, right?
+
+55
+00:26:54,590 --> 00:27:22,850
+Just one thing, one unit, one price. That's like a five being least complex, right? Whereas if it's like hyper-personalization, a bunch of different options you should add in, you're trying to do that all on the front end, that's probably like a one because it's really complex. Like, what do you do for that sort of thing? I mean, one thing is obviously like, you know, using interactive quizzes. Like people like El Makiage have done that really well. Eric...
+
+56
+00:27:22,850 --> 00:27:51,630
+Santiago, who's in our WhatsApp group, and he's a partner for us in Opal, you know, he was head of growth, real maquillage, and helped him go from, like, 60 million to, like, a couple hundred million. Because then, essentially, in those cases, right, then, like, someone goes through a quiz, you're making recommendations, you're taking it, like, it's hard to do a quiz, right? People do quizzes, but they make them kind of half-assed, but, like, and it's a whole other training. We can do that in the future. I have Eric lead one on it, which I think would be great. But, like, you know, if you really are personalizing to what they...
+
+57
+00:27:51,630 --> 00:28:20,080
+um you'll need and then you're bundling things in based on that like that's the way that you get around it um but like in general if there's an overload and i always think about when people try to bundle oh a day and a night serum or whatever it is right like makes sense for skincare day and night like it's like but there's still more friction there than just selling one thing right so you need more funnel assets it doesn't mean you have a longer vsl necessarily um but you might need a longer funnel and you might work something in like this okay
+
+58
+00:28:20,750 --> 00:28:51,600
+Next one, number nine, would be like the importance of the LTV. The idea here is essentially like how many steps, right? Because if LTV is like really important and your like business is built around it, then, you know, your funnel can be longer. So what does that mean? It means like you could have really multiple steps and touch points, right? You might have like little mini classes, like, you know, like little like webinars. Honestly, I would put like, you know, like,
+
+59
+00:28:51,630 --> 00:29:24,610
+nurture emails to like, you know, like somebody comes in, you know, it's almost like, it can be like almost like a lead gen in a similar in that respect, but somebody comes in and you basically need to like nurture them, multiple emails, multiple touch points, get them on a webinar. That's not even a sales webinar. It might be like one where you pitch them, you know, free little classes, whatever it is. And, you know, you can afford to take more time and have more touch points.
+
+60
+00:29:24,610 --> 00:29:50,800
+to try to get them to buy because once they buy that ltv is going to be so good right whereas with a low ticket for contrast right you're really just trying to like self-liquidate right or and we're talking about like a free plus shipping or like 9.99 like it's just like self-liquidate real quick right one click upsells whatever it is you know supplement it's like same kind of same thing right like um
+
+61
+00:29:50,800 --> 00:30:14,180
+trying to get a ROAS on day one or at least break even. Yeah, you're going to try to monetize the data on the back end, have one-click up sales, but this is sort of like not, you know, for things where you're not an LTV-driven business, right? So we got a few more to go. This one is actually pretty easy too. It should be, you know, kind of intuitive, which is like the urgency of a problem or urgency of a pain point, right?
+
+62
+00:30:14,180 --> 00:30:43,820
+So they put the example of a migraine today versus some kind of aspirational anti-aging later. And it's actually a good example that was used because, well, especially on the anti-aging, right? That's one of the hardest things with some products people sell. Like even like energy is like hard to sell for a supplement space, for example, right? Because it's like, if my pain point isn't that urgent, like, I'm like, oh yeah, I want to age well, but I'm like, but I'm, you know, I got time. I'm not, aging doesn't happen overnight.
+
+63
+00:30:43,820 --> 00:31:13,260
+that's kind of challenging whereas if i'm getting like acute migraines all the time i'm like give me a fucking migraine solution that actually works and then there's all the other factors like credibility social proof awareness all these other things right it plays together but like that's a much easier sell so if i'm like this will fix your migraines here's like the social proof i've created a brand everyone knows fixes migraines like i don't need as much copy right um there's some notes like headlines and stuff like that um
+
+64
+00:31:13,260 --> 00:31:46,990
+versus the anti-aging thing, yeah, you need a lot more kind of like, you know, probably like a VSL showing a transformational roadmap, how things are going to change. But frankly, honestly, even in that case, what you really need is like, I'm going to put this here, an immediate pain point that is systematic of the long-term one. If I'm being real, that's actually what you really need generally, right? So anti-aging is like,
+
+65
+00:31:47,120 --> 00:32:15,840
+you know, Hey, you're going to get old. What if you didn't get old as fast? It's okay. Right. But meanwhile, for like your knees hurt, like your joints are hurting, like, you know, after 45, like you found that you struggle to lose weight or whatever, like some kind of like more acute pain point. Hey, that's part of getting older. This is going to help, you know, you, you know, fight back as a time, like not just, you know, you'll have better mobility, your joints.
+
+66
+00:32:15,840 --> 00:32:46,510
+aren't going to hurt, but you're also going to have more energy, more libido. You can kind of do the kitchen sink where you add all the other shit that's going to be great, but you still focus on one thing, right? If you go to biz up, it's kind of the same thing. If you sell a course on how to be a millionaire in five years from now, in theory, that's actually a great proposition because most people never become a millionaire. So it's like, wow, okay, five years from now, I can be a millionaire, great, right? But that's not the pain point right now. The pain point right now is you're broke and you're tired of being broke and you're in debt.
+
+67
+00:32:46,510 --> 00:33:11,060
+and you're in a nine to five grand that you hate and you feel like you just don't have any path to like actually get ahead you throw a little bit of money at random like sort of make money online things but they always are just full of shit they ask you to spend more money than you know they say they're going to people don't get results they're hard to implicate you know to implement like whatever it is right so it's like you'll find like be a millionaire in five years from now is
+
+68
+00:33:11,060 --> 00:33:45,330
+shitty offer and you guys do biz op and you know that there's several people on this call if they're still here who do biz op right so that's the shitty value prop but like you know kind of like get out of the nine to five have more freedom start making a few grand a month or whatever plus you know in your spare time uh even if you don't have any training background technical knowledge whatever it is right become stronger um and with stronger biz op you wouldn't necessarily always need as long of a
+
+69
+00:33:45,330 --> 00:34:15,780
+But again, that's going to depend on what it is. If it's a book, cool. You don't need a long funnel at all, right? If you're selling a $3,000, $5,000 coaching program, you're going to need a pretty involved funnel, right? Competitive saturation. This one is sort of kind of similar. Basically, if you have like a blue ocean, if you're like having a product that's solving a pain point or problem and nobody else is really talking about it, and you can demonstrate that it works or make it believable that it works, right?
+
+70
+00:34:15,780 --> 00:34:45,520
+The faster you can get somebody to believe like that solution works, like the shorter your copy can be versus an ultra crowded market. So what would that be? Well, biz op, right? If you do an FBA or whatever else it is, like weight loss supplements, you know, like financial investing stuff like the world of Agora, like anywhere there's a lot of noise, I mean, AI, right? Like make money for AI, whatever kind of stuff. Like, you know, there's much, once it's a crowded market, you end up needing more copy.
+
+71
+00:34:45,520 --> 00:35:16,660
+for kind of what's said here. I mean, it says like, you know, comparison charts, compared to teardown, like also just like, you know, just differentiation, right? Like that unique mechanism. And I'll add to this as a go, but, you know, but like loads of social proof. You guys do connection with specs, right? Add some of these things too, right? Because you basically need to do that. And if you look at the one that was funny on chatGPT, what I was doing the examples, it has to be examples. And we can look at these after.
+
+72
+00:35:16,660 --> 00:35:46,700
+um the example uh it pulled actually there's a bunch of good ones stands very all these things it had i think it was this one had alkaline what was it yeah market sophistication and actually used alkaline right from clickbank is like an example where they're basically like you know everyone is doing these weight loss you know supplements on clickbank so how do you do that i mean i'll share this research with you all so you can go through it and it's like it's pretty cool it's interesting they have some good
+
+73
+00:35:46,830 --> 00:36:17,580
+Some good things in here. And I'll do the one, let's see a Gemini finish. Dude, Gemini is blocked out right now. 362 websites. I'm actually really excited. I hope it just gives me like actual links in lander. It'd be so dope, but we'll find out. It's crazy. It's taking so long. So yeah, that sort of saturation. Same day shop ability, to me, I don't like, they put it there. I don't really think that's like, like even here I just put competitive saturation. I don't really know the same day shop. They all keep it in here for now, but I honestly don't really know what,
+
+74
+00:36:18,190 --> 00:36:49,390
+like what they're talking about there on that one. This one was interesting. This one I would have considered on my own. I mean, it would have maybe, but like, it's not like a really obvious one, I guess, which is buying context. So device and attention window. And it sort of mentioned here, right? 8% of TikTok traffic buys or bounces in 30 seconds on mobile. So like that does make sense as far as like, what's the dominant platform where traffic's coming from. So it's different from warm or cold. Cause like you can have cold traffic from TikTok, meta, native, YouTube.
+
+75
+00:36:49,390 --> 00:37:18,420
+whatever else right but here it's like not just cold but it's like which platform it's platform specific right um and kind of knowing how people act on those different platforms so going back to tick tock and then even the device right how do people on mobile act versus people on desktop right so for here for example if you have um you know mobile basically the lowest attention span in mobile right then you're like a five okay i know people have very short attention span
+
+76
+00:37:18,420 --> 00:37:49,920
+they only have 30 seconds, they're buying on mobile, that's a five. I'm like, oh, my people are like, you know, 70 plus on desktop computers who will sit through like a 30 minute VSL. Okay, that's probably like a one or two, right? So that's how you can kind of think of this one here. All right, a few more to go. So payment friction and financing options, okay? Like if I look at payment friction, like if I look at like what a five looks like there, it would be like something that's like free and it's like a very easy checkout. So I think it's pricing.
+
+77
+00:37:49,920 --> 00:38:18,510
+but it's also like, it's really easy. Hey, let's go here, check out. I mean, if you don't have to put a credit card in at all, to me, that's a five. Cause then you're like, okay, like, hey, put your name and your email and I'm going to send you this free guide, right? Very little friction, which is why an opt-in, you're going to send you this free training, whatever it is, right? It's why an opt-in like that can, you know, convert it 50 to 70%. You know what I mean? Versus put a card in immediately. You're really not like a five.
+
+78
+00:38:19,440 --> 00:38:50,210
+I probably just put free for this, right? But it's a really simple checkout quote. Now, if you're a checkout where there's sort of like, even buy not pay later is nice, but like, you know, then that does actually add some friction of the buy not pay later steps for approval potentially, or it's highly personalized or customized or configurable, right? Things like that are going to create more friction. And honestly, the reason that matters is you might, you really need somebody, it's actually not just about the checkout page. It's the fact that you would want somebody
+
+79
+00:38:50,210 --> 00:39:20,960
+to be like pretty heavily pre-sold by the time they get to that part so that like they will sit through all the shit they have to sit through to actually check out right so that's a really important point it's not just the checkout it's like pre-selling enough that when they get to the checkout um which might have additional friction like they'll they'll suffer through it you know i still think in the chat here oliver said what businesses still have primarily desktop traffic quickly offers yeah i mean i don't know if anybody
+
+80
+00:39:20,960 --> 00:39:48,460
+It's pretty rare, but you're going to see the most of the older demographics. Like you'll still see a surprising number of people on desktop who are like, you know, 60 plus type of thing. That doesn't mean like, you know, it's definitely a mobile first world, but like you'll just see more of it. So when I say like back to that one on like mobile, I'm talking about when you're like 90% plus mobile, 100% mobile, whatever it is, right?
+
+81
+00:39:48,460 --> 00:40:19,390
+I would almost look at it that way more than look at desktop. I'd look at it as like, what percentage of my traffic and buyers and customers are mobile? And like sort of like the higher that percentage, you know, generally, you know, as one of the factors, again, remember, you're going to combine these all together. So even if they have a short attention span, but you're selling something that's $2,000 and you have no trust and all these other things, you're still going to probably need longer funnels, right? So that's why it's kind of a valuable thing to create this criteria.
+
+82
+00:40:19,390 --> 00:40:50,830
+But if you're selling something like a free push shipping or like a free guide on TikTok, primarily mobile, you want just a short fucking put your name and get this stuff, testimony, what works, credibility, boop, get it, right? So that's how you can think about it. Good examples of accordion sections. I mean, not at the top of my head, but we'll go through all the examples that are provided and maybe we can find some there. And I probably have some swipes too, Will, if you...
+
+83
+00:40:50,990 --> 00:41:22,620
+If I don't find any on this call, remind me of WhatsApp and I can definitely find some. I just don't have any like prepared right now, but I'm sure I have some saved. Two more. Community and social proof assets, right? I've brought social proof a bunch of times. Generally, if you have a ton of legit social proof and that's like both like throughout a funnel, but also online, social media accounts, people are talking about you. If you have this big, you know, community of 100,000 plus people that you can point to and show like, you know,
+
+84
+00:41:22,620 --> 00:41:51,650
+that folks are a member of it. Like if you have that level of rich social proof, you know, you don't need as much time talking about your credibility, you know, things like that. Whereas if you don't have all of that, you know, going back to like in a VSL or an avatar or whatever it is, you're gonna be spending more time talking about like why you're credible, sharing case studies, things of that nature, right? So you see, you see us all the time. I see us like Landers for...
+
+85
+00:41:51,650 --> 00:42:22,480
+opt-ins, webinars. What are even physical products, right? They're just like the... I mean, dude, the average e-com lander is like pretty minimalistic copy, a bunch of reviews, a social proof. That's it, right? You'll get... There's always going to be exceptions, but like pure e-com, that's a really pure e-com. Chris just lives on social proof. And like, you just don't have a lot of credibility. Like, our brand's great. You know what I mean? Like, because the social proof speaks for you. Okay.
+
+86
+00:42:22,480 --> 00:42:52,530
+And then the last one in these factors is really just like time for results or visible progress. Kind of similar to demonstrable proof in some respects, but it's sort of like the faster somebody can get a quick visible win, you know, the less long it's being. It kind of relates to demonstrable proof, to be honest with you. But where I think that, you know, we see this with people in our mastermind who are selling like, you know, supplements or even devices where they're like, hey, in your first week, here's what you expect.
+
+87
+00:42:52,530 --> 00:43:22,420
+and week two, and week three, and week four, or just like, you know, week one, week four, week eight, week 12, right? It's sort of creating those milestones of like, here's what to expect, even on a landing page. It makes sense, but especially it's extra important to have those sort of assets when, you know, you're selling a product that doesn't necessarily give you really quick visible wins, right? Versus, again, like if something's like an instant wrinkle remover, you're like, boom, right? If something's like, hey, like,
+
+88
+00:43:22,450 --> 00:43:51,600
+you're going to get your first client tomorrow, right? Like I'll show you how in the next week, you know, and you have social proof around it. You don't need to spend as much time saying what's going to happen four weeks from now. You can still not bad idea. Frankly, it's called future pacing. Right. But like essentially that's this one. I, again, it's not to me the most important one in this list, but because of like the way the grading system works, we'll keep it. Right. And so again, highest score.
+
+89
+00:43:51,600 --> 00:44:23,250
+is usually the least copy, like add PDP cart, medium, add quiz advertorial, a minute VSL or longer form landing page cart. Now, again, for this, could you do, you could do this as like a, you know, this could be an infeed kind of mini VSL add to the quiz advertorial. I mean, that's the thing too. I mean, honestly, I'll put it in here so we can see it like, you know, let's do it like this. Structure number one. And then let's go to like,
+
+90
+00:44:29,230 --> 00:45:14,960
+i hate the spacing but i don't know if they're not so whatever structure number two could be like you know uh maybe like let's call yeah let's go and i have 8 to 15 here i'll come back to that so let's see three to ten minute um the video ad um you know probably to a quiz advertorial um and then sort of like i mean similar the point is on this one
+
+91
+00:45:15,700 --> 00:45:44,560
+I would almost say test. We did talk about abattoirs before. This is actually a structure a lot of people in here run. So I think that structure works pretty well. This is your, honestly, probably mostly static ad or really short ad. So you can put that there, like static ad for 30 to 60 second video ad, right? Obviously, if you run like sort of like an empty kind of like mini DSL longer ad, then...
+
+92
+00:45:44,850 --> 00:46:15,310
+You know, depending on how long it is, you can just go to PEP, CART, you know, upsells, or, you know, you just go to a quiz or advertorial, right? And then again, if it's like, you're really raking low for all of these things, you know, add often to an advertorial if you need it. We talked about why you need an advertorial. We did that training last week, you know, VSL webinar, application checkout, you know, potentially needing Ascension emails, right? And then it said, iterate on one last round of times. It's like, thanks, ChatGPT.
+
+93
+00:46:15,310 --> 00:46:45,940
+So I'm going to show this with everybody, but actually it gets really helpful. I actually like it a lot. It's a really good way to think about any offer and funnel. And I think these are very on point factors overall. And then, you know, I'll share the deep research docs with everybody as well. So if you want to go look through like examples it has, I mean, it's interesting. It talks about Stan's very, is it linking to these things? Let's find out.
+
+94
+00:46:46,130 --> 00:47:18,860
+and let's see if gemini gemini is still blacked out i don't know if it got stuck at 362 and i need to like refresh it or if it's still going let's see i don't want to like i'm afraid to to stop it and then i have to redo it but if it stays stuck here for a while sometimes if you refresh it you'll find that it's like better because i'm really curious it's got organifi gundry and like i said the beginning is called answer questions in just a second it's like that's why i do think there's like a kind of a value like i'll basically run this a deep research prompt and at least like
+
+95
+00:47:19,120 --> 00:47:49,300
+chat gpt perplexity and google usually because google actually sucks for a lot of deep research things i've done recently but then this one it looks like it's gonna be fucking dope right but again i don't know if it's like just if it if it overloaded it or what but um it's really interesting so let's look at the chat here um clear for clarity refresh will keep everything okay okay cool we'll do in a second mark how fierce to duplicate the offer
+
+96
+00:47:49,740 --> 00:48:27,120
+Well, what was the duplicate the page? Let's see. Okay, refreshed. I mean, this is moving. I don't know. When I get the final output of this, I'll share it for everybody. Do you guys have any questions on this? Again, I know it was kind of heavy, but again, you'll get the document to go through it. And again, I do think it's pretty sick. I like it a lot. I think there's a lot of cool things to keep in mind. And I think, again, the goal is like giving you that rule of thumb where it's like, it doesn't mean you're not going to test things. It's not like this is a golden rule, but like people.
+
+97
+00:48:27,280 --> 00:48:58,700
+You know, people are always looking for, trying to figure out what structure to use. I think this helps. Ivor said, you know, it's probably hard to answer without data, but how do you identify the bottleneck? In your funnel, ads versus offer versus funnel structure. Answer that one second. Mark says, this is sick, pointing to words. What's been in the back of my mind for so long? There isn't one goal in funnel architecture, but depends on awareness. Credible. Yeah, cool, man. Awesome. Really glad you appreciate it. I'm glad you guys rejoined. It's just the time to get the good stuff here.
+
+98
+00:48:59,280 --> 00:49:34,160
+Ivor, for what you said there, how do you define the bottleneck in your funnel? Yeah, it's hard to answer about data. I mean, I feel like it can almost be its own separate thing. I guess it's just like, because it comes down to metrics. Let me think about this in real time for a minute here. And for anybody who, if you don't have any questions, don't hop off. I understand. I won't be offended. I love you guys. But if you have questions, feel free to stay or you want to hear me answer this. Also cool. I probably start with the end in mind.
+
+99
+00:49:34,800 --> 00:50:05,780
+either if I'm thinking about this out loud. So if I'm like, you know, what's my goal, right? Is my goal to acquire customers, add like a positive ROAS on day zero, right? Like, okay, yeah. Like, okay, cool. And so in order to do that, what do the metrics need to look like, right? With the current funnel, it's like, well, the AOV needs to be this, right? Or the CPA needs to be this.
+
+100
+00:50:06,030 --> 00:50:34,900
+or the CPM or whatever it is. And I'd be like, okay. So then I'd probably start. It depends, but I would typically, I'd probably start. If I notice it depends on the funnel structure. But say I'm going to a landing page that's sort of like, it doesn't matter, a product page or a VSL goes to a checkout. And then I'm like, okay, well, what percentage of people that go to the landing page are going to the checkout? And what percentage of people from the checkout are converting?
+
+101
+00:50:35,120 --> 00:51:01,740
+And then I'm like, do those metrics seem in line with other people? I would get like some kind of benchmarks to measure against, right? Do those metrics seem pretty standard compared to what other people are seeing? If not, I might need to like look at that. Okay, I might need to like increase, do I need to improve the checkout conversion rate or the click-through rate? If I need to improve the click-through rate on the landing page or the VSL or whatever it is or the advertorial too, right? Like, okay, that's probably...
+
+102
+00:51:01,740 --> 00:51:31,730
+a copy optimization if i have like a heat map on like a landing page i can kind of look how far people are going where are they dropping off are they clicking places where they're not supposed to click whatever it is but like you know watch time on a vsl right or a bunch of people just dropping off in the first few seconds and the thing goes like this like that instead of going like this right the watch time line the service goes like this um you know that's or it goes like this okay well that's the place to optimize um if the metrics look pretty good i get the other part then i guess
+
+103
+00:51:32,180 --> 00:52:01,650
+concomitantly, which means at the same time, so flex my vocab, concomitantly, I would also definitely look at the ad metrics too, I guess, because if I'm seeing like, are my CPMs way higher than the average person, right? Am I, my cost per clicks higher? I'm not, I'm not an expert media buyer. I mean, obviously we, I run a lot of things where we're buying traffic. But yeah, I mean, I don't know. I would look at, if it seems like those ad metrics are way out of line with what's typically seen.
+
+104
+00:52:01,650 --> 00:52:32,850
+then look at that because then it's sort of like okay if my funnel metrics look good but my ads like you know are those metrics are high if i'm paying a lot of money for every click or every initiate checkout every person gets a checkout then part of the issue is i need to get cheaper clicks to get to the checkout and to buy right so then i'm looking at sort of like saying like my cost per click and that is qualified and like if i lower if i cut it the cost per click in half and all the metrics stay the same do i have a winner
+
+105
+00:52:32,850 --> 00:53:03,090
+If I have a winner, okay, cool. Then maybe that's the first place we should focus on or simultaneously focus on that. Can we figure out how to get the cost per click down? Or maybe the CPM if Meta doesn't like my ads or whatever it is. I'm looking at two things simultaneously. I'm looking at the ad side and then I'm looking at the actual funnel metrics and to the point where the bottleneck is. Or if I feel like everything's pretty good, I just need the AOV. If I just had an extra $20 or $40 to play with.
+
+106
+00:53:03,440 --> 00:53:39,870
+you know, then I might be like, okay, well, like, everything seems pretty solid. We just need to make more money with every sale. If we make more money with every sale, we can scale this thing. And then there's like a low-hanging fruit thing I would focus on there, right? So I know it's kind of an all-over-the-place answer. It's hard-fought data, but those are just some of the ways I think about it, at least, if that makes sense. Like, Gemini keeps breaking, keeps getting refreshed. Anyone else have any questions before we wrap here? Have you ever heard about the metric of AOVX?
+
+107
+00:53:39,870 --> 00:54:13,380
+Conversion rate times conversion rate. I heard it's an agency or say just below 350 to focus on CRO. And this is the bottleneck in the business. AOV times conversion rate. So let's see. So $200 AOV times like a, what would that be? Like a 1.75% conversion rate. That's not my best. I'll figure, I think that's like, I think that's interesting. I mean, I don't, I'd have to look at more real world data to like.
+
+108
+00:54:13,380 --> 00:54:45,010
+decide if I think that really is like a magical metric. But I think it's interesting. I mean, for us, I've talked about this a bit in the past, like I tend to like look at our effective CPA a lot, but that's a different metric than a lot of people look at. Nobody really talks about as much. If you go back to the other trainings, you can find me talking about that and why I like that. So I'm sort of interested in like, what's my like, I'm almost more interested in building like a halo so that I can spend more on meta, but then like, or wherever it is, but have
+
+109
+00:54:45,680 --> 00:55:15,200
+my overall cost to acquire a new customer would be lower. But if it doesn't train, it's not an effective CPA in the past. So if you want to see that, like, I think you can find one and I've explained it in the members area. But I think, yeah, I think that AOVXCVR is interesting. I do also think though that most agency owners are like constantly trying to make up shit to like be thought leaders and get people, like if you go on X, it's like, if you're not focusing on this, you're fucking up, bro. And it's also like, you know, I got this person to 10,000 X ROAS, blah, blah, blah. It's like, okay, cool. Like, well, you know, how about the 20 other clients you guys have?
+
+110
+00:55:15,200 --> 00:55:45,170
+um so i don't know i think of a grain of salt but i think i think it kind of makes sense i think it's interesting i just don't know i haven't looked at data to see 350 makes sense or what the number is or if that's really a more important metric than some of the other metrics i just mentioned but it's interesting for sure yeah i guess it's also niche specific like every niche has its own standard um i don't know conversion rate and aovs right yeah i think so i mean let's say
+
+111
+00:55:46,480 --> 00:56:14,610
+Okay, let's say... I mean, it kind of makes sense. I like the idea as a rule of thumb. Because let's say you're a lower ticket thing, so it's like a $50 AOV. But that means at a $50 AOV, your conversion rate needs to be like 7%. And that seems a little bit high on any scale, even at $50 AOV. I don't know. I mean, it would be nice. It's doable, probably, like if you're...
+
+112
+00:56:16,430 --> 00:56:43,710
+But it also depends on the funnel, right? If you're doing something where it's like a $10 front end and you just get a bunch of that AOV on the back end, then like, you know, I can see that making sense and working. So I don't feel like the person who said that's like a total fool and it might be a decent rule of thumb. But yeah, I don't know. I wouldn't make that my Bible metric necessarily, but I see where he's coming from and I see how it could depend.
+
+113
+00:56:43,710 --> 00:57:20,540
+you know, if you just sort of run it out, right. Okay. Like $10 AOV, then you need what, like a 35% conversion rate, which is kind of high. Um, so it might break down on some lower, but I mean, again, I don't know if it works at every level, but like, you know, $350 AOV, you need a 1% conversion rate probably, but frankly, you could probably be at a 0.8 or 0.7 or something. You know what I mean? So it's like, like, but it's almost interesting. Got it. Cool. All right. Olivier said, uh,
+
+114
+00:57:20,540 --> 00:57:50,220
+Would you still see value in a long-form TSL-VSL for a solution-aware market? Like, get thin, watch this before you start GLP-1. Or sort of like what organics was doing with magnesium supplements, why 99% of mag supplements are a waste of money. You need seven different kinds of magnesium to get the benefits by mag-7. Or is this a minimal lift implementation thing? I think it's something you can, like, I want to say, yeah, I can still see value. And it just sort of depends, I feel like.
+
+115
+00:57:51,500 --> 00:58:21,780
+I do think it depends on, and by that, what I mean, we tested some different VSLs with GetThin over the last year and a half. And some of them kind of showed promise, but nothing was like, oh, this is so much better than what we're doing that we're going to devote a bunch of resources to it. It was sort of like 20% worse. Kind of seems neck and neck, but then we were always testing other things that were more higher priority. And they were short VSLs. They weren't long form though, right? They were like,
+
+116
+00:58:21,840 --> 00:58:53,550
+seven-minute type of VSLs. I can't imagine a 30 or 40-minute VSL making sense for some glutein. Again, I hate saying never because I imagine there's just some brilliant person or maybe myself. I don't mean that I'm brilliant, but I like to think that I could make anything work if I really had enough cracks at it, right? But I don't have the juice to be worth the squeeze back to the minimal lift implementation thing. I just don't know that would be worth it, right?
+
+117
+00:58:53,940 --> 00:59:28,050
+especially when you, it's already working this way. And that would be like a lot of effort. And I don't know. I think you need to take a lot of cracks at it. Something like with a magnesium supplement where it's a commodity. I feel like in a way I get that more because I don't know. I think GLP-1 is like their prescribed medication. There's like zero doubt that they work. Whereas with magnesium supplements, it's like, there's a shit ton of magnesium supplements. There's different brands. There's different types.
+
+118
+00:59:28,880 --> 01:00:01,390
+Like, I'm not sure which type works, which type doesn't work. I've heard some more waste of time and money. Like, you know, I don't think today in this day and age, I mean, if I was going to do magnesium supplements, I can't imagine doing a VSL for it, but I get it more because you're trying to educate more on why this, like, you know, this type of magnesium works when others don't. So I kind of, I kind of get it. I still probably wouldn't start with that versus more of like an educational. I'd probably just do like an advertorial and then like a.
+
+119
+01:00:01,460 --> 01:00:31,330
+you know, kind of an e-com lander about why our magnesium is better. And I probably, maybe video ads right there. Like that's really my preferred funnel. I mean, that's what we're doing with Opal Beauty, which we're doing this whole rebrand of. I'll show you guys real quick. I don't think, I don't have like the PDPs yet to show you, but let me see if I can find like our rebrand. It's going to be fucking dope. But basically the funnel structure of Opal Beauty skincare company is like, you know, really going to be video ads, 30 seconds to a couple minutes long, PDPs.
+
+120
+01:00:31,330 --> 01:01:01,060
+Check out. And then if we need to add an advertorials, we'll add an advertorials. That's sort of my default for a lot of things. But let me show you guys a couple of the products. So this is our grass-fed beef whipped tallow bomb. I actually want to add. It's like a vanilla bean with it too, which is actually really important. That's on the label. I just noticed this is like a render. But this tallow is amazing. I'm using it. I actually went through my whole thing a bit. And then my wife has a jar over them.
+
+121
+01:01:01,060 --> 01:01:32,960
+She got hers after mine. So I started using her jar and now we go back and forth. Right. And then there's like, um, her unity eye serum, which is a totally different formulation. So that's sexy, such a sexy packaging. Come on, get out of here. Um, but you know, we've got really nice branding on it, like good brand assets, all that. So like, we're not going to do a VSL, but yeah, but my default is just like, uh, like I said, like video ads to PDP, which we're going to do ours kind of like Emma relief. So it's gonna be a little bit more copied than the average econ page.
+
+122
+01:01:32,960 --> 01:02:30,820
+because we have less social proof to start. And then check out. And as we get more social proof, maybe we'll test shorter landers, right? All that kind of stuff. But yeah. Thanks, guys. Yeah, it's so sexy. Levi said, thoughts on the Health Insider style? I mean, a lot of statistics that have random visuals and a little clickbait to advertorials. Can you send me, do you have an example, Levi? You can drop in here. I can look at it. Do you have a link to one? Hold my shirt. I'm just going to throw it real quick. So, I mean, this style advertorial,
+
+123
+01:02:30,820 --> 01:03:00,240
+i mean if it's working then it's working i generally and i get it it looks very it looks very legit like it looks like a real news thing so i understand right it seems like very um like i'm reading an article and so for those cases like the statistics kind of make sense i typically don't love just starting out things with statistics as a you know general rule of thumb um the reason that i've said in the past about it is like you're sort of
+
+124
+01:03:01,260 --> 01:03:32,430
+anytime you start off with like, hey, lots of people struggle from this problem. And I'm like, I don't care about the general. I care about the specific. The specific is me, right? So like, you know, I get it. But yeah, I don't know. I mean, if it's working, then more power to it. I mean, the images are cool, scientific. It seems like cool. I would test swiping it if I had the right thing for it. So yeah, I don't know. I like it. Ads library too. Let's see real quick.
+
+125
+01:03:40,690 --> 01:04:16,300
+It kind of makes sense. It's smart. I like it. I mean, it's sort of like, again, I'm like, you know, tiny. So if I click on this, it'll take me to the page, right? It's like interesting. They'll get little like memes or like infographics almost, right? And I'm like, okay, that's interesting. I want to learn more. I bet they get a really high click-through rate, to be honest with you. I would bet these ads get phenomenal click-through rate. I kind of like it, frankly. That's dope. Yeah, I'd love to see how it goes for you, Levi. Because I actually do, I think...
+
+126
+01:04:17,070 --> 01:04:50,930
+I wouldn't mind, I don't know if Ali's still on this call or not, but Ali, I wouldn't mind like swiping, trying to style for what we're doing. I mean, I think it'd be different because it wouldn't be like necessarily so factual, but I get it. It's like sort of, you know, an article, like it makes sense, but I actually really like this style. I'm going to say that. Thank you for sharing. Cause I don't know if it works for everybody, but I totally get it. And I get it when it goes and then I get the congruency, right? There's like a payoff. Cause if I'm going from this thing, that's going to kind of show me like, it feels like a, like an article, whatever it is. Like, it makes sense that I go to something that feels like an article also.
+
+127
+01:04:50,930 --> 01:05:26,190
+So, yeah, I get it. It seems cool. Anybody else before we wrap? Yeah, I have one question. Go ahead. Oh, yeah, go ahead. No worries. Yeah, it's not urgent, but I have a question. So why do you think Golden Hippo are launching different brands, solving the same problems, you know, with different authority figures? I mean, I think it's, you know, market saturation. Like, it's sort of like...
+
+128
+01:05:26,830 --> 01:05:51,340
+The authority figure that resonates with one segment of the market might not resonate with another segment of the market. So we have different authority figures. You know, you can have different like touch points, right? One might be like one appeals to guys 50 plus, one appeals to woman 35 plus, one appeals to woman 50 plus, all that. And then, you know, different brands is sort of like, I mean, you know, partly probably just having different.
+
+129
+01:05:52,300 --> 01:06:24,140
+companies and assets, you know, also, I don't know their current structure and model, but in some cases, you know, maybe somebody, it's like, it's like, of course, the publishing model, right? So it's like, maybe that somebody kind of has ownership of each brand and they try and grow it that way. And you get this big aggregate. I would assume, I would assume that's the answer. Got it. Okay. We talked about like VShred, for example, I mean, VShred, you know, they, they, it was like only Vince and like, they were constantly like, they want to get away from only Vince because, you know, it's like,
+
+130
+01:06:24,430 --> 01:06:55,460
+there was still some segment of the market that might not appeal to events. So now they have like Dr. Drew and they have that chick from American Gladiator. You know, they haven't, they haven't really fully executed on that, but you know, strategically it makes sense where again, different spokespeople are going to speak to different people and different brands. If I keep seeing the same brand I didn't buy, then it's like, okay, maybe they'll speak more to a different brand with a different ethos or style. So, but again, I wouldn't really be trying to do that until I'm pretty large though, you know? Yeah. It's just like hard for me to believe that.
+
+131
+01:06:55,460 --> 01:07:27,680
+the customer they're trying to target and like, for example, like Dr. Gungry is different than the customer in Roundhouse. Yeah. I mean, again, but maybe there's something they've seen. I mean, Gungry's around for forever. So if you're like, there's very well, maybe some like, you know, percentage of their total addressable market, like 20%, 30% is like, ah, I bought from that Dr. Gungry before. Or like, I don't like Dr. Gungry. Oh yeah. I've seen that guy all over the place. It was like a fatigue, right? It's like a, like an ad fatigue, like a, like a banner blindness. And so.
+
+132
+01:07:27,680 --> 01:08:00,640
+I think that could apply to a spokesperson as well, right? Yeah, I think they might also exclude maybe buyers from Dr. Gandri on Roundhouse ads, maybe. What do you think? Could be, yeah. I'm not sure, but it would make sense, potentially. Cool, good question. And who else had a question? Yeah. Stefan, I want to ask you, could we do a training going more specifically on the funnels and like, why do you believe they work? For example, for us works,
+
+133
+01:08:00,640 --> 01:08:28,910
+25-minute VSL to an advertorial. Yeah. Like, this sounds counterintuitive. Or somebody runs, like Dr. Gundry sometimes runs an hour-long VSL to a quiz funnel. Right. Like, all these weird funnel combinations, and in which cases do you believe they perform the best? Yeah, we can definitely do something on that. I mean, the challenge, I think, is just, like...
+
+134
+01:08:30,100 --> 01:08:55,410
+I mean, it's probably something where we can just do like, you know, different funnel breakdowns, like on different calls. But I just sort of feel like it's hard because it's the super annoying answer of like, oh, you just got to test. Like, I just feel like there's cases where like, you know, like 25 minute VSL advertorial does seem counterintuitive, but it's working for you. So it's like phenomenal. But I would guess like.
+
+135
+01:08:55,470 --> 01:09:25,840
+nine out of 10 people in here would run the same thing and it would not be their winner or like seven out eight out of 10 so it's kind of like for some reason i mean we can go through your funnel right on a call if you're down like i mean um or whatever i'm down to do that like and try to guess you know but it's yeah sometimes it's hard to to know truly and that's why the testing thing is so important you know yeah okay but we can definitely do more funnel
+
+136
+01:09:25,840 --> 01:09:58,900
+breakdowns and stuff like that and dissections and sort of guessing why they work because I enjoy doing that stuff anyway. I'll go back to Aaron in a second. Mark, for guys running DR heavy e-com stuff, what tracking attribution do you use? I know Levi said triple well. We still use Hyros for the most part for stuff we do, which we're pretty happy with. And we use RedTrack from Meta specifically and then Hyros sort of overall sales tracking.
+
+137
+01:09:59,090 --> 01:10:34,900
+Aaron said, can you expand on the statistic thought? We've seen statistic heavy ads crack well, as long as the stats are actually relevant to the core position. Yeah, I mean, I just historically, like, I think it can work in an ad. I think it depends. I don't know. I think if it's an interesting like stat that somebody like is, I don't know, I guess test everything. I just historically never liked statistics. So I always felt like
+
+138
+01:10:35,120 --> 01:11:07,230
+when you share statistics it was like you're kind of speaking to a general population and people like i said are more interested in the specifics so like it started like a vsl for example if it's like did you know that 85 of people struggle with xyz it's like to me it's like for most niches i'm like yeah great but like tell me about me and my problem but the market continues to change and evolve and so it may well be that you know
+
+139
+01:11:07,230 --> 01:11:35,040
+That's just an opinion I had that was maybe right in the past. It may not be as right anymore. Like I said, those ads that are showing statistics and going to Landers, I actually think that's a pretty good structure. So I like that. So it probably depends on the context as well. And I guess it depends on the market too. Like I think for a female heavy market, I kind of feel like statistics can make more sense. Maybe I'm full of shit. I don't know. But like, because it's like, hey, you're not alone, girl.
+
+140
+01:11:35,040 --> 01:12:15,980
+hey, a bunch of women are going through this. We're all together, whatever it is, right? Versus in a male market where I feel like, whatever, I don't care about those guys. Like, I care about me. But yeah, I don't know. I don't have a really, like, that's just saying I've observed over the years, but it could well be that's changed and I need to update my belief set on that. See how it's really boosted revenue? I don't want to boost revenue, but it helps us make good decisions. You know? Anything else, guys, before we wrap? Going once, going twice, three times.
+
+141
+01:12:15,980 --> 01:12:24,140
+Gone. All right. Thanks, everybody. Appreciate it. Enjoyed it. I'll make sure everyone gets access to all this stuff and talk soon. Thanks, guys. Bye.

@@ -1,0 +1,184 @@
+{
+  "source_file": "Stefan Georgi - RMBC II (1)/05-BRIEF 20/01-[1] The Old Brief vs. The New Brief (Overview).mp4",
+  "source_id": "mega:GwRSGa5C",
+  "audio_sha256": "fca43d29d7b67fc81a14e418032869186b2e6863551257222e1f9574e6d9aa42",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 1024.41,
+  "last_segment_end": 1024.4,
+  "segments": [
+    {
+      "start": 0.37,
+      "end": 31.98,
+      "text": "Hey, what is up everybody? All right, so today we're going to be talking about briefs. If you think of RMBC, Research Mechanism Brief Copy. We've gone through research and we've gone through the mechanism, or hopefully you have. Now we're moving on to the brief. This is imperative for writing really good copy, especially any kind of like VSL and not just long form. It's especially imperative for long form."
+    },
+    {
+      "start": 32.02,
+      "end": 62.29,
+      "text": "but also imperative for medium form and very useful for short form as well. And frankly, can also be used for PDPs, advertorials, and other things in addition to that. So when I say all that, I'm actually not talking about this document. I am talking about this document and I'm talking about our good old friend at Claude here and what it can do."
+    },
+    {
+      "start": 63.89,
+      "end": 93.23,
+      "text": "I'm going to show you a bunch of cool stuff here. This will set up everything. It will tie together what we did so far. It will also give you what you need to just print all kinds of copy. So this is extremely important. Do not skip it. I feel like in RMBC 1, the brief was also very important, but people who didn't do long form copy kind of skipped over it. I feel like sometimes I would underappreciate it. It's really helpful. So the original brief from the original RMBC."
+    },
+    {
+      "start": 93.42,
+      "end": 122.96,
+      "text": "was really about getting the information onto a piece of paper that you, a human, would need to write the copy that you were going to write, especially long form, but could also be medium form, whatever. And so it asks you questions that you would need to answer in order to write that copy. The new brief, which we're going to go over shortly, does the same thing. As you can see, it's more in-depth, but the huge difference is you won't be filling out."
+    },
+    {
+      "start": 123.09,
+      "end": 154.26,
+      "text": "A lot of it, first of all. And you're doing it to give to an LLM to write copy. Now, you could still use this to write copy yourself. If you're watching this and you're feeling resistant, you go through the whole thing, you say it's great, but I don't like AI copy. Fine with you. I personally cannot understand, but more power to you, okay? This is more questions. But we'll quickly review the classic brief. Most of these questions are still on this one. So I'm going to be very quick here."
+    },
+    {
+      "start": 154.29,
+      "end": 183.81,
+      "text": "It was just stuff like, you know, who's the audience? Who's the target market you're speaking to? What are their big pain points or fears? But really like, you know, being broke, not having enough money, like being overweight, having high blood sugar, having low energy, not feeling confident, not getting women, not getting men, like whatever it was, right? And you kind of would do short-term and long-term were sort of the more dimensionalized version of this. What I mean by dimensionalized would be..."
+    },
+    {
+      "start": 183.81,
+      "end": 217.68,
+      "text": "you know, ending up alone for the rest of your life and your mother was right, that you're really a disappointment. And this is another Saturday night. You're staring at the, at your phone on the couch by yourself, Netflix on, I guess it's going to, you know, I'm going to be all alone again. Right. You know, that's because if I don't get a girlfriend now, right. Like, all right, I'll start making money or whatever it is. Right. And so that was more long-term. And then we got to like the big promise. So by reversing the pain points, biggest fears,"
+    },
+    {
+      "start": 217.68,
+      "end": 249.52,
+      "text": "What's the big promise that they're going to get from interacting with the copy? So this was different than a promise around the product itself. It was more like why you're going to discover a breakthrough solution that can help lower blood sugar, help you burn fat, an easy plug-and-play system that can help you to bring more income, all those sorts of things, right? Keep reading."
+    },
+    {
+      "start": 251.15,
+      "end": 281.62,
+      "text": "All right, what solutions for the reader's problem or problems exist already and why aren't they working? We kind of talked about this in the research section as well. And then this part is really just what's a unique mechanism. Mechanism of solution, mechanism of the problem, things like that. And we would write it out in kind of copy format so that when we went to do a sales letter or do any kind of sales copy where we explain the mechanism, we already kind of had it and we didn't have to try and think of how to present it. When we were in copy, we already thought of how to present it."
+    },
+    {
+      "start": 282.58,
+      "end": 312.29,
+      "text": "Practical question I'm going to kind of skip. Really, it's just about curiosity, but it's not like a crucial thing. It can be valuable, but yeah. Metaphors, you know, I'm also going to kind of skip over. I mean, hopefully you know what a metaphor is. You can look it up if not. The thing is, AI is quite good at metaphors these days, so we don't really need to come up with metaphors as much. If you have a great one, you know, cool. But we're not going to use this brief. I'm just sort of giving you the overview because, again, these will be on this one too."
+    },
+    {
+      "start": 312.29,
+      "end": 341.28,
+      "text": "Bold claim. This is about what they're going to get from using the product. Hey, when you use the product, you're going to start generating $500 to $800 a month on extra income. You're going to start burning fat around the clock, feel sexier and more confident, yada, yada. Whatever it is, this is what's going to happen with the product. What is the product? Well, here's where you're writing out specifically the product, the features and benefits of it, or the physical attributes of it."
+    },
+    {
+      "start": 341.28,
+      "end": 370.37,
+      "text": "If it's an informational product, sometimes you do fascinations, which I'll include a module on, but basically they're curiosity bullets. Like, so, you know, inside the book, you'll discover why the one thing you should never say to a police officer, if you want to get out of a ticket, like five words to never say to a beautiful woman at the bar, if you want to get her number or the handsome guy at the bar, whatever. Right. Trying to keep it for everyone. But, um, you know,"
+    },
+    {
+      "start": 370.37,
+      "end": 400.99,
+      "text": "But you'd be doing those fascinations, right, to sell the product. In this case, it's like, oh, these are, you almost act like they're part of the book, right? Because you're answering these questions inside the book or the package, whatever. If it's a coaching program, you would, details of the coaching program, all of that, okay? Background story, story of discovery. It's like that classic hero's journey. I know you're like, why are you going through this if this isn't the brief we're using? It's because they're all on this brief anyway. And I don't know. I just feel like doing it. So I won't repeat myself when I go through here."
+    },
+    {
+      "start": 400.99,
+      "end": 430.11,
+      "text": "but like you know somebody uh like we talked about the the sales letter i guess actually the next section you'll see in the sales that are outlined but hey somebody like me um somebody like me or somebody like close to me or somebody i know was like in pain starting this pain point they you know went on a journey and found the solution um so it could be like just like like you know a person like a exhausted mom finds like a energy solution or a doctor"
+    },
+    {
+      "start": 430.11,
+      "end": 458.77,
+      "text": "sees patients and realizes they're all struggling with this pain point and tries to figure out what the real cause of the pain point is or a guy is working a nine to five and you know feeling the stress from the bills and decides to quit and start like a drop shipping thing whatever it is right that's sort of like the story and then they discover the solution like it's like what is it um and we have headline ideas potential upsells you don't need to stress too much on that um because we'll worry about that later"
+    },
+    {
+      "start": 459.25,
+      "end": 488.32,
+      "text": "All right, so that is the classic brief. Now, look at the new brief. I already kind of explained. If you hear a little crying, sorry. I've got a newborn, and she's a little fussy. And, you know, what are you going to do? That's why I just paused to go look at her. I paused a lot. There's my seven-year-old coming. It's funny, the original RMBC, I guess I had my seven-year-old, but she was pretty young at the time, like a year, year and a half old, something like that. And I don't think I had this dog that I have now."
+    },
+    {
+      "start": 488.32,
+      "end": 517.39,
+      "text": "loves to sit on my lap, oh, constantly with him, the dog. But, you know, that's cool. Life changes. And some of you who had one, now you're here continuing on the journey with me. All right, so like the new brief, like who's the audience? Like we're still looking at that, pain points, reversing the pain points. So same thing I just mentioned. These things here, there's a couple in the other brief, but they're really like instructions for the LLM."
+    },
+    {
+      "start": 517.39,
+      "end": 548.21,
+      "text": "as much as for you right these are promises about what they'll get from interacting with the sales copy or for teasing solution you'll be showing them in the sales copy okay what does it look like when a prospect's pain points have been solved so we include physical emotional and social and psychological benefits so this is sort of about future pacing i actually have the question twice i don't know if i need it twice but i have it in here twice sort of but really this is like once your blood sugar levels are lower once you're making more income once you're feeling more confident once you"
+    },
+    {
+      "start": 548.21,
+      "end": 575.84,
+      "text": "have a girlfriend or boyfriend like what does it look like once you start you know burn fat and get build muscle like what's the physical transformation it's like emotional right you feel more confident you feel more proud social like friends notice and ask you questions um psychological it's sort of the same as emotional like you feel empowered you feel bold you feel sharper uh you know you the little nagging voice in the back of your head dies"
+    },
+    {
+      "start": 575.84,
+      "end": 605.84,
+      "text": "Right? This is cool. These are things that are really powerful in copy and especially more direct response oriented copy. It's like paint that picture. Okay? Solutions we already talked about. And by the way, I do want to pause here and tell you, as we think about this, similarly to RMBC1. If you think about answering these questions, it's like, well, think about the research we did. It's like, who's the audience? Well, we did that. We talked about sort of their pain points. We talked about what their hopes and dreams are. So we kind of got big promises, right?"
+    },
+    {
+      "start": 605.84,
+      "end": 635.15,
+      "text": "This we didn't do too much, but that's okay. But we kind of know this information. You'll see how this fills with it. You don't need to fill any of this out. This is why I'm going through the questions. You're not going to really need to fill anything out before you go. In fact, you shouldn't. This is not a document that you fill out from scratch unless you really want to. Here's the mechanism. Please include enough detail so that when given to an LLM, you could write this whole section without struggling. Is there a nickname for the unique mechanism? This is also for the LLM. This is something..."
+    },
+    {
+      "start": 635.15,
+      "end": 669.49,
+      "text": "that'd be teased early on in the lead of the VSL. For example, the seven-second bowel-releasing ritual or the 30-second breakfast hack or paper flipping to tease a real estate arbitrage method, things like that. For supplements, what are the main ingredients in the formulation? Well, let me get back to this. Sorry, I've got to remember to kind of go really slow for people who are newer, right? This is pretty common. Inside this video, you're going to see a seven-second bowel-releasing ritual that does XYZ. I honestly might do something where I'm wondering,"
+    },
+    {
+      "start": 669.49,
+      "end": 702.88,
+      "text": "I guess I don't need to tell you this because I have a bunch of like, you know, I go through copy structures and then I show you examples of it. And I'm almost wondering if I put that before I get to the brief. So it's like understanding copy and then it's like writing copy, doing the brief for copy. So you can't write, preparing to write copy, writing copy. I might do it that way because I feel like I don't, you'll understand more things that I'm talking about in this video if you did the modules before, I think. So I might do it that way."
+    },
+    {
+      "start": 702.88,
+      "end": 732.3,
+      "text": "Okay, for supplements, what are the main ingredients? What are two or three studies showing their efficacy? If you watch the bonus sort of deep research supplement thing, you'll know what that's about. Bold product claims. Okay, what's the huge promise? The promise is about the results you're going to get using the product or solution. Note, this is different. From number three, like I said, these are specific promises and claims about how their life will change for the better once they buy the product. What is the product? So same thing here. I did change it a little bit from the classic brief."
+    },
+    {
+      "start": 732.3,
+      "end": 760.94,
+      "text": "background story i kind of just give more context for llm classic hero's journey who's the main speaker in the vsl includes a quick snapshot of who they are and their credibility so you know the main speaker might be like i said the tired mom might be a doctor it might be uh a customer of like a the brand right like uh who has had success is there a secondary speaker or an expert who has a large role a lot of times you might have a vsl where"
+    },
+    {
+      "start": 761.36,
+      "end": 792.08,
+      "text": "There's a main speaker, but then there's an expert. So in a financial one, for example, it might be that there's a narrator, like is it the interviewer? And then there's the expert being interviewed. In some VSLs, you might see where it's an everyday person and then they find like a doctor and the doctor has some speaking lines throughout, right? So it's good to notate that. Does the spokesperson partner with a brand or company wants to discover the prop? So a lot of time in a VSL, especially the spokesperson,"
+    },
+    {
+      "start": 792.08,
+      "end": 819.82,
+      "text": "you know finds a solution or the doctor finds a solution however it is and they're like you know then they partner with brand because brand already had the solution in place right list all the testimonials are social proof testimonials are social proof if available so testimonials are what it sounds like include any credibility builders that can be used in the opening of the sales copy um so this could be references to"
+    },
+    {
+      "start": 819.82,
+      "end": 850.08,
+      "text": "studies about the ingredients about the ump perhaps harvard scientists uncover the real cause of your problem maybe tony robbins endorsed the solution maybe the program has been featured in forbes or good morning america right like what are credibility builders you can mention so like the seven second battle releasing ritual based on breakthrough research from harvard right like a proven mindset uh proven mental strength technique that flips your mindset and it's so powerful even tony robbins shared it with his millions of followers right i mean you know hopefully it's true but if you have stuff like that"
+    },
+    {
+      "start": 850.08,
+      "end": 884.59,
+      "text": "It's good to get this here. All right, what is the normal retail price for the product being sold? So obviously, or maybe not obviously, but hopefully a lot of VSLs and copy, it's like, hey, the normal price is $200, but today only you can get it for, you know, $49. So what's the actual price? Well, $49. If the VSL sells a product with multiple options, what are those options? And what is the pricing for each option? So here it's like, kind of exactly what I said, I guess. It's like, if there's a bundle, right? Like, hey, when you get it,"
+    },
+    {
+      "start": 884.59,
+      "end": 915.66,
+      "text": "One bottle, it's $49 per bottle. When you get three bottles, it's $39 per bottle. And when you get six bottles, it's $29 per bottle, right? When you get the gold package, it's, you know, $9.97. But you can get everything in the gold package plus all this other stuff in the platinum package for just $12.99 or whatever, right? Like, you want to know that information. You want to know what the guarantee is because there's usually a money-back guarantee. Hey, if you're not happy, 180 days."
+    },
+    {
+      "start": 915.76,
+      "end": 951.73,
+      "text": "Simply message us and let us know and we'll give you your money back. Okay, are there any bonuses? If so, list them out. So that's what was going to be important. Like, any other scarcity elements? So basically like, hey, is there an urgency? Is it a limited time deal? Does the discount expire at midnight? Is it for the first hundred people? Things of that type. I've been saying things of that nature a lot lately. I'm trying to not say this often. Okay."
+    },
+    {
+      "start": 951.76,
+      "end": 980.64,
+      "text": "Please write out specific future paced results and benefits people could expect. So this is what I talked about before, kind of like from that question back above where it's sort of like, hey, you're going to be more confident. You're going to be more like, I kind of don't need it twice, but I have it twice starting my little brief project, so I'm keeping it. What are common objections prospects might have when watching the VSL, and how can we answer them? So we talked about objections a bit through the research. It's good to bring those up. Like, oh, well, I've tried supplements before. They haven't worked. Oh, I've done coaching programs. Well, my back hurts, so I wouldn't do a workout program. Okay."
+    },
+    {
+      "start": 980.64,
+      "end": 1013.12,
+      "text": "Are there any specific hooks or big ideas that you think should be tested in the lead of the VSL? So it's like if you have ideas for hooks, we'd want to record them, right? Okay, so the next thing we're going to do, once we have to fill this out, we're going to create a brief generator in Claude, where it's going to have, we've got to make this the window bigger anyway, but basically it's going to have this brief and outline some instructions, and you're going to give it a"
+    },
+    {
+      "start": 1013.12,
+      "end": 1024.4,
+      "text": "basic information and it's going to pump out the brief for you so i'm gonna do this in a new video because i need to stop and help with my newborn um so do that video in just a minute but this is the new brief you've now gone over it you'll continue"
+    }
+  ]
+}

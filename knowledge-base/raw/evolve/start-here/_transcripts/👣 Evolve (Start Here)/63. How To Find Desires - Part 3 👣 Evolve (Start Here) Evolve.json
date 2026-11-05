@@ -1,0 +1,549 @@
+{
+  "source_file": "👣 Evolve (Start Here)/63. How To Find Desires - Part 3 👣 Evolve (Start Here) Evolve.mp4",
+  "source_id": "mega:jhQDiSSY",
+  "audio_sha256": "131103b7d863ae3c5c051532760ad8d4196f4f0842bca27605edee423cc411d7",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 2578.99,
+  "last_segment_end": 2578.99,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 15.25,
+      "text": "All right, in this video, we are going to go desire hunting. And what that essentially means is that we are going to scour the internet to find what the hell people want. Very simple. What problems do they have? What is going on out there? Okay, and this."
+    },
+    {
+      "start": 15.25,
+      "end": 44.32,
+      "text": "is the number one most important thing. If you are someone that has done research before and you've like, oh, I already know the desires and that kind of stuff, I have some stuff in here for prompts specifically that you can run that will help you get some even more information. And to be honest, I am doing this completely blind. I haven't even checked the deep research prompts that we've used. And again, I'm sure I had to do all this. And at the end of the day, I want you to use this process to obviously jot down any other research and things that you find, but more importantly, to have a sole focus of what"
+    },
+    {
+      "start": 44.32,
+      "end": 54.19,
+      "text": "do people want okay what are the problems out there what are the desires that people have and just go out there and just hunt for"
+    },
+    {
+      "start": 54.19,
+      "end": 82.43,
+      "text": "Yeah, honestly, hours. I'm probably going to try to do this for about 30 minutes or so and show you guys some examples and find a couple and then we're going to get into the deep research side. But it's very important that you don't just fully automate this with AI because the little golden nuggets that you find deep, deep, deep in red threads, deep, deep, deep in reviews and deep, deep, deep inside of all the other platforms, YouTube and show you all of the different ways that you can find desires is where a lot of the winning ads are from. OK, so my screen was frozen, so I had to reset it. But this is."
+    },
+    {
+      "start": 82.43,
+      "end": 108.61,
+      "text": "all we're going to have on this sheet. Okay. There's a sheet here called desire hunting. And again, there's going to be broken up for you guys. And inside of here, you're simply going to put the brand or whatever it is that you're going after. Okay. I'm doing this for a collagen brand. And inside of here, we're going to have one single title here. It's called desires. Okay. Wants and needs. And then from there, we're going to add review snippets. So while we're finding these, and I honestly want to even change it. I'm just going to call it customer."
+    },
+    {
+      "start": 108.61,
+      "end": 123.17,
+      "text": "language snippets. I love putting customer language inside of here so I can know what specific language they use and it's not restricted to Shopify and Amazon. And then here, I'm just going to have bad ideas. And so the goal of this is we're going to go through."
+    },
+    {
+      "start": 123.17,
+      "end": 140.16,
+      "text": "We're going to do some research and we're going to find what people want, as I mentioned. But the way that we do that is going to be guided by what we have here. OK, and for those of you that obviously are involved, we have the entire market research section there. And at the end of the day, the goal of this is just to give."
+    },
+    {
+      "start": 140.16,
+      "end": 169.23,
+      "text": "anybody can use this document to find things. Reddit is my favorite place to go. Review section is another great place to go. And then one of my favorite areas is honestly, YouTube and their comments, TikTok in their comments and their content as well. And then I also love going through Amazon and answer the public is okay. But I would say TikTok, Amazon, YouTube, and Reddit are my favorite places to go. Okay, so I have a collagen brand. And what I'm going to do, I'm going to get into the desire prompts in a second, I promise is we're just going to go to Google. And we're going to say"
+    },
+    {
+      "start": 169.52,
+      "end": 194.03,
+      "text": "What does collagen do? Reddit. What are the benefits of collagen? Our nutrition. This is from six years ago. This is from nine months ago. So this one's relatively new. This one's from one year ago. Does collagen actually do anything? 190 plus comments. Has anyone taken collagen supplements? 210 plus. And look at the like thread. So this is our supplement. So let's go ahead and take a look at this. Okay. I'm in the market for a new protein shake and I stumbled across a collagen coffee creamer."
+    },
+    {
+      "start": 194.03,
+      "end": 213.97,
+      "text": "Kind of interesting, right? This guy got side-quested. Does ingesting collagen actually do anything, or is it a marketing ploy? It never goes outside your GI tract, okay? Let's see what people have to say. It's anecdotal, but I was tired of my skin looking dry, no matter. My skincare routine, 40-year-old female, that's what 40-F means. You gotta learn the Reddit lingual."
+    },
+    {
+      "start": 213.97,
+      "end": 240.96,
+      "text": "Took about two months, but I started to notice a difference. My skin looked smoother and less dry. My hair is growing crazy fast too. And my nails, which I trimmed every three weeks, now get trimmed once a week. My assumption is if my hair and nails are growing that fast, my skin is probably turning over more often. So it's looking better. And this has 28 upvotes. Now upvotes are really great because as you see here, this is 34 upvotes, 23 upvotes. This kind of tells you what people are liking. So let's just take a second and take a look at this, okay?"
+    },
+    {
+      "start": 240.96,
+      "end": 265.52,
+      "text": "I was tired of my skin looking dry no matter my skincare routine. Well, there you go. Probably something we should jot down. And I'm going to put that in kind of the customer language snippet. But I was tired of my skin looking dry no matter my skincare routine. So the desire here is they want hydrated looking skin. Cool."
+    },
+    {
+      "start": 265.52,
+      "end": 293.63,
+      "text": "for and you could even expand this further if you wanted for like people that already run skincare routine but that's essentially the desire that someone would want all right let's keep going whoopsie i'm cheating i'm cheating i gotta go back uh let me pull this up so when i fill this we're actually good to go beautiful okay and so then inside of here said i started to notice the difference my skin looks smoother and less dry so smoother actually so smoother is the better word so smoother and less dry is actually the word that they use so this is a great opportunity to correct myself so i said hydrated"
+    },
+    {
+      "start": 293.63,
+      "end": 323.9,
+      "text": "Right. That's not the word anybody used. And you can even check this as well. You could do command F hydrated and see if you find anything. Not a single person said hydrated. That's where they call. Why doesn't this work? Why didn't that? Well, no one's using the word hydrated. They want smoother or I want smoother and less dry skin. OK, beautiful. Let's keep going. My hair is going crazy too fast. My skin is probably turning over more often. So this is also really interesting. I love that."
+    },
+    {
+      "start": 323.9,
+      "end": 342.7,
+      "text": "They're explaining that my hair is growing crazy fast too. And my nails, which I trimmed every three weeks, now get trimmed once a week. So my assumption is if my hair and nails are growing that fast, my skin is probably turning over more often. So this is an assumption. But what I like about this is this also gives me an insight for different ad ideas, right? So my hair and nails are growing that fast."
+    },
+    {
+      "start": 342.7,
+      "end": 371.28,
+      "text": "Okay. So this is interesting because I'm going to jot this down just as a specific thing as like, this is kind of proof. And this is a belief that if people see that their skin and nails are growing fast, that can be really interesting. So an ad idea I could have is like, um, if your hair or even this is a, I love this idea, right? Um, from trimming my nails every three weeks to once a week or something like that. Or, you know, if you're taking collagen."
+    },
+    {
+      "start": 371.31,
+      "end": 404.21,
+      "text": "and you're not trimming your nails every week, like you need to see this, right? And this can be an educational angle where we explain that collagen companies, you know, have watered down their ingredients for more of a profit, right? And therefore make collagen less powerful."
+    },
+    {
+      "start": 404.75,
+      "end": 438.42,
+      "text": "So if you're taking collagen and you don't notice enhanced nail growth or whatever, then it's likely not working and you need some real collagen. Enter our rant. How did I come up with that idea? That is just a lot of knowledge that I have, tribal knowledge I have stored in my brain, but I want you guys to think through this and I'm gonna try to help you understand how I wrote this. So when I saw this, I saw, okay."
+    },
+    {
+      "start": 438.64,
+      "end": 466.19,
+      "text": "My hair and nails are growing faster. Just by the way, guys, like we haven't even made it past the first thread here. So you can understand if you actually took time to go through some of these threads and we're just on Reddit, right? We have a lot of people like, I don't know where to research. I don't know what to do. Like you just need to look more closely. Okay. So here, this person said that the way that they saw it worked, if I go back without, how do I expand this? Okay. The way that they saw this working was."
+    },
+    {
+      "start": 466.19,
+      "end": 495.28,
+      "text": "by how much their nails and hair were growing, right? So if this person has noticed that, right, there's likely other people who have, okay? And on top of that, there's also people who likely haven't. And so since I can't really show collagen working, like it's not like, you know, I take a scoop of collagen and my nails grow instantly, right? So it's very hard for me to"
+    },
+    {
+      "start": 495.28,
+      "end": 519.55,
+      "text": "prove to people that my supplement works by showing them. I can't really show them. But in this instance right here, this is why like the customers are just, they're the best marketers. But in this instance here, I'm able to help someone visualize and be relatable by explaining that, okay."
+    },
+    {
+      "start": 519.55,
+      "end": 540.27,
+      "text": "if your nails are growing, so someone who's already taking collagen, or maybe if someone notices that like they, their nails, if they, if they only cut their nails three times a week, like they might have low, I don't know if it's cortisol, I'd have to do more research. Like, what does it mean if you, if you, you know, your nails aren't growing fast or whatever, does that mean that, um, you know, your body's not producing a specific hormone that collagen can help with, but."
+    },
+    {
+      "start": 540.3,
+      "end": 569.39,
+      "text": "The point is, is I can now show proof that if someone's nails are not working, and again, you need to validate this, obviously it's going to be different for every single person, but you have to understand like in marketing, what we're trying to do here is we're trying to find customer phrases and things that customers experience to show that we understand them and then also help them build believability, right? So for example, we could potentially say collagen is so good, you might be cutting your nails every day. And notice I said might, right? You need to do it in a way that is compliant. Don't be."
+    },
+    {
+      "start": 569.39,
+      "end": 592.83,
+      "text": "a piece of shit. That's my number one rule. But the point of this is, is so now I can help someone see if the product is working. And then on top of that, I can help someone see that their product doesn't work. So let's compare this to other collagen, like, you know, a typical us versus them, other collagen brands. It's like, you know, doesn't work like low, low quality ingredients. And, you know,"
+    },
+    {
+      "start": 592.83,
+      "end": 620.67,
+      "text": "Like whatever, right? Whatever you write in us versus them. So then ours were like, we're the best and we have high quality ingredients and we're, you know, we were backed by whatever the FDA, right? Now let's compare that ad, which is what everybody does to an ad that says, if your nails or a video ad that says like, if your nails are not, if you're not cutting your nails once a week, your collagen, your, you know, your collagen is fake. If someone sees that and they're like, they think like, oh, sure. Like, actually, yeah, my nails don't actually grow that fast. Like, oh, shit."
+    },
+    {
+      "start": 620.67,
+      "end": 646.53,
+      "text": "that's going to open up an entire market of people who potentially felt like maybe collagen wasn't working for them. Even then that might build belief and be like, hey, keep taking your collagen. We're helping other brands as well. But you think about that. It's like, that is an ad that is relatable, makes them think like, how often do I cut my nails, right? Stops the scroll and then helps them see whether or not the product is working and creates, guess what? New hope of like, oh, well."
+    },
+    {
+      "start": 646.53,
+      "end": 665.41,
+      "text": "When I was on collagen before, yeah, my nails weren't working. So it must've just been bad collagen. I must, I gotta get some better collagen then, right? And in this instance, for this brand specifically, they do have an incredible product. So if you have an incredible product, that's what it's all about. But my digressing here, that is how customer research is so powerful, okay? And so."
+    },
+    {
+      "start": 665.41,
+      "end": 690.8,
+      "text": "We, we didn't even really make it that far, but like, this is, this is stuff that it's just, it's so good. Like I have to stop to explain this to you guys because this is marketing. Okay. This is what it's all about, but thinking about how can I build belief to someone and show them that my product works anytime you can just physically show. That's why all these like random products just go viral and sell it like crazy. Like for example, um,"
+    },
+    {
+      "start": 691.02,
+      "end": 720.96,
+      "text": "You know, I'm trying to think of something that doesn't give it away some of the guys in Evolve who have very visual first products. But, you know, even for example, in our harness product here, right, that we did in the other videos, we can clearly show the product working. We just show a dog trying to run forward and then the harness spinning it around, right? We can show that. Guess what? This stopped the dog from pulling. It spun him around, right? And so that makes it a lot easier to prove that the product works because you see it with your own eyes, right?"
+    },
+    {
+      "start": 720.96,
+      "end": 743.07,
+      "text": "I can't really show you that it's working like that. It's not like someone, like I said, not like someone takes collagen and it's like, boom, their nails grow or their, your skin goes completely clear, right? I'm sure crazy people are gonna do that with AI and you're gonna get in a lot of trouble for that. But my point is, is that is how like in specific niches where you can't build as much belief, it's very important to do that. And just understand belief is an important thing. Okay, so."
+    },
+    {
+      "start": 743.07,
+      "end": 765.31,
+      "text": "Look at this person even said which brand. Okay. I've got mine once a week now and just started eating collagen powder. I'll probably give it two months. Which product did you get updates? Do you still take it? Uh, okay. So here we go. So I had joint pain from pull-ups and knee pains from squats, tried using collagen, and I don't get any pain anymore. Try good quality collagen. That also, uh, that includes also MSM, uh, glue."
+    },
+    {
+      "start": 765.31,
+      "end": 794.13,
+      "text": "glucosamine, I don't even know how to pronounce this, whatever that is, and vitamin C. For me, it helped, best way to find out to try it for yourself, okay? So now this is also something where I'm looking, okay, so what is good quality collagen? So according to this guy in 34 Upvotes, it's important that it has these things, right? So MSM, glucamine, vitamin C, these are all ingredients that clearly consumers are educated on, okay? And this person had joint pain from pull-ups and knee pains from squats."
+    },
+    {
+      "start": 794.13,
+      "end": 822.61,
+      "text": "okay and so what they want is they want okay so again this is another one that they had i had joint pain from pull-ups knee pain from squats i want likely less pain or i don't want and i don't know why uh there we go this is this is a different font i want smoother and less dry skin i've got to start pasting properly and then here for example"
+    },
+    {
+      "start": 822.61,
+      "end": 853.36,
+      "text": "what I'm likely going to put in now is I want to work out or I want to, you know, you could say pull-ups, you know, I want to work out without joint pain, right? So want to work out without joint pain, right? And a deeper desire might be status here. So a status of this could be, you know, like I want to kind of hit PRs at the gym sort of thing, right? Now I would need to go deeper on this specific customer,"
+    },
+    {
+      "start": 853.36,
+      "end": 881.22,
+      "text": "that's for example a desire that you can pull from this okay so whenever you see an issue just think of like okay so this person had joint pain from pull-ups and knee pain from squats why is that a problem right well it's because they want to work out without joint pain right so and then from there it's like well why do they want to work out with joint pain it's well probably because they just want to enjoy the workout they want to be healthy right so another one from this is definitely health so health but if someone's getting pain while working out it's likely because they're lifting weights so status"
+    },
+    {
+      "start": 881.22,
+      "end": 910.22,
+      "text": "is another potential desire here as well, where I want to hit, you know, PRs, which just stands for personal record. So I want to hit or I want to lift big weights or I want to lift big weights at the gym. Okay. Health angle as well, we can dive into, but I'll digress. This is, this is where all the goal is. Whenever you see really long ones, that's how you know you're dialed in. So agreed. I have a bad knee and it's helped a lot. So there's another thing, right? So bad knees, right? So I had joint pain from pull-ups and knee pain from squats. So again, bad knees, right?"
+    },
+    {
+      "start": 910.22,
+      "end": 931.89,
+      "text": "I use a combo of Doctors Best now and Vital. And again, there we go. I just got three competitors that I can go look at because clearly these guys converted something. So what I might also do is I might go check out Doctors Best. I might go try out Now. I don't even know if Now is. I might just say like Now Collagen. Let's just see. There you go. Found it, right? It's like a, I see this in the grocery stores all the time. And so here."
+    },
+    {
+      "start": 931.89,
+      "end": 944.48,
+      "text": "i also have seen a big improvement with my hair and skin just don't expect it to work miracles overnight love this right don't expect it to work miracles overnight you might see a little difference in the first month or two but it's going to take four to six for it to be more pronounced very interesting"
+    },
+    {
+      "start": 944.48,
+      "end": 974.3,
+      "text": "Okay. So this is also another belief that we can find. Okay. So it's going to take four to six for it to be more pronounced. Now, this is something that we can lean into, or this is something that we could say, like, you know, our collagen is more effective. And if you have studies that show that your collagen actually is more effective and people are getting results faster, well, enter Norse Organics. That's essentially what they do. Their number one selling point is speed. There's a clean skin in a week, right? Their skincare is that effective. He saw results in two weeks, two week acne transformations, right?"
+    },
+    {
+      "start": 974.3,
+      "end": 987.89,
+      "text": "acne gone in four days, right? Got rid of tried everything, but this did it in days. Okay. Eight days, few days, not even a week, right? That is their main selling point. So speed is very, very important. And everybody should know that from Alex from Ozzy offers, but."
+    },
+    {
+      "start": 988.05,
+      "end": 1014.94,
+      "text": "OP, there have been a number of clinical studies that have confirmed that collagen does help as you get older. Probably won't make a difference for young adults. Very interesting as well, okay? So if you're trying to do specific ads for younger people or trying to sell collagen to younger people, well, there you go. Might be a bad belief or like a bad market to go after just based off of this. And the only other thing I want to say is like, don't take what some random person on Reddit says is like the almighty truth. Just add it as an insight for you to test. That's it."
+    },
+    {
+      "start": 1014.94,
+      "end": 1037.52,
+      "text": "Okay. At the end of the day, collagen supplements are basically a complex set of amino acids that provide the quantity of type of nutrients your body needs to create collagen for itself. Okay. Like everything else, as we get older, our bodies are not as vicious converting the essential amino acids into the types of quantities needed for collagen production. Right. So this guy is literally an expert in this, right? So we can leverage some of this, even if we want to write more educational scripts of like, what is collagen? How does it work? Right."
+    },
+    {
+      "start": 1037.52,
+      "end": 1047.31,
+      "text": "Um, this guy's just kind of more talking about things. Okay. So he's more talking about studies. PS topical collagen is the one that is marketing hoopla. Okay. Collagen's molecular weight is."
+    },
+    {
+      "start": 1047.31,
+      "end": 1069.81,
+      "text": "much too high to be absorbed through the skin. So there you go. Super interesting thing there as well. What brand do you use? Do you remember how long you had to wait? Okay. Somewhat anecdotally, I played squash my whole life would have massive pain in my Achilles tendons. Okay. So pain in my Achilles tendons by the end of every season until I started taking collagen. And then since then, no pain at all in that area. I didn't really change anything else. So I strongly suggest it."
+    },
+    {
+      "start": 1069.81,
+      "end": 1098.13,
+      "text": "or suspect it worked for me. So Achilles 10, right? This is for example, like people don't even know if it's working because you can't like, can't clearly tell, right? So that's why it's so hard to sometimes tell. And you can see how many people are like, which brand? What did you take? Glycine. Okay. It's been proven that collagen. Okay, cool. So I've, I mean, I could keep going on this thread, but I'm going to just go to a different one. So let's go ahead and jump over to YouTube. I'm just going to search it in. So my entire recommended is in Docs here. And let me maybe drag the screen up a little bit. So"
+    },
+    {
+      "start": 1098.13,
+      "end": 1126.88,
+      "text": "You guys can see everything clearly as well. Beautiful. And let's go over to YouTube. All right, cool. So over here, I have just gone into YouTube and I have searched up menopause. Okay. Now, why have I done that? Well, for this collagen brand specifically, they help a lot with women who are menopausal basically. Okay. And so what you can do here is you can essentially take a look at different shorts. You can watch long-term."
+    },
+    {
+      "start": 1126.88,
+      "end": 1152.16,
+      "text": "or long-term short-form videos, right? Like look at these videos that are getting tons of views, okay? Show more, look at this, 816,000, 840,000, right? 57, meh, six signs of menopause, 208,000, okay? And so we can get so much information from this and we can a lot of times find desires, okay? So menopause explained clearly includes HRT and..."
+    },
+    {
+      "start": 1152.16,
+      "end": 1182.26,
+      "text": "per me, I should be able to know this. My brain is just too tired, but this has 174,000 views guys. Okay. So let's go ahead. And before we even watch the video, which I would highly recommend watch the video, but I'm not going to film myself watching a video. I'm going to watch some of it and let you know if I find anything. Okay. I'm going to scroll down. I'm going to look at these 98 comments. Okay. I've always taken care of myself, going to the gym, eating right and choosing natural remedies of a big pharma. Unfortunately, it is almost impossible to exercise when you're exhausted all the time though."
+    },
+    {
+      "start": 1182.64,
+      "end": 1202.51,
+      "text": "Wow. Really interesting there. Okay. So this person is in a state of just like, they have purely accepted menopause for what it is. Right. And they are just like, yeah, I've done everything and it is impossible for me to work out. Look how many likes this have, right? Like so many people just feel defeated. Right."
+    },
+    {
+      "start": 1202.7,
+      "end": 1226.13,
+      "text": "I'm doing this hormone. They make it at a compounding pharmacy and it's all natural. I'm very sensitive and was never able to use BC pills. But I'm doing well on this. If your doc doesn't know, find one who does. You can choose pellets or whatever that is. Here we have, I am learning to embrace the sleep schedule. I hate to admit it because I have to run off a five hour sleep for much of my life, but getting good sleep helps. The fatigue is no joke, but getting better sleep is helping."
+    },
+    {
+      "start": 1226.13,
+      "end": 1248.38,
+      "text": "There you go. Better sleep is interesting. So three people like that as well. It's not for the weak or faint of heart. You can still take meds and hormones and eat healthy and exercise. So again, I used to say when I was younger, I can't wait till this is over. And now I wish I could go back. This is way worse. Very interesting, right? And so you have to understand like where these people are at. I'm actually going to jot this down here because I think it's super fire."
+    },
+    {
+      "start": 1248.38,
+      "end": 1279.23,
+      "text": "You can just kind of see how these women feel, right? I've been going through premenopause since I was 43. I'm now 48. It's so annoying. My hair is thinning. I'm moody, emotionally drained, and sometimes depressed. It's a tough situation, right? These are all things, okay? And if you're really struggling to turn these into desires, what you can do is you can also just go into ChatGPT and say, hey, chat, based off of these comments, what would be the desire that"
+    },
+    {
+      "start": 1279.23,
+      "end": 1314.99,
+      "text": "people actually have okay and for context here is the definition of desire okay and what you can do is you can go to our doc and go desires this is command a for those of you guys who aren't shortcut nerds command a command c but a boom go over here and this is where i'm going to put in comments so comments and let's drop this in see what else we got"
+    },
+    {
+      "start": 1315.28,
+      "end": 1345.49,
+      "text": "This is way worse. Let's see what else we got here. I've been going through, we already read that, this is so much better than my one hour lecture. I'm 45, been premenopausal for nine years. These last two years have been the worst. I hope when I do go into menopause, I've already dealt with worse symptoms and sailed through it. I don't know who I am anymore. Wow. Very, and I'm on HRT. Very, very, very powerful. Like these people are in a lot of pain. You know what I mean?"
+    },
+    {
+      "start": 1346.03,
+      "end": 1363.78,
+      "text": "Going through it at 65. I went through it at 48, but did not experience systems until 58. My body rages six times a day. I want out. I feel like a car when you rev up the engine until I want it to end. Brutal. So let's pace this in and let's just see what chat code. You can use Claude."
+    },
+    {
+      "start": 1363.78,
+      "end": 1393.17,
+      "text": "you can use, doesn't matter what they're actually saying, so from the comments, loss of identity, I don't know who I am anymore, emotional struggle, moody, physical suffering, hair is thinning, wishing for relief, I want out, regret, nostalgia, I used to say this, right, so underlying desire, the core mass desire here is to feel like themselves again, right, to regain health, stability, and control over their body and emotions, if we run through the permanent forces lens, or permanent forces lens, so health and survival, so stop symptoms, regain energy, control, not being at the mercy of hot flashes, mood swings or depression, comfort,"
+    },
+    {
+      "start": 1393.17,
+      "end": 1423.01,
+      "text": "belonging. Okay. How it channels into desire. When you zoom out, desire isn't just fix off waxes or grow hair back. The deeper want is I want to feel normal again and control my body and emotionally balanced so I can enjoy the life instead of enduring it. That's desire you channel into any product offer or positioning. Okay. So this is really like they want to feel normal again. Huge desire. Okay. We're cheating again. So we're going to go back into our desire hunting and we're going to pop this here. So this is probably the most powerful one, right?"
+    },
+    {
+      "start": 1423.01,
+      "end": 1454.8,
+      "text": "I want to feel normal again. Let's go into, I want to be in control of my body. Okay. And we're just, we're just touching the surface guys. We've got, we've got a lot of work to do, but this is where a lot of the gold is, is found, right? We're in the trenches. We're deep. I want to enjoy my life instead of enduring it. Wow. Super, super powerful, right? I want to enjoy my life instead of enduring it. Okay. And so now what I'm going to do as well is I'm going to go up."
+    },
+    {
+      "start": 1455.02,
+      "end": 1467.44,
+      "text": "I'm going to watch this 10 minute video. Okay. I'm going to pause this obviously, but I want you guys to understand that also part of this goal is just become an expert on this. Like we're about to watch someone."
+    },
+    {
+      "start": 1467.44,
+      "end": 1497.23,
+      "text": "talk about this. And so we need to understand all this stuff, right? A lot of you guys are like marketing to these women who are, you know, going through menopause as an example. And you're like, why won't they buy my gadget? Or like, why won't they buy my freaking supplement? And it's like, you don't understand them. You don't even know what they're going through. Okay. So I'm going to watch this video. I'm going to pause if I get some sauce and then we can talk about it, but I'm going to go ahead and click through. All right. And we're back. So I watched the video. I didn't pause it because there wasn't, I mean, it was just more new information."
+    },
+    {
+      "start": 1497.23,
+      "end": 1509.42,
+      "text": "wasn't really getting desires from this we might be getting a little bit carried away on just like information okay but i did learn some some really some really good things right so it's like something i didn't know about this and this is why it's important for you guys to know this is"
+    },
+    {
+      "start": 1509.42,
+      "end": 1534.74,
+      "text": "The average duration of this is seven years, seven years. Like that's crazy, right? Hot flashes and night sweats. Science, he said science doesn't even know why this happens, right? So that's something that you can lean into as well. Okay. And so also understanding this is very, very important. But again, if you're really wanting to find strong wants and desires, you're going to want to look at where your customers are talking. I do actually want to go back and watch some of those YouTube shorts."
+    },
+    {
+      "start": 1534.77,
+      "end": 1563.68,
+      "text": "So we're back here. And for example, we can scroll down to the short section and I look at this, you know, 1.9 million views. So let's go ahead and watch this video. I don't know if you guys are gonna be able to hear it, but let's just watch it because it should be. Here are 10 perimenopause tips I wish I knew sooner. I'm Dr. Mary Claire Haver, board certified OBGYN. Number one, inflammation is the root cause of so many things that are starting to ail us and anti-inflammatory nutrition is the best way to combat it. Number two, intermittent fasting is incredible at fighting inflammation."
+    },
+    {
+      "start": 1563.68,
+      "end": 1593.26,
+      "text": "Number three, make sure I'm getting enough magnesium. Number four, make sure I'm getting enough vitamin D. Number five, make sure I'm getting enough omega-3 fatty acids. All right, cool. So I know I just went dark over here. I don't know why. But like this girl has been some games. Got 2 million views. Now let's check the comments. What do the comments say, right? So she wrote everything down. Sleep hygiene, set boundaries, exercise, self-care. You're welcome. Okay. Look at all these replies here. So thank you. Thank you. Vitamin 500 milligrams. I believe internet fasting caused my morning."
+    },
+    {
+      "start": 1593.26,
+      "end": 1623.39,
+      "text": "Okay, cool. So for menopause, it sounds like tips for life in general. Tip, do not depend on your physician for everything that you need to know, right? So very interesting. People seem to have a belief against doctors in a way, right? Healthcare doesn't cover this. This is a really interesting one. It's so baffling why insurance won't cover healthcare needs, right? So, so interesting. Like this is clearly a very big thing. So it's like healthcare doesn't, you know, healthcare doesn't take care of you."
+    },
+    {
+      "start": 1623.39,
+      "end": 1652.0,
+      "text": "right? That is, that's a serious topic. That is an ad idea that we could definitely go into as well. And again, I'm just looking for kind of like the juicy things. But now that said, we've spent about 30 minutes or so doing this, okay? Or about 25 minutes. And so, and I actually watched a 10 minute video. So it's been about 30, okay? And so you can see here, just from like 30 minutes of this, I'm able to get an idea of like, okay, I know one of the strongest desires that people have here is like, I want to feel normal again. And I want to take control of my body. I've got some language snippets here. I've got already two really solid ad ideas. Honestly,"
+    },
+    {
+      "start": 1652.0,
+      "end": 1664.21,
+      "text": "could probably get a lot more just trying to focus on desires specifically. But let's go ahead and let's AI it. Okay. And so if you guys can see here below and I would recommend that."
+    },
+    {
+      "start": 1664.21,
+      "end": 1684.18,
+      "text": "You guys should go and do some manual research alongside this, just like I'm doing right now. Because the truth is, the research that you do works more on you than you work on it. I've said that so many times, but when you do research, now all of a sudden I know, right? So maybe the next time I see some woman in her 50s and..."
+    },
+    {
+      "start": 1684.18,
+      "end": 1707.89,
+      "text": "You know, she snaps at me. I'm just gonna be like, I'm sorry. Like, I don't, I don't even want to know what you're going. You know what I'm saying? So it's like, it just gives you a different perspective on things. And so it's very, very important to make sure that you guys do this as well, because just, you know, having AI do everything a lot of the times doesn't really help. But what do we have here? So the main prompt here, if you guys click this, it's going to take you down to this tab. So what you're going to do is you want to copy this. You're going to go into chat and you're going to actually."
+    },
+    {
+      "start": 1707.89,
+      "end": 1718.61,
+      "text": "you should fill all this in. So what we need to do is we need to go here, we need to command a command C, we're going to paste all this in. And this is where you're going to fill in your information specifically. So"
+    },
+    {
+      "start": 1718.61,
+      "end": 1747.89,
+      "text": "product URL and any angles that you have. Okay. So if we go back into a GPT here, we can see insert product URL. I would go to my website. I would grab not a landing page, but grab my actual product URL and then any specific angles that we're going after. So for this brand specifically, we're going after menopause and postpartum. So those are two specific things that I put in there for the prompts that I actually ran. And then from there, what you're going to do is you're going to add context. Okay. I would recommend doing this with a cloud project, but a lot of you guys don't have like the paid version of stuff."
+    },
+    {
+      "start": 1747.89,
+      "end": 1776.64,
+      "text": "and so what we're going to do is just show you how to add context so here what you can do is you can actually download this specific file i believe if you can't just go ahead and command a and command c okay but ideally uh what we can do here is we can just go and open a new doc so let me do that cool so i'm just opening a dummy doc here and i'm gonna go ahead and paste in what i just copied so this is how to find if i could spell correctly how to find desires guide okay and then i can just go ahead and name this"
+    },
+    {
+      "start": 1776.64,
+      "end": 1806.58,
+      "text": "And I'm going to go ahead and actually update this in here as well. Okay. And so now what we're going to do is we're just going to download this. It just makes it easier. So download Microsoft Word. Boom. Okay. We've got that. I've already done this. So that's why I'm just showing you guys how to do it again. Once we have that context, you're then going to go into your product overview document that you should have already done. So you're going to copy this. We're going to go ahead and delete all this, paste it back in. Now we're going to change the title, but boom, product overview document. And again, we're going to download this one. Microsoft Word. Fantastic."
+    },
+    {
+      "start": 1806.58,
+      "end": 1834.03,
+      "text": "and boom we're gonna drop those in okay and then what you're gonna do is you're gonna click plus here and you click deep research and you're gonna hit go all right i've already done this so you know i don't need to do this i mean i'll send it again just for fun and you'll see thanks for the detail prompt uh angle i didn't even i didn't even add the url so i need to do that but let's just let me just go ahead and do that super quickly all right beautiful so got the brand we got the angles in there i'm gonna go ahead and pop that in there great i'll do comprehensive research and ideally"
+    },
+    {
+      "start": 1834.03,
+      "end": 1859.92,
+      "text": "you do this and then you go and do manual research. You don't go play Fortnite or Minecraft or whatever the heck people do, you know, go check your ad account and, you know, reset the budget and duplicate ad sets. You're going to let this cook and then you're going to do your research. Now, thankfully, I've already done this. And so let's take a look at what is actually going on here. Okay. And so consumer desires driving interest in medical collagen, menopause and postpartum. Okay. So overview."
+    },
+    {
+      "start": 1859.92,
+      "end": 1875.52,
+      "text": "right so now what we're going to do is again we're going to have our doc here that has our you know desire hunting in here okay the ai is just doing the hunting for us so consumer desires driving interest okay so overview woman in the u.s menopause and postpartum life stages share several core desires that draw them to collagen supplements like medical"
+    },
+    {
+      "start": 1875.52,
+      "end": 1905.65,
+      "text": "These desires span from physical needs, so improved appearance, comfort and health, and emotional needs, confidence and control. Below, we detail each key desire category, ranked from most powerful to least, with real consumer quotes, analysis of underlying motivators, permanent forces, or frustrations, an assessment of how widespread and intense each desire is, and how medical collagen can fulfill each need. Supporting evidence is drawn from U.S. women's discussions on Reddit, Amazon reviews, forums, and expert sources."
+    },
+    {
+      "start": 1905.65,
+      "end": 1933.63,
+      "text": "doing exactly what you or like what I just did. Okay. It's literally just searching on the internet. Now, for those of you that have seen a tool, I'm not even going to mention it, but there's another tool out there that's just like, it's got a computer screen doing like, it's just an AI that's clicking around the internet for you. Okay. And it's gathering data and storing it and it's doing a pretty good job. So let's take a look at this one. So regaining healthy body weight and shape. So this is one of the biggest desires that I guess people have according to the AI. So I want to feel normal again. I want to be in control of my body. Well, look at that. We already kind of had it."
+    },
+    {
+      "start": 1933.63,
+      "end": 1942.98,
+      "text": "right? So we can drop that there and we can maybe add a, you know, a plus one for that. But let's take a look. So many women in both menopause and postpartum stages desperately want to lose excess weight gained."
+    },
+    {
+      "start": 1942.98,
+      "end": 1969.47,
+      "text": "to two hormonal changes and feel in shape again. This is often tied to feeling healthy, attractive, and like myself, once more after body transformation. So consumer sentiment, postpartum mothers frequently describe frustration and sadness in lingering baby weight. Okay, for example, one new mom confessed, I gained 50 pounds. I'm at my breaking point. I don't know how I'll ever feel like myself again. I'm a shell of a human. If I could look in the mirror and see someone even remotely close to who I was before, maybe I'd be a little bit more patient and happy."
+    },
+    {
+      "start": 1969.47,
+      "end": 1995.89,
+      "text": "right? Menopausal women similarly report unexpected weight creep despite no lifestyle changes. A common complaint amongst women entering menopause is weight gain. They haven't changed their diet or lifestyle and yet weight is slowly creeping up, right? All really good things. The weight gain is not just aesthetic. One woman noted that physical discomfort, I feel like I'm wearing a weighted suit every day. It's painful and at the end of the day, my body and feet ache from carrying so much excess fat."
+    },
+    {
+      "start": 1995.89,
+      "end": 2003.47,
+      "text": "pretty intense, right? Motivations. The real drive behind weight loss is both health-related permanent focus or permanent force of well-being."
+    },
+    {
+      "start": 2003.47,
+      "end": 2033.07,
+      "text": "and psychological. Extra weight can impede comfort and mobility, frustration with physical limitations, and harm self-image or status. Postpartum women long to get their body back as a way to regain control and confidence after pregnancy, while menopausal women see weight management as key to aging well and not letting themselves go. Very good term there, right? There's also a social element. Postpartum moms compare themselves to peers who bounce back, and midlife women feel pressure to remain fit to maintain self-esteem and social marital attractiveness. Okay, so dire strength, very widespread."
+    },
+    {
+      "start": 2033.07,
+      "end": 2056.24,
+      "text": "spread, urgency, high urgency, and staying power. It's long-term losing weight, maintaining shape is a recurring battle. How this satisfies it. So then it kind of adds in the product, which is great. Restoring hair volume and strength. Okay. We've been through that youthful skin, moisture and appearance. Okay. Joint comfort and flexibility. Okay. And then down here, bone strength and resilience. Cause we actually just learned about that in the YouTube video that it actually decreases."
+    },
+    {
+      "start": 2056.24,
+      "end": 2077.89,
+      "text": "Bone density by like 12% or something like that. Emotional well-being and confidence, right? Super long here. Common complaints, concerns, and preferences. In researching the consumer discussions, a few common complaints and preferences emerged regarding collagen products can preempt or address these to better satisfy customers. So taste and format, many women dislike. So now we're getting to like the tech."
+    },
+    {
+      "start": 2077.89,
+      "end": 2106.13,
+      "text": "kind of problems, right? So around our product. So again, just because these desires exist doesn't mean you've cracked the code, okay? Congratulations, you've understood someone. But now, you know, you need to figure out how to actually give it because just because someone wants this doesn't mean they don't believe it, right? And so it's important that you help them see that you can actually deliver that desire because people are marketing towards those desires all day long. But what we need to do is we need to understand how do people currently view our mechanism, okay? So it tastes yucky, right?"
+    },
+    {
+      "start": 2106.13,
+      "end": 2112.37,
+      "text": "switch to baking it into foods to mask it okay in contrast others praise brands that have truly no flavor"
+    },
+    {
+      "start": 2112.37,
+      "end": 2139.95,
+      "text": "Okay, or order or odor. This shows a preference for flavorless, easily dissolving powders. Some women who can't tolerate powder taste opt for capsules or gummies. However, pills can be cumbersome if too many are required. Bought collagen tablets. Say to take six tablets a day, they're huge. That's a no for me. Gummies and liquids are liked for taste. So convenient, pleasant delivery. Okay, digestive issues. Notable complaint from a subset of users is side effects on their gastrointestinal. There we go."
+    },
+    {
+      "start": 2139.95,
+      "end": 2156.06,
+      "text": "for everybody who knows how much I love English. Some report collagen causes bloating or gas. It makes me fart so badly. I have to leave the room. I actually find that kind of funny. You know, a side effect of that, like literally imagine just running an ad where it's like."
+    },
+    {
+      "start": 2156.06,
+      "end": 2181.07,
+      "text": "collagen that doesn't make you fart like people people would be like like no one's running i haven't seen that ad but that would be kind of funny um one menopausal user admitted bluntly with others chiming in humorously that even their dogs fled the room well i said it gives me really bad gut issues and there's a mention that it can cause constipation in some cases uh this issue may depend on the source okay additionally having graduation or gradual introduction to avoid too much"
+    },
+    {
+      "start": 2181.07,
+      "end": 2192.37,
+      "text": "Oh, this is so much sauce here. Price sensitivity came up frequently, a ready user noted cost that's going to add up when adding or considering a daily collagen habit. Cool."
+    },
+    {
+      "start": 2192.53,
+      "end": 2222.13,
+      "text": "Three products in one. Results and evidence are quite concerned some have, especially on skeptic forums, is whether collagen really works or is it just hype? For example, Redditors pointed to news that studies say these supplements don't work or that collagen is just protein that gets broken down and implying it's no different than food. While many consumers are swayed by anecdotes, a segment wants proof or at least plausible explanations. Okay, cool. So strategic recommendations. So now it's giving us a focus on top desires, emotional connections, addresses, complaints, proactively. You see there's a lot of stuff here and this is something that"
+    },
+    {
+      "start": 2222.13,
+      "end": 2241.17,
+      "text": "you're going to want to dive deep into and not just like skimming like I am. I'm just trying to show you guys all of the things that this is giving us. Okay. And then positioning, okay. A holistic solution for the challenges of hormonal transitions. It's not just collagen. It's your daily ritual to thrive through menopause postpartum by acknowledging, you know, the permanent forces. Okay, cool. And your brain. Awesome. So again,"
+    },
+    {
+      "start": 2241.17,
+      "end": 2254.19,
+      "text": "i've skimmed through this and the reason why is just to kind of show you the information that it gives you some of this stuff if it resonates with you great if it doesn't that's fine skip over it what i would definitely be looking at here is just the core desires that people have but honestly i kind of like"
+    },
+    {
+      "start": 2254.19,
+      "end": 2277.62,
+      "text": "claude better for deep research so let's go see what claude kicked up so bottom line up front women experience menopause and postpartum transitions have five dominant desires that medical collagen is uniquely positioned to address so number one we're gaining control over appetite and food cravings number two looking like myself again amid rapid hormonal changes three stopping the accelerating invisible aging uh breaking the stress weight gain cycle and finding convenient solutions that actually"
+    },
+    {
+      "start": 2277.62,
+      "end": 2289.41,
+      "text": "work without adding complexity to overwhelming lives, right? Understand that people are very overwhelmed, right? So research is explaining the research. And then as I was starting to break down the desires, again, regaining control over appetite and food cravings."
+    },
+    {
+      "start": 2289.41,
+      "end": 2317.58,
+      "text": "you know, this year, you've been there in the midst of life's transition, noticing changes in your body that seem out of control. So this is like just showing the evidence here, permanent force connection, how medical addresses. So this specific ingredient ingredient here increases GLP one by 56%. What's directly restores natural appetite control and satiates, you know, signaling that this is just it's a lot of language. So just understand here, as we're kind of walking through this is like drinking out of a fire hose."
+    },
+    {
+      "start": 2318.19,
+      "end": 2348.53,
+      "text": "what you're looking at here is just to just consume as much as this as you can. Okay. This is going to sound weird, but just by consuming this and actually taking a second to go through this and read this and actually sit down and like, just absorb it all. Try to digest as much as you can. If you go through all of this and you're like, I don't know what to put here. Then what I would do is I would just go through this looking for specific ad ideas. Okay. But more importantly, all this information is being stored in your brain."
+    },
+    {
+      "start": 2348.53,
+      "end": 2373.33,
+      "text": "Okay. And this is something where you're going to do this. Like I'm, you know, I might be pretty burnt out because I've already been doing this for about an hour now and I probably need a bit of a brain break, but you take a break. Okay. Take five, 10, 15 minutes, come back. Or even better, if you come back the next day, guess what? You're going to be looking at this completely differently and you're going to see things that you didn't see. And so that is the goal of this is research is not just this thing that you do once and then you're done. Okay."
+    },
+    {
+      "start": 2373.33,
+      "end": 2394.64,
+      "text": "obviously you need to do it before you make ads and the process is like okay we're going to understand our product we're going to understand desires and then we're going to go through the rest of the things down here but it's important for you to understand that we also need to constantly do this okay research specifically always be looking for desires always check in with the market and see what's going on okay and so with this one of the things that i really like is this is"
+    },
+    {
+      "start": 2394.64,
+      "end": 2423.42,
+      "text": "regaining control over appetite and food cravings okay so i want to feel normal again again i want to be in control regaining healthy body weight and shape right and then another one here is i want to be in control and this is kind of regaining control over appetite and food cravings okay so you can see control control control control control this is what this consumer wants and if we go to desires right controls down here but just understand that for this member for this avatar for these people specifically"
+    },
+    {
+      "start": 2423.42,
+      "end": 2452.43,
+      "text": "Okay. And we actually ignore what you, what you heard there about avatars for this one here. Okay. We're seeing that control is a big thing. Okay. And again, control is having power, predict what happens, be in charge. These people feel like they have zero control over their bodies. And to an extent they do. Okay. I mean, or sorry, to an extent they don't. Right. These women are in a place where like, they just literally have no control. Their body is just doing whatever the hell a body wants. And so understanding that as well is."
+    },
+    {
+      "start": 2452.43,
+      "end": 2480.77,
+      "text": "Also important, because if you go to the market saying, take control, right? Do you know how many times someone during menopause has probably heard that? Like a zillion, okay? And so that's why it's important to understand market sophistication, which we're gonna get to next. But the point is, is you wanna lay all these out and you wanna have an understanding, okay, what do people really want? What do they want, okay? And then from there, looking at language snippets, already getting some ideas and educating yourself. That is the goal of this, okay? And I feel like as a result of doing this video,"
+    },
+    {
+      "start": 2480.77,
+      "end": 2509.65,
+      "text": "by doing some desire hunting with you and showing me doing it live, I've realized like, this is what people want. They want to feel normal again. They want to be in control of their body. And again, we can go a level deeper, which means we're gaining healthy body weight, right? Or regaining control over their appetite and food cravings, right? Some of them, just for collagen specifically, this is more menopause, right? And you can see like, that's just one angle that we're kind of going deeper. I'm gonna talk about angles and I might actually change my language on that because I actually gonna have a description for each concept for."
+    },
+    {
+      "start": 2509.87,
+      "end": 2538.93,
+      "text": "for each word that we use so you guys can understand, like, okay, what is desire? What is a product? What is market sophistication? What is avatar? What is angle? Okay, and we're going to get into all this stuff, I promise. And just so you guys know, like a lot of stuff is already filled out, okay? So it's coming. But just know that in this instance here, I'm trying to figure out what do people want? What do people need, right? This is more menopausal wants and needs. But understand, like, again, we're going after someone that feels like they have no control over their life, right? We sell collagen. We can sell to other people, right?"
+    },
+    {
+      "start": 2538.93,
+      "end": 2568.91,
+      "text": "We can tell the people that maybe want more skin or again, this is where comparative research is going to come in to see how sophisticated it is to be able to analyze and be like, okay, wow, everybody's going after skincare. Everybody over here is going after menopause. It's like, oh, look at this. Collagen helps with hair growth. No one's talking about hair growth. There you go, right? New opportunity. And we're going to talk about that. So that is it. I don't want to get too far ahead of myself. That is desire hunting. That's how you can do it manually. That's how you can leverage AI to do it. Again, the point of this is consume information."
+    },
+    {
+      "start": 2568.91,
+      "end": 2578.99,
+      "text": "Let your brain cook, right? Don't cook your brain and jot some ideas down, figure out what people want. That is the entire goal. So hope you enjoy and get on your desire hunt."
+    }
+  ]
+}

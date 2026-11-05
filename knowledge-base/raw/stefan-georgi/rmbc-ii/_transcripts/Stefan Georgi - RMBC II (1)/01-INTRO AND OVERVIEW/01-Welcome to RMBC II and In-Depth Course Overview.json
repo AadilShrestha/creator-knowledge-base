@@ -1,0 +1,379 @@
+{
+  "source_file": "Stefan Georgi - RMBC II (1)/01-INTRO AND OVERVIEW/01-Welcome to RMBC II and In-Depth Course Overview.mp4",
+  "source_id": "mega:GwRSGa5C",
+  "audio_sha256": "0ed2f52f37540c42c2a994ee51e420da6527db1c72eb81b446123e0591e48f4c",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 2200.51,
+  "last_segment_end": 2195.44,
+  "segments": [
+    {
+      "start": 6.38,
+      "end": 36.46,
+      "text": "Hello, and welcome to RMBC2. I am Stefan, I am so happy you are here, and I really believe you're going to be very happy with your decision as well. I am tempted to just give you endless superlatives about how powerful and good and breakthrough-ish this course is, but rather than tell you, I'll just let you see it and experience it for yourself, and you tell me if you agree."
+    },
+    {
+      "start": 36.46,
+      "end": 65.74,
+      "text": "okay what i want to do in this quick video is just share a broad overview of what is inside as we get started um and then you can dive in okay i'm recording this a couple days before the launch so i'm not going to be showing you inside the members area yet i'll probably maybe do a new video uh you know walking you through the members area once we have that all set up but this is still i think good enough to show you"
+    },
+    {
+      "start": 65.87,
+      "end": 91.41,
+      "text": "what to expect, okay, and how it's organized. And you may have seen the outline I shared previously, but it changed a little bit as I was creating the course and I think for the better. So the first thing you're going to see after this video is like the kind of intro foundations section, which is going to go over kind of what is copywriting, what is direct response copywriting, what sales funnels look like in 2025."
+    },
+    {
+      "start": 93.33,
+      "end": 124.08,
+      "text": "why context is king, and then sort of a broad overview of the RMBC2 approach. Okay, this is a really important module. It's going to set up everything else. And I will be honest with you, there's a lot in RMBC2, but I really would recommend trying to go through as much of it as you can. I really believe if you do that, you are going to have a better understanding of direct response marketing, direct consumer marketing, e-com, and just selling online than"
+    },
+    {
+      "start": 125.39,
+      "end": 161.42,
+      "text": "you know, pretty much anyone who, almost anyone who doesn't go through it. In Foundations Part 1, one of the big parts we're going to talk about, and this will be a recurring theme throughout RBC2, is the importance of context. And when we talk about that, we'll be talking about it in a few different frames. One frame is platform specific. So what do I mean? I mean that the sales funnel journey, the journey from somebody who maybe doesn't have any idea the brand,"
+    },
+    {
+      "start": 161.42,
+      "end": 192.29,
+      "text": "brand or the product uh you know that you're selling or the service that you're selling exists you know goes from unawareness about you to buying right and that looks kind of different on meta and native and it also is different depending on what you're selling and the pricing and all these other things i'll talk about this in the foundational model um or module but it's also"
+    },
+    {
+      "start": 192.29,
+      "end": 218.91,
+      "text": "really heavily about product and market awareness and again i don't want to repeat myself because i'll talk about the next module but basically the you know the thing to understand is like the way you sell to somebody who knows your product or service exists or who's really actively looking for a product or service very similar to what you are offering or you're writing copy for is different than somebody who is vaguely aware that they have a problem and"
+    },
+    {
+      "start": 218.91,
+      "end": 249.89,
+      "text": "kind of wants to solve it but isn't looking right and so there's a lot of importance of context and i actually think it's one of the key things when it comes to writing great copy and uh you know effectively converting people from prospects to customers online so we'll go through all this in the foundations i won't over uh share over explain here we think into deep research and essentially there are four steps in the core research process and then i included a section on"
+    },
+    {
+      "start": 249.89,
+      "end": 280.27,
+      "text": "ingredient research too for people who write supplements but we're gonna look at product market awareness what i just mentioned and i'm gonna give you for all these i mean they're kind of bulleted out i got more in depth with my what's included as i went later in this outline so maybe i'll add to it but basically um you know what it is why it matters and also uh a deep research process for doing product market awareness for any product service what have you"
+    },
+    {
+      "start": 280.4,
+      "end": 310.16,
+      "text": "All right, so sorry, I decided I wanted to add more stuff, so I paused it and restarted, okay? So, kind of what I just said about product market awareness, that's here, okay? Competitor research, like a deep research process for creating another document that does competitor analysis, right? So you'll get not just understanding who the competitors are, but what kind of claims do they make? What do your prospects..."
+    },
+    {
+      "start": 310.16,
+      "end": 343.15,
+      "text": "in their specific level of product market awareness, right? Like what do they like about the competitor products? What do they dislike? Okay. This is really helpful because, you know, you are, even if the, even if your prospect customer isn't like aware of your product or service, like they're aware of other competitors who do similar stuff like that at a broad level, maybe other weight loss companies, other."
+    },
+    {
+      "start": 343.15,
+      "end": 368.58,
+      "text": "make money online people, whatever it is, right? So we want to understand that. Psychographic research is really what the original R was and the original RMBC. There's a deep research prompt for that. But again, what's important in going back to product market awareness is you're going to see how to do that and understand the psychographic research and that's kind of the deep psychological drivers for your target customer."
+    },
+    {
+      "start": 368.58,
+      "end": 393.74,
+      "text": "based on their level of product and market awareness. And so again, this will be one of the first things we go through right after the intro module. But it's actually going to really flavor a lot of what we do, especially for all copy, but especially on the kind of VSL side. Really everything though. Okay, then you're going to have at the end of this three different research documents. One on product market awareness, one on competitive awareness. I hate how..."
+    },
+    {
+      "start": 393.74,
+      "end": 418.42,
+      "text": "Loom does the thumbs up thing when you do one. I don't know how to turn off that setting, but it's the stupidest thing. Okay, one on product market awareness, one on competitive research, one on psychographic research. They're going to combine them into one unified research document. There's a really easy prompt. You just basically feed them to quad, say combine them into one, you know. And why is that important? That's important because when we go to generate copy and really go through RMBC,"
+    },
+    {
+      "start": 418.42,
+      "end": 444.45,
+      "text": "We want to have this one sort of like ultimate research document that's got everything about the product market awareness, what they like, what they don't like, their psychological drivers, their hopes and dreams, everything, right? We have this perfect brief kind of, brief's not the right word because I have a brief later, this perfect document that is all the kind of research information we would need to write great copy. Okay, and then I also include a deep research prompt."
+    },
+    {
+      "start": 444.45,
+      "end": 472.72,
+      "text": "I usually use perplexity, as you'll see, for doing ingredient research. So if you need to get studies, claims, citations, all that, I mean, you can do it for any supplement formulation. It takes less than five minutes to solve. It used to take hours to do that for people to take five minutes out. It's so nice. Okay, so RMBC, that's research. Then we're going to be going into mechanisms. Most of you probably know what a mechanism is. I'm the person who popularized it, really gets talked about a ton these days. It's kind of cool."
+    },
+    {
+      "start": 472.72,
+      "end": 502.72,
+      "text": "to be the person who popularized it. So yeah, we'll go through an overview of what unique mechanisms are for those of you who don't know. And then we're going to do a bunch of really cool AI processes for coming up with unique mechanisms. So we'll do ideation with largely English models. We'll see how to use, again, deep research to come up with actually very good unique mechanism ideas. We'll see examples for Airbnb arbitrage. We'll see an example for"
+    },
+    {
+      "start": 502.72,
+      "end": 534.69,
+      "text": "Supplements, I think I do one for, gosh, I do a bunch. Let me tell you a second. I've got my border here. You have an eye serum, so skincare, Airbnb, arbitrage, and then I think I share a couple other examples too in there. After that, I think the two I focused on the most were eye serum and Airbnb arbitrage, like a high-ticket coaching offer. It's like a hypothetical one. It was a process for evaluating them."
+    },
+    {
+      "start": 534.69,
+      "end": 562.67,
+      "text": "happens is you'll get using these processes several really good potentially unique mechanisms so how do i pick which one's the best well i give you a process to use llms i should probably say you know to evaluate them it's really cool it's not um you know if you have a ton of experience you don't need to depend on on lms i talk about this throughout but like basically this is a way that if you're between a couple of mechanisms or you're newer and you're not sure which mechanism to go with this is a pretty consistent reliable process that will show you what to do"
+    },
+    {
+      "start": 563.44,
+      "end": 594.51,
+      "text": "Then you'll see how to expand any unique mechanism ideas you have into kind of copy format and the importance of that. And then they'll show you a quad project setup that helps to write out those unique mechanisms. But really, the big thing here is that you'll be able to understand unique mechanisms well, and you'll be able to generate unique mechanism ideas and then select the one that you're happiest with. Okay, so RMBC. So why is B here and C here?"
+    },
+    {
+      "start": 595.18,
+      "end": 627.34,
+      "text": "What I decided is before we got to the brief and then generating copy, it made sense to put a pretty long core training on sales copy and especially sort of video sales letters. But when I say video sales letters, in the original RMBC, that was really 20 to 50-minute, hour-long VSLs. And that's still a thing. But these days, when we talk about VSLs, a lot of them are going to be 6 to..."
+    },
+    {
+      "start": 627.34,
+      "end": 658.32,
+      "text": "18 minutes long as well and they're going to be in feed so they're going to run as meta ads. Others are going to be three to seven minutes long and then a lot of them are going to be really short like two minutes, a minute and a half, two minutes and they're kind of like video ads. So VSL and video ads sort of start to get, for meta especially, start to get kind of interchangeable and you'll see that. There's also a training on hooks. It's something I call ADHD hook video ads which are like VSLs. They're three to seven minutes long."
+    },
+    {
+      "start": 658.32,
+      "end": 689.47,
+      "text": "They're really effective format. Nobody talks about this publicly to my knowledge, but it's really cool. You'll see some really cool breakdowns from like vShred and Svelte, people like that. And there's a little module on the difference between in-feed and on-page VSLs. That's actually very important. So basically the reason I'm going through VSLs here is because then we're going to get to brief or we're creating briefs that you can use to write these different VSLs. And the brief is only valuable and the projects for consent VSL is only valuable if you really understand how VSLs work."
+    },
+    {
+      "start": 689.47,
+      "end": 719.38,
+      "text": "That's why we're doing this in-depth training on VSLs and the different structure and all that. Then we get to the brief, brief 2.0. Why do I call it brief 2.0? It's a dramatically expanded version of the brief for anyone who went through RMBC1. So the brief is sort of like a page, like here's what you need to go write your copy. In RMBC1, you'd have the target market, what's the product, what's the mechanism, things like that. Then you would take that, you would reference it, you would follow an outline while you're writing a video sales letter. We're using AI primarily in RMBC2."
+    },
+    {
+      "start": 719.82,
+      "end": 746.98,
+      "text": "Pretty much all the writing in RBC2, the heavy writing, is done by AI. And then we are more of the commander. We are coming in and we are like, we're the boss, we're the copy chief. So we get copy from quad mostly, but it can use other LLMs too. You'll see examples, LLMs too. And we're saying, hey, this is pretty good, but what about this, what about this? You'll also see how a lot of the processes, using quad projects, for example, having the referential material."
+    },
+    {
+      "start": 746.98,
+      "end": 775.95,
+      "text": "Telling Claude, hey, give me the game plan. What does the outline look like? What are the different elements? Make it in depth. Okay, this is true for PDPs, advertorials, everything. All right, looks pretty good, but what about this? What about this? This doesn't make sense. We need an idea here. What about this, right? We're thinking about copy more than we're writing copy. You're more like a copy thinker than a copywriter, and that was a really nice little insight I just had. Bam, you're welcome. Thanks for the $9.97 or $8.97 or whatever the hell I charged. It was $8.97 for the pre-sale for a few people, but thanks for the $9.97 because that's like the biggest shift."
+    },
+    {
+      "start": 776.02,
+      "end": 805.44,
+      "text": "It sounds stupid, but it's true. You're a copy thinker, not a copywriter. Okay. If you don't like it, this is so valuable course, but that is reality for where we're at in 2025. So you have to understand what you're doing, what copy looks like, all that. And then you've got the brief, right? So the brief is like those elements, but now because we're using LLMs, we're basically taking the mechanism, we're taking the research and we're taking any of their product details, like the ingredients, whatever it is. And we're writing a 25 point."
+    },
+    {
+      "start": 805.44,
+      "end": 834.8,
+      "text": "document that we're going to give to LLMs that it will then use to write VSLs, ads, advertorials, email sequences, everything else that we're doing. And you're going to see how to... I'll go through the brief process with you. You'll see how to use a cloud project to set it up. I can't talk. You'll set this cloud project that will generate the brief. And then you will be able to go beep, boop, bop, and it does it. I mean, I kind of want to show you a really quick example."
+    },
+    {
+      "start": 834.8,
+      "end": 889.36,
+      "text": "as like a spoiler here, and I'm going to do it. So give me a moment. Wait for it, wait for it. Okay. So there's a bunch of these, but let me show you an example. Okay, so we're in this brief generator project. In this case, I'm like, hey, I want you to do a new brief for our brand, Opal Beauty's UDI serum. Here's a product page where you can pull inputs. Gave it this one. Gave it this unified research document. Gave it."
+    },
+    {
+      "start": 889.36,
+      "end": 919.09,
+      "text": "ingredient research gave it the ump and ums okay so basically go ahead and write a brief in this case i gave it a website which we'll talk about that you can you know for anything where you have existing pages life becomes very easy here's the brief and you'll see how it just sort of goes through everything right demographics psychographics what are their pain points now again i'm going to go through this in a whole module big promises what does it look like when their pain points have been solved emotional empowerment"
+    },
+    {
+      "start": 919.09,
+      "end": 948.56,
+      "text": "What solutions exist? What did they not like? What's the unique mechanism? What are nicknames for it? What are the main ingredients and what are the studies which we had from perplexity? What are bold claims that we can make? What are emotional transformational claims? What's the product? What are the key benefits and fascinations? What makes it unique? Background story. In this case, we started with a placeholder thing here. Who's the main speaker? Who's the secondary expert?"
+    },
+    {
+      "start": 948.56,
+      "end": 978.06,
+      "text": "What are the details of the brand? What are testimonials? What are credibility builders? What are medical endorsements? What is industry recognition? What's the normal retail price? What's the actual price? What are the multiple option savings? What's the guarantee? What are the bonuses if there are any? What are the scarcity elements? What is future pacing? What do results look like? What are objections and answers? What are specific hooks you could test, okay? That's pretty cool, right? And what's neat is..."
+    },
+    {
+      "start": 978.38,
+      "end": 1011.12,
+      "text": "and kind of crazy. Because in that case, they're like, well, you gave it a website. It's like, that's true. So let me show you this one. I literally just said, here's ingredient research. Basically, generate a new brief, use placeholders for now. And it created this brief. This first brief was kind of more like a ClickBank style. Like, oh, Sarah's this mother of two. She has this."
+    },
+    {
+      "start": 1011.22,
+      "end": 1039.78,
+      "text": "horrible blood sugar, you know, she's had blood sugar, she meets an expert, so we should see if we could click bank type of offer. Then I was like, hey, that's great, let's do a second version where it comes from a doctor. Okay, he shares a patient, it's talking about a patient who's at their wit's end, he helps them discover the real reason for blood sugar issues. And it's like, okay, and this one, you know, doctor's here, right. So it created essentially, it even created a unique mechanism that wasn't bad. Now again, in the process you'll see, like, you'll have a unique mechanism, you'll have all that, but the point is you've got this really awesome"
+    },
+    {
+      "start": 1039.78,
+      "end": 1067.95,
+      "text": "brief that you can just immediately uh work with right so hopefully that you can see how this valuable then we get to copy part two and so i know this is already kind of a long intro video but it's important i think for you to see how this is all going to go before we get into the um the the overview like uh part one you know kind of overview the state of direct response marketing so again you've done your research i got a unified research document you've done the mechanism"
+    },
+    {
+      "start": 1067.95,
+      "end": 1094.83,
+      "text": "You understand copy really well if you didn't already. Then you have the brief. Now you've got this brief, this amazing document that you could use to write, and now it's time to create copy. And so here, we're going to use cloud projects. We have cloud projects for long VSLs, medium-length VSLs that are 6 to 18 minutes, let's say, 3 to 7-minute VSLs, short VSLs. And you'll see how we just basically give it, the cloud projects, the briefs. We say, here's a brief."
+    },
+    {
+      "start": 1096.18,
+      "end": 1153.44,
+      "text": "Write a VSL, basically. And that's what it does. It's pretty wild, right? Again, without making this module too long. Let's see here. Sorry, guys. I'm just trying to find a quick example. And there's a bunch. I'm just pulling up on quad projects. I mean, some of them are done in... How do you say it? Let me show you. I'll just show you really quickly. Here's a comprehensive brief. We should give you everything. Please write it. Give it a little bit of detail. In this case, I'm telling it like a story because we didn't have one. If you saw a skincare one, I'm like, hey, here's the story we could do."
+    },
+    {
+      "start": 1153.44,
+      "end": 1184.64,
+      "text": "Go ahead and write it, okay? And it gives me an outline. Gives me outline. Give it a little feedback. Give it the classic sales letter outline. Gives me outline. Again, revise. Cool. Let's go ahead and write it. And this is for a medium-life VSL. But it goes in and writes it. And I promise you, as we get into these projects and you see them, the copy's quite good. But you'll also see, very importantly, I should almost put this in here."
+    },
+    {
+      "start": 1184.64,
+      "end": 1218.13,
+      "text": "One really important element is, sorry, I wish this was another bullet, but basically copy-chiefing, feedback, tweaking, all of that, right? Because you're copy-chiefing too, okay? After that, we'll get to a mid-course recap, and I'll sort of be recapping at that point all the things I've talked about in this video, but you'll have more understanding. So I'll be like, again, hey, because there's a lot. You're going to go into the weeds. I have this in my little intro module, like my opening module thing."
+    },
+    {
+      "start": 1218.13,
+      "end": 1252.05,
+      "text": "But basically, you kind of go through hell to come back out the other side to heaven, right? And so it might feel a little bit like, man, there's a lot going on here. But when we zoom out, it's a pretty simplified process. So go back there. This is my one. You start here, the bowels of marketing hell, you make it to the other side, which is sort of like heaven, right? But basically, RMBC. It's just different. You're using LLMs. It's actually way more efficient. It's way faster."
+    },
+    {
+      "start": 1252.05,
+      "end": 1280.9,
+      "text": "And you can create any type of copy with this sort of setup process you're going to go through and understand the theory of and understand the why and the how. You can just create any type of copy. So from there, we'll go into advertorials. And for everything we do with these things like advertorials, you're going to look at tons of case studies. What's the purpose? Why long ones were short ones? What are common elements? Where did we start before the advertorial? We started the ad. Where's the advertorial? The advertorial took us here. Where's here? It's a product page or a landing page, number nine. Or maybe it's a checkout page."
+    },
+    {
+      "start": 1280.9,
+      "end": 1310.24,
+      "text": "Maybe it goes right to a checkout page. Maybe it goes to a VSL. Why does that happen? What's the psychology? What's the thought process? Why does one advertorial go right to a checkout page? Another one goes to a VSL. Another one goes to a short product page. They're talking about the product. One goes to an e-com product page that's really long, kind of like a text sales letter. What's the difference? If you don't know what these things mean, don't worry because that's what all these modules are going to do. They're going to explain it all to you."
+    },
+    {
+      "start": 1310.24,
+      "end": 1342.22,
+      "text": "We'll look at a bunch of examples. We'll do walkthroughs. And then, sure enough, you'll have a cloud project for setting up and generating endless advertorials of any length for whatever platform. It doesn't matter. Similar thing with product pages, right? We're going to understand, you know, why are some product pages short? Why are some long? Like, I've been loving it. I don't know if I can find this. Let's see here. Should be it here. Is it? Like, one of the examples we do in the course is this."
+    },
+    {
+      "start": 1342.22,
+      "end": 1376.99,
+      "text": "At Home Queenie Spray. These guys have a great e-com product page, right? Super sexy, really nice, love it. Another brand we look at in the thing is this Clarifion Odorex, which this is an advertorial, which you'll see many times as we go later, right? But their product page, wait for it, wait for it. We're waiting, we're waiting, we're waiting, we're waiting. And we're here. Their product page is basically like a checkout."
+    },
+    {
+      "start": 1376.99,
+      "end": 1405.71,
+      "text": "slash product page and this is it okay so why do these guys have a product page like this that's really just a little above the fold thing product selection pay faqs and meanwhile these guys have this much longer really sexy highly formatted page why is that well you'll find out as we go through we'll do tons of examples"
+    },
+    {
+      "start": 1405.71,
+      "end": 1438.42,
+      "text": "for everything like supplements you know devices uh some like like like a high ticket like um like a like book a call funnels all these things and then you'll see how to use ai to create outlines from oh let's just say sorry winning pdp structures and instantly generate new ones so similar concepts here um and really good"
+    },
+    {
+      "start": 1439.28,
+      "end": 1469.79,
+      "text": "Like, you'll love it. It's great. You can just write endless product pages and you'll see that, you know, with our friends at Claude. I use Claude a lot. All right, part 10, checkouts. So this isn't a super long module, but it's kind of important and it's good, right? So here, you know, the checkout's pretty, like, it's a weird checkout, but let's go to, like, Emma, really, which is a digest or something, right?"
+    },
+    {
+      "start": 1469.79,
+      "end": 1507.92,
+      "text": "Okay, let's go one time purchase, one pack, claim your supply. Okay, this is Emma's checkout. We will also be looking at mobile for those of you wondering, like, you know, we'll typically do this. So here's the product, checkout, right? Go to Dr. Clean, and there's all of this stuff before I get to my proc selection thing, which is mentioned again here, even though I think it wasn't on the landing page. And then you enter your information, and then there's a bunch more stuff. So I..."
+    },
+    {
+      "start": 1508.34,
+      "end": 1540.59,
+      "text": "Do they have all this up here on their checkout? Well, Emma goes right to the contact, you know, the information. And guess what? Turns out there's really good reasons for why the checkouts are different. We'll answer those and you'll understand it. And again, within the context of the whole customer journey. We'll then get into ads, okay? So the way we're going back, well, not backwards, but this is just the way it makes sense in my weird brain, okay? So it's like, okay, like ads, like what, how do we get them to start the journey? Okay, so..."
+    },
+    {
+      "start": 1540.66,
+      "end": 1569.04,
+      "text": "We're going to go from an ad to maybe an advertorial or maybe a landing page, product page, or maybe to a video sales letter to a checkout to buy. Well, when are we doing what? And we'll find out a lot of that as we go through ads. So I'm doing the meta ads. I have a bunch of examples and a ton of different niches. And we'll also look at where the ads go. There's a lot of video ads. We'll also look at static ads. What's the purpose?"
+    },
+    {
+      "start": 1569.04,
+      "end": 1598.67,
+      "text": "essentially the length of an ad, right? If it's like a short little ad, why is it often going to an advertorial or a VSL? If it's longer, it doesn't, like, you know, you'll understand all that. Native Ads with Din, he is an incredible media buyer on Native. He was part of a really big agency and now is kind of off doing his own thing and does Native buying for some of my businesses. For Google, we'll have David O'Connell from the O'Connell Agency and he's covering, you know, everything like Pmax, Demand Gen,"
+    },
+    {
+      "start": 1598.86,
+      "end": 1628.0,
+      "text": "you know, AdWords, all that good stuff. Maxwell Finn will be doing TikTok. They are incredibly knowledgeable on the TikTok side. So everything and all things TikTok ads and psychology and copy and everything there. And then YouTube, be Tom Clayson at Tried and True. Tried and True has been one of the best YouTube agencies for forever. They actually run a lot of stuff for Emma, who I just mentioned. And they'll be talking, same thing, like sort of different YouTube ads, placement."
+    },
+    {
+      "start": 1628.0,
+      "end": 1654.7,
+      "text": "uh copy elements and all that good stuff and there are ai processes for generating winning ads fast especially on um meta but you'll see how cloud projects can be used to do this for really any type of ad that you're looking and by this point you should understand and be like a master of cloud projects so you can set them up for anything really right that's a huge part of too it's like part of what i'm you'll look at copy you have a better understanding of everything you will know how to generate great copy um"
+    },
+    {
+      "start": 1654.7,
+      "end": 1682.19,
+      "text": "and you'll feel empowered to experiment and do things on your own that work for your specific purposes and needs. All right, at this point here, we'll get into the 15 factors that determine your funnel structure. This is a really cool training. I did this for CA Pro, and I haven't done it since then, so I'm taking the one from Pro, but it's really cool. Essentially, it's a criterion that you can use, like a checklist where you go through, you sort of evaluate the offer, the product,"
+    },
+    {
+      "start": 1682.19,
+      "end": 1710.93,
+      "text": "the psychology, the consumer, their product market awareness, and all of that, and the pricing, all these other factors. And based on that, it tells you, okay, here's what your funnel structure will probably look like as the best bet. So you don't have to do it. It's not like the written in stone, no exceptions ever, but it's a really nice way to understand if you're trying to figure out how to sell something, where to start, what should your funnel structure look like, okay? It's really cool. I don't think everyone's ever done anything like this before besides me."
+    },
+    {
+      "start": 1710.93,
+      "end": 1742.7,
+      "text": "it's really awesome but it makes sense to put it here because you need to understand everything else first right the whole journey the context the product market awareness the copy you're generating why you're doing what copy where and all that from there we move into upsells quite logically okay so they've completed journey from a to b now they're going from b to c how are we going to repeat buyer and that's where really like you can sort of go like you know uh from b to c you know and d and e and f"
+    },
+    {
+      "start": 1743.22,
+      "end": 1774.83,
+      "text": "So I'll make this its own big little thing here. So upsells are first and foremost. So we'll talk about upsells, but none of this is in a vacuum. So again, how do upsells impact funnel economics? What's the purpose? What's the psychology? What are the common elements? Why didn't somebody... Or how do we..."
+    },
+    {
+      "start": 1774.83,
+      "end": 1806.29,
+      "text": "How do we message them? Sorry, I'm stumbling because it's actually a really cool training and I want to kind of show you. I want to kind of spoiler it for you a little bit here. So give me a second. Let me just show you why I'm stumbling over my words. Okay. Here. What are we selling? Better results, faster results, an improved version, new problems, expanded problems. There's a lot of really cool stuff here. I'm just going to tease it because I might show this video in the..."
+    },
+    {
+      "start": 1806.29,
+      "end": 1838.66,
+      "text": "If people who haven't bought yet, but like, you know, we'll talk about all this sort of psychology, the funnel economics, the purposes, like what we need to address, you know, and what we're doing with a strategy, right? A lot of strategy is what I'm really trying to say here. Then what does two tons of walkthroughs? Everything from cleaning products like that Dr. Clean spray you saw, David protein bars, to supplements like Emma and Happy Mammoth, and then like biz op stuff like info products, right?"
+    },
+    {
+      "start": 1838.66,
+      "end": 1867.26,
+      "text": "What are the upsell flows? What are the journeys? And a cloud project set up for doing endless upsells or cross-sells. So whether you're selling more of the same or you're cross-selling and selling a different product, you'll have the cloud project set up to be able to generate tons of those. Then we get into email marketing journeys. So abandoned carts. And again, really thinking about the psychology, how it impacts funnel economics, how it impacts..."
+    },
+    {
+      "start": 1867.26,
+      "end": 1896.56,
+      "text": "your ability to scale or the people you're working for or which ability to scale, you know, and why people really don't buy, what are the real reasons. We'll look at example flows, supplements for supplements and for a book a call funnel. They'll do the same thing for a welcome series, including both like getting them to buy more, right? But also for consumption. For example, they buy a high ticket thing and you want them to consume. And for a digital course, I should say with..."
+    },
+    {
+      "start": 1901.62,
+      "end": 1934.5,
+      "text": "Right, so kind of like, this is a really classic e-com supplement. And then we get down to examples. You'll see how to like do more cross-sells too for a supplement flow or funnel. Okay. Promotional sequences and holiday promos and flash sales. So like a 4th of July sale is an example or a Thanksgiving Black Friday sale for supplements for like a biz-op sort of like SaaS tool that's like a one-time purchase. Also like a 24-hour flash sale. You just get like examples, templates, psychology."
+    },
+    {
+      "start": 1934.5,
+      "end": 1956.56,
+      "text": "Everything. Same thing with reorder sequences and Wimbacks. So reorder sequences for people who, you know, they bought supplement, for example, and it's time to buy more of them, right? They're not a subscription. Also, then Wimbacks for someone who bought a supplement and now they didn't buy more and getting them to buy more. And what do we say to get them to actually buy more? And by the way, I took these from my telemedicine platform."
+    },
+    {
+      "start": 1956.56,
+      "end": 1986.08,
+      "text": "uh and i'm just applied them to a supplement example but they were for telemedicine to really any physical product and you'll see that and they also included them for um a like sas subscription tool right so you had a i think it's like a airbnb arbitrage like it helps you like find the right market or the right properties to buy it's like a tool it's a hypothetical example um but you know how to get them to resubscribe right to a sas tool and then plot project and set up for"
+    },
+    {
+      "start": 1986.08,
+      "end": 2015.28,
+      "text": "Generating endless email sequences of any type of product or service. Okay, and then the bonuses, which might seem a little skimpy at first, but first of all, frankly, the core, like, RMBC is insane. Like, I really feel like I've just, I feel like I've solved copywriting entirely, and I just, I don't know what someone else could really create about copywriting after RMBC 2, to be honest with you. I feel like it's like, done, nailed it, fixed it."
+    },
+    {
+      "start": 2015.28,
+      "end": 2042.34,
+      "text": "But a couple cool things. There's a CRO kind of best practices training that Ethan from 48A Marketing did. 48A Marketing is an awesome CRO agency. We've used them for my telemedicine platform. We've used them for my skincare company. We connected them with like Josh and Snow Teeth Whitening. They've done stuff for Josh. They've done stuff for probably other people. Actually, not probably. Very, very, very, very extremely high profile people that I probably can't say because some of those people."
+    },
+    {
+      "start": 2042.34,
+      "end": 2069.57,
+      "text": "are real big on mdas and keeping private these guys are really smart though right um there's a talk on e-com and amazon uh from eddie maloof and he actually is probably working on an additional bonus training i'll talk about that a second uh funnel economics like an in-depth breakdown of funnel economics and thinking of it that way uh for me high ticket webinars uh the structure and copy and all the elements of dylan vannis and i put and question mark question mark question mark"
+    },
+    {
+      "start": 2069.57,
+      "end": 2095.89,
+      "text": "Because here's the thing, like those are the bonuses I'm launching with to get this on July 7th, but I will end up adding more bonuses for sure. If you look at the original RMBC one, it launched with like five or six bonuses. And there was like 20 something bonuses within a few months of that, because as people ask for certain things, like, Hey, what about this? What about that? Or people loved RMBC and were like, Hey, I'd love to contribute a bonus, whatever it was. I'm like, Hey, let's do it. And so I promise you."
+    },
+    {
+      "start": 2095.95,
+      "end": 2123.78,
+      "text": "I already have several other things that I actually am in the works on for bonuses, but I promise you more bonuses will come as well. Okay, so this was a pretty in-depth overview of everything, but I think it was worthwhile to give you the territory and the roadmap of what's happening. So again, you're going to be able to have incredible research, generate mechanisms as needed, generate these incredible briefs, take them into..."
+    },
+    {
+      "start": 2123.78,
+      "end": 2133.1,
+      "text": "an llm and generate any type of copy you want that's really at the broad level what this what it is right so um and whether that's long video sales letters medium ones"
+    },
+    {
+      "start": 2133.1,
+      "end": 2161.94,
+      "text": "three to seven minute ones, really hook heavy ones, short ones, whether you want to do in-feed or on-page VSLs, whether you're doing product pages and landing pages if they're sort of short or they're like long kind of mini sales letters, whether you want to do short advertorials or long advertorials, whether you're doing meta ads, native ads, YouTube ad, video scripts, it doesn't matter, right? So I'm not, I swear I'm not cooked, my nose to stitches. Upsells."
+    },
+    {
+      "start": 2161.94,
+      "end": 2191.79,
+      "text": "emails, everything. And it'll keep getting better. So enjoy, dive in. The next module for you is going to be kind of the opening context setter. What is copy? Understanding copy in 2025. A little bit more about the platform specific aspects of things and all of that. And then you'll get to research and you'll be on your way. All right. Thank you so much. And please feel free to give me feedback, share with me, talk to me as you go through all of this."
+    },
+    {
+      "start": 2192.69,
+      "end": 2195.44,
+      "text": "Can't wait to hear from you. Thanks."
+    }
+  ]
+}

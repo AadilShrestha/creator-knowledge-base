@@ -1,0 +1,129 @@
+{
+  "source_file": "Stefan Georgi - RMBC II (1)/14-UPSELLS/01-[1] Upsells Overview.mp4",
+  "source_id": "mega:GwRSGa5C",
+  "audio_sha256": "5a302c1b65ec2c07ec4992a875b690f90e62c48decf7d502dbad931e1d71af41",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 810.13,
+  "last_segment_end": 809.49,
+  "segments": [
+    {
+      "start": 0.59,
+      "end": 35.79,
+      "text": "All right, welcome to upsells. So at this point in the journey, if you go back to that initial sort of overview, you know, we're now on to everything over here. Selling is still not even a final version of it. But, you know, basically we've completed that first customer journey. We got them from point A, not a paying customer, to point B, a paying customer."
+    },
+    {
+      "start": 37.04,
+      "end": 72.5,
+      "text": "We've looked at all these different formats, right? Add to BSL to checkout, add to advertorial to BSL. I mean, I won't do the whole recap. I'll probably have done that in a different video, honestly. I don't record it yet, but I will. So I'm trying to figure out where I have it. I think it's down, where's the second journey? I think I have it down here more, right? Like, okay, we got them to buy. That was journey number one. Now journey number two is like, how do we keep them buying? How do we keep them a customer for life, right? And the first and most obvious type of thing would be upsells."
+    },
+    {
+      "start": 72.5,
+      "end": 105.74,
+      "text": "right? Some of these things, ignore them, their notes. We'll look at sort of email sequences, promotions, things of that nature, and then get the bonuses. So we're on upsells. This is the new journey. Journey one from A to B is complete, right? Now, I mean, technically this is still the same at the very end of journey B. Like they bought once. Basically they bought once. They just bought. They got from point A to point B. When is the number one time that you're likely to get them to buy again?"
+    },
+    {
+      "start": 106.16,
+      "end": 139.66,
+      "text": "it is moments after they just bought, right? They're already in buyer mode. They've already committed. They pulled out their credit card. They've already made the mental leap of I'm going to give this company money or this person money or this brand money or whatever it is. So being like, well, I'll give them a little more money. It's never going to be easier than it is right then and there. And that's with upsellers, right? And we're going to go through all this here, but it's sort of like there's a, I'm trying to think of how I could explain this. With a good brand, your time horizon"
+    },
+    {
+      "start": 142.03,
+      "end": 198.19,
+      "text": "is like, hey, how the formatting of this is, whatever, just still have to deal with this, right? Kind of long. All right, you've got, I should obviously just like a whiteboard almost, but it's fine, right? Like it's sort of like, you know, I'll probably do like an intro video, this sort of part of RMBC, and then repeat what I'm doing here. But essentially like, okay, say here's where they make their first purchase. Okay, terrible graphic, right?"
+    },
+    {
+      "start": 198.58,
+      "end": 236.14,
+      "text": "So if you think a really good brand and you build a good relationship with them, give it to buy again here and here and here and here and here and here is totally possible and doable, right? But the future is uncertain. And if you don't build a good relationship or things in the market change or whatever it is, it may be that all of your sales kind of come here. For people who do like ClickBank offers,"
+    },
+    {
+      "start": 236.85,
+      "end": 267.76,
+      "text": "like really aggressive offers, don't build relationships for their customers, aren't building brands, all their money is being made here. And this includes first purchase, but then, you know, upsells, email list, et cetera. And that kind of dies out. Maybe, maybe they randomly get one here. Maybe, maybe they get one here, but like less likely. But even if you do have a great brand and they're going to buy,"
+    },
+    {
+      "start": 267.76,
+      "end": 304.78,
+      "text": "Here, here, here, here, here, here. Don't mind the length, right? Okay, cool, great. You still have to contend with your AOV. And by that, right, it's sort of like, essentially, your CAC or CPA, where you're paying to acquire a customer, and then your AOV, and then your margin, right? I'll do another train on funnel economics, right? But I'm going to put it here because it sort of sets up what we're doing with upsells and the logic and thought process, right?"
+    },
+    {
+      "start": 304.78,
+      "end": 343.25,
+      "text": "So let's say you pay $100 to acquire a customer. Without upsells, let's say your average order value is $80. And let's say your margin, say your COGS are like $20, right? So basically your margin is like negative $40, right? Does this make sense? I'll put it here, so COGS, $20, right?"
+    },
+    {
+      "start": 343.25,
+      "end": 380.59,
+      "text": "You basically lose $20 between, you know, your AOV is essentially synonymous with revenue, right? Okay. So I pay $100. I get $80 in revenue, right? Which means I've lost $20. My COGS are, you know, $20, which means I've lost another $20. So then my margin,"
+    },
+    {
+      "start": 380.94,
+      "end": 416.66,
+      "text": "is negative $40, right? Or it's $60, fine, but basically, I think negative 40 makes more sense, right? It's minus 20, minus 100, minus 20, minus 20, it leaves $60, and I've lost 40 bucks, right? So how do I fix that? Well, one of the ways is getting your AOV, the average order value, up here in the first purchase. So let's say my CAC,"
+    },
+    {
+      "start": 416.66,
+      "end": 467.68,
+      "text": "CPA is $100 still, so my AOV is now $160, which means I've made $60 gross. Let's say COGS are now $40 to get that AOV up, which means I've lost $20. Now my margin, my extra net, like this."
+    },
+    {
+      "start": 467.68,
+      "end": 504.11,
+      "text": "$160 minus 100, right? This was 80 minus 100 is negative 20. 160 minus 100 is positive 60, minus 40. I don't know, this is the most confusing, right? Now my net profit margin is $20, okay? There's a huge difference between negative 40 and 20."
+    },
+    {
+      "start": 505.17,
+      "end": 537.68,
+      "text": "difference between an eight-figure business and a either business that fails or that takes a really long time to scale because you can go negative sometimes when you're doing subscription. And again, I'll do another training in funnel economics. I know I'm kind of like riffing on this, but I think it's kind of important to understand it. So the big difference is if this is true, then what can I do with that? I can either make more money and go get my Lambo faster or"
+    },
+    {
+      "start": 538.45,
+      "end": 580.62,
+      "text": "I can apply that to my CAC CPA. So then I spend, let's say, $120. My net profit is zero, but I'm not losing money on customers. Why would I do that? Because maybe now I can acquire, you know, twice as many customers. Maybe if I buy unlocking 20 additional dollars in a Lobo CPA, I can get double the customers. Maybe it's just like, you know, 1.3x the customers. But either way, I get more customers."
+    },
+    {
+      "start": 580.62,
+      "end": 613.22,
+      "text": "When would that matter? If I'm on subscription, if I'm gonna have, if I have a brand, if I have a brand where they're gonna buy here, here, here, here, here, here, here, whatever it is, then I don't really care if I break even here. I'm not losing money. I don't care because I'm gonna make money here, here, here, here, here, here, here. And when I'm doing that, my cap is gonna be"
+    },
+    {
+      "start": 613.22,
+      "end": 643.44,
+      "text": "Zero, right? So even if I'm paying COGS, my margin is to be way higher for all of those places. And by the way, this is why subscription businesses are really nice too. Because in a subscription business, you know, guess what? Basically, if you keep someone on retention, they buy here, break even, they buy here, here, here, here, here, whatever it is, right? One, two, three, four, five, six, three, both cycles. Maybe you get them here and they just buy one, two, three."
+    },
+    {
+      "start": 643.44,
+      "end": 674.35,
+      "text": "But either way, there's no CAC, there's additional times, so you make all your money back, which is also why going negative to acquire customers is actually a totally fine model if you know what you're doing, right? But if you don't know what you're doing or even with like your early on, and yes, you have a subscription business and you don't mind going negative, but right now you also don't have the money to just go at a loss constantly, then"
+    },
+    {
+      "start": 674.77,
+      "end": 717.06,
+      "text": "one of the most obvious things you could do is get your AOV up, right? And the most obvious way to do that is through upsells. So that's sort of your setup for upsells. I'm going to take this. I'm deleting it. Don't freak out. That can go away. Go down here. Basic economics are important. Okay, so that's down there. It's really important because, again, a lot of people don't have the money starting out to just go negative a ton."
+    },
+    {
+      "start": 717.06,
+      "end": 745.47,
+      "text": "knowing that they'll eventually get rebuilds. It's the same reason I've talked about with GLP-1s, the space I'm in, telemedicine, one of the spaces I'm in. I think it's virtually impossible for somebody else to come in. I made a YouTube video, and I think I might include that as a funnel economics video. I got to go back and look at it and double check. If not, maybe I'll put it somewhere else. People always ignore this, but it's like, I don't know how you could do marketing without thinking about this stuff, to be completely honest with you, right? And even with Opal Beauty, we've lost."
+    },
+    {
+      "start": 745.47,
+      "end": 777.23,
+      "text": "We put $600,000, more than that at this point, into the brand. And it's really just in the last month that we started being profitable every day. And part of that's because we rebranded and all these other things. But even when we were losing money figuring it out, I was like, well, at least we have a high subscription take rate. The problem was our products were not good enough, so our subscription take rate was good, but our rebills were bad. And so one of the reasons I basically redid everything to get..."
+    },
+    {
+      "start": 777.3,
+      "end": 806.69,
+      "text": "better products. Okay, we're 12 minutes and I barely even talked about upsells, but hopefully you understand why I shared this and why it's valuable, okay? So let's go to actual practical stuff with upsells, and then we're going to do some shopping with Stefan. You know what I'm going to do? I'll start that on a new video, so if somebody wants to skip the funnel economics part, they can, but I actually really think, hopefully everyone watches this video, because unless you're, a lot of people just don't think this way, even kind of experienced operators. So I'll stop this so that"
+    },
+    {
+      "start": 806.69,
+      "end": 809.49,
+      "text": "We are more clean when we jump into upsells, okay?"
+    }
+  ]
+}

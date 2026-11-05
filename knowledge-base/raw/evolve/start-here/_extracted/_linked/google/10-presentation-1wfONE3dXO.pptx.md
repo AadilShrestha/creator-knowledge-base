@@ -1,0 +1,132 @@
+# 10-presentation-1wfONE3dXO.pptx
+
+_Source: `10-presentation-1wfONE3dXO.pptx`; 9 slides (python-pptx text + speaker notes)_
+
+## Slide 1
+
+Easy A Media
+
+Market Awareness
+
+©  Easy A Media Inc.
+
+_2 image(s) saved to `..\..\..\..\..\..\..\_work\ecomtalent\evolve-start\media\linked\10-presentation-1wfone3dxo-pptx`_
+
+## Slide 2
+
+What Is Market Awareness
+
+Easy A Media
+
+The level of understanding your customer has on your product
+
+Credit to: 
+Eugene SchwartzNick Theriot
+
+_2 image(s) saved to `..\..\..\..\..\..\..\_work\ecomtalent\evolve-start\media\linked\10-presentation-1wfone3dxo-pptx`_
+
+## Slide 3
+
+Market Awareness - Most Aware
+
+Definition:Most aware prospects already know what you do, they are just price sensitive. All they need to do is make them an offer they can’t resist
+Goal: It’s time to sell
+Action: Get out of the way, make a great offer, reduce risk & make it easy for them to purchase.
+
+Easy A Media
+
+The levels of market awareness
+
+_2 image(s) saved to `..\..\..\..\..\..\..\_work\ecomtalent\evolve-start\media\linked\10-presentation-1wfone3dxo-pptx`_
+
+## Slide 4
+
+Market Awareness - Product Aware
+
+Definition:The user is now aware of the options available and is exploring them all, including yours. Your job is to now show them why you’re the best. 
+Goal: Make your product shine & show more of how it solves the desire
+Action: Build more trust, share benefits & features, show them more of how your product will solve their desire the best. You can also introduce future pacing at this level by showing them how to use your solution & how easy, effective, and complete it is as well.
+
+Easy A Media
+
+The levels of market awareness
+
+_2 image(s) saved to `..\..\..\..\..\..\..\_work\ecomtalent\evolve-start\media\linked\10-presentation-1wfone3dxo-pptx`_
+
+## Slide 5
+
+Market Awareness - Solution Aware
+
+Definition:The user knows there are solutions to their problem, but has not chosen one and does not know that your product will be the best solution for them.
+Goal:  Introduce your solution to the main problem as the superior solution
+Action: Call out the benefits consumers want that your product provides. If there are other solutions that gives them the same benefits as yours, call out and compare how yours does it better. You can also use success stories and influencer reviews as vehicles for showing your reader just how well your solution does that.
+
+Easy A Media
+
+The levels of market awareness
+
+_2 image(s) saved to `..\..\..\..\..\..\..\_work\ecomtalent\evolve-start\media\linked\10-presentation-1wfone3dxo-pptx`_
+
+## Slide 6
+
+Market Awareness - Problem Aware
+
+Definition:The user senses they are experiencing a problem but doesn’t know there is a solution. 
+Goal: Identify and focus on the problem & show your understanding of that problem. Then start to provide answers to that problem. 
+Action: You must FIRST articulate the problem so clearly, that they say “YES THAT’S THE PROBLEM I’M HAVING” and then start introducing the solution to that problem.
+
+Easy A Media
+
+The levels of market awareness
+
+_2 image(s) saved to `..\..\..\..\..\..\..\_work\ecomtalent\evolve-start\media\linked\10-presentation-1wfone3dxo-pptx`_
+
+## Slide 7
+
+Market Awareness - Unaware
+
+Definition:The user does not realize they have a problem. 
+Your market is identified by a core emotion they’re feeling. Call out the core emotion, educate them on the problem that is causing that emotion, then solution to solve that problem.
+Goal: Educate the unaware prospect to become problem aware.
+Action: You can either highlight a “problem” that you know everyone has or is very common. Or talk about people “like” the ideal prospect you’re wanting to go after.
+
+Easy A Media
+
+The levels of market awareness
+
+_2 image(s) saved to `..\..\..\..\..\..\..\_work\ecomtalent\evolve-start\media\linked\10-presentation-1wfone3dxo-pptx`_
+
+## Slide 8
+
+How Marketing Awareness Works Together
+
+Easy A Media
+
+Where to enter the conversation & how to carry it forward
+
+1
+
+2
+
+3
+
+_2 image(s) saved to `..\..\..\..\..\..\..\_work\ecomtalent\evolve-start\media\linked\10-presentation-1wfone3dxo-pptx`_
+
+## Slide 9
+
+Learn More About Market Awareness
+
+Easy A Media
+
+https://breakthroughadvertisingbook.com/lp3-breakthrough-advertising/
+
+Dive Deeper into Market Awareness by purchasing the book here. 
+There is no affiliation with this.
+This book helped 3x my business 
+What is $150 for the potential to 3x of your business?
+
+The level of understanding your customer has on your product
+
+TLDR; Market awareness is the target market you are going after within a specific desire
+
+_2 image(s) saved to `..\..\..\..\..\..\..\_work\ecomtalent\evolve-start\media\linked\10-presentation-1wfone3dxo-pptx`_

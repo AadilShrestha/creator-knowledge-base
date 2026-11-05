@@ -1,0 +1,284 @@
+{
+  "source_file": "👣 Evolve (Start Here)/82. The 3 Testing Methods - Part 2 👣 Evolve (Start Here) Evolve.mp4",
+  "source_id": "mega:jhQDiSSY",
+  "audio_sha256": "039e2089dc00197473efd8d5606eb607257cc94e86f6a1d13b2f45a1ffb75121",
+  "audio_only_fetch": true,
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 1402.62,
+  "last_segment_end": 1402.0,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 29.26,
+      "text": "All right, guys, I'm making this super quick to let you know that I have pulled the clip from the very end of this video and put it into the front. It's about a minute. And I want this to really land for you to understand the importance of what we're about to go through. And then it's going to take you through the rest of the training. But I wanted to pull this clip in front because of how powerful it is. You guys can apply this to your competitors. You guys can go and follow the strategies that we teach about getting in and finding the best winning ads. And rather than just copying them brainlessly or rather than ripping them, which is."
+    },
+    {
+      "start": 29.26,
+      "end": 58.86,
+      "text": "illegal. What you can do is you can study them and you can look for, huh, it's actually going after this desire. It's maybe going after someone who has this behavior or had this specific product experience. There's their avatar. I wonder how I could say it better. Or I wonder how I could potentially look for someone similar, or maybe I could make it more relatable, right? That's what I want you guys to do. That's what a good marketer does. Okay. And that is like the gold of this training."
+    },
+    {
+      "start": 58.86,
+      "end": 88.82,
+      "text": "is to give you guys a skillset to be able to do that. Because if you do that, you're gonna make a lot more money for a lot longer compared to the people that just get lucky and use someone else's content. And then all of a sudden, a couple of months later, they don't know what to do. All right, for you nerds out there, and this is a big shout out to Nick Shackleford. I love Shack because he just calls everybody a nerd, which is so true. Like the fact that I'm in a Google doc talking about breaking down an ad and identifying an avatar is so nerdy, but I love it. The nerds make the money."
+    },
+    {
+      "start": 88.82,
+      "end": 118.27,
+      "text": "Let's break this down. Okay. And let's get deep around how the testing strategies use plus how we figure out what avatar we're actually targeting. And this is going to be some sauce in here as a real live example. I already showed you some examples of this as well. And so again, I just want to clarify, we did not have this avatar training when we initially created these ads. Okay. We didn't know what we were doing. All right. Well, we did know, but we didn't have it documented. But the good news is, is we have it now. Okay. And like some of you who have"
+    },
+    {
+      "start": 118.27,
+      "end": 146.03,
+      "text": "may already made winning ads as a result of, you know, watching the other videos, this video is going to help you understand how you can analyze your ads to identify potential avatars to help you create more super winners. Super winners for us are ads that pull all, basically pull off the spend and allow us to increase budget because not only do they pull spend, they also increase your ROAS. And if you have a higher ROAS, guess what? You can scale. Okay. That is a super winner. Some people call them breakthroughs, whatever it is."
+    },
+    {
+      "start": 146.03,
+      "end": 173.66,
+      "text": "One of the problems you're likely going to face is trying to understand what your avatar or what your best ads now, obviously, because you didn't have this training before. But one of the problems you might be facing is like you're trying to figure out what avatar is in your best ads or even better, what avatar is in your competitor ads. And this is some sauce that like nobody talks about, but we're going to get into it. Okay. Who are they targeting and how can you identify it from just the angle and the headline?"
+    },
+    {
+      "start": 173.66,
+      "end": 199.79,
+      "text": "Okay. Which means if you see an angle is working in your account or again, in others, you need to go deeper to understand why. And that's why having this knowledge to understand and identify avatars that are being targeted in the angle is so powerful. Okay. Unlike other marketers, when you see an angle working, it will now provide you with a direction to go deeper in. And when you do that, it allows you to write more relatable ads, as we all know, relatable ad scale."
+    },
+    {
+      "start": 199.79,
+      "end": 226.08,
+      "text": "So let's talk about this superlative concept. And I've mentioned it a couple of times and I promise there's going to be more examples than this, but I think this one's just very simple and easy for you guys to understand because at the end of the day, like when we were, when we made this ad, we were just kind of winging it. But again, if you go back and process learnings on what you were doing and try to identify the patterns in it, you're able to then do that more, more and more. Okay. Like once you start to."
+    },
+    {
+      "start": 226.08,
+      "end": 250.42,
+      "text": "identify how you did something and you can systemize it all of a sudden creating winning ads becomes a lot easier okay and so what you guys are watching is the system now concept explanation so leverage multiple angles using superlatives to sell the humidifier again if you don't know what a superlative is it just means like when you say that like you're the best or it's the world's first or it's just it's a big claim is what it is okay now i want to call this out here because the"
+    },
+    {
+      "start": 250.42,
+      "end": 278.8,
+      "text": "angles, not the angle, the angles that we are targeting the more actionable ones, right? Because at the end of the day, using superlatives is kind of an angle, it's a broader angle, right? But the angles that we're targeting here are much more actionable. Okay. And so the first angle that we were targeting is staying the steel. The second is easiest to clean. And the third is doctor designed. Okay. Now the variations of this, because again, we're using angles, not angle."
+    },
+    {
+      "start": 278.8,
+      "end": 302.11,
+      "text": "We're using multiple angles. We have one unique way of communicating each of these individual angles. And so what I meant by the three different ways is like, here's our three variations. And so we picked the best one for stainless steel, which is world's first stainless steel. We then picked the variation number two, which is world's easiest to clean, right? And then we picked variation number three, which is world's first doctor design humidifier. Okay. You can see these are different swings."
+    },
+    {
+      "start": 302.11,
+      "end": 330.3,
+      "text": "Okay. And so the execution strategy here, because we're testing multiple angles is the marksman's method. So this concept superlative angles was originally done because our client actually mentioned that it would be good for us to try to make some bold claims thinking very surface level, right? However, as you can see, each variation of the superlative angle is a different angle in itself. And again, this is where it's like the angle matrix, right? And a lot of you guys are getting confused. What this means though."
+    },
+    {
+      "start": 330.3,
+      "end": 348.59,
+      "text": "is that now that we've been able to break down how you can approach this, is that we were testing multiple angles in this test. And if we're testing multiple angles, it means that we're using the Marksman's method, okay? We're testing multiple angles to see what hits. Again, if your concept is focused on testing angles, which we recommend in the beginning,"
+    },
+    {
+      "start": 348.59,
+      "end": 373.98,
+      "text": "depending on the variations that you use, you will also likely target different avatars. And so in the beginning, I wish I could have told you guys that we were like, hey, we identified people who care about stainless steel. And we identified people who care about things that are easy to clean. And we identified people who care about doctors, but we didn't. Okay. But if you did, this concept could just be like, hey, I'm just going to test different sub avatars."
+    },
+    {
+      "start": 373.98,
+      "end": 401.57,
+      "text": "And then what I'm going to actually get into later is like the execution type. It's like, Hey, how can we say this using superlatives is how we chose to say it. So even though we called this concept, the superlative concept, basically what this is, is like testing different sub avatars. Okay. That care about these specific things. And then from there, this is how we used superlatives to communicate it or to execute it. And I cannot wait for you guys to see the execution section because the sauce that I have in there is."
+    },
+    {
+      "start": 401.57,
+      "end": 426.67,
+      "text": "Going to be insane. But again, let's kind of talk about this down here, which is, again, to explain what I mean, let's break down each variation further to see which avatar it connects to. So variation number one, world's first stainless steel humidifier. The angle here is this stainless steel new mechanism. And this is something that we identified where we were like, hey, this is something that most humidifiers don't have. They don't have stainless steel. So let's talk about it."
+    },
+    {
+      "start": 426.67,
+      "end": 445.65,
+      "text": "Okay. So you'll notice that this angle here, we're actually leveraging a new mechanism, which is stainless steel. Now, just because this angle is leveraging a new mechanism, and this is where I want to double down, this does not mean it's not targeting an avatar. Okay. The angle here might be targeting an avatar that has a desire of wanting a plastic free humidifier."
+    },
+    {
+      "start": 445.65,
+      "end": 475.28,
+      "text": "However, it could also be targeting someone who has a broader desire of wanting to get rid of dry air, which is what humidifiers do, then narrowed down by a behavior of avoids using plastic products because of microplastics, okay? Now, which is a very small side note reminder because I know that we're getting a little bit all over the place. Technological problems create desires, okay? When someone has a problem with a product, technology, new desires like wanting a plastic-free humidifier are created."
+    },
+    {
+      "start": 475.28,
+      "end": 503.97,
+      "text": "These are the fundamentals that we went over way back in the desire section. Now, this is where it can get confusing when trying to review ads and why you always need to formulate a hypothesis on why you think something is working. For those of you that didn't pay attention in science class, again, a hypothesis is an educated guess. So the reason why you need to make educated guesses is because the avatar may not be the first avatar that you assume."
+    },
+    {
+      "start": 503.97,
+      "end": 531.71,
+      "text": "OK, it may be a different avatar, which I will explain below. I'm pumped for you to see this now. So this desire of let's just say we took the learning. And again, there's no right or wrong learning, guys. I'm going to be very, very clear. Like when you're reviewing ads, there is no right and wrong. I would say actually I would say there is right and wrong. The right learning is the one that actually makes you a winning ad. OK, that's how you know you've made a good learning. But in the beginning, it's like you're just you're guessing you're like, OK, I'm guessing that this is what people care about."
+    },
+    {
+      "start": 531.71,
+      "end": 556.98,
+      "text": "That's a hypothesis. And then guess what? You go and make ads around that hypothesis. That's how it works. That is how you make progress in your ad account. You don't blindly test things. But again, for the sake of this, you might be looking at stainless steel humidifier and think of a completely different desire. Maybe you came up with a desire of someone who wants a stainless steel humidifier. Now, again, that is a very, very niche thing. And most people, because stainless steel is a new mechanism,"
+    },
+    {
+      "start": 556.98,
+      "end": 585.7,
+      "text": "are not gonna come up with that, or sorry, are not gonna have that desire, okay? But my point is, is like, you can come up with whatever learning you have. Obviously, the more that you do this, the more accurate that you're gonna get with your learnings of why people care, but the most important thing is just to do them, okay? The first month that you do learnings, the first two months that you do learnings, you might be like, I have no idea what I'm doing. I remember sitting on a call with Sean, and we were trying to identify awareness levels on ads, and we were like, I have no idea."
+    },
+    {
+      "start": 585.7,
+      "end": 600.38,
+      "text": "Okay. And so like, it takes time guys, it takes time, but it's good because again, you're in this for the long run, but let's jump back in the screen here. So again, the reason why you need to make educated guesses, because the avatar may not be what you first assume. Okay."
+    },
+    {
+      "start": 600.38,
+      "end": 629.78,
+      "text": "it may be a different avatar. So the desire of wanting a plastic-free humidifier could be the wrong desire or the behavior of avoids using plastic products because of microplastics could be the wrong behavior. The most important thing for you to know is that people are buying from this headline or from this hook or from this angle for a reason. And it's your job to find that reason. The first best thing for you to do though is logically just think to yourself,"
+    },
+    {
+      "start": 629.78,
+      "end": 652.67,
+      "text": "Based off the research that you've done, why would someone care? Okay. However, I will show you down below in the example, how you can accurately find the true desire or experience that is driving the purchase. And that's just really done through research. But again, to come now, to some extent, you know, for sure that they're buying this product due to the more obvious core desire that exists. Okay. Which in this case is."
+    },
+    {
+      "start": 652.67,
+      "end": 670.88,
+      "text": "This person wants to be healthier just because of what our product does. Again, don't get too lost in the sauce, guys. Remember that you have a product that does certain things that deliver certain desires. Your product can only attend to so many desires, okay? And so the pro tip here is that if you need help figuring what your core desire is, just keep asking why."
+    },
+    {
+      "start": 670.88,
+      "end": 692.61,
+      "text": "Okay. So if you come up with a surface level desire, like wants a plastic free humidifier or wants to stain the steel humidifier is even better. Just keep asking why. Okay. Wanting a plastic free humidifier. Why does someone want that? The answer could be because I don't want microplastics being humidified. I don't even know if that's a word, uh, into my house again. Why? Because that's dangerous to my health. Core desire."
+    },
+    {
+      "start": 692.61,
+      "end": 718.77,
+      "text": "wants to be healthier. There we go. We just got down to the core desire by simply asking why. So it's a really great practice for you guys to figure out what the core desire is. Just keep asking why, okay? Now, whatever the desire is, it's important to push deeper to try to understand it to its core. And a lot of the time, this can be found by going through the why question process. Again, there's no right or wrong way to get there, but eventually, if you keep asking why, you will get there, okay? But again,"
+    },
+    {
+      "start": 718.77,
+      "end": 742.4,
+      "text": "going back to what we're talking about here, which is the different testing methods, okay, and breaking down this example, as a result of gaining direction from this marksman method test, okay, we found that this headline is specifically working. And this is where you can begin to launch additional ad tests around this angle of stainless steel using the sniper method to again,"
+    },
+    {
+      "start": 742.4,
+      "end": 772.1,
+      "text": "tests what underlying desires, behaviors, or experiences are truly driving the conversions. And so as a result of that, we then launch additional tests around it. I'm going to get to that down below, but first we've got to look at variation number two. Now, variation number two is the world's easiest to clean humidifier. Now, again, this angle takes us to a bit of a different avatar. This has more of a benefit-focused headline versus a feature-driven one like stainless steel. And so it's a little bit simpler to identify basically the avatar."
+    },
+    {
+      "start": 772.1,
+      "end": 801.14,
+      "text": "Okay. That we are targeting here. This is likely someone who has a surface level desire of wanting an easier to clean humidifier, which likely came from a product experience with a hard to clean humidifier, right? Mass tech problem. Or maybe this avatar has a behavior of not cleaning their humidifier. Either way, the same process that we outlined above is the same process that we apply here. My main point is with variation number two, we are now actually targeting a different sub avatar because we are taking a different angle."
+    },
+    {
+      "start": 801.14,
+      "end": 830.72,
+      "text": "Again, we are using the marksman's method here, which means we are mixing angles. And just as a reminder, this is not chaos. This is controlled chaos. The most important thing here is to remember, unlike other marketers who are not going through this training, you will be looking deeper into the avatars that you are targeting. And if you are looking deeper, you have ability to actually make iterations of variations with strategy that matters instead of brainless chat GPT iterations and random clips that you rip."
+    },
+    {
+      "start": 830.72,
+      "end": 847.66,
+      "text": "focus on this here because something that i want to call out is like all of these things that i've just drawn and again just so you know like this didn't work okay like this headline specifically didn't land right the stainless steel one is the one that got most of the actual um"
+    },
+    {
+      "start": 847.66,
+      "end": 876.61,
+      "text": "spent and actually got most of the performance, which you guys will see. But my point is, is like, you can still have learnings. Like, so say, for example, if this was the headline that that was doing the best, these are some of the learnings that I would have. Like, hey, these are some of the behaviors that I potentially need to go deeper on. Or these are some of the desires that I think, or these are some of the product experiences that I believe people have had. And so now I'm processing learnings. And now I'm thinking again about customers and avatars first, rather than just like, oh, this headline sucks. Okay."
+    },
+    {
+      "start": 876.61,
+      "end": 906.37,
+      "text": "That is the goal. Now, if we get into variation number three, which is the world's first doctor designed humidifier, and on this final variation, this angle targets an avatar who has likely had a positive experience with doctors. Now, could this be, now again, could there be other behaviors? And I'm sorry, guys, it just flips my page over every single time I do that. But now, could this be other behaviors or experiences that have led to people who want a humidifier that's designed by a doctor? A hundred percent. And that's why doing research to try to analyze this is important. But considering that this headline"
+    },
+    {
+      "start": 906.37,
+      "end": 935.26,
+      "text": "didn't work and for future angles that we tested still didn't work. This kind of tells us that in this instance, particularly people don't care if the humidifier has been designed by a doctor. They just want a humidifier that doesn't suck. Okay. So sometimes the angles that you think are really good angles that work well, people just don't care about. And I want to bold this because like, it's so important. Like these angles that you, you think are super sick, people just might not care about."
+    },
+    {
+      "start": 935.26,
+      "end": 963.41,
+      "text": "Like, you know, we were talking about this the other day and I'm not going to go on a tangent, but it's like we have as marketers think like we know what people want. And when you when you see that your ads are getting spent and scaling, you definitely do. But if your ads are not getting spent and they're not scaling, you're just making ads in a way that one, people don't care to listen, which is execution, which we're going to talk about. Or two, you're just making things that people don't care about. People don't care that this was designed by a doctor. Cool, bro."
+    },
+    {
+      "start": 963.41,
+      "end": 973.44,
+      "text": "I just want, like, that's not the main selling point. I just want a humidifier that doesn't suck. Okay. So again, this is why doing research is important because it gives you angles."
+    },
+    {
+      "start": 973.44,
+      "end": 1003.38,
+      "text": "that people actually care about. And that's why the research that you guys have done is important because the research that we did to come up with these angles were product first. They were product first angles. We were like, hey, our doctor designed it. Let's talk. Let's tell people about that. Hey, it's stainless steel. Let's tell people about that. Or hey, it's easy to clean. Let's tell people about that. That's how we came up with those angles. Those are not, that's not the right way to do it. Now, can it work still? Yes, of course. But when the angles that you guys are coming up with is, should be, and are about things that people care about. Okay."
+    },
+    {
+      "start": 1003.38,
+      "end": 1032.48,
+      "text": "do it that way, again, unlike our situation, we were able to, you know, we were able to, or you are going to be able to rather identify that it's probably not the angle up to why something is not working. It's probably how you executed it. Because again, you did research to find this stuff. So if you did research the right way, then you know, it's likely just an execution problem, which we're going to get into. But at the end of the day, I just want to let you guys know that sometimes if you're doing like, hey,"
+    },
+    {
+      "start": 1032.48,
+      "end": 1058.14,
+      "text": "Let's talk about how our product does this. And you think people are gonna care about it. And if it doesn't work, guess what? People just don't care, okay? Now, my main point with all of this is look how deep we've gone, right? We're 15 minutes in. And so just trying to understand what is actually happening with this concept, okay? So just by testing this superlative concept, which again is the big idea, and at the variation level,"
+    },
+    {
+      "start": 1058.14,
+      "end": 1079.71,
+      "text": "we were testing multiple angles, we can begin to narrow down what avatars we need to go deeper on based on what performs. In this instance, we're targeting quite a few different sub-avatars, even though we didn't know it at the time. And I'm sure to say that it's okay if you have made ads and you didn't know what your sub-avatars are. The point is, is that..."
+    },
+    {
+      "start": 1079.71,
+      "end": 1105.23,
+      "text": "You are going to be able to actually identify this now because you have this training. And when you write these angles and when you write these variations, you're actually going to know what is going on. Okay. And so considering that at the time we had no idea, again, as I've mentioned before, we were just spamming angles and a lot of you might be in that place. But if you have not gone deep to try to understand it, like I just did on your best performing ad."
+    },
+    {
+      "start": 1105.23,
+      "end": 1133.3,
+      "text": "you are potentially a couple of swings away or a couple creative tests away from finding a super winner, okay? Now, in this instance of this brand, we ended up taking this new mechanism angle of stainless steel, and we narrowed it down even further with a demographic, so calling out parents, and we applied a different format, AI voiceover, and as a result, we went from an ad that was spending $10,000 per week to an ad that could spend $80,000 per week with the same return on ad spend."
+    },
+    {
+      "start": 1133.3,
+      "end": 1162.7,
+      "text": "Okay. And that is the power of understanding this training. And so you guys already saw this in the original video, but again, here's the Markson method. Here was the initial big swing that we took. Dr. Design, world's first stainless steel and cleanest. Okay. Sniper method, secondary, smaller thing or smaller swing. Okay. We tested granular things around the ad. Okay. So we tested different images. We tested different sub text down here. And you'll notice that this ad was then able."
+    },
+    {
+      "start": 1162.7,
+      "end": 1188.8,
+      "text": "to spend $18,000 per week at a 2.8X return on ad spend. Pretty good. Now we get into phase three, which is the sniper method again, but this is a bigger swing. We did more research. And by the way, this was just like, this is where most people stop. They just do an iteration like this. And then they're like, oh, hey, I found a new iteration that works and I got double the spend. And that's great. But take a look at the exponential leap that we took here."
+    },
+    {
+      "start": 1188.8,
+      "end": 1215.5,
+      "text": "As a result of doing more research, we were then able to execute it differently in a more scalable storytelling version that provided more context. And again, we're going to talk about how to write storytelling ads and all this kind of stuff later. It's going to get to the execution phase. Again, we have to take this one step at a time. But the sniper method here, by taking a bigger swing, we're able to make an ad that spent $80,000 per week, again, at the exact same ROAS."
+    },
+    {
+      "start": 1215.5,
+      "end": 1245.09,
+      "text": "Okay. And so the main takeaway here is this, okay. It is okay to test multiple angles, but only if you are aware of them, because if you are aware of them, once you find the winning angle, you can go further into a specific avatar by refining it, understanding more about them and trying to be more relatable and then test different formats for them, which in turn will allow you to scale further. Okay. So my goal of this breakdown,"
+    },
+    {
+      "start": 1245.09,
+      "end": 1274.85,
+      "text": "of this ad. And again, guys, we spent basically 20 minutes breaking down this ad. Now I'm obviously talking and going on tangents and all that kind of stuff, but like this was just one ad. Like if this doesn't show you how deep you can go to understand your ads and like what is happening, I don't know what does. Now, do you need to go this deep on every single ad? Probably not. Okay. But my point is, is by using the Marxism method, we were able to get direction, the direction of staying the steel being something that people care about. So"
+    },
+    {
+      "start": 1274.85,
+      "end": 1299.25,
+      "text": "short term very quickly next couple of days we did iterations around stainless steel and that worked but longer term so thinking more of on like hey give us a week or week and a half let us do more research to find out why people care about stainless steel let us then make a more scalable ad type which is going to be like an ai voiceover like a storytelling version which we are going to get into okay because again"
+    },
+    {
+      "start": 1299.25,
+      "end": 1328.18,
+      "text": "statics can scale. Don't get me wrong. Statics can scale like crazy, but we found a lot of times that when we put it in like a storytelling type of ad, like it can rip even harder. Okay. Just provides more context. And so by doing that, by understanding what's going on, by being able to identify the avatar and basically use the methods that I'm teaching you from marksman to sniper, you'll notice we didn't use shotgun here. It was marksman and then sniper. We were able to make a super winner ad that absolutely murdered for this brand."
+    },
+    {
+      "start": 1328.18,
+      "end": 1356.96,
+      "text": "Okay. And so that is it. That is the training. That is the breakdown. I hope you guys enjoyed this. This is like definitely much more of like an example type. I didn't really touch much on it at the end there, but you guys can apply this to your competitors. You guys can go and follow the strategies that we teach about getting in and finding best winning ads. And rather than just copying them brainlessly or rather than ripping them, which is illegal, what you can do is you can study them and you can look for, huh, it's actually going after this desire. It's"
+    },
+    {
+      "start": 1356.96,
+      "end": 1386.05,
+      "text": "Maybe going after someone who has this behavior or had this specific product experience, there's their avatar. I wonder how I could say it better. Or I wonder how I could potentially look for someone similar or maybe I could make it more relatable, right? That's what I want you guys to do. That's what a good marketer does, okay? And that is like the gold of this training is to give you guys the skillset to be able to do that. Because if you do that, you're gonna make a lot more money for a lot longer."
+    },
+    {
+      "start": 1386.05,
+      "end": 1402.0,
+      "text": "compared to the people that just get lucky and use someone else's content and then all of a sudden a couple of months later they don't know what to do okay so i hope that that lands for you guys and again i'm very very excited for you to apply this and uh hopefully it helps you make a lot more winning ads"
+    }
+  ]
+}
