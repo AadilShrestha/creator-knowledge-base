@@ -1,0 +1,73 @@
+[00:00:00] okay in this video we're going to do a live recreation of
+
+[00:00:05] a direct response ad through just using ugc that looks something like this it's so nice looking it's the only appliance that i leave out on my counter this super versatile 12-in-1 air fryer oven lets you cook two foods in two different ways using different zones so they both end up exactly how you want them it's quick sync technology matches cook times and settings per zone so your entire meal finishes at the same time even with some starting off frozen like the chicken and fries that i'm using today nothing's worse than hot vegetables and
+
+[00:00:35] chicken and fries make your meal time quicker and easier order your emerald agassi dual zone air fryer today so if you are working with us and you know that you know that you know there's logos missing and might not be the right font for the text but this is just to this video is to just show how quickly you can actually get some of these videos done so without further ado let's get started use the templates that i have below i'm not using it i'm just this is a project file that i'm using for other things but
+
+[00:01:02] The footage that we're going to be using is this A-roll UGC by Samantha. And so what we're going to do is we're going to drag this into this little new item thing. So we're in the project panel. So drag it into the new item. And it's going to basically create a sequence out of what she has. Then what we're going to do is go to sequence. We're going to go to auto reframe sequence. And we're going to make this into a vertical 9x16.
+
+[00:01:31] And we're going to give it the name of whatever the project name was and make sure Doneness clips is enabled. Click create. And there we have it. The clips have been aligned. So what I'm going to do, I'm going to actually go through the video. I'm going to cut out the video such that it's only left with the footage that I want into it. And I'm going to also create the hook based on what she says. I'll make a delicious and nutritious meal with me using this gorgeous Emeril Lagasse dual zone air fryer oven.
+
+[00:02:01] so that wouldn't really be a good hook especially if you're scrolling through facebook or instagram like i don't know if anyone wants to see a tutorial on how to use a product it looks too much i can add so i'm gonna just cut that out it's so nice looking it's the only appliance that i leave out on my counter that is a better hook so i'm gonna keep that there it's so nice it's so nice look
+
+[00:02:22] She's saying it's so nice that I like to keep it on my counter. So we're appealing to kind of people wanting to have a nice kitchen. Some people don't want to have appliances in the counter, but this one's so nice that she has it there. So let's keep that one in there. Leave that on my counter. And by the way, so you see I'm cutting this little gap here so that the next audio starts. What I'm doing is actually just pressing the key Q, Q right here. Press Q and it cuts and it cuts and shifts back.
+
+[00:02:50] We're making crispy chicken with fries and roasted vegetables all at the same time. See, I don't think we need to do a tutorial exactly, so I'm going to just cut this out. I don't think we need it. This part is more important because we're talking about the features. I want to just take away this breath here. By the way, if you're ever scrubbing through...
+
+[00:03:20] And you can't hear the audio. You just do shift S. And it should come up. Nice. I'll just cut this pause here.
+
+[00:03:54] Okay. Get rid of this pause. Nothing's worse than hot vegetables and cold chicken and fries. Each zone has baking pans and air fryer. I'm going to get rid of this part. I'm going to cut it straight to her. Cut the break.
+
+[00:04:24] if i want to cut from here forward i just press w so your your ring finger and your middle finger should really just be hovering next to the q and the w key so that's it that's pretty much the base video now i'm going to do is actually going to add some b-roll to this video now i have a folder here or some of the footage that we got um from a shoot and i'm just going to add the b-roll it's so nice looking it's the only appliance that i leave out on my counter this super versatile
+
+[00:04:53] so i want a nice shot of the airfryer as i'm saying this super versatile so i'm gonna just find something like when i'm looking for footage i just scrub around so this is not a bad show actually but it's quite staged quite professional so i'm gonna just leave it for the end by the way the final edit might end up different to the one i showed just because i'm really just doing it as i'm going along so this is kind of cool um this
+
+[00:05:32] Shot here of the doors opening is kind of nice. So let's do that leave out my counter this super Sometimes the footage that use is is zoomed in because it's short in 4k You can see we go to the effect controls. We can actually zoom it out and it's it's wider So what you can do is you can actually right click do set to frame size. I have that on my shortcuts as Control F. So if I do control F it does set to frame size so you can set that yourself
+
+[00:06:02] This super versatile 12 and 12 and one airfryer Let's do some settings This 12 and one airfryer oven let's 12 and one airfryer oven. Let's see. It's probably a better shot Something with movement. This is a nice show that I'm gonna just drag in for later So I'm gonna cut when she says 12 and 1 12 and 1 12 and 1 airfryer and I just did that by moving this clip
+
+[00:07:06] right above where she says 12 which is right here 12 and one air i want to show like opening up here taking this stuff out so this is a whole section of her taking things out it's a bit long though so i'm gonna just put that over here reframe it i'm gonna do a jump cut so i'm gonna press uh cut the thing here cut there drag this one to the left so now it goes there
+
+[00:07:44] Cut again. Cut here and then drag this forward and then delete. So now we have a jump cut. So now once you're saying it cuts two. This is actually not bad. So actually I'm going to take this one here.
+
+[00:08:20] This is a bit fast. Then I shot it at 60 frames. So if I do command R, 50%, if I slow it down. And then you can cut here. And you can notice that we're trying to cut where she's saying something, right? So another topic, another thing she's saying, we're cutting.
+
+[00:08:50] Let's see what else we can add. Matches cook time. So I think in the other one, I had the serving, because like matches cook time, you know, things are being served. So maybe we can, something like this, something like this, and then prior to that, this one would just get things dragged on.
+
+[00:09:41] Because we have the meat and the veg at the same time, which is usually quite a hard thing to cook at the same time. Here I'm doing the jump cut just by selecting the clips. So quick sync technology matches. Oh, and all of these need to be set to frame size. So we'll do set to frame size.
+
+[00:10:25] And we'll do another serving like this. There you go.
+
+[00:10:57] even with some starting off frozen like the chicken and fries that i'm using today nothing's worse than hot vegetables and cold chicken and fries so this is kind of like a nothing's worse i'm actually going to just make this black and white today nothing's worse than hot vegetables and and do a cold chicken and fries make your meal time quicker and easier order your make your meal time quicker and easier let's do actually we can just add that shot that we had from earlier make your meal time quicker and easier order your
+
+[00:11:27] There you go. It's a bit shaky, so we're going to do warp stabilizer. I'm going to pause this. Oh, that was quick. Cool. So that's... It's so nice looking. It's the only appliance that I leave out on my counter. This super versatile 12-in-1 air fryer oven lets you cook two foods in two different ways using different zones. So they both end up exactly how you want them. It's quick sync technology match...
+
+[00:11:59] I'm going to just add a zoom here, but because we had the auto reframe, I think you've got to do it now. I think you have to nest it. So right click nest and then position scale here, position scale, and then just slowly zoom in up top. So they both end up exactly how you want them. It's quick sync. And it does kind of jump back a bit. It's quick sync tech. I'm just going to drag this. I'm going to hold auto option.
+
+[00:12:41] I'm going to just drag this one here at the bottom and drag this one there so that the audios actually match. I mean, this could also be a hook.
+
+[00:13:10] Okay, so now that we've done that, we're going to just save. Then we're going to add our subtitles. We're going to go to text. If you don't have text, you go to window text. So we're going to transcribe. So I already transcribed this, but you would just click here, transcribe. Go to captions, create captions from transcript. Lower this down to 1.5 to 1.6. Single line, create captions. And then we have our captions, but we're at the bottom here. So then we're going to have to change the size in them.
+
+[00:13:40] I don't know what the right font is because it always changes I'm gonna just set them here kind of sort of they're in the zone and invisible if you imagine like a zone like this Where this is the safe zone for Instagram, so everything inside this space here is safe. I want to make sure the text is that So I think that's a good-looking text is nothing too crazy. Maybe slightly bigger
+
+[00:14:08] Then because I've edited one, all the other ones are not touched. So I have to go back to that first one, click it. Do create style, call it subs one. And now everything has the same font. Now it's music time. So music time, I'm just leaving it to the end. So I'm going to find at the beginning a different song. Something like kind of like interesting, poppy or something. I have a folder full of music. You know, you have access to the art list. Let's do something like...
+
+[00:14:55] What song did I use actually? Actually, I use if I go to funny, playful. Yeah, that's what I used. Okay.
+
+[00:15:30] Cool, and then for the main part, I'm gonna use like a technological educational sound this one here cuz like kind of educating them about it This super versatile twelve-in-one airfryer oven lets you cook two foods in two different ways using different zones So they both end up exactly how you want them. It's quick sync technology matches cook time I'm playing it fast by just literally pressing L on the keyboard
+
+[00:16:09] and to make a break this part here which says nothing's worse than hot vegetables we just find like a playful song like this nothing's worse than hot vegetables and cold chicken and fries and then since we're ending here on the cta do like a high note so i don't know go fine yeah whatever make your meal time quicker and easier order your just edit the music so that it drags up from the last shot so i'm gonna just drag this
+
+[00:16:48] like this i can i can tell that this right here is the the peak let me just move this through right out of the full transition at the beginning and cold chicken and fries make your meal time quicker and easier order your emerald agassi dual zone air fryer today cold chicken and fries make your meal time quicker and easier order your emerald agassi dual zone air fryer today yeah okay so the next thing that i would do at this stage is
+
+[00:17:18] any transitions so for example here this super so here i'll probably just do like a a whip effect so i'm gonna just drag this one down uh search whip slide it into there you know you can do whatever effects you want i'm just trying to be quick here and then we'll search like a whip sound effects and a sound effects thing like this and we just add the effect i just do the effects and sound at the same time this super versatile 12 and one air
+
+[00:17:53] And as I'm going, I'm noticing the colors. So I'm just going to add the colors, a bit of contrast, a bit of saturation. Same here. Brightness, contrast, saturation. Go through it. And we have some shots here that I also just color grade a little bit. Cool. So here we definitely need a call to action. So it's going to be something like shop now. Again, like this is.
+
+[00:18:29] quick thing once you start editing you probably have the asset pack with uh all the call to actions and and the right titles and whatnot so you just drag this in but it's just to show you that you can make an ad pretty quickly
+
+[00:18:44] It's so nice looking. It's the only appliance that I leave out on my counter. This super versatile 12-in-1 air fryer oven lets you cook two foods in two different ways using different zones. So they both end up exactly how you want them. Its quick sync technology matches cook times and settings per zone. So your entire meal finishes at the same time even with some starting off frozen like the chicken and fries that I'm using today. Nothing's worse than hot vegetables and cold chicken and fries. Make your meal time quicker. So here I guess like
+
+[00:19:14] I'm just going to extend this a bit, let it analyze again. So I'm going to do like a speed wrap. So I'll do that. I'm going to just nest the clip. I'm going to move this up. Right click, time wrapping speed. Holding control. Click here. Or command if you're a Mac. Try this up. So that we get a nice speed wrapping. There we go.
+
+[00:19:56] make your meal time quicker and easier order your emerald lagasi dual zone air fryer today and you'll obviously add the logo and whatnot but yeah this is how you edit a very simple ugc ad using ugc footage with some shots that we shot in studio um in less than half an hour

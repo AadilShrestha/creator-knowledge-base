@@ -1,0 +1,33 @@
+{
+  "source_file": "9.Find winning concepts with Adnova.mp4",
+  "source_id": "mega:5Y1lhJKB:INkkGSqJ",
+  "source_sha256": "bc48643ead6016706729e338a666a06e516734167af7ba09915494e5f1b7b2bc",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 97.62,
+  "last_segment_end": 97.17,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 29.36,
+      "text": "yo what's up guys so what i'm going to be giving a lot of you guys access to is inside adnova we have an ai detective and what it does is it it goes through different clients that we have and it can give you visual winning hooks that have worked for these clients for example this one here this is a visual winning hook that worked pretty well from them uh it will also give you audio hooks uh that that"
+    },
+    {
+      "start": 29.36,
+      "end": 57.36,
+      "text": "probably works too like this one here um for other for other clients like let's say this one here it will show you uh like like different sets so like this one was the best one out of the ones that they they tried so essentially this will help you guys understand what is currently working for the client you can see um strategic positioning the ad angles um let's use a better example uh this one for example"
+    },
+    {
+      "start": 57.36,
+      "end": 83.79,
+      "text": "Like the ad angles in the last seven days has been about dog itching or something. So you know that you can go and watch their best dog itching ads. So these are the best dog itching ads and go, cool, these ones were winners because they lasted the longest and performed the best. So you can basically take these and try and innovate on them. So maybe... Using Q-tips to remove earwax? Huge mistake. You're making things worse. Do this instead. Like this. So you can..."
+    },
+    {
+      "start": 83.79,
+      "end": 97.17,
+      "text": "try and remix it and use different visuals etc is it just for any repurposed ads or sometimes we call them edit only ads just for speed sake if you want to kind of understand that what's working right now and how you can improve it"
+    }
+  ]
+}

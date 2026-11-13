@@ -1,0 +1,91 @@
+1
+00:00:00,000 --> 00:00:25,660
+hey how's it going in this video i'm going to show you how to make these talking avatar videos which are actually crushing it for one of the brands that we are working with these ones that we launched are starting to crush really well we have a forex rise and some limited spend but some really good initial signs and they go like this which is really cool so let me show exactly how you can build them yourself so we're going to start with the chat gpt gpt that you can see down below
+
+2
+00:00:25,660 --> 00:00:48,020
+so this one i found online i didn't make this and what you want to do is before you even start typing anything here you do want to think about the strategy behind the video you haven't seen my strategy videos you want to check it out what you want to be thinking about is potential misconceptions people have or maybe things that they don't really understand simply about a certain product and you might be thinking oh how do i do this for an app how do i do this for tech actually we did also do this for
+
+3
+00:00:48,020 --> 00:01:12,850
+funnel builder i'm your pdp i can get you sales but only from buyers ready to buy i'm a landing page i can improve conversions by convincing buyers to get your product that need more education use me for colder traffic i'm a quiz funnel you probably haven't tested me before right just for the sake of this video i'm actually gonna think of a random project on the top of my head like some tallow so what i actually ended up searching is what are some uh what are some failed solutions that they tried before using tallow bone
+
+4
+00:01:12,850 --> 00:01:40,100
+And AI came to the conclusion that, you know, you have drugstore moisturizers, coconut oil, plant butters, blah, blah, blah. So what I can do is let's do over the counter moisturizers. OK, so I'm going to go back to my GPT and I use Whisper Flow. So I'm going to say the object I want to show is an over the counter moisturizer. And I want to talk about how it uses seed oils and is bad for your skin.
+
+5
+00:01:40,100 --> 00:02:05,140
+Boom, and then just dropping that it starts to load the prompt for the image Okay, and we also get an idea of the actual script which again if you have done my Creative strategy modules, you know that we will need to basically work a lot on the script So now I'm gonna go to max fusion in go to whatever your AI maker is I'm using oxygen because I like just the way that the workflow is linked below to that or there's open arts or arcades, whatever
+
+6
+00:02:05,140 --> 00:02:31,950
+and you want to just follow the same process which is you want to start by creating an image so i'm going to go to create an image and i'm going to go to seed dream now you can do nano banana pro nano banana 2 but i think seed dream is just enough to get the to get it right just to just to see what it is and it doesn't cost as much in a lot of other platforms nano banana 2 nano banana pro can cost a lot and also if you want it to be efficient you can have it generate many variations at one time so you can just have you can just choose which you want
+
+7
+00:02:31,950 --> 00:02:56,530
+I'm actually going to do that just to show you. I'm going to paste this. I'm going to see what we get. Okay, so now we have different examples. I'm going to just go through them. Okay, we've got some cool ones. Generic moisturizer. I quite like that one. And it's holding the ingredients. The ingredients look a bit weird. So if I did like them holding up the ingredients, I definitely would use Nano Banana because it has text. So only use Nano Banana if you want it to have specific text. But at least ones I use Seedream.
+
+8
+00:02:56,530 --> 00:03:21,780
+so actually i quite like this one but now because i know i have the ingredients list i am gonna use nano banana pro for this i'm gonna just do that and i'm gonna do a couple of variations only i'm gonna let it run so i want to keep it raw so you see the process but this time we actually didn't really get a good result with another pro because like yeah it says ingredients here but they're pretty tiny so i think uh what i want to do is i might take this one
+
+9
+00:03:21,780 --> 00:03:42,050
+and i'll do something like generate variation banana banana pro and just say something like make the ingredients sheet bigger because it's banana banana it should make this bigger and also fix the uh text so let's see how that goes and results we actually have a nice ingredients list here
+
+10
+00:03:42,050 --> 00:04:02,700
+And this one here is nice. So I think we're going to go with the first one. So now because I have the image, let's actually create the video. Now if I were you, I'd also make a lot of different examples for the rest of the video. But inside Max Fusion, I'm just going to click generate video. And you're probably wondering, okay, cool, I've got to add the voice. What do I do? So actually, as of today...
+
+11
+00:04:02,700 --> 00:04:31,840
+march the 6th we actually have a lot more options available so typically we'll use something like cling or we use something like google video 3.1 but we can actually use soro 2 pro now because you can actually have a reference image before we couldn't give it a reference and have it generate something so we can do it so i'm going to do is i'm going to actually generate these with all three different models so you can see what they look like so we're going to start with the first one cling 3.0 now i've tried a lot of different models before
+
+12
+00:04:31,840 --> 00:04:59,470
+And I get different results. So you can see with this example, I did Seed Dance 1.5 and I kind of changed it up. Seed Dance is the cheapest one, especially in Max Fusion compared to all the other ones. Seed Dance for the same thing is like one credit. Whereas the other ones, it's more expensive. So you know how on Max Fusion, the plans say something like 100 credits, 10 videos. Actually, 100 credits, you can do 100 videos with Seed Dance, which is pretty cool.
+
+13
+00:04:59,470 --> 00:05:28,020
+so i'll start with cling 3.0 just to start with so you guys can see and i'll be basically making the same prompt so i'll go back to my gpt and you can see here it gave me what it was that it should say as well as other related objects which is cool so the 10 second script is unpacked with c does to keep my price low blah blah i quite like this so i'm going to just copy this i'm going to go to max fusion and i'm going to paste it and i just kind of work off it just so you know on if you if you ever press shift and enter
+
+14
+00:05:28,020 --> 00:05:52,660
+it's gonna run it so if you want to make a line like a new space like this you just press enter don't make the mistake that i have before i'm your over the counter moisturizer i'm packed with cheap seedos to keep my price low but your skin hates heavy oils like the clogged pores irritation look out for clogged pores irritation well i just do something like i give you clogged pores
+
+15
+00:05:52,660 --> 00:06:20,670
+And irritation and then like after this one it will cut to I'm also this blah blah blah blah And then it'll end with I'm something that's like a lot better. So that's it. Do we need 10 seconds? I don't think so. I think maybe 8 seconds. And you see it went from 4.8 to 4 credits. So one thing I'm also gonna add is just some direction. So I'll do speaks as an American female in a agitated slash threatened way. He's fearful.
+
+16
+00:06:20,670 --> 00:06:48,180
+Express it you have to describe what the what the scene is like what's happening in the scene as Opposed to like say have her do this have her do that say she is doing this She is doing that. That's a little tip therefore So now we're gonna click generate now for the purpose of this video I'm also gonna show you what the other Styles are gonna look like so I'm gonna take the prompt here And if you want to try this as well, if you're following along you do the same So I'll just basically copy the prompt. I'll select the image from before
+
+17
+00:06:48,180 --> 00:07:16,460
+and then we're going to go with google video 1080 720 it doesn't really matter but you can see with google view it's seven credits as opposed to four we'll do the same thing with sora 2 pro and we'll do the same thing with c dance 1.5 pro and we'll keep the same timings and everything and let's generate look bearing in mind c dance is one credit so let's see what that's going to look like all right let's have a look here so let's go with the first one i'm your over-the-counter moisturizer i'm packed with so this was a cling 3.0 pro
+
+18
+00:07:16,460 --> 00:07:39,550
+I'm your over-the-counter moisturizer. I'm packed with cheap seed oils to keep my price low. Sure, I feel silky for a minute, but your skin hates heavy oils like these. I give you clogged pores and irritations. I think the timing was a bit too short. So I should have gone for like 10 seconds just on this script. Main thing here that I noticed is just like the lip sync isn't as good, but the animations are really nice. Yeah, I like the animations. I think they're really cool.
+
+19
+00:07:39,550 --> 00:08:10,190
+So let's see how we did with I'm your over-the-counter moisturizer I'm packed with cheap seed oils to keep my price low. Sure I feel silky for a minute, but your skin hates heavy oil Okay, so we got Google Veal was was pretty good probably the better one that we have it's a Cosmo credit But what I'm noticing here is that is that the script is too long for the sound So you have to speak very fast so you get cut off So you're gonna do that just maybe increase the length or shorten the script. Let's look at Sora 2 Pro
+
+20
+00:08:10,190 --> 00:08:35,470
+I'm your over-the-counter moisturizer. I'm packed with cheap seed oils to keep my price low. Sure, I feel silky for a minute, but your skin hates heavy oils like these. I give you clog pores. So this is an interesting one. It kind of became this almost like a movie. The audio was really weird though. It was very quiet. It wasn't really good to be fair. Animations were alright, but not really what we wanted here. And let's look at Seed Dance.
+
+21
+00:08:35,470 --> 00:09:04,460
+i'm your over-the-counter moisturizer i pack with cheap seed oils to keep my price low sure i feel silky for a minute but your skin hates heavy oils like these i give you clog pores and irritation the animation is what broke here you can see in the hands it wasn't the best voice was decent but you can see that to be honest the better one that we had was actually these two the cling and the google video so i would always experiment with at least seed dance to start
+
+22
+00:09:04,460 --> 00:09:34,420
+just to make sure that you have the timing right, you know what it's going to sound like, etc. And then I will go for the higher generations if you want better lip syncing, better visuals, better animations, everything. So hopefully that makes sense. I just suggest you go to the AI prompt super doc here. So in here you can access it. It's a work in progress. It gives you loads of different examples, like how I made this image here and the video, how I made this one and the video itself. So if you need some ideas,
+
+23
+00:09:34,420 --> 00:09:39,250
+or you're going to recreate some stuff to start with, you can definitely have a go here. Hope to see you soon. Peace.

@@ -1,0 +1,153 @@
+{
+  "source_file": "4. Customer Research Protocol 1.mp4",
+  "source_id": "mega:5Y1lhJKB:9ElCmCAC",
+  "source_sha256": "9d2019b40a95ccd4092f563c4b5f71f91a0aa14bc463f4185f32fca66829243a",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 711.23,
+  "last_segment_end": 710.74,
+  "segments": [
+    {
+      "start": 0.05,
+      "end": 28.69,
+      "text": "The biggest lever that you can pull when it comes to making ad creative that converts is doing an audience conversion report that comes from doing deep customer research. We're looking for not only desires and pain points and benefits like most people look for, we're looking for objections as well, reasons why they might not buy your product, behaviors, moments that happen that people usually do so you can call them out on it, and also the terminology that they use. Do they say..."
+    },
+    {
+      "start": 28.69,
+      "end": 58.1,
+      "text": "I wake up with a hangover or do they say I woke up like I got hit by the train? If you use the right words, if you use the same words that they use, they're going to see the ad and go, oh my God, it's meta spying on me. And if you do that, they're more likely to go and click on the ad because they go, okay, this is really well targeted. Or they're going to be like, oh, this really speaks to me. I'm going to go to your website and now I'm more warmed up because this brand clearly understands me. And the way we do that is by looking at Reddit forums."
+    },
+    {
+      "start": 58.1,
+      "end": 75.38,
+      "text": "Reviews people leave on your products and your competitors. And lastly, looking at TikTok comments. Because people are going to give a lot of information there. This is a step-by-step process. I tried to simplify it as much as possible so anybody could do this. I can give this to a five-year-old and they can do it."
+    },
+    {
+      "start": 75.38,
+      "end": 97.07,
+      "text": "Ultimately, what we're trying to get is something like this, a report that has context, pain points, etc. Misconceptions, objections, golden nuggets from the reviews. And we do this for all our clients to make sure we have the right information that we need in order for our ads to really speak to them, right? If we find something like this is what people really desire, like in this case."
+    },
+    {
+      "start": 97.14,
+      "end": 126.05,
+      "text": "for a law ad they want a full refund or cash settlement or then want reliable repairs or they want fast hassle-free legal help rather than saying hey do you want to insert common thing that people always say in ads then we're going to be that much more ahead of the competition also some of the objections that people have like why should i trust a lawyer or if they have objections for a diffuser like i don't want my house smelling like a chemical factory or do the fees are sleek"
+    },
+    {
+      "start": 126.05,
+      "end": 152.53,
+      "text": "It means that in the ads, we can address them up front. So people now go, okay, this product is doing something that I know I was going to have an objection to. So in terms of the first steps is you want to start by making a raw document. So very simply, Mac or on PC, you do control or command T, you do docs.new, and then it opens up a Google Doc. Boom, you've got it. Now just save it as raw data."
+    },
+    {
+      "start": 152.53,
+      "end": 176.18,
+      "text": "Great. Now, what you're going to be doing is copying all the raw data into this document and then we'll clean it up afterwards. Next, you're going to go to a website called GigaBrain and search for product and related fields. So I go to the website called GigaBrain or TheGigaBrain and in here, all you have to do is go and click a new chat."
+    },
+    {
+      "start": 176.18,
+      "end": 202.51,
+      "text": "or actually you can just search at the top and you're going to search your actual product category in, let's just start with collagen powder. So if I search collagen powder, you can see that we have 649 comments searched, giving you a hundred relevant comments from 10 relevant discussions. Okay. And the different sources, skincare supplements, et cetera. So rather than you going in and going to all these different threads that by the way, are written by real people."
+    },
+    {
+      "start": 202.51,
+      "end": 221.81,
+      "text": "You can actually ask an AI model inside it. So you can see there are some insights already that we get about collagen powders. You can see there are questions that people ask as follow-ups. And if you scroll down, you can start to look at the conversations. Does anybody use collagen powder? Summary? What do people think? Here, the questions, the comments. These are all..."
+    },
+    {
+      "start": 221.81,
+      "end": 253.39,
+      "text": "real human beings and you want to just scroll through these and you can just read it yourself you can click show more and the more you click show more the more data you have to copy and paste into your raw document so you want to do this for as many threads as you like and ultimately you want to just essentially massively copy and paste all of this into the raw document paste without formatting and paste all of the threads raw knowing that we are"
+    },
+    {
+      "start": 253.39,
+      "end": 278.32,
+      "text": "using actual conversations from actual human beings about what they're saying about this now also you will probably see that there are some follow-up questions what are the benefits of taking collagen powder how does collagen powder compare to other supplements if i click on these then you're able to actually use the ai to to to speak to it you can say how does collagen powder compare to other ones and then when you do so it's going to basically give you"
+    },
+    {
+      "start": 278.32,
+      "end": 301.14,
+      "text": "a conversation with the reddit threads and it's going to source the reddit threads so now you actually have some information here about it and you can open the thread that discusses it right so here it says collagen powders compared to other protein supplements amino talks about digestibility benefits etc and so i can basically take this all this conversation what you want to take the summary and you'll take this comment the conversation"
+    },
+    {
+      "start": 301.36,
+      "end": 333.94,
+      "text": "And then you want to paste that all into the raw document, right? This should probably take you, you know, half an hour. If you have any questions, you can add it here. So like, what do people dislike about collagen powders? And you can see now people are responding. You see, unfortunately, that's not the case. Your body can't absorb collagen. Lots of different stuff that you can talk about here and can paste it all inside the raw document."
+    },
+    {
+      "start": 337.42,
+      "end": 367.18,
+      "text": "Now, it's very important that in doing this process that you make that you try and get as much width and as much depth into the conversation. So if somebody says side effects, great. What are side effects people had with collagen powders? OK, so in this case, somebody had digestive issues. OK, so here we have digestive issues and you can see there are different Reddit threads that it sources."
+    },
+    {
+      "start": 367.18,
+      "end": 387.18,
+      "text": "So you can take these, click show more, copy and paste it. And then later, what you can do is you can actually make an angle, something like, hey, if you've taken collagen powder that makes you feel bloated, this one will not do that because it doesn't have this ingredient, this ingredient, that ingredient. So tons of angles you can go for."
+    },
+    {
+      "start": 387.86,
+      "end": 407.66,
+      "text": "Now, if you go back to the process, you can see it says scroll, expand, chat, and summarize. We did that. Copy and paste into the doc. We did that. And then it's find reviews of products and competitors. So once you spend some time on GigaBrain, then you want to go to your website and you want to find a bunch of comments and reviews that you actually got from your product. You might also, if you're selling a..."
+    },
+    {
+      "start": 407.66,
+      "end": 429.87,
+      "text": "product if you have sales calls there are going to be different places that you can get the actual reviews you want to copy and paste them into the raw doc so paste them into the doc then you want to find comments on tiktok so for example you might want to go to the tiktok of your brand and you want to look at the videos that probably have the most comments"
+    },
+    {
+      "start": 429.87,
+      "end": 459.66,
+      "text": "So for example, here, somebody asked, how is this different from burn? Burn is a competitor. So now you have people are actually asking questions about it. Does it have aftertaste? Now you can answer the question, does it have aftertaste? A couple of weeks is not enough time to see difference. Like all of these questions, literally, you can copy all of these and paste them in the raw data. And now you're going to have lots of information, questions and answers. And you can probably do a segmentation here at the bottom, something like tick tock."
+    },
+    {
+      "start": 459.66,
+      "end": 480.11,
+      "text": "comments with answers like this and then if you have you can right click clear formatting so then you can actually see that um some of these images and stuff you can delete it by just pasting without formatting and if you continue you can"
+    },
+    {
+      "start": 480.11,
+      "end": 512.11,
+      "text": "After you copy and pasted it into the doc, then you want to save this as a PDF. So now you're going to go to your document file. You're going to download as a PDF because it's easier for the learning language model, chat GPT, Claude, whatever, to actually understand it. Now, if you don't have any comments in your videos, then you want to look at other brands. For example, you can search collagen powder on TikTok."
+    },
+    {
+      "start": 512.14,
+      "end": 537.36,
+      "text": "and you can see what people are saying about collagen powders. You can click a video. You can look at what people have questions on, and then you can copy those as well. Okay, so now that you've saved your raw document as a PDF, we're going to go to our LLM. In this case, Chai GPT, it could be Claude. I think Chai GPT just for building out the report is fine. Claude definitely is better for any copywriting. So then what I'm going to do is actually going to paste."
+    },
+    {
+      "start": 537.36,
+      "end": 567.66,
+      "text": "the raw PDF. And then I'm going to give it a prompt that I have in the description of this video down below. And it says you're an audience researcher and copy strategist. You're given audience data that includes the following fields. So what it will do when you click send, it will start reading through it and we'll come back in a second. Okay, so as you can see, we now have our categorized insights, the top pain points, uncertain results, confusing collagen types, chalky taste."
+    },
+    {
+      "start": 567.66,
+      "end": 591.82,
+      "text": "High cost side effects. We've got just another protein skepticism. Now, these are more for the more aware audience. We're also looking at failed solutions, cheap or single type collagen tubs. Now, this is just with the quick information that I copied and pasted in this tutorial. Obviously, the more information that you give it, the better it's going to be. And also, you want to make sure you give it information about your product specifically, your USPs, so that you actually get more information."
+    },
+    {
+      "start": 591.82,
+      "end": 614.4,
+      "text": "People want pain-free, flexible joints. They want visible hair, nail and lash glow up, right? They want easy, tasty daily rituals so that you know that in the concepts that you do, you want to say, this is how I ensure I get smooth, faster healing skin with a two-step ritual I do with my morning coffee, right? That would be a good angle to go."
+    },
+    {
+      "start": 614.4,
+      "end": 639.92,
+      "text": "You also get the objections, which might be, isn't this just another pricey protein powder? I use that, nothing happens. So you might have to inform people that, hey, if you want to do this, it's going to take some time or give it like the time frames that you need it. Misconceptions as well. Go to nugget reviews that were actually taken. So lots of great information here. And now you've pretty much created the whole report. Next thing you do is you would follow this step."
+    },
+    {
+      "start": 639.92,
+      "end": 670.35,
+      "text": "here which is check for source truths so you will want to go through it and just make sure that it's it's it's truthful so like hey um where did you get you know where did you get vegetarians have zero options right and then it will tell you this and this because sometimes the ai does hallucinate so you want to make sure that you're using only the data from that and if that's the case then"
+    },
+    {
+      "start": 670.35,
+      "end": 696.59,
+      "text": "we should be all good and you can see here it's just taking it from the reddit thread so that you know okay cool that was actually a legit thing that was said and then the last step if there are false truths you just want to prompt it to use your data so it's something like hey can you go and use the actual data that's in the document and then it just repeats it uh lastly you just want to paste it into a google doc kind of looking like this um and this is what you're going to save as a pdf and use"
+    },
+    {
+      "start": 696.59,
+      "end": 710.74,
+      "text": "in the scripting phase when you're actually scripting your ads. So with that being said, that is how you do deep research for your audio audience so you can find out everything about them and make sure your ads speak directly to them."
+    }
+  ]
+}

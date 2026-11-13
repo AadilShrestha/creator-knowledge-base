@@ -1,0 +1,133 @@
+{
+  "source_file": "5.Fixing bad static ads 10 51.mp4",
+  "source_id": "mega:5Y1lhJKB:tBsCHIIS",
+  "source_sha256": "482d8b320d29d7872f6c2cfd0fcd4917b87760ab13f44777da145a35a32e910c",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 651.48,
+  "last_segment_end": 651.48,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 29.38,
+      "text": "I spent an hour going through meta as library finding some of the most shockingly bad static ads and in this video I'm going to show you why they're not converting how I would improve them and also the psychology principles that I use behind it and also I did this all with chat GPT in a few minutes so let's start with this one so this is for a property rental service that helps you supposedly supposed to help you get back your rental income but the headline here and the sub headline don't really say anything"
+    },
+    {
+      "start": 29.38,
+      "end": 58.11,
+      "text": "what does expert care actually mean for you it might mean something for somebody else it might mean something else it's not very specific to anybody it's very generic and a lot of brands do this in fact this ad only ran for six days before it was completely shut off because it didn't perform at all and this cta ask kinovich doesn't really do anything it doesn't bridge the gap between a desire that somebody has and what the company is actually going to do for them like why would anybody want to ask this company anything what are they going to get out of it"
+    },
+    {
+      "start": 58.11,
+      "end": 87.65,
+      "text": "and lastly they have a picture of a family here but there's no like social proof like how like how do we know these people are even real there's no association between that and what the business can actually do so let me show you how i actually fixed it in the after photo so i started by getting some testimonials from the website and i put them here yes there are some mistakes but that's because chat gpt's image generation had some issues i had made managing my property so easy and get less headaches now right so this is actual quotes from"
+    },
+    {
+      "start": 87.65,
+      "end": 115.09,
+      "text": "the website and then what i did is i recreated this whole thing but i made the main headline get your rent all time so that's a actual desire that people have get your rent on time which is literally the usp of this business and then there's a there's a without statement which is without doing the chasing yourself right so that's something that a lot of people that own properties have is that they don't want to go chase rent these people do it for them"
+    },
+    {
+      "start": 115.09,
+      "end": 132.98,
+      "text": "right and then the actual call to action is skip the stress get the rent this if somebody's struggling right now they own a property and they are not getting their rent on time of course they're gonna click this right rather than ask ask a question like come on like it's not that crazy"
+    },
+    {
+      "start": 133.07,
+      "end": 163.9,
+      "text": "but so many businesses are wasting thousands a month on ads just never ever gonna convert from the get-go now this one here is gonna convert a lot better because we have the social proof check we have the actual headline and we have a sub headline that tells you what to do and most importantly the call to action has a bridge between a desire and what the business can do now let's get into the second static ad this ad looks like something that you would see in 2019 it was running for 10 days before it got completely shut off"
+    },
+    {
+      "start": 163.9,
+      "end": 189.62,
+      "text": "this headline here there's two things that are wrong with it one i don't know if you can make those claims the best waterproof shoes on the market it's a very crazy claim to make that the ftc might even get on it and you might get out of count violations the other thing is that it is very generic best waterproof barefoot shoes on the market like that's something that almost anybody can say something that almost any anyone selling these shoes can actually say"
+    },
+    {
+      "start": 190.0,
+      "end": 219.54,
+      "text": "also all of these things are just features they're just telling the things that the shoe has now for some people that works really well like if somebody just wants to know the features of a shoes that's really good in fact this is a very good example of a bottom of the funnel type of static because it's just straight to it right however it's trying to position itself between two different markets for effortless gardening best waterproof shoes you know what that is and then also the features it's just not hitting anything specifically"
+    },
+    {
+      "start": 219.54,
+      "end": 249.31,
+      "text": "and at the same time most people can see something like this and you can go oh well i'll just check some out on amazon or any other website there is no real association between this product and a desire and i know we're saying this a lot about desires but it truly is what separates a winning ad from a failing ad because if they just see your ad and a bunch of features those features could be found in any single product whereas if you can pinpoint and target something that somebody wants a problem that's going to be solved"
+    },
+    {
+      "start": 249.31,
+      "end": 275.38,
+      "text": "you are the only one positioning yourself for that and so let me show you what the after one looks like so we start with the only garden shoes that do all three so that is already a desire driven type of headline so we're drawing some curiosity here so rake we're creating here something called an open loop the only garden shoes that do all three what all three like what are the three things that we do so when someone reads this from the top down that's what they're gonna see"
+    },
+    {
+      "start": 275.38,
+      "end": 301.92,
+      "text": "and then we're going to show the same shoe image pretty much but we're actually showing the shoe on a puddle right not on this nice stand in the garden no on a puddle like what the shoe is on a puddle is it going to get wet well you can see keeps your toes comfy and we show the actual thing that does it prevents slip so we show the bottom of the shoe prevents slips and it keeps your feet dry in water"
+    },
+    {
+      "start": 301.92,
+      "end": 329.23,
+      "text": "right like this and we have another picture of water now comparing to the other one this one just told us non-slip sole wide toe box easy closure zero heel i mean i don't know i don't really care like what what does that even zero heel mean how does that help me right instead we're talking about comfort preventing danger from slips and keeping your shoes dry which is a desire which is solving a problem that somebody has"
+    },
+    {
+      "start": 329.26,
+      "end": 356.11,
+      "text": "And a very simple call to action is get your pair now. That's it. Like, it's not that difficult to change something from before and after. But so many brands keep making the same mistake. Our third ad. This one was actually just I just I was disappointed in this one. Hire a social media manager. Straight pricing. Now, if you ever see pricing in an ad that tells you what that tells you that this is a another bottom of funnel."
+    },
+    {
+      "start": 356.11,
+      "end": 385.2,
+      "text": "type of creative this one is only going to work for anybody who already knows about your brand already knows about you already knows about the product in this case hiring a social media manager that's it so it's very if you look at different markets they're targeting one of the smallest markets here right when you put a price up we can talk about text hierarchy and design anywhere but we're not going to talk about that what we need to talk about is the fact that"
+    },
+    {
+      "start": 385.65,
+      "end": 413.82,
+      "text": "all of these things right here are what we like to call selfish features you are absolutely feature bombing the viewer of this ad without considering what they actually want in fact what you're just saying hey we have all this stuff let's just throw it into an ad and see what happens that's pretty much what these guys are doing right and so what this creates is confusion it's"
+    },
+    {
+      "start": 413.82,
+      "end": 439.17,
+      "text": "overwhelmed with so many things and there's no association as to why i should hire you guys rather than just go into fiber or upwork or any other agency anywhere right you're also giving a bunch of things here and then putting the price there and so what this does is associates a cheap price with loads of things so it doesn't it doesn't do anybody any good at all you'd rather offer a lot in the ad than when they get to your site"
+    },
+    {
+      "start": 439.17,
+      "end": 466.78,
+      "text": "and they are going to check out they go all my days it's only 49 this is a steal this is a no-brainer offer the number one question that anybody asks when they see something like this it's what is in it for me and so let me show you how i fixed it with my one all right so here's the after one so the first thing i start with is attract the right buyers so this is the absolute problem that we are solving as a social media buyer we're not just posting content"
+    },
+    {
+      "start": 466.78,
+      "end": 495.7,
+      "text": "right for the sake of it we're not just managing social media we are helping brands attract the right buyers so immediately we're associating our service with helping you make more money which is the most important thing that any why does anybody buy anything is so that i can either improve their life solve a problem or make more money especially in the in these kind of services the next part is a before and after so okay chat gpt kind of ruined this for me but"
+    },
+    {
+      "start": 495.7,
+      "end": 522.4,
+      "text": "the before is a showing an instagram account with very little followers and afterwards is is a lot of followers ideally i would have had this much bigger but you know you can only do so much with chat gpt which is why i think you should always work with templates in fact we have our on 62 evergreen static templates that you can just plug and play with canva you just put your product picture in you change the stuff super easy you can get this for absolute for free if you just click the link down below and then lastly the most important part was what we put down here"
+    },
+    {
+      "start": 522.4,
+      "end": 553.12,
+      "text": "which was rather than a bunch of features, we're doing a bunch of benefits. So we have, we post content they see, okay? Super crazy benefit. We grow your pages. We show the results. We don't hide them from you. We handle the stress while you grow. Save 40 hours a month. We are no longer social media managers. We are growth builders. We are business operators. We are somebody who's there to help you grow."
+    },
+    {
+      "start": 553.12,
+      "end": 580.35,
+      "text": "We are not here to just give you a bunch of random shit that you don't even know if you need. We're here to actually help you guys grow. But the last static ad is the absolute worst one of all of them. In fact, it uses a word that I have banned inside our agency at Creators Lab. And that's this one here. Why it's a game changer. This word is banned in my agency. No one's allowed to use this word game changer. Game changer is the most vague, boring."
+    },
+    {
+      "start": 580.35,
+      "end": 608.37,
+      "text": "overused word i've ever heard in my life when it comes to ads what even that what what game is it changing and how is it changing the game that's my next question we have in this ad no more leash pulling gives total control makes walks calm and enjoyable these are very flat types of benefits that you're putting here for this particular device this device is a lot more than that and let me show you how i actually fixed it so the first thing that i started with was he finally starts pulling"
+    },
+    {
+      "start": 608.37,
+      "end": 638.56,
+      "text": "yes i know the capital he but that's just chat gpt like don't don't hate me on that he finally stopped pulling is a problem that a lot of dog owners have and that's why they decide to get the thing they decide to get this mouth guard thing so that the dog stops pulling right and then we put enjoy your walks that's a desire keep them focused that's a solution to a problem that people have like the dogs are walking them but they're like going around everywhere"
+    },
+    {
+      "start": 638.56,
+      "end": 651.48,
+      "text": "So now we're keeping the focus and you don't have any hand strain. So if you're using the dog leashing, you're not going to have any hand strain. These are the top three that we found that people want to fix. And this is why this ad will perform so much better."
+    }
+  ]
+}

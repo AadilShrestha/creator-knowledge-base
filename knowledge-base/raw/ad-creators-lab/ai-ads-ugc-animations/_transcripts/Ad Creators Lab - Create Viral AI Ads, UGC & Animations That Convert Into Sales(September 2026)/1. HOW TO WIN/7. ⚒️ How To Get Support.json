@@ -1,0 +1,23 @@
+{
+  "source_file": "7. ⚒️ How To Get Support.mp4",
+  "source_id": "mega:5Y1lhJKB:YEki1AiB",
+  "source_sha256": "4cf02c8b6fc3e9388341f101856c1f34dd4407152f9da832edcce29f9e34b58e",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 54.12,
+  "last_segment_end": 54.12,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 29.3,
+      "text": "If you need support with anything like an AI model is not working, you don't know what to do with your ad account and you're just really confused and lost, you have two ways that you can communicate. You have asynchronous and synchronous ways of getting support. The synchronous way is by going live on our calls. We have the calls in the calendar. You can jump into the AI office hours call or the one with me where I review ads and you get direct feedback. The asynchronous way is to use the community by making a post with the problem you're having and breaking down the problem down below."
+    },
+    {
+      "start": 29.3,
+      "end": 54.12,
+      "text": "Try and provide as much context as you can. A quick tip, the best way to get support is by actually shooting a Loom video. Loom is a free platform that you can get and you just essentially screen record what you have and it records your face if you want to or not. But it allows you to explain the problem that you have and it just gives us a lot more context so that our support team can actually help you. And remember, there's no such thing as a dumb question. So I encourage you to just share what you're going through."
+    }
+  ]
+}

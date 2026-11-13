@@ -1,0 +1,38 @@
+{
+  "source_file": "4. Consistent Voices Method 1 - AI UGC Ad Creators Lab.mp4",
+  "source_id": "mega:5Y1lhJKB:xQsSDAJY",
+  "source_sha256": "3e449a1b35e81e04ad9ebe6e4840d668914290dd0f6af1c5917898704197056d",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 132.12,
+  "last_segment_end": 131.7,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 15.79,
+      "text": "Okay so let's talk about voices. So you want to have coherent, congruent voices when you are working with these AI models. So the first thing I want to let you know is that if you have created one of your videos with Sora 2 Pro for example,"
+    },
+    {
+      "start": 16.59,
+      "end": 47.3,
+      "text": "And you got a voice that kind of sounds like this. Have you heard about the miracle hair growth oil that's going viral on my For You page? You can see it's a 12 second long video. So we can actually take this video. We can go to 11 labs. We can go to the clone voice feature. We can do instant clone. What we can do is upload the video, but you see it says 10 megabytes each for a video file. So what I have to do is right click, open the video here. And then I need to go to file."
+    },
+    {
+      "start": 47.3,
+      "end": 76.53,
+      "text": "export as, and do audio only. And then I'm able to actually take this audio file and copy it over. And I just drag it in like this. If it has music in the background, remove it. Otherwise, leave it. You click next. If it doesn't have music and you have this, it actually ruins the video. So you definitely want to only use that if it has music. You give it a name, like whatever, like voice. And then you save the voice and that's it. And basically, you end up having something like this."
+    },
+    {
+      "start": 76.88,
+      "end": 106.93,
+      "text": "Botanic female. Like a cat avoids water, it jumps with elegance away. So you see, it sounds like the original one, which was this. Have you heard about the miracle hair growth oil? And now we have a consistent voice. So now you can take this voice. You can actually write a script if you wanted to. Or when you go back to Max Fusion to create your video footage from the images using Riz, you can actually generate speech. Like a cat avoids water, it jumps with elegance."
+    },
+    {
+      "start": 106.93,
+      "end": 131.7,
+      "text": "And that is exactly what I did for this one here. There's a reason hair growth companies don't use this ingredient. Because it sounds just like this. Have you heard about the miracle hair growth oil? And like this. Let's be real. You've tried the expensive. However, if you have a video from Sora 2 that is less than 12 seconds, which can happen, which is fine. There's another option, which I'll go into the next video, and it can be a better option."
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+1
+00:00:00,000 --> 00:00:27,390
+AI podcasts are by far the ones that get butchered the most. I mean, this is the kind of content that we are used to seeing with podcasts on Twitter, on Facebook, on YouTube. Yet when people actually try to make them with AI, they always look like this. Why? Why are you doing this? I'll tell you why. It's because you're not following a proper process. We want them to look like this. These are AI podcasts and this is what one of them can look like. I wish the editors would use...
+
+2
+00:00:27,390 --> 00:00:55,740
+pinterest as references more often i wish the editors would use pinterest as references so i'm going to show you exactly how we get there we start by doing what she says which is going to pinterest so inside pinterest we're going to search we can do girly podcast girly podcast because we want to start with one that's for girls okay now on pinterest you get videos you get images and you have to be careful because sometimes they are ai like i'm pretty sure this is ai
+
+3
+00:00:55,740 --> 00:01:24,190
+But when you click on an image inside Pinterest, you end up getting a lot more suggestions. So you can see now we're getting ones like these, ones like these, and you get more and more suggestions and you can go down the rabbit hole. And what we're looking for is a podcast style that either is very popular and common in a specific niche. So for example, if you do bodybuilding podcast, there will be some creators out there that have a specific background, like maybe this or maybe that.
+
+4
+00:01:24,190 --> 00:01:54,140
+That's very common. And so if you're in the fitness space, find a podcast setup that looks similar to the content that people watch. And if you don't know, obviously, like you want to go on YouTube and you can search like, I don't know, like peptides podcast. And then you can search on shorts and you can see like what kind of stuff people are actually watching. And you go, cool, that's a nice background. You can definitely start there. So with that in mind, I'm going to go and just do girly podcast again.
+
+5
+00:01:54,140 --> 00:02:24,370
+Something along the lines of something like this is pretty good. So let's keep scrolling. And look, you can actually tell an AI one from a mile away. Look. This just doesn't look real to anybody. Whereas this is legit, right? This looks great. So I'm actually going to just use this one for a reference here. So what I'm going to do is I'm going to get a screenshot here of this.
+
+6
+00:02:24,370 --> 00:02:48,860
+podcast image okay and i'm going to go to actually replicate what i did here which is i'm going to go and i'm going to upload the image and then what i need to do is actually change this image so that it's not her because obviously the because obviously the likeness of this person she's probably famous popular we don't want to use her face at all we want to change it now
+
+7
+00:02:48,860 --> 00:03:16,900
+I like to use Nano Banana Pro. It gets me the best results. You can use GPT-2 as well, but I like using Nano Banana Pro. Now, the kind of prompt you want to use here is you kind of want to change as much of the image as possible whilst maintaining the style of it. And so what I like to do is something along the lines of change the woman's face so it's more and you want to do the opposite of what it is. So her face is quite
+
+8
+00:03:16,900 --> 00:03:44,990
+Long so more round so that I'll just do so that it's round and Give her blonde hair and glasses great. So if I click generate, okay, so here are the results This is what we have her face is definitely more round. It's very different to what it was before Here she has longer hair kind of looks very similar to the girl But then I also did it with GPT image 2 so you can have a look at the difference
+
+9
+00:03:44,990 --> 00:04:11,100
+And the main difference you're going to see is that her face becomes quite high quality in comparison. So I like to keep that kind of texture that you get from the camera and the lens. So you can see here the results are with GPT Image 2. And this is probably the best one we're going to get with Nano Banana Pro. Now one thing I will have to change the background a little bit because sometimes if these creators are massive, like if you do the Joe Rogan thing.
+
+10
+00:04:11,100 --> 00:04:38,270
+with the joe rogan curtain it's not going to work and probably reject it so i'm going to just do remix here so i'm going to just click here i'm going to do edit with prompt and i'm going to say change the plant so that it has bigger leaves and the background color so that it's blue again you can see now we basically have a plant in the background and it's changed right you can also change our clothes if you want
+
+11
+00:04:38,270 --> 00:05:08,140
+But now we basically maintained that style. Like it looks realistic. It doesn't look like AI. She looks real. Then we can turn this into a video. So I can click here, generate video. And we can use Seed Dance 2.0. And you can see in Seed Dance 2.0, if you just change to references, we have this image here. It says image one. So we do at image one. And then is a podcast creator saying, and then you give her what to say, quote unquote.
+
+12
+00:05:08,140 --> 00:05:34,320
+Ad Creators Lab is the best place to learn how to make high converting AI ads. And then what we need to do is obviously prompt it. I have a Claude skill on how to get the best prompts from it. And if you click the link below, there's also some prompt examples on how to get the good audio as well. But I'm just going to just fill this out for you. So you can see a very basic thing on how the creator speaks in a soft English-British accent and her speed.
+
+13
+00:05:34,320 --> 00:06:02,800
+The voice sounds like it's coming from a podcast mic with little echo and reverberation. If her mouth moves away from the microphone, the audio changes in volume. She speaks very assertively. And we'll just give this like a five second and we'll have a look at what this looks like. Now, the reason that we do this voice prompt is that typically when you generate a lot of different scenes and you don't give it exact details on how the audio is going to sound, you're going to get a different audio of the person. She's going to sound different. And the alternative way...
+
+14
+00:06:02,800 --> 00:06:30,670
+is if you want to clone the voice inside Max Fusion, you could click these dots, clone voice, replace voice, etc. So you maintain the same voice. But actually to just save you so much time and have it look as consistent as possible so you can just stitch it together and get away with it, I like to be very specific how the audio sounds. So you're going to hear it in a second. Okay, so obviously podcasts feature two people. So what I did is I took this image. I said...
+
+15
+00:06:30,670 --> 00:06:56,300
+to edit with a prompt and what i did is i put this prompt flip the creator horizontally and change her to be a woman in her late 30s brunette no glasses she's different looks latina and this is what i got i literally got a latina from yeah anyway so uh now we basically have her obviously i should probably change the clothing and maybe change the background i did try to change the background a few times and then i kind of got fed up and was like i'm gonna keep this one
+
+16
+00:06:56,300 --> 00:07:12,960
+Definitely have a change clothes give us some kind of different blouse or look so it doesn't look the same But you basically now have your two creators one for the left one for the right And you also make sure they're looking in the same kind of like plane So you just look at these ones that in the same plane, which is great. So now we have to generate it
+
+17
+00:07:12,960 --> 00:07:40,620
+All right, now we've generated the videos. Let me show you what they look like. So this is the... Ad Creators Lab is the best place to learn how to make high converting AI ads, hands down. Looks all right, but actually the best one was the Kling one. Ad Creators Lab is the best place to learn how to make high converting AI ads, hands down. Okay. And now if you actually listen to the one from Kling with the second phrase... Because you get insights on ads that are crushing it on meta for a seven figure agency, not...
+
+18
+00:07:40,620 --> 00:08:07,360
+It's the same accent. It's the same sound because we've prompted it accurately. And I'm going to show you in the final edit what it looks like. But then we also animated the Latina woman. Really? What makes you say that? And now we can actually edit it. Prompt that worked the best was just saying flip the direction of the plant and change the plant to be different. And I got a different type of plant. And then I just changed her clothing. So now she's wearing a grey blouse. So I just kind of did that in a few steps.
+
+19
+00:08:07,360 --> 00:08:36,830
+When I tried to do too much in one go, it looked weird. Things just started going like a bit. I mean, what on earth? I don't know what's happening here. But that managed to work. Then all I had to do was just generate her speaking. So similar process. She's a podcaster. She says, really? What makes you say that? Give her a big prompt on her voice. Mexican accent, etc. The voice is coming from the podcast. Same as before. And you can see this is what this looked like. Really?
+
+20
+00:08:36,830 --> 00:09:07,650
+What makes you say that? And then I also wanted her to do some reactions like this. And then that's what we got. And then when we put it into the editing, this is what we do. So I started with a nice little hook. Really? Ad Creators Lab is the best place to learn how to make high converting AI ads, hands down. What makes you say that? Because you get insights on ads that are crushing it on meta for a seven figure agency, not just what's trending or looks pretty. So
+
+21
+00:09:07,650 --> 00:09:36,380
+obviously i just whipped this up quickly but we wanted to have a few changes in the in the shots but i think it looks pretty good you have the creator on this side it looks very different to that side the voice is very consistent even though this is one generation is another generation and the reason this works is because we prompted the audio very very well and uh that's how you do it and you can see this looks this looks really good to learn how to make the background move by converting ai ads hands down what makes you say that because you get inside
+
+22
+00:09:36,380 --> 00:09:42,860
+And that's pretty much it. That's how you make these realistic podcasts, generate different scenes, stitch them together and have fun.

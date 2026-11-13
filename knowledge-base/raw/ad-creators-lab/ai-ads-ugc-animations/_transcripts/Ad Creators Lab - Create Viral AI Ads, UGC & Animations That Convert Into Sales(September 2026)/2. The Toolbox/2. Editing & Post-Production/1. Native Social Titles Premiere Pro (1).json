@@ -1,0 +1,48 @@
+{
+  "source_file": "1. Native Social Titles Premiere Pro (1).mp4",
+  "source_id": "mega:5Y1lhJKB:gNsQyApB",
+  "source_sha256": "094a9bc329e351f192a4ee881099a3238b3d1d104e76ddd9a59656bca1f53ead",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 182.81,
+  "last_segment_end": 182.8,
+  "segments": [
+    {
+      "start": 0.18,
+      "end": 26.13,
+      "text": "Hey, what's going on guys? So just wanted to keep you guys in check regarding the captions that we use. So sometimes we have captions that look like this that are kind of native. Some of these don't look as native. So if you guys are a Premiere Pro user, I'm just sending you below this video a social media text tool. It's like it's a Mogart. Mogart? Whatever."
+    },
+    {
+      "start": 26.13,
+      "end": 55.47,
+      "text": "And essentially, you can add it from the graphics templates panel. I give it to you. All you're going to do is click plus and then you've got to find it and then you just install it. And then what you can do is when you add it on, you see you have text here. You double click it. You get to change. There's some instructions like what fonts to use. You might not have all the fonts. So, for example, if you need the classic Roboto Black."
+    },
+    {
+      "start": 55.47,
+      "end": 85.46,
+      "text": "If you don't have it, you can just search Roboto Black Font Free. You know, you can get it from Google Fonts, Adobe Fonts, et cetera. If you really can't find a font, let me know and I'll help you find it. But essentially what you can do is if I show you, we want to get a native looking text. So you start by selecting the style. So let's go for classic. So you get the classic box here. And then let me just bring down the scale a bit. Okay, cool."
+    },
+    {
+      "start": 85.46,
+      "end": 114.06,
+      "text": "and then we're going to do something like um replace your current toothbrush okay and you see oh it's too long okay so i just put enter off the current and you see you get that that styling really easily without with the curves without having to um you know these really nice curves on the side without having to make it yourself and waste time and you can see classic says you need roboto black so i'm going to go on the font i'm going to go roboto black"
+    },
+    {
+      "start": 114.06,
+      "end": 141.9,
+      "text": "boom and now we have the exact native text and in terms of color as well we get the native color so oops so you can see color selection if i was to choose let's do red is that native red from from actual instagram and you can change the background style one and two so you get this one and the other one so you see this looks a lot more native to the platform than something you have to make yourself i'm going to save you loads and loads of time um"
+    },
+    {
+      "start": 141.9,
+      "end": 164.78,
+      "text": "And then you can change the size or whatever. And then you have classic, you have like the modern one, you have the neon one, the typewriter one. You obviously got to change the actual font career, I think is this one. Yeah, like these are all classic ones, the bubble thing."
+    },
+    {
+      "start": 164.78,
+      "end": 182.8,
+      "text": "use this please you only use this if you're going to use that hook caption don't try and make it yourself it's just it's just not going to look as native than if it was just use this so anybody not using Premiere Pro find a tool online maybe that you that you can find that you can use a similar thing or send me a message and see if I can find one for you"
+    }
+  ]
+}

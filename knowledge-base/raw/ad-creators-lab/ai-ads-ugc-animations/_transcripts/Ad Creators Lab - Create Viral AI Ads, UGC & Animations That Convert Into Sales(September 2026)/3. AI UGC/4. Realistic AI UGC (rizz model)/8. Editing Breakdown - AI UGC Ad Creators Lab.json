@@ -1,0 +1,118 @@
+{
+  "source_file": "8. Editing Breakdown - AI UGC Ad Creators Lab.mp4",
+  "source_id": "mega:5Y1lhJKB:hR9i1aYI",
+  "source_sha256": "b89495a6f9e78c1d398d6508e52b8fc29559a031cb1e1069fd9c32e8828c8283",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 561.26,
+  "last_segment_end": 560.62,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 28.14,
+      "text": "I'm going to end this module off by showing you the timeline because I did edit this one myself. I decided to roll my sleeves up and just get cracking on it. And I had loads of fun. And essentially what I want to just talk to you about is two things. One is how I generated all the elements that made this a very realistic looking AI video. Two, what my thought process was when I was making decisions here. And hopefully you're going to get something out of it. And lastly, some tips and issues that I came across. So let's get started. The first thing is that"
+    },
+    {
+      "start": 28.14,
+      "end": 58.16,
+      "text": "when i had generated the audio i firstly just went by cutting down the audio clip just so it sounded really good so i basically had everything from here so here's the deal i have two sets of jewelry this one from a boutique and this one from louise carter that was all generated with 11 labs and i had gone to 11 labs if you saw the video on how to generate her voice um i oh my god like literally i cannot even right now"
+    },
+    {
+      "start": 58.64,
+      "end": 75.31,
+      "text": "My dad was like... And you can see that from this whole video is how I actually like..."
+    },
+    {
+      "start": 75.41,
+      "end": 106.64,
+      "text": "Okay, and you can see there are certain segments of the audio that we talked about in the other video. But what I wanted to do first is just get this all on the timeline. Like I did remove some stuff. Like I removed this one from the boutique $180. Because once I have it on the timeline, I can kind of see the pacing. And also when I have it on the timeline, I can kind of have a good idea as to like, okay, cool. I need this clip for this long. For example, this one here. Here's the deal. I have two sets of jewelry. This one from... So this one from a boutique."
+    },
+    {
+      "start": 107.73,
+      "end": 135.58,
+      "text": "This one from a boutique. So I know only five seconds of a clip and this one from Louise Carter I'm going to wear them both for one week straight. So this one I'm gonna wear them both for one week straight What I actually ended up doing is I actually ended up just using the same voice inside Max fusion to generate that one clip I'm going to wear them both for one week straight by up by cutting that section of audio and uploading it onto this Just because I thought it'd be nice to kind of see her again after the hook"
+    },
+    {
+      "start": 135.58,
+      "end": 163.38,
+      "text": "So I went down and I cut everything out and I basically had just like one timeline of only the audio. Then it was about filling things in. So I started with the hook, which was this one. And before I did anything, it looked like this. And I added this TikTok comment thing by using TikTok. I'm going to wear them both for one week straight and see which one survives. I'm going to wear them both. TikTok comment."
+    },
+    {
+      "start": 164.85,
+      "end": 191.28,
+      "text": "by going to TikTok comment generator and you can see here you can generate random female image and you can generate like you know whatever name you want and then you can say like hey girl oh my god like whatever so and then you download it and it's a nice png it looks like this and I added it to the whole thing so that's super easy to do and then once I did that it was really just about finding the footage I was going to add for the clips so"
+    },
+    {
+      "start": 191.54,
+      "end": 203.86,
+      "text": "Piecing it together, I wanted the hook to have this long drawn out thing and then cut very quickly and cut to like different shots of her like doing stuff like a vlog."
+    },
+    {
+      "start": 205.52,
+      "end": 228.19,
+      "text": "And I wanted to show her face many times so you can recognize this is a video about her. So very important here. Don't just cut to other b-roll. Now this stuff here, this is actually like real human being b-roll. Like it's actually from an iPhone video. But I was looking for girls that had a similar skin tone to her so that it wouldn't look too different. Like this one here, for example. Like I'm not going to choose a pale girl from like a different video."
+    },
+    {
+      "start": 228.19,
+      "end": 253.84,
+      "text": "I just don't want anybody to have any subtle thoughts that this is an AI video and the footage is from somebody else. Like, I don't want that at all. So it was all that. Then I cut to her talking. I don't want too much. And in general, this is something you got to understand. Like, you don't want too much focus on the AI creator talking if it doesn't look good. Like, you actually can get away with... Let's see if I can find..."
+    },
+    {
+      "start": 254.03,
+      "end": 279.92,
+      "text": "The original shot here. This is what it looked like. I'm going to wear them both for one week straight and see which one survived. Like it's fine, but it's not perfect. So what I did instead is I got her talking here full and then I turned her into a green screen here at the bottom left and then at the bottom right. So it's a nice like she moves around. So you're not really thinking about like looking at her face and a lot of TikTok videos are like this and"
+    },
+    {
+      "start": 279.92,
+      "end": 307.58,
+      "text": "i added again more pictures of her behind so you can see okay this is actually her so the rest of it was like story so you know day one shower so i showed two different showers uh they're two like like beach day and i tried to cut many clips you can see here i did a little jump cut as well like it's just for pacing it just it just makes things move faster when you do a jump cut things just feel like they're moving quicker um and then loads of other shots that i generated"
+    },
+    {
+      "start": 307.58,
+      "end": 334.26,
+      "text": "and it just became about piecing the story like showing so many things making sure that when i say oh after one week the boutique one kind of like tarnished and then i smashed it again like a kind of a recall back to the original video and then here is uh showing the actual louise carter clips now these rings had to be the louise carter ones you can see the consistency between that ring and this ring oops not that one this one on the side which just came from um using"
+    },
+    {
+      "start": 335.5,
+      "end": 370.03,
+      "text": "which just came from the Nanobanana prompting section that I showed you earlier. And that was pretty much it. Everything else was just good script, good footage. The subtitles, I made it very simple. I wanted the subtitles to just exist, but not really take up a lot of space. The subtitles, I think I used Proxima Nova. Oh shit, I just got to double click, right? It was..."
+    },
+    {
+      "start": 370.26,
+      "end": 401.54,
+      "text": "Oh, no, it was Open Sans. Cool. I used Open Sans for the subtitles. That was easy. One of the main difficulties I had was actually this shot here at the end where I was trying to do the CTA. So you see, pick out seven pieces. So I wanted to really only have her saying this section with like a little microphone. Go to this page, pick out seven pieces of waterproof jewelry."
+    },
+    {
+      "start": 401.54,
+      "end": 428.24,
+      "text": "But for some reason, it always came out really bad. And the microphone did really weird stuff. Like in one version, this happened. Go to this page, pick out seven pieces of waterproof jewelry. We got a hovering mic. And so what I ended up doing was like, I green screened it. Seven pieces. Yes, seven. So then I then choose a different shot of her saying, yes, seven, generating it on Max Fusion. And then come back to her. Of waterproof jewelry."
+    },
+    {
+      "start": 428.24,
+      "end": 458.22,
+      "text": "So, like, I don't want there to be any second where the voice doesn't sound good. Like, that's going to kill it for sure. Now, I'm going to add one last subtle thing that I think you will like. So, you see this little clip here? This is not what it actually looked like. It actually looked like this. So, you see, like, it's static and it's her saying, yes, seven. But I then added a bit of a shake. So, it now feels like it's her using an actual, like..."
+    },
+    {
+      "start": 458.22,
+      "end": 498.61,
+      "text": "taking a selfie video and i've done this before in other videos because it works really well it's botanic here you've probably never heard of it that's because most hair products are designed to keep yet you've probably never heard of it for example here you can see she's moving whilst holding her phone i added that shake that shake that you see that came afterwards like because it wasn't there before"
+    },
+    {
+      "start": 498.61,
+      "end": 527.9,
+      "text": "It was just static. And when it looks static, it doesn't really look too good. You can see. That's because most hair products are designed to. That's bad botanic. Good botanic. That's because most hair products are designed to keep you. Just a little wiggle shake. There's a plugin on Premiere Pro called, if I search wiggle, wiggle effects, it comes with Premiere Pro. But yeah, anyways, that is essentially how I edited this video. The music, I had chosen kind of Christmas music because it's kind of Christmas coming up. Yes."
+    },
+    {
+      "start": 527.9,
+      "end": 558.88,
+      "text": "oops brother one from a boutique and this one from louise kind of like christmasy like pop music because i wanted it to be more christmasy and that music was actually just inside premiere pro using essential sound so that's pretty much the breakdown like i don't think there's anything else more complicated than that you can see there's no transitions no vfx no raising sounds like i kept it very simple because i wanted it to look like a video that a creator actually made and most creators are not going to like add these effects"
+    },
+    {
+      "start": 558.88,
+      "end": 560.62,
+      "text": "So that's it."
+    }
+  ]
+}

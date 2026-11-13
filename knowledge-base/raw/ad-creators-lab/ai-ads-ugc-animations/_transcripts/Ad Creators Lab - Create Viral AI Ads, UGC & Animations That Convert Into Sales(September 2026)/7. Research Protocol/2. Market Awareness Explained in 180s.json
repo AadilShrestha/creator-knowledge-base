@@ -1,0 +1,53 @@
+{
+  "source_file": "2. Market Awareness Explained in 180s.mp4",
+  "source_id": "mega:5Y1lhJKB:EQlS2Q6D",
+  "source_sha256": "c376422cd49347c4d4898b64c1b93524c167f39905dfe344efeb7d866f496236",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 181.3,
+  "last_segment_end": 181.3,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 16.05,
+      "text": "This is credit to Eugene Schwartz, the absolute goat in advertising. There are five stages of awareness. The unaware person. So somebody who has zero idea about your product or service or solution or problem. You have the problem."
+    },
+    {
+      "start": 16.05,
+      "end": 43.73,
+      "text": "aware person so somebody who knows about the problems that exist the solution aware person who knows about the different solutions that exist to solve the problem say for example you have lower back pain they know they can get a better chair a cushion a massage or surgery then there's product aware so they actually know about your product or services they know exactly about yours and the last one is the most aware"
+    },
+    {
+      "start": 43.73,
+      "end": 71.76,
+      "text": "person so they are about to purchase your product and so in terms of awareness let me show you how they differ there are more people that exist that don't know about the problem solution your product and are ready to buy than there are people who are most aware and in terms of readiness to purchase the it goes in this direction where at the top they are not ready to buy and at the bottom they are ready to buy let me tell you exactly"
+    },
+    {
+      "start": 71.76,
+      "end": 98.43,
+      "text": "how your marketing and advertising differs depending on the stages of awareness. So for the unaware audience, you need to focus on using statistics and questions that expose hidden pain points. Have you ever sat down on your desk working really hard and feel like you have to stand up every five minutes? Well, maybe it's because the chair that you're sitting on secretly is destroying your..."
+    },
+    {
+      "start": 98.43,
+      "end": 120.34,
+      "text": "back. Did you know that 75% of people are sitting on a chair that is destroying their back and making them live five years less? For the problem aware, you have to call out their problems clearly but you don't want to pitch your product. If you're experiencing lower back pain whilst you're at your desk, it's probably because you have the wrong chair. For the solution aware person,"
+    },
+    {
+      "start": 120.34,
+      "end": 149.34,
+      "text": "you need to introduce your unique mechanism if you're trying to fix your lower back pain you probably looked at massages and lots of different chairs but we have our proprietary buoyancy activated premium gpu accelerated technology so that when you lie down your back is supported much more than any other chair in the market for the product aware person you want to compare your product to others"
+    },
+    {
+      "start": 149.34,
+      "end": 175.23,
+      "text": "and you want to highlight your unique benefits if you've seen different chairs on the market ours is very different because of this technology but also we have swiveling things here we have a neck thing here and we come in different colors and for the most aware person they are ready to buy so you need to show them social proof we've helped over 3 000 men and women and workers get rid of their back pain within"
+    },
+    {
+      "start": 175.23,
+      "end": 181.3,
+      "text": "three days. You need to answer their frequently asked questions and you need to give them guarantees."
+    }
+  ]
+}

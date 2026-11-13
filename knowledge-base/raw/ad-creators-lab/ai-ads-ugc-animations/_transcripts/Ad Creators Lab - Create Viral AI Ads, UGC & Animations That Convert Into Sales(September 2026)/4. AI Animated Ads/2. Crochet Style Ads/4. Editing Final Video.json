@@ -1,0 +1,58 @@
+{
+  "source_file": "4. Editing Final Video.mp4",
+  "source_id": "mega:5Y1lhJKB:oE0CBCwY",
+  "source_sha256": "f494d82d43882374440c90a6666128e7a092d9829832714965ed40983431c8ec",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 290.62,
+  "last_segment_end": 290.0,
+  "segments": [
+    {
+      "start": 0.08,
+      "end": 32.91,
+      "text": "Okay, the video editing of this is super simple. You can give it to a video editor, but if you are a video editor, here's just what I would do. I would start the video from the lyrics. Again, remember, it's an ad. Like, don't start, don't let that whole intro play. So we're gonna start from here. So I'm gonna just cut it from here. So you see, that phrase that he said was the first phrase. So I'm not gonna drag in the video. I'm also gonna lock in the song here."
+    },
+    {
+      "start": 32.91,
+      "end": 73.46,
+      "text": "so we can just go I'm gonna add the clips that we have here for example and all these three just for the sake of this video okay so i'm gonna just cut this a bit here"
+    },
+    {
+      "start": 73.46,
+      "end": 107.41,
+      "text": "And what you're gonna find is that when you're putting this together, there might be some scenes that are missing for you. So like for example here. So for that second part of the phrase, you might actually want like an extra shot now that I'm thinking about it. So I can easily just go back to the Claude prompt and go back to phrase one, generate some"
+    },
+    {
+      "start": 107.54,
+      "end": 141.76,
+      "text": "visual ideas for this part which will be alcohol is the NSN doesn't last the current clip is too short right and then essentially the AI is going to do the work good cool spilling it up here are five fresh ideas and for the whole process of generating it we basically come up with this is basically like having the spray spray and then kind of mist up in the air"
+    },
+    {
+      "start": 141.76,
+      "end": 176.35,
+      "text": "And we end up getting something like this. You see? So that could be just like one quick idea that you wanted. So I'm going to just download this one and add it to the edit. And now we're back here. So alcohol is here. So now I need to just kind of speed this up. So I'm going to go to speed and just kind of drag this this way. I'm going to just also do the same thing here."
+    },
+    {
+      "start": 176.35,
+      "end": 207.26,
+      "text": "Okay, and then that's basically what we do for the video we just kind of like cut it together You can also you know what we do in typical editing fashion is we keyframe"
+    },
+    {
+      "start": 207.26,
+      "end": 248.02,
+      "text": "something like this like from the beginning like sniffing and then it just kind of goes to the right probably with a little bit of a zoom out and then this one as well you just add a few you can zoom in here and we can go left to right like this so it literally looks like a music video"
+    },
+    {
+      "start": 248.66,
+      "end": 281.28,
+      "text": "It's kind of fun. We can even... And that's basically what you do with the video. It's nothing too crazy and obviously if you give it to the editor with enough time then I'd be able to create something even better."
+    },
+    {
+      "start": 281.28,
+      "end": 290.0,
+      "text": "but yeah that's the whole process hope you found it interesting and hope that you can create some cool stuff if you do please leave it down below and i'd love to review it peace"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:27,140
+All right, so the first thing you want to do is actually install the skeleton ad director. It's a skill. So what you want to do is you want to go to your Claude and you want to click the plus sign, create skill, upload skill, and you're going to use a skill from the link down below and upload it. Next, when you have uploaded, you can read it if you like, but you can also click the three dots and just go to try and chat. If you ever just want to do that, you just do slash skeleton and then boom, skeleton ad pops up.
+
+2
+00:00:27,140 --> 00:00:57,230
+You want to start by either giving it a script or by giving it details about your product. For example, you're going to want to give it your research document, which is what we teach you in other modules, or you want to give it your website. So what I'm going to do is I'm going to go to a website for a product like this one right here. And I'm going to just Ctrl-C and I'm going to Ctrl-V just to show you what it can do with just the website.
+
+3
+00:00:57,230 --> 00:01:20,850
+And you know it's working when it says examine skill like if it's using the skill it's good Okay, so you can see here it says some stuff It gives us an example of an angle and it gives us a script in the skeleton style which as I explained at the beginning You have day what would happen if you took JLP one but forgot to feed your body day one day two day three whatever and then And then it goes into the next section now obviously you want to
+
+4
+00:01:20,850 --> 00:01:45,900
+look at this and just study this like you want to make sure that it's good and if you don't like the initial script you can say give me a different script like do a script in a different style because it is trained on different styles of scripts so i'm going to go with this one and essentially what's going to happen is that once you select your script either from this that you edit bring it back or you add your own one and we do let's go with this script
+
+5
+00:01:46,540 --> 00:02:13,010
+you're going to see what happens. It's actually really cool. And the reason I made this is just to make it super easy for you guys. It's going to give you a visual concept board so that you can actually know what visuals are going to go in here. So essentially it breaks up each line in the voiceover with the situation, the setting, the product. For example here, then you add the scoop of day and it shows the actual product here, which is really cool.
+
+6
+00:02:13,010 --> 00:02:27,540
+suggestions on text on the screen so you don't have to follow any of this verbatim but the goal is to just get things at least a version one for you guys and so i hope this brings you a lot of value now let's go into the generations

@@ -1,0 +1,31 @@
+1
+00:00:00,020 --> 00:00:26,160
+Okay, this is the GPT way to make your claymation prompts so that you can start making those ads. Now, this works on ChatGPT because I built a GPT for it. If you want the actual prompt behind the scenes, you can use it on Claude, for example. It's down below, but you're going to miss some tools. The best way to do this is 100% with Poppy. It makes it so much easier. So what I'm going to do first is I'm going to drag in a script that I have.
+
+2
+00:00:26,160 --> 00:00:55,280
+and i'm going to click turn this script into claymation storyboard it's going to do that now if you don't have a script it's going to give you ideas if you click the other button so what you're going to do is give me the sections of step one so you think the decomposition it's going to go through basically each part of each scene of the script and it's going to make the scenes it's going to try and match it to the actual scripts so that in length it works prompt so for example a surreal claymation clothes on man's human nose sculptor from matt
+
+3
+00:00:55,280 --> 00:01:25,120
+so then all i have to do is take this and go to my favorite image generator for example foul or you go on hicksfield or max max fusion whatever you like and i'm going to use nano banana 2 so text the image the reason we're using nano banana 2 is that it works a lot better than nano banana pro and is the most recent model too so i would do that 916 and i'll run it and i could also right click here duplicate and i just basically paste the next ones too
+
+4
+00:01:25,120 --> 00:01:54,620
+so i can do that as well and just try and make sure that it's the same thing here boom run it and then that's going to give us all of our prompts here one issue you might find is that if you're using people you might need to add a reference of the person oh this one's pretty cool so we have the nose and it looks literally like claymation you can see the fingerprints of on the nose which is pretty cool now this is nice because it has the like
+
+5
+00:01:54,620 --> 00:02:26,620
+the scent going to the brain what we can do is we can have it remove the scent and then we can animate that scent coming in so the way we'll do that is we'll actually download it first and then I'll go from image editing and I'll drag this in here and I'll do remove the scent and brain for example and run it and here we have
+
+6
+00:02:26,620 --> 00:02:56,770
+Nice character person which looks pretty cool. Now. Let's say you wanted to use the same character for a different scene Let's say the prompt or something like woman like the same woman standing up in a bedroom If you do it again, the character will change and if you want to keep the same character you have to reference her So I like to just save the image I go to image editing and then I will drag her in as a reference So now it's image editing rather than image generation
+
+7
+00:02:56,770 --> 00:03:23,380
+and then i'll do something like create an image of the woman standing up in her living room for example obviously you use the prompt that you get from here but you just want to change it to editing so that you get the same consistency oh look at that boom now we have the um the scent will come out of that so in the animation video after this i'll show you guys how to actually do a transition so we'll get into that
+
+8
+00:03:23,380 --> 00:03:31,770
+but hopefully this explains everything with the gpt it's actually super easy the hard work came behind the scenes but yeah hope you enjoy let me know what you guys think

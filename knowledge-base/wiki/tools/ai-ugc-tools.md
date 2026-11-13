@@ -35,5 +35,8 @@ updated: 2026-10-20
 ## Where it's mentioned
 [Live With Sarah, May 14](../courses/tether-lab/05-live-recordings/2025-05-14-live-with-sarah.md) · [Guest Session 02: Chase Mohseni](../courses/tether-lab/05-live-recordings/2025-06-guest-session-02-chase-mohseni.md)
 
+## In other courses
+- **Ad Creators Lab** treats AI UGC as a core production method, the opposite of the scepticism above ([AC7](../contradictions.md)). Workflows: [Seedance + Claude skill](../courses/ad-creators-lab/ai-ads-ugc-animations/frameworks/ai-ugc-seedance-workflow.md), [rizz-model pipeline](../courses/ad-creators-lab/ai-ads-ugc-animations/frameworks/rizz-model-ai-ugc-pipeline.md) (Sora 2 Pro hook → Nano Banana stills → ElevenLabs → lip-sync), [compliant creator swap](../courses/ad-creators-lab/ai-ads-ugc-animations/frameworks/creator-swap-compliant.md); playbook [produce an AI UGC ad](../courses/ad-creators-lab/ai-ads-ugc-animations/playbooks/produce-an-ai-ugc-ad.md). Notes from the course: Arcads "Talking Actors" can look AI, the course prefers its Video section ([L32–L34](../courses/ad-creators-lab/ai-ads-ugc-animations/lessons/033-sora-2-pro-hooks.md)); Sora 2 Pro rejects face uploads ([L33](../courses/ad-creators-lab/ai-ads-ugc-animations/lessons/033-sora-2-pro-hooks.md)). Settings and credit costs: [tool settings](../courses/ad-creators-lab/ai-ads-ugc-animations/libraries/tool-settings.md). Always run [AI creator compliance](../courses/ad-creators-lab/ai-ads-ugc-animations/concepts/ai-creator-compliance.md).
+
 ## Related
 [Chase Mohseni](../people/chase-mohseni.md) · [Sarah Levinger](../people/sarah-levinger.md) · [Messenger effect](../concepts/heuristics/messenger-effect.md)

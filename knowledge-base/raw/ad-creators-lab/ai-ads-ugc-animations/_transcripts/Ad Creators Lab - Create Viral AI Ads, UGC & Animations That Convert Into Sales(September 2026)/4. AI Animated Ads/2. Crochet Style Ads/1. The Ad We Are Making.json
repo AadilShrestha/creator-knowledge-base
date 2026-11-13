@@ -1,0 +1,28 @@
+{
+  "source_file": "1. The Ad We Are Making.mp4",
+  "source_id": "mega:5Y1lhJKB:gQtyjC5S",
+  "source_sha256": "52aff4bf71c291e4c06840ce8368c8ca31c4dbb54bf727df11fc35bae3c344b2",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 46.78,
+  "last_segment_end": 46.78,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.18,
+      "text": "Your cologne's fire but it's dead by noon. What if one thing made it last the whole night through?"
+    },
+    {
+      "start": 5.18,
+      "end": 34.48,
+      "text": "See cologne on its own just evaporates fast. Alcohol hits the air and the scent doesn't last. But oil bonds the skin. That's the mood that they miss. Lay your Penrose body butter. Now your fragrance persists. Baccarat time for Creed Aventus 2. Put the butter on first and spray what you usually do. The scent locks to your skin like it's part of you now. She gets close at the bar and she's wondering how. Used to spend $1,200 every single year. Cologne gone by noon, homie. That's what I fear. $35 last eight hours straight. She asked what I was wearing."
+    },
+    {
+      "start": 34.48,
+      "end": 46.78,
+      "text": "on the very first date pinro skin body butter lay it right smell like money in the morning still fresh late at night link below go grab it don't wait on this one smells so good she's texting you before the night's done"
+    }
+  ]
+}

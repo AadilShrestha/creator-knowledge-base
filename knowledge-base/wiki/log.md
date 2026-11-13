@@ -65,3 +65,9 @@ Append-only. Newest at the bottom. Grep with `grep "^## \[" log.md`.
 - **Backlinks:** "In other courses" sections on 54 pages (Tether shared pages, Evolve Copywriting, Start Here).
 - **Link repair:** 1,014 missing frontmatter sources fixed (old `raw/` and `wiki/` prefixes made repo-relative; one filename typo). `tools/kb/check_links.py knowledge-base/wiki`: 0 missing targets.
 - **Privacy:** creator names, handles and faces blurred in 10 Start Here screenshots (lessons 156, 158, 160, 162, 163).
+
+## [2026-11-13] ingest | Ad Creators Lab (AI ads, UGC & animations) + AI song-ad pipeline Loom
+- **Course:** [Ad Creators Lab](courses/ad-creators-lab/ai-ads-ugc-animations/README.md) (Epic Ads Lab, Sept 2026), MEGA `5Y1lhJKB`: 224 files, 215 verified, 9 excluded (reseller files, 3 misfiled real-estate videos). 110 lessons, 10 concepts, 12 frameworks, 4 playbooks, 2 rubrics, 7 libraries, 48-row course contradictions. See its [PROGRESS](courses/ad-creators-lab/ai-ads-ugc-animations/PROGRESS.md).
+- **Resource:** [automated AI song-ad pipeline (Loom)](resources/ai-song-ad-pipeline-loom.md); raw in `raw/loom/boris-vaserv-song-ad-pipeline/`.
+- **Shared layer:** AGENTS.md (task row, rule 6), AGENT-GUIDE (9 task rows, rule 9), topic map ("AI ad production" section + ACL adds), contradictions AC1–AC9, hubs, static-ad-creation, ai-ugc-tools, elevenlabs, meta-andromeda, overview, global index, write-ugc-script skill pointer.
+- **Validation:** `tools/kb/check_links.py knowledge-base/wiki`: 907 files, 0 missing targets. Quote check 878 strings (650 near cited time).

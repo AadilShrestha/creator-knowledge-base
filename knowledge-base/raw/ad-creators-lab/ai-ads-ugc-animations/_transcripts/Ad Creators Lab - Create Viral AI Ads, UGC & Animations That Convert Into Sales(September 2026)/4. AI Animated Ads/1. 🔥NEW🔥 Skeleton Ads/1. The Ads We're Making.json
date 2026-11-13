@@ -1,0 +1,23 @@
+{
+  "source_file": "1. The Ads We're Making.mp4",
+  "source_id": "mega:5Y1lhJKB:YF82mA5T",
+  "source_sha256": "c9310e66fc238b4011b7837e649031fc285acc02acff01bedf9d0517f4d468c3",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 50.02,
+  "last_segment_end": 49.36,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 20.51,
+      "text": "What happens if you join Ad Creators Lab for the next 30 days? Day 1. Learn the frameworks to create winning animated and AIUGC ads. Day 5. Your AIUGC ads look like real ads and are starting to perform well on your account. Day 10. You double your creative output because you're making 5 to 10 ads per week. Day 15."
+    },
+    {
+      "start": 20.51,
+      "end": 49.36,
+      "text": "you start increasing your ad spend by 100% instead of incrementally by 10 to 20%. Day 20, you find a winning ad and scale it to $1,000 per day. Day 25, you share your wins with the community and a brand twice your size shows you what they're doing. Day 30, you've hired a video editor from the community and now you're doubling your creative output once again. You've now built your own small e-commerce empire because you decided to take ad creation seriously."
+    }
+  ]
+}

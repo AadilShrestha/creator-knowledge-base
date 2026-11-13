@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:29,440
+So all I did to get the voice was I just went to YouTube.com and then I found some of Zach Film's videos. I searched YouTube to MP3 and I just went to Y2mate or whatever it was. And I just downloaded the audio from here. And then once I downloaded it, all I had to do was just make sure I converted it to MP3. And then you go to 11 labs, you click on the voices section.
+
+2
+00:00:29,440 --> 00:00:57,440
+you click add then you go to instant voice clone and then all you have to do is just drag in the audio definitely don't check this don't check remove background noise and then you click next and you essentially generate your own voice clone it's super easy you might need two videos to get it right but when i did it here is the voice that i got i like to use the v3 model just because i get a bit more of that tonality
+
+3
+00:00:57,440 --> 00:01:22,770
+And if I just click generate speech, here is what it sounds like. If you're sleeping eight hours, but still can't drag yourself out of bed, your body- You might get a little bit of background sounds, but it's fine. Once you put the actual song in the background, it's all good. Speaking of the song, I went to Epidemic Sound and I went to music and I searched the genre sneak. Under the genre sneak, there is this one.
+
+4
+00:01:25,010 --> 00:01:31,860
+which is the sound that they usually use and just downloaded it and that is it. If you want that song, I actually left it down in the description below.

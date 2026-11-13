@@ -1,0 +1,23 @@
+{
+  "source_file": "1.The Ad We Are Making.mp4",
+  "source_id": "mega:5Y1lhJKB:BJ0A3SwB",
+  "source_sha256": "a2997db926757e31e72a2c3ece3a3debdc7f0d21b097e8080789775ca3ca0897",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 32.28,
+  "last_segment_end": 30.67,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 19.74,
+      "text": "Let's finally show you final ad look like. No freaking way! My Italian husband just bet me $100. I can't tell the difference between his fancy bottle wine and boxed wine. So we're doing this. Yeah, it's fine. Not sure. It's very dry and strong. Ooh, I like this one."
+    },
+    {
+      "start": 19.74,
+      "end": 30.67,
+      "text": "Ooh, this one is also good. No, absolutely not that one. I love number three, that's my favorite, and number four. Number three is boxed wine, and number four is a 150 bottle of wine. No!"
+    }
+  ]
+}

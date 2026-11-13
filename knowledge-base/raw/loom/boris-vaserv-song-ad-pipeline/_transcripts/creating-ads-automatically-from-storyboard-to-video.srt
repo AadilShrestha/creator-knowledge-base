@@ -1,0 +1,348 @@
+1
+00:00:00,210 --> 00:00:07,730
+all righty so let's finally see what this wonder weapon is about so as you can see this is one of
+
+2
+00:00:07,730 --> 00:00:14,810
+the ways you can run it in terminal the other way is in the codex app or whatever you can you
+
+3
+00:00:14,810 --> 00:00:23,030
+can do it in the cloud code clot it doesn't matter whatever is comfortable for you mainly because we
+
+4
+00:00:23,030 --> 00:00:30,050
+built a web platform where you can look at every single thing you're doing so your cast this is
+
+5
+00:00:30,050 --> 00:00:35,290
+going to be the timing the visual plan the product references the keyframes you know the images for
+
+6
+00:00:35,290 --> 00:00:41,970
+the storyboard the videos and then the final ad so you can run it on anything you want it to but
+
+7
+00:00:41,970 --> 00:00:47,290
+this is kind of what the workflow looks like so essentially you know every everything starts with
+
+8
+00:00:47,290 --> 00:00:54,130
+like okay time to read you know whatever read these scales here's the song or whatever format you want
+
+9
+00:00:54,130 --> 00:01:00,670
+to do right now we're focused on songs so here's the ad you want to do right here's the text logs you
+
+10
+00:01:00,670 --> 00:01:07,670
+in here because here it's where it holds all of your api keys so very very easy to use you don't have
+
+11
+00:01:07,670 --> 00:01:12,930
+to do any take shit and then yeah just start chugging away at it right so what's the visual style
+
+12
+00:01:12,930 --> 00:01:16,570
+direction for the country music you know what are we going to do
+
+13
+00:01:16,570 --> 00:01:36,670
+so here we had to do some you know dreaming to the song which is fine but now the right song is you
+
+14
+00:01:36,670 --> 00:01:44,350
+know into into the system so from here you approve the cast it gives you the cast and here there's like
+
+15
+00:01:44,350 --> 00:01:49,690
+a button and you click click like a proof and it's done then we have the timing which is going to be
+
+16
+00:01:49,690 --> 00:01:56,670
+done when the song is done from the timing it builds the visual plan on top of it the visual plan uses
+
+17
+00:01:56,670 --> 00:02:04,810
+product references and then the keyframes get generated but essentially the fastest thing is this
+
+18
+00:02:04,810 --> 00:02:11,330
+like keyframes videos final ad pretty fucking fast I guess it's done in 50 minutes the longest part is
+
+19
+00:02:11,330 --> 00:02:18,770
+the visual plan which takes like 30 minutes and yeah so but then 30 minutes but you can run it on
+
+20
+00:02:18,770 --> 00:02:26,610
+like 10 ads if you want the rest is fairly easy and just math right just computers computing this is
+
+21
+00:02:26,610 --> 00:02:32,810
+essentially takes 30 minutes on a frontier motto but is the core of that and it saves so much fucking
+
+22
+00:02:32,810 --> 00:02:38,530
+time so this is where the big the big big big efficiency gain is you don't need an editor to do this
+
+23
+00:02:38,530 --> 00:02:45,270
+it does it itself and we're currently finding some really interesting findings on massively improving
+
+24
+00:02:45,270 --> 00:02:52,190
+visual planning through some very interesting stuff that I can't share right now but we are approaching
+
+25
+00:02:52,190 --> 00:03:02,070
+terminal velocity where any format any video you show me even if it's like a
+
+26
+00:03:02,070 --> 00:03:12,290
+welcome paul video we can essentially learn the editing style and as long as we give it a script that
+
+27
+00:03:12,290 --> 00:03:21,230
+fits the editing style then we can have very very very good results through this visual plan step okay
+
+28
+00:03:21,230 --> 00:03:31,070
+so yeah and this is going to be the same for yappers animation drama ads are coming the song was the
+
+29
+00:03:31,070 --> 00:03:37,270
+hardest one to do so we did it first but for example for example instead of for yapper here's it's just
+
+30
+00:03:37,270 --> 00:03:43,550
+going to be the voiceover right or animation drama you're going to be the voiceover or whatever
+
+31
+00:03:43,550 --> 00:03:50,970
+something like this and then again you're going to prove the cast timing is important to visual plan
+
+32
+00:03:50,970 --> 00:03:59,730
+which is radically simple simpler on anything like regarding anything outside of song ads it's so much
+
+33
+00:03:59,730 --> 00:04:05,450
+simpler right because song ads are like every three seconds you need something new in terms of bureau
+
+34
+00:04:05,450 --> 00:04:12,090
+again every single ad you have the product references you have the keyframes so that's
+
+35
+00:04:12,090 --> 00:04:17,590
+literally the story the storyboard being shown to you and here you can be like i don't like this
+
+36
+00:04:17,590 --> 00:04:24,350
+change it changes it i don't like this changes it depends on what you're doing but we kind of see
+
+37
+00:04:24,350 --> 00:04:54,330
+between zero and three mistakes per 100 frames so it varies but not that much and again it's so fast you don't really care and then you can hear you can tweak it like can you please improve the this opener can you please you know change this here to hit this and then same it renders the keyframes into videos and then the videos are being showed to you every single individual clip you can take a look at it you can watch it if you want to if not you just
+
+38
+00:04:54,530 --> 00:05:15,760
+click the next step and it gets made into a final ad okay so yeah pretty pretty clear and i'm about to show you right now we're doing we have the song approved we're doing the timing run and i'll show you how everything moves live okay so i'll come back on the visual i'll come back on the timing and then you'll see what we do for the visual plan
+
+39
+00:05:15,760 --> 00:05:24,100
+all right so we're back yeah song is done timing is done we're running the visual plan now and as you can see
+
+40
+00:05:24,100 --> 00:05:33,320
+it's a sub-agent okay it's a sub-agent that essentially does this we're on the front on the frontier model you
+
+41
+00:05:33,320 --> 00:05:41,860
+know and it's going to be working for like 30 minutes so you know you you need to have patience and i'll now
+
+42
+00:05:41,860 --> 00:05:50,300
+come back when it's done and yeah we're ready to make the images etc all right so storyboarding took
+
+43
+00:05:50,300 --> 00:05:57,440
+about 15 minutes and then we run through a review stage which is i'm just another sub-agent to make
+
+44
+00:05:57,440 --> 00:06:07,060
+sure there's no dumb mistakes and now basically you know my sister was shows the song right and then
+
+45
+00:06:07,060 --> 00:06:14,520
+for each shot uh it shows you what exactly what it's going to do framing performance how long it's going to
+
+46
+00:06:14,520 --> 00:06:23,560
+be um etc etc etc etc okay so you can look through here honestly i don't fucking do that i just send it
+
+47
+00:06:23,560 --> 00:06:33,420
+straight to keyframes so now it's going to make all of this into essentially you know images and yeah
+
+48
+00:06:33,420 --> 00:06:37,600
+we're going to have a very visual understanding of everything happening now so stay tuned
+
+49
+00:06:37,600 --> 00:06:46,840
+all right so very quickly you know we have everything so here you can see so shot one
+
+50
+00:06:46,840 --> 00:06:54,920
+it's fast duration all this shit okay and here you just get a really good look at what the video is
+
+51
+00:06:54,920 --> 00:06:55,680
+going to be like
+
+52
+00:06:55,680 --> 00:07:05,620
+one thing we need to look for is bad hand physics always shows up somewhere
+
+53
+00:07:05,620 --> 00:07:15,960
+so for example i think there was shot there was a shot like here you just go like this
+
+54
+00:07:15,960 --> 00:07:25,800
+okay nothing crazy here we go okay so this one so here you go shot has bad hand physics
+
+55
+00:07:25,800 --> 00:07:34,560
+okay this is going to happen this is going to happen it's fully normal okay um also here
+
+56
+00:07:34,560 --> 00:08:00,620
+shot is weird uh because the main cast is head opposite side like this and then that's pretty much it
+
+57
+00:08:00,620 --> 00:08:02,400
+all right so
+
+58
+00:08:02,400 --> 00:08:08,800
+yep now we will fix these and you'll see how quickly we go into actual video
+
+59
+00:08:08,800 --> 00:08:17,480
+all right so yeah we have the videos now keyframes got fixed here they are
+
+60
+00:08:17,480 --> 00:08:28,640
+you know everything's there videos boom done everything super fast and then you can go and
+
+61
+00:08:28,640 --> 00:08:37,440
+review each one whatever it's all yours you know if you are but most of the mistakes are caught here
+
+62
+00:08:37,440 --> 00:08:46,800
+okay so yeah and when you have this literally when you have the videos from there it just you go
+
+63
+00:08:48,000 --> 00:08:55,120
+uh we have the final ad too so it once the videos are made it stitches them and you have the final ad
+
+64
+00:08:56,320 --> 00:09:02,560
+and yeah let's see my sister was constipated and blow here we have clean version and with captions
+
+65
+00:09:02,560 --> 00:09:11,280
+so you know my sister was constipated and bloated i heard her cry i kicked in the door and found her
+
+66
+00:09:11,280 --> 00:09:15,600
+sitting on her side my sister on her side double over face so pale this ain't stress this ain't just
+
+67
+00:09:15,600 --> 00:09:21,600
+scared so yeah i'm gonna send you this a song i don't know if you can hear it so you're gonna watch
+
+68
+00:09:21,600 --> 00:09:28,720
+it yourself but generally you have this is the process so we start from song we get the song done
+
+69
+00:09:29,360 --> 00:09:37,840
+and we have sops to make sure we want to show the songs uh cast that's pretty easy timing is you
+
+70
+00:09:37,840 --> 00:09:42,400
+don't have to worry about that timing is done when the song is done the visual plan that takes the
+
+71
+00:09:42,400 --> 00:09:50,640
+longest from there product reference is super like that's like set forever um per product then we have
+
+72
+00:09:50,640 --> 00:09:57,680
+keyframes so yeah maybe here you're gonna find two three wrong shots just quickly fix them takes five
+
+73
+00:09:57,680 --> 00:10:06,150
+minutes and then tell it okay render all the videos and stitch it renders the videos and then it
+
+74
+00:10:06,150 --> 00:10:12,790
+immediately stitches so here if there's a mistake like for example if this is a shot we don't want
+
+75
+00:10:12,790 --> 00:10:21,430
+like maybe there's something wrong with this shot then what is it like you can just tell it at 43 seconds
+
+76
+00:10:21,430 --> 00:10:29,510
+there's this like mistake whatever you can even find it here you know like yeah that's a shot 18 this
+
+77
+00:10:29,510 --> 00:10:36,950
+is happening and it's gonna redo it fix that shot and give the new version with the updated shot and
+
+78
+00:10:36,950 --> 00:10:44,070
+yeah this is done uh within one hour from finished script to full production you can probably do it faster
+
+79
+00:10:44,070 --> 00:10:52,150
+if you if you if you get lucky like you get the song the first time the timing like the the you know
+
+80
+00:10:52,150 --> 00:11:02,950
+the the keyframes the first time probably happen faster but you know one hour is plenty and and yeah keep
+
+81
+00:11:02,950 --> 00:11:10,230
+in mind you can do this with like a lot more songs at the same time so you can get 10 scripts ready
+
+82
+00:11:10,870 --> 00:11:17,910
+and you just let it rip and in one hour okay maybe one hour and 30 minutes because obviously some scripts
+
+83
+00:11:17,910 --> 00:11:26,310
+are gonna have some variants but within one hour and 30 minutes you're going to have these okay and as
+
+84
+00:11:26,310 --> 00:11:32,550
+many of them as you want as long as the most you want okay i've made in four hours five eight minutes
+
+85
+00:11:32,550 --> 00:11:37,430
+song ads this is very easy to do like three minutes two minutes it's very easy to do
+
+86
+00:11:37,430 --> 00:11:48,870
+song ads this is very easy to do so yeah let me know if you have any questions
+
+87
+00:11:48,870 --> 00:11:50,870
+you
+

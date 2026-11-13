@@ -1,0 +1,71 @@
+1
+00:00:00,080 --> 00:00:28,900
+okay let's generate some actual videos so we have basically got a whole bunch of images from our claymation that we are going to add to our video model okay so i'm going to be using max fusion for this which has pretty much every single video model now you can use other ones like foul like open art whatever makes sense in your budget i just like the flow of this one so what i'm going to do is start by choosing the video model so i'm going to choose cling 3.0 pro
+
+2
+00:00:28,900 --> 00:01:00,110
+I'm gonna select the in and out frame so the in frame is going to be if you go to our scenes folder Which I encourage everybody to have just to keep everything organized. I'm gonna start with this one here and Then I'm gonna add the end frame which is gonna be the next which is gonna be where it the video is going to end So I'm gonna click upload image and I'm gonna go here. So we're going from the wide shot to him now If you go back to our to our script in chat, he's saying
+
+3
+00:01:00,110 --> 00:01:28,580
+alcohol is actually not that toxic compared to what it turns in your body. Now that's around like three seconds. So I think we don't need to have anything like 10 seconds long, especially for cling because it can be quite expensive. So I'm going to do something like four seconds just to be safe. And that's just 2.4 credits. Now I'm going to generate this with cling and also with seed dance, which is a lot cheaper. So you can see the difference. Now we have this cheat sheet for the prompting process to get the best results. So
+
+4
+00:01:28,580 --> 00:01:58,580
+the prompted process is as follows if a character is involved you must include the following prompt keep character facial consistency no character redesign no facial feature changes so i'm going to copy that and i'm going to go back here and again this this is for whatever model you're using then we are going to go to camera direction so we need to select the camera direction so i'm going to do slight push in because that's what i want and we have some examples of other camera directions if you like so i'm going to now
+
+5
+00:01:58,580 --> 00:02:26,030
+click enter and paste that in and then i'm going to go to must include animation direction so ensure handmade stop motion clay animation throughout the video non-cgi non-cinematic so now we have our structure which is visual direction and now we paste that in now at the end i want to add some kind of if there's anything crazy happening in the animation we want to add it in in this case we're not really doing a lot because this is just literally a zoom into the guy's face
+
+6
+00:02:26,030 --> 00:02:57,360
+but i'll show you what i mean in the next frame so i'm going to just generate this with cling and i'm going to just copy this prompt and i'm going to do the exact same thing i'm going to do with seed dance 1.5 just so that we see the difference we've just generated from essentially this scene to this scene and now i want to go into this scene here which is his stomach because in the script it says and that's what makes your next day feel like hell so slice open stomach
+
+7
+00:02:57,360 --> 00:03:27,230
+so because the last video ends on this scene this is going to be our start frame and this is going to be our end frame so i'm going to go back to max fusion i'm going to go upload image this is going to be our start frame this is going to be our end frame now i'm going to show you kind of how we do the prompting process so let's say we have this start frame and this is the end frame here's one of the prompts that we do so vines around the frame pull back and out of the frame
+
+8
+00:03:27,230 --> 00:03:54,560
+this you have to have but this describes the actual motion now if you don't know what to say you keep it simple you replace just these things and that's it and you'll probably get a good result but if you want to add a bit more detail a bit more interesting things to it we can make this interesting so what i'm going to do
+
+9
+00:03:54,560 --> 00:04:29,410
+i'm gonna go back i'm gonna paste all the information from before which was the camera direction i'm gonna keep it static actually i don't want a static camera i want the camera pans down to the character's green was a green t-shirt green t-shirt layers of clay
+
+10
+00:04:29,410 --> 00:05:04,590
+peel away revealing the stomach image let's see how that goes so i can generate it with seed dance or i can generate it with cling so i can click this remix i'm going to use clean cling four seconds just to see how it looks and let's actually review the other videos from before so this was on cling okay and this was seed dance
+
+11
+00:05:07,310 --> 00:05:37,330
+for some reason c dance always adds these weird songs but pretty much the same so that's why i always think everybody should start with c dance just generate something with c dance first before cling just because the the costs everywhere are a lot a lot cheaper also if you watch the other video uh where i where i do the images in chat gpt let's try that nose one that we got okay so direction is going to be brain and
+
+12
+00:05:38,480 --> 00:06:10,100
+Trail come out of the nose Camera stays still and then we generate that And now let's go through our other results. So this was from Kling Oh That's pretty good. I like that. I like how things kind of like shed away like layers Kind of disappeared, which is good. Let's look at seat dance That wasn't too bad
+
+13
+00:06:10,100 --> 00:06:39,220
+it kind of delayed a bit here and then there's this weird stain here which doesn't look nice unfortunately but i would say they're both pretty close again like if you wanted to save credits just generate something with c dance if you want it to look better you will generate it with cling now the interesting one is going to be this one we go when we go from the stomach to him coming up so maybe we can do something like
+
+14
+00:06:39,820 --> 00:07:12,850
+zooming out from the guy's stomach as layers of clay peel around to close the Sun maybe can come come up or something we're gonna do something cool with that camera zooms out from the stomach and out the t-shirt of the man in the bed as the man is waking up and the Sun is rising from behind let's go for this and let's look at our nose shot came up that's so cool
+
+15
+00:07:12,850 --> 00:07:42,580
+yeah that's really cool i like that and the best way to kill time is by generating the next scenes so i'm gonna now go to the next one and i'm gonna go upload the hungover scene then upload the correct cozy morning scene okay and then let's think of how we can do it maybe some kind of like stars go around him as he changes we're doing the camera stay still as a star as a yellow
+
+16
+00:07:42,800 --> 00:08:13,460
+Star trail goes around the character from the bottom of his torso to the top of his head This transitions him from hungover and rough to looking clean and awake Ham is cool. Let's generate boom now if you are going to use something like open art or foul to make these Some settings that I would suggest to incorporate are as follows So let's say we're doing the start frame keep the audio off. It stays on credits and we keep the quality at 720
+
+17
+00:08:13,460 --> 00:08:53,140
+don't bother doing pro that's the main settings that we have inside max fusion you already get those settings so it's all good and let's review this one that's pretty good that looks nice yeah i guess it's quite tricky i don't know what else we would have done um to make it transition better but so far my favorite is this one so cool and then this one as well all right let's review the last one okay i mean it did okay
+
+18
+00:08:53,140 --> 00:09:04,270
+Kind of wanted it to spin around a bit better, but yeah if I wanted to do something a bit better I would have done something else But I think this was this is good for now. Now. Let's actually put this together in the edit. So I'll see you there

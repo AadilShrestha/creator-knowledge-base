@@ -1,0 +1,18 @@
+{
+  "source_file": "1. The Ads We're Making.mp4",
+  "source_id": "mega:5Y1lhJKB:oAsG1KYD",
+  "source_sha256": "63214e82a81cd58ead8b74961c5c99c35f9013fa6423438d07c805aad06abc85",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 48.32,
+  "last_segment_end": 34.96,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 34.96,
+      "text": "There once was a soul who had done all the work, the therapy, the healing, but something still hurt. They brewed up their coffee and drank it down fast, but the jitters and anxiety just couldn't last. More coffee they drank, but the fog wouldn't clear. The tiredness and tension just stayed year to year. They thought something was wrong with the way they were made, not knowing the coffee was blocking their way. So they switched to vibe on a cold winter's morning, whispering."
+    }
+  ]
+}

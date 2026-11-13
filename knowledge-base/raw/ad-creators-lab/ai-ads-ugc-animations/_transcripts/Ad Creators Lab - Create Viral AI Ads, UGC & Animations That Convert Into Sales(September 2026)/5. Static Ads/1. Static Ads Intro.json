@@ -1,0 +1,23 @@
+{
+  "source_file": "1. Static Ads Intro.mp4",
+  "source_id": "mega:5Y1lhJKB:AIt2GQbY",
+  "source_sha256": "9e45fd4577263ca58d94bb46f07b8590ae4a782cd8503b424b39552fb34c87ed",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 36.25,
+  "last_segment_end": 36.24,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 29.26,
+      "text": "Before we get into this, the one thing I need you to understand is that blindly copying meta competitors ads is the fastest way for you to make zero sales and have high as CPAs, even if they run for years. The right way is to use a proven system that uses first principles and a singular source of truth as to what your customers actually want and use them in your images. Otherwise, you're literally just copying random stuff without having any intention behind it. But I can guarantee if you're someone that's making less than 100k per month."
+    },
+    {
+      "start": 29.26,
+      "end": 36.24,
+      "text": "with ads this is the method for you to actually stand out against the competition and i promise if you just follow this you will see results so let's dive in"
+    }
+  ]
+}

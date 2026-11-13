@@ -50,5 +50,8 @@ updated: 2026-10-20
 ## Where it's mentioned
 [May 7](../courses/tether-lab/05-live-recordings/2025-05-07-live-with-sarah.md) · [May 21](../courses/tether-lab/05-live-recordings/2025-05-21-live-with-sarah.md) · [Roast #1](../courses/tether-lab/05-live-recordings/2025-05-28-roast-my-ads-1.md) · [June 11](../courses/tether-lab/05-live-recordings/2025-06-11-live-with-sarah.md) · [June 18](../courses/tether-lab/05-live-recordings/2025-06-18-live-with-sarah.md) · [Chase](../courses/tether-lab/05-live-recordings/2025-06-guest-session-02-chase-mohseni.md) · [Roast #3](../courses/tether-lab/05-live-recordings/2025-07-23-roast-my-ads-3.md)
 
+## In other courses
+- **Ad Creators Lab** argues that under Andromeda hook-only swaps no longer earn new delivery and concepts must look different ("zoom out and squint") ([L8](../courses/ad-creators-lab/ai-ads-ugc-animations/lessons/008-how-to-make-diversified-ads.md)), while its own Vault shows a hook swap creating a winner ([L81](../courses/ad-creators-lab/ai-ads-ugc-animations/lessons/081-turning-400-ad-to-13k-spender.md)). Default: [diversification vs variation](../courses/ad-creators-lab/ai-ads-ugc-animations/concepts/diversification-vs-variation.md), [AC1](../contradictions.md).
+
 ## Related
 [Three Vs of creative](../frameworks/three-vs-of-creative.md) · [Iteration vs variation](../concepts/iteration-vs-variation.md) · [Community members](../people/community-members.md)

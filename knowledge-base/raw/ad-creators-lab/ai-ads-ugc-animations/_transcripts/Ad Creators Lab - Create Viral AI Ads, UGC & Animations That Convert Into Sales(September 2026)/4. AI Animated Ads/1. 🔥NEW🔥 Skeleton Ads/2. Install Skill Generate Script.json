@@ -1,0 +1,43 @@
+{
+  "source_file": "2. Install Skill Generate Script.mp4",
+  "source_id": "mega:5Y1lhJKB:pRtUzaQR",
+  "source_sha256": "09bdce059babff66ecc3920940505983b3961558f387903533ed36169275085f",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 147.75,
+  "last_segment_end": 147.54,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 27.14,
+      "text": "All right, so the first thing you want to do is actually install the skeleton ad director. It's a skill. So what you want to do is you want to go to your Claude and you want to click the plus sign, create skill, upload skill, and you're going to use a skill from the link down below and upload it. Next, when you have uploaded, you can read it if you like, but you can also click the three dots and just go to try and chat. If you ever just want to do that, you just do slash skeleton and then boom, skeleton ad pops up."
+    },
+    {
+      "start": 27.14,
+      "end": 57.23,
+      "text": "You want to start by either giving it a script or by giving it details about your product. For example, you're going to want to give it your research document, which is what we teach you in other modules, or you want to give it your website. So what I'm going to do is I'm going to go to a website for a product like this one right here. And I'm going to just Ctrl-C and I'm going to Ctrl-V just to show you what it can do with just the website."
+    },
+    {
+      "start": 57.23,
+      "end": 80.85,
+      "text": "And you know it's working when it says examine skill like if it's using the skill it's good Okay, so you can see here it says some stuff It gives us an example of an angle and it gives us a script in the skeleton style which as I explained at the beginning You have day what would happen if you took JLP one but forgot to feed your body day one day two day three whatever and then And then it goes into the next section now obviously you want to"
+    },
+    {
+      "start": 80.85,
+      "end": 105.9,
+      "text": "look at this and just study this like you want to make sure that it's good and if you don't like the initial script you can say give me a different script like do a script in a different style because it is trained on different styles of scripts so i'm going to go with this one and essentially what's going to happen is that once you select your script either from this that you edit bring it back or you add your own one and we do let's go with this script"
+    },
+    {
+      "start": 106.54,
+      "end": 133.01,
+      "text": "you're going to see what happens. It's actually really cool. And the reason I made this is just to make it super easy for you guys. It's going to give you a visual concept board so that you can actually know what visuals are going to go in here. So essentially it breaks up each line in the voiceover with the situation, the setting, the product. For example here, then you add the scoop of day and it shows the actual product here, which is really cool."
+    },
+    {
+      "start": 133.01,
+      "end": 147.54,
+      "text": "suggestions on text on the screen so you don't have to follow any of this verbatim but the goal is to just get things at least a version one for you guys and so i hope this brings you a lot of value now let's go into the generations"
+    }
+  ]
+}

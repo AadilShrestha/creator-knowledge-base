@@ -1,0 +1,158 @@
+{
+  "source_file": "2. Claude Skill Seedance 2.0 AI UGC.mp4",
+  "source_id": "mega:5Y1lhJKB:kdkA2CgA",
+  "source_sha256": "569a69991924b123dc63b310f511936b3bfbaec1ef62ad106c2d730a60a5fb3e",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 813.19,
+  "last_segment_end": 813.19,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 26.43,
+      "text": "Okay, so step one is we're gonna go to the link in the description down below and you're gonna download the Claude skill that I created and you're gonna go to Claude on desktop and you're going to click the three lines on the side chat go to customize skills plus create skill upload skill and you're going to drag in the zip file that I provided for you and you're gonna see once it's installed we have a"
+    },
+    {
+      "start": 26.43,
+      "end": 54.05,
+      "text": "seed dance 2.0 UGC ad director with all these rules that it's going to follow and if you want to give us a try immediately you can just click these three dots and click try in chat but in general if you want to just access it you click slash seed dance and you do that. Now what we're going to be doing is actually giving it one of our scripts that we have for a UGC video. We're going to treat seed dance 2.0 like an actual UGC creator."
+    },
+    {
+      "start": 54.05,
+      "end": 81.73,
+      "text": "and so what i'm going to do is i'm going to just very simply upload this ugc script and make sure you're on opus 4.7 if i click run you know this is working when it's doing reading seed dance 2.0 add skill director to understand structure it needs to do that if it's not doing that and it's just giving you an output it's wrong you need to try again now if you watch my last video i talked about how you need to use creators"
+    },
+    {
+      "start": 81.73,
+      "end": 106.86,
+      "text": "referenced from Pinterest to lock in that realistic result. So what it's going to do is give you links for this specific UGC video where you can click on it and it's going to open Pinterest for you to find creators and lock in that format, that style. So for this specific script you can see it's a video where somebody is doing a taste test and it's a challenge."
+    },
+    {
+      "start": 106.86,
+      "end": 128.8,
+      "text": "my italian husband bet me a hundred dollars i couldn't tell the difference between this fancy bottle and boxed wine so you can see if you read this it's given you four links to find the woman that we're gonna have as our character it tells you what to pick only use clean photos no emojis no watermarks nothing okay so first we're gonna we're gonna go through all of these and we're gonna find what our"
+    },
+    {
+      "start": 128.8,
+      "end": 155.14,
+      "text": "creator is gonna look like so we're basically thinking like a director and we're thinking cool let's find somebody who's gonna be our creator like this girl looks pretty good make sure that she is this could be one actually i think the best one is gonna be someone like this and you can see this is shot on an iphone you can see the ray of light here you can see the quality of everything we want to lock in this style and the thing about pinterest is when you click on an image"
+    },
+    {
+      "start": 155.14,
+      "end": 182.62,
+      "text": "and you scroll down it gives you other suggestions of similar ones so i've decided to go with this one here and i'm going to click save image as and i'm going to save the name as creator you have to be very organized now what we're going to do next is go to setting and product references so we're going to now for the hook which is the 100 bet setup we're going to find image references for each of the scene you can see there's four scenes and if we scroll down"
+    },
+    {
+      "start": 182.62,
+      "end": 212.7,
+      "text": "There's segment 1 of 4, 2 of 4, 3 of 4, 3 of 4 and 4 of 4 because this skill has broken up our script into four 15 second section because there's a 15 second limit on Seat Dance. So for the first one, I'm going to click here and I'm going to find a reference for the location. For example, we can do something like this. For example, this is perfect. Now I'm going to click this, save it and do kitchen counter."
+    },
+    {
+      "start": 212.7,
+      "end": 243.3,
+      "text": "reference. And for the $100 bill slapped on kitchen counter, because it's following our script, I'm going to do something like this. $100 bill. So now we're basically thinking like a director who's giving a team of a Hollywood production team, literally, what we want to create. Now, this is just for scene one. Now, if we scroll down, it's giving us the prompt and also some direction. So, we're not going to head into Max Fusion."
+    },
+    {
+      "start": 243.3,
+      "end": 273.01,
+      "text": "And we're going to go to videos. We're going to do Seed Dance 2.0. And you can see here you can upload up to nine images for reference. I'm going to click this, upload image. We're going to upload our creator. We're going to upload our kitchen counter reference. And we're going to upload our $100 bill. The goal of this video was to do some kind of like box testing thing like this."
+    },
+    {
+      "start": 273.01,
+      "end": 301.7,
+      "text": "I will use this as a reference if it doesn't come out exactly how I want it. But for now, I'm going to just see what happens with the skill as it is. So I'm going to basically click copy here. I'm going to paste it. And you can see inside Seed Dance in Max Fusion, you can reference specific images with an at sign. So you can see iPhone handheld UGC video at image one. This one is the creator. That's correct."
+    },
+    {
+      "start": 301.7,
+      "end": 330.64,
+      "text": "She's standing behind the white quartz kitchen counter, blah, blah, blah, blah. Her right hand slaps a hundred, a crisp hundred dollar bill with a small grin on the counter in front of her, a rectangular piece of cardboard with four boxes cut out in a row, four plastic straws poking out through the holes. It's exactly what we want to have. And it also has the actual script of what she's going to say. And that's directly from the script that we gave it. Once you're reading this, you kind of want to imagine if this is exactly how you want to..."
+    },
+    {
+      "start": 330.64,
+      "end": 359.76,
+      "text": "do it and you can make changes later but let me just start with this and see how it goes. One thing as well if you want to put the product image in here like maybe have it on the counter on the side I can go and find an image of the product and somewhere here I can say on the side of the counter we have the boxed wine from at and I can reference it and next to it is a bottle of wine with a white label with three dollar signs on it. Cool. And now"
+    },
+    {
+      "start": 359.76,
+      "end": 382.96,
+      "text": "The last thing I want to do is make sure this is 15 seconds and 720p. We don't want it to look too high definition. And it's 15 seconds because this whole section should last 15 seconds. Again, it took the script and it separated it out. And now we're going to hit generate and let it roll. All right, now after waiting, here's what we have. Okay, so my Italian husband..."
+    },
+    {
+      "start": 382.96,
+      "end": 401.14,
+      "text": "just bet me a hundred docks. I can't tell the difference between his fancy bottle wine and boxed wine. So we're doing this. So actually it worked. It didn't work exactly how I wanted it, but we have a very realistic iPhone looking shot."
+    },
+    {
+      "start": 401.14,
+      "end": 429.89,
+      "text": "we have a head to what we said we said we want the wine box on the left with the bottle of wine that has an expensive dollar sign we also have her putting money on the table one dollar bills a hundred it's really good there are some weird things happening with her putting the dollar bill in and everything and what she's saying and some issues in the words and also the straws and the holes don't really make sense but you can see how this looks like an actual ugc video so what do we do now now what we have to do"
+    },
+    {
+      "start": 429.89,
+      "end": 459.54,
+      "text": "Just go back through the prompt and see how we can make it adhere better. One thing about Max Fusion is you can quickly click this remix button and it's going to generate everything as it was before without having to add things again. So, what we're going to do is, when it says single continuous shot UGC, I might change this. Multiple shots, clips, UGC style. Okay, iPhone handheld."
+    },
+    {
+      "start": 459.66,
+      "end": 488.43,
+      "text": "So it starts with the medium shot, phone held at eye level, about three feet. A hand puts a $100 bill, like in, and I'm going to use this image reference, three, on the table. Camera pans up to the creator from image one. She's standing behind the white quartz kitchen counter wearing"
+    },
+    {
+      "start": 488.43,
+      "end": 519.98,
+      "text": "A cream, linen, button-up shirt, sleeves rolled out with the elbow line, makeup, that's fine. A rectangular piece of cardboard with four holes cut in a row. Like, and I'm going to find a reference of how I want it to look. I think we'll have it look like this. Or we'll do Pinterest and we're going to do blind drinking, blind drink taste test. Ah, exactly. This is what we want as a reference."
+    },
+    {
+      "start": 521.65,
+      "end": 554.19,
+      "text": "So, I'm going to click here and I'm just going to screenshot this. I'm going to bring this one as a reference image, each rolling down to a different clear wine glass. We have the boxed wine, next to it is a bottle of wine with a white label and $3 signs on it. Okay, she looks right at the phone camera, tilts her head and gestures."
+    },
+    {
+      "start": 554.19,
+      "end": 583.25,
+      "text": "with her left hand to the cardboard box and straws okay so now what we've done is added a bit more references and given a bit more direction and let's see how it looks okay and here's the attempt two okay so my italian husband just bet me a hundred bucks i can't tell the difference between his fancy bottle wine and boxed wine so i mean it looks fantastic obviously we're having some product consistency issues"
+    },
+    {
+      "start": 583.25,
+      "end": 613.26,
+      "text": "we have some glasses without stems there's no wine in it and so we do need to be a bit more specific and i think i'm going to just keep it simple by not having these boxes here i think it'll even convert better in the video because we're not having product placements and instead just try and get that first shot perfect all right so let's give this another go so i'm going to click remix and i'm going to change some stuff so a different wine glass"
+    },
+    {
+      "start": 615.79,
+      "end": 646.83,
+      "text": "filled with red wine because what we can do here is just do a different shot where it's boxed wine being poured into the glass and regular wine being poured into the glass okay so my italian husband just bet me a hundred docks i can't tell the difference between his fancy bottle wine and boxed wine so we're doing this that looks insane like it looks so fucking real i want to do the same thing again"
+    },
+    {
+      "start": 646.83,
+      "end": 687.82,
+      "text": "my italian husband just bet me a hundred dollars oh i need a hundred dollar bill okay so we made a few changes let's see how that looks and here is the video that i said we should get the only thing here is they need to be pressing the thing where one hand is pressing the valve and the other hand is holding the box the wine glass"
+    },
+    {
+      "start": 688.56,
+      "end": 717.44,
+      "text": "is on the table for that. The thing I'm realizing about C-Dance 2.0 is that it follows everything to the T. Everything about the prompt, it absolutely follows, which is insane. If I go to this one here, I can go to this one that was one shot. My Italian husband bet me $100. I couldn't tell the difference between his fancy bottle and boxed wine. And we did this a lot of different times, different examples."
+    },
+    {
+      "start": 717.44,
+      "end": 746.7,
+      "text": "my italian husband bet me a hundred dollars i couldn't tell the difference between his fancy bottle and boxed wine all right with all those changes let's see how this turned out okay so my italian husband just bet me a hundred dollars i can't tell the difference between his so what you do next is for the next part of the video you'll go down to segment two or four where she's tasting the videos but the thing is we need to use the same consistency throughout"
+    },
+    {
+      "start": 746.7,
+      "end": 775.22,
+      "text": "So inside Max Fusion, I just go to extract frame and I go to drag a shot here. I'm going to do send to save images. Can go to CDAN 2.0 references, select image. I click this image and that's basically the creator that we're starting with. And then I can go here, I can copy and paste. And this image one is the creator, same person, slightly closer to the shot. She leans forward to take sips of the wine. All right, let's see the shot. Yeah, it's fine. Nice."
+    },
+    {
+      "start": 775.22,
+      "end": 798.05,
+      "text": "Not sure. It's very dry and strong. Let me just finally show you final ad look like. No freaking way! My Italian husband just bet me $100. I can't tell the difference between his fancy bottle wine and boxed wine. So we're doing this. Yeah, it's fine. Not sure. It's very dry and strong. Ooh, I like this one."
+    },
+    {
+      "start": 798.05,
+      "end": 813.19,
+      "text": "Ooh, this one is also good. No, absolutely not that one. I love number three. That's my favorite. And number four. Number three is boxed wine. And number four is a 150 bottle of wine. No, that's it. Enjoy. Have fun. Make some cool stuff."
+    }
+  ]
+}

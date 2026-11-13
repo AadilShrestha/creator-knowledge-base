@@ -1,0 +1,31 @@
+1
+00:00:00,000 --> 00:00:27,810
+Okay, so what I want to do today is just explain to you the actual workflow, regardless of the AI software you're going to be using. So I have made this in Max Fusion, and I have made this also in OpenArt. The model doesn't really matter. In fact, I think they're all great. Ultimately, what you're going to be doing is you're going to be generating these kind of animations, like Pixar-style soft 3D cartoon images that match your actual script.
+
+2
+00:00:27,810 --> 00:00:45,620
+And then what you're going to be doing is you're going to be using a video model like Kling in here, like Seed Dance, and you're going to be working with start and end frames. So you can see here we have a start frame and an end frame. Inside Max Fusion is the same thing. You can use start and end frames. Almost every software has it. But ultimately the real...
+
+3
+00:00:45,620 --> 00:01:15,440
+difficulty in this whole process is knowing what to come up with for the shots so for example this is a video about a fruit that when extracted has this thing for cellulite so it was like coming up with these images that we're going to use so that we can then animate them was the the biggest task and everything else kind of takes care of itself once you start animating it because you can see like within the first three videos this is an example so the actual
+
+4
+00:01:15,440 --> 00:01:52,430
+AI model takes care of the animation part. And you can see as well, if we go into OpenArt, it was a very similar situation here. Or like this, right? And essentially, the number one thing you want to do is have a solid script. And the way that we do our scripting actually is looking like this these days, which is where we would go through and we will write down the actual script as usual.
+
+5
+00:01:52,430 --> 00:02:22,100
+we're going to be adding visuals like this. So these visuals end up becoming what we turn into 3D models. But what I've also done to make life even easier is if you go to the course module, if you go to video ads, and right here, I've given you a script to prompt generator. And what it is, is quite literally, all you have to do is input your script that you've written down. Let's say you want to input.
+
+6
+00:02:22,100 --> 00:02:52,180
+this, you know, if you're getting ghosted after dates. And then once you input the script, it's going to generate some ideas for you for the images, which is based on a massive document that I created of different scenes that are typical in the Zach film styles of videos. And then it's going to, once you select the scene, it's going to give you a prompt that you can then just copy and paste into whatever model you have. And this is exactly what I did here. So, for example, this image here was
+
+7
+00:02:52,180 --> 00:03:18,260
+this prompt i didn't think of it myself the prompt did it that i created for you guys i just want to make things as easy as possible and as because i know sometimes it can it can take a while to come up with these things but this is how we're doing our um generations and to be honest like you don't have to be super detailed the first video i ever made with this i just literally like was imagining what it would look like for every part of the scene
+
+8
+00:03:18,260 --> 00:03:31,650
+But this is a very fun type of creative. Let me know what you think of the modules. If you have any questions, always send me a DM and hopefully I will see some of the videos you guys make. Just drop them in the community and we'd love to review them. Thank you. Peace.

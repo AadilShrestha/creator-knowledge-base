@@ -1,0 +1,598 @@
+{
+  "source_file": "17 August 2026 - Call Recordings · Ad Creators Lab.mp4",
+  "source_id": "mega:5Y1lhJKB:lJk2lSBL",
+  "source_sha256": "12e1af790b34aa96a6990cefb7b8817254eaa971c8bd66085e36fa00ee4e63ce",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 3442.68,
+  "last_segment_end": 3440.18,
+  "segments": [
+    {
+      "start": 22.42,
+      "end": 74.7,
+      "text": "Hey Camilo. Yo. Yo, yo. What's going on? I think everybody is waiting inside Meatlink. Not here. For some reason I can't. Hello? Can you hear me? Can you get me? Oh, my. Okay, cool. What's up, guys? How we doing? What's up, Camilo? You guys good? Yep. Doing good, man. Awesome. Kelvin, nice to see you again, man."
+    },
+    {
+      "start": 75.79,
+      "end": 101.95,
+      "text": "yeah man appreciate it man how's your how's your weeks been it's been good i just dropped some really cool new stuff so i'm super pumped i want to just share just start the call by sharing what's new um i think you guys are going to find it super interesting i've been doing nothing but working on this so um all right cool i'll start off let me uh can you guys see the screen yeah sweet"
+    },
+    {
+      "start": 101.95,
+      "end": 131.42,
+      "text": "cool so what we did is we launched uh three new modules that are essentially locked by levels some of you guys might have already unlocked it i think probably muhammad i think you already unlocked one of these or something i'll have a look now okay have a look yeah so essentially the way that school works you have these leaderboards and you have you've probably seen this before you didn't really know what they meant it's basically whenever you get a like on a comment on a post you get points"
+    },
+    {
+      "start": 131.42,
+      "end": 159.9,
+      "text": "And so it encourages you to create good content and engagement and whatnot. But essentially, what we wanted to do is reward people who get a lot of likes for stuff inside the community. The first one is the arena. So this you get at level two. Now, the goal is that most people get this one. But the goal with this one is you're able to join a competition where we're going to host a competition here. We did it before. We gave away a bunch of stuff."
+    },
+    {
+      "start": 159.9,
+      "end": 189.36,
+      "text": "but essentially it's going to be like a theme so currently we have these games is running for the next 10 days and essentially you guys can win you know full year subscription of platform of your choice plus credits but also we cover all the credits that you use to make the ads so the top three winners get that so very similar to how we did it before uh we're just gonna have you guys submit certain ads for a specific theme so this theme is animated ads"
+    },
+    {
+      "start": 189.36,
+      "end": 219.28,
+      "text": "And we have a whole process for it where in the community, you can make the post, you can tag it as Arena. And I'll also be doing like a full YouTube video or like kind of breakdown reviewing your ads, which I have one example in here. So when you guys do, you know, when you unlock this, you can have a look at it. So I think it's gonna be super fun. It was really fun when we did it last time. I believe Christian came first, then it was Amber, then it was Richard."
+    },
+    {
+      "start": 219.28,
+      "end": 246.58,
+      "text": "christian was like i don't want the money give me a lifetime school membership so i was like okay um but yeah that's the first one what do you guys think about that i'm super excited to review some ads i think i'll be really fun i'll see this is sick this is so sick yeah we're back we're back with the games um yeah and we'll do it once a month as well and another thing that we're doing is i spoke to some brands that are in the community"
+    },
+    {
+      "start": 246.58,
+      "end": 275.76,
+      "text": "And they're probably doing some sponsorships as well, where they'll sponsor it for like, they'll put some money in it. And then the price will be bigger. Maybe have some collaborations with like, you know, like AI companies and whatnot. Maybe give away some equipment, you know, for those editors that like are stuck on a certain computer. I want to get a MacBook. I don't know. I don't know. The sky's the limit here. So I think it'd be really fun. I got a question, bro. Yeah. Could you do something similar to Econ Talent? Where like, they do..."
+    },
+    {
+      "start": 275.76,
+      "end": 304.03,
+      "text": "um the what is it christian the ad bounties yeah could you do something similar to that yeah i i um i initially wanted to do something similar to e-com talent but when we did a survey in this community and all the 50 percent of members are actually brand owners not editors okay compared to i only content i believe is mostly um there's a lot of career strategists and editors"
+    },
+    {
+      "start": 304.03,
+      "end": 331.52,
+      "text": "so i did i did consider doing that it was actually on the cards very early on um but i think for a lot of a lot of people a lot of brand owners here i want to say brand owners they're typically i think about two percent or five percent of them are doing like over 100k two million dollars a month and then like the majority are like you know spending a couple hundred dollars a day you know less than 10k a month so they're just trying to like make their first ads and scale their own econ brands so"
+    },
+    {
+      "start": 331.52,
+      "end": 361.42,
+      "text": "whilst it does incentivize the editors and the strategists it de-incentivizes those people so i don't know maybe maybe in the future we'll do something like that um but i think for ecom talent it makes perfect sense and carlos showed me how he does it and it's really cool um but yeah i if you if you want to do that ecom talent is a perfect place plus it teaches you i'm already in there okay perfect there you go so you're you get you get exactly you need from them all right good question um oh christian hands up"
+    },
+    {
+      "start": 361.42,
+      "end": 390.54,
+      "text": "This is great. Is that a hand up or is that a hello? I was saying hi to David. Hi, Christian. I love that. Cool. The next one for level four is a test lab. So this was I had a lot of guys asking me, like, how can we get more frameworks and stuff inside? So test lab, a lot of guys probably haven't unlocked it yet. But every month, myself and Justin, whatever we're testing live on the account."
+    },
+    {
+      "start": 390.54,
+      "end": 410.93,
+      "text": "uh with some clients we're just gonna report on it for you guys uh not sure how long we can do this for before we get like booted by the brands but for a lot of the clients that we have they're super chill so essentially we're showing you some of the ad formats that we're testing um they won't be proven yet so I'm not gonna turn them into a framework"
+    },
+    {
+      "start": 410.93,
+      "end": 440.77,
+      "text": "because we're still testing them live, like they might do really well, they might not, but they might actually work for your brand or they might not. So I think it'd be a really cool one for you guys to kind of like experiment, see what our thought process is and how we test a bunch of stuff. So I think this one's going to be super valuable. And then for level eight, the most interactive members, you basically get a free lifetime membership and you also get a dedicated inner circle chat and also inner circle call for anything you guys want to talk about. So you get more time with me."
+    },
+    {
+      "start": 440.77,
+      "end": 470.85,
+      "text": "so yeah i thought it'd be really cool to do that what do you guys think any any comments any suggestions imagine winning a macbook great i'm gonna get macbook recommendations with all with the price of ram at the minute that's a hell of a prize yeah 100 um so yeah cool that's that little intro bit we also updated the start here so i did some new modules here um for people could just"
+    },
+    {
+      "start": 470.85,
+      "end": 499.38,
+      "text": "maybe if you haven't if you're new to the community or like you're not really sure what to do next these modules come in here and i have a sneak peek of something um of that we're working on with the team this is this is a demo this is not like official um a lot of questions on which tools do i use so for example like which which tool do i use for for creating the motions for scripting etc we're trying to find out like from pricing to usability to speed which ones are the ones that"
+    },
+    {
+      "start": 499.38,
+      "end": 527.41,
+      "text": "uh we possibly that we use the most but also that you guys can use the most also creating a little wizard as well um because some people might you know do ads in english or spanish or whatever so some models are better at languages than others um and then like a little cost tracker here uh this is like direct api it's not from the platform so we're gonna have to add like a little section on okay if you're using hicksfield this is what it's gonna cost if you're using max fusion this is what it's gonna cost etc and then"
+    },
+    {
+      "start": 527.41,
+      "end": 555.62,
+      "text": "Because I have a lot of questions like, how much is an ad going to cost? And to be honest, it varies so much because a lot of your time can be spent testing the clips first and seeing what's working or not before you actually know what's really working. So yeah, I think this would be a really fun one for you guys. And also link to modules in the community for specific models too. So if it says, oh, you need to use Seed Dance, cool. I'll send you to the Seed Dance module that we're updating as well."
+    },
+    {
+      "start": 555.62,
+      "end": 585.62,
+      "text": "yeah i thought that'd be really cool a little sneak peek here but uh this would this will take at least like a few few night shifts um so yeah cool stuff i think we can um we can just start with uh ad reviews if anybody got any ads they want to share um just raise your hands put links in the chats yep um i've got copy like for three different ads"
+    },
+    {
+      "start": 585.62,
+      "end": 617.65,
+      "text": "Copy will be good. And then we'll do Gibran. He's got an ad. Are you writing copy yourself? Yeah, yeah, yeah. Boom. It's frying my brain. Did you attend Justin's school on Friday? Yeah, a bit of it. Not the full thing. Nice. So what I'll do, bro, I'll just put the link in the chat. Cool. It might be easier."
+    },
+    {
+      "start": 618.48,
+      "end": 648.08,
+      "text": "So this is for the first ads. These guys, they sell like a Kegel training program. So it's like pretty aggressive the way they do sort of sell everything. You said a training, a what? A Kegel training program. A what Kegel? Kegel. A Kegel is? It's a lady exercise, right? But they do it for men. Really? Yeah. So essentially it's just to help."
+    },
+    {
+      "start": 648.08,
+      "end": 678.34,
+      "text": "guys last longer in bed um oh i see okay right yeah cool okay and this i read this is the first thing i read and i was like can you just define what we're talking about yeah um you don't have a two minute before okay let's go okay cool i think i'm i'm getting it so i just i'll just read out loud what i'm doing when i read copy so we're obviously reading the hook um i'm not"
+    },
+    {
+      "start": 678.34,
+      "end": 707.12,
+      "text": "Typically when we write copy, we also put a little bit of information at the beginning. Like, oh, what's the stage of awareness? Like, who are we speaking to? What's the avatar? It just helps me when it comes to associating the copy to who we're speaking to. Otherwise, I could be like, oh, this hook is only for this target market or this person. And you're like, oh, that's exactly who I'm speaking to. I'm like, okay, cool. So do you have any kind of background knowledge on this? Like, what do you mean?"
+    },
+    {
+      "start": 707.12,
+      "end": 736.06,
+      "text": "like who the avatar is like what kind of stage of awareness where oh yeah i mean to be honest with you not really um i've just the only thing i know is that i'm just trying to get it in front of as many people as possible got it okay cool yeah cool cool all right so from just like reading this one like that first hook not not seeing the visual you're saying you don't have a two minute penis you have a weak pelvic floor um"
+    },
+    {
+      "start": 736.06,
+      "end": 766.3,
+      "text": "i would say this is for this will attract people who want to know more about what a pelvic floor is and so they have to be somewhat aware of what a pelvic floor is or at least have a curiosity on it um the the two minute the two minute penis thing i think you're gonna have to like this is crazy i'm saying it's a lot but anyways you have to basically find whether that is a term that people use like because you want someone to resonate with the words"
+    },
+    {
+      "start": 766.3,
+      "end": 795.76,
+      "text": "you're saying so they might not call themselves i have a two minute dick they might say like i don't last long in bed or like i'm like yeah one and done you know what i mean like there's probably different like it also depends on like what market you're in like in the uk you might say like you might have some kind of like um euphemisms that you use like using those words typically are better because they're more specific and they're going to resonate with those people better yeah"
+    },
+    {
+      "start": 795.76,
+      "end": 823.87,
+      "text": "So you can say something like you're not weak in the bedroom or you're not like a two-minute wonder kind of guy. You just have a weak pelvic floor. That's what I would say. Yeah, so this is going to be in Romanian. So I've written the English. In Romanian? Yeah, yeah. So I've already translated it. Yeah, there we go. You're playing a hard one. I'm just going to tell you. You're playing a hard one because you have to know what the Romanians say as well."
+    },
+    {
+      "start": 823.87,
+      "end": 853.41,
+      "text": "yeah so what i do is i make it in english and then i translate it to make it sound native in romanian yeah i would i would you'd have to find out i still haven't found anymore a very efficient way to do this for different languages but for example uh i'm from colombia and in a certain part of colombia you have certain sayings now i know them because i'm from the area but i've seen ads for colombians that are translated and i was like this is just this just sounds weird"
+    },
+    {
+      "start": 853.41,
+      "end": 879.81,
+      "text": "So for me to find those languages or what they say, typically it's really hard unless you're from there. But there are videos like TikTok videos on like, oh, how to sound like you're from this area, how to sound like a native, blah, blah, blah, blah. And they're typically like language channels, language creators. You'll have to get like maybe like AI to read a bunch of transcripts to get the right tones."
+    },
+    {
+      "start": 879.81,
+      "end": 907.86,
+      "text": "it's tip is it's hard i'm just gonna tell you it's really hard like if this was english american or or uk it'd be a lot lot easier yeah for sure so what what i do is basically um i'm making english um then i translate all of them and then i'll just send them over to the client and i'll say this is the copy let me know like what you think um does it sound okay in romanian does it not yeah and then yeah and then obviously then i'll just translate in polish and all the other languages and then he'll just send that to whoever's"
+    },
+    {
+      "start": 907.86,
+      "end": 936.93,
+      "text": "whoever will deal with like the polish ads or uh the other languages yeah okay um we'll just get through the the hooks and then like a little bit of the of the like body and bridge um so essentially this particular hook where you introduce you have a weak pelvic floor you're setting up somebody to get educated on weak pelvic floor so it has to really tie in with like a very direct educational uh breakdown of what a weak public floor is"
+    },
+    {
+      "start": 936.93,
+      "end": 965.68,
+      "text": "And it has to also not be obvious. Because if someone says, oh, it's obvious I have a weak pelvic floor, they'll just skip through it. It's almost like we had an ad that was like, the reason that girls don't want to date you is because you have bad breath. It's like, duh, scroll. But if you say the reason girls don't want to date you has something to do with the fact that you look good or that you're really well groomed, it's something that you can't even tell for yourself. What is it? And then you break down."
+    },
+    {
+      "start": 965.68,
+      "end": 990.03,
+      "text": "you go into a little bit more detail um so is it something they're not sorry no no go ahead i was gonna ask is it something that they're not expecting to hear yeah you could say that like there's different ways to approach the hooks like you can so here's why it's always good to get a bit more detail beforehand because typically what we like to do in our hooks is create an open loop is create some kind of like"
+    },
+    {
+      "start": 990.03,
+      "end": 1015.73,
+      "text": "unresolved thing so that you want to read the listen to the rest of the video watch the rest of the video so saying you have a weak pelvic floor is not it's not not a open loop it's it opens a loop was like to educate somebody on what a weak pelvic floor is but you could also create an open loop like it's to do with something you've you a muscle you didn't even know existed in your body you've never trained or a muscle you can train"
+    },
+    {
+      "start": 1015.73,
+      "end": 1044.59,
+      "text": "and you go what okay so now i have hope that i can train this muscle right is it a muscle pelvic floor someone yeah okay yeah i haven't made many ads like these people um so like i think like if you were to say you don't have a you don't you know you're not weak in the bedroom it's you you just have a a muscle you haven't trained like a weak muscle that you haven't trained before kind of thing and guys who like the gym and whatnot could be like oh this is this is solvable um"
+    },
+    {
+      "start": 1044.91,
+      "end": 1073.86,
+      "text": "i'll probably definitely like i wouldn't use exact words i'll definitely have a look at it you see the point i'm trying to make here yeah um so now now you've turned the thing that you're just saying oh it's you know the problem is your weak pelvic floor now you're creating an open loop and then now you can basically say there's actually a muscle you know it's called your pelvic floor and people that don't train it they experience lack of control and then that's why you you can't control yourself so yeah"
+    },
+    {
+      "start": 1073.86,
+      "end": 1102.13,
+      "text": "i think like if you're gonna get anything from from this is is to create more open loops in your in your hooks um yeah your second hook i definitely i'm not i'm not really sold on this one so just three weeks ago i was telling my patient that his electric toothbrush is lasting longer than him and now he's lost in 12 minutes here's how we did it i think the like it's hard to it's hard to relate to this if you're somebody who who sees this you're like"
+    },
+    {
+      "start": 1102.19,
+      "end": 1132.35,
+      "text": "this just seems kind of made up right right you kind of almost want to like think about what an actual conversation somebody will have like if you're if you're a this is an authority kind of character that's going to do this so doctor yeah yeah so a doctor could be like just three weeks ago i was telling my patient that there are people who can last more than two minutes and he didn't believe me now he's lasting over 12 minutes that's a bit more believable coming from an authority than because like you wouldn't want your doctor to"
+    },
+    {
+      "start": 1132.35,
+      "end": 1161.9,
+      "text": "compare you to a toothbrush um and also it's it's not as relatable to be compared to a toothbrush right right right um does that make sense though yeah yeah yeah oh for sure i mean i was um go on sorry i want to say yeah so i was telling my patient that there are people who can last more than two minutes and he didn't believe me and now he's lasting over 12. so here's how so there are patients who can last yeah okay"
+    },
+    {
+      "start": 1161.9,
+      "end": 1194.67,
+      "text": "no almost like future proofing like future pacing what he could be um so a little bit of the body the biggest change happens outside the bedroom most men wait until they're already closed um so rather than making a statement that's like the biggest change happens outside the bedroom you could just start with like uh did you know that to improve your how long you last is it it starts outside the bedroom or did you know that this actually starts outside the bedroom"
+    },
+    {
+      "start": 1194.67,
+      "end": 1224.94,
+      "text": "rather than making it a statement you can make a curiosity thing a lot of the time when you're doing like educational ads like these it's just about making it sound interesting like making it like a story uh drawing a lot of curiosity uh as to what you're going to talk about um rather than saying most men wait until they're close speak directly to them you probably wait until you're really close before you start contracting muscles in your body okay because you want them to nod and be like yeah"
+    },
+    {
+      "start": 1224.94,
+      "end": 1254.96,
+      "text": "i do he's the reason go on sorry bro no no go ahead um i was just gonna say like the reason i've done it like this is because how we were saying i think i can't remember i think it was like last week or a few weeks before that um he was saying for this sort of thing try and not lead with shame and maybe more of like a third coming from a third person's perspective so originally when i did write it it was more like direct to them but now i'm doing it more from a"
+    },
+    {
+      "start": 1254.96,
+      "end": 1284.67,
+      "text": "like third person's perspective um yeah i don't know if you think like this is gonna the way you're saying it's gonna be better for this then i'll do that i don't know i guess the only reason i'm saying like i agree with harry 100 it's just if you're listening to a doctor you probably listen more in this situation for this specific ad for this specific product if it says you're probably waiting until you're getting close i think i think you just get a lot i don't think it's shame at all i think it's more education"
+    },
+    {
+      "start": 1284.67,
+      "end": 1313.28,
+      "text": "it'll be shame if like if i said like you're you're i don't know i don't know how to make a shame thing here like you're probably feeling embarrassed aren't you like that's more like shame i don't think you should do that at all but if you say you're probably doing something or you if you you may be you may be like one of those men that wait until whatever yeah yeah yeah i would say that um let's give some space for other people to look"
+    },
+    {
+      "start": 1313.28,
+      "end": 1351.44,
+      "text": "uh show their ads um and then maybe we can come back to this one all right thank you of course this was fun were we sharing that or were we not sharing that at all i don't think we were okay let me get your brand uh hey coming i have a statics uh you have a statics ad yeah yeah yeah okay uh i have okay cool yeah you send it here one sec yeah yeah yeah"
+    },
+    {
+      "start": 1359.31,
+      "end": 1389.06,
+      "text": "just show the screen this one alpha brew i remember you yeah yeah oh nice that's a better headline than what we had before yes and other competitors so i was doing manual research um also uh in the in the last uh copywriting call with justin uh we went through"
+    },
+    {
+      "start": 1389.06,
+      "end": 1417.28,
+      "text": "in the copy together. And he helped me figure out what's needed to make writing copy easier and also help with the manual research process. So with the copies, I will be analyzing with Justin, but with the statics, I want to analyze with you. Yeah. So my main two thoughts are..."
+    },
+    {
+      "start": 1417.28,
+      "end": 1446.72,
+      "text": "it's a little bit hard to read what the two competitors are just because of the the yarn style um i'm i'm not sure if that's just me but i think like it's i always i'm always big on just clarity like make it really clear um like i think it's supposed to say booster yes booster maybe on a phone it's clearer maybe just here it's not but i'll always just try and choose images that are like like undoubtedly super clear of what it is even for somebody who might not know about these things"
+    },
+    {
+      "start": 1446.72,
+      "end": 1476.19,
+      "text": "But I think they're pretty decent. I'm not big on the green. I think the green, it kind of removes it. When you're using colors that don't match the branding of other things, it kind of takes away from the perceived value of the product. So it just looks a little bit like it was made on Canva. So I would just use the same style you have, that kind of gold, maybe like gold and then the text is black. You can just do that with GPT Image or Nana Banana or whatever."
+    },
+    {
+      "start": 1476.19,
+      "end": 1505.42,
+      "text": "um and on the copy here i i just i i'm just super against better like better is so vague like whereas like just better uh it's just not something that i would recommend you use like there's so many things you can say because you're saying there's no new habit uh because like you're not having to like take a syringe or like take some supplements or something so you could just say"
+    },
+    {
+      "start": 1505.52,
+      "end": 1535.41,
+      "text": "you can talk about like the the way that you take it you can talk about how um it's more effective because they talk about you don't forget to you don't forget to take it so i'll maybe just even say like no new habit okay just part of your routine is a better thing to say probably yeah i'm just yeah it makes sense yeah i'm just trying to avoid better better is just too vague you're very precise with this one so i like this"
+    },
+    {
+      "start": 1535.41,
+      "end": 1561.28,
+      "text": "two of these up in the draw yeah this is good i would definitely what's up yeah the the same uh problem with the cta button yeah um i would almost just i just delete that and just have these two in there to be honest just give that a test you already have one with this format have this one like a different format without this thing yeah and then also i might run this image again"
+    },
+    {
+      "start": 1561.28,
+      "end": 1593.71,
+      "text": "and just ask AI to say to do something like hey can you make the packet more contrasty or something it's lacking like a little bit of like a backlight or something so it really stands out it kind of blends in a lot with the background so I would just do something like that okay yeah and then this one oh nice what shutdown"
+    },
+    {
+      "start": 1593.74,
+      "end": 1623.54,
+      "text": "yeah uh no crashes uh no jitters yep is that from research like something yeah yeah yeah got it and lock-in what's lock-in um basically not lock-in uh basically just uh you are free testosterone uh can flowing uh naturally okay uh yep i think it might be hard to get that"
+    },
+    {
+      "start": 1623.54,
+      "end": 1653.42,
+      "text": "from what you said from lock-in uh i would i would pick like what you're saying no needle no shutdown no lock-in there's three different things you're mentioning here and that's in comparison to taking trt right i would almost like focus on the fact that i don't have to get like a prescription and then the other thing that you said which is like the crashes or something so i would be like no needle no prescription no no crashes um"
+    },
+    {
+      "start": 1653.68,
+      "end": 1684.59,
+      "text": "and then focus on the on these things here okay um i'm also on so you say the l-citrulline makes her notice you uh yes l-citrulline is for the blood blood flow uh yes okay okay basically i don't uh find my uh research doc right now because i will go to i have a training but okay"
+    },
+    {
+      "start": 1684.59,
+      "end": 1714.16,
+      "text": "First, first is the call. No worries. No worries. All good. All good. I would say most people that buy these things, they kind of want to know what the ingredients mean. So I like that you went for like an emotional and kind of like benefits driven statement for each ingredient. But I think just for the nature of this product, I would go like one step back and just kind of like, what does Elcitrine actually do for you?"
+    },
+    {
+      "start": 1714.16,
+      "end": 1743.89,
+      "text": "because we are talking about testosterone support we're talking about something's going to change how you feel and all of these things so i i would go like one step back first before you go into like she notices first or 2 p.m stops being the wall or something yeah right now i'm i'm working on uh one uh ai uh video nice basically uh i don't know i can say but not the the awareness level is like"
+    },
+    {
+      "start": 1743.89,
+      "end": 1770.08,
+      "text": "ingredients awareness or yeah it's quite weird but uh you know basically my idea is just the ingredients talking nothing else and uh yeah yeah so i would take maybe something from that like i'm l citrulline like as well so yeah yeah yeah yeah exactly exactly sweet sweet sweet"
+    },
+    {
+      "start": 1770.08,
+      "end": 1801.78,
+      "text": "nice man it's good good improvement from the last one it's 100 so you're on the right track for sure love to see you thank you so much thank you so much and thank you for christian as well because i'm also inside the e-com talent and yeah he stopped christian yeah he's sick um okay who else got some got gibran yeah whatever i sent you the uh the link here in the chat let's see"
+    },
+    {
+      "start": 1801.9,
+      "end": 1832.62,
+      "text": "Which one would you like to review first? The first one, the red one. Mate, I actually hate cockroaches. I can't deal with this. Every time I go to Columbia, bro, I see them and I just... It's disgusting."
+    },
+    {
+      "start": 1832.62,
+      "end": 1858.99,
+      "text": "Día 5. Dejas de encontrar bichos en la cocina y en las esquinas. Día 10. Ya ni te acuerdas del problema. Día 30. Volvemos sin que nos hables para tu siguiente aplicación. Día 60. Llega la inspección y ni te preocupa porque tienes tu constancia de servicio al día. Contrata."
+    },
+    {
+      "start": 1858.99,
+      "end": 1889.49,
+      "text": "That's actually a really good thing you mentioned about the inspection because it's something they probably worry about, right? Yeah, yeah, yeah. That's good. Nice. I think that's really cool. I think the visuals are really nice, like super clean, very professional. Like almost you want to see this kind of like high-end thing from like a service-based business. Something I would say is that, well, there must be some objections that they get."
+    },
+    {
+      "start": 1889.49,
+      "end": 1919.47,
+      "text": "you might have to find these from the client uh from anybody that they get a call so for example they might say like oh like does the you know how much longer do i need to be out of the restaurant before you can go back in for example could be an objection or i don't know like how many times do they have to come back uh after the first three days it'll be just good to address those objections in the ads it usually helps a lot for these kind of service-based businesses before they jump onto the"
+    },
+    {
+      "start": 1919.47,
+      "end": 1949.23,
+      "text": "something like um something like this"
+    },
+    {
+      "start": 1949.46,
+      "end": 1978.88,
+      "text": "it has to sound like a story you know it has to it has to sell you on the rest of the video if you like okay that's why i always treat the captions on the hook needs to kind of be like it needs to add to the video to make you want to watch the rest of it if that makes sense okay okay okay yeah it's just a different uh visual for the hook"
+    },
+    {
+      "start": 1978.88,
+      "end": 2009.02,
+      "text": "I think Amber had a little comment. Oh, hey, guys. No, I just had an idea. Like, one thing that I noticed that was really cool that you did is I like how you did the black and white in one section, but the X is in black. Maybe the X being in red would help with the contrast. Oh, yeah. So true. And then one thing I noticed that you did really good was, like,"
+    },
+    {
+      "start": 2009.02,
+      "end": 2036.72,
+      "text": "there's some camera movement, but it's not consistent. So like a lot of the, like for retention, like you see how there's no camera movement, but then some of them there is like that one there. Like if you can add a little bit of camera movement on each of the, like each of them, it'll help with the retention. Okay. Yeah. And it doesn't have to be like super big, just like, like a slow zoom, zoom in, zoom out, you know?"
+    },
+    {
+      "start": 2036.72,
+      "end": 2064.19,
+      "text": "i think like if there is consistency there like i personally would be more hooked personally okay okay okay all right yeah i'll do that i agree from um filmmaking uh zoom ins build tension and zoom outs release tension so like we we typically do at the beginning of our videos we're like zooming in to create more and more tension and then when let's say the solution is shown or whatever we like to release"
+    },
+    {
+      "start": 2064.19,
+      "end": 2093.78,
+      "text": "because like we like to come because when you zoom out you reveal more of the environment so it kind of like makes you calmer whereas when you zoom in you're kind of getting rid of the environment right it's getting it's getting closed in so but definitely here on the hook you gotta have like a like a zoom in um also i did i just realized as well uh you might need to reframe this because the cockroaches are like right at the bottom and you're gonna have like on the"
+    },
+    {
+      "start": 2093.78,
+      "end": 2120.96,
+      "text": "have the button of covering it it's a little bit out of the safe zone so or what you could do is maybe start zoomed all the way in on the cockroach and zoom out yeah you could do that as well yeah oh but she said you said you do the reverse don't you huh you said you zoom in and then yeah yeah like that yeah zoom in on her like what is going on and bam like a fast amount like okay okay"
+    },
+    {
+      "start": 2120.96,
+      "end": 2146.34,
+      "text": "I think the other hook's way better. I already uploaded. Yeah. Oh, gosh. It's so bad. That is a lot better for sure. And definitely you can do the text at the top. Yeah. This one definitely for sure passes the..."
+    },
+    {
+      "start": 2146.34,
+      "end": 2177.23,
+      "text": "like over the shoulder like what is going on like definitely some very hooky the last one it's it's more like on the emotional side i think the issue is the the save zone uh i would also do just for meta i would just do like a different audio just so it does get spent sometimes it doesn't um like with our hooks we tried to either change the visual but we also sometimes change the audio or we make the hook longer so"
+    },
+    {
+      "start": 2177.68,
+      "end": 2207.98,
+      "text": "You can do, like, primeros treinta días de contratar un programa de fumigación. Something like this. Yeah. Okay. Okay, so it's different. Okay. Yeah. Do you guys have any other ideas for, like, any other styles or concepts for this type of services? For fumigation specialists? I would do, like, an objections only."
+    },
+    {
+      "start": 2207.98,
+      "end": 2237.42,
+      "text": "like answering questions that people have like i would do something like uh you know you know the questions box that people usually have on like instagram when you respond or tiktok so it's like um for example you can make up the questions just make sure that they are questions that people actually ask so something like um you can get them from the reviews sometimes if someone says oh these guys were so good they arrived uh they arrived on time they said it was going to take two weeks but it took one week"
+    },
+    {
+      "start": 2237.42,
+      "end": 2266.8,
+      "text": "so you can say something like a question could be how long does it take to get rid of an infestation and then somebody's responding it could be like an ai character it could be a like a claymation guy and it's like typically it takes you know 10 days or five days to do it but it depends a lot on your space and whatever um just make sure they're questions that people actually ask that's a really good concept for service-based businesses or that always crushes okay okay i'll try it again"
+    },
+    {
+      "start": 2266.8,
+      "end": 2310.16,
+      "text": "All right. Good stuff. Water bugs in Texas? Nah. They're monsters, mate. Joris. How do we pronounce that? Is he here? He's muted. Let me share it anyway. Okay, we've got Joris's ad. I hope he's still here. Love wearing sleeveless tops, but I was always self-conscious."
+    },
+    {
+      "start": 2310.16,
+      "end": 2339.44,
+      "text": "Going to the gym every day or doing yoga. I used to love wearing sleeveless tops, but I was always self-conscious. Going to the gym every day or doing yoga at home just didn't work for me. Then I found Soonbody and it was a game changer. I uploaded a photo, took a short quiz, and the app created a personalized Tai Chi walking plan just for me. No more worrying about getting injured. No more wondering what workout to do next. Now I let Soonbody guide my routine because I know I can actually stick with it. Most days I'm done in just 10 minutes."
+    },
+    {
+      "start": 2339.44,
+      "end": 2368.94,
+      "text": "okay so i can give you like like immediate feedback on just some of the things that uh kind of caught my attention so i think for you is mostly on matching the visual to the script more accurately so for example she says i used to love wearing oops sorry sleeveless tops um but i was always self-conscious so the first one is a sleeveless top then this is one where you can see her butt so there's only one place i'm looking"
+    },
+    {
+      "start": 2369.07,
+      "end": 2399.04,
+      "text": "the text um and then the next one is again like seeing her arms so i think like if we're gonna stick to the whole like like the arms is what she's subconscious about we should definitely have three shots of her being subconscious about her arms um and then i would say i'll talk about the copy in a second but here she talks about not worrying about getting injured and we're showing her in front of the mirror"
+    },
+    {
+      "start": 2399.04,
+      "end": 2427.2,
+      "text": "really happy um and i and for the reason people do the tai chi thing is because they don't they want low impact training they don't want to go to the gym run or anything and so we got to see her kind of like you know maybe trying to run or or somebody else running and just have fear of running for example uh because this it doesn't really sell it like you're gonna find it hard for people to feel like"
+    },
+    {
+      "start": 2427.2,
+      "end": 2454.13,
+      "text": "that this is the thing for them if it doesn't show the visuals that match what they're experiencing um so i would say that another thing is that we just jumped straight into the app really quickly so going to the gym every day or doing yoga just didn't work for me why why didn't why didn't it like why not like if if you're trying to set an app for a certain workout it has to go into detail and call out the things that people are thinking about"
+    },
+    {
+      "start": 2454.13,
+      "end": 2480.51,
+      "text": "so it didn't work for me because i'm a busy mom or my right knee hurts after the age of 50 or i was always too scared of going into the gym because all these really hench guys muscular guys are looking at me blah blah blah so there wasn't enough enough pain built at this at this stage um or we like to call twisting the knife so you said you just stabbed her with like it doesn't work for me but you gotta twist it with like"
+    },
+    {
+      "start": 2480.51,
+      "end": 2512.27,
+      "text": "this is this is why and this is why this is why it just went straight to the app so you're gonna find people just kind of skip unless they're like super interested in the app i don't know if that makes sense um but yeah uh and also just on the on the uh scripting side we're not very big on saying like you know we did this and this was a game changer those those tip those things are not specific enough for for we've never had an ad that we that crushed what we said this was a game changer"
+    },
+    {
+      "start": 2512.27,
+      "end": 2540.51,
+      "text": "like i mean it's just it's just like a rule that we have in the agency we typically want to just be very very specific so for example then i found it was a game changer i uploaded a photo took a stroke quiz like all of these things are talking about the app are just features that the app has like why in particular was this app a game changer you know you can do you can talk about how uh you know if you build a bunch of pain you can say but then i found a quiz online"
+    },
+    {
+      "start": 2540.51,
+      "end": 2570.29,
+      "text": "that helped me find a workout plan that allows me to work out whenever i want without any high impact strain on my knees and the workout was actually tai chi now tai chi is this old thing from whatever time and uh it allows me to burn fat like that's that's how i would explain the the game changer side of it without saying the word game changer because the word game changes is very vague um"
+    },
+    {
+      "start": 2570.7,
+      "end": 2599.6,
+      "text": "yeah so i would say that and then also in terms of the visuals i would definitely have a look at the pinterest method that i have just to make the visuals a bit more realistic currently they look a little bit ai-ish um a bit too brushed too perfect um the mirror is is squeaky clean i don't know who has a full-length mirror that's perfectly clean because i know i don't um so yeah just uh i'll work on those things that's what i'll say for you"
+    },
+    {
+      "start": 2600.98,
+      "end": 2630.96,
+      "text": "That makes sense. Anybody got any feedback or does that resonate with anybody? Any questions? I'll share really quickly one thing you can do on those, those, the visuals for that. I'll share a line. I don't have it right off the top verbatim, but if you put candid photo, TikTok style with uneven angles, as if a friend was recording it, it will drastically change."
+    },
+    {
+      "start": 2630.96,
+      "end": 2661.82,
+      "text": "the output i'm like messing around with it right now actually i was gonna see like doing that in the prompt you mean yeah like in the image prompt itself so or and then also at like or saying tick tock style angles if you don't remember how to say like eagle eye or where am i um doing that can actually drastically help as well on like the output of the image yeah because when it's like dead on like all those images were dead that's a"
+    },
+    {
+      "start": 2661.82,
+      "end": 2689.52,
+      "text": "flat like giveaway that it's it's ai 100 i mean you gotta think about it how would a real creator set up a a video it will never be perfect they have to put their phone somewhere maybe get a tripod like it's gonna have a a slight slanted thing if it looks too perfect it doesn't look like native content so yeah i agree with that i think if i can find it i'll copy it and paste it in the group yeah thank you that'd be sick"
+    },
+    {
+      "start": 2689.52,
+      "end": 2720.74,
+      "text": "Christian also mentioned that he uses TikTok, just searching on TikTok itself. I think we started doing that. Then we went to Pinterest. But it's true. Pinterest now has a lot of AI stuff. So it's gone the other way around. So, yeah. Okay. Who else? Zach D. I have another question. Sure. For the animation style, the video, I used David's skill."
+    },
+    {
+      "start": 2720.74,
+      "end": 2751.18,
+      "text": "and it really helped me out do you guys have like any other skill i think i installed the skeleton skill are there any other new ones are coming up where we're updating the the zag d1 and then the object one and then we'll have some other ones coming from some other proven formats we found okay yep the zag d ad that i just submitted that one was made with the uh"
+    },
+    {
+      "start": 2751.18,
+      "end": 2774.3,
+      "text": "The exact skill that I'm making a YouTube video about like right now like it's gonna be posted in the next 24 hours If you feel like keto is too hard too boring and you can't find anything for thermomix Maybe it's because nobody told you the one secret that makes everything 10 times easier"
+    },
+    {
+      "start": 2774.3,
+      "end": 2802.7,
+      "text": "Why is it that some people do keto for years with no issues, no boredom, no spending hours searching for recipes, while others struggle and quit after two weeks? It's the same diet, so why are results so different? Contrary to what most people think, it's not willpower and it's not cooking talent. The difference is something else entirely, and most people don't even know this difference exists. So how do people who succeed at keto do it?"
+    },
+    {
+      "start": 2802.7,
+      "end": 2832.46,
+      "text": "They have a ready system. Recipes tested, calculated, ready to use. That's the whole secret. You can build a system like that yourself, but it takes time. Collect recipes for months, test them, calculate macros, convert everything for Thermomix. Or you can buy a ready system from someone who already did the work. For the price of your weekly coffee, 500 keto recipes with all macros calculated, one-click import into CookieDoo, and a Thermomix."
+    },
+    {
+      "start": 2832.46,
+      "end": 2862.35,
+      "text": "cookie do that finally works for you not against you link below so far i love cookie do i would have i would have blurred this or you can just to just to have that reveal at the end um and then i would have done like here you kind of you're kind of sold and then like after this maybe just some features about the recipes um i would have gone into that but i think this is sick i like it"
+    },
+    {
+      "start": 2862.64,
+      "end": 2892.1,
+      "text": "Thanks. I wrote the headline real quick. I didn't put any work into the English because it's supposed to be in Polish. So I did it really quick in English so that we could have it for the call. What did you think about the headline? I'm sure the headline could have been better. I just wouldn't go for the stomach angle for this. No, that's not the updated one. That's weird."
+    },
+    {
+      "start": 2892.1,
+      "end": 2924.88,
+      "text": "it exported wrong uh the one that i wrote was fucking cap cut um okay let me try to remember what it was uh i made it like i would do something like this is why keto doesn't work in 2026 yeah i i did i i did something like the one"
+    },
+    {
+      "start": 2926.0,
+      "end": 2956.21,
+      "text": "like the secret that will get like the headline was decent that's annoying that it exported wrong i guess i can't get feedback on it if i if i find it in the next like five minutes i'll let you guys know that's all right i would i would think when i'm thinking of these headlines i think about like how would a theme page that educates people on these things how would they do a headline so i'll do something like why keto doesn't work in 2026 or um if you've tried keto and failed"
+    },
+    {
+      "start": 2956.21,
+      "end": 2984.85,
+      "text": "it wasn't because of whatever or it was because of this kind of thing um because that way you're you're setting up that this is a video about keto and like if i get through keto like i shouldn't do keto right whereas if you say like the flat stomach one like i don't think it was as good because like the video is about keto itself so it's not we can't make it unaware about the flat stomach or like yeah i'm just"
+    },
+    {
+      "start": 2984.91,
+      "end": 3012.88,
+      "text": "yeah the flat stomach one that's like a template that i have it's like in capca that's the template so it's like it has nothing to do with this video uh it's just for some reason i don't know why capca didn't store the title modification that i made i just exported real quick so yeah is what it is anybody got anything else any quick we can do a quick q a for the last eight minutes"
+    },
+    {
+      "start": 3012.88,
+      "end": 3043.23,
+      "text": "We have another call on Thursday. Couldn't do one last week. Sorry, guys. But I think I've made it up to you guys for these new releases. I don't have an ad question. Did I see a video where you said you were doing some basic editing with AI? Yes. Were you using an FFMPEG? It was a mix of that. But I was also using an MCP with"
+    },
+    {
+      "start": 3043.23,
+      "end": 3072.56,
+      "text": "uh max fusion you can use hicksfield and it uses google omni flash to edit and add to the video google omni flash is very good at adding things to things so i literally just like a raw video and it just added subtitles it added um b-roll and i generated b-roll but also because i used cloud code i had a folder of a bunch of b-roll like you know uh screenshots of stuff"
+    },
+    {
+      "start": 3072.56,
+      "end": 3101.6,
+      "text": "and it went into that folder like it found segments of it and it put it in the video too so there's going to be a whole whole video on that um on how to edit fully with ai um because basically what you can do is like once you've because you're going to get a bunch of errors obviously and you have to go back and be like do this do whatever but at the end of all of that experimentation you can have a step-by-step process for a specific look and feel of a video"
+    },
+    {
+      "start": 3101.6,
+      "end": 3132.7,
+      "text": "So you can then turn it into a skill. So then you can say, hey, for any time I want to do a claymation video, I do slash claymation edit. What does it do? It takes away that really weird, awkward half a second where the clip sucks. Cool. It's going to add music. It's going to add slow zoom-ins here and there. It's going to add the subtitles and a text caption. Oh, my bad. That's it? Oh, my bad. I've been excited about it because I've been trying to figure it out for a while, but I stopped because the one thing that frustrates me is,"
+    },
+    {
+      "start": 3132.7,
+      "end": 3158.91,
+      "text": "Sometimes instead of iterating, it's quicker if you could just edit it yourself, like whatever gaps it missed. So I've been trying to figure out, there's a way to do it, but I haven't figured it, how it can edit inside of CapCut and give you a CapCut file at the end of it. So that way, if it's just a small tweak or something, like you end up with a pre-done CapCut thing, you can go in and I know it's possible."
+    },
+    {
+      "start": 3158.91,
+      "end": 3182.14,
+      "text": "And I was thinking the same thing as you, where I can feed it my actual CapCut project files for multiple different styles and it can kind of see, you know, what I did. So that's something that I'm like. I have something like that. I've built something like that. But you should know that CapCut is actively like trying to stop people from doing it."
+    },
+    {
+      "start": 3182.14,
+      "end": 3210.77,
+      "text": "Yeah, I know. I need to switch to Premiere Pro. I've seen a lot of people doing Premiere Pro. You know, CapCut has their automatic updating system. So they don't even tell you. You don't even have a choice. You can't even stick on an old version of CapCut. Oh, yeah. I noticed that. They just implemented some super annoying restrictions because they have their in-house editing agent. So they're trying to block it. It's super annoying."
+    },
+    {
+      "start": 3210.77,
+      "end": 3237.23,
+      "text": "The only workaround that I've done is the AI will get you like 90% of the way there and then you just then pull up CapCut for now. You know what you could do? Because from what I was doing, it wasn't editing inside of CapCut. It took, what is this? Not Jason. Was it Jason? It's a code. They actually, it's a code file. And so you're importing a code file into CapCut. So as long as they don't block."
+    },
+    {
+      "start": 3237.23,
+      "end": 3264.58,
+      "text": "The ability to import. I'll find the video because I found it. Yeah, they changed it. They changed it. You have when you upload assets to CapCut now, they generate like unique IDs for each individual clip. And so there is a strategy like I use I still use it to edit like my videos, like my YouTube videos to cut out like some of the fluff because I just like I just filmed the full walkthrough."
+    },
+    {
+      "start": 3264.58,
+      "end": 3291.38,
+      "text": "But the only reason it works is because I upload the file myself and then it has the validated ID so that it can edit. But it doesn't work anymore for uploading. It's super annoying. Maybe there is a workaround, but I haven't found it. So I think the best thing is to probably work with another editor. Yeah, I know there's a bunch of plugins for Premiere Pro that people need."
+    },
+    {
+      "start": 3291.44,
+      "end": 3317.17,
+      "text": "I think that for Premiere Pro you need to have like a paid version if you're gonna do that. I asked Claude and you can't work with the... But you can use DaVinci because DaVinci is free. And then you can try with that. It's worth it. If it'll save 20, 30 minutes, you know, even 10 minutes per, you know, it's worth it, I think. I'll sync my connect to Adobe and see what we can figure out."
+    },
+    {
+      "start": 3318.19,
+      "end": 3346.38,
+      "text": "Yeah, check out some of those plugins, because people already have the plugins for Adobe on it. And CapCut is just so much easier to use sometimes. Have you tried Remotion, Amber? I've heard of it. Isn't it like FM Impact as well? No, Remotion is like an open source library. It's like an open source editor, similar to CapCut."
+    },
+    {
+      "start": 3346.38,
+      "end": 3372.69,
+      "text": "but worse like it's it's shitty it's it's very shitty but i'm trying to like like make some improvements i'm trying to make some improvements so that it has the same function or same feel as cap cut because i totally agree with you that like you know if you don't have the ai like making editing like an editing timeline then like you can't go and make like the"
+    },
+    {
+      "start": 3372.69,
+      "end": 3403.71,
+      "text": "you know like adding two milliseconds five milliseconds at the end or you know cutting it a bit shorter and so it just like ruins the whole the whole experience um but then you have to have like a good experience for doing it so i think right now the best thing is either remotion or davinci for sure because kapka is just like blocking everyone it's annoying yeah something that we definitely want to experiment i think um i think i'm interested to see what the future holds for that"
+    },
+    {
+      "start": 3403.71,
+      "end": 3432.8,
+      "text": "Because if you can get it to a basic level, it can help your place. You know what I mean? If they're putting together and trimming, even that in and of itself is super valuable. Yeah, just spend more time on the important parts, which are generating the visuals, making sure they're good, relevant, more time on the scripting. Yeah. Cool. Cool. All right, guys. Well, thank you. Have a good rest of your week. I'll see you Thursday."
+    },
+    {
+      "start": 3432.8,
+      "end": 3440.18,
+      "text": "we've got david's cool later this week and so yeah guys all right see you bye"
+    }
+  ]
+}

@@ -35,5 +35,8 @@ updated: 2026-10-20
 ## Where it's mentioned
 [Live With Sarah, May 14, 2025](../courses/tether-lab/05-live-recordings/2025-05-14-live-with-sarah.md) (story frameworks session).
 
+## In other courses
+- **Ad Creators Lab** uses ElevenLabs for AI creator voices and voiceovers: Voice Design for a new voice, v3 audio tags with Enhance, and instant clones only from clean audio you own ([L27](../courses/ad-creators-lab/ai-ads-ugc-animations/lessons/027-consistent-voices-method-1.md), [L28](../courses/ad-creators-lab/ai-ads-ugc-animations/lessons/028-consistent-voices-method-2.md), [L41](../courses/ad-creators-lab/ai-ads-ugc-animations/lessons/041-skeleton-generating-voices.md), [L57](../courses/ad-creators-lab/ai-ads-ugc-animations/lessons/057-claymation-generating-voice-over.md)). One lesson clones a real creator's voice from YouTube ([L67](../courses/ad-creators-lab/ai-ads-ugc-animations/lessons/067-zack-d-films-voice-clone-song.md)): don't execute; see [AI creator compliance](../courses/ad-creators-lab/ai-ads-ugc-animations/concepts/ai-creator-compliance.md). Settings: [tool settings](../courses/ad-creators-lab/ai-ads-ugc-animations/libraries/tool-settings.md).
+
 ## Related
 [ChatGPT](chatgpt.md) (writes the script) · [Sarah Levinger](../people/sarah-levinger.md)

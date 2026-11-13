@@ -1,0 +1,28 @@
+{
+  "source_file": "4. 💪 Meet The Team.mp4",
+  "source_id": "mega:5Y1lhJKB:gFtkTQqK",
+  "source_sha256": "10ce4af00d0f5e90faa6f8afb9fe7d41a597dd2830d54a91a31497db58ead90b",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 82.62,
+  "last_segment_end": 82.62,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 29.33,
+      "text": "All right, so Ad Creators Lab is built on the back of our agency Epic Ads Lab and the members that are in here are either going to be from the agency directly who are actively doing the things that we are teaching so you know they're actual practitioners or they're brought in externally from people who have their own thing going on. So let me introduce you to some of the team and by the time you're watching this video we might have had more coaches. So the first one is Justin. He is the partner of the agency as well as the head CS. He's an expert when it comes to"
+    },
+    {
+      "start": 29.33,
+      "end": 58.54,
+      "text": "to copywriting and writing ads. He actually has a call every week where you can bring your ad scripts to get reviewed and he'll go through the same process with you that he does with the agency. Next is Howie, who is an expert in psychology of ads. I don't know anybody who has studied psychology to the level that he has, but not only is he very good at psychology, he's also an expert when it comes to finding really good ad formats and he's responsible for these ones here. And then you have the call with me, which are the ad roasts. I review hundreds of ads every single week."
+    },
+    {
+      "start": 58.54,
+      "end": 82.62,
+      "text": "And I've seen ads scale and fail, all from different businesses at different stages. So I will definitely help you in improving your ad creative. And last but not least, we have our video editors from the agency who have made videos like these, who will be doing a call every week when they can, because they're very busy, breaking down how they make their own videos. So tons of people for you to meet and learn from. And I'm very excited to see what you learn."
+    }
+  ]
+}

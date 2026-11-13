@@ -1,0 +1,47 @@
+[00:00:00] Okay, now we got pretty much the easiest part of this whole process, which is the editing So what's good about this type of creative is that you can just piece things together once you have the voiceover So I just downloaded the voiceover and I dragged it in here So what I'm doing is I'm going for the audio and I'm just trying to cut out the gap So I'm just going to here I'm pressing S and you can you can drag it to the point where you you're happy or you can just cut to two spaces like that
+
+[00:00:29] and you can see the pacing is a bit better day one learn the frameworks to create winning and i just do that for the rest of the video day 10 you double your creative output because you're making five okay cool we have the voiceover pretty much cut then we're gonna get our song which is that one i'm just gonna drag it in what happens if you join ad creators lab for the gonna just change the volume so it sounds good you never want the music to be too loud
+
+[00:00:58] What happens if you join ad creators lab for the next 30 days great now all you have to do is Honestly, it's so easy. You just now just drag in the clips and we just start here what I wanted in this video was for the skeleton to shrug Get their phone out and then it cuts to the phone Shot here, which is this right? So by the moment you can see this clip what happens if you join ad is too long So what happened?
+
+[00:01:27] What I can do is I can start it at the movement here. I'm actually gonna like cut so it does that and Then I'm just gonna lock the timeline so I don't cut into the music and the audio And it just cuts to this so it's basically a jump cut here So it's what happens if you join app and then I'm gonna make this one fast Join ad creators lab better. That's way better. What happens if you join ad creators?
+
+[00:01:57] Now one thing, this is a bit high level, but you want to cut to the pace of the audio. So he says, what happens if? So I'm thinking, I want Ad Creators Lab to show up when he says Ad Creators Lab. So I kind of want that to stop there. So I'm doing, what happens? And if, we're going to show the,
+
+[00:02:26] And we might just do, rather than him reaching out, we just do this, the taken out. And we have Ad Creators Lab here. And that can give us more time here, actually. So we can change the speed up a little bit here. Now, three things have happened in the first few seconds.
+
+[00:03:03] what happens if you join ad creators lab for the next 30 days great now we can start day day one so i'm gonna cut away so what i did here is i want to cut and delete everything on the right and i can just use w on my keyboard i don't have to like slice it and delete it i just use w on my keyboard day one learn the frameworks to create winning so to create
+
+[00:03:28] winning ads i want to cut and i want to show the framework winning animated and ai learn the frameworks to create winning animated and okay so one this is very high level editing but you see how this shot is zooming in slowly then winning then this shot is static and then it starts to zoom in that's what i call a jarring car like it's not a nice shot to look at and so it's always good it's like if something's zooming in the next shot is also zooming in
+
+[00:03:59] And so I'm going to cut all the dead space where there isn't a zoom in. I'm going to do Q to cut everything from the left. And I'm going to put them together. And you're going to see what it looks like. Day one, learn the frameworks to create winning animated and AIUGC ads. Boom. I might cut it a little bit sooner. I might just do it a little bit sooner here. Winning animated and AIUGC ads. Day five, your AIUGC ad.
+
+[00:04:29] Day five, so that's this one. Very happy, go lucky guy. Day five, your AI UGC ads look like real ads and are starting to perform. And I'm starting to perform. And I think this one, I believe. So I just added this shot of him on the ads manager. And are starting to perform well on your account. Day 10, you double your creative output. Day 10, you double your creative output. Now I did realize that I'm missing a shot here.
+
+[00:04:58] mainly because I use this shot that is kind of incorrect, which you might realize when you're editing the videos, which is fine. So I'm generating that now, but whilst it's being generated, I'll work on the other ones. Because you're making 5 to 10 ads per week. Day 15, you start increasing your ad spend by... This is the increasing... Day 15, you start increasing your ad spend by 100% instead of incrementally by 10 to 20%. Same thing here, I just found something like...
+
+[00:05:27] I can add here. Day 20. Now this one I can probably just slow down. Which is fine. And what I can do is just to make it cool is I'm going to go to video.
+
+[00:05:54] I'm going to do a keyframe on scale and position. I'm going to go to the end and I'm going to just add a slow zoom in to that shot. And then we'll see how that looks. Alright, I've got my generations back. So now I'm going to add that here.
+
+[00:06:23] Instead of incrementally, I need a shot for that. Okay, so what I did is instead I created contrast by generating one that's this kind of lever and one that's like a small dial. And you can see he's like locked in with his glasses and here he's sad.
+
+[00:06:54] And I think what I might do here is I might just adjust this and just make it black and white to look like what it was before. And then I just want to match it so when it says instead, it cuts to the instead. That's pacing 101. And if it doesn't match here in speed, we go to speed.
+
+[00:07:22] instead of incrementally by 10 to 20% day 20 you find a winning ad and scale it to $1,000 per day day 20 this one is on the forum you share your wins with the day 25 you share your wins with oh what I did that I thought was quite cool is that for this shot of him sharing the wins is the same setup but I wanted to add some kind of products in here a lock-in sign
+
+[00:07:56] your wins with the community and a brand twice your size shows you what they're doing day 30 you've hired a video editor from the community and now you're doubling your creative output once again you've now built your own small e-commerce empire because you decided to take ad creations seriously boom that's it like the video is done this didn't take long at all probably like 10 minutes plus another few minutes and just generating some additional shots
+
+[00:08:23] But it's pretty much done. Next thing I'll do is just add captions. So we're on Capco. Obviously, it just depends on whatever you're using. My whole rule with captions is one line, minimal words. That's how I like it, just because that's how I like to consume captions. I don't like two to three rows of captions. And so you can see here, this is what we get. So just one main thing is that regardless of what you choose, you want it to match the...
+
+[00:08:52] pacing of the video so what I'm gonna do is actually not do any templates at all and instead I'll just do a very basic pretty thick stroke and then what you have to do is essentially go what happens if you join what happens if you join and then you just have to go through the captions and just break it up what happens if you join ad creators lab for the next 30 days what happens if you join
+
+[00:09:27] and then i'm just going to match it so i'm just going to move this here and here add creators lab for the next 30 days day one learn the frameworks to to create learn the frameworks to create winning animated and animated
+
+[00:10:01] Am I just, like, AIUGC ads look like real ads. Day 10, I want to break that one up.
+
+[00:10:49] all right so now i've done all of the text here's what it looks like from the beginning what happens if you join ad creators lab for the next 30 days day one learn the frame so pretty simple i like the text to be minimal on the screen there are two lines but it's okay for example like here that's fine as long as as long as it's within the safety zones and everything one thing that we definitely need to do now is add a text caption somewhere something like um very native
+
+[00:11:21] Shopify owner maybe something like this POV or Shopify store owner in 2026 just to kind of have the identity aspect what happens if you join ad creators lab for the next 30 days day one that could be something not the strongest one in my opinion what happens if you join ad creators lab happens if you join ad creators lab for the next 30 days day one learn
+
+[00:11:53] But this concept is pretty straightforward, so I don't think we need to overcomplicate it. But the video is now done. It's essentially ready to go. I'm going to export it, maybe do a few hooks and test it. So yeah, that's the whole editing process start to Z.

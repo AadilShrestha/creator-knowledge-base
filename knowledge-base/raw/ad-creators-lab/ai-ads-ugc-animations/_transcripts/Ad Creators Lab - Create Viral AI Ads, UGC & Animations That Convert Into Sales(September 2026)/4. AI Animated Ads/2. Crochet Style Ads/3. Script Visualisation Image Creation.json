@@ -1,0 +1,133 @@
+{
+  "source_file": "3. Script Visualisation Image Creation.mp4",
+  "source_id": "mega:5Y1lhJKB:VQlmAY4b",
+  "source_sha256": "beaf4d25e73314c1880a74ae1a800bdc74fb394a187051b4bdc64ef64b2872a6",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 635.52,
+  "last_segment_end": 635.52,
+  "segments": [
+    {
+      "start": 0.14,
+      "end": 29.23,
+      "text": "Alright, so you're gonna firstly go to Claude, Customize, Skills, and you're gonna click the plus sign, Create Skill, Upload Skill, and you're gonna upload the skill that I provided for you as a zip file. I'm gonna just explain what the skill does for those that care. If you don't care, just skip the section. Essentially, what it's gonna ask you first is whether you're gonna have a character, right? Are you gonna have a consistent character? Because if you are, it's gonna give you a prompt to generate a character. Kind of like this one here where we have this guy as a character."
+    },
+    {
+      "start": 29.23,
+      "end": 48.16,
+      "text": "Now after that, it's going to break down your entire script and then give you different visual suggestions like this. So for phrase one of the script, here are some suggestions. I know a lot of you guys struggle to think about what kind of visuals that should go in the video. It's based on fundamentals of"
+    },
+    {
+      "start": 48.16,
+      "end": 75.92,
+      "text": "attention and attracting eyeballs it's trained on breakthrough advertising and what good visuals work and what good ads work so it's going to give you some suggestions that are going to match your script very well each idea is going to be different so you're going to get a nice variety it'll be one to two sentences it'll be a mix of different types of shot styles then what you're going to do is essentially just submit the phrase and the visual that you like and it's going to give you a full storyboard image with prompts for it so essentially it's going to be like"
+    },
+    {
+      "start": 75.92,
+      "end": 91.62,
+      "text": "explanation of that scene, the prompts that you need, whether you need to do in and out frames or just one in frame and the video prompt. I'm going to make it super easy but let me actually show you what it's like. So what I'm going to do first is click these three dots and do try and chat or if you like you just press"
+    },
+    {
+      "start": 91.62,
+      "end": 107.63,
+      "text": "forward slash and you do crochet add visuals then i'm going to just upload my script which is going to be this one here it's going to be the cologne wrap and i'm going to just click run now you know it's working when it does this reading the crochet add visual skill very important and it has to be the symbol"
+    },
+    {
+      "start": 107.63,
+      "end": 131.57,
+      "text": "If it's not doing that, it's not working. Now the first question is going to ask you if there is going to be a character. A is yes, but you give it a description. B is yes, but it's going to suggest it. I'm going to say A and do something like an African-American male, early 30s, late 20s, lives in the city, is looking to smell good because he goes out on dates a lot, plays video games, likes tech, makes a decent amount of..."
+    },
+    {
+      "start": 131.57,
+      "end": 157.82,
+      "text": "income. That is just some basic information. Obviously, you want to match it to your avatar when you're doing your research. Make sure don't make things up. Okay, so we get the character set. Here is what this character is. This isn't a prompt. Don't use it as a prompt. It doesn't work. But you also get the different phrases and you see each phrase is separated by different ideas. So you see you see cologne is on just evaporates fast, alcohol hits the air and the scent doesn't last."
+    },
+    {
+      "start": 157.82,
+      "end": 184.98,
+      "text": "Visual idea one is a close-up of a small crochet bottle or a knitted bathroom counter with a few balls orbiting, drifting out from the nozzle. And it's for each phrase. Now, all you have to do at the end is basically say, hey, for phrase one, I want visual one. For phrase two, I want visual whatever. So you want to go through it and you can always go back and forth. You can always try different ones, but let me just show you what it looks like. So I'm going to do phrase one."
+    },
+    {
+      "start": 184.98,
+      "end": 208.05,
+      "text": "Visual and let's do visual Visual 2. Okay, he's sniffing And then we see what happened. All right So the first thing that we get is the character generation do this first and the reason we have this is that we can use it as a reference later So we have this one. So I'm gonna just copy this I'm gonna go to max fusion images paste now. I'm gonna try"
+    },
+    {
+      "start": 208.05,
+      "end": 236.51,
+      "text": "with seed dream first you can use nana banana too like whatever you want but seed dream is just the cheapest and i'm going to show you that with just seed dream you can get pretty good results so i'm going to click here generate and let's wait for that to generate but whilst we wait we're going to actually go and look at phrase one visual two so it's going to tell you exactly what's happening in the visual that you chose so the character stands in a knitted bathroom sniffs his collar and his face drops in disappointment as a few faint amber yarn orbs"
+    },
+    {
+      "start": 236.51,
+      "end": 264.02,
+      "text": "Near his neck, fade and disappear. Okay, director's note. Type B. The scene starts with him mid-sniff and lands on a clearly disappointed expression with the orbs gone. Both states are visually distinct and stable. Okay, so here it gives you the start frame of the video. So you're going to paste this into Seadream. So I'm going to take that, copy it. And now that I'm here, you can see the character we actually got, which actually is pretty cool. Like it looks so nice. It looks like proper..."
+    },
+    {
+      "start": 264.02,
+      "end": 292.67,
+      "text": "like the exact style that we wanted. And you can see here it says, paste into seed dream and a banana upload character reference alongside it. So I'm going to seed dream. I'm going to paste this prompt and I'm going to choose one of the characters that I like, like this one here and here is the character. Great. I'm going to generate three and I'm going to show you what it looks like with just seed dream. Now, before I go into the next end frame, I kind of want to see what the start frame does look like because I might have to reference some stuff."
+    },
+    {
+      "start": 292.67,
+      "end": 318.24,
+      "text": "For example, I might need the same kind of setup, but just slightly change. So I'm going to copy it first. I'm going to go back whilst I wait for the results. Okay, nice. So this is the start frame that we get. It looks pretty safe. You've got a nice mirror in the background. Yeah, this is awesome. I think I quite like this one more because he's actually smelling his top. Now I'm going to paste this prompt here and I do have to drag this one in so that we can..."
+    },
+    {
+      "start": 318.24,
+      "end": 346.91,
+      "text": "Keeping that character consistency. So now I'm gonna click generate. All right, and this is the second one. So he just basically looks sad. So here's him kind of sniffing it and then here's him kind of looking sad. Now because I did reference this one, everything's the same. You see how the mirror is the same and it doesn't change. If I was to just reference the initial character, we might get some changes behind. Now one thing I do want this guy to look like more sad, so I'm gonna just edit here."
+    },
+    {
+      "start": 346.91,
+      "end": 376.43,
+      "text": "Now because we have this image, you can just say make him look even more sad. Okay, he definitely looks visually more sad. Those eyebrows are now a lot lower. And now if you go back to what we have here, here's just some extra tips on how to generate things. But the next thing we're going to do is the actual video prompt. Okay, so that's we're going to copy the video prompt. But now what I'm going to do is I'm going to go to videos. I'm going to go to videos. I'm going to start with Seed Dance 1.5 Pro."
+    },
+    {
+      "start": 376.43,
+      "end": 406.14,
+      "text": "Because it's the cheapest model. And then we're going to move up models if we need better quality. And if it doesn't look as good. So I'm going to paste the prompt here. The start frame is going to be him sniffing. The end frame is going to be the saddest one that we have here. Probably this one. It sometimes gives you the time. But I think five seconds is plenty. And then we're going to hit generate. Now just for the sake of this video. I am going to use different models. For example, Seed Dance 2.0 with references is great."
+    },
+    {
+      "start": 406.14,
+      "end": 435.57,
+      "text": "Because I can select these two images very nicely. At one is the yarn takes the character. Sniffing is pulled up collar once. Then his hand lowers as his face shifts from hopeful to disappointed. Like in image two. And then we can actually do just five seconds and see how this one looks. And again, just for the sake of this video, so that you have a nice understanding, I'm also going to do it with..."
+    },
+    {
+      "start": 435.57,
+      "end": 464.8,
+      "text": "cling so we can have a look. Now, what's great is that whilst those things are being generated, you can just start and basically go back to here and now storyboard the next frames for the next phrases. So for phrase two, for example, the look of crocheted body butter being smooth, but oil bonds to skin. So here we want character holes of Penrose butter. So here is if you want to show the actual product. Here is if we just want to show the butter on the arm. Here's a dresser shirt."
+    },
+    {
+      "start": 464.8,
+      "end": 494.02,
+      "text": "Applying body butter. Here you have to think, do you want to show the product early or later? So I'm actually gonna go with visual idea 2. So I'm gonna do phrase 2, visual idea 2. And then we're gonna go with that. And then it's gonna give us the next generation. It's also gonna explain everything for us. This is a held product reveal moment. And you basically get the same thing. So I'm gonna just jump forward after generating these images so you can see what they look like. Just one thing to remember is to always reference the character again."
+    },
+    {
+      "start": 494.02,
+      "end": 518.88,
+      "text": "that you use throughout, otherwise it will change. And one quick note is that you see this one here only has a start frame and it has a video prompt. So you're probably wondering why is that the case? Well, it's the case because rather than having a start and end frame and having the video start here and end at a location is giving you an image to start with and the video to be generated throughout. This is great when maybe you need something to"
+    },
+    {
+      "start": 518.88,
+      "end": 543.82,
+      "text": "Continue through motion when there's some things that change and so this has been designed like a creative director To think things through and I'm going to show you what the final result looks like. Also, I made a mistake I forgot to actually include the product here. So just make sure you do that Here. All right, cool. So we've basically generated our videos Here are the images that we kind of cooked up a little bit. This one's really fun. Actually, I quite like these"
+    },
+    {
+      "start": 543.82,
+      "end": 574.34,
+      "text": "and essentially just one quick tip definitely always remember to use your character reference I forgot here and it didn't look as good so we'll start with the first one that's pretty good we actually got that kind of like he's gonna start smiling and then he kind of gets really sad towards the end and also the balls which are supposed to be like the scent disappear so that was with actually Seed Dance 1.5 this was with Seed Dance 2.0 actually Seed Dance 1.5 was better"
+    },
+    {
+      "start": 574.34,
+      "end": 610.67,
+      "text": "And this is cling. There's no music here. Okay, cling was obviously, this was way nicer, I think. Yeah. For some reason, seed dance always tends to add music. I don't know why. The next one was the second phrase, which was this one. Him kind of looking at the butter. Seed dance with the scent. And then this is with cling. And lastly, him applying it. Rubbing it on. And you can see the scent stays. And now it's pretty straightforward. What you have to do is just complete the whole"
+    },
+    {
+      "start": 610.67,
+      "end": 635.52,
+      "text": "Scripts that you have here are giving you tons and tons of help remember you can always ask the AI for questions You can always speak to it like a human being saying oh like I want to change this or I want to go back to a different idea like I did here I was like I should go back to phrase 2 visual 1 and you can have a lot of fun with it So I hope you enjoy it. Please submit your videos down below so that I can review them I want to see them and take care. Bye"
+    }
+  ]
+}

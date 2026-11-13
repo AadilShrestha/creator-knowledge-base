@@ -1,0 +1,19 @@
+1
+00:00:00,000 --> 00:00:26,620
+all right so this is the original video right and this is the cloned video once we change the creator so if you basically find a proven winning angle with a certain creator you can test it with a different avatar and you can see it literally follows it verbatim it's insane okay so let's go to whatever ai platform you like to use i like using max fusion because i like the workflows on it and essentially you're going to go to videos you're going to go to seed dance 2.0
+
+2
+00:00:26,620 --> 00:00:56,720
+And inside Max Fusion, you have references for Seed Dance, which is really cool. So what you're going to do is you're going to actually upload the video. And there is a limitation in terms of the video. It needs to be between 2 seconds and 15 seconds long and up to 50 megabytes. So this one, I did have to cut it down a little bit just to get the right size. Put it as 13 seconds. Okay, but now we need a screenshot of the video. So we're going to click the video here. We're going to then just take a quick screenshot and essentially...
+
+3
+00:00:56,720 --> 00:01:10,620
+i'm gonna use ai to change it to a different person i'm gonna go to the images section inside max fusion i'm going to add the image the reason i like max fusion is because the workflow is so much better i'm gonna say
+
+4
+00:01:10,620 --> 00:01:31,520
+change this to a blonde woman with a green pajama top we'll do two versions just so we get the right one now whilst this loads all right so you can now see that we have the girl here you know different color to the example of course choose whatever you want change the colors if you want but now we can go back to the video section and we can add an image reference as you can see here
+
+5
+00:01:31,520 --> 00:01:57,070
+so we go select image we use the image that we just generated it's very simple because inside references you can actually reference the content you've just added so i'm going to do app video one is an ad of a man testing a pillow all i have to say is the prompt is replace the man for the woman in app and then you do image one that's literally it i just hit generate

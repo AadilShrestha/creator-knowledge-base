@@ -1,0 +1,53 @@
+{
+  "source_file": "5. Customer Research Protocol 2.mp4",
+  "source_id": "mega:5Y1lhJKB:hMsQHCYb",
+  "source_sha256": "784f6fa2f4cc05ad3a6e57c9d5a001e8f3a039fafb671ad67eb52e78803a67de",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 209.96,
+  "last_segment_end": 209.42,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 28.38,
+      "text": "So in deep research one, I showed you how to collect raw data from real human beings talking about your product and what you sell. And then I showed you how to collect it into a research doc that kind of looks like this. So you should have this. Now, in deep research two, I am going to show you how to add your brand information, how to find buyer personas. So the avatars, because you want to speak to a singular avatar, one specific person. That's how we actually make sure our ads convert."
+    },
+    {
+      "start": 28.38,
+      "end": 58.06,
+      "text": "the best rather than speaking to people with different desires and different whatever you speak to this one susan 32 who is a yoga instructor and then lastly we're going to finalize the research document for concepts which is the next stage as you can see we are here in the research to find out what they want then we're going to add the concepts and we'll prepare the document for that so with that being said let's do this okay so in brand information i want you to hear add your brand name what makes you different your best selling product what three three things"
+    },
+    {
+      "start": 58.06,
+      "end": 87.3,
+      "text": "You wish everyone knew about your product. How do you want to be perceived? Any seasonal buying patterns, frequently asked questions and any claims. And it should look something like this for this brand. This is an attorney brand. This works for all different products and services. So you just want to be as dense with information as you can here. Then once you have that, we are actually ready to save this as a PDF. PDF is the better way to do it because it's the easiest way."
+    },
+    {
+      "start": 87.3,
+      "end": 114.7,
+      "text": "for the learning language models to process it. And now the next step we're going to do is actually find by avatar. So I created this GPT. It says here, this GPT will generate three avatar personas based on your research document. To begin, please upload your Ace Ad Creators Lab research document. So I'm going to click here and I'm going to add the research document. And once you've uploaded it, you need to press enter. Now, by the way,"
+    },
+    {
+      "start": 114.7,
+      "end": 147.52,
+      "text": "Everything we put in this research document is the source of truth, which is why we need to make sure that we're doing this accurately. So now when you press enter, it starts to create the different avatars. You can see Alex, the fed up commuter, demographics, age 34, soundbites. Okay, cool. And so what you want to do is you actually just want to read this through. Make sure it makes sense. Make sure you like it. If you have any questions, drop that in the community."
+    },
+    {
+      "start": 147.52,
+      "end": 173.71,
+      "text": "If you want us to review it, for example, we review loads of avatars all the time. By the way, if you're a marketer, you probably know that Claude is actually better for writing copy. So if you wanted to at the end, you could take this and put it on Claude. I wanted to keep it simple. And I know most people here just use ChatGPT. So I didn't want to make this confusing. Plus, in the next stage, when we use Poppy AI, Poppy AI does have Claude built in. So I don't want you to have to get so many different softwares."
+    },
+    {
+      "start": 173.71,
+      "end": 201.82,
+      "text": "But now that this is all done, we are going to take all of this. If we're happy with it. If not, you can obviously make changes. Click copy. We're going to go to our document. Scroll all the way down to key personas like we have here. And you're going to basically paste them in. So I'm going to just paste these ones in here because these were a template. So now we're pasting them in. You should have a concept section that is empty. So it probably will look something like this."
+    },
+    {
+      "start": 201.82,
+      "end": 209.42,
+      "text": "concept section that is empty. So now we are ready for the concepts part where we will actually add the concept ideas in."
+    }
+  ]
+}

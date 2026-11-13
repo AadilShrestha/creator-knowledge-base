@@ -1,0 +1,48 @@
+{
+  "source_file": "1. START HERE.mp4",
+  "source_id": "mega:5Y1lhJKB:cdkkQQDS",
+  "source_sha256": "58383efafe6e59b3d997fb38107af7b9e76b670aa2414c1ae6652f1905b0971b",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 150.85,
+  "last_segment_end": 150.16,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 22.05,
+      "text": "Okay, so your ad account is now set up. Now I'm going to reveal the process that we use, the system that we use to make ad creative with high intent, which means that it's well-researched and it's designed for your ideal buyer and how to know when you need to make more creative, better creative or new creative."
+    },
+    {
+      "start": 22.05,
+      "end": 44.85,
+      "text": "With that being said, let's start. So our process starts here in the research stage. Ignore this new thing for now. So in the research stage, we're going to find out what they want, what your audience wants, what words they use, what desires, problems, all of these things are going to create a document that has all of that information that you can then use to make the angles."
+    },
+    {
+      "start": 44.85,
+      "end": 71.87,
+      "text": "Following that, we're going to have the concept. So the concept is what to show. What are we going to show in this concept? Is it going to be a interview? Is it going to be a static that's an us versus them? We need to know what the concept is so that you know how to show this idea of what they want. Following that, we're going to go and split up into either a brief, if it's for video."
+    },
+    {
+      "start": 71.87,
+      "end": 90.51,
+      "text": "and a selection of hooks if it's for statics. This is so you know what words to put in the video or in the static. From that, we actually get to the fun part, which is creation. We now have what to say. Now let's make it real. So that's actually creating the videos or the statics."
+    },
+    {
+      "start": 90.58,
+      "end": 116.1,
+      "text": "And then we test and load it onto the ad account. Now, in order to know exactly what do we need, that's where we provide feedback to this system. That's how it works as a system. Where if we know we need to do more, we go back to the creation process and we make variations of the creative. If we need better creative, so things are going to perform better because what we start just doesn't really cook."
+    },
+    {
+      "start": 116.1,
+      "end": 141.89,
+      "text": "doesn't really do well then we go back to the hooks and to the brief and we see how we can make it better let's change these wordings let's look at different desire etc and then lastly if we know we need new stuff we go back to the research we have a look at what things we can extract from the research go back to the concept and we start the process again and this is the same system that has allowed us to make hundreds of creatives per month for"
+    },
+    {
+      "start": 141.89,
+      "end": 150.16,
+      "text": "35 plus brands that actually find and get results and it's the system that we're going to do with that being said let's get into the research phase"
+    }
+  ]
+}

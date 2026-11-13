@@ -1,0 +1,53 @@
+{
+  "source_file": "7. Why Copying Longest Running is Bad.mp4",
+  "source_id": "mega:5Y1lhJKB:1c1g3aQB",
+  "source_sha256": "da4df7a9068ea769314ecbd302fde8375f216f7f7b79532d00d7cbbaec9d47f4",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 166.51,
+  "last_segment_end": 166.51,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 15.95,
+      "text": "If your concept research strategy involves looking at ads that are the longest running, in the next few minutes, I'm going to explain to you why that is the worst thing that you can do. There's actually two reasons why. When you're looking at ads that are the longest running,"
+    },
+    {
+      "start": 15.95,
+      "end": 45.94,
+      "text": "Typically, it means that they are actually bottom of the funnel ads. Because if an ad can run for a long time, it means that it's converting an audience that's already coming from a top of funnel type of ad. Now, these ads could have high ROAS and everything, but they are very reliant on a top of funnel ad that has probably been scaled to actually bring the traffic for this ad. So essentially, you have an ad that's feeding this ad all the time, which allows it to run for a long time."
+    },
+    {
+      "start": 45.94,
+      "end": 66.99,
+      "text": "And so if you're just copying these ads by going on Atrio or AdSpy and sorting by longest running, you really are just generating a bunch of bottom of funnel type of creative. But you don't have anything that's bringing in new customers that you can actually scale. Because you can only scale ads that are bringing in new customers that are attracting."
+    },
+    {
+      "start": 66.99,
+      "end": 89.71,
+      "text": "unaware or problem aware audiences and the main reason for that is because this is what a scalable ad looks like so what happens is let's say you make an ad that's like very unaware or problem aware over time it's going to start to increase in purchases you can increase in ad spend it's going to really scale you can scale your account but at some point it's going to plateau a healthy"
+    },
+    {
+      "start": 89.71,
+      "end": 117.38,
+      "text": "CPA, where if you do increase your ad spend, your ROAS will go down. But at some point, the frequency is going to go to like two to three. And that's when you experience what's actually called ad fatigue. Excuse my spelling. And when ad fatigue hits, it's going to hit really bad. Your ad is basically going to crush. You have to kill it because the CPA goes really high and it's not going to generate the sales that you want. And what you really should be doing is actually..."
+    },
+    {
+      "start": 117.38,
+      "end": 128.98,
+      "text": "finding more ads you can create and basically find a new peak and a new peak and everything and that's where you need a lot of new creative all the time and these are just for the top of funnel ads that are going to bring new traffic to customers"
+    },
+    {
+      "start": 128.98,
+      "end": 158.9,
+      "text": "And these ads bring traffic to the bottom funnel ads. Now, the second reason is that there are a lot of brands out there that are actually doing $1 a day ads. Now, this is a strategy since like 2015, where you run an ad for $1 a day, basically to fool you into thinking that they are winning ads. And it's what big, big brands are doing to kind of like hide the competition. And I know it because I've been inside a lot of these ad accounts before. And so the best metric to know what a good ad is and whether you should steal it, it's actually ad spend."
+    },
+    {
+      "start": 158.9,
+      "end": 166.51,
+      "text": "So in the next video, I'm going to show you how we can actually find ads based on the ad spend as opposed to just the longest time running."
+    }
+  ]
+}

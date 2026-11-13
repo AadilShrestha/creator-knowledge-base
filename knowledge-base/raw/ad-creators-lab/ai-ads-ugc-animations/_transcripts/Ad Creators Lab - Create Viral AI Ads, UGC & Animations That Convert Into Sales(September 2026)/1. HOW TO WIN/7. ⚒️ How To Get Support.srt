@@ -1,0 +1,7 @@
+1
+00:00:00,000 --> 00:00:29,300
+If you need support with anything like an AI model is not working, you don't know what to do with your ad account and you're just really confused and lost, you have two ways that you can communicate. You have asynchronous and synchronous ways of getting support. The synchronous way is by going live on our calls. We have the calls in the calendar. You can jump into the AI office hours call or the one with me where I review ads and you get direct feedback. The asynchronous way is to use the community by making a post with the problem you're having and breaking down the problem down below.
+
+2
+00:00:29,300 --> 00:00:54,120
+Try and provide as much context as you can. A quick tip, the best way to get support is by actually shooting a Loom video. Loom is a free platform that you can get and you just essentially screen record what you have and it records your face if you want to or not. But it allows you to explain the problem that you have and it just gives us a lot more context so that our support team can actually help you. And remember, there's no such thing as a dumb question. So I encourage you to just share what you're going through.

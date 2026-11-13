@@ -1,0 +1,25 @@
+[00:00:00] Okay, so let's actually edit the video. We have our scenes and we're going to just make a very basic claymation video. So what I want to do first is drag in the voiceover that we got from Eleven Labs and here's what it sounds like. Alcohol is actually not that toxic compared to what it turns into in your body. Okay, so then that first section is obviously the guy drinking. I did label them one, two, three, four, etc. But we can have a look and see what this looks like.
+
+[00:00:28] Okay, so I'm going to just move the sound a little bit in. I think we did smash it with the timing. When it says compared to what it does to your body, I'm going to add shot number two. Okay, cool. So I'm going to just break... I'm going to just lock that layer. I'm going to...
+
+[00:00:59] Cut this whole audio section here. I want to make sure the audio is nice and tight. Okay, and I'm going to just cut that one as well. So when it says compared to what it does to your body, that's when I want it to transition to going down. So what I need to do here is work with speed curves. So I'm going to just click that first frame. I'm going to go to speed.
+
+[00:01:29] I'm going to go to curve. Now I can do a quick flash out. So if I click a flash out, what it does is it makes the ending faster. You see how it did that? Which is good. And in the next clip, I can do a flash in. So I can just drag that, click it, and then we have it. Okay, so that was a bit fast. So I'm going to click the image before that. And I'm going to just...
+
+[00:02:00] you see we have the curve here so what it does is from this point it starts to basically speed up up until the maximum and it's just the maximum here so this whole section is the same velocity and this is the ramp up the only thing is that i kind of want it to when it says compared to what it does to your body that's when i want it to start going down so i'm going to just remove this magnetized thing
+
+[00:02:30] I'm going to move that clip here. Yeah, something like this. I think it should start going down around here. So I'm going to move this here just for a reference. Now I go back to the original image. What I have to basically do is click on this part where it starts to speed up and just move it to the right a bit. And as you can see at the bottom, the clip is getting longer. And I'm going to move this bit to the right as well. And you can see it's starting to get longer and longer.
+
+[00:03:01] that toxic here is where i want it to kind of go toxic compared okay and now compared it's just a bit fast so rather that rather than it starting super fast here for this speed i'm going to move this to the left so you can see it starts to drip down here toxic compared okay i'm going to just move this back a bit let's see toxic compared to what it
+
+[00:03:33] Now that sound effect that we're hearing is from the original clip but assuming you don't have any original clips there is one sound effect you definitely want to download and that's this sound effect here. It just always works just use some kind of YouTube downloader to download it and if I drag it into our project and I drag it into let's say here you will hear it
+
+[00:04:06] it turns into in your to what it turns into in your body and okay so you can see even without the sound that's pretty good sounds really nice um i'm gonna just add the rest of the clips as well so from here he says and that's what me and that's what makes you have really bad one so i just put in clip number three and that's what makes your next day feel like hell they say okay and that's what makes your next day
+
+[00:04:39] feel like hell i think that was pretty nicely timed actually before the next one um again i'm gonna add the liquid kind of effect here maybe at this point they feel like hell maybe here they feel like hell stop it here and then if i wanted to like the best thing about these types of videos is just like the sound effects that you have in there now inside capcot you can just go to
+
+[00:05:09] Audio, sound effects, you can do drinking. Cool, now I have a drinking sound effect. Okay, and I can cut it here. Now one thing we can also do is like cloth hits. So cloth hits sounds like this. So we can add that when the t-shirt opens, for example. Let's see what it sounds like.
+
+[00:05:44] There you go. So again, you can get very creative with the sounds. For the sake of this video, I'm going to keep it super chill. But this is how you piece it together. Again, you don't have to make it as complicated as this if you wanted to. You can just have like no sound effects or whatever comes out of Kling or Seed Dance if you leave the audio on. But again, it'll cost you some credits. And you might have to do some kind of descriptions of the audio, which I just don't, I think I'm lazy to do that. Might as well just put the effects in there because we have full control.
+
+[00:06:13] But yeah, that's kind of how you piece this together. Then you add your next scenes and your next scenes and before you know it, you have a really cool looking ad that just transitions between different shots. That's it.

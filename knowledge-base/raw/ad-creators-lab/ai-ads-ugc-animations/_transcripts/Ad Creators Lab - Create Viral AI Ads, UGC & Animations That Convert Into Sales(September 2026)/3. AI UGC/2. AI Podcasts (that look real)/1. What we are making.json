@@ -1,0 +1,23 @@
+{
+  "source_file": "1. What we are making.mp4",
+  "source_id": "mega:5Y1lhJKB:9E0i0aaR",
+  "source_sha256": "1c4bbd6311a39348bc0c7606a6f5152fc952bd01edddcc4812f985f0a843c725",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 48.81,
+  "last_segment_end": 48.81,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 28.3,
+      "text": "We've been making 10 to 20 new concepts every single week since we joined this group. Really? Because you get insights on ads that are crushing it on meta for a seven figure agency. Not just what's trending or looks pretty. I see you. You probably didn't even realize that I'm not real. No way. So what do I need to do? So you join and you get a framework for different types of AI ads like animation, UGC, podcasts, claymation, but..."
+    },
+    {
+      "start": 28.3,
+      "end": 48.81,
+      "text": "How do you know these ads will even convert? You also learn creative strategy. So the words that your actual customers use and how to write scripts that actually convert, not just look pretty on the screen. Okay. And how do I actually access this? You just click the link below and get cracking. I'm going to send this to every e-com owner I know."
+    }
+  ]
+}

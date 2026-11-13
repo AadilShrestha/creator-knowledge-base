@@ -1,0 +1,35 @@
+1
+00:00:00,080 --> 00:00:32,910
+Okay, the video editing of this is super simple. You can give it to a video editor, but if you are a video editor, here's just what I would do. I would start the video from the lyrics. Again, remember, it's an ad. Like, don't start, don't let that whole intro play. So we're gonna start from here. So I'm gonna just cut it from here. So you see, that phrase that he said was the first phrase. So I'm not gonna drag in the video. I'm also gonna lock in the song here.
+
+2
+00:00:32,910 --> 00:01:13,460
+so we can just go I'm gonna add the clips that we have here for example and all these three just for the sake of this video okay so i'm gonna just cut this a bit here
+
+3
+00:01:13,460 --> 00:01:47,410
+And what you're gonna find is that when you're putting this together, there might be some scenes that are missing for you. So like for example here. So for that second part of the phrase, you might actually want like an extra shot now that I'm thinking about it. So I can easily just go back to the Claude prompt and go back to phrase one, generate some
+
+4
+00:01:47,540 --> 00:02:21,760
+visual ideas for this part which will be alcohol is the NSN doesn't last the current clip is too short right and then essentially the AI is going to do the work good cool spilling it up here are five fresh ideas and for the whole process of generating it we basically come up with this is basically like having the spray spray and then kind of mist up in the air
+
+5
+00:02:21,760 --> 00:02:56,350
+And we end up getting something like this. You see? So that could be just like one quick idea that you wanted. So I'm going to just download this one and add it to the edit. And now we're back here. So alcohol is here. So now I need to just kind of speed this up. So I'm going to go to speed and just kind of drag this this way. I'm going to just also do the same thing here.
+
+6
+00:02:56,350 --> 00:03:27,260
+Okay, and then that's basically what we do for the video we just kind of like cut it together You can also you know what we do in typical editing fashion is we keyframe
+
+7
+00:03:27,260 --> 00:04:08,020
+something like this like from the beginning like sniffing and then it just kind of goes to the right probably with a little bit of a zoom out and then this one as well you just add a few you can zoom in here and we can go left to right like this so it literally looks like a music video
+
+8
+00:04:08,660 --> 00:04:41,280
+It's kind of fun. We can even... And that's basically what you do with the video. It's nothing too crazy and obviously if you give it to the editor with enough time then I'd be able to create something even better.
+
+9
+00:04:41,280 --> 00:04:50,000
+but yeah that's the whole process hope you found it interesting and hope that you can create some cool stuff if you do please leave it down below and i'd love to review it peace

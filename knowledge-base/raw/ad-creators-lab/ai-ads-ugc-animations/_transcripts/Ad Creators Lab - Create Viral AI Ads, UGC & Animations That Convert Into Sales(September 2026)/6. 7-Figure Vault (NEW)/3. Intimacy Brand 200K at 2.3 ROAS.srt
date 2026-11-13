@@ -1,0 +1,139 @@
+1
+00:00:00,910 --> 00:00:26,670
+Hey, so I'm the head creative strategist at Epic Ads Lab, and today I'm just going to break down one of the winning ads that we actually made for a client. As you can see here, it spent almost $200,000 in the time that it was running, and it provided $460,000 worth of purchase value. So I had a 2.31 ROAS at scale. It did amazing. So we're just going to basically go over exactly why it worked. That way you can take it, learn from it, and also make it into your own ads.
+
+2
+00:00:26,670 --> 00:00:54,290
+so first we're just going to go ahead and actually watch the ad and then i'm going to go ahead and break it down and just kind of get right into it i'm also going to provide the document so it'll be in the link below that way you can go through on your own time but yeah if you want more of this just let me know let's get right into it so let me screen share this and we'll start from here stop pretending your crusty spicy time towels work they bunch up stink a bit and you still wake up in the wet spot
+
+3
+00:00:54,290 --> 00:01:15,630
+Towels leak. Those puppy pads crinkle like a damn hospital bed. Cheap waterproof bed sheets? They lie. They all leak. This love blanket actually fixes the problem. The top soft layer absorbs everything. The inner layer blocks out all leaks. Feels like a soft throw blanket. No plastic. No noise. No slipping around. You can literally soak it. And your mattress stays bone dry.
+
+4
+00:01:15,630 --> 00:01:40,640
+Now you don't have to change the sheets at 3 a.m. when you are tired and want to stay in bed cuddling after a night of passion. No more stressing about ruining a $1,500 mattress. No holding back your climax because you're scared of the mess and actually enjoy the moment without thinking, we're going to have to clean this up. Pleasure should not give you anxiety or laundry. You just need a love blanket. So just funny little note to point out is even in.
+
+5
+00:01:40,640 --> 00:02:06,580
+Big winning ads that spend a lot of money, you can even have mistakes like this where the editor spelt pleasure wrong. So I just wanted to point out that anybody that's trying to make the ads perfect or look and sound perfect, it's not really a thing. And clearly, this can still work and still get the message across. And your ad looking perfect is not the reason why it's going to win. So I just wanted to point that out there.
+
+6
+00:02:06,580 --> 00:02:32,880
+Let's go into the metrics a little bit. Like I said, I showed you the spend, the purchase value, and the ROAS here. It looks like the rest of the soft metrics were decent. They weren't anything spectacular. It was 1.57% CTR, which is technically pretty low. They had a lot of purchases, 4,500. It looks like the thumb stop, which is the hook rate, was 35%. So it wasn't even the highest it could be or like a really, really good hook.
+
+7
+00:02:32,880 --> 00:02:59,040
+which was 35% is still good, but it's not amazing. You can easily get that number up by 10, 15% and maybe you would do better, maybe it wouldn't. But what's important here is that it got high intent people. So out of that 35%, a lot of them ended up going to make the purchase, which is why we don't need to capture 50% of the audience if we can capture 35% at high intent. The performance of the ad, if we capture more people, but less of them converted. So those are just some things to point out the soft metrics here.
+
+8
+00:02:59,040 --> 00:03:24,140
+I wrote down here in the document, like I said, you can go through it afterwards. But this ad is solution aware. So why is that? And that's because we're starting right in the mix of things and saying, you know, get rid of your spicy time towels. Stop pretending your crusty spicy time towels work, which this is a solution to the problem, which is, you know, when people get intimate, they throw down something to protect their mattress. So, you know, nothing soaks through to the sheets or to the bed or wherever it might be.
+
+9
+00:03:24,140 --> 00:03:46,860
+And a common solution is towels. And as you'll see in the script, other things could be puppy pads. There's also plastic sheets, which crinkle a lot. There's waterproof bed sheets. And, you know, those are all things that these people use and those are all solutions. So this market is starting off in the awareness stage that they know that they have this problem. And they also have solutions that they're already using or know of.
+
+10
+00:03:46,860 --> 00:04:09,920
+So this is the entry point that we're starting off with. So it's very important to know that because if you're trying to hit a higher awareness market, this ad wouldn't work. If you're trying to hit a product aware market, this ad wouldn't work. So we just need to know that we're entering a solution aware market, which what is that in simple terms? It's just people who are aware of the solutions that exist for their problem. And right now they just aren't convinced which one will solve it the best.
+
+11
+00:04:09,920 --> 00:04:38,990
+And you can start this ad at solution level without raising their existing beliefs on specific products that they may have already seen or researched. The difference between this stage and going even deeper to the product-aware stage is just that the person who is solution-aware is essentially still considering all the different types of products to solve their problem. The people who are product-aware know a product they want to solve their problem. So basically, this solution-aware stage is they know what's available, they know it exists, but they haven't chosen their specific solution.
+
+12
+00:04:38,990 --> 00:05:08,080
+And you'll see once we break it down exactly how we got them to change that. And then we entered into product aware and then got them to buy through the ad. Next is the valence and intensity zone. So for those of you who don't know what this is, this is a new concept or idea that was brought in from Sarah Levenger. She's a great creative strategist. And basically this is what it is. It's this little chart right here. I know it's kind of small. You can look through in the document. Basically each zone goes through different emotional states of your.
+
+13
+00:05:08,080 --> 00:05:36,740
+avatar customer whatever so when we have low intensity that's basically an emotion that's on the less intense scale so that means cozy common supporter reassuring annoyance disappointment fatigue or irritation what would a high intensity version of that be that'd be joy if it was cozy for calm it would be thrill supportive would be excitement reassuring could be something like pride instead of annoyance it would be panic if it was high intensity if there is disappointment
+
+14
+00:05:36,740 --> 00:06:06,220
+then it would be sadness is high intensity. Low intensity would be fatigue and high intensity could be something like loss. So the intensity is just how, like I said, intense the emotion is. So if something is low intensity, that means it's just annoying you. Something is high intensity. It's something that has to change or it's a really big problem in your life, like panic, sadness, loss, or anxiety. Now the valence part of it is just basically high is like happy emotions. Low is like sad emotions.
+
+15
+00:06:06,220 --> 00:06:35,230
+So when you go on the spectrum, you'll see if we're in a low intensity and high valence zone, that means that the emotions are very low intensity. So like cozy and calm, but they're also happy. So that's why zone one would be happy and like calm. And then if we're in zone four, for example, we're in panic, sadness, loss, and anxiety. So Sarah Levenger has many other things you can go do research on that. That was just my little version in a nutshell to hopefully make it make sense for anybody that doesn't know. For those of you that do.
+
+16
+00:06:35,230 --> 00:06:56,540
+Basically, this ad goes through zone three into zone one towards the end with a brief dip into zone four. So basically what this means is we open up in zone three. So we're basically relating to the customer that this is something that's annoying, that's irritating them. When we say bunch ups, think a bit, wake up in the wet spot. And then we briefly go into zone four. So no holding back your climax because you're scared of the mess.
+
+17
+00:06:56,540 --> 00:07:24,690
+And, oh, we're going to have to clean this up. So this targets into their anxiety type of emotion. And we close in zone one, which is pleasure should not give you anxiety or laundry, blah, blah, blah, things like that. You'll see most ads end up closing in zone one because that is the happier you want to end up on a happy note, like getting the desire that they want. And usually open in a lower zone. But that's for a whole nother topic. This is just so you can understand the breakdown of the emotional state that the person is entering this ad into.
+
+18
+00:07:24,850 --> 00:07:47,140
+So now going ahead with the actual start here, I was making a comment here on the actual start frame of why this hook actually worked. As you see, it was 35%, not amazing, but got enough people to care about this. And this simple text, get rid of your spicy time towels creates an open loop. So for the people that are already using the solution that may have this problem.
+
+19
+00:07:47,140 --> 00:08:05,140
+They're wondering, why would I get rid of mine? So like they're clearly resonating with this. Spicy time is words that we found through research on Reddit, things like that. And we were able to basically just say, get rid of it. So it's like, I don't know, like if you brush your teeth every day and I say, get rid of your toothbrush. And it'd be like, why would I get rid of my toothbrush?
+
+20
+00:08:05,140 --> 00:08:32,720
+That's kind of the mindset these people are entering into the video with. And also, if you look at the video, I'm not going to play it again, but the first three seconds is somebody laying down like a blanket or this thing that they're wondering, why would this be replacing a towel? So I think I wrote something like that. And the visual aids in creating that open loop. First three seconds is a couple happily putting down a blanket. So the audience is confused. What are they putting down? It makes them want to watch and find out what that thing is.
+
+21
+00:08:32,720 --> 00:09:02,210
+that will make them get rid of their spicy time towels. So we're just opening with a big curiosity loop here. So again, on the first bit of text, stop pretending your crusty, spicy time towels work. This is a pattern interrupt. We're saying, you know, stop pretending. Stop pretending their work is not talking to the audience and telling them their solution is not okay. And we're telling them this is an actual problem that needs fixing. So like if I was to relate this to the toothbrush example, it'd be like, stop pretending your crusty, moldy toothbrush works.
+
+22
+00:09:02,210 --> 00:09:27,620
+uh works and you'd be like well you know why and you just continue to watch so we're kind of building a slippery slope effect which is just you know you want to read the next line you want to hear the next bit and we're not closing that loop and as you'll see it'll basically take until the whole ad which is what gets most of these people to watch all the way through and we sell them in the process so here we say they bunch up stink a bit and you still wake up in the wet spot this is us just basically twisting the knife
+
+23
+00:09:27,620 --> 00:09:57,390
+into their problem and telling them why their current solution sucks and why their current solution doesn't work so because we're entering the solution aware market we're basically telling the thing that is commonly used is actually a really bad solution to their problem and we're creating this idea in their head of or what is better than you know why does mine suck and then we just keep twisting that knife to make them feel like oh yeah maybe my solution is actually really bad so then they continue watching and then we have towels leak those puppy pads crinkle like a damn hospital bed etc
+
+24
+00:09:57,390 --> 00:10:24,720
+This is just twisting the knife even further and explain why their solution sucks even more. And then we introduce the love blanket. And we say the love blanket actually fixes the problem. So very quickly, we enter the product. And that's because since we're in a solution aware state, you don't need much intro or persuasion. We're just simply shifting their beliefs that their current solution just doesn't work or isn't as good. So previously, their belief was my towel does the job.
+
+25
+00:10:24,720 --> 00:10:54,940
+And now we're switching it to my towel doesn't do the job. It's gross. I need a better solution. And that all happened within the first lines of this ad, which is why we were able to now present the solution here. Then we have this part, which is just the top self layer, absorbs everything, inner layer blocks out all the leaks. Basically what we're doing here is we're just benefit stacking. So now that we're introducing this unique solution to the problem that you had and showing you a better version of it, we're basically explaining all the things that it does better than your current solution, which was the towel.
+
+26
+00:10:54,940 --> 00:11:07,420
+So we're just reversing the risk for the customer buying because we're validating their new belief that this is the better alternative. And once again, that new belief is that this is a better solution than the one that they previously were working with.
+
+27
+00:11:07,420 --> 00:11:33,870
+So as you can see, these are the beliefs that were shifting. This is why this ad was able to spend so much and work so well. It seems very, very simple, but once you actually break it down, you can kind of see why these things started to come together and work. And then you can take the same principles and take them and put it into your ad. Now you can't just copy the script, replace it with words that will work for your brand or your market, and then just think it's going to work. You have to take the actual principles here. So the principles are the belief shifts, you know.
+
+28
+00:11:33,870 --> 00:11:57,300
+Maybe the benefit stacking, like going, shifting from solution aware to intro in the product. These are all the things that are breaking down. So that way you can kind of extract it and use it for yourself. Then we have this part. So now you don't have to change the sheets at 3 a.m. when you're tired and want to stay in bed cuddling after a night of passion. No more stressing about ruining a $1,500 mattress. No more holding back, et cetera, et cetera. Now, basically after the benefit stacking.
+
+29
+00:11:57,300 --> 00:12:23,840
+We're tying those benefits into real lived-in experiences or desires this avatar has or wants. So these are pulled straight from the research, and it's very important to note that this is the real reason they want the blanket. It's not because of the benefits. So the benefits allow the in-person experiences to happen, and that's ultimately what they're buying. So they're not buying a soft layer or a waterproof blanket. They're buying the fact that they don't have to change the sheets at 3 a.m.
+
+30
+00:12:23,840 --> 00:12:49,650
+They're buying the fact that they don't have to stress about ruining their expensive mattress. They're buying this because they don't want to hold back and they want to actually enjoy the moment without thinking that they're going to have to clean things up. So this is like we're basically tying in, you know, exactly why those features slash benefits actually matter to the customer. And this is another reason why this works so well, because these were all pulled straight from Reddit threads and things that real people said online and forums about this specific problem.
+
+31
+00:12:49,650 --> 00:13:15,570
+also after them having used the towel or having used other solutions that may not have worked for them. So this is just speaking directly to this market, which is why I was able to scale past six figures here. And then just to close it off, pleasure should not give you anxiety or laundry. You just need a love blanket. So now we're closing off and fully taking that loop into effect. And we're just reinforcing this new belief that pleasure and intimacy shouldn't give you anxiety or laundry.
+
+32
+00:13:15,570 --> 00:13:40,530
+When before they thought that was just part of it, they thought, all right, well, if I have a towel or whatever solution I have, this is just going to be part of how it works. This is just life. And now we're reinforcing the new belief that it doesn't actually have to be that way. And the bridge to get there is you're here. You think that this is what has to happen and you want to have all the desires we just talked about. The love blanket is the bridge that gets you from here to there. And that's basically what we're.
+
+33
+00:13:40,530 --> 00:13:51,630
+reinforcing in this very small line here so missed opportunity we had was just for more risk for uh risk reversal we could have added things like that this brand has a 30 night guarantee um that you know
+
+34
+00:13:51,630 --> 00:14:21,260
+we can create urgency with you know grabbing now before stock runs out we could even show the offer with the 53 off and we definitely could try that as some variations and see how that would do but i also do think that the way this voiceover worked sounded more like a friend recommendation rather than their brand selling which is another reason why it works so well and i think that that might actually hinder the performance or actually not work as well but this would be a good point that you know if this was your brand and your ad you would go ahead and make these variations you go test those things form those hypothesis
+
+35
+00:14:21,260 --> 00:14:42,740
+you know would this work would add in these extra cta bits increase the amount of sales we get and then you test them and see if that would actually work so that's just like a quick breakdown of everything i have you know breakdowns like this for a bunch of other ads and other brands if you want more of this just let me know but yeah just wanted to make a quick video going over everything that way you don't just have to look at the text and you can fully understand

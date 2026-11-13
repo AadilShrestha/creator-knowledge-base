@@ -79,6 +79,7 @@ updated: 2026-10-20
 | **Creatify** (creatify.ai) | Members tested it: "none of the videos converted" | [ai-ugc-tools.md](ai-ugc-tools.md) |
 | **Arcads** | Chase: sceptical for volume testing | [ai-ugc-tools.md](ai-ugc-tools.md) |
 | **Icon** | Named by a member and by Chase | [ai-ugc-tools.md](ai-ugc-tools.md) |
+| **Max Fusion, Seedance, Kling, Sora 2 Pro, Veo, Nano Banana, GPT Image 2, Rizz, Suno, Poppy, Arcads, Trendtrack, Adnova** | Ad Creators Lab's production stack; settings and credit costs at recording (Aug–Sep 2026), conflicting values side by side | [ACL tool settings](../courses/ad-creators-lab/ai-ads-ugc-animations/libraries/tool-settings.md) |
 
 ## Ad libraries and inspiration
 | Tool | What was said | Where mentioned |

@@ -1,0 +1,38 @@
+{
+  "source_file": "2. Finding Attorneys To Help You.mp4",
+  "source_id": "mega:5Y1lhJKB:wBtyAaYA",
+  "source_sha256": "dca845cd4a29c90e6c0a0ad7e7a423d363923701e94aa4a0e8be6e185d47c429",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 120.21,
+  "last_segment_end": 120.21,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 28.48,
+      "text": "Attorneys are attorneys in a state. They're licensed by the state. But typically, ideally, you'd want to get one in a county. There's attorneys like Gio, for example, our probate attorney. He does every single county. He can do every single county in Florida. Obviously, he knows Miami-Dade, Broward, and Palm Beach much better. But there's 20 other counties in Florida. Good probate attorney. One that understands what they're doing."
+    },
+    {
+      "start": 28.48,
+      "end": 56.18,
+      "text": "Hey, I purchased the deeds from the seller. I'm not going to record it yet. They should go and speak to a probate attorney beforehand, ideally, and understand like, look, I'm going to be dealing with these errors. What documents do I need from you to file a probate? You provide me those documents so I can go get them signed and notarized. And that's what I had to do back in the day with Gus, with the GO."
+    },
+    {
+      "start": 56.18,
+      "end": 85.47,
+      "text": "you know, with Ryan Abrams, with Jordan Wagner, right? Some attorneys, keep in mind, an attorney is an attorney, right? Yes, they're an attorney at law, but all attorneys focus on a specific kind of law. Like you'll have probate and estate attorneys. Then you'll have a divorce attorney. They typically don't do each other's job. Then you have a bankruptcy attorney. That's a super niche attorney."
+    },
+    {
+      "start": 85.47,
+      "end": 115.15,
+      "text": "Bankruptcy is a pain in the ass. So that's like a general doctor, then there's a specialist, and then there's the surgeon. That's kind of how it goes. Like, Gio loves probates, but he won't do evictions. It's a pain in the ass. He won't do them. You know, there's foreclosure attorneys specialize in fighting foreclosures, right, against banks. What else? I mean, partitions is another thing. Partitions and probates."
+    },
+    {
+      "start": 115.15,
+      "end": 120.21,
+      "text": "Kind of go hand in hand. Find an attorney or find whatever resource you need."
+    }
+  ]
+}

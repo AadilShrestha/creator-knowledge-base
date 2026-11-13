@@ -1,0 +1,48 @@
+{
+  "source_file": "4. Generating Videos.mp4",
+  "source_id": "mega:5Y1lhJKB:cY02ECqI",
+  "source_sha256": "eef5c74f4d9f46d69cb560ae5c92f4098c7741f60a0012b363e22a2f6922aecd",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 217.13,
+  "last_segment_end": 217.07,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 28.56,
+      "text": "All right, so now we're in the phase where we're going to generate the videos from the image prompts. So what you can see here is it's going to tell you to say, hey, let me know and I'll write line by line video prompts. So I'm going to say something like generate video prompts for all images. Now you can see that for every single image that we generated, we have the motion and you might be thinking, oh my days."
+    },
+    {
+      "start": 28.56,
+      "end": 58.93,
+      "text": "Is that it? This is literally all the stuff that it's going to give us. That's correct. It literally is all you need to do for these videos. These types of videos don't require some crazy animations, some crazy prompts for the visuals. It's super simple. Let me show you. If you go back here, we're going to go to our video generator and we're going to go to our prompt. We just paste this and we just drag in the image here and we drag in the actual video. Again, use whatever model and whatever setup you want."
+    },
+    {
+      "start": 58.93,
+      "end": 88.93,
+      "text": "And we're going to be choosing the video model. So my advice is always start with the cheapest model. So in this case, you can start with Seed Dance 1.5 Pro and then move up to the other ones. Kling 3.0 Pro is the best one for these or Kling 2.6 to save credits. But I like to use Seed Dance 1.5 Pro just to see what it looks like. Another thing you're going to want to consider is the timing. So you can see here, it gives you the timing. Lose weight fast, but forget to feed it. Four seconds. So slow pushing, whatever."
+    },
+    {
+      "start": 88.93,
+      "end": 123.18,
+      "text": "And so, it changes to 4 seconds, SeedDance 1.5 Pro. And you can generate it and you can see what it looks like. Okay, so now we can look at how it turned out. So you can see here. Okay, great. So slow push in, blah, blah, blah, super easy. SeedDance 1.5 does love adding music. So you might see that sometimes. You can prompt it to not have music. Or you can use something like Kling. It's up to you. But it only costs like 8 creditor."
+    },
+    {
+      "start": 123.18,
+      "end": 159.25,
+      "text": "This was with Kling, just I wanted to show you what it's like with Kling. Again, same four seconds, but obviously a different clip. Let's have a look. So this one's jumping, very excited. Again, no music here on Kling. So that's what the generations look like. I also tried some on this other video, as you can see here. This is really cool. This is for an ad for the school. And I also did one with the visuals in here. I thought it was really nice. And it gives it to you for every single section."
+    },
+    {
+      "start": 159.25,
+      "end": 186.75,
+      "text": "Now, obviously, if you add something else, if you make a new type of show and you want a different animation, it's fine. But if you look at the examples of these videos, the animations are not crazy. It's just either a push in or like moving around the character. That's it. I won't overcomplicate it with this format. Lastly, if you do want to be more advanced, you can use Claude code and connect some kind of API or MCP. So, for example, what I did here is I connected."
+    },
+    {
+      "start": 186.75,
+      "end": 217.07,
+      "text": "Claude Code to Max Fusion's API. And then what it did is it generated the images for me in this order. And then I can have it just kind of do all this for me. Obviously, it's complicated if you're somebody that hasn't used Claude Code before. But if you do have Hicksfield MCP, for example, and you're using just regular Claude, you can contact the MCP and have it generate these inside it, which is really cool."
+    }
+  ]
+}

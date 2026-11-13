@@ -1,0 +1,58 @@
+{
+  "source_file": "8. How To Find Ads Based on Ad Spend.mp4",
+  "source_id": "mega:5Y1lhJKB:0dsU3AgA",
+  "source_sha256": "534a218c6dd2bd1e1e0783c6e7fe1a6955e091ad70937f22b58e614f41c0d393",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 217.02,
+  "last_segment_end": 217.02,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 26.24,
+      "text": "All right, so now you know that you need to be looking for ads based on ad spend, but how do you actually use it? Luckily, there's a site called TrendTrack that allows us to do that. The only caveat is that it only works for EU and UK ads, which is no problem. People spend ads in Europe, believe it or not. And what I'm going to do is I'm going to show you the best framework for you to find these ads. So essentially, what you want to do is, I mean, there's things you can do here, like look at trending shops."
+    },
+    {
+      "start": 26.24,
+      "end": 55.23,
+      "text": "For example, these are like actual stores that are trending based on metrics like monthly visits, live ads and spend. There's also trending ads that you can look at. There's also a brand tracker where you can actually load a brand. Like you can see these here and you can actually track their ads over time. So let me show you, for example, you can see their ad library, how many ads are like pumped up. You can see this brand here pumped up a lot of ads towards Q4. You can see the testing. So you can see the ads that are running."
+    },
+    {
+      "start": 55.23,
+      "end": 72.88,
+      "text": "like pretty much every single day like ones that were launched and there's going to be pattern detected where they see a winner so this ad that was launched that day is running for some time so you know that ad is converting for a while now the most important thing though that for us as creatives"
+    },
+    {
+      "start": 72.88,
+      "end": 94.96,
+      "text": "trying to scale ad accounts is to go to trending ads and to organize them based on ad spend, which is a super key hidden feature that not many platforms like these have. So the first thing that I would do is I would go to ad spend and I will set it by a minimum. So I'm going to do a minimum of $10,000, right? And I'm actually going to do a"
+    },
+    {
+      "start": 94.96,
+      "end": 123.74,
+      "text": "timing so days running i'm going to do the minimum days running to at least 14 days so i want these ads that have spent at least ten thousand dollars that ran for two weeks straight and you can see here that i'm starting to get some and if you want some more information as to how much they actually spent you can click this little icon here click eu and uk statistics and you can actually see the spend of the ad right and you can see"
+    },
+    {
+      "start": 123.74,
+      "end": 140.7,
+      "text": "how much per day over the last few days. You can slide CPM. Currently, CPM is like $9, but you can change this around and you can basically start scrolling through different ones. Now, this is the basic way that you can use TrendTrack to actually spy on ads. Once you find an ad that you like, you can click it, you can watch it."
+    },
+    {
+      "start": 140.7,
+      "end": 170.19,
+      "text": "You can add it to a board. You can pin it. You can follow in the brand tracker. You can copy it. You can go to the transcript and you can actually scoop out the transcript of the brand. One thing you need to understand is at this stage, you're going to get big ass brands. Herbal Essence, Superdry, Airbnb. These are bigger brands that have the money to spend. So firstly, you know you're in good hands here. And these are brands making real money with creative. Now, if you want to sort them out by something, you can sort them out by most duplicates. So these are the ads I've had the most duplication. So they've been duplicated a lot. So for example, this one here has 93 duplicates."
+    },
+    {
+      "start": 170.19,
+      "end": 197.89,
+      "text": "which means that they've duplicated in many campaigns many many times now if you're like oh but like what kind of niche man like firstly you need to understand that it's not good to copy craves from your exact niche you should be looking at adjacent niches so let's say i'm doing travel supplements i'm looking at other types of supplements like green tea nootropic supplements etc but you should look at completely different niches like what do ads in the fitness space look like to get other ideas but what you can do is if i click here"
+    },
+    {
+      "start": 197.89,
+      "end": 217.02,
+      "text": "is you can add headlines like let's say here i do sleep i do search with my filters i'm getting stuff on sleeping like bedding warp to help you sleep if you sleep on your side tricobio this one here this pillow and you can see they're matching the same stats"
+    }
+  ]
+}

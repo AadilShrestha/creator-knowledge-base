@@ -1,0 +1,33 @@
+{
+  "source_file": "5.Zack D Films Voice Clone Song.mp4",
+  "source_id": "mega:5Y1lhJKB:dN1WkAbI",
+  "source_sha256": "ae9a8544b0f700b83fd1323a583f14a31842a504f1c3433cb1f7e40e551206ab",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 91.86,
+  "last_segment_end": 91.86,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 29.44,
+      "text": "So all I did to get the voice was I just went to YouTube.com and then I found some of Zach Film's videos. I searched YouTube to MP3 and I just went to Y2mate or whatever it was. And I just downloaded the audio from here. And then once I downloaded it, all I had to do was just make sure I converted it to MP3. And then you go to 11 labs, you click on the voices section."
+    },
+    {
+      "start": 29.44,
+      "end": 57.44,
+      "text": "you click add then you go to instant voice clone and then all you have to do is just drag in the audio definitely don't check this don't check remove background noise and then you click next and you essentially generate your own voice clone it's super easy you might need two videos to get it right but when i did it here is the voice that i got i like to use the v3 model just because i get a bit more of that tonality"
+    },
+    {
+      "start": 57.44,
+      "end": 82.77,
+      "text": "And if I just click generate speech, here is what it sounds like. If you're sleeping eight hours, but still can't drag yourself out of bed, your body- You might get a little bit of background sounds, but it's fine. Once you put the actual song in the background, it's all good. Speaking of the song, I went to Epidemic Sound and I went to music and I searched the genre sneak. Under the genre sneak, there is this one."
+    },
+    {
+      "start": 85.01,
+      "end": 91.86,
+      "text": "which is the sound that they usually use and just downloaded it and that is it. If you want that song, I actually left it down in the description below."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "source_file": "3. Generating Images.mp4",
+  "source_id": "mega:5Y1lhJKB:Zd1UAYqJ",
+  "source_sha256": "1d47194142f010320def9946ff33dc14e4de1699396f3e12093988dc727f44e7",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 292.63,
+  "last_segment_end": 292.63,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 27.18,
+      "text": "So once you have chosen your script or inserted a script into this skill, it's going to give you a couple of things. The first is going to give you the recommended styles. So what I have done is created a style where if you click this image and you open the link, it's going to take you here where you can select the different styles of the videos. And you would have seen the example of the different styles that we have, which are really cool. I love the cute one here. And then..."
+    },
+    {
+      "start": 27.18,
+      "end": 55.82,
+      "text": "It's going to give you essentially a line-by-line breakdown with the different situations and emotions, the settings, the props, etc. And it's going to try its best to include your product, as you can see here. Include the product when the product gets mentioned. Obviously, it depends a lot on your script. It depends a lot on your story. And if you add more context and you give it a good research doc and you can talk to it back and forth, like say, hey, I want to do this, this, this, it will..."
+    },
+    {
+      "start": 55.82,
+      "end": 84.72,
+      "text": "it will fit things through which is really cool so let's do something like generate images for one two three and what it's going to do is give you the exact prompts for it now i believe this has chosen the bare bones cinematic which is the this one kind of guy if you want to use the guy that see through as well you can so it's chosen that guy and it's going to give you a character bible so this is a character prompt you're going to use for the the image you're going to generate"
+    },
+    {
+      "start": 84.72,
+      "end": 112.16,
+      "text": "It says Nana Banana 2, but you can use this for whatever image generator you want. But what this is going to do is going to be the first image that you're going to generate so that your character stays consistent, if that makes sense. So let's do this. I'm going to just select all of this actually, and I'm going to head into an image generator. So we're just going to use Max Fusion here. At the end of this, I'm going to send you this board. So if you do use Max Fusion, you can take everything."
+    },
+    {
+      "start": 112.16,
+      "end": 140.58,
+      "text": "pasted the prompt and I'm gonna go and generate this with cDream 4.5. It's just a cheap model to use and it's just to kind of see how it looks. So I usually generate that with cDream and I'm gonna wait for this one to generate first before I generate the other ones because we want the skeleton to look the same. Okay, so here's the guy that we got. Here's the skeleton character and if we're happy with it, of course. If we're not, we can make some changes."
+    },
+    {
+      "start": 140.58,
+      "end": 170.0,
+      "text": "and now what i can do is i can go to shot one losing the weight fast so i'm gonna copy over the character bible and then i'm gonna copy over this section and i'm gonna also connect the reference now if you're wondering why don't we just give it as a prompt because even if we prompt it exactly the same if we just use the the bible prompt there will be some differences"
+    },
+    {
+      "start": 170.0,
+      "end": 200.42,
+      "text": "And if you want to keep your character looking the same, this is the best way for it. Now I'm going to use, again, Sea Dream. And look, I can show you what it looks like with the different models too, if you like. And you can see what it looks like. So this is the first one with Sea Dream. This is what it looks like with GPT Image 2. And this is what it looks like with Nano Banana 2. So you get a lot of different styles depending on the actual model. So it's completely up to you. You know, it's your taste. It's what you like."
+    },
+    {
+      "start": 200.42,
+      "end": 228.93,
+      "text": "So now that we have generated the image here, you can see what happened. You see we have the character looking consistent here and it's perfect. It's exactly what we wanted. And so now what you can do is you just go back for all of these and you just generate the images. Okay, so essentially this is what the images look like once they get generated. I've only done a few segments of it. But what I'm going to do is actually going to build an ad that I'm going to use and actually run for this community."
+    },
+    {
+      "start": 228.93,
+      "end": 266.61,
+      "text": "using this exact process and i'll come back to you when it's done all right cool i got all the images here basically generated as you can see i'm quite happy with them the only thing is i want some additional shots this person is like what would happen if you join ad creators lab the only thing missing here is like a shot of the community i'll do something like pov shot of the guy's screen and that's what we get"
+    },
+    {
+      "start": 267.25,
+      "end": 292.63,
+      "text": "That is so funny. If you have the Higgs field or Max Fusion MCP or APIs, you can use Claude code directly or Claude directly to just send all the instructions to that. But obviously most of you guys are probably just going to put it on a prompt or you're going to do it in this kind of layout here where you kind of like write the prompt and that's fine too. Now we're going to go into creating the video model. So let's get into it."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+[00:00:00] okay now the final piece of this is showing you how to make really cool look in b-roll like this or like her on hot yoga and it's actually pretty simple so we've already generated the scenes before like i showed you you're going to generate a lot of different scenes based on your script so what you have to do is basically click the image like this one here you're going to click generate video and you're going to use actually cling cling has
+
+[00:00:23] uses less credits as opposed to vo 3.1 and cling 2.6 is actually really cool um and all you have to do is basically you can make it five seconds i think 10 seconds just kind of uses too many credits i mean look at the difference of three versus ten so if i were you i'll just make a super simple and do like uh girl
+
+[00:00:40] observes her jewelry for example and you can see it it checks out her rings super easy the one for the hot yoga was this going hot yoga placing a phone down like that um in the shower just getting ready and also it also adds a voice but you don't you're never gonna really use it unless it matches her tone um
+
+[00:01:05] and then one thing that i will definitely have you do is try to experiment with prompts about faces so she makes a cringe grimace as if she's scared what will happen off to her jewelry so you can see here which is nice because in the story i was saying they're gonna test the jewelry like kind of scared um but yeah you can experiment so much this is me creating jewelry that is tarnished look at how much patina these have look how good it looks though
+
+[00:01:37] right so that is basically the b-roll section i would use cling i wouldn't use vo3 like yes vo3 is really good but it's a lot more credits to use uh like at scale and a lot more complicated i just wouldn't bother with it to be honest um if you just want to get your ai ads done as quickly as possible so yeah that's how we generate the b-roll

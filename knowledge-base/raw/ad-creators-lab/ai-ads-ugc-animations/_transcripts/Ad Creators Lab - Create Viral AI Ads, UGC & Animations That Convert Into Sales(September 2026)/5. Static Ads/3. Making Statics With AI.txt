@@ -1,0 +1,19 @@
+[00:00:00] Okay, I'm going to show you how you can make static ads using the templates that we provide you. So yes, we're in 2025 and you can use ChatGPT to create an image and make static ads that look really pretty because they're based on winning creatives. However, the problem with that is that once you do generate the static ad, if there's a slight mistake or something's not really working,
+
+[00:00:23] You can't easily change it because it will just generate something new completely. And it's not as easy as many people make it out to be. Instead, what we have done and we thought is more practical and easier for you is to provide you with loads of static ad templates on Canva and also Figma, which will show you how you can actually just create your own ad. So let's say you are going to do one of these creative statics like this. So you have the benefits.
+
+[00:00:53] The hook text is set. What you're going to do is go to the chat GPT headline ads copy pro and you want to start by loading in your research document and just pressing enter. And what it's going to do is it's going to create the headlines that you would otherwise use on the Facebook ad by giving you variations of the hooks, the benefits and do it for different buying avatars.
+
+[00:01:23] And once you've done that, you can then give it the idea that you have. So for example, I'm going to just screenshot this image and I'm going to say, I am making a creative in this style attached. Come up with 10 headlines and 10 benefits that I can use in this image for my buyer avatar.
+
+[00:01:52] and then paste it and now we're getting the hook headlines for the hook of it so for women who want smooth confident skin by summer let's go for this and let's place it here great and then we're going to do our benefits now i forgot to mention but this is for a collagen supplement so the benefits smooth addressed skin in 28 days let's do this with zero taste and texture supports
+
+[00:02:36] joint comfort and mobility okay cool and then try today it could be a and now we're just missing the image so all we're going to do now is start a new chat add the product image and then we want to think about what we want to put here so this could be either the product itself or we can have it being mixed into coffee if you already have loads of images for that you can in such situation i'm going to just say
+
+[00:03:06] Put this product on a kitchen counter with a clear mug next to it with what looks like coffee shake. Make the image square. And now we have a product image that looks great. So I'm going to just copy this and I'm going to put it in here, which will replace the current image that we have.
+
+[00:03:38] And then we can just resize it, maybe change the color or whatever. But essentially now we have the creative. Now, if let's say you had a example like this and you were like, I like this style so much. I just want my product in it. So what you can do is you can actually unlock the background, then bring it to the front. Then I would take a screenshot of this.
+
+[00:04:08] and I will paste that here. And then let's say my product was some kind of face cream. Let's say it was a very similar type of vibe. Let's say it's this one, right? I'm going to copy this one. And then I'll say create, create the exact image with the leaf, but place the E45 cream in it. Keep the same size.
+
+[00:04:42] and style and as you can see now we have the product in that style i can now copy the image go back to the template i can delete that background i can make this big right click layer send it to the back and then all i've got to do is edit it adjust it and just reduce the brightness and now we basically have the same thing super easy now with ai hope that makes sense let me know what you think

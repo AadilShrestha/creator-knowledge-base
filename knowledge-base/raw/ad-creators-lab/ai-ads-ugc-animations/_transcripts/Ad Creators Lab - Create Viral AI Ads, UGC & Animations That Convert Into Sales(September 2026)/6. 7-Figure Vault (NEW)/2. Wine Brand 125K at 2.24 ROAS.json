@@ -1,0 +1,268 @@
+{
+  "source_file": "2. Wine Brand 125K at 2.24 ROAS.mp4",
+  "source_id": "mega:5Y1lhJKB:NV1wWCLQ",
+  "source_sha256": "ac884745cd3b2eebc0b33424292b6e1722f3e8b095a1c9ed471f1198de279add",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 1413.35,
+  "last_segment_end": 1413.01,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 28.56,
+      "text": "Hey guys, Justin here from Epic Ads Lab. I'm breaking down another ad that I wrote today. This one actually ended up doing really, really well for this wine brand called Grazi Wine. Let me show you the performance here. It ended up spending $125,000 on Meta and providing $280,000 worth of revenue. So this ad did very, very well in the account at a 2.24 ROAS. So like I said, all great things here. Break down exactly why it worked."
+    },
+    {
+      "start": 28.56,
+      "end": 52.94,
+      "text": "I'm going to show you guys how we can pull the structure from this so you guys can create your own winning ads. Let's first start off by just going over the performance metrics. So here we have a thumb stop, which is also known as a hook rate of 46%, which means one in almost every two people ended up actually stopping to watch the first three seconds of this ad. And clearly it stopped the people that actually bought because this ad did very, very well in the account and produced a lot of revenue."
+    },
+    {
+      "start": 52.94,
+      "end": 82.7,
+      "text": "So the important part is getting the right people to stop and watch the first three seconds. And that's all done by the target, which I'll show you exactly how we ended up targeting them once we get into the breakdown. The next part is we have the CPMs, which are pretty good, especially for the US market. And then we have here, you know, cost per click, regular things, about $1.36. A little bit expensive in the US side. It's, you know, good to get if you can under a dollar, but it's very, very rare that even happens. So I would say for an ad that spent this much money, that's still very, very good."
+    },
+    {
+      "start": 82.7,
+      "end": 111.5,
+      "text": "Here, we had the CTRL of 3.52%. Now, I do want to just let you guys in on a little secret. If you don't know already, CTRL is not the best metric to go by for click-through rate. You're going to want to go for a CTRL outbound, which is also why we tracked this metric here. This one was 2.12%. So when I'm going to analyze this creative, I'm actually going to choose the 2% number. And the reason why is because CTRL just tracks anybody, whatever case scenario, if it's on their feed."
+    },
+    {
+      "start": 111.5,
+      "end": 137.09,
+      "text": "they accidentally click it maybe they click to show more when it comes to expanding the text maybe if they click like the side of the screen things like that that's going to all be factored into ctrl all which i don't like to go by that because it doesn't count intentional clicks and all that really matters is people saw the ad ended up actually clicking going through the funnel etc those are the people that we want the metrics from and that happens to be the two percent of people that ended up watching this"
+    },
+    {
+      "start": 137.09,
+      "end": 166.5,
+      "text": "Still a very, very good number. A lot of times our KPIs, depending on the client, anything above 2% on the CTR outbound is usually amazing. So crushed it here. This ad did very, very well. I'm going to show you guys the ad and then we're going to break it down right after. So let's get into playing this and we'll go from there. Italian friend's mom drinks wine every single night. And yet she wakes up at 6am and makes fresh focaccia. When I asked how she does it, she said it's because her mom drinks dry wine."
+    },
+    {
+      "start": 166.5,
+      "end": 192.46,
+      "text": "not sweet. I found out about Mediterranean style winemaking where they ferment the wine all the way through so there's zero sugar left. That's actually how I ended up hearing about Grazi wine from my friend. Zero sugar, nothing unnecessary. It comes in a box that holds the same as four bottles and it stays fresh for 30 days. So I can have a glass of wine on Wednesday and then another on Saturday and it's still perfect."
+    },
+    {
+      "start": 192.46,
+      "end": 221.55,
+      "text": "There's never any pressure to finish it. No wine going bad in my fridge. It's like $10 a bottle. And honestly, it just fits into real life. It's simply having a glass with dinner on a Tuesday without overthinking it or needing a special occasion. All right, so that's the end. Before we get into the breakdown, I'm just going to show you guys a little bit of the demographics, things like that they might be interested in, especially for ads that spend over six figures. It's pretty cool to take a look at the metrics here."
+    },
+    {
+      "start": 221.55,
+      "end": 251.74,
+      "text": "So if we look at the purchases, it looks like this ad skewed to mostly a female demographic, which is great insight because obviously if we're going to continue making ads for this brand in the future, we want to know who we're actually speaking to. So the majority here, and as you can see, is probably about 2,000 purchases came from females and maybe about 200 came from males. So very, very female dominated, which means that we are speaking to a female audience. At least from this ad, from the people that it targeted,"
+    },
+    {
+      "start": 251.74,
+      "end": 272.26,
+      "text": "it did very very well in that female demographic and something you can pull from this too is andromeda usually likes to pair up the creative or things that are visually on the screen in the creative with the person that actually shows it to so for example we have this female right here we're showing this to she looks like she's maybe about in her 40s or something like that showing this to"
+    },
+    {
+      "start": 272.26,
+      "end": 298.11,
+      "text": "a woman who's in their 40s. Now, as you see, we have from 35 up to about 65. It hit more of an older demographic. So maybe I'm wrong. Maybe Meta thought she looked a little bit older. But the idea here is that Meta usually shows the person that's on screen in your creative to that type of demographic. So if you have, let's say, for example, a woman that was 20, this ad might have been shown to people from the 18 to 35 to 44 demographic, everything in between."
+    },
+    {
+      "start": 298.11,
+      "end": 325.81,
+      "text": "And maybe this ad wouldn't have performed at all or as well just because it targeted the completely wrong demographic. So when you're choosing things like UGC creators or things like that, or even AI UGC in this case, you're going to want to make sure that whoever you're targeting, the ideal buyer of this ad, is going to want to be the person that's actually talking and speaking to the audience here. There's something I thought that was pretty cool to note. Let's get into actually breaking down the script and showing you guys how you can use this for yourself."
+    },
+    {
+      "start": 326.1,
+      "end": 351.97,
+      "text": "All right. So getting into the ads solution awareness, sorry. Okay. So this ad is solution aware. So what that basically means is that this ad is targeting a type of buyer that already knows what solutions exist. So I have the definition here. You guys can kind of go through it yourselves when you have the document and kind of learn a little bit about solution aware and understand where they're at. But basically this is just the point where the people"
+    },
+    {
+      "start": 351.97,
+      "end": 382.43,
+      "text": "that are watching this ad, they aren't convinced which solution will solve the problem the best. So they already know they've passed the problem aware stage, depressed, unaware stage. Now they're trying to figure out the solutions to their problem, how they can go about it. That's exactly where this ad starts. Next is the balance and intensity zone. So this is a sort of positive, warm, aspirational type of script. We're not leaning heavy into agitating their pain. We're not telling them how horrible it is that they"
+    },
+    {
+      "start": 382.43,
+      "end": 412.9,
+      "text": "i can't drink every single night this is more of a kind of positive type of script which at least the things that we've seen for this type of audience works very very well not really digging into their deepest darkest problems which would be more of a zone three or zone four type of situation so going into the actual script let's break down why this ended up working so well like i said this is a pretty small script as you see here it's just a couple lines there's a lot that i wrote comments on and i want you guys to understand that when you see us read over it or think that words don't really matter"
+    },
+    {
+      "start": 412.9,
+      "end": 442.34,
+      "text": "but they do and I'm going to show you exactly why. So first off, my Italian friend's mom drinks wine every single night and yet she wakes up at 6 a.m and makes fresh focaccia. So how did this copy end up getting a 46% hook rate? Now obviously it has to do a little bit with the visuals. So like if you see here, Italian friend's mom drinks wine every single night and yet she wakes up at 6 a.m and makes fresh focaccia. So one great thing that the editor did here is"
+    },
+    {
+      "start": 442.34,
+      "end": 469.5,
+      "text": "We were showing a older looking woman. So, you know, my Italian friend's mom, which I assume that at this target demographic, if she's 40 or 50, you can imagine her mom is probably within her 70s or 80s. So we could have even said how how Nona's can drink wine nightly, which Nona is just a term that is known by this sort of audience. And that just means Italian grandmother, which would be this in this case. So we show exactly what we're talking about on screen. So she has a green screen."
+    },
+    {
+      "start": 469.5,
+      "end": 498.29,
+      "text": "This first visual feels like a very storytelling type of thing. Could even be like a video they feel like they get from one of their friends. So that's probably why this target demographic, which we showed before, was from 45 to about 65 plus, the main demographic that bought here. That's what they're seeing. Then we go ahead and we show the actual focaccia that she was making. So obviously, this is not the actual focaccia that happened from this. But when we're talking about this thing on the script, we want to show, not tell."
+    },
+    {
+      "start": 498.29,
+      "end": 526.59,
+      "text": "So I know you guys have probably heard this a thousand times from Camillo. This applies in our own work too. So we're showing you exactly how we use it in the agency and get results like this as they're spending over six figures. Something as simple as just showing the focaccia bread puts it into their mind and makes it very easy to understand. So let's go into breaking down why this copy worked to pair with that visual. So first off, my Italian friend's mom. This starts off with an authority. So like I said, these are just some words my Italian friend's mom"
+    },
+    {
+      "start": 526.59,
+      "end": 553.18,
+      "text": "But what does that mean to the demographic in this sort of case scenario? This is an authority because to them, this is a U.S.-based type of demographic. They see everybody that's in Italy or in Europe, they see them drinking all the time or eating foods. And it's very well known that people in Italy or other places like that in the Mediterranean area can eat as much bread and all the things like that that people in the U.S. can't. And if you're in Italy, some people."
+    },
+    {
+      "start": 553.18,
+      "end": 583.74,
+      "text": "from the u.s go there travel and even lose weight after eating all that food and that authority piece right there is like okay so if people in italy can eat and drink and lose weight and not wake up with a hangover or wake up feeling fine the next morning that means that whatever they do has to work or something like that associating italians with those sort of desires that they have that's what creates that authority so we start off with the authority"
+    },
+    {
+      "start": 583.74,
+      "end": 613.58,
+      "text": "And we call it the target audience's desire. How to drink wine every single night without the side effects. That's basically what we're saying here. So my Italian friend's mom drinks wine every single night, which is something this demographic wants to do. But they can't because the problems like they wake up with a headache, they wake up hungover, not feeling good. Maybe they gain weight from it. There's all these reasons why this customer might not be able to do that right now. And we're giving a very visual desire. And yet she wakes up at 6 a.m. and makes fresh focaccia."
+    },
+    {
+      "start": 613.58,
+      "end": 638.96,
+      "text": "now funny enough we actually had to do this because of a compliance issue we couldn't say she wakes up without a headache or she wakes up without a hangover now obviously things like that did a little bit more aggressive terms on meta might have worked better but i actually am against that i think that because we had to work with compliance this actually made the script better and you know you might be like well why would that be the case i probably would listen better if you said you could wake up without a hangover"
+    },
+    {
+      "start": 638.96,
+      "end": 668.14,
+      "text": "Here, the customer just infers that if she can wake up at 6 a.m. and make fresh focaccia, she must be feeling fine. If you can drink six glasses of wine, go to sleep at 10 p.m. and wake up at 6 a.m. to make fresh focaccia, clearly that wine wasn't hitting you in the certain way that it does to everybody else. And they want to know, what are you doing? What's your magic solution? So either way, we can basically tell them a desire without specifically telling them. That's exactly what we want to do here. And like I mentioned in the comments, this also..."
+    },
+    {
+      "start": 668.14,
+      "end": 696.94,
+      "text": "you know tells you very visually the desire they're getting here she wakes up at 6am and makes fresh focaccia that is a lot easier to see than saying you wake up without a hangover or you wake up without a headache try and visualize that try and visualize not having a headache and try and visualize making fresh bread very clearly you can visualize making fresh bread in your head a lot easier and that's why i think it worked a lot better than saying without a hangover or without waking up with a headache"
+    },
+    {
+      "start": 697.42,
+      "end": 725.9,
+      "text": "And understand that this has juxtaposition here too. In just this short sentence, there's a lot of things that goes on. The juxtaposition is combining two things that don't go together. So drinking wine every single night and waking up and making fresh focaccia at 6am the next day. Usually people that drink wine or, you know, that understand drinking at night usually means you don't feel the best the next morning. They associate that with waking up with a hangover. So saying you can be productive the next morning."
+    },
+    {
+      "start": 725.9,
+      "end": 752.51,
+      "text": "and do something that usually results in you not being productive that's juxtaposition and why juxtaposition matters so much is because it creates that curiosity loop it creates that i want to know how they did that that way they go ahead and continue to watch so what do we do here we started off an authority called out the target audience use juxtaposition to create a curiosity gap or an open loop and now we're going on to the second line"
+    },
+    {
+      "start": 752.51,
+      "end": 780.77,
+      "text": "That all happened within about three seconds, which is like why I said it had the 46% hook rate, and that's why I think it did so well. So now moving on, we have the next part, which I want to play here. She wakes up at 6 a.m. and makes fresh focaccia. When I asked how she does it, she said it's because her mom drinks dry wine, not sweet. So pay attention to the visuals here too. When she asked how she does it, you clearly see the UGC here is talking to a friend."
+    },
+    {
+      "start": 780.77,
+      "end": 807.09,
+      "text": "so that helps make it very you know realistic the people that are watching this trust it more because like you're seeing it actually happening you don't have to think of it so the editor did a great job of basically tying in the story here because you can visually see it happening if you see me like this you know it looks like i'm talking to you versus if you know you see me typing on my computer it doesn't look like you're really talking to something so editor did a great job with the visuals here in terms of the copy what was this line doing"
+    },
+    {
+      "start": 807.09,
+      "end": 832.88,
+      "text": "When I asked how she does it, it creates a story. So instead of like just telling you something or trying to just give you information, we're tying it into a story. And if you study any sort of content or ads, things like that, people love taking information in forms of stories. And this is exactly what we do. When I asked how she does it, it's like a friend telling you, oh, this is a secret that I learned. This is what she did."
+    },
+    {
+      "start": 832.88,
+      "end": 859.06,
+      "text": "like to listen to their story sometimes you're more in tune with the story than actually hearing that secret method after they start telling it because you start getting into things like drama and hearing all those other things that people love to hear that's why stories are so effective and what we do here is we introduce a new mechanism her mom drinks dry wine not sweet so for the people that are in the us that are currently drinking sweet wine and not dry they're wondering what is dry wine"
+    },
+    {
+      "start": 859.09,
+      "end": 886.91,
+      "text": "What types of wine are dry? How do I give my hands on dry wine so I can achieve this desire? And note, we're tying everything back to the desire of what this specific avatar wants, which is being able to drink every night and wake up feeling good. That's what we said in the first book. That's why I targeted so well. And we target even further by talking to the people that drink sweet wine, not dry wine, and also targeting the people that don't drink dry wine or don't know what it is. And clearly, if you are somebody that drinks sweet,"
+    },
+    {
+      "start": 886.91,
+      "end": 912.11,
+      "text": "Or maybe not, you probably don't know what dry wine is or why it's so good, which is why we're segmenting this audience down even more and speaking just directly to those people. So as you can see, we're targeting a specific person very, very well, which gives us the opportunity to then use the story to then educate them and take them through the phone. Let's now play the next part here. Does it? She said it's because her mom drinks dry wine."
+    },
+    {
+      "start": 912.11,
+      "end": 941.09,
+      "text": "not sweet. I found out about Mediterranean style winemaking where they ferment the wine all the way through so there's zero sugar left. So really cool footage here again that the editor put in here which as you can see looks like a very classic or original style of making wine. Doesn't look super giant manufacturer, doesn't look like something that would be made in the U.S. This looks like something that would be made in the Mediterranean and especially when we say Mediterranean style winemaking people might not be able to know what that is."
+    },
+    {
+      "start": 941.09,
+      "end": 970.7,
+      "text": "But with the visual here of looking like something that's very homemade, they can see in their brain and associate Mediterranean style winemaking with something being authentic, something that could actually happen in Italy. Versus if we showed a visual here of maybe like a manufacturing plant of wine, that would be a complete turnoff to the customer and probably would do a lot less good. Like this performance would probably be like in half, honestly, if that visual was not there. So I guess the visuals matter just as much as the copy. But what did this line do? Let's break into it."
+    },
+    {
+      "start": 971.57,
+      "end": 1000.11,
+      "text": "So I found out about Mediterranean style winemaking, where they ferment the wine all the way through, so there's zero sugar left. So the Mediterranean style winemaking also adds to the authority. So you know how I was talking about with Italians, how the US people, this demographic, associate them as an authority. Obviously, you know, Italy is a part of the Mediterranean. So when we're saying Mediterranean style winemaking, we're basically saying Italian style winemaking, which adds authority piece to this unique mechanism."
+    },
+    {
+      "start": 1000.34,
+      "end": 1026.86,
+      "text": "And now we're basically explaining to them what that unique mechanism is. And the best part about this is that it links right back to the desire. So we connect the new mechanism to something they can easily associate. So dry wine, Mediterranean style winemaking equals zero sugar. So what does this mean? It's basically like simplifying it into things they already know and understand. Somebody that drinks sweet wine might know what zero sugar is."
+    },
+    {
+      "start": 1026.86,
+      "end": 1056.75,
+      "text": "where obviously all these people probably have heard of zero sugar in the past, but they haven't associated it with Mediterranean style winemaking, which is linked to dry wine, which is what got this person their desire of being able to drink wine every single night and wake up and feel good. So as you see, we're just connecting the puzzle pieces here and using something that's relatable they already know into an outcome that they want. So if you have zero sugar in wine, that means I can wake up and feel good the next day. That's probably what I want."
+    },
+    {
+      "start": 1057.01,
+      "end": 1087.22,
+      "text": "So in this next line, this shows the market sophistication that the buyer is currently in. So as you see, they go through their whole process. They ask a friend about it. They do research about Mediterranean style winemaking. Then they learn about zero sugar. You know, all the puzzle pieces kind of connect here. And what this does is this gives us room to introduce our brand, Grazi Wine. Going to the next part here. Now that we're introducing the product, we're showing the unique mechanisms. Now, the good thing about this product, Grazi Wine, is that they have"
+    },
+    {
+      "start": 1087.22,
+      "end": 1115.92,
+      "text": "Such a great product that it's very, very easy to sell. You know, they have zero sugar. They have nothing unnecessary in it. It comes in a box that holds the same as four bottles. It stays fresh for 30 days. They have a lot of great things specifically for this avatar of why they go ahead and buy. As you see, we needed a little bit of lies to kind of get them to this point to go ahead and buy. We took someone that was in a solution-aware state, and now they're in a product-aware state. Then we're going to go ahead and use the sew that principle in this line."
+    },
+    {
+      "start": 1115.92,
+      "end": 1145.78,
+      "text": "Imagine we have this feature, which is it stays fresh for 30 days. It stays fresh for 30 days so that you can have a glass of wine on Wednesday and then another on Saturday and it's still perfect. So the things that Camillo teaches, everything like that, this all gets embedded in the agency and this is how we make our ads, which is why we teach it because this is back to the end. This ad specifically had six figures behind it and this is using the so that principle. Next piece here, this was just using customer language and stuff like that from the research. More specifically,"
+    },
+    {
+      "start": 1145.78,
+      "end": 1173.87,
+      "text": "This customer, they're not heavy drinkers. They basically just want to enjoy it like on a Wednesday, on a Friday, something that fits into their real life without feeling pressure to finish the bottle. So like if you don't know specifically what I'm talking about, if you drink wine and you don't finish it, you basically have to throw it out if you wait more than a day because it'll go bad. But we're basically explaining that because if you use Grazi wine, it stays fresh and you have the same as four bottles so it can hold a lot and stay fresh. There's no pressure to finish it."
+    },
+    {
+      "start": 1173.87,
+      "end": 1200.78,
+      "text": "So we're selling more of an emotional piece here. We're selling not having any pressure to finish your wine versus just selling our wine. Also, you'll see here in the next line, we're using the idea of selling through emotions. We're saying you don't have to overthink. You don't need it for a special occasion. So that we're very rarely talking about our product, how great it is, telling them that they need to buy it. We're basically relating the things that they want, the desires they have."
+    },
+    {
+      "start": 1200.78,
+      "end": 1229.07,
+      "text": "showing them how our product can basically be a bridge and help them get there, and then using emotions that they want and showing them that's what they're going to get if they get our product. So think, they don't want to overthink or need wine on a special occasion, Grazi wine. They don't want to have any pressure to finish a bottle of wine. Well, if you just had a box of Grazi, you wouldn't have to have pressure because it lasts for 30 days. That's basically what we're doing here, and I want you to understand that"
+    },
+    {
+      "start": 1229.2,
+      "end": 1255.9,
+      "text": "In this ad and in all the ones that we write for Grazi and going forwards, we're selling more of emotions, identity, their desires. We're not just selling our actual product in this ad. Now to kind of recap things and show you exactly how I would take this and use this into a winning ad structure for a different brand or just universally if I were to do this across any other brand, my own ones, things like that. Start with introducing."
+    },
+    {
+      "start": 1255.9,
+      "end": 1282.96,
+      "text": "the authority that works for the specific audience that you're targeting you're going to call out the target audience's desire and then you're going to explain how they can get that desire without pain point so if you want to get a hook that reaches 46 percent and targets very very well you start up with an authority that your audience can relate to and sees an authority not just random one one that your audience picks as an authority two you're going to want to call it that target audience's desire"
+    },
+    {
+      "start": 1283.18,
+      "end": 1313.22,
+      "text": "And then you're going to want to create juxtaposition by saying you can get this desire without the linked pain points that they have associated in their head. Everything has to be based on the customer, not what you think, what the customer actually tells you or the desires, the pain points they link, etc. Then what I would do in the second line is I would introduce the new mechanism and use storytelling to do so. In the line after that, I would explain the unique mechanism and connect it to something that the audience can relate to. In this case, it's zero sugar."
+    },
+    {
+      "start": 1313.22,
+      "end": 1341.57,
+      "text": "in your case figure out with something that's very easily understandable or relatable and try and find a way you can introduce this new mechanism this new concept with something they already understand that's also a really good way to teach somebody anything is by relating something new with something they already understand and kind of connecting them together then what i would do in the next line is introduce my brand not in a way of oh this is me this is my brand using the way that this buyer goes about market sophistication and their whole research process"
+    },
+    {
+      "start": 1341.57,
+      "end": 1368.3,
+      "text": "of finding and learning about new products and introducing the brand in a way that feels like a friend told me something or it's part of the story then i'd go ahead and plug the unique mechanisms and basically describe why my product is the exact match to the desires that they had currently remember always linking the desire back to the product or what we're talking about then i would go ahead and use the so that principle for the rest of my ed to explain why the things"
+    },
+    {
+      "start": 1368.3,
+      "end": 1396.14,
+      "text": "the unique mechanisms and the features of my product are going to tie back to their desire, what it looks like in real life experiences and what it looks like in real time. Then I would finish off with a part of emotional and identity attachment to the actual experiences and so that principle they get from the product. It's kind of putting everything together, showing you an ad that spent six figures, pulling apart the structure of why it actually worked, how you guys can use it for yourself."
+    },
+    {
+      "start": 1396.27,
+      "end": 1413.01,
+      "text": "Now I want to see you guys actually go take the structure and make some winning ads. And if you can just post in the school, DM me, be like, hey, I use that exact structure and I got an ad to spend X amount of dollars. I would love to see it. I want to see you guys actually use this and not just take in the information. So yeah, let's move on to the next one."
+    }
+  ]
+}

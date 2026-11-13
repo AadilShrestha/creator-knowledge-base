@@ -1,0 +1,15 @@
+1
+00:00:00,140 --> 00:00:27,010
+Okay, this step is the easiest one. So it's just generating the actual voiceover. Okay, this step is the easiest. It's just generating the voiceover. So you can see here I have my script. I'm going to just copy it. And I'm going to go to 11 labs. And I quite like coming up with new voices. But, you know, you can just explore different voices that exist and you can choose them. Obviously, you want to match your...
+
+2
+00:00:27,010 --> 00:00:57,250
+demographic and who you're speaking to in my case i'm doing a bit of like a story so i'm gonna just do a voice design something like a male american voice in his 40s very assertive but story-like and we'll just go with that and see what happens sometimes it's hit and miss sometimes you have to do a few changes but i quite like doing this just because it gives me something new and something fresh all right so picture this i was out there all right so picture this
+
+3
+00:00:57,250 --> 00:01:27,340
+I was out there, right in the middle of it all. All right, so picture... He does sound a bit too professional and too AI-like, so I'm going to go with casual conversation tone. He speaks like he just discovered something cool, but not over the top. Very realistic. Hey, check this out. So I was messing around with that new app, right? Hey, check this out. So I was messing around with that new app, right? I quite like this one. I'm going to click generate speech. I'm going to paste my script.
+
+4
+00:01:27,340 --> 00:01:54,840
+And you can click the enhance. So thought for what would happen day one. Excited, surprised, triumphant, happy, proud. Yeah. So let's give that a go. Generate speech. What happens if you join Ad Creators Lab for the next 30 days? Day one. Learn the frameworks to create winning animated and AIUGC ads. Cool. I'm going to download that. Now we have our voice. Obviously, you want to just check everything sounds good. Your brand is pronounced correctly. And we can go.

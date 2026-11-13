@@ -1,0 +1,23 @@
+{
+  "source_file": "6. 👆 Want to upgrade.mp4",
+  "source_id": "mega:5Y1lhJKB:pQkwlQ4I",
+  "source_sha256": "e76687151d07a121730d5ee8a954323ba65d61d03e035ce23366a8e7da85111e",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 30.21,
+  "last_segment_end": 30.21,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 29.3,
+      "text": "hey so if you joined in our standard tier and you want to upgrade to our premium or vip tier the way it works is if you go to the main school page you're going to see a big yellow button right there that says upgrade or there'll be a link down below here now bear in mind when you go to upgrade if you've just joined and you decide to upgrade and you've just paid you're only going to pay the difference of what it says there there's a little piece of text at the bottom i don't think school makes it very clear but you'll only be paid the difference if something goes wrong just shoot me a message and i'll send you a refund if"
+    },
+    {
+      "start": 29.3,
+      "end": 30.21,
+      "text": "it doesn't work out for you."
+    }
+  ]
+}

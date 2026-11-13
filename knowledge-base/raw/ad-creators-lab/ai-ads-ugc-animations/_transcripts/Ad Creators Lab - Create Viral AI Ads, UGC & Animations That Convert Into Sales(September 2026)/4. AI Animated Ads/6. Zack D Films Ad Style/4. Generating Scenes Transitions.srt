@@ -1,0 +1,19 @@
+1
+00:00:00,110 --> 00:00:25,680
+So the typical process of how you transition from scenes is once you have generated a start scene and an end scene, you are then going to want to generate the next scene that it's going to transition to naturally. So in this case, I'm going to have a girl who's drinking the juice from the fruit. And so I give it the prompt that I ask the GPT to generate. So I basically ask it to...
+
+2
+00:00:25,680 --> 00:00:55,490
+saying something like can the next image after the cantaloupe open be a woman drinking the juice and it gives me a prompt to actually make and then that's what we put here so then it goes okay well i need the woman to now kind of you know she's starting to drink but now she needs to finish her drink so all i have to do is just drag her in here or i can click the three dots and do generate variation and i just i can just say make the woman look like she's drinking the juice so the juice touching her lips and the level empty so it's just you just have to describe what the next stage is going to be
+
+3
+00:00:55,490 --> 00:01:24,560
+and for here the next stage is going to be camera goes down to her thighs to show that how it can affect your skin so i can do something like using the same woman show a shot of her thigh skin the shot is a close-up and if i just go back to my and you can visibly see the texture now we see the text you can see the texture on her skin which is perfect so now we can actually transition to these by
+
+4
+00:01:24,560 --> 00:01:58,290
+going from this image here go to generate video we do seed dance and now we're gonna add the other image which was the image of her drinking and we do smooth sciencey transition where the juice from the fruit goes down to fill her glass and then we see how that goes and here is a result perfect and we're gonna see you're gonna start creating scenes that are gonna go from section to section and then you're basically just piecing together
+
+5
+00:01:58,350 --> 00:02:03,200
+smooth transitions from scenes to scenes that you're going to use in your final video.

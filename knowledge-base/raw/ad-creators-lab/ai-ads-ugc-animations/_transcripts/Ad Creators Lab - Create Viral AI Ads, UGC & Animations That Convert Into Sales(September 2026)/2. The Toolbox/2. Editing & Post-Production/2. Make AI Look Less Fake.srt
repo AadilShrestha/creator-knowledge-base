@@ -1,0 +1,31 @@
+1
+00:00:00,020 --> 00:00:30,930
+Alright guys, so in this video I'm going to show you how you can go from having an AI video that looks like this, where it looks very AI-y, to looking like this, so you can see. Your dad already has everything, and you never know what to give him. Watch this video. Right, so what we did there, we also did it later in this video.
+
+2
+00:00:32,050 --> 00:01:01,730
+here where originally this is what the footage looked like right out of the software and this is what it looks like after so it looks a lot more like it's some kind of iphone footage as opposed to looking super high res and whatnot so super easy how we do it i'm gonna just replicate this one here i'm gonna do it all right so here's the video and as you can see it looks pretty ai so like we want to make it look like this which is the original kind of footage in fact
+
+3
+00:01:01,730 --> 00:01:31,020
+We have a shot, I believe it was like that before. You see how it looks pretty organic. So how do we do it? So first thing we're going to do is we're going to fix the colors. So I'm going to go to Lumetri Color. And the first thing I'm going to do is I'm going to just drop the contrast completely like this. You see when we drop the contrast to nothing, it starts to look less like a high produced video. And right off the bat, it looks a lot better. Typically, a lot of like AI shots come with like really high contrast, which doesn't look nice.
+
+4
+00:01:31,020 --> 00:02:00,130
+So we drop the contrast, drop the saturation just slightly. And then one thing you can do is you can increase the highlights. Look a little bit blown out if you wanted to. Not necessary, but this is before and this is after now. Then we can go to the creative tab. And this obviously applies to whatever editor you're using. And you want to look for something that's sharpened. And you want to just decrease the sharpness. Just decrease it. You don't want it to be too sharp. You want to just drop it. Drop it to like 12 here.
+
+5
+00:02:00,130 --> 00:02:28,290
+And then something else I like to add is faded film. If you go fully up, you can see what it does. It raises all the blacks. So I just kind of like increase the faded film a little bit. And just like that, we have the video looking a lot better. This is before. Okay. This is after. Now, one thing I like to add, I've been adding recently a lot, is wiggle. So if you search wiggle on Premiere Pro, you should have this. Impact motion effects wiggle. If you just throw it in.
+
+6
+00:02:28,290 --> 00:02:55,540
+You get these crazy things a bit much. So I want to go to effects. I'm going to go to where it says motion range. I put 1% and 1% on the horizontal and vertical range. On the scale, I can do 1,100. Sorry, 110. My bad. And you can see we get something like this. A bit much actually. 105.
+
+7
+00:02:57,460 --> 00:03:26,320
+Okay, and then we can just reduce the speed to like 30% instead of 38. And you can see it looks like someone's holding it on their phone, which is nice. You can make the complexity a bit more complex. You can raise the vertical range to like 3 if you wanted to. Because people typically hold their phone and they kind of wobble a little bit like this. So yeah, I did that throughout this video. You can see, especially here.
+
+8
+00:03:26,860 --> 00:03:49,780
+like it looks a little like it's like a shot on a camera same thing here because before there was none of the movement so it was just static which looked a bit weird so when you add the movement it really helps and same thing here i will just basically drop the contrast there's not a lot of contrast there anyway but i'll just drop it even more and yeah that's how you help make your ai shots not look so much like ai

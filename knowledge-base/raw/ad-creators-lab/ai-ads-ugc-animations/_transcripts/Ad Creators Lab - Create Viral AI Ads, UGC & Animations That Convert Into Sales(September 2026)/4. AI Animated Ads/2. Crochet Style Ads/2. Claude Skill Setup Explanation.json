@@ -1,0 +1,33 @@
+{
+  "source_file": "2. Claude Skill Setup Explanation.mp4",
+  "source_id": "mega:5Y1lhJKB:dB8wyYSI",
+  "source_sha256": "edb0d153067227a194a86dded11adde09f0bcc2dd6ac3baa133a1c114c720a75",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 91.78,
+  "last_segment_end": 91.78,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 20.56,
+      "text": "Okay, this is the ad we're going to be making today. So this is a combination of two types of frameworks. That's the rap singing framework using Suno, which I'm going to go over in a separate part, and also the crochet framework or the felt."
+    },
+    {
+      "start": 20.56,
+      "end": 45.12,
+      "text": "Whichever way you want to call it. I like to call it the crochet one or the knit, the knit one. And the way that it works is that we start with an instructions document where you create the prompts for the character and also a second visualization prompt which is from a Claude skill that I have linked down below. Now what this Claude skill does is it allows you to give it a specific script or specific rap or a song."
+    },
+    {
+      "start": 45.12,
+      "end": 74.86,
+      "text": "And it's going to split it up line by line and give you visual suggestions that you can then turn into the AI. Because some of you guys come to me and say, oh, Camillo, I don't know how to turn a line into a visual. This is going to help you get that closer because it's based on visuals that we have used before. It's trained on what's going to make something catch the eyes, bring someone closer to the story, make it make sense. And you can also play around with the AI to get the best results."
+    },
+    {
+      "start": 74.86,
+      "end": 91.78,
+      "text": "And I'm going to show you that live today. So let's get on it. One thing is that this is a step-by-step workflow. We're going to start with your script, which is basically your ad copy. Down below, I have two examples of ads that we're going to go through. So let's go and find that copy."
+    }
+  ]
+}

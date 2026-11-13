@@ -1,0 +1,28 @@
+{
+  "source_file": "Generate human-sounding AI voice overs - AI UGC Ad Creators Lab.mp4",
+  "source_id": "mega:5Y1lhJKB:EE1CWYrI",
+  "source_sha256": "6aa66ec47ca5c83a510f8db5e66498b0cecd892f57762ae3ba5ee88e132b1816",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 102.25,
+  "last_segment_end": 102.03,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 25.33,
+      "text": "All right, so we're in archives right now and we're going to go to see more and there's a new version called fashion. So I'm going to click here and you can select different creators as like the base model. So I'm going to go for this one here, click remix, and then I'm going to upload the clothing. So there's someone in this community that has some really cool clothing. I'm going to find theirs."
+    },
+    {
+      "start": 25.33,
+      "end": 64.11,
+      "text": "It's a very simple drag and drop. Then you increase the variation so that you have a lot of variations. That's what I did here. And as you can see, you get a lot of cool variations. So this is the first one. Now, bear in mind, you are always going to want to edit this and you're going to want to have your team or if you want to do it, just kind of cut only the good bits because not everything will be perfect. But you can see. And that's without really giving it any instructions. It's just that creator. This was a bit too AI."
+    },
+    {
+      "start": 77.52,
+      "end": 102.03,
+      "text": "This is a bit too sped up, not so good. Oh, that's interesting. So lots to play with here. So this will be like a good way for you to just kind of have a lot of different creator mashups if you wanted to for different clothing. But just to show you that, like you just do that with arcades and boom. And that's how you make multiple creators wear your fashion clothing."
+    }
+  ]
+}

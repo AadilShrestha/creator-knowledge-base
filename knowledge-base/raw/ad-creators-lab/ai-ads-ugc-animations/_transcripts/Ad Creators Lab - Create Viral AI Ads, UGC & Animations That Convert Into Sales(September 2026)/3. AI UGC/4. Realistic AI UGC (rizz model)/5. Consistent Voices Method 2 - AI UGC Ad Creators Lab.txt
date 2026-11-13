@@ -1,0 +1,11 @@
+[00:00:00] Okay, now I'm going to show you how to generate a voice clone if your video is less than 10 seconds long from Sora, because Sora creates 8 and 12 second videos. And you guys sometimes actually get a better result. Let me show you. So this is what the original one sounded like. My boyfriend just spent $300 on jewelry that I'm about to destroy. Okay, so that was a Sora video, but it's only 8 seconds, so I can't actually...
+
+[00:00:22] Clone it in Eleven Labs. So instead, what I did is I went to Eleven Labs and rather than clone a voice, I went to create a clone voice and I did voice design. So when I click voice design, it gives you basically a prompt. So essentially what I wanted to write here was a prompt to make a voice that sounded like my example. So if I listen to the voice. I just spent $300 on jewelry that I'm about to destroy. Okay, so she's American. She's young. She speaks quite fast. My friend just spent $300 on jewelry.
+
+[00:00:52] uh i'd say kind of soft-spoken um like rich background etc so i i basically created a prompt that was something like this gen z american female who speaks very fast because she has adhd comes from a wealthy background and i click generate voice okay and we can hear it now
+
+[00:01:15] My dad booked us this insane... So that's version one, we'll do version two. Okay, so like I literally just got back from Aspen and it was so good. And now let's actually compare it. My boyfriend just spent $300. Not too bad, not too bad. Essentially, I did this process with this creator. I found them, made the different changes until I heard one that sounded very similar. If you can't hear a difference, then it's perfect. Then you click select the voice, which is what I did here.
+
+[00:01:43] oh my god like literally i cannot even right now and then i essentially then went in to use this voice i put the script in i did enhance alpha and it gave me the voice that i got for the video so it sounded very natural it sounded like like legit it doesn't sound like a bot like you don't want you don't want anything to sound like a bot including the audio so i click generate speech and then once it generates i get an example okay so here's the deal
+
+[00:02:11] I have two sets of jewelry. That's how we get natural sounding voices.

@@ -1,0 +1,53 @@
+{
+  "source_file": "3. Scaling Your Business.mp4",
+  "source_id": "mega:5Y1lhJKB:JV8STYST",
+  "source_sha256": "bc583d97c820332be87ebec5c41dbfe42b0fae7ed8e690bee8b45c1ead5a9dbd",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 207.17,
+  "last_segment_end": 207.17,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 23.66,
+      "text": "all right so let's touch briefly if you are at that level at getting to more of these deals in a more consistent flow also known as scaling if you are at a place where you're getting one to three of these a month let's say it doesn't matter what your team looks like you're getting one to three of these deals consistently a month i would say you are ready"
+    },
+    {
+      "start": 23.86,
+      "end": 52.3,
+      "text": "to start to scale up from there. Scaling is very simple. I think a lot of people overcomplicate this way too much. Basically, what you need for scaling is the following. You need to systemize, right? You need to design processes, also known as SOP, standard operating procedures. Do more of the frequency of the action that got you the deals that's getting you the deals currently, the one to three in the first place."
+    },
+    {
+      "start": 52.3,
+      "end": 78.82,
+      "text": "So what does that mean? Well, if you are, and I'm just going to make some numbers up. If you're calling 50 people a day, every single day, five days a week, and you're making 20 offers a week, and that's yielding you one to three deals a month, then you need to know, well, how do I call a hundred people a day? Well, probably going to hire somebody to do that, right? So, okay, well, how do I train them? Well, train them on exactly what you did."
+    },
+    {
+      "start": 78.82,
+      "end": 104.94,
+      "text": "Give them a script and your SOP on, hey, here's what you do if a lead says this. Once the lead says this, hand it off to me and then I will show you how to do the underwriting portion and then we will schedule the notary and then we'll get the deed, right? So you're just increasing. Think of it like a volume knob. You are taking the volume from a level one to a level three and from three to a level five and from five to a level seven. So you're doing more of the activities, more frequency."
+    },
+    {
+      "start": 104.94,
+      "end": 132.64,
+      "text": "And you are getting more of the results. You're going to need to add team members that could be virtual assistants or that could be physical in-house team members. I recommend VAs. They're cost effective. They work harder than Americans. And it's a lot easier to source them. You're going to have to probably go through a bunch of them as you're scaling, hiring, firing, hiring, firing, training. So hire more than what you think you need because chances are most of them are not going to work out and you might have one or two gems."
+    },
+    {
+      "start": 132.64,
+      "end": 160.54,
+      "text": "out of a bigger data set of people. Once you do that and you systemize, you optimize, you scale, and you set up your systems and processes, then you just copy and paste and you start adding more and more to that layer. For example, marketing. Well, we're going to do X amount of marketing and that gave us Y result. Well, now we're going to do X amount of marketing up here and that's going to give us Y result bigger, right?"
+    },
+    {
+      "start": 160.54,
+      "end": 189.81,
+      "text": "Hey, on the sales side, well, if we did X with one rep or yourself, if you're a solo operator, which most of you probably are, then we're going to need two of us. Then we're going to need four of us. Then we're going to need six of us, right? Hey, what about the dispo side? Eventually, you're going to have to get a disposition agent or disposition person to sell these deals. They should all be going on the MLS, right? But you need systems. You need processes in order to do that systemize. So for the love of God, don't scale chaos."
+    },
+    {
+      "start": 189.81,
+      "end": 207.17,
+      "text": "If you are not systemized, if you're not processed, you know, driven, it's going to be very difficult for you to scale. And if you're not willing to continue to reinvest in your team and yourself, impossible to scale. You'll just scale, break, scale, break, scale, break, and keep coming back down."
+    }
+  ]
+}

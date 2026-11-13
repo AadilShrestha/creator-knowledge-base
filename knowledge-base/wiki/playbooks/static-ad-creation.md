@@ -121,6 +121,7 @@ updated: 2026-10-20
 [Playbooks hub](README.md) · [Angle remix](angle-remix.md) · [UGC script writing](ugc-script-writing.md) · [Test and iterate](test-and-iterate.md) · [Salience bias](../concepts/heuristics/salience-bias.md) · [Von Restorff effect](../concepts/heuristics/von-restorff-effect.md) · [Processing fluency](../concepts/heuristics/processing-fluency.md) · [Cognitive load](../concepts/heuristics/cognitive-load.md) · [Hero-image ↔ copy congruence](../concepts/hero-image-copy-congruence.md) · [High Camp Flasks](../brands/high-camp-flasks.md) · [Rewrites library](../libraries/rewrites.md)
 
 ## In other courses
+- Ad Creators Lab: [static ads process](../courses/ad-creators-lab/ai-ads-ugc-animations/frameworks/static-ads-process.md) (research → angle bank → headline bank → template → AI product image) and [static rewrite moves](../courses/ad-creators-lab/ai-ads-ugc-animations/frameworks/static-rewrite-moves.md) (21 fix moves with before → after). The course allows 6–10-word headlines and a five-call-out "brochure" layout and invents proof in some "after" examples; this playbook's limits (X23) stay the default ([AC2](../contradictions.md)).
 - Evolve Start Here: [Execution checklist (the 13 execution checks, strategy-vs-execution test, benchmarks, retest limits)](../courses/evolve/start-here/rubrics/execution-checklist.md): 13 execution checks
 
 Which page owns the topic: [topic map](../topic-map.md).

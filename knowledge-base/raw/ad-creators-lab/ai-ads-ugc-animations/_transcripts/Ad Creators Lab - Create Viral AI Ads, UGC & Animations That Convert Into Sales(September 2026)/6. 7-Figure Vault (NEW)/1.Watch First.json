@@ -1,0 +1,33 @@
+{
+  "source_file": "1.Watch First.mp4",
+  "source_id": "mega:5Y1lhJKB:FZlSwIqD",
+  "source_sha256": "dd5b63ebbf855ac816e790daf2ab3d4ce6c85c60502adc7f54e7ac507a2f6e55",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 96.25,
+  "last_segment_end": 96.25,
+  "segments": [
+    {
+      "start": 0.02,
+      "end": 27.81,
+      "text": "All right, welcome to 7 Figure Vault. In this vault, myself and the creative strategists at Epic Ads Lab are going to break down some of the best ads we have made for brands that are spending over a million dollars a year on ads. Some of them doing a million dollars a month on ads. Now, the goal with this is to show you guys a bit more in-depth into the creative strategy."
+    },
+    {
+      "start": 27.81,
+      "end": 49.98,
+      "text": "aspects of making ads so some of these videos are like 24 minutes long some of them are very in-depth really going line by line through every ad this is more of an advanced thing if you've if you're right at the beginning stages definitely watch it you know maybe watch your eating or something um but also study it also look at how we talk about the ads that we're making"
+    },
+    {
+      "start": 49.98,
+      "end": 78.8,
+      "text": "And the goal here is to show you what is possible with some accounts at some scales. So what I want you to do is kind of think bigger. Like if this is your own brand, I want you to think how big things can get. What would I add that does $125,000 or 2.24 ROAS do for your business, for your life? If so, you want to study the ones that we are making. So hopefully you can get similar results. Each one comes with a document. There'll be more coming."
+    },
+    {
+      "start": 78.8,
+      "end": 96.25,
+      "text": "unlock these from our brands and we get the permissions to share them but i'm very excited for this we're very very passionate about documenting these things and showing you and kind of sending the elevator back down to you guys so i hope you enjoy this module and let me know what you guys think in the community"
+    }
+  ]
+}

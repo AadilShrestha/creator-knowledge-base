@@ -1,0 +1,23 @@
+{
+  "source_file": "3. Market Awareness Ad Examples.mp4",
+  "source_id": "mega:5Y1lhJKB:QBsQESxD",
+  "source_sha256": "de955ae3849f597140a3fd351344a1b8ada8037217c7215441983d243268e2d7",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 37.13,
+  "last_segment_end": 37.13,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 28.22,
+      "text": "Let me show you what that looks like in practice with different ad creatives. So for example, in the unaware stage, you might make an ad that looks like this. Scientists discovered this in 1973, but nobody told me that it was a natural way to combat aging until now. Do you ever just ask yourself, how on earth can I go to work, have a social life, eat well and stay active? That has different stats and asks questions. Or in the problem aware stage, you might make an ad that looks like this. For the solution aware stage, you might make an ad that looks like this."
+    },
+    {
+      "start": 28.22,
+      "end": 37.13,
+      "text": "For the product-aware stage, you might make an us versus them. And for the most-aware stage, you might do something like a golden nugget review where you're using social proof."
+    }
+  ]
+}

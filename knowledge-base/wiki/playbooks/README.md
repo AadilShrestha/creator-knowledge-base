@@ -105,6 +105,16 @@ Course-local playbooks from [RMBC II](../courses/stefan-georgi/rmbc-ii/README.md
 
 Which course owns which step when several cover it: [topic map](../topic-map.md).
 
+## Ad Creators Lab playbooks (AI production)
+Course-local playbooks from [Ad Creators Lab](../courses/ad-creators-lab/ai-ads-ugc-animations/README.md) (Epic Ads Lab): producing the ad with AI video, image and voice tools after the script exists. Many course examples use AI "customers", cloned voices or strangers' faces; every playbook runs the [AI creator compliance](../courses/ad-creators-lab/ai-ads-ugc-animations/concepts/ai-creator-compliance.md) gate.
+
+| Job | ACL playbook | Pairs with |
+|---|---|---|
+| Realistic AI UGC, AI podcast or street-interview ad | [produce-an-ai-ugc-ad](../courses/ad-creators-lab/ai-ads-ugc-animations/playbooks/produce-an-ai-ugc-ad.md) | [ugc-script-writing](ugc-script-writing.md), [creator-brief](creator-brief.md) |
+| Animated AI ad (skeleton, crochet, claymation, talking object, song) | [produce-an-animated-ai-ad](../courses/ad-creators-lab/ai-ads-ugc-animations/playbooks/produce-an-animated-ai-ad.md) | [AI song-ad pipeline demo](../resources/ai-song-ad-pipeline-loom.md) |
+| AI static ads | [make-ai-static-ads](../courses/ad-creators-lab/ai-ads-ugc-animations/playbooks/make-ai-static-ads.md) | [static-ad-creation](static-ad-creation.md) (its limits stay the default) |
+| Research → spend-ranked competitor ads → AI ad concepts | [research-to-ai-ad-concepts](../courses/ad-creators-lab/ai-ads-ugc-animations/playbooks/research-to-ai-ad-concepts.md) | [competitor-ad-teardown](competitor-ad-teardown.md), [angle-remix](angle-remix.md) |
+
 ## Hand-off artifacts
 | Artifact | ID pattern | Produced by | Consumed by | Template |
 |---|---|---|---|---|

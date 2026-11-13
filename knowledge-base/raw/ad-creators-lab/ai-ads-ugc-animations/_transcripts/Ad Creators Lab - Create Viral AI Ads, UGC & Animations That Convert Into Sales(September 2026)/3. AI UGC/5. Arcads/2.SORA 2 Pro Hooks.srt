@@ -1,0 +1,47 @@
+1
+00:00:00,000 --> 00:00:27,220
+Alright guys, let me show you how we can use Arkads and Sora to make ads that look like this. Okay, quick try on. I picked up this embroidered jacket and I'm obsessed. The colors, the little pot. Honestly, the past couple weeks have been a lot. My brain just... I know it literally looks real. Okay, TikTok made me buy this thing and honestly I didn't think I needed another vacuum. But look at this. It just eats the pet hair. Like, gone. I don't even have to go...
+
+2
+00:00:27,220 --> 00:00:51,180
+It's wild. It's not that difficult at all. You just have to be a bit careful with the prompting. So essentially, when you're on Arcad, you want to be using the video section, not the talking actor section. Talking actor section, you typically get, you know, those actors that look like AI. Instead, you want to go to the video section, Sora 2 Pro.
+
+3
+00:00:51,180 --> 00:01:22,460
+And then you see there's going to be a template section here. So select templates. Now, some of these templates are low-key fire. Looks legit. And it actually does work. I'll show you this one here as an example. So this was the exact template. I just told her what to say.
+
+4
+00:01:22,460 --> 00:01:51,980
+but I couldn't make it hold the product. So if you wanted to hold the product, you don't select a template. What you do instead is you add an image, a reference image of your product. So let's say in this case, I wanted to add like an aura ring like I did last time. And then the most important thing is the prompting itself. You have to create the scene as you want it to be shown. So you have to be very specific, but also not too specific, right? You don't have to go like full JSON prompt.
+
+5
+00:01:51,980 --> 00:02:17,360
+instead you're kind of going more of like here's the overall vibe that I'm going for and it typically does a good job so in my what you need to understand about Sora 2 is that Sora 2 is fed on the kind of content that people are actually watching right now so that's TikTok videos that's like viral content all of that stuff because that's Sora's way of making sure that the videos people make actually go viral so you will see in this one
+
+6
+00:02:18,350 --> 00:02:47,200
+Gen Z video that was made. Now, the key thing is that I made, I gave it the type of video to make. So I said, make a get ready with me type of video. Okay. You more do like an unboxing one or you do like a day in the life one, right? This is also a get ready with me type video. So get ready with me type videos. If you don't know, it's literally somebody.
+
+7
+00:02:47,200 --> 00:03:14,580
+doing like a vlog style of them getting ready uh this one here you can see the prompt of this one is uh making a tick tock may me buy it type video so this is a specific type of concept and i'll leave different concepts down below underneath so you can add them if you're doing an unboxing video like this one you see it starts off as an unboxing video so you have to give it the concept so let's say i'm gonna i'm not gonna do this aura ring
+
+8
+00:03:14,580 --> 00:03:46,000
+I will be doing a different one. Let's say these goalie ones. So you've got to pick the concept first from the research and the stuff that you see inside the course. But here you will do something along the lines of create a TikTok style FaceTime video that is authentic of somebody talking about their experience using these gummies. And then what we're going to do is actually give it some more information about it so that it has the context.
+
+9
+00:03:46,000 --> 00:04:11,380
+These gummies are by Goalie and they have ashwagandha in them. And it's typically very good for people who are very stressed out. Okay. And then you want to set the scene as well. So you want to give it like where you want it to be shot. So in this one, for example, I said a young fitness creator in his gym close filming in his kitchen before and after. And I also said, make the video.
+
+10
+00:04:11,380 --> 00:04:36,110
+uh have an upbeat tone and in different locations like doing squats and bench and you can see he does a bench and he does and he does a squat so it will do everything you tell it to do uh you just got to be very particular with it so here i want to say um i want her to do it maybe in the morning have morning energy and soft lighting as if it's 11 in the morning
+
+11
+00:04:36,910 --> 00:04:58,460
+And that's pretty much as far as I would go. If you need her to show the product on the screen or maybe only show the product towards the end of the video. And then that way, Sora can take the information and put it all together. So you are creating scenes, but you're not really being that crazy specific. This one here, I made it, I said here,
+
+12
+00:04:58,460 --> 00:05:23,950
+we want this to feel planned as if he had other people helping him and you can see you know it's like high quality um like yeah that's people been like filming him he has like going outside it's a little bit higher production because i wanted that like and i asked it like um like i i want it to be a bit higher production right so um yeah have fun with this link below to arcads uh if you want to use that link and yeah just have fun with it

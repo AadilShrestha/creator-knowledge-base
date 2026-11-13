@@ -173,4 +173,5 @@ You don't need these for a normal script. Use them for a specific question:
 - Claim check for a model-written draft: `knowledge-base/wiki/courses/stefan-georgi/rmbc-ii/rubrics/llm-output-claim-audit.md`
 - Pre-shoot execution checks: `knowledge-base/wiki/courses/evolve/start-here/rubrics/execution-checklist.md`
 - Creator hand-off: `knowledge-base/wiki/playbooks/creator-brief.md`
+- Script will be voiced or acted by an AI creator (Seedance, Sora, Arcads, ElevenLabs): produce it with `knowledge-base/wiki/courses/ad-creators-lab/ai-ads-ugc-animations/playbooks/produce-an-ai-ugc-ad.md`, and check `.../concepts/ai-creator-compliance.md` first (AI people never give testimonials or results; no real faces or cloned voices)
 - Niche examples: grep the `ad-teardowns.md` libraries (`knowledge-base/wiki/libraries/`, and `libraries/` under each course in `knowledge-base/wiki/courses/`) for the category

@@ -1,0 +1,28 @@
+{
+  "source_file": "4. For Poppy Users.mp4",
+  "source_id": "mega:5Y1lhJKB:sEl0xI7J",
+  "source_sha256": "45296fcf6bf4dc380515f5e2b3cab0f7cfd5faaac2852c427f63a93950c96ff0",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 84.22,
+  "last_segment_end": 83.82,
+  "segments": [
+    {
+      "start": 0.4,
+      "end": 28.83,
+      "text": "Okay, if you're a Puppy user, you're going to want to click below and download the SeedDance 2.0 skill for Puppy. This is it as a prompt. And then you also want to download your UGC script that you have, example down below. And then you're going to click chat. You're going to connect both of these to Puppy. And then here where it says the actual model, you want to make sure you include Opus 4.7. It's going to get you the best results. Then you're going to say execute the skill."
+    },
+    {
+      "start": 28.83,
+      "end": 57.94,
+      "text": "for this ugc script and then what it's going to do is follow the same principles as the other one so it's going to give you the director's brief it's going to find the pinterest uh references so for example this video is let's see kitchen counter woman sipping wine like let's look at this one if i click here on pinterest it's going to give me yeah the reference of wine"
+    },
+    {
+      "start": 57.94,
+      "end": 83.82,
+      "text": "It's also going to give me the references of the woman sipping the wine. So, for example, you can find the different shots here. I'll begin with finding the creator first. You just lock in that creator. And we're looking for realistic UGC. So there, just like the other one, you can find that realistic creator. It's shot on an iPhone. It looks like an iPhone. And it works perfectly."
+    }
+  ]
+}

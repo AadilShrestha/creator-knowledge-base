@@ -1,0 +1,63 @@
+{
+  "source_file": "6. Make AI Creators Talk - AI UGC Ad Creators Lab.mp4",
+  "source_id": "mega:5Y1lhJKB:8NlCkAhC",
+  "source_sha256": "8f39ed9e2fc7677cf7aba4e8bdf2d7af88591ff4df97f2a36d3d60d814f660df",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 265.02,
+  "last_segment_end": 264.69,
+  "segments": [
+    {
+      "start": 0.21,
+      "end": 23.7,
+      "text": "Okie dokie, now we're going to talk about how to generate talking avatars like this. I'm going to wear them both for one week straight and see which one survives. And like this. And like this. There's a reason hair growth companies don't use this ingredient."
+    },
+    {
+      "start": 23.7,
+      "end": 51.5,
+      "text": "having character consistency from our original Sora 2 Pro hook. Now, why are we doing this? Because once you generate a video with Sora 2 Pro, you cannot actually recreate this character. In fact, if I click here in videos, Sora 2 Pro, and I add an image that's a person and not just your product, it'll get flagged. There'll be a problem. And it won't load. So that's why we have to do it."
+    },
+    {
+      "start": 51.79,
+      "end": 71.95,
+      "text": "And it won't load. In fact, you will get basically an image like this. So what we have to do is essentially use another model, which is built into Max Fusion called Riz. Now, this is the biggest selling point for Riz. A lot of other AI engines don't have this thing. You have to go to like, hey, Jen, do a whole bunch of complicated stuff, which I don't have time for. And I think you don't have time for either."
+    },
+    {
+      "start": 71.95,
+      "end": 101.2,
+      "text": "Whereas with this, it's super easy. All I have to do is I have to go to images. I find the picture that I want to use. Let's say I'm going to make her talk from here. I'm going to click these three dots, generate video, and go to Riz. I can also save her as an actor and load her here. But you can see in Riz, now she's here. Now, if I click audio script, I click generate speech. Now, if I were you, I'd go watch the video about how to clone voices and or generate..."
+    },
+    {
+      "start": 101.2,
+      "end": 128.5,
+      "text": "expressive voices using 11 labs but Maxfusion is connected to 11 labs meaning that you can actually not only design a new voice but use the v3 alpha and also go to your voices that you have here so i'll be using the voice that i generated for this one which was oh my god which was this one oh my god like so now i'm going to go for the voice that i generated here which was this one oh my god like literally i can and i click confirm"
+    },
+    {
+      "start": 128.75,
+      "end": 157.55,
+      "text": "And then I basically just apply my script. So in this one, I'm going to wear them both for one week straight. And you can see these little things, they are actual expressions and emotional tags that you can add to this video, which comes from Eleven Labs. So essentially, okay, after one week, the expensive brace is already tarnishing. And you can see here, if I do add emotional tags, it's going to give us some cool stuff like curious tone, examining tone, disappointed tone. And if I click Generate..."
+    },
+    {
+      "start": 158.22,
+      "end": 187.14,
+      "text": "I'm going to wear them both for one week straight and see which one survives. Okay, so after one week, the expensive bracelet is already tarnishing. So it sounds really good. It sounds like a natural voiceover that somebody would use and say. So if I click save audio, all we have to do is if you want to give it emotions and gestures like expressive hands or whatever, I'm going to keep it pretty chill and I'm going to hit generate. So I confirm."
+    },
+    {
+      "start": 187.14,
+      "end": 217.39,
+      "text": "And that's it. By the way, the tokens depend a lot on the length of the video. Some longer videos take more tokens. Some shorter videos take less. For example, these ones here were like five or something. For example, these ones here were like five tokens or something. But now you can generate different varieties. You can see this one here. And you can generate ones like this. And it does sometimes mess up. So you have to kind of generate it again or maybe change the shots."
+    },
+    {
+      "start": 217.39,
+      "end": 247.57,
+      "text": "The most common thing I've noticed is that if you use an image where their mouth is open, like very open, it's hard for them to say the words like pieces or anything that begins with P. Whereas if you have the mouth that's closed, they can say the words pieces or like pretend. All those words that begin with P, much better. And so we just wait for that to generate. All right, so that's made. Let's have a look what that looks like. I'm going to wear them both."
+    },
+    {
+      "start": 247.57,
+      "end": 264.69,
+      "text": "for one week straight and see which one survives. Come on, that's fucking sick. So essentially, that's it. That's how you use Riz, do that many times, experiment, and you can just basically make anybody speak anything. It's super easy."
+    }
+  ]
+}

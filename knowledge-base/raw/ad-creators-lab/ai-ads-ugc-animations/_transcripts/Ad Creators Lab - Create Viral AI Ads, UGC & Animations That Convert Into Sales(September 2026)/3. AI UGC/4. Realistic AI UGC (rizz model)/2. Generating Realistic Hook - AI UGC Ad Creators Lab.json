@@ -1,0 +1,48 @@
+{
+  "source_file": "2. Generating Realistic Hook - AI UGC Ad Creators Lab.mp4",
+  "source_id": "mega:5Y1lhJKB:AM0kAa7K",
+  "source_sha256": "2ecaf0580cabf603ececbb224c9b04433546d6dec03c22502da3e451f55fc0cc",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 203.95,
+  "last_segment_end": 203.47,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 29.9,
+      "text": "All right. So what we do is we start with creating a Sora 2 Pro hook. So what is Sora 2? Sora 2 Pro is a model inside Max Fusion that allows you to make very high quality, really good looking UGC videos. You can see here's one of the first attempts. My boyfriend just spent $300 on jewelry. And you can see how simple the prompts are. Like attractive Gen Z blonde girl that's wearing a yellow builder's helmet. She's outside her house and a sunny den is holding a hammer. She looks at the camera and says my boyfriend just spent $300 on jewelry. One of the most important things though."
+    },
+    {
+      "start": 29.9,
+      "end": 58.05,
+      "text": "is what the video format is going to be the video is short on iphone as if it's for tick tock and you can see here when we do different ones girl that is like a selfie facetime video throw away all my lip kits for this one this selfie facetime video blonde gen's ego saying this right you have to say whether it's a facetime video a tick tock video get ready with me video because sora 2 pro model is trained on videos organically online that do very well"
+    },
+    {
+      "start": 58.05,
+      "end": 92.53,
+      "text": "And so if you don't use that thing, you're going to get really bad results. You're going to get really weird videos that might not look as good. I'll see if I can find some examples. You get really weird videos like these. And you don't want that, okay? So instead, when you do something like this, you get stuff like that as well. Or like this. So..."
+    },
+    {
+      "start": 92.53,
+      "end": 125.97,
+      "text": "One thing to take a note is sometimes you get this text. One thing to take a note is sometimes you get this text on top, which doesn't look good. So you've got to be careful with that. You might have to remove it using other software. If you want to remove subtitles, you can use this called Vmake. It's free for a very short video, so you can do that. And below, I have some prompts for you if you want to know how to generate."
+    },
+    {
+      "start": 125.97,
+      "end": 151.18,
+      "text": "very good looking sort of two videos. But essentially, once you have written this down, you can then add your product here by clicking down here, clicking upload image. You can select images that you have already generated. So you can actually generate an image of your product here and have them hold it or whatever. But I typically just add any product image, make sure there's no background as much as possible."
+    },
+    {
+      "start": 151.18,
+      "end": 174.03,
+      "text": "And then you can select the length, 12 seconds is usually great. It does take a little bit longer, but not that much. And 1080p and that's it. And then you just generate, you can generate many versions and then you should be sorted here. So that's how you generate the Sora 2 Pro video, but there is a problem. Once you generate this character."
+    },
+    {
+      "start": 174.03,
+      "end": 203.47,
+      "text": "You can't generate this person. But there is a problem. Once you generate this character, you can't generate them again. You can't use the same face even if you prompt it the same way. You can see these two videos have the same prompt. TikTok African. TikTok African lady. TikTok African lady. You're not allowed to recreate them. So how on earth were we able to recreate faces and have them speak? Well, I'm going to show you that in the next video."
+    }
+  ]
+}

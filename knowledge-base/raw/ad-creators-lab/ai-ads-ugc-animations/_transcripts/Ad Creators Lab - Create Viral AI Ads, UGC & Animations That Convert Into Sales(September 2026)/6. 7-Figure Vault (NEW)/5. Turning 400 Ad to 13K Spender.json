@@ -1,0 +1,138 @@
+{
+  "source_file": "5. Turning 400 Ad to 13K Spender.mp4",
+  "source_id": "mega:5Y1lhJKB:4Yk2WSDD",
+  "source_sha256": "505f6881b445915c6d1ed3a0d3cec5a21b7e3867c5e65ee1ee1536cf6cb95fc7",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 688.47,
+  "last_segment_end": 688.34,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 25.84,
+      "text": "Hey guys, it's Justin from Epic Ads Lab. I'm the head creative strategist, and this module is actually going to be a little bit different. So this is a winning ad breakdown, but I'm going to actually show you two ads that came from us. I actually wrote both of these ads. So this is from the Epic Ads agency, ones that I scripted, worked directly with the editor to produce, and we're going to show you two different variations. So this is the same concept."
+    },
+    {
+      "start": 25.84,
+      "end": 54.94,
+      "text": "The only difference is the hook copy and a little bit of the hook visuals. And I'm going to show you two completely different results. Now, what I'm going to do is we're going to have a game and you're going to guess. But first off, let me just show you the results to get you a little hyped up about this. So the blue is the one that we're highlighting here. So this is the winner. It spent $13,614 in purchase conversions. Some of you might be just looking at this and be like, oh, Justin, it's a 1.08 ROAS."
+    },
+    {
+      "start": 54.94,
+      "end": 74.27,
+      "text": "How is this even a winner, Ed? Who even are you? Are you a creative strategist? Yes. To all those answers, I understand this is a lower ROAS. For this client specifically, they work and operate very, very well with lower ROAS because they pay more for net new customers because they make it back in LTV."
+    },
+    {
+      "start": 74.27,
+      "end": 100.77,
+      "text": "and over the course of having them as a customer so a lot of supplement brands like this one that we've worked with usually go just about break even or negative on the first purchase which is what you're seeing here on this one we went slightly above break even and we determined that it's a winner on a lot of other things another thing was that this was a top spender in the account so this is the winner version of this ed and let me show you the loser version"
+    },
+    {
+      "start": 100.77,
+      "end": 130.27,
+      "text": "So the loser version here ended up spending only about $477. So this got enough spend that we were able to pull data and see how much this ad actually performed. So as you can see, it spent $477, had a 0.58 ROAS. Overall, this was a very, very bad ad. It flopped in terms of spend. This was towards the bottom of the account. The winner, on the other hand, was within the top five of the account."
+    },
+    {
+      "start": 130.27,
+      "end": 157.74,
+      "text": "and had sorry i think top six or seven whatever the case may be and it's at thirteen thousand six hundred dollars in spend what makes an ad have thirteen thousand six hundred dollars in spend or four hundred dollars in spend you guys are going to guess and then i'm going to go ahead and tell you which one won and then we'll go into the breakdown so let's start off with the game here is ad number one do you think this ad spent thirteen thousand six hundred dollars at a positive roas or was this the negative"
+    },
+    {
+      "start": 157.74,
+      "end": 183.07,
+      "text": "$477 at a negative ROAS. Boom. So that's the hook. We'll go into the full ad afterwards. Just guess out of the hooks. Boom. Time to guess. Cue the music. If you guessed this one, who would have guessed right that this is the loser?"
+    },
+    {
+      "start": 183.07,
+      "end": 210.86,
+      "text": "So let me actually play that hook for you. This compound will finally move your bench press PR again. So this compound will finally move your bench press PR again. Why is this a losing ad? Why did it not spend the $13,600? Because the customers cared more about this. That's as simple as it is. They really didn't care as much about the bench press being moved. They cared more."
+    },
+    {
+      "start": 210.9,
+      "end": 239.17,
+      "text": "about restoring their gains after 40. The type of copy, this is when I did the research into it, the customer language had me lead every version to this becoming the winner. And it made a lot more sense when I did these learnings, which is again, why it's very, very important. And I recommend anybody that's doing creative strategy or trying to figure out how to scale your brand, please, please review your losers. This is something I had no idea about until I took the time, saw that"
+    },
+    {
+      "start": 239.17,
+      "end": 268.77,
+      "text": "Two of the ads that I created, one was a variation, one was another variation, one spent significantly more money, and one spent a lot less. Why? Let me get actually into the breakdown here. So I have the copy breakdown. You're going to get the document in the bottom of the module. You can kind of see it. Unlike all the other winning ad breakdowns, I didn't go ahead and comment on a bunch of things. This one was a little bit more of my sloppy work, I guess you can call it, because I was doing it quick. This I did a while back."
+    },
+    {
+      "start": 268.77,
+      "end": 298.91,
+      "text": "But what I do want you to understand is that sloppy work usually has a lot of value in it. So I want you to realize that not everything has to look great. It doesn't have to look presentable. It just has to have good information. So let's go into the takeaway. So the winner, super low hook rate, 11%. Same with the loser, 12%. And actually had a higher hook rate and still lost. Why does that matter? Because the hook rate, the visuals, whatever they were seeing wasn't the greatest. We got 11% of people. But out of those 11% of people, the copy,"
+    },
+    {
+      "start": 298.91,
+      "end": 320.48,
+      "text": "resonated so much better words like growth factor resonated better with the audience will restart your gains after 40 that's specifically segmenting and targeting a pocket of the audience versus just saying this will increase your bench press or this will move your bench press having the words like growth factor versus compound"
+    },
+    {
+      "start": 320.48,
+      "end": 346.19,
+      "text": "is a big difference here same with restarting your gains after 40 and just moving the bench press restarting your gains after 40 is specifically calling out the avatar and it's also talking directly to their desire versus they might not care about the bench press but they do want to look checked again after 40. and what do they want to do it they want a growth factor not some random compound and like i said as you can see just based on the data we were able to very clearly pull this out"
+    },
+    {
+      "start": 346.19,
+      "end": 373.06,
+      "text": "So I put here, I think it worked better because the target avatar doesn't have the desire to move their bench press weight, like I just explained, but they do have the desire to look and be big, not just put up numbers. This is a very clear learning we can take. What could we do with this in the future? How would this help your brand if you were reviewing your own? What this does is this helps me understand. Now, when I go ahead and write a new ad or if I'm trying to iterate on this ad and make this a winner, I know that they don't care about numbers. They don't care about..."
+    },
+    {
+      "start": 373.06,
+      "end": 403.09,
+      "text": "let's call it the features they don't care if they can lift heavier they don't care at least this audience that we're targeting does not care about those things they care about looking bigger putting on muscle getting jacked after 40 having something that sounds more scientific like growth factor those are the things that resonate with this audience so if i were to go ahead and make an iteration i would not use any of the copy that i had here as you can see the visuals weren't that crazy different but the results were massively different on the loser"
+    },
+    {
+      "start": 403.09,
+      "end": 430.67,
+      "text": "What we should have done here is we should have actually shown a compound. If we're going to use the word compound, let's show a compound. Let's not start off and show them a product. That way they know they're already being sold. The word compound also sounds too much like steroids. It doesn't resonate with this audience. Like I said, I was the one who wrote it. So I did the research. I also understand the customer a lot more, which is why this makes more sense to me. But if you don't understand the audience and clearly you don't because you're not working with this brand or this client."
+    },
+    {
+      "start": 430.67,
+      "end": 456.56,
+      "text": "if you are just hit me up you know we'll work on some ads but long story short the word compound sounds too much like steroids which is the thing this client or this audience is trying to stray away from this product is supposed to be a legal version of quote unquote steroids we don't want steroids so because it sounds too much like it didn't end up resonating and i think the disconnect between this compound and showing a product immediately broke the belief that it will work from the start"
+    },
+    {
+      "start": 456.56,
+      "end": 483.9,
+      "text": "What does that mean? Because I'm saying this compound and I'm showing a product. I'm clearly not saying a compound. If you were to watch a video on Instagram and it talks about a compound and just shows your product, you're instantly leaving. You know you're being sold. But if I were to start, let's say, for example, and show something in the elemental table, if I were to show a powder and I said this compound, you're a lot more likely to pay attention because you think that we're actually talking about a compound here. Ultimately, the body cells, the body that I wrote."
+    },
+    {
+      "start": 483.9,
+      "end": 510.1,
+      "text": "sold very, very well. As you saw, it scaled to one of the top in the accounts. The hook was the major difference between add one and add two of why it works so well. The winner version only had a difference of a hook of three seconds, which took it to 13K spend versus $400. Three seconds, just keep that in mind. I'm emphasizing this because it's very important. Your hook, your headline, whatever the case may be."
+    },
+    {
+      "start": 510.1,
+      "end": 538.8,
+      "text": "is 90, I think they always says 80 to 90 cents of your advertising dollar, which basically means if your hook, your headline sucks, you're just spinning and throwing your money out the window. Nobody's going to get to the body. Nobody's, you could have the best copywriting in the world, but if they can't get past your first sentence, nobody's going to read your second. That's why it's so important. So another thing I analyzed here was both winner and loser had terrible hook rates of 11 to 12%, meaning we should have done an iteration on this exact body."
+    },
+    {
+      "start": 538.8,
+      "end": 564.16,
+      "text": "and only change the visual hook and your copy hooks to see if we can bump it up to 20 or 30 percent which would increase the performance significantly and could have been one of the top winners in the account if this is what we did at the time when we created these ads like i said feedback loops and learnings have to be done quickly on the time that you go ahead and get the data from the ads if you do this like a month or two months out like i did here like this is a mistake don't make my same mistake"
+    },
+    {
+      "start": 564.16,
+      "end": 629.07,
+      "text": "do this right away because we could have iterated, probably gotten a new winner into the account. If we bumped that 11% to 20 to 30%, that could have made all the difference. Now we're going to go ahead and play the winning ad one more time just so you can see the body. Like I said, it sold very well. You also have access to it in the actual document that we have in this module. But just so you can see everything coherently, here's the ad. Boom, that's the ad. Like I said, nothing spectacular, nothing amazing. The body."
+    },
+    {
+      "start": 629.07,
+      "end": 654.66,
+      "text": "All you like just so you kind of get an idea of how I actually went ahead and wrote this ad was this was also very early when I was newer to create a strategy and this still created a winner out of it. And now looking back, I just basically follow the research. I follow the things that we found from Reddit, things that we found from online. Use your research as your Bible when you're going ahead to create the ads. You know, you did it for a reason. Don't forget about it when you create the ads. Nine times out of ten, you're going to have."
+    },
+    {
+      "start": 654.66,
+      "end": 673.81,
+      "text": "body that works really really well this happened time and time again when i see ad accounts and we see ads do really well i take a look at the ones that win and the bodies are usually very very similar it's usually a very similar angle or similar reason why it won and a lot of times just switching out that hook or that way of getting people into the actual ad and boom you have another winner"
+    },
+    {
+      "start": 673.84,
+      "end": 688.34,
+      "text": "So hopefully this was interesting to you guys. You could see the difference between a winner and a loser and that should be able to clearly show you just the difference in three seconds of a hook and how that can have an impact on your ad. So hopefully this is helpful. Let's get into the next module."
+    }
+  ]
+}

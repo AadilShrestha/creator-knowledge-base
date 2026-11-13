@@ -36,3 +36,5 @@ Related diagnostics that work like rubrics: [valence-intensity diagnostic](../fr
 | [LLM output claim audit](../courses/stefan-georgi/rmbc-ii/rubrics/llm-output-claim-audit.md) | RMBC II | **every model-written draft**, whichever course's procedure produced it |
 | [VSL review](../courses/stefan-georgi/rmbc-ii/rubrics/vsl-review.md) | RMBC II | a VSL script before production |
 | [Funnel audit](../courses/stefan-georgi/rmbc-ii/rubrics/funnel-audit.md) | RMBC II | a funnel from ad to email: congruence, pages, checkout, economics |
+| [AI video QA checklist](../courses/ad-creators-lab/ai-ads-ugc-animations/rubrics/ai-video-qa-checklist.md) | Ad Creators Lab | **every AI-generated video ad** before publishing: hands, product, lip-sync, text, realism, safe zone, compliance |
+| [Ad roast scorecard](../courses/ad-creators-lab/ai-ads-ugc-animations/rubrics/ad-roast-scorecard.md) | Ad Creators Lab | a finished ad: hook, clarity, sells, execution (/20) + compliance line |

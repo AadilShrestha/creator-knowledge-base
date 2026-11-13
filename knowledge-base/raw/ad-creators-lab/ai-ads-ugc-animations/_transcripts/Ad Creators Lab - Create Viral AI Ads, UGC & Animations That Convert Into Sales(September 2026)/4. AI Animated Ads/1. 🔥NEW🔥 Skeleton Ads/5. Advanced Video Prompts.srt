@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:27,280
+Okay, I want to just show you in this video what could happen if you added a little few changes and use a little bit of your imagination. So I want to start with this scene here. This is the scene that I got for the end of the ad. It was supposed to be the call to action, here, join the community. But I thought in my head, it would be really cool if we can zoom out from this and we see this apartment or this office space and then we end up here. And I thought, okay, if I want to do this, I'm going to have to generate loads of images.
+
+2
+00:00:27,280 --> 00:00:57,170
+But I'm going to use the power of Seed Dance and a little bit of imagination to essentially write a prompt. And what I wrote here was very simple. It was just video starts inside a penthouse apartment full of boxes of products to sell with multiple Shopify awards and multiple desks with computers showing ads managers and Shopify making money. Camera zooms through the room and ends up with image one. And that's this one. And I use Seed Dance because Seed Dance is very good at taking ideas and concepts and direction and making it into a really cool video.
+
+3
+00:00:57,170 --> 00:01:08,110
+And so I did that, 7 seconds, 720p. And it's pretty cool. Like, I think it's...
+
+4
+00:01:08,110 --> 00:01:36,860
+super awesome another thing that i did was that the image that i got using the skill was this and this is for pov you feel like you find a 1000 a day ad but obviously the skill is not going to know what a good ad looks like it's not going to have that context and this might happen to you if you have let's say the somebody is drinking your drink and you want the product in the kitchen or next to them or you want a specific item of clothing that they're wearing it's not going to always get that from scratch so here's where you add an image
+
+5
+00:01:36,860 --> 00:02:05,780
+as a reference to this one to make it better so what i did here is i just found a screenshot of an ad and i wrote the prompt make the skeleton character hold up this vertical image i generated the image here and then in the video and i basically said skeleton holds up this plain video of a pixel woman and i did the same thing here where he was supposed to be reacting to a realistic ugc video so i found one replaced it and turned it into a video
+
+6
+00:02:06,160 --> 00:02:14,290
+And so yeah, just want to show you that you can use your imagination a little bit and it can take things really far So now let's get into putting the video together

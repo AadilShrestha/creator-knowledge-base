@@ -1,0 +1,58 @@
+{
+  "source_file": "1. Change Creators With AI.mp4",
+  "source_id": "mega:5Y1lhJKB:8VskRahL",
+  "source_sha256": "6815a44556148a5210ca4181405b50178ad9768a42e20a5d9532076a3e53bceb",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 200.27,
+  "last_segment_end": 200.27,
+  "segments": [
+    {
+      "start": 3.02,
+      "end": 29.78,
+      "text": "But what happens when you have an ad where somebody is talking like this one here? Boys, this is why you can't scale on meta. Pixar ads, claymation. Can you actually change this character to somebody else? Well, you actually can. The way you do it is very simply. You start by actually taking a screenshot of one of the frames of the creator, like this. And then you want to upload it into the image generator. Now, I like to use Nano Banana Pro as opposed to GPT Image 2. I know it's a..."
+    },
+    {
+      "start": 29.78,
+      "end": 59.46,
+      "text": "big hype right now with GPT Image 2. But in testing these, here are the results that I got. So you can see that this is kind of the result that I get here. Like it doesn't look too crazy, right? Here's another GPT Image 2 example. When I use Nano Banana Pro, you can see there is a certain consistency in the lighting in the image. It just looks more real. I mean, just compare that with that. Which one do you think looks more real? Personally, I think is this one. I think these things are very important to ensure that your ads look as real as possible."
+    },
+    {
+      "start": 59.46,
+      "end": 71.47,
+      "text": "And then here's another one with Nana Banana Pro. Nana Banana Pro just looks the most realistic in my opinion. So in terms of the prompt, it's very simple. I'll just do something like, you know, change his face, like this one here, replace the man."
+    },
+    {
+      "start": 71.47,
+      "end": 98.83,
+      "text": "for a different white attractive male, you can do Hispanic guy, you can do black male, etc. You can just change them. Once you have chosen the image that you like, all you have to do is go to Seed Dance 2.0, you go to the reference video section here, and you want to upload the video, same limitations, and then you want to upload the image so you can select the image of the new creator that you made. Now, very important that this creator looks in a very similar position. So, for example, this one would not work."
+    },
+    {
+      "start": 98.83,
+      "end": 126.21,
+      "text": "But this one here where the arm is the same as the original one will work. Same here, same here. And so what we're going to do is just select the actual image and I'll show you what the prompting looks like. It's super simple. What we do is replace the man in and you do at video one with the man in at image one. You keep the length one second above the length of the video. You hit generate and this is what it looks like. Pixar ads, Claymation, AI podcasts, Zack D, you name it."
+    },
+    {
+      "start": 126.21,
+      "end": 149.02,
+      "text": "Your audience pool gets larger as more people will buy because of different formats. Pixar ads, Claymation, AI podcasts, Zack D, you name it. It's just like the original version of the video. Now, the actual limitation here is females, mainly because when you put the video on Seed Dance, the voice isn't changing. It's actually really funny. I've got to show you this. Pixar ads."
+    },
+    {
+      "start": 149.02,
+      "end": 170.21,
+      "text": "claymation ai podcast i mean it looks great but she doesn't sound like a girl and that's with doing so many things like adding references in the image like this pixar ads claymation i tried that i tried prompting pixar ads now in terms of how we actually fix this is we go to replace voice and i can search a female hey there"
+    },
+    {
+      "start": 170.21,
+      "end": 199.65,
+      "text": "hey there but i don't like doing this i actually like generating my own voice i'm going to do design a new voice hey what's up everyone just chilling in my living room so i didn't click generate and once i do that you see it starts to generate and it doesn't take very long you see it's done xr ads claymation ai podcasts zack d you name it your audience pool gets larger as more people will buy because of different format done now you can actually change the voice"
+    },
+    {
+      "start": 199.65,
+      "end": 200.27,
+      "text": "which is really cool."
+    }
+  ]
+}

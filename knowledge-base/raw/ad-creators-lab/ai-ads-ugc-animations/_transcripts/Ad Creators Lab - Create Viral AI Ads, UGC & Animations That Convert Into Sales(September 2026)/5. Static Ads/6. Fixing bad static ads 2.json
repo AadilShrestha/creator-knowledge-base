@@ -1,0 +1,133 @@
+{
+  "source_file": "6. Fixing bad static ads 2.mp4",
+  "source_id": "mega:5Y1lhJKB:pNliQAwJ",
+  "source_sha256": "048efc9329517a3434988f373bd8d7dde20252a8f1176d3cae850377230e5d31",
+  "backend": "faster-whisper-cuda-int8_float16-batched12",
+  "model": "large-v3-turbo",
+  "requested_language": "en",
+  "machine_generated": true,
+  "duration_seconds": 573.44,
+  "last_segment_end": 573.44,
+  "segments": [
+    {
+      "start": 0.05,
+      "end": 25.02,
+      "text": "I think I just stumbled across some of the worst ads I've ever seen. And in this video, I'm going to show you how we can easily turn an ad from ass to cash in a few minutes. So with that being said, let us begin. So this is the first ad. Voted the best low-cost hearing aid on the market. 2022, 2023. Now you might look at this and go, I'm mad. But the problem is that this is a very selfish headline. Oh, it's about me. Voted the best. We're the best."
+    },
+    {
+      "start": 25.02,
+      "end": 52.99,
+      "text": "nobody cares nobody actually gives a damn that you're voted the best you need to make them care about you first before they care that you all voted the best someone needs to know what you do who you are and what why you're the best first before caring about the social proof and also the cta has like zero urgency 99 for a limited time anybody can say that when you're making ads try and think what can i say that nobody else can say that's something that you need to be thinking of when is this going to happen how many days and to be honest"
+    },
+    {
+      "start": 52.99,
+      "end": 78.29,
+      "text": "if you just left this here on the right that would be enough social proof paired with a good headline here so let me show you how we're actually going to fix this with the saucy ad so we start with hearing the birds outside without spending 5k wow why does this work you're pairing a desire with a reduced risk and that risk is spending five thousand dollars which is what a lot of people have to do to get this same result so instead you're saying you can get this without something powerful type of hook"
+    },
+    {
+      "start": 78.29,
+      "end": 104.56,
+      "text": "Then you're just showing the ranking, okay? Show, not tell. We don't have to tell them. No, just show the ranking. And then lastly, we're clearing out our last 200 pairs before summer ends. Grab your hearing aids whilst they're $99. And I'm also showing what the actual price is. Usually, this is not only a strong bottom of funnel conversion ad. It can help somebody who's on the fence between deciding whether they should get..."
+    },
+    {
+      "start": 104.56,
+      "end": 133.41,
+      "text": "some kind of surgery or some expensive buds or go with these ones and it also gives you a timeline so you go okay cool they're clearly trying to get rid of that 200 pairs let me go and see if there are some pairs left and so i just want to show you how easy it is to actually create ads like this all we had to do was change the headline and change the urgency and that's it it's going to perform a whole lot better but the next ad is something that i was shocked to see when i was searching i thought it was a prank i was looking for the cameras but in fact it's real and it's this ad here"
+    },
+    {
+      "start": 133.41,
+      "end": 162.86,
+      "text": "Yeti, come on, man. You can do a lot better than that. Bro, I actually flipped my MacBook when I saw this ad creative. Summer clearance sale, only $19.98. What am I supposed to feel here? And which of these is $19.98? Because surely this little one here and this one here are not both $19.98. Because right now, I don't really care about a summer sale until you make me care about a summer sale. I understand that this is meant to be a bottom-of-funnel ad. I understand this is an offer-based ad. I get it."
+    },
+    {
+      "start": 162.86,
+      "end": 192.11,
+      "text": "But it doesn't mean you have to put zero effort into your ad creative. You're actually just wasting money. You're giving Zuck free money. Zuck's there counting his keys. Just like this person really thinks it's going to do well. And even if this works, you can probably double your conversions in a very simple way. And I'm going to show you how with this juicy ad right here. Keep your beer ice cold for days and save over $200. Okay. Okay. I'm getting a picture in my head. Keep my beer nice and cold for a few days. So I have my desire. And we're going to save over $200. And now we're leaving."
+    },
+    {
+      "start": 192.11,
+      "end": 209.26,
+      "text": "Wow. That is how you find golden nugget testimonials that you can add in your ads to actually help them sell for you."
+    },
+    {
+      "start": 209.26,
+      "end": 238.54,
+      "text": "These are things people have said, use them. Some are clear out, grab your cooler for 1998 before there are now. And we're also showing the exact cooler that is 1998. So there's no ambiguity. You're telling me that if you, you right now watching this video, you saw this or you saw that, would you really click on this? If you did, just leave the video. Okay, so this ad right here, the actual headline is good. Okay, like check marks. It's actually a really good one. It's calling back to Muhammad Ali, float like a butterfly, sting like a bee. So for this kind of product, which is a"
+    },
+    {
+      "start": 238.54,
+      "end": 267.76,
+      "text": "honey pre-workout it works good job whoever did this the problem is that it's lazy because just that is not enough to make somebody go okay i'm gonna go because i want to float like a butterfly that's not how it works it will only work to those that understand the reference but not everybody will and also i had to zoom in here to know that this is supercharged honey if i'm seeing this on my phone you're not gonna see this until you zoom in on unless you read the text above so how can we actually make this ad better so that it points us to a desire and makes us want to get this thing i'll show you just you"
+    },
+    {
+      "start": 267.76,
+      "end": 296.35,
+      "text": "We start with the same headline. We haven't changed that. I think that's good. Good work from you guys. But we have changed the background. We have paired up a gym, a boxing gym with float like a butterfly. We have given benefits. Stay focused whilst training hard. Push harder with more endurance. Gentle on your stomach. Stay energized without crashing. Energize your inner athlete the natural way. And so what we have done is we have given so many benefits that make you go, oh, okay, this is interesting. And we have clearly shown supercharged honey in the middle."
+    },
+    {
+      "start": 296.35,
+      "end": 325.98,
+      "text": "so you can actually see it. Also, these things that we have found in our research were things that people wanted to know about it. Gentle on your stomach. Is this going to hurt my stomach? No, because when you have pre-workout, that's not gentle on your stomach. It actually makes you feel sick. Like, will this give me a crash? No, it won't. And it'll actually make me perform better. Super easy change. Drop a comment if you like this one better. But the next ad is something that a lot of dropshippers think is the right way to do ad creative. It's something that people will see one video about, oh, let's make this ad format, copy it. And this is kind of the mistake that happened. And that's by Photon."
+    },
+    {
+      "start": 325.98,
+      "end": 335.18,
+      "text": "pearl candle this is what i call a benefits or features benefits call outs where you basically put the product in and you have different call outs however the call outs are"
+    },
+    {
+      "start": 335.18,
+      "end": 358.78,
+      "text": "pretty bad eco-friendly reduces waste endless style options self-extinguishing what this person did is they took the product they turned it around and looked at the back and were like okay cool here are the things that this product does let's put them on the ad that's not how you sell somebody on something this is what i call a selfish ad i like the offer free shipping call to action is okay but the but this isn't very persuasive it's not making me the only thing that is good here is it"
+    },
+    {
+      "start": 358.78,
+      "end": 375.14,
+      "text": "you said self-extinguishing which is good i don't know that that's kind of cool but eco-friendly reduces waste these are things that are just overused and kind of not really gonna make somebody buy something so let me show you how we can fix this and how this will crush so we start with turn any container into your candle without wax mess what"
+    },
+    {
+      "start": 375.14,
+      "end": 404.5,
+      "text": "so you're telling me that this product here is something that you can turn any content i didn't know that i didn't know that because this ad didn't demonstrate it it didn't tell me that this is something that i could do and now i know and now that we have introduced the unique selling point of this product we can introduce the logo and then we can show the product and show the tech help protect the planet from waste you are now somebody who's helping protect the planet not just not just eco-friendly what does that mean no you're not going to associate yourself as"
+    },
+    {
+      "start": 404.5,
+      "end": 416.61,
+      "text": "Somebody who's helping the planet. Style your candle your way. So now I have, I can be creative and I can have my own say in how my candle's gonna look. That's really cool. Flame goes out if tipped over."
+    },
+    {
+      "start": 416.61,
+      "end": 443.12,
+      "text": "okay that's what self-extinguishing really means to be honest i thought self-extinguishing just meant that it turns off after a certain amount of time or something i don't know i'm not a candle expert breathe in paraffin free scents not toxins incredible incredible that this stuff was part of this product and i had no idea these are all painting a picture of what it's like to actually own this candle and then we're left with two testimonials right here social proof maxing not even need for a call to action in this app"
+    },
+    {
+      "start": 443.12,
+      "end": 472.4,
+      "text": "Because this is just somebody that I call it the brochure effect, where let's say you were really sick and somebody gave you a brochure and said, this is everything you have to do to feel better. Would you not read it? Even if it was very long and the text was tiny, you would read it. Of course you would. It's the same thing here. Now that I know I can turn any container into your candle without wax mess, of course, I'm going to read the rest of it. That is how we can very simply fix creative like this. Now, I really wanted to make this series entertaining and educational. And so I try my best to find the absolute."
+    },
+    {
+      "start": 472.4,
+      "end": 478.7,
+      "text": "worst ad creative i could and i think i have succeeded by finding this one here what is that what is it"
+    },
+    {
+      "start": 478.7,
+      "end": 508.24,
+      "text": "oh my days i just feel bad i just feel bad brightening toothpaste tabs this is an absolute crazy product if you're selling this i i'm so excited for you because it's trending and people love this stuff but this i can see that you're thinking that this is not good at all multi-pack savings is crazy buy more save more is crazy these pictures look like your cousin who just graduated from high school by doing one class on photoshop decided to do this for you for free these are all just like copy them"
+    },
+    {
+      "start": 508.24,
+      "end": 537.46,
+      "text": "pasted as well i don't even know what to say to this i i like you know that this is just not good there is zero source here this is this is too easy now this is too easy for me to fix there's no cost comparison like what are the savings what what even is this product like let me show you how we can actually turn this into a money printer from ass to cash so as a cosmetic dentist i recommend snow for its cleaner ingredients and proven results lead with social proof especially for a product like this where people may not have tried this and so they're a little bit unsure as to whether it's"
+    },
+    {
+      "start": 537.46,
+      "end": 550.19,
+      "text": "worth trying this at all they might be completely unaware about these products and so you need to sell with some social proof boom okay i i was very limited with the image so i'm sorry but get five for 76 no 39"
+    },
+    {
+      "start": 550.19,
+      "end": 573.44,
+      "text": "dollars and ten now i had very little to to go with here but this is what i thought would be a way easier low quality low effort ad that we could make and it is very simply social proof clear offer and then we have the product now if i was given more time some product images i could have done a little better maybe some before and after examples but this is just to show you how you can very easily take something that is complete ass to actually"
+    }
+  ]
+}
